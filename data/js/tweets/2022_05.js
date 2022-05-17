@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 08:58:54 +0000 2022",
+		"id": 1526473096575991800,
+		"id_str": "1526487412737572865",
+		"full_text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\"&lt;엘르&gt; 30주년, 그 여섯 번째 이슈\"💎 \n로제가 &lt;엘르&gt; 코리아의 30주년을 축하합니다. 6월호 커버 스타로 등장한 로제의 인터뷰와 화보, 그리고 유튜브 필름은 곧 공개될 예정! 🖤 https://t.co/LK3NmyfmJh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526472897501753300,
+					"id_str": "1526472897501753345",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526472897501753345/pu/img/mStJWcUFi9OOIOpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526472897501753345/pu/img/mStJWcUFi9OOIOpu.jpg",
+					"url": "https://t.co/LK3NmyfmJh",
+					"display_url": "pic.twitter.com/LK3NmyfmJh",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1526473096575991808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526472897501753300,
+					"id_str": "1526472897501753345",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526472897501753345/pu/img/mStJWcUFi9OOIOpu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526472897501753345/pu/img/mStJWcUFi9OOIOpu.jpg",
+					"url": "https://t.co/LK3NmyfmJh",
+					"display_url": "pic.twitter.com/LK3NmyfmJh",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1526473096575991808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15115,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526472897501753345/pu/vid/480x600/umzqc0EsZmJfyLN5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526472897501753345/pu/pl/tJ0A0TA08Xfefj6k.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526472897501753345/pu/vid/320x400/2T0rcSnWttp3K5qa.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526472897501753345/pu/vid/720x900/gItvsvCyCB_096py.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151081,
+			"friends_count": 3399,
+			"listed_count": 481,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1652667980",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2288,
+		"favorite_count": 3391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\"&lt;엘르&gt; 30주년, 그 여섯 번째 이슈\"💎 \n로제가 &lt;엘르&gt; 코리아의 30주년을 축하합니다. 6월호 커버 스타로 등장한 로제의 인터뷰와 화보, 그리고 유튜브 필름은 곧 공개될 예정! 🖤 https://t.co/LK3NmyfmJh"
+	},
+	{
+		"created_at": "Tue May 17 08:40:17 +0000 2022",
+		"id": 1526473622998913000,
+		"id_str": "1526482725896704001",
+		"full_text": "#퀸덤2 #이달의소녀 3차 경연 1R 댄스 유닛 '탐이 나' 연습 영상 바로 확인하기\n\n▶️ https://t.co/cPGjcY74gL\n\n#LOONA #QUEENDOM2 #퀸이나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "퀸이나",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPGjcY74gL",
+					"expanded_url": "https://youtu.be/JQYn6oViCxE",
+					"display_url": "youtu.be/JQYn6oViCxE",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899166,
+			"friends_count": 2,
+			"listed_count": 8617,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 912,
+		"favorite_count": 2256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 #이달의소녀 3차 경연 1R 댄스 유닛 '탐이 나' 연습 영상 바로 확인하기\n\n▶️ https://t.co/cPGjcY74gL\n\n#LOONA #QUEENDOM2 #퀸이나"
+	},
+	{
+		"created_at": "Tue May 17 08:40:10 +0000 2022",
+		"id": 1526472598346932200,
+		"id_str": "1526482696045830145",
+		"full_text": "[#퀸덤2] 3차 경연 1R &lt;댄스 유닛&gt; Practice Video 공개!\n\n📺 영상 보러가기\n유튜브▶️https://t.co/WeAY4nRlYZ\n네이버TV▶️https://t.co/2zsXhBdDbx\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/voueucb1fg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeAY4nRlYZ",
+					"expanded_url": "http://youtube.com/Mnet/",
+					"display_url": "youtube.com/Mnet/",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/2zsXhBdDbx",
+					"expanded_url": "http://tv.naver.com/cjenm.queendom2",
+					"display_url": "tv.naver.com/cjenm.queendom2",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526450708836663300,
+					"id_str": "1526450708836663301",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526450708836663301/img/fIwkrgzSHAhrkLow.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526450708836663301/img/fIwkrgzSHAhrkLow.jpg",
+					"url": "https://t.co/voueucb1fg",
+					"display_url": "pic.twitter.com/voueucb1fg",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526472598346932228/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526450708836663300,
+					"id_str": "1526450708836663301",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526450708836663301/img/fIwkrgzSHAhrkLow.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526450708836663301/img/fIwkrgzSHAhrkLow.jpg",
+					"url": "https://t.co/voueucb1fg",
+					"display_url": "pic.twitter.com/voueucb1fg",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526472598346932228/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3036,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1526450708836663301/pl/okBUdq2IqC9ROj5p.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526450708836663301/vid/320x320/KVhacrCfHqlv0Aav.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526450708836663301/vid/540x540/PAivyK1jYdUQ9Q_m.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526450708836663301/vid/720x720/Nf-RhfsJjhAnuS4x.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064115,
+			"friends_count": 20954,
+			"listed_count": 3015,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 1443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 3차 경연 1R &lt;댄스 유닛&gt; Practice Video 공개!\n\n📺 영상 보러가기\n유튜브▶️https://t.co/WeAY4nRlYZ\n네이버TV▶️https://t.co/2zsXhBdDbx\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/voueucb1fg"
+	},
+	{
 		"created_at": "Tue May 17 07:40:16 +0000 2022",
 		"id": 1526461509823393800,
 		"id_str": "1526467621738127360",
