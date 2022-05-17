@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 06:40:13 +0000 2022",
+		"id": 1526452454606479400,
+		"id_str": "1526452513326743552",
+		"full_text": "Keep shining bright, Santa Clara ♥️ PH https://t.co/TTO8ErZJsK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526452451129294800,
+					"id_str": "1526452451129294848",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8MarQWAAA5aT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8MarQWAAA5aT3.jpg",
+					"url": "https://t.co/TTO8ErZJsK",
+					"display_url": "pic.twitter.com/TTO8ErZJsK",
+					"expanded_url": "https://twitter.com/coldplay/status/1526452454606479363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526452451129294800,
+					"id_str": "1526452451129294848",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FS8MarQWAAA5aT3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS8MarQWAAA5aT3.jpg",
+					"url": "https://t.co/TTO8ErZJsK",
+					"display_url": "pic.twitter.com/TTO8ErZJsK",
+					"expanded_url": "https://twitter.com/coldplay/status/1526452454606479363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23610478,
+			"friends_count": 775,
+			"listed_count": 42533,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 1778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keep shining bright, Santa Clara ♥️ PH https://t.co/TTO8ErZJsK"
+	},
+	{
+		"created_at": "Tue May 17 06:40:09 +0000 2022",
+		"id": 1526442033887387600,
+		"id_str": "1526452496050290690",
+		"full_text": "[#퀸덤2] 머리부터 발끝까지 향긋~*✲ﾟ*｡퀸덤즈의 쿤달 사용기\n\nFull ver.▶ https://t.co/QS0lKF0iRv\n\n#쿤달 공식몰 단 4일간 1+1 세일!\n퀸덤즈 사용 제품👉https://t.co/v6dAleHB1q \n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #KUNDAL #엠넷 https://t.co/wDpQAxlcD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "쿤달",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "KUNDAL",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						203,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QS0lKF0iRv",
+					"expanded_url": "https://youtu.be/cMKyKG0buvM",
+					"display_url": "youtu.be/cMKyKG0buvM",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/v6dAleHB1q",
+					"expanded_url": "https://bit.ly/3FM1xmW",
+					"display_url": "bit.ly/3FM1xmW",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526378180751560700,
+					"id_str": "1526378180751560704",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7Jo_AacAAQ06h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7Jo_AacAAQ06h.jpg",
+					"url": "https://t.co/wDpQAxlcD4",
+					"display_url": "pic.twitter.com/wDpQAxlcD4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526442033887387649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526378180751560700,
+					"id_str": "1526378180751560704",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7Jo_AacAAQ06h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7Jo_AacAAQ06h.jpg",
+					"url": "https://t.co/wDpQAxlcD4",
+					"display_url": "pic.twitter.com/wDpQAxlcD4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526442033887387649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66032,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526378180751560704/vid/1280x720/mzFwcg0bKo9pmkOH.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1526378180751560704/pl/4UfA-gLhShCzW89S.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526378180751560704/vid/480x270/bW2WfiwyxwxwxND0.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526378180751560704/vid/640x360/pMj1RZKr99AVjnCg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064103,
+			"friends_count": 20954,
+			"listed_count": 3016,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1287,
+		"favorite_count": 4457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 머리부터 발끝까지 향긋~*✲ﾟ*｡퀸덤즈의 쿤달 사용기\n\nFull ver.▶ https://t.co/QS0lKF0iRv\n\n#쿤달 공식몰 단 4일간 1+1 세일!\n퀸덤즈 사용 제품👉https://t.co/v6dAleHB1q \n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #KUNDAL #엠넷 https://t.co/wDpQAxlcD4"
+	},
+	{
 		"created_at": "Tue May 17 05:24:48 +0000 2022",
 		"id": 1526424307815284700,
 		"id_str": "1526433533056536576",
