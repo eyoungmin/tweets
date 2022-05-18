@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 04:15:54 +0000 2022",
+		"id": 1526772084193390600,
+		"id_str": "1526778580289527810",
+		"full_text": "대체불가 걸그룹 소녀시대가 오는 8월, 완전체로 컴백한다. #소녀시대 #소녀시대컴백 \nhttps://t.co/yBedgoUvqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "소녀시대컴백",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBedgoUvqS",
+					"expanded_url": "https://www.wkorea.com/2022/05/18/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80-%EC%99%84%EC%A0%84%EC%B2%B4-%EC%BB%B4%EB%B0%B1-%EC%9E%84%EB%B0%95/?ddw=110841&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/05/18/%EC…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296109,
+			"friends_count": 0,
+			"listed_count": 821,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1651052006",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대체불가 걸그룹 소녀시대가 오는 8월, 완전체로 컴백한다. #소녀시대 #소녀시대컴백 \nhttps://t.co/yBedgoUvqS"
+	},
+	{
+		"created_at": "Wed May 18 03:59:07 +0000 2022",
+		"id": 1526759487050330000,
+		"id_str": "1526774357774569473",
+		"full_text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\n다시 돌아온 #엘르로제 의 6월호\n\n📸https://t.co/dElKsOxShz https://t.co/un1IFVLjsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "엘르로제",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dElKsOxShz",
+					"expanded_url": "http://bit.ly/37XIARK",
+					"display_url": "bit.ly/37XIARK",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526728216584474600,
+					"id_str": "1526728216584474624",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FTAHOVoVUAAPW8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTAHOVoVUAAPW8I.jpg",
+					"url": "https://t.co/un1IFVLjsw",
+					"display_url": "pic.twitter.com/un1IFVLjsw",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1526759487050330114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526728216584474600,
+					"id_str": "1526728216584474624",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FTAHOVoVUAAPW8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTAHOVoVUAAPW8I.jpg",
+					"url": "https://t.co/un1IFVLjsw",
+					"display_url": "pic.twitter.com/un1IFVLjsw",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1526759487050330114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 958,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526728216596975600,
+					"id_str": "1526728216596975616",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FTAHOVrUEAAmdzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTAHOVrUEAAmdzm.jpg",
+					"url": "https://t.co/un1IFVLjsw",
+					"display_url": "pic.twitter.com/un1IFVLjsw",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1526759487050330114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 746,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 966,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151141,
+			"friends_count": 3399,
+			"listed_count": 482,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1652667980",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1614,
+		"favorite_count": 3975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\n다시 돌아온 #엘르로제 의 6월호\n\n📸https://t.co/dElKsOxShz https://t.co/un1IFVLjsw"
+	},
+	{
 		"created_at": "Wed May 18 02:15:53 +0000 2022",
 		"id": 1526747589819117600,
 		"id_str": "1526748376838000641",
