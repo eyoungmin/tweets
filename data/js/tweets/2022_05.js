@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 12:01:59 +0000 2022",
+		"id": 1526891115344867300,
+		"id_str": "1526895874021814275",
+		"full_text": "[📻] 잠시 후 9시🕘\n블라블라 APP에서 LIVE 되는\n아이돌블라썸 시즌2에 청하가 출연합니다🎧\n\n수요일 밤, 청하와 함께 놀아요💚💙💜\n\n#청하 #CHUNGHA\n#블라블라 #blabla #아이돌블라썸 #idolblossom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "블라블라",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "blabla",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "아이돌블라썸",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "idolblossom",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346253,
+			"friends_count": 1,
+			"listed_count": 2129,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] 잠시 후 9시🕘\n블라블라 APP에서 LIVE 되는\n아이돌블라썸 시즌2에 청하가 출연합니다🎧\n\n수요일 밤, 청하와 함께 놀아요💚💙💜\n\n#청하 #CHUNGHA\n#블라블라 #blabla #아이돌블라썸 #idolblossom"
+	},
+	{
 		"created_at": "Wed May 18 10:40:10 +0000 2022",
 		"id": 1526865180734390300,
 		"id_str": "1526875283214704640",
