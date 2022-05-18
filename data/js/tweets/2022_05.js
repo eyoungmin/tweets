@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 16:22:30 +0000 2022",
+		"id": 1526956276525289500,
+		"id_str": "1526961437297414144",
+		"full_text": "Strangest night was born \nAnd carried away on a winter’s gust\nPlaced on the wings of a ghost like dove 🕊\nhttps://t.co/lKaDSSOpjO https://t.co/lO46eVs7sE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lKaDSSOpjO",
+					"expanded_url": "https://birdy.lnk.to/TaurusSongs/spotify",
+					"display_url": "birdy.lnk.to/TaurusSongs/sp…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526869795743883300,
+					"id_str": "1526869795743883271",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526869795743883271/img/-ZgnWeVQDCPDWO0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526869795743883271/img/-ZgnWeVQDCPDWO0l.jpg",
+					"url": "https://t.co/lO46eVs7sE",
+					"display_url": "pic.twitter.com/lO46eVs7sE",
+					"expanded_url": "https://twitter.com/birdy/status/1526956276525289473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526869795743883300,
+					"id_str": "1526869795743883271",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1526869795743883271/img/-ZgnWeVQDCPDWO0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1526869795743883271/img/-ZgnWeVQDCPDWO0l.jpg",
+					"url": "https://t.co/lO46eVs7sE",
+					"display_url": "pic.twitter.com/lO46eVs7sE",
+					"expanded_url": "https://twitter.com/birdy/status/1526956276525289473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 25640,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526869795743883271/vid/320x400/JIIa938FTIEWvHIG.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526869795743883271/vid/480x600/PMuj_hFFjxQGCxcn.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1526869795743883271/vid/720x900/64VFhLMsQxkwUPs4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1526869795743883271/pl/cxvb2Sl-hH7CCjQ2.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2023 european tour are on sale now ✨  \nhttps://t.co/AOWSyI9JYu",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311533,
+			"friends_count": 176,
+			"listed_count": 1178,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strangest night was born \nAnd carried away on a winter’s gust\nPlaced on the wings of a ghost like dove 🕊\nhttps://t.co/lKaDSSOpjO https://t.co/lO46eVs7sE"
+	},
+	{
 		"created_at": "Wed May 18 13:40:10 +0000 2022",
 		"id": 1526846724316156000,
 		"id_str": "1526920581815451649",
