@@ -1,6 +1,154 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 17:40:17 +0000 2022",
+		"id": 1526978590658613200,
+		"id_str": "1526981008444243971",
+		"full_text": "The incredible @thisissigrid joins The @RecordClubUK with @BowersWilkins to chat all about her new album 'How To Let Go'! ⚡️ Comment your questions below and they could be answered during the interview! https://t.co/qxTaL5iYWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "RecordClubUK",
+					"name": "The Record Club",
+					"id": 1258396834344599600,
+					"id_str": "1258396834344599555",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "BowersWilkins",
+					"name": "Bowers & Wilkins",
+					"id": 17896885,
+					"id_str": "17896885",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qxTaL5iYWe",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BRKjnXYwLVKw",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18937505,
+			"id_str": "18937505",
+			"name": "Official Charts",
+			"screen_name": "officialcharts",
+			"location": "London",
+			"description": "The UK's ✨ only ✨ Official Charts as heard on @BBCR1 every Friday | Be first to the charts, interviews and more exclusives 👉 https://t.co/JpOhwPxv8v 📧",
+			"url": "https://t.co/zaze6EQnDa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zaze6EQnDa",
+							"expanded_url": "http://www.officialcharts.com/",
+							"display_url": "officialcharts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JpOhwPxv8v",
+							"expanded_url": "http://bit.ly/2xJ3cIQ",
+							"display_url": "bit.ly/2xJ3cIQ",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315907,
+			"friends_count": 4070,
+			"listed_count": 1561,
+			"created_at": "Tue Jan 13 13:16:12 +0000 2009",
+			"favourites_count": 4859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0B6B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1514175567289016321/p3a0WjUZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514175567289016321/p3a0WjUZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937505/1651074413",
+			"profile_link_color": "00AFEF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E2DDDA",
+			"profile_text_color": "363639",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The incredible @thisissigrid joins The @RecordClubUK with @BowersWilkins to chat all about her new album 'How To Let Go'! ⚡️ Comment your questions below and they could be answered during the interview! https://t.co/qxTaL5iYWe"
+	},
+	{
 		"created_at": "Wed May 18 16:22:30 +0000 2022",
 		"id": 1526956276525289500,
 		"id_str": "1526961437297414144",
