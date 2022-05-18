@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 10:40:10 +0000 2022",
+		"id": 1526865180734390300,
+		"id_str": "1526875283214704640",
+		"full_text": "[#퀸덤2] QUEEN'S GALLERY 네번째 전시 OPEN🎉\n\n🔔네번째 전시\n3차 경연 1R &lt;포지션 유닛 대결&gt; 유닛별 1위 展\n\n2022.05.18 (수) - 05.25 (수)\n\n🖼️ https://t.co/HGetyyjJt9\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #퀸즈갤러리 #Mnet #엠넷 https://t.co/HILzXcwNKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "퀸즈갤러리",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGetyyjJt9",
+					"expanded_url": "https://bit.ly/Queensgallery4th",
+					"display_url": "bit.ly/Queensgallery4…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526854962369638400,
+					"id_str": "1526854962369638400",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FTB6f6eVsAA_uvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTB6f6eVsAA_uvt.jpg",
+					"url": "https://t.co/HILzXcwNKg",
+					"display_url": "pic.twitter.com/HILzXcwNKg",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526865180734390279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526854962369638400,
+					"id_str": "1526854962369638400",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FTB6f6eVsAA_uvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTB6f6eVsAA_uvt.jpg",
+					"url": "https://t.co/HILzXcwNKg",
+					"display_url": "pic.twitter.com/HILzXcwNKg",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526865180734390279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064038,
+			"friends_count": 20954,
+			"listed_count": 3017,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 1793,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S GALLERY 네번째 전시 OPEN🎉\n\n🔔네번째 전시\n3차 경연 1R &lt;포지션 유닛 대결&gt; 유닛별 1위 展\n\n2022.05.18 (수) - 05.25 (수)\n\n🖼️ https://t.co/HGetyyjJt9\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #퀸즈갤러리 #Mnet #엠넷 https://t.co/HILzXcwNKg"
+	},
+	{
 		"created_at": "Wed May 18 09:40:13 +0000 2022",
 		"id": 1526846300767010800,
 		"id_str": "1526860199474208769",
