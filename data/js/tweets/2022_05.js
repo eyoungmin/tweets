@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 08:40:13 +0000 2022",
+		"id": 1526836653968736300,
+		"id_str": "1526845096896909313",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 1R &lt;포지션 유닛 대결&gt; 비하인드 포토 바로 확인하기\n\n해와 달 ▶️ https://t.co/faQcxRM738\n퀸이 나 ▶️ https://t.co/dnBHB2T6AU\n\n#이달의소녀 #LOONA \n#QUEENDOM2 #해와달 #퀸이나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "해와달",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "퀸이나",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/faQcxRM738",
+					"expanded_url": "http://naver.me/Fijp8Q6p",
+					"display_url": "naver.me/Fijp8Q6p",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/dnBHB2T6AU",
+					"expanded_url": "http://naver.me/GMq8B5rO",
+					"display_url": "naver.me/GMq8B5rO",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899478,
+			"friends_count": 2,
+			"listed_count": 8612,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 514,
+		"favorite_count": 1701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 1R &lt;포지션 유닛 대결&gt; 비하인드 포토 바로 확인하기\n\n해와 달 ▶️ https://t.co/faQcxRM738\n퀸이 나 ▶️ https://t.co/dnBHB2T6AU\n\n#이달의소녀 #LOONA \n#QUEENDOM2 #해와달 #퀸이나"
+	},
+	{
+		"created_at": "Wed May 18 08:40:10 +0000 2022",
+		"id": 1526835065199571000,
+		"id_str": "1526845083785605120",
+		"full_text": "[#퀸덤2] 3차 경연 1R &lt;포지션 유닛 대결&gt; 비하인드 포토 공개 📷\n\n▶️ 비하인드 포토 확인하기 : https://t.co/HZQBmn2mXQ\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/mSlxL1lIGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HZQBmn2mXQ",
+					"expanded_url": "https://bit.ly/2WJwSSr",
+					"display_url": "bit.ly/2WJwSSr",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526824669201854500,
+					"id_str": "1526824669201854465",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBe8noUcAE1R99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBe8noUcAE1R99.jpg",
+					"url": "https://t.co/mSlxL1lIGk",
+					"display_url": "pic.twitter.com/mSlxL1lIGk",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526835065199570947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526824669201854500,
+					"id_str": "1526824669201854465",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBe8noUcAE1R99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBe8noUcAE1R99.jpg",
+					"url": "https://t.co/mSlxL1lIGk",
+					"display_url": "pic.twitter.com/mSlxL1lIGk",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526835065199570947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526824669201899500,
+					"id_str": "1526824669201899616",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBe8noVIGAqGZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBe8noVIGAqGZZ.jpg",
+					"url": "https://t.co/mSlxL1lIGk",
+					"display_url": "pic.twitter.com/mSlxL1lIGk",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526835065199570947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526824669206020000,
+					"id_str": "1526824669206020097",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBe8npUAAEvGua.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBe8npUAAEvGua.jpg",
+					"url": "https://t.co/mSlxL1lIGk",
+					"display_url": "pic.twitter.com/mSlxL1lIGk",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526835065199570947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526824669189247000,
+					"id_str": "1526824669189246983",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBe8nlUEAcuUjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBe8nlUEAcuUjp.jpg",
+					"url": "https://t.co/mSlxL1lIGk",
+					"display_url": "pic.twitter.com/mSlxL1lIGk",
+					"expanded_url": "https://twitter.com/MnetKR/status/1526835065199570947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064036,
+			"friends_count": 20954,
+			"listed_count": 3018,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 995,
+		"favorite_count": 3871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 3차 경연 1R &lt;포지션 유닛 대결&gt; 비하인드 포토 공개 📷\n\n▶️ 비하인드 포토 확인하기 : https://t.co/HZQBmn2mXQ\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/mSlxL1lIGk"
+	},
+	{
 		"created_at": "Wed May 18 06:22:22 +0000 2022",
 		"id": 1526804777820115000,
 		"id_str": "1526810405217087488",
