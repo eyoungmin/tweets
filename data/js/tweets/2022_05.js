@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 00:41:13 +0000 2022",
+		"id": 1527077807104270300,
+		"id_str": "1527086940268339200",
+		"full_text": "#제작지원 #폴로랄프로렌 과 함께한 배우 #정수정 의 화보를 선공개합니다. 그녀의 솔직하고 자신감 가득한 현재를 보여주는 순간들을 포착했습니다. 화보부터 인터뷰까지, 배우 정수정의 모든 것을 &lt;아레나&gt; 6월호에서 만나보세요!\n\n#JUNGSOOJUNG #KRYSTAL #PoloRalphLauren \nhttps://t.co/nILvIziOdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작지원",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "폴로랄프로렌",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "JUNGSOOJUNG",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "PoloRalphLauren",
+					"indices": [
+						155,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nILvIziOdW",
+					"expanded_url": "https://www.smlounge.co.kr/arena/article/51002",
+					"display_url": "smlounge.co.kr/arena/article/…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127117031,
+			"id_str": "127117031",
+			"name": "아레나옴므플러스코리아",
+			"screen_name": "arenahommeplus",
+			"location": "Seoul, Korea",
+			"description": "Arena Homme+ Korea\nMen's Fashion & lifestyle Magazine \nFashion & Style, Success, Beauty, Accessories, Car, Tech, Liquor and Party",
+			"url": "https://t.co/S1NqQ7ixBi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1NqQ7ixBi",
+							"expanded_url": "https://www.smlounge.co.kr/arena",
+							"display_url": "smlounge.co.kr/arena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21236,
+			"friends_count": 0,
+			"listed_count": 95,
+			"created_at": "Sun Mar 28 03:26:36 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127117031/1652919747",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작지원 #폴로랄프로렌 과 함께한 배우 #정수정 의 화보를 선공개합니다. 그녀의 솔직하고 자신감 가득한 현재를 보여주는 순간들을 포착했습니다. 화보부터 인터뷰까지, 배우 정수정의 모든 것을 &lt;아레나&gt; 6월호에서 만나보세요!\n\n#JUNGSOOJUNG #KRYSTAL #PoloRalphLauren \nhttps://t.co/nILvIziOdW"
+	},
+	{
 		"created_at": "Wed May 18 22:29:39 +0000 2022",
 		"id": 1527042310583685000,
 		"id_str": "1527053832055885825",
