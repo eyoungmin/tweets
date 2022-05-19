@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 11:40:10 +0000 2022",
+		"id": 1527241525725646800,
+		"id_str": "1527252770255929349",
+		"full_text": "🎬한국영화 '브로커' 송강호, 강동원, 이지은(IU), 이주영 배우와 함께하는 #트위터블루룸 #Ask_Broker @CJENMMOVIE @TwitterKorea @TwitterMovies💙#TwitterBlueroom LIVE Q&amp;A with Kmovie #Broker #SongKangHo #GangDongWon #LeeJiEun #LeeJooYoung\n\nhttps://t.co/SijrNdmNS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트위터블루룸",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "Ask_Broker",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"text": "Broker",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "SongKangHo",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "GangDongWon",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "LeeJiEun",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "LeeJooYoung",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CJENMMOVIE",
+					"name": "CJ ENM Movie",
+					"id": 452664114,
+					"id_str": "452664114",
+					"indices": [
+						64,
+						75
+					]
+				},
+				{
+					"screen_name": "TwitterKorea",
+					"name": "Twitter Korea",
+					"id": 216531294,
+					"id_str": "216531294",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "TwitterMovies",
+					"name": "Twitter Movies",
+					"id": 436266454,
+					"id_str": "436266454",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SijrNdmNS6",
+					"expanded_url": "https://twitter.com/i/broadcasts/1YqJDqyqqokxV",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "무슨 일이 일어나고 있나요? #TwitterBlueroom LIVE Q&A with #Broker #브로커 (오늘 저녁 8시)",
+			"url": "https://t.co/5E2H8ZW9VV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5E2H8ZW9VV",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1283927,
+			"friends_count": 549,
+			"listed_count": 2047,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 5479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1652929325",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1540,
+		"favorite_count": 3595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎬한국영화 '브로커' 송강호, 강동원, 이지은(IU), 이주영 배우와 함께하는 #트위터블루룸 #Ask_Broker @CJENMMOVIE @TwitterKorea @TwitterMovies💙#TwitterBlueroom LIVE Q&amp;A with Kmovie #Broker #SongKangHo #GangDongWon #LeeJiEun #LeeJooYoung\n\nhttps://t.co/SijrNdmNS6"
+	},
+	{
+		"created_at": "Thu May 19 11:29:42 +0000 2022",
+		"id": 1527243908732039200,
+		"id_str": "1527250136602124290",
+		"full_text": "คลิปสัมภาษณ์ของ #HYO ร่วมกับ enjoycouple 🥰💖\n\nคำเตือน! ระวังจะขำมาก🔥 ปฏิกิริยาของแฟนหนุ่ม🤣 เมื่อรักแรกของกรมทหาร Girls’ Generation HYO มาปรากฏตัวต่อหน้าแฟนสาว?!\n\n👉🏻 https://t.co/RdOGSzHBqx (ENG SUB)\n\n#효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대\n#엔조이커플 https://t.co/4tQLtP26wh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						225,
+						234
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						235,
+						251
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "엔조이커플",
+					"indices": [
+						258,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						203,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RdOGSzHBqx",
+					"expanded_url": "http://youtu.be/QtWF96_Rbec",
+					"display_url": "youtu.be/QtWF96_Rbec",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527243902704832500,
+					"id_str": "1527243902704832514",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHcPOIaUAIjHJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHcPOIaUAIjHJ1.jpg",
+					"url": "https://t.co/4tQLtP26wh",
+					"display_url": "pic.twitter.com/4tQLtP26wh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1527243908732039168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527243902704832500,
+					"id_str": "1527243902704832514",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHcPOIaUAIjHJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHcPOIaUAIjHJ1.jpg",
+					"url": "https://t.co/4tQLtP26wh",
+					"display_url": "pic.twitter.com/4tQLtP26wh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1527243908732039168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93067,
+			"friends_count": 50,
+			"listed_count": 150,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "คลิปสัมภาษณ์ของ #HYO ร่วมกับ enjoycouple 🥰💖\n\nคำเตือน! ระวังจะขำมาก🔥 ปฏิกิริยาของแฟนหนุ่ม🤣 เมื่อรักแรกของกรมทหาร Girls’ Generation HYO มาปรากฏตัวต่อหน้าแฟนสาว?!\n\n👉🏻 https://t.co/RdOGSzHBqx (ENG SUB)\n\n#효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대\n#엔조이커플 https://t.co/4tQLtP26wh"
+	},
+	{
 		"created_at": "Thu May 19 09:40:27 +0000 2022",
 		"id": 1527222028469538800,
 		"id_str": "1527222643346243584",
