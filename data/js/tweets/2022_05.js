@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 06:09:21 +0000 2022",
+		"id": 1527531235425235000,
+		"id_str": "1527531905725259777",
+		"full_text": "지원해 주신 모든 분들께 감사드립니다.\n예상보다 많은 분들이 지원해 주셔서 심사에 시간이 소요되고 있어 부득이하게 합격자 발표일을 21일로 연기합니다.\n합격자분들께는 개별 연락드릴 예정이며, 최대한 빠르게 결과를 안내드릴 수 있도록 하겠습니다. \n지원자분들의 너른 양해 부탁드립니다. https://t.co/t5Uw2KUbRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527531230303883300,
+					"id_str": "1527531230303883264",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FTLhj42UEAAG4QV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTLhj42UEAAG4QV.jpg",
+					"url": "https://t.co/t5Uw2KUbRp",
+					"display_url": "pic.twitter.com/t5Uw2KUbRp",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1527531235425234946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527531230303883300,
+					"id_str": "1527531230303883264",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FTLhj42UEAAG4QV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTLhj42UEAAG4QV.jpg",
+					"url": "https://t.co/t5Uw2KUbRp",
+					"display_url": "pic.twitter.com/t5Uw2KUbRp",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1527531235425234946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3521,
+			"friends_count": 5,
+			"listed_count": 20,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지원해 주신 모든 분들께 감사드립니다.\n예상보다 많은 분들이 지원해 주셔서 심사에 시간이 소요되고 있어 부득이하게 합격자 발표일을 21일로 연기합니다.\n합격자분들께는 개별 연락드릴 예정이며, 최대한 빠르게 결과를 안내드릴 수 있도록 하겠습니다. \n지원자분들의 너른 양해 부탁드립니다. https://t.co/t5Uw2KUbRp"
+	},
+	{
 		"created_at": "Fri May 20 03:26:40 +0000 2022",
 		"id": 1527488985198899200,
 		"id_str": "1527490968617832448",
