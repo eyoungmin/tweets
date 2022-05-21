@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 09:09:36 +0000 2022",
+		"id": 1527934100014698500,
+		"id_str": "1527939655051751424",
+		"full_text": "랄프 로렌의 폴로 셔츠 50주년 기념, 10인의 셀러브리티 화보 공개👕\n\n#슬기 만의 스타일과 매력을 보여준 스페셜한 화보를 #하퍼스바자 6월호에서 만나보세요📖\n\n#SEULGI  in Harper's BAZZAR X #POLORalphlauren ✌️\nCheck out via JUNE issue\n\n#레드벨벳 #RedVelvet \n#Harpersbazzar\n#폴로랄프로렌 https://t.co/cGyZUNBHJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "POLORalphlauren",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "Harpersbazzar",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"text": "폴로랄프로렌",
+					"indices": [
+						200,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527934093488377900,
+					"id_str": "1527934093488377857",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FTRP9nKVUAETwzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTRP9nKVUAETwzk.jpg",
+					"url": "https://t.co/cGyZUNBHJI",
+					"display_url": "pic.twitter.com/cGyZUNBHJI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1527934100014698497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527934093488377900,
+					"id_str": "1527934093488377857",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FTRP9nKVUAETwzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTRP9nKVUAETwzk.jpg",
+					"url": "https://t.co/cGyZUNBHJI",
+					"display_url": "pic.twitter.com/cGyZUNBHJI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1527934100014698497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527934097456177200,
+					"id_str": "1527934097456177152",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FTRP918VIAAJ67c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTRP918VIAAJ67c.jpg",
+					"url": "https://t.co/cGyZUNBHJI",
+					"display_url": "pic.twitter.com/cGyZUNBHJI",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1527934100014698497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5354528,
+			"friends_count": 2,
+			"listed_count": 10951,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4418,
+		"favorite_count": 12458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "랄프 로렌의 폴로 셔츠 50주년 기념, 10인의 셀러브리티 화보 공개👕\n\n#슬기 만의 스타일과 매력을 보여준 스페셜한 화보를 #하퍼스바자 6월호에서 만나보세요📖\n\n#SEULGI  in Harper's BAZZAR X #POLORalphlauren ✌️\nCheck out via JUNE issue\n\n#레드벨벳 #RedVelvet \n#Harpersbazzar\n#폴로랄프로렌 https://t.co/cGyZUNBHJI"
+	},
+	{
 		"created_at": "Sat May 21 07:29:38 +0000 2022",
 		"id": 1527908439287922700,
 		"id_str": "1527914500816502785",
