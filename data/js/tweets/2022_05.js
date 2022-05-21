@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 10:40:10 +0000 2022",
+		"id": 1527961871542030300,
+		"id_str": "1527962446807412737",
+		"full_text": "자우림의 25세 \n생일을 축하하는 공연 #HAPPY25thJAURIM \n그러고 보니 어제 \n티켓 오픈 했습니다!! \n예매 1위 감사합니다!!💖💖💖\n\n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시\n올림픽공원 올림픽홀에서 \n만나요오~~💓💓💓🎉🎉🎉\n#자우림 \n#JAURIM https://t.co/6HlPJLRcoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527961863962914800,
+					"id_str": "1527961863962914816",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FTRpOEPacAAMTm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTRpOEPacAAMTm6.jpg",
+					"url": "https://t.co/6HlPJLRcoC",
+					"display_url": "pic.twitter.com/6HlPJLRcoC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1527961871542030336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1070,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527961863962914800,
+					"id_str": "1527961863962914816",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FTRpOEPacAAMTm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTRpOEPacAAMTm6.jpg",
+					"url": "https://t.co/6HlPJLRcoC",
+					"display_url": "pic.twitter.com/6HlPJLRcoC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1527961871542030336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1070,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275253,
+			"friends_count": 571,
+			"listed_count": 2783,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520339655363002369/4PaeqXgP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1651312206",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림의 25세 \n생일을 축하하는 공연 #HAPPY25thJAURIM \n그러고 보니 어제 \n티켓 오픈 했습니다!! \n예매 1위 감사합니다!!💖💖💖\n\n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시\n올림픽공원 올림픽홀에서 \n만나요오~~💓💓💓🎉🎉🎉\n#자우림 \n#JAURIM https://t.co/6HlPJLRcoC"
+	},
+	{
 		"created_at": "Sat May 21 09:09:36 +0000 2022",
 		"id": 1527934100014698500,
 		"id_str": "1527939655051751424",
