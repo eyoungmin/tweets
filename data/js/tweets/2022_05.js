@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 22 09:40:22 +0000 2022",
+		"id": 1528302038878425000,
+		"id_str": "1528309787057856515",
+		"full_text": "BoA ボア 'The Greatest' MV Teaser\n\n➫ 2022.05.23 6PM (KST)\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th https://t.co/HlQHj03unk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "TheGreatest",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"text": "BoA_TheGreatest",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "BoAJP20th",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528301301192626200,
+					"id_str": "1528301301192626176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FTWekESaIAEBmMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTWekESaIAEBmMk.jpg",
+					"url": "https://t.co/HlQHj03unk",
+					"display_url": "pic.twitter.com/HlQHj03unk",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1528302038878425088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528301301192626200,
+					"id_str": "1528301301192626176",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FTWekESaIAEBmMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTWekESaIAEBmMk.jpg",
+					"url": "https://t.co/HlQHj03unk",
+					"display_url": "pic.twitter.com/HlQHj03unk",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1528302038878425088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27652,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528301301192626176/vid/480x270/sS4ALy_q_inlAjAU.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528301301192626176/vid/640x360/FjCADV8oLC7sjwM1.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1528301301192626176/pl/lH3OSaGSG7-NIiPv.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528301301192626176/vid/1280x720/QTkq4JIKW0wlyjnE.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70646,
+			"friends_count": 1,
+			"listed_count": 269,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1008,
+		"favorite_count": 2727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA ボア 'The Greatest' MV Teaser\n\n➫ 2022.05.23 6PM (KST)\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th https://t.co/HlQHj03unk"
+	},
+	{
+		"created_at": "Sun May 22 09:40:18 +0000 2022",
+		"id": 1528301646689624000,
+		"id_str": "1528309769794113539",
+		"full_text": "[MV] 윈터(WINTER) &amp; 닝닝(NINGNING) of aespa - ONCE AGAIN | 우리들의 블루스(Our Blues) OST Part 10\n\nhttps://t.co/fYu1EYTYPX \n\n#WINTER #NINGNING \n#우리들의블루스 #OurBlues\n#우리들의블루스ost\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "우리들의블루스",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "OurBlues",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "우리들의블루스ost",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fYu1EYTYPX",
+					"expanded_url": "https://youtu.be/dZaIF-BysAA",
+					"display_url": "youtu.be/dZaIF-BysAA",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2634390,
+			"friends_count": 1,
+			"listed_count": 8389,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9162,
+		"favorite_count": 16405,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 윈터(WINTER) &amp; 닝닝(NINGNING) of aespa - ONCE AGAIN | 우리들의 블루스(Our Blues) OST Part 10\n\nhttps://t.co/fYu1EYTYPX \n\n#WINTER #NINGNING \n#우리들의블루스 #OurBlues\n#우리들의블루스ost\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Sun May 22 09:40:10 +0000 2022",
+		"id": 1528301386219151400,
+		"id_str": "1528309735807668224",
+		"full_text": "윈터(#WINTER) &amp; 닝닝(#NINGNING) of aespa - ONCE AGAIN | 우리들의 블루스(#OurBlues) OST Part 10\n\n🎧 Melon: https://t.co/AuFFqDclYc \n🎧 FLO: https://t.co/6eBu1Ajn5u  \n🎧 genie: https://t.co/svIeghZE4y \n🎧 NAVER VIBE: https://t.co/7zbosTRuTp \n \n#우리들의블루스 \n#ONCEAGAIN \n#aespa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "OurBlues",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "우리들의블루스",
+					"indices": [
+						231,
+						239
+					]
+				},
+				{
+					"text": "ONCEAGAIN",
+					"indices": [
+						241,
+						251
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						253,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AuFFqDclYc",
+					"expanded_url": "https://bit.ly/3yVxmYX",
+					"display_url": "bit.ly/3yVxmYX",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/6eBu1Ajn5u",
+					"expanded_url": "https://bit.ly/3lyJlE0",
+					"display_url": "bit.ly/3lyJlE0",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/svIeghZE4y",
+					"expanded_url": "https://bit.ly/3NLwjPJ",
+					"display_url": "bit.ly/3NLwjPJ",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/7zbosTRuTp",
+					"expanded_url": "https://bit.ly/3sOVkRZ",
+					"display_url": "bit.ly/3sOVkRZ",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Dreams Come True",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2634390,
+			"friends_count": 1,
+			"listed_count": 8389,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471042359995498497/yQFDcdzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1639558806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6580,
+		"favorite_count": 12492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윈터(#WINTER) &amp; 닝닝(#NINGNING) of aespa - ONCE AGAIN | 우리들의 블루스(#OurBlues) OST Part 10\n\n🎧 Melon: https://t.co/AuFFqDclYc \n🎧 FLO: https://t.co/6eBu1Ajn5u  \n🎧 genie: https://t.co/svIeghZE4y \n🎧 NAVER VIBE: https://t.co/7zbosTRuTp \n \n#우리들의블루스 \n#ONCEAGAIN \n#aespa"
+	},
+	{
 		"created_at": "Sun May 22 08:40:10 +0000 2022",
 		"id": 1528292862357450800,
 		"id_str": "1528294635814232064",
