@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 22 06:29:38 +0000 2022",
+		"id": 1528255033975836700,
+		"id_str": "1528261789061984257",
+		"full_text": "❤️#효연❤️ 에게 깊이 빠져들 시간\n횬니 매력에 휩쓸려보자고🔥\n\n📻#두시의데이트뮤지안영미입니다\n✔보이는 라디오는\n✔5월 23일 월요일 오후 2시부터\n✔#봉춘라디오 에서 스트리밍됩니다!\n많관부🙏🙏🙏\n\n5/23(MON) 2pm(KST),\n#HYO will appear on MBC radio Live streaming!\n\n@GirlsGeneration #DEEP https://t.co/5Ff1lqV5Ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "두시의데이트뮤지안영미입니다",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						179,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528255021178974200,
+					"id_str": "1528255021178974211",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FTVz2D-UcAM-kob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTVz2D-UcAM-kob.jpg",
+					"url": "https://t.co/5Ff1lqV5Ha",
+					"display_url": "pic.twitter.com/5Ff1lqV5Ha",
+					"expanded_url": "https://twitter.com/radiombc/status/1528255033975836673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528255021178974200,
+					"id_str": "1528255021178974211",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FTVz2D-UcAM-kob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTVz2D-UcAM-kob.jpg",
+					"url": "https://t.co/5Ff1lqV5Ha",
+					"display_url": "pic.twitter.com/5Ff1lqV5Ha",
+					"expanded_url": "https://twitter.com/radiombc/status/1528255033975836673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77717,
+			"friends_count": 42,
+			"listed_count": 601,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️#효연❤️ 에게 깊이 빠져들 시간\n횬니 매력에 휩쓸려보자고🔥\n\n📻#두시의데이트뮤지안영미입니다\n✔보이는 라디오는\n✔5월 23일 월요일 오후 2시부터\n✔#봉춘라디오 에서 스트리밍됩니다!\n많관부🙏🙏🙏\n\n5/23(MON) 2pm(KST),\n#HYO will appear on MBC radio Live streaming!\n\n@GirlsGeneration #DEEP https://t.co/5Ff1lqV5Ha"
+	},
+	{
 		"created_at": "Sun May 22 04:29:38 +0000 2022",
 		"id": 1528228953650913300,
 		"id_str": "1528231589985001472",
