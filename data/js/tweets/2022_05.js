@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 22 18:40:09 +0000 2022",
+		"id": 1528436647641198600,
+		"id_str": "1528445628451258369",
+		"full_text": "Win a trip to Berlin for a special experience at our show on July 10th! You’ll watch our pre-show soundcheck, take a photo w/ us on stage, &amp; get your own dressing room w/ catered dinner &amp; a backstage tour. Entries support @LynchFoundation. Enter now at https://t.co/ur3OAsLqSY https://t.co/kchoGKfYPH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LynchFoundation",
+					"name": "DavidLynchFoundation",
+					"id": 103602549,
+					"id_str": "103602549",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ur3OAsLqSY",
+					"expanded_url": "http://coldplayinberlin.com/",
+					"display_url": "coldplayinberlin.com",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528435502910775300,
+					"id_str": "1528435502910775296",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYYNf1X0AYVWjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYYNf1X0AYVWjG.jpg",
+					"url": "https://t.co/kchoGKfYPH",
+					"display_url": "pic.twitter.com/kchoGKfYPH",
+					"expanded_url": "https://twitter.com/coldplay/status/1528436647641198593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528435502910775300,
+					"id_str": "1528435502910775296",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FTYYNf1X0AYVWjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTYYNf1X0AYVWjG.jpg",
+					"url": "https://t.co/kchoGKfYPH",
+					"display_url": "pic.twitter.com/kchoGKfYPH",
+					"expanded_url": "https://twitter.com/coldplay/status/1528436647641198593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 35068,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1528435502910775296/pl/QTd3W32_Byu216Ox.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528435502910775296/vid/540x540/UiiB-IXPoZLKlqrG.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528435502910775296/vid/320x320/qf_ggBAWmDF6t7_F.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1528435502910775296/vid/720x720/MMQ8uVm3FGDpopSQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://coldplayinberlin.com/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23608390,
+			"friends_count": 776,
+			"listed_count": 42533,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 1356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Win a trip to Berlin for a special experience at our show on July 10th! You’ll watch our pre-show soundcheck, take a photo w/ us on stage, &amp; get your own dressing room w/ catered dinner &amp; a backstage tour. Entries support @LynchFoundation. Enter now at https://t.co/ur3OAsLqSY https://t.co/kchoGKfYPH"
+	},
+	{
 		"created_at": "Sun May 22 15:40:10 +0000 2022",
 		"id": 1528394637022732300,
 		"id_str": "1528400332409143298",
