@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 22 08:00:22 +0000 2022",
+		"id": 1528284530041409500,
+		"id_str": "1528284619736395776",
+		"full_text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\"&lt;엘르&gt; 30주년, 그 여섯 번째 이슈\"💎 \n로제가 &lt;엘르&gt; 코리아의 30주년을 축하합니다. 6월호 커버 스타로 등장한 로제의 인터뷰와 화보, 그리고 유튜브 필름은 곧 공개될 예정! 🖤 https://t.co/KpSUTsDnzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526470673002266600,
+					"id_str": "1526470673002266624",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526470673002266624/pu/img/fwq5v7BfVIivLUtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526470673002266624/pu/img/fwq5v7BfVIivLUtP.jpg",
+					"url": "https://t.co/KpSUTsDnzj",
+					"display_url": "pic.twitter.com/KpSUTsDnzj",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1528284530041409537/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526470673002266600,
+					"id_str": "1526470673002266624",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526470673002266624/pu/img/fwq5v7BfVIivLUtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526470673002266624/pu/img/fwq5v7BfVIivLUtP.jpg",
+					"url": "https://t.co/KpSUTsDnzj",
+					"display_url": "pic.twitter.com/KpSUTsDnzj",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1528284530041409537/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15115,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526470673002266624/pu/vid/720x900/WhqGULUujhpYQC7V.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526470673002266624/pu/vid/480x600/sEHc1A6GpnVuQPYD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526470673002266624/pu/pl/klgWjnRR01p0YqQz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526470673002266624/pu/vid/320x400/Z_gndOCCUZwK-Imv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151268,
+			"friends_count": 3390,
+			"listed_count": 481,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1652667980",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #로제 #ROSÉ @BLACKPINK\n\"&lt;엘르&gt; 30주년, 그 여섯 번째 이슈\"💎 \n로제가 &lt;엘르&gt; 코리아의 30주년을 축하합니다. 6월호 커버 스타로 등장한 로제의 인터뷰와 화보, 그리고 유튜브 필름은 곧 공개될 예정! 🖤 https://t.co/KpSUTsDnzj"
+	},
+	{
 		"created_at": "Sun May 22 06:29:38 +0000 2022",
 		"id": 1528255033975836700,
 		"id_str": "1528261789061984257",
