@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 07:00:39 +0000 2022",
+		"id": 1528621935038693400,
+		"id_str": "1528631981327540225",
+		"full_text": "브레이드 뽀인뚜로 스타일리쉬하게✨👧🏻\n\n#브레이드 #브레이드헤어 #땋기머리 #머리땋기 #신민아 #로제 #태연 #제니 #제시카 #엄지 #아이린 #현아 #예리 #유아 #지수 #슬기 #효연 #카리나 #산다라박 \n\nhttps://t.co/Cra5eSficI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브레이드",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "브레이드헤어",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "땋기머리",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "머리땋기",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "신민아",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "엄지",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cra5eSficI",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/66587",
+					"display_url": "cosmopolitan.co.kr/article/66587",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89535,
+			"friends_count": 3,
+			"listed_count": 402,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브레이드 뽀인뚜로 스타일리쉬하게✨👧🏻\n\n#브레이드 #브레이드헤어 #땋기머리 #머리땋기 #신민아 #로제 #태연 #제니 #제시카 #엄지 #아이린 #현아 #예리 #유아 #지수 #슬기 #효연 #카리나 #산다라박 \n\nhttps://t.co/Cra5eSficI"
+	},
+	{
 		"created_at": "Mon May 23 03:40:23 +0000 2022",
 		"id": 1528581503231627300,
 		"id_str": "1528581580398243840",
