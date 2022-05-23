@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 09:40:23 +0000 2022",
+		"id": 1528665427835953200,
+		"id_str": "1528672180963262464",
+		"full_text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞‍♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "붉은단심",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "새벽에_핀_별하나",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wim7ccKDb",
+					"expanded_url": "http://kko.to/kgi6-oxGj",
+					"display_url": "kko.to/kgi6-oxGj",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/Y1IvmT08mP",
+					"expanded_url": "http://genie.co.kr/7GSI25",
+					"display_url": "genie.co.kr/7GSI25",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/Qsv7tOIAzc",
+					"expanded_url": "http://naver.me/IIZJk23h",
+					"display_url": "naver.me/IIZJk23h",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/QRjsFtaN57",
+					"expanded_url": "http://flomuz.io/s/a.BNIkt",
+					"display_url": "flomuz.io/s/a.BNIkt",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528663927466229800,
+					"id_str": "1528663927466229761",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbnvimUAAE8JXW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbnvimUAAE8JXW.jpg",
+					"url": "https://t.co/jYPhrwFArQ",
+					"display_url": "pic.twitter.com/jYPhrwFArQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1528665427835953153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528663927466229800,
+					"id_str": "1528663927466229761",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbnvimUAAE8JXW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbnvimUAAE8JXW.jpg",
+					"url": "https://t.co/jYPhrwFArQ",
+					"display_url": "pic.twitter.com/jYPhrwFArQ",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1528665427835953153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346229,
+			"friends_count": 1,
+			"listed_count": 2132,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞‍♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ"
+	},
+	{
+		"created_at": "Mon May 23 09:40:09 +0000 2022",
+		"id": 1528662120677920800,
+		"id_str": "1528672121072717824",
+		"full_text": "BoA ボア 'The Greatest' MV \n\nhttps://t.co/8DKQSK0Sr3\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th https://t.co/N6ziI3FmVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "TheGreatest",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "BoA_TheGreatest",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"text": "BoAJP20th",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8DKQSK0Sr3",
+					"expanded_url": "https://youtu.be/GxaWj8eoRmw",
+					"display_url": "youtu.be/GxaWj8eoRmw",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528661919045124000,
+					"id_str": "1528661919045124096",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbl6opaAAAlk4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbl6opaAAAlk4N.jpg",
+					"url": "https://t.co/N6ziI3FmVO",
+					"display_url": "pic.twitter.com/N6ziI3FmVO",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1528662120677920772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528661919045124000,
+					"id_str": "1528661919045124096",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FTbl6opaAAAlk4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTbl6opaAAAlk4N.jpg",
+					"url": "https://t.co/N6ziI3FmVO",
+					"display_url": "pic.twitter.com/N6ziI3FmVO",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1528662120677920772/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71012,
+			"friends_count": 1,
+			"listed_count": 273,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 1949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "BoA ボア 'The Greatest' MV \n\nhttps://t.co/8DKQSK0Sr3\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th https://t.co/N6ziI3FmVO"
+	},
+	{
+		"created_at": "Mon May 23 09:29:39 +0000 2022",
+		"id": 1528661213910929400,
+		"id_str": "1528669476497006592",
+		"full_text": "❤220522 인기가요 PD노트\n\n멋쁨😘 효연에 휩쓸려보자\n딥딥딥딥딥 중독성👍 딥며들었어🤩\n\nMORE📸 https://t.co/5UvRpEk6hK\n\n#인기가요 #inkigayo #PD노트 #HYO #효연 #DEEP #소녀시대 #GirlsGeneration \n@GirlsGeneration @Hyoyeon_djhyo https://t.co/8gDo8FPs9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "PD노트",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5UvRpEk6hK",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboard/54795?cmd=view&page=1&board_no=439231",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528660924847968300,
+					"id_str": "1528660924847968256",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTblAw-VUAAhYoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTblAw-VUAAhYoP.jpg",
+					"url": "https://t.co/8gDo8FPs9m",
+					"display_url": "pic.twitter.com/8gDo8FPs9m",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1528661213910929408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528660924847968300,
+					"id_str": "1528660924847968256",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTblAw-VUAAhYoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTblAw-VUAAhYoP.jpg",
+					"url": "https://t.co/8gDo8FPs9m",
+					"display_url": "pic.twitter.com/8gDo8FPs9m",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1528661213910929408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528660925313523700,
+					"id_str": "1528660925313523712",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTblAytVIAAI9gj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTblAytVIAAI9gj.jpg",
+					"url": "https://t.co/8gDo8FPs9m",
+					"display_url": "pic.twitter.com/8gDo8FPs9m",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1528661213910929408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/OApBmPQRxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OApBmPQRxw",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160825,
+			"friends_count": 0,
+			"listed_count": 500,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1649207259",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤220522 인기가요 PD노트\n\n멋쁨😘 효연에 휩쓸려보자\n딥딥딥딥딥 중독성👍 딥며들었어🤩\n\nMORE📸 https://t.co/5UvRpEk6hK\n\n#인기가요 #inkigayo #PD노트 #HYO #효연 #DEEP #소녀시대 #GirlsGeneration \n@GirlsGeneration @Hyoyeon_djhyo https://t.co/8gDo8FPs9m"
+	},
+	{
 		"created_at": "Mon May 23 08:40:10 +0000 2022",
 		"id": 1528654655986999300,
 		"id_str": "1528657023772016640",
