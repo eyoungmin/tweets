@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 13:40:12 +0000 2022",
+		"id": 1528707795087925200,
+		"id_str": "1528732532430327809",
+		"full_text": ".@BLACKPINK is Rolling Stone's June cover star. #BLACKPINKxRollingStone\n\nThe world's biggest girl group give their most revealing interview yet about how they make music, deal with the demands of stardom, became family, and more.\n\nStory/Photos: https://t.co/OofKoWn07a https://t.co/89S9cESPQc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxRollingStone",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						1,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OofKoWn07a",
+					"expanded_url": "https://rol.st/3lx2mXl",
+					"display_url": "rol.st/3lx2mXl",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528703587014033400,
+					"id_str": "1528703587014033409",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcL0B7WQAEO6dZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcL0B7WQAEO6dZ.jpg",
+					"url": "https://t.co/89S9cESPQc",
+					"display_url": "pic.twitter.com/89S9cESPQc",
+					"expanded_url": "https://twitter.com/RollingStone/status/1528707795087925248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528703587014033400,
+					"id_str": "1528703587014033409",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcL0B7WQAEO6dZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcL0B7WQAEO6dZ.jpg",
+					"url": "https://t.co/89S9cESPQc",
+					"display_url": "pic.twitter.com/89S9cESPQc",
+					"expanded_url": "https://twitter.com/RollingStone/status/1528707795087925248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 989,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14780915,
+			"id_str": "14780915",
+			"name": "Rolling Stone",
+			"screen_name": "RollingStone",
+			"location": "New York, New York",
+			"description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+			"url": "https://t.co/HPZh9kIhYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HPZh9kIhYX",
+							"expanded_url": "http://www.rollingstone.com",
+							"display_url": "rollingstone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yJnSOtbi68",
+							"expanded_url": "http://RollingStone.com",
+							"display_url": "RollingStone.com",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/4pKrTBMI3A",
+							"expanded_url": "http://rol.st/tips",
+							"display_url": "rol.st/tips",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6376301,
+			"friends_count": 448,
+			"listed_count": 35628,
+			"created_at": "Thu May 15 02:52:27 +0000 2008",
+			"favourites_count": 567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 170244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0B0B0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1653307320",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57388,
+		"favorite_count": 107114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@BLACKPINK is Rolling Stone's June cover star. #BLACKPINKxRollingStone\n\nThe world's biggest girl group give their most revealing interview yet about how they make music, deal with the demands of stardom, became family, and more.\n\nStory/Photos: https://t.co/OofKoWn07a https://t.co/89S9cESPQc"
+	},
+	{
 		"created_at": "Mon May 23 11:40:18 +0000 2022",
 		"id": 1528701511420719000,
 		"id_str": "1528702355637784576",
@@ -392,7 +615,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
