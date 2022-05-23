@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 03:40:23 +0000 2022",
+		"id": 1528581503231627300,
+		"id_str": "1528581580398243840",
+		"full_text": "- 제품 구매는 카드 결제만 가능합니다.(삼성페이 가능, 현금 불가)\n- 일회용 쇼핑백 무상 제공은 법적으로 금지되어 있습니다. 1매당 1,000원에 구매하실 수 있습니다.\n- 현장에서 구매하는 상품은 교환 및 환불이 불가합니다. 단 제품에 하자가 있을 경우 동일 제품으로 교환 가능합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1528581184821002200,
+		"in_reply_to_status_id_str": "1528581184821002241",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5080,
+			"friends_count": 493,
+			"listed_count": 39,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 제품 구매는 카드 결제만 가능합니다.(삼성페이 가능, 현금 불가)\n- 일회용 쇼핑백 무상 제공은 법적으로 금지되어 있습니다. 1매당 1,000원에 구매하실 수 있습니다.\n- 현장에서 구매하는 상품은 교환 및 환불이 불가합니다. 단 제품에 하자가 있을 경우 동일 제품으로 교환 가능합니다."
+	},
+	{
+		"created_at": "Mon May 23 03:40:13 +0000 2022",
+		"id": 1528581184821002200,
+		"id_str": "1528581542196523008",
+		"full_text": "ADOY 2022 “Antihero”\nMD 판매 안내\n⠀\n📻LP : 50,000원\n👕티셔츠 : 35,000원\n💽CD : 15,000원\n⠀\n- MD 판매는 공연 시작 1시간 전부터 진행됩니다.\n- 제품별 구매 수량은 1인당 2개씩 구매 가능합니다.\n- 한정 수량으로 준비되므로 조기 품절될 수 있으며, 조기 품절 시 부스 운영도 마감됩니다. https://t.co/6GHXJOsyWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528581175228661800,
+					"id_str": "1528581175228661760",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FTaceufagAAoamT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTaceufagAAoamT.jpg",
+					"url": "https://t.co/6GHXJOsyWR",
+					"display_url": "pic.twitter.com/6GHXJOsyWR",
+					"expanded_url": "https://twitter.com/adoyband/status/1528581184821002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528581175228661800,
+					"id_str": "1528581175228661760",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FTaceufagAAoamT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTaceufagAAoamT.jpg",
+					"url": "https://t.co/6GHXJOsyWR",
+					"display_url": "pic.twitter.com/6GHXJOsyWR",
+					"expanded_url": "https://twitter.com/adoyband/status/1528581184821002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528581175224455200,
+					"id_str": "1528581175224455168",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FTaceueaUAAdF0J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTaceueaUAAdF0J.jpg",
+					"url": "https://t.co/6GHXJOsyWR",
+					"display_url": "pic.twitter.com/6GHXJOsyWR",
+					"expanded_url": "https://twitter.com/adoyband/status/1528581184821002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528581175207673900,
+					"id_str": "1528581175207673857",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FTaceuaaQAEQwZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTaceuaaQAEQwZQ.jpg",
+					"url": "https://t.co/6GHXJOsyWR",
+					"display_url": "pic.twitter.com/6GHXJOsyWR",
+					"expanded_url": "https://twitter.com/adoyband/status/1528581184821002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528581175211880400,
+					"id_str": "1528581175211880448",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FTaceubacAAsuRi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTaceubacAAsuRi.jpg",
+					"url": "https://t.co/6GHXJOsyWR",
+					"display_url": "pic.twitter.com/6GHXJOsyWR",
+					"expanded_url": "https://twitter.com/adoyband/status/1528581184821002241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5080,
+			"friends_count": 493,
+			"listed_count": 39,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ADOY 2022 “Antihero”\nMD 판매 안내\n⠀\n📻LP : 50,000원\n👕티셔츠 : 35,000원\n💽CD : 15,000원\n⠀\n- MD 판매는 공연 시작 1시간 전부터 진행됩니다.\n- 제품별 구매 수량은 1인당 2개씩 구매 가능합니다.\n- 한정 수량으로 준비되므로 조기 품절될 수 있으며, 조기 품절 시 부스 운영도 마감됩니다. https://t.co/6GHXJOsyWR"
+	},
+	{
 		"created_at": "Mon May 23 03:00:36 +0000 2022",
 		"id": 1528568079550398500,
 		"id_str": "1528571570473426945",
