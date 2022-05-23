@@ -1,10 +1,471 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 11:40:18 +0000 2022",
+		"id": 1528701511420719000,
+		"id_str": "1528702355637784576",
+		"full_text": "더웠다 추웠다 더웠다 추웠다\n어느 장단에 맞춰야 할지 모르겠을 땐\n영스트리트 장단에 맞춰보자구요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/WBy8V6ReJc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528701498275684400,
+					"id_str": "1528701498275684353",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcJ6cxUYAE_aeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcJ6cxUYAE_aeY.jpg",
+					"url": "https://t.co/WBy8V6ReJc",
+					"display_url": "pic.twitter.com/WBy8V6ReJc",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1528701511420719107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528701498275684400,
+					"id_str": "1528701498275684353",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcJ6cxUYAE_aeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcJ6cxUYAE_aeY.jpg",
+					"url": "https://t.co/WBy8V6ReJc",
+					"display_url": "pic.twitter.com/WBy8V6ReJc",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1528701511420719107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528701504932020200,
+					"id_str": "1528701504932020224",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcJ61kUAAAJNgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcJ61kUAAAJNgt.jpg",
+					"url": "https://t.co/WBy8V6ReJc",
+					"display_url": "pic.twitter.com/WBy8V6ReJc",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1528701511420719107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5364979,
+			"friends_count": 2,
+			"listed_count": 10972,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2532,
+		"favorite_count": 7938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더웠다 추웠다 더웠다 추웠다\n어느 장단에 맞춰야 할지 모르겠을 땐\n영스트리트 장단에 맞춰보자구요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/WBy8V6ReJc"
+	},
+	{
+		"created_at": "Mon May 23 11:40:10 +0000 2022",
+		"id": 1528698110905667600,
+		"id_str": "1528702321630318599",
+		"full_text": "✨🤟 @unclearmag https://t.co/r8yiMeDbqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unclearmag",
+					"name": "Unclear Magazine",
+					"id": 737845278519267300,
+					"id_str": "737845278519267328",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528698106866458600,
+					"id_str": "1528698106866458625",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcG1CyWYAEIU8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcG1CyWYAEIU8l.jpg",
+					"url": "https://t.co/r8yiMeDbqf",
+					"display_url": "pic.twitter.com/r8yiMeDbqf",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1528698110905667586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 976,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528698106866458600,
+					"id_str": "1528698106866458625",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FTcG1CyWYAEIU8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTcG1CyWYAEIU8l.jpg",
+					"url": "https://t.co/r8yiMeDbqf",
+					"display_url": "pic.twitter.com/r8yiMeDbqf",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1528698110905667586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 976,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87307,
+			"friends_count": 269,
+			"listed_count": 326,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "✨🤟 @unclearmag https://t.co/r8yiMeDbqf"
+	},
+	{
 		"created_at": "Mon May 23 09:40:23 +0000 2022",
 		"id": 1528665427835953200,
 		"id_str": "1528672180963262464",
-		"full_text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞‍♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ",
+		"full_text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -239,7 +700,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞‍♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ"
+		"text": "붉은 단심 OST Part 4\n[새벽에 핀 별 하나]\n\n🍈 : https://t.co/4wim7ccKDb\n🧞♂️ : https://t.co/Y1IvmT08mP \n💟 : https://t.co/Qsv7tOIAzc\n🔵 : https://t.co/QRjsFtaN57\n\n#청하 #CHUNGHA\n#붉은단심 #새벽에_핀_별하나 https://t.co/jYPhrwFArQ"
 	},
 	{
 		"created_at": "Mon May 23 09:40:09 +0000 2022",
