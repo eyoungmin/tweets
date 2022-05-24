@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 22:40:17 +0000 2022",
+		"id": 1529177728624099300,
+		"id_str": "1529230834426847233",
+		"full_text": "❤️⛅️ https://t.co/QWmTFoz7T2 #hitcfestival \n\n@nakedbibi @CHUNGHA_MNHent @JAYBUMAOM https://t.co/30Iwp5yckV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hitcfestival",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "JAYBUMAOM",
+					"name": "JAY BUM PARK",
+					"id": 144284168,
+					"id_str": "144284168",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QWmTFoz7T2",
+					"expanded_url": "http://LA.HITCFESTIVAL.COM",
+					"display_url": "LA.HITCFESTIVAL.COM",
+					"indices": [
+						5,
+						28
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529176918783713300,
+					"id_str": "1529176918783713280",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FTi6TkLUYAAmcuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTi6TkLUYAAmcuK.jpg",
+					"url": "https://t.co/30Iwp5yckV",
+					"display_url": "pic.twitter.com/30Iwp5yckV",
+					"expanded_url": "https://twitter.com/88rising/status/1529177728624099329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529176918783713300,
+					"id_str": "1529176918783713280",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FTi6TkLUYAAmcuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTi6TkLUYAAmcuK.jpg",
+					"url": "https://t.co/30Iwp5yckV",
+					"display_url": "pic.twitter.com/30Iwp5yckV",
+					"expanded_url": "https://twitter.com/88rising/status/1529177728624099329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1529176919706435600,
+					"id_str": "1529176919706435585",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FTi6TnnUAAE1zfa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTi6TnnUAAE1zfa.jpg",
+					"url": "https://t.co/30Iwp5yckV",
+					"display_url": "pic.twitter.com/30Iwp5yckV",
+					"expanded_url": "https://twitter.com/88rising/status/1529177728624099329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1529176921208066000,
+					"id_str": "1529176921208066048",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FTi6TtNVEAATn2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTi6TtNVEAATn2e.jpg",
+					"url": "https://t.co/30Iwp5yckV",
+					"display_url": "pic.twitter.com/30Iwp5yckV",
+					"expanded_url": "https://twitter.com/88rising/status/1529177728624099329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1529177719707009000,
+		"in_reply_to_status_id_str": "1529177719707009024",
+		"in_reply_to_user_id": 710838951989346300,
+		"in_reply_to_user_id_str": "710838951989346304",
+		"in_reply_to_screen_name": "88rising",
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/OcYxu1jKn9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcYxu1jKn9",
+							"expanded_url": "http://hitcfestival.com",
+							"display_url": "hitcfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626199,
+			"friends_count": 306,
+			"listed_count": 572,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 641,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️⛅️ https://t.co/QWmTFoz7T2 #hitcfestival \n\n@nakedbibi @CHUNGHA_MNHent @JAYBUMAOM https://t.co/30Iwp5yckV"
+	},
+	{
 		"created_at": "Tue May 24 17:40:15 +0000 2022",
 		"id": 1529149272607887400,
 		"id_str": "1529155328880873478",
