@@ -1,10 +1,529 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 10:40:41 +0000 2022",
+		"id": 1529042990601478100,
+		"id_str": "1529049740314296320",
+		"full_text": "[#퀸덤2] 퀸즈 Q&amp;A부터 팬들을 위한 공연까지♥ 뮤빗 라이브 비하인드! | 매주 목요일 밤 9시 20분\n\nFull ver. ▶ https://t.co/6afQnqYnDr\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 #뮤빗 #뮤빗라이브 #MUBEAT https://t.co/Xbn5Lc8SYd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "뮤빗",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "뮤빗라이브",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "MUBEAT",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6afQnqYnDr",
+					"expanded_url": "https://youtu.be/uvX6aptnseU",
+					"display_url": "youtu.be/uvX6aptnseU",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529033477827403800,
+					"id_str": "1529033477827403777",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FTg4RslVIAIWrEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTg4RslVIAIWrEh.jpg",
+					"url": "https://t.co/Xbn5Lc8SYd",
+					"display_url": "pic.twitter.com/Xbn5Lc8SYd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529042990601478149/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529033477827403800,
+					"id_str": "1529033477827403777",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FTg4RslVIAIWrEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTg4RslVIAIWrEh.jpg",
+					"url": "https://t.co/Xbn5Lc8SYd",
+					"display_url": "pic.twitter.com/Xbn5Lc8SYd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529042990601478149/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66933,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529033477827403777/vid/1280x720/KX1t-TrwjzM2UzHf.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1529033477827403777/pl/b6fuZHPPhNV9Q_Jt.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529033477827403777/vid/480x270/NzdMu_7-mRFCVN6B.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529033477827403777/vid/640x360/oOgI6o7ZenxgrnEQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064173,
+			"friends_count": 20943,
+			"listed_count": 3021,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1291,
+		"favorite_count": 4476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 퀸즈 Q&amp;A부터 팬들을 위한 공연까지♥ 뮤빗 라이브 비하인드! | 매주 목요일 밤 9시 20분\n\nFull ver. ▶ https://t.co/6afQnqYnDr\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #Mnet #엠넷 #뮤빗 #뮤빗라이브 #MUBEAT https://t.co/Xbn5Lc8SYd"
+	},
+	{
+		"created_at": "Tue May 24 10:40:36 +0000 2022",
+		"id": 1529042594227187700,
+		"id_str": "1529049718852096000",
+		"full_text": "[📹]#붉은단심 \n[붉은 단심 OST Part 4] 청하 (CHUNG HA) - 새벽에 핀 별 하나 (A Star in the dawn) MV\n\n▶ https://t.co/X203dZ2TXr\n\n#청하 #CHUNGHA\n#새벽에_핀_별하나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "붉은단심",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "새벽에_핀_별하나",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X203dZ2TXr",
+					"expanded_url": "https://youtu.be/PI1GL97erdA",
+					"display_url": "youtu.be/PI1GL97erdA",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346373,
+			"friends_count": 1,
+			"listed_count": 2130,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹]#붉은단심 \n[붉은 단심 OST Part 4] 청하 (CHUNG HA) - 새벽에 핀 별 하나 (A Star in the dawn) MV\n\n▶ https://t.co/X203dZ2TXr\n\n#청하 #CHUNGHA\n#새벽에_핀_별하나"
+	},
+	{
+		"created_at": "Tue May 24 10:40:10 +0000 2022",
+		"id": 1529037232496967700,
+		"id_str": "1529049610769027072",
+		"full_text": "수분 가득 에센스로 \n건조한 모발에 생기를 불어넣고\n소프트 왁스 제형으로 \n컬을 부드럽게 잡아주는\n어노브 볼륨 UP! 컬링 에센스\n\nhttps://t.co/3sI1f6uXvU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3sI1f6uXvU",
+					"expanded_url": "https://www.instagram.com/p/Cd7x4Bfp7Mj/",
+					"display_url": "instagram.com/p/Cd7x4Bfp7Mj/",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4262,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수분 가득 에센스로 \n건조한 모발에 생기를 불어넣고\n소프트 왁스 제형으로 \n컬을 부드럽게 잡아주는\n어노브 볼륨 UP! 컬링 에센스\n\nhttps://t.co/3sI1f6uXvU"
+	},
+	{
 		"created_at": "Tue May 24 09:40:38 +0000 2022",
 		"id": 1529026294390096000,
 		"id_str": "1529034631152029696",
-		"full_text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃‍♀️🏃‍♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi",
+		"full_text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃♀️🏃♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -288,7 +807,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃‍♀️🏃‍♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi"
+		"text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃♀️🏃♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi"
 	},
 	{
 		"created_at": "Tue May 24 09:40:30 +0000 2022",
