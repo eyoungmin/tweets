@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 05:01:38 +0000 2022",
+		"id": 1528964008073732000,
+		"id_str": "1528964417685032960",
+		"full_text": "최고의 주얼리 &amp; 워치 브랜드, #까르띠에 가 #블랙핑크 #지수 를 새로운 글로벌 앰버서더로 선정했습니다. 이로써 지수는 까르띠에 팬더 커뮤니티의 일원으로 함께하게 됩니다. 특유의 밝고 우아한 매력으로 전 세대를 사로잡은 지수와 함께 그려갈 까르띠에의 행보가 기대됩니다.\n@Cartier @BLACKPINK https://t.co/woTYFq3EzS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "까르띠에",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cartier",
+					"name": "Cartier",
+					"id": 60659498,
+					"id_str": "60659498",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528934896479371300,
+					"id_str": "1528934896479371264",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfeMA1aAAAjhRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfeMA1aAAAjhRR.jpg",
+					"url": "https://t.co/woTYFq3EzS",
+					"display_url": "pic.twitter.com/woTYFq3EzS",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1528964008073732097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528934896479371300,
+					"id_str": "1528934896479371264",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfeMA1aAAAjhRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfeMA1aAAAjhRR.jpg",
+					"url": "https://t.co/woTYFq3EzS",
+					"display_url": "pic.twitter.com/woTYFq3EzS",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1528964008073732097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106048,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1652856806",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최고의 주얼리 &amp; 워치 브랜드, #까르띠에 가 #블랙핑크 #지수 를 새로운 글로벌 앰버서더로 선정했습니다. 이로써 지수는 까르띠에 팬더 커뮤니티의 일원으로 함께하게 됩니다. 특유의 밝고 우아한 매력으로 전 세대를 사로잡은 지수와 함께 그려갈 까르띠에의 행보가 기대됩니다.\n@Cartier @BLACKPINK https://t.co/woTYFq3EzS"
+	},
+	{
+		"created_at": "Tue May 24 05:01:37 +0000 2022",
+		"id": 1528961788514930700,
+		"id_str": "1528964415017562112",
+		"full_text": "제니와 뷔, 진짜 연애해? 제주도 밀애의 진실은?\n\nhttps://t.co/tLXMC6zC8S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tLXMC6zC8S",
+					"expanded_url": "https://www.allurekorea.com/?p=171943&ddw=111384&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=171943&ddw=…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38640,
+			"friends_count": 1,
+			"listed_count": 291,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1652768698",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니와 뷔, 진짜 연애해? 제주도 밀애의 진실은?\n\nhttps://t.co/tLXMC6zC8S"
+	},
+	{
+		"created_at": "Tue May 24 04:43:07 +0000 2022",
+		"id": 1528959475033313300,
+		"id_str": "1528959755745562624",
+		"full_text": "[#NEWS] '징크스의 연인' 서현 \"슬비와 하나가 되는 과정 즐거웠다\"\n▶ https://t.co/ZJ0pYFyv0A\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/yq6Cx06mw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZJ0pYFyv0A",
+					"expanded_url": "http://naver.me/5RR3D10N",
+					"display_url": "naver.me/5RR3D10N",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528957039288139800,
+					"id_str": "1528957039288139777",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfyU5OaQAEuyry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfyU5OaQAEuyry.jpg",
+					"url": "https://t.co/yq6Cx06mw1",
+					"display_url": "pic.twitter.com/yq6Cx06mw1",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1528959475033313280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528957039288139800,
+					"id_str": "1528957039288139777",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfyU5OaQAEuyry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfyU5OaQAEuyry.jpg",
+					"url": "https://t.co/yq6Cx06mw1",
+					"display_url": "pic.twitter.com/yq6Cx06mw1",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1528959475033313280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1528957039376236500,
+					"id_str": "1528957039376236544",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfyU5jagAAf8wO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfyU5jagAAf8wO.jpg",
+					"url": "https://t.co/yq6Cx06mw1",
+					"display_url": "pic.twitter.com/yq6Cx06mw1",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1528959475033313280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60276,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현 \"슬비와 하나가 되는 과정 즐거웠다\"\n▶ https://t.co/ZJ0pYFyv0A\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/yq6Cx06mw1"
+	},
+	{
 		"created_at": "Tue May 24 03:40:25 +0000 2022",
 		"id": 1528940160406245400,
 		"id_str": "1528943977986236416",
