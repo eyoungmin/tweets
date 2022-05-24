@@ -1,6 +1,1443 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 09:40:38 +0000 2022",
+		"id": 1529026294390096000,
+		"id_str": "1529034631152029696",
+		"full_text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃‍♀️🏃‍♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "다들_가보자고",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "송강호",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"text": "제75회_칸국제영화제_경쟁부문초청",
+					"indices": [
+						158,
+						177
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529025577604489200,
+					"id_str": "1529025577604489222",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FTgxROSagAUnCxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTgxROSagAUnCxm.jpg",
+					"url": "https://t.co/l0iUNrGJZi",
+					"display_url": "pic.twitter.com/l0iUNrGJZi",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1529026294390095872/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529025577604489200,
+					"id_str": "1529025577604489222",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FTgxROSagAUnCxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTgxROSagAUnCxm.jpg",
+					"url": "https://t.co/l0iUNrGJZi",
+					"display_url": "pic.twitter.com/l0iUNrGJZi",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1529026294390095872/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529025577604489222/vid/480x270/jMIk26h0H4cmmRXy.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529025577604489222/vid/640x360/W3MMYLOVipmDNPef.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529025577604489222/vid/1280x720/gpBJ8zbC3ZFnaeeQ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1529025577604489222/pl/Q33w9gjj__Ba58xV.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329396,
+			"friends_count": 10711,
+			"listed_count": 243,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 766,
+		"favorite_count": 1951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"기다렸지? 우리 이제 극장에서 보자꾸나!💕\"\n&lt;#브로커&gt; 드.디.어 예매 오픈! #다들_가보자고🏃‍♀️🏃‍♂️\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V⠀\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/l0iUNrGJZi"
+	},
+	{
+		"created_at": "Tue May 24 09:40:30 +0000 2022",
+		"id": 1529029364666757000,
+		"id_str": "1529034597119451139",
+		"full_text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n이브▶️ https://t.co/eWvevxYXr6\n츄▶️ https://t.co/BA4WonITAa\n고원▶️ https://t.co/C9gzxcyCPF\n올리비아 혜▶️ https://t.co/9Lv9CDeONm\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWvevxYXr6",
+					"expanded_url": "https://youtu.be/retSr8yLjKc",
+					"display_url": "youtu.be/retSr8yLjKc",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/BA4WonITAa",
+					"expanded_url": "https://youtu.be/u-aaeLsfl-A",
+					"display_url": "youtu.be/u-aaeLsfl-A",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/C9gzxcyCPF",
+					"expanded_url": "https://youtu.be/XAXsRIhVnsU",
+					"display_url": "youtu.be/XAXsRIhVnsU",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/9Lv9CDeONm",
+					"expanded_url": "https://youtu.be/evNMNJ6b5C0",
+					"display_url": "youtu.be/evNMNJ6b5C0",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529029362829660200,
+		"in_reply_to_status_id_str": "1529029362829660161",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901976,
+			"friends_count": 2,
+			"listed_count": 8633,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n이브▶️ https://t.co/eWvevxYXr6\n츄▶️ https://t.co/BA4WonITAa\n고원▶️ https://t.co/C9gzxcyCPF\n올리비아 혜▶️ https://t.co/9Lv9CDeONm\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Tue May 24 09:40:24 +0000 2022",
+		"id": 1529029362829660200,
+		"id_str": "1529034571467169793",
+		"full_text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n비비▶️ https://t.co/q3uohsR2R2\n김립▶️ https://t.co/R6OeANHssX\n진솔▶️ https://t.co/eYKWCenGDE\n최리▶️ https://t.co/1kNxC1TrQ8\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						160,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3uohsR2R2",
+					"expanded_url": "https://youtu.be/jEO7BFzIaCo",
+					"display_url": "youtu.be/jEO7BFzIaCo",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/R6OeANHssX",
+					"expanded_url": "https://youtu.be/RqMPT2hyObU",
+					"display_url": "youtu.be/RqMPT2hyObU",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/eYKWCenGDE",
+					"expanded_url": "https://youtu.be/qnGAK4O4SA8",
+					"display_url": "youtu.be/qnGAK4O4SA8",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/1kNxC1TrQ8",
+					"expanded_url": "https://youtu.be/5767cst_fUU",
+					"display_url": "youtu.be/5767cst_fUU",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529029361189683200,
+		"in_reply_to_status_id_str": "1529029361189683200",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901976,
+			"friends_count": 2,
+			"listed_count": 8633,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 341,
+		"favorite_count": 997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n비비▶️ https://t.co/q3uohsR2R2\n김립▶️ https://t.co/R6OeANHssX\n진솔▶️ https://t.co/eYKWCenGDE\n최리▶️ https://t.co/1kNxC1TrQ8\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Tue May 24 09:40:19 +0000 2022",
+		"id": 1529029361189683200,
+		"id_str": "1529034549962866688",
+		"full_text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n희진▶️ https://t.co/lUMdyvV2Qp\n현진▶️ https://t.co/Q8ggBP0iPZ\n하슬▶️ https://t.co/RAdgALcNCK\n여진▶️ https://t.co/3WrxMbbLRS\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						160,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lUMdyvV2Qp",
+					"expanded_url": "https://youtu.be/Tn50M7cGSOw",
+					"display_url": "youtu.be/Tn50M7cGSOw",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/Q8ggBP0iPZ",
+					"expanded_url": "https://youtu.be/rA4A2H6aBvg",
+					"display_url": "youtu.be/rA4A2H6aBvg",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/RAdgALcNCK",
+					"expanded_url": "https://youtu.be/nlQbWI2206c",
+					"display_url": "youtu.be/nlQbWI2206c",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/3WrxMbbLRS",
+					"expanded_url": "https://youtu.be/ERSiMMMOmTA",
+					"display_url": "youtu.be/ERSiMMMOmTA",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901976,
+			"friends_count": 2,
+			"listed_count": 8633,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 671,
+		"favorite_count": 1914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\n희진▶️ https://t.co/lUMdyvV2Qp\n현진▶️ https://t.co/Q8ggBP0iPZ\n하슬▶️ https://t.co/RAdgALcNCK\n여진▶️ https://t.co/3WrxMbbLRS\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Tue May 24 09:40:16 +0000 2022",
+		"id": 1529024604282294300,
+		"id_str": "1529034536671141888",
+		"full_text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\nQUEEN들과의 일대일 아이 콘택트💖\n가장 오래 버틴 QUEEN은 누구?\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nzKAp\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/IAQ1DtyuAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeAY4nzKAp",
+					"expanded_url": "http://youtube.com/Mnet/",
+					"display_url": "youtube.com/Mnet/",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529024393908605000,
+					"id_str": "1529024393908604928",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1529024393908604928/img/uTgPs8fr7k5R4tMR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1529024393908604928/img/uTgPs8fr7k5R4tMR.jpg",
+					"url": "https://t.co/IAQ1DtyuAM",
+					"display_url": "pic.twitter.com/IAQ1DtyuAM",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529024604282294272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529024393908605000,
+					"id_str": "1529024393908604928",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1529024393908604928/img/uTgPs8fr7k5R4tMR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1529024393908604928/img/uTgPs8fr7k5R4tMR.jpg",
+					"url": "https://t.co/IAQ1DtyuAM",
+					"display_url": "pic.twitter.com/IAQ1DtyuAM",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529024604282294272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38071,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1529024393908604928/pl/kViC5WxZTZtBxeAZ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529024393908604928/vid/540x540/8pxHLgAX4xFQk2HF.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529024393908604928/vid/720x720/j-48rmQFLgll89AL.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1529024393908604928/vid/320x320/ay__GUWZdbaXXJ3B.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064159,
+			"friends_count": 20943,
+			"listed_count": 3021,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1296,
+		"favorite_count": 4258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S EYE CONTACT👀\n\nQUEEN들과의 일대일 아이 콘택트💖\n가장 오래 버틴 QUEEN은 누구?\n\n📺영상 보러가기\nYoutube ▶️https://t.co/WeAY4nzKAp\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/IAQ1DtyuAM"
+	},
+	{
+		"created_at": "Tue May 24 09:27:38 +0000 2022",
+		"id": 1529024630513889300,
+		"id_str": "1529031358642720768",
+		"full_text": "Credits\n⠀\nAll songs produced by 구름\nAll songs recorded by 구름 @ TVT CLUB\nAll songs mixed by 구름\nAll songs mastered by 신재민 @ Philo's Planet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1529024627988910000,
+		"in_reply_to_status_id_str": "1529024627988910080",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41994,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Credits\n⠀\nAll songs produced by 구름\nAll songs recorded by 구름 @ TVT CLUB\nAll songs mixed by 구름\nAll songs mastered by 신재민 @ Philo's Planet"
+	},
+	{
+		"created_at": "Tue May 24 09:27:38 +0000 2022",
+		"id": 1529024632015454200,
+		"id_str": "1529031358604931072",
+		"full_text": "M/V Directed by Ga @ KEEPUSWEIRD\nPhotography by annie chung\nStyling by 백예린\nHair by 오지혜\nMakeup by 장소미\nArtwork &amp; Design by 정다혜⠀\n\n#백예린 #yerinbaek\n#물고기 #pisces #release",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "pisces",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						160,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1529024630513889300,
+		"in_reply_to_status_id_str": "1529024630513889280",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41994,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "M/V Directed by Ga @ KEEPUSWEIRD\nPhotography by annie chung\nStyling by 백예린\nHair by 오지혜\nMakeup by 장소미\nArtwork &amp; Design by 정다혜⠀\n\n#백예린 #yerinbaek\n#물고기 #pisces #release"
+	},
+	{
+		"created_at": "Tue May 24 09:27:38 +0000 2022",
+		"id": 1529024627988910000,
+		"id_str": "1529031358365913088",
+		"full_text": "[Release]\n백예린의 싱글 &lt;물고기&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n\n01. 그게 나였네\n02. 물고기 🫧Title\n03. 막내 https://t.co/p2Cwlv1YCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529024618702708700,
+					"id_str": "1529024618702708736",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FTgvyiKaIAAQ7Yn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTgvyiKaIAAQ7Yn.jpg",
+					"url": "https://t.co/p2Cwlv1YCn",
+					"display_url": "pic.twitter.com/p2Cwlv1YCn",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529024627988910080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529024618702708700,
+					"id_str": "1529024618702708736",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FTgvyiKaIAAQ7Yn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTgvyiKaIAAQ7Yn.jpg",
+					"url": "https://t.co/p2Cwlv1YCn",
+					"display_url": "pic.twitter.com/p2Cwlv1YCn",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529024627988910080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41994,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1522,
+		"favorite_count": 1530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n백예린의 싱글 &lt;물고기&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n\n01. 그게 나였네\n02. 물고기 🫧Title\n03. 막내 https://t.co/p2Cwlv1YCn"
+	},
+	{
 		"created_at": "Tue May 24 08:29:39 +0000 2022",
 		"id": 1529016185672462300,
 		"id_str": "1529016764557840384",
