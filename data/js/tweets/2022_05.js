@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 13:27:40 +0000 2022",
+		"id": 1529085018274148400,
+		"id_str": "1529091766736982018",
+		"full_text": "'물고기' Full Album Lyric Video\n⠀\n'물고기'의 곡별 리릭비디오가 공개되었습니다. 지금 바로 백예린 유튜브 채널에서 감상하세요.\n⠀\nCheck out the Lyric Video for 'Pisces' on Yerin Baek's Youtube channel right now!\n⠀\nhttps://t.co/7EhXAarY62\n⠀ https://t.co/vAnfClPeRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7EhXAarY62",
+					"expanded_url": "https://youtu.be/HkHPY5tab8s",
+					"display_url": "youtu.be/HkHPY5tab8s",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529084971633475600,
+					"id_str": "1529084971633475585",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529084971633475585/pu/img/eJacrhne6FIMydul.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529084971633475585/pu/img/eJacrhne6FIMydul.jpg",
+					"url": "https://t.co/vAnfClPeRx",
+					"display_url": "pic.twitter.com/vAnfClPeRx",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529085018274148353/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529084971633475600,
+					"id_str": "1529084971633475585",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529084971633475585/pu/img/eJacrhne6FIMydul.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529084971633475585/pu/img/eJacrhne6FIMydul.jpg",
+					"url": "https://t.co/vAnfClPeRx",
+					"display_url": "pic.twitter.com/vAnfClPeRx",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529085018274148353/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47385,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529084971633475585/pu/vid/480x270/Mga-3N3PqPUTPEgK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1529084971633475585/pu/pl/oRXMrv9RQQG32UeW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529084971633475585/pu/vid/640x360/-P7oYMQYUNmgzgkX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529084971633475585/pu/vid/1280x720/3FK4FsNHT7tddATE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42162,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'물고기' Full Album Lyric Video\n⠀\n'물고기'의 곡별 리릭비디오가 공개되었습니다. 지금 바로 백예린 유튜브 채널에서 감상하세요.\n⠀\nCheck out the Lyric Video for 'Pisces' on Yerin Baek's Youtube channel right now!\n⠀\nhttps://t.co/7EhXAarY62\n⠀ https://t.co/vAnfClPeRx"
+	},
+	{
 		"created_at": "Tue May 24 11:27:39 +0000 2022",
 		"id": 1529055838845173800,
 		"id_str": "1529061563277070336",
