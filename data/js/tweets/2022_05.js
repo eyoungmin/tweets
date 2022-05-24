@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 03:40:25 +0000 2022",
+		"id": 1528940160406245400,
+		"id_str": "1528943977986236416",
+		"full_text": "The performance video of HYO’s new track ‘DEEP’ will be released today at 8PM (KST)! The ‘Performance Queen’ brings her unrivalved charisma &amp; charm to the stage!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1528940156694122500,
+		"in_reply_to_status_id_str": "1528940156694122496",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3770261,
+			"friends_count": 5,
+			"listed_count": 5899,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 314,
+		"favorite_count": 819,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The performance video of HYO’s new track ‘DEEP’ will be released today at 8PM (KST)! The ‘Performance Queen’ brings her unrivalved charisma &amp; charm to the stage!"
+	},
+	{
+		"created_at": "Tue May 24 03:40:10 +0000 2022",
+		"id": 1528927314075074600,
+		"id_str": "1528943914190766081",
+		"full_text": "Thanks @DrunkenTigerJK and @88rising! Talking with @nakedbibi this week! Questions for her comment below!! ⬇️⬇️⬇️ ** Follow me on TikTok also --&gt;  https://t.co/PejXnkgldH https://t.co/vmtuAtrzLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrunkenTigerJK",
+					"name": "아빠 최고 VITAMIN D",
+					"id": 47283664,
+					"id_str": "47283664",
+					"indices": [
+						7,
+						22
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PejXnkgldH",
+					"expanded_url": "https://www.tiktok.com/@steveserranomedia",
+					"display_url": "tiktok.com/@steveserranom…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1528927307808837600,
+					"id_str": "1528927307808837632",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfXSS1XEAAgIDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfXSS1XEAAgIDK.jpg",
+					"url": "https://t.co/vmtuAtrzLU",
+					"display_url": "pic.twitter.com/vmtuAtrzLU",
+					"expanded_url": "https://twitter.com/SteveSerrano/status/1528927314075074564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528927307808837600,
+					"id_str": "1528927307808837632",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FTfXSS1XEAAgIDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTfXSS1XEAAgIDK.jpg",
+					"url": "https://t.co/vmtuAtrzLU",
+					"display_url": "pic.twitter.com/vmtuAtrzLU",
+					"expanded_url": "https://twitter.com/SteveSerrano/status/1528927314075074564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26417244,
+			"id_str": "26417244",
+			"name": "Steve Serrano",
+			"screen_name": "SteveSerrano",
+			"location": "Kansas City, MO",
+			"description": "Program Director, MD, RadioHost: Mix93.3 | TVHost: Sessions | Host: KCComets | Spokesperson: NWMSU | Bookings@mix93.com | SocialMedia @SteveSerrano",
+			"url": "https://t.co/rv8NmiLaJB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rv8NmiLaJB",
+							"expanded_url": "http://SteveSerrano.com",
+							"display_url": "SteveSerrano.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8089,
+			"friends_count": 134,
+			"listed_count": 78,
+			"created_at": "Wed Mar 25 03:20:56 +0000 2009",
+			"favourites_count": 11692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923770075047448576/N6ijRaX0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923770075047448576/N6ijRaX0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26417244/1491186161",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @DrunkenTigerJK and @88rising! Talking with @nakedbibi this week! Questions for her comment below!! ⬇️⬇️⬇️ ** Follow me on TikTok also --&gt;  https://t.co/PejXnkgldH https://t.co/vmtuAtrzLU"
+	},
+	{
 		"created_at": "Tue May 24 02:40:25 +0000 2022",
 		"id": 1528927902460674000,
 		"id_str": "1528928880043646976",
