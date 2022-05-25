@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 25 09:40:10 +0000 2022",
+		"id": 1529371691289280500,
+		"id_str": "1529396898339102720",
+		"full_text": "놓치기 전에 서둘러 💦 \n#아이유X도굴왕원정대 초능력 QUIZ 🎮\n\n[🗳] 다음 중 아이유의 선택은?\n밥 안 먹어도 됨 🆚 아무리 먹어도 살 안 찜\n\n아이유의 선택은 5월 31일에 공개됩니다 ✨ https://t.co/GjCO32XqUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유X도굴왕원정대",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529365910972010500,
+					"id_str": "1529365910972010497",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529365910972010497/pu/img/FV8SphPL2lVMAl0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529365910972010497/pu/img/FV8SphPL2lVMAl0e.jpg",
+					"url": "https://t.co/GjCO32XqUK",
+					"display_url": "pic.twitter.com/GjCO32XqUK",
+					"expanded_url": "https://twitter.com/kakaowebtoon_kr/status/1529371691289280512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529365910972010500,
+					"id_str": "1529365910972010497",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529365910972010497/pu/img/FV8SphPL2lVMAl0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529365910972010497/pu/img/FV8SphPL2lVMAl0e.jpg",
+					"url": "https://t.co/GjCO32XqUK",
+					"display_url": "pic.twitter.com/GjCO32XqUK",
+					"expanded_url": "https://twitter.com/kakaowebtoon_kr/status/1529371691289280512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77077,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1529365910972010497/pu/pl/g5gyN5CtOtsaKHmI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529365910972010497/pu/vid/1280x720/XHTvLQKcelzLmGVB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529365910972010497/pu/vid/480x270/97e-O_v3YJsqRwL5.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529365910972010497/pu/vid/640x360/MgTJonlBdFJFuGLR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409349648490254300,
+			"id_str": "1409349648490254338",
+			"name": "kakaowebtoon (카카오웹툰)",
+			"screen_name": "kakaowebtoon_kr",
+			"location": "",
+			"description": "깊이 있는 시선으로 웹툰을 읽어 드립니다",
+			"url": "https://t.co/VVWM1pR29m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VVWM1pR29m",
+							"expanded_url": "http://bit.ly/3ecqvPN",
+							"display_url": "bit.ly/3ecqvPN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6412,
+			"friends_count": 3,
+			"listed_count": 17,
+			"created_at": "Mon Jun 28 03:17:55 +0000 2021",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409350659468521481/MXuVnpZh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409350659468521481/MXuVnpZh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409349648490254338/1624850405",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 930,
+		"favorite_count": 2677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "놓치기 전에 서둘러 💦 \n#아이유X도굴왕원정대 초능력 QUIZ 🎮\n\n[🗳] 다음 중 아이유의 선택은?\n밥 안 먹어도 됨 🆚 아무리 먹어도 살 안 찜\n\n아이유의 선택은 5월 31일에 공개됩니다 ✨ https://t.co/GjCO32XqUK"
+	},
+	{
 		"created_at": "Wed May 25 08:10:41 +0000 2022",
 		"id": 1529360686786449400,
 		"id_str": "1529374380676898816",
