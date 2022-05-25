@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 25 08:10:41 +0000 2022",
+		"id": 1529360686786449400,
+		"id_str": "1529374380676898816",
+		"full_text": "레드벨벳 슬기의 관능과 긍정의 태도.\n#레드벨벳 #슬기 #RedVelvet #SEULGI\nhttps://t.co/KwIunCH86j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KwIunCH86j",
+					"expanded_url": "https://www.wkorea.com/2022/05/25/%ec%8a%ac%ea%b8%b0%ec%9d%98-%ea%b4%80%eb%8a%a5%ea%b3%bc-%ea%b8%8d%ec%a0%95%ec%9d%98-%ed%83%9c%eb%8f%84/?ddw=111511&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/05/25/%ec…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296810,
+			"friends_count": 0,
+			"listed_count": 821,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1652935926",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 973,
+		"favorite_count": 1445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 슬기의 관능과 긍정의 태도.\n#레드벨벳 #슬기 #RedVelvet #SEULGI\nhttps://t.co/KwIunCH86j"
+	},
+	{
 		"created_at": "Wed May 25 07:24:02 +0000 2022",
 		"id": 1529357135569510400,
 		"id_str": "1529362643072319488",
