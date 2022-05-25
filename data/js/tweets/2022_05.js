@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 25 06:01:52 +0000 2022",
+		"id": 1529333272869625900,
+		"id_str": "1529341965208154114",
+		"full_text": "최근 급부상중인 추억의 라떼시절 브랜드 👾\n\n#블랙핑크 #제니 #우주소녀 #보나 #트와이스 #나연 #위키미키 #세이 #패션 #셀럽패션 #디키즈 #디젤 #리바이스 #칼하트 \n\nhttps://t.co/w42kZChx0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "보나",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "세이",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "셀럽패션",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "디키즈",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "디젤",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "리바이스",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "칼하트",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w42kZChx0K",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/66644",
+					"display_url": "cosmopolitan.co.kr/article/66644",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89546,
+			"friends_count": 4,
+			"listed_count": 404,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 급부상중인 추억의 라떼시절 브랜드 👾\n\n#블랙핑크 #제니 #우주소녀 #보나 #트와이스 #나연 #위키미키 #세이 #패션 #셀럽패션 #디키즈 #디젤 #리바이스 #칼하트 \n\nhttps://t.co/w42kZChx0K"
+	},
+	{
+		"created_at": "Wed May 25 05:40:16 +0000 2022",
+		"id": 1529334439297286100,
+		"id_str": "1529336527184084994",
+		"full_text": "Pisces Behind Photo🐠\n⠀\n백예린 '물고기'의 비하인드 포토가 블루바이닐 네이버포스트에 공개되었습니다. 미공개 컨셉을 포함한 더 많은 사진을 지금 바로 확인하세요! \n⠀\nhttps://t.co/TsOqKZTPls\n⠀\n#백예린 #yerinbaek #물고기 #pisces https://t.co/XXblYwF6Kk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "pisces",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsOqKZTPls",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=33807473&memberNo=47866274",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529334430661476400,
+					"id_str": "1529334430661476352",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FTlJj9paAAAEGci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTlJj9paAAAEGci.jpg",
+					"url": "https://t.co/XXblYwF6Kk",
+					"display_url": "pic.twitter.com/XXblYwF6Kk",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529334439297286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529334430661476400,
+					"id_str": "1529334430661476352",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FTlJj9paAAAEGci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTlJj9paAAAEGci.jpg",
+					"url": "https://t.co/XXblYwF6Kk",
+					"display_url": "pic.twitter.com/XXblYwF6Kk",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1529334439297286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42365,
+			"friends_count": 2,
+			"listed_count": 214,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 441,
+		"favorite_count": 654,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Pisces Behind Photo🐠\n⠀\n백예린 '물고기'의 비하인드 포토가 블루바이닐 네이버포스트에 공개되었습니다. 미공개 컨셉을 포함한 더 많은 사진을 지금 바로 확인하세요! \n⠀\nhttps://t.co/TsOqKZTPls\n⠀\n#백예린 #yerinbaek #물고기 #pisces https://t.co/XXblYwF6Kk"
+	},
+	{
+		"created_at": "Wed May 25 05:40:10 +0000 2022",
+		"id": 1529329528811663400,
+		"id_str": "1529336501594636288",
+		"full_text": "프라이머를 바른 듯,\n모공과 요철까지 커버해주어\n꽃잎이 물든것처럼 자연스럽게 블러해주세요\n\nhttps://t.co/Ll0vXxJNmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ll0vXxJNmM",
+					"expanded_url": "https://www.instagram.com/p/Cd98Ic_hfOc/",
+					"display_url": "instagram.com/p/Cd98Ic_hfOc/",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4264,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라이머를 바른 듯,\n모공과 요철까지 커버해주어\n꽃잎이 물든것처럼 자연스럽게 블러해주세요\n\nhttps://t.co/Ll0vXxJNmM"
+	},
+	{
 		"created_at": "Wed May 25 04:29:39 +0000 2022",
 		"id": 1529314331187642400,
 		"id_str": "1529318754487771137",
