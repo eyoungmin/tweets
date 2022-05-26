@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 04:29:39 +0000 2022",
+		"id": 1529673682448023600,
+		"id_str": "1529681143091585026",
+		"full_text": "#DEEP 하게 휩쓸리고 싶은 💗#효연💗과\n참았던 숨을 내쉬는 #ARIA 💗#예린💗을 정희에서 만나요😘\n\n5/27(FRI) 1pm(KST), #HYO &amp; #YERIN will appear on MBC radio!\n\n📻정오의 희망곡 김신영입니다\n✔보이는 라디오는 내일 1시부터\n✔봉춘라디오에서 스트리밍됩니다\n\n@GirlsGeneration @YERIN_OFFICIAL_ https://t.co/7h0C7vOEF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEEP",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "ARIA",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "예린",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "YERIN",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"screen_name": "YERIN_OFFICIAL_",
+					"name": "예린 YERIN",
+					"id": 1476807966817157000,
+					"id_str": "1476807966817157121",
+					"indices": [
+						193,
+						209
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528291380505653200,
+					"id_str": "1528291380505653248",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FTWU6dBUsAAzcj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTWU6dBUsAAzcj_.jpg",
+					"url": "https://t.co/7h0C7vOEF3",
+					"display_url": "pic.twitter.com/7h0C7vOEF3",
+					"expanded_url": "https://twitter.com/radiombc/status/1529673682448023552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528291380505653200,
+					"id_str": "1528291380505653248",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FTWU6dBUsAAzcj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTWU6dBUsAAzcj_.jpg",
+					"url": "https://t.co/7h0C7vOEF3",
+					"display_url": "pic.twitter.com/7h0C7vOEF3",
+					"expanded_url": "https://twitter.com/radiombc/status/1529673682448023552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78030,
+			"friends_count": 43,
+			"listed_count": 599,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 1007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#DEEP 하게 휩쓸리고 싶은 💗#효연💗과\n참았던 숨을 내쉬는 #ARIA 💗#예린💗을 정희에서 만나요😘\n\n5/27(FRI) 1pm(KST), #HYO &amp; #YERIN will appear on MBC radio!\n\n📻정오의 희망곡 김신영입니다\n✔보이는 라디오는 내일 1시부터\n✔봉춘라디오에서 스트리밍됩니다\n\n@GirlsGeneration @YERIN_OFFICIAL_ https://t.co/7h0C7vOEF3"
+	},
+	{
 		"created_at": "Thu May 26 03:40:13 +0000 2022",
 		"id": 1529448744332120000,
 		"id_str": "1529668701938761728",
