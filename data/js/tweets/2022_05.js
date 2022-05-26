@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 09:40:18 +0000 2022",
+		"id": 1529744556367163400,
+		"id_str": "1529759320077918208",
+		"full_text": "#태양등장! &lt;#브로커&gt; 칸을 밝히는 선샤인들 😎🌞\n📸 이제 칸 접수해 보자꾸나! #열려라참깨\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/6TOHxjfmiZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태양등장",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "열려라참깨",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "송강호",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "제75회_칸국제영화제_경쟁부문초청",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529742080553402400,
+					"id_str": "1529742080553402369",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTq8UT1aQAE8hZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTq8UT1aQAE8hZC.jpg",
+					"url": "https://t.co/6TOHxjfmiZ",
+					"display_url": "pic.twitter.com/6TOHxjfmiZ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1529744556367163397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529742080553402400,
+					"id_str": "1529742080553402369",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FTq8UT1aQAE8hZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTq8UT1aQAE8hZC.jpg",
+					"url": "https://t.co/6TOHxjfmiZ",
+					"display_url": "pic.twitter.com/6TOHxjfmiZ",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1529744556367163397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329379,
+			"friends_count": 10712,
+			"listed_count": 243,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1736,
+		"favorite_count": 3647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태양등장! &lt;#브로커&gt; 칸을 밝히는 선샤인들 😎🌞\n📸 이제 칸 접수해 보자꾸나! #열려라참깨\n\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/6TOHxjfmiZ"
+	},
+	{
 		"created_at": "Thu May 26 08:45:37 +0000 2022",
 		"id": 1529741629724283000,
 		"id_str": "1529745558365163522",
