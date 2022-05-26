@@ -1,6 +1,696 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 11:40:30 +0000 2022",
+		"id": 1529787108134879200,
+		"id_str": "1529789572003115008",
+		"full_text": "[#퀸덤2] 🔥9회 본방사수 EVENT🔥\n\n📌 필수 해시태그 : #퀸덤2_본방사수중, #널디\n\n📌 리워드\n'널디(@nerdyofficial) 젤리그 볼드 LT'\n(색상/사이즈 랜덤 배송)\n\n※ 당첨자 추후 개별 DM\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #NERDY https://t.co/4qD6ZJoyWu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "퀸덤2_본방사수중",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "널디",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "NERDY",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NerdyOfficial",
+					"name": "Nerdyofficial",
+					"id": 446075273,
+					"id_str": "446075273",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529787096697045000,
+					"id_str": "1529787096697044993",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrlQmCagAEegu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrlQmCagAEegu_.jpg",
+					"url": "https://t.co/4qD6ZJoyWu",
+					"display_url": "pic.twitter.com/4qD6ZJoyWu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529787108134879232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529787096697045000,
+					"id_str": "1529787096697044993",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrlQmCagAEegu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrlQmCagAEegu_.jpg",
+					"url": "https://t.co/4qD6ZJoyWu",
+					"display_url": "pic.twitter.com/4qD6ZJoyWu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1529787108134879232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063964,
+			"friends_count": 20944,
+			"listed_count": 3022,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 🔥9회 본방사수 EVENT🔥\n\n📌 필수 해시태그 : #퀸덤2_본방사수중, #널디\n\n📌 리워드\n'널디(@nerdyofficial) 젤리그 볼드 LT'\n(색상/사이즈 랜덤 배송)\n\n※ 당첨자 추후 개별 DM\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #엠넷 #NERDY https://t.co/4qD6ZJoyWu"
+	},
+	{
+		"created_at": "Thu May 26 11:40:12 +0000 2022",
+		"id": 1529785198220566500,
+		"id_str": "1529789494450429952",
+		"full_text": "acoustic version of Bad Life out tomorrow ❤️ @bmthofficial https://t.co/L0bmMevr5M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bmthofficial",
+					"name": "Bring Me The Horizon",
+					"id": 23748448,
+					"id_str": "23748448",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529785194093461500,
+					"id_str": "1529785194093461505",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrjh2SXwAE33z2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrjh2SXwAE33z2.jpg",
+					"url": "https://t.co/L0bmMevr5M",
+					"display_url": "pic.twitter.com/L0bmMevr5M",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1529785198220566528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529785194093461500,
+					"id_str": "1529785194093461505",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrjh2SXwAE33z2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrjh2SXwAE33z2.jpg",
+					"url": "https://t.co/L0bmMevr5M",
+					"display_url": "pic.twitter.com/L0bmMevr5M",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1529785198220566528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87305,
+			"friends_count": 269,
+			"listed_count": 326,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "acoustic version of Bad Life out tomorrow ❤️ @bmthofficial https://t.co/L0bmMevr5M"
+	},
+	{
+		"created_at": "Thu May 26 11:26:53 +0000 2022",
+		"id": 1529785328793333800,
+		"id_str": "1529786143452958720",
+		"full_text": "안녕하세요 완디예요💙\n왜 나타났냐구요?\n지금 영스 보라 하잖아요❗️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/WS8imb1MYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529785299861024800,
+					"id_str": "1529785299861024769",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrjoATUsAETyqZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrjoATUsAETyqZ.jpg",
+					"url": "https://t.co/WS8imb1MYz",
+					"display_url": "pic.twitter.com/WS8imb1MYz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1529785328793333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529785299861024800,
+					"id_str": "1529785299861024769",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrjoATUsAETyqZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrjoATUsAETyqZ.jpg",
+					"url": "https://t.co/WS8imb1MYz",
+					"display_url": "pic.twitter.com/WS8imb1MYz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1529785328793333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1529785314864091100,
+					"id_str": "1529785314864091137",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FTrjo4MVUAEMOO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTrjo4MVUAEMOO7.jpg",
+					"url": "https://t.co/WS8imb1MYz",
+					"display_url": "pic.twitter.com/WS8imb1MYz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1529785328793333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5370864,
+			"friends_count": 2,
+			"listed_count": 10970,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2462,
+		"favorite_count": 7676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 완디예요💙\n왜 나타났냐구요?\n지금 영스 보라 하잖아요❗️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트 \n#영스 #SBS https://t.co/WS8imb1MYz"
+	},
+	{
 		"created_at": "Thu May 26 10:29:38 +0000 2022",
 		"id": 1529769293507793000,
 		"id_str": "1529771738367774720",
