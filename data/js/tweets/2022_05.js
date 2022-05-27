@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 27 04:40:38 +0000 2022",
+		"id": 1530039999093444600,
+		"id_str": "1530046297209806849",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full CAM. 바로 확인하기\n\n▶️https://t.co/4Iv3KQ6A2S \n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Iv3KQ6A2S",
+					"expanded_url": "https://youtu.be/QheozRjkklQ",
+					"display_url": "youtu.be/QheozRjkklQ",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 903678,
+			"friends_count": 2,
+			"listed_count": 8631,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 899,
+		"favorite_count": 2618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full CAM. 바로 확인하기\n\n▶️https://t.co/4Iv3KQ6A2S \n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri May 27 04:40:33 +0000 2022",
+		"id": 1530039829253492700,
+		"id_str": "1530046275730677761",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n이브▶️ https://t.co/hfx18Ygm38\n츄▶️ https://t.co/xTa1GWkhDD\n고원▶️ https://t.co/hgNvMJEKxF\n올리비아 혜▶️ https://t.co/SUf9IFLaNQ\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hfx18Ygm38",
+					"expanded_url": "https://youtu.be/ZpULjOwvWfE",
+					"display_url": "youtu.be/ZpULjOwvWfE",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/xTa1GWkhDD",
+					"expanded_url": "https://youtu.be/YAuLGSK9PfA",
+					"display_url": "youtu.be/YAuLGSK9PfA",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/hgNvMJEKxF",
+					"expanded_url": "https://youtu.be/V7xRUEwCE3Y",
+					"display_url": "youtu.be/V7xRUEwCE3Y",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/SUf9IFLaNQ",
+					"expanded_url": "https://youtu.be/6dGGZWZ6hpE",
+					"display_url": "youtu.be/6dGGZWZ6hpE",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1530039827315695600,
+		"in_reply_to_status_id_str": "1530039827315695617",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 903678,
+			"friends_count": 2,
+			"listed_count": 8631,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 1114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n이브▶️ https://t.co/hfx18Ygm38\n츄▶️ https://t.co/xTa1GWkhDD\n고원▶️ https://t.co/hgNvMJEKxF\n올리비아 혜▶️ https://t.co/SUf9IFLaNQ\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri May 27 04:40:25 +0000 2022",
+		"id": 1530039827315695600,
+		"id_str": "1530046241673031680",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n비비▶️ https://t.co/cqqqgUTt01\n김립▶️ https://t.co/48Vgbjd3fn\n진솔▶️ https://t.co/W8sTCyvCHH\n최리▶️ https://t.co/q82XTU60hh\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqqqgUTt01",
+					"expanded_url": "https://youtu.be/wEnvKiEsQNY",
+					"display_url": "youtu.be/wEnvKiEsQNY",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/48Vgbjd3fn",
+					"expanded_url": "https://youtu.be/E0ffeOU--N0",
+					"display_url": "youtu.be/E0ffeOU--N0",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/W8sTCyvCHH",
+					"expanded_url": "https://youtu.be/Z5safKB-2PU",
+					"display_url": "youtu.be/Z5safKB-2PU",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/q82XTU60hh",
+					"expanded_url": "https://youtu.be/EDpdsgatI7U",
+					"display_url": "youtu.be/EDpdsgatI7U",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1530039825587634200,
+		"in_reply_to_status_id_str": "1530039825587634176",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 903678,
+			"friends_count": 2,
+			"listed_count": 8631,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 1150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n비비▶️ https://t.co/cqqqgUTt01\n김립▶️ https://t.co/48Vgbjd3fn\n진솔▶️ https://t.co/W8sTCyvCHH\n최리▶️ https://t.co/q82XTU60hh\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
+		"created_at": "Fri May 27 04:40:19 +0000 2022",
+		"id": 1530039825587634200,
+		"id_str": "1530046215987011585",
+		"full_text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/EXoLp8RXbo\n현진 ▶️ https://t.co/nn3iJfEDkQ\n하슬 ▶️ https://t.co/N8DSGGaDeZ\n여진 ▶️ https://t.co/sWaTI88t2D\n\n#이달의소녀 #LOONA #QUEENDOM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						193,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EXoLp8RXbo",
+					"expanded_url": "https://youtu.be/MnQ0QndUwcI",
+					"display_url": "youtu.be/MnQ0QndUwcI",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/nn3iJfEDkQ",
+					"expanded_url": "https://youtu.be/Jokx60Y1_qw",
+					"display_url": "youtu.be/Jokx60Y1_qw",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/N8DSGGaDeZ",
+					"expanded_url": "https://youtu.be/E6oV3TSoANE",
+					"display_url": "youtu.be/E6oV3TSoANE",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/sWaTI88t2D",
+					"expanded_url": "https://youtu.be/Sam2vmfavWM",
+					"display_url": "youtu.be/Sam2vmfavWM",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 903678,
+			"friends_count": 2,
+			"listed_count": 8631,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 805,
+		"favorite_count": 2306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퀸덤2 이달의 소녀 3차 경연 2R 'Butterfly' Full ver. 개인 직캠 바로 확인하기\n\n희진 ▶️ https://t.co/EXoLp8RXbo\n현진 ▶️ https://t.co/nn3iJfEDkQ\n하슬 ▶️ https://t.co/N8DSGGaDeZ\n여진 ▶️ https://t.co/sWaTI88t2D\n\n#이달의소녀 #LOONA #QUEENDOM2"
+	},
+	{
 		"created_at": "Fri May 27 03:40:10 +0000 2022",
 		"id": 1530021011554308000,
 		"id_str": "1530031077275877383",
