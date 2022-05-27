@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 27 11:29:43 +0000 2022",
+		"id": 1530142616636952600,
+		"id_str": "1530149246829309958",
+		"full_text": "[#DRAMA] [티저] 수 X 비(서현 x 나인우) 커플 MBTI 밸런스 게임 결과는? 💏 [징크스의 연인] | KBS 방송\n▶ https://t.co/t3Jn9xydke\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3Jn9xydke",
+					"expanded_url": "https://youtu.be/e4yoK3855SQ",
+					"display_url": "youtu.be/e4yoK3855SQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60322,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] [티저] 수 X 비(서현 x 나인우) 커플 MBTI 밸런스 게임 결과는? 💏 [징크스의 연인] | KBS 방송\n▶ https://t.co/t3Jn9xydke\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst"
+	},
+	{
+		"created_at": "Fri May 27 11:29:38 +0000 2022",
+		"id": 1530141771920973800,
+		"id_str": "1530149225350279172",
+		"full_text": "[🕷 ประกาศ 🕷] ผู้โชคดีที่ได้รับ ❝ มินิอัลบั้ม #DEEP พร้อมลายเซ็น #HYO ❞ รวม 3 รางวัล\n\nทีมงานสุ่มเลือกจากผู้ที่ร่วมกิจกรรม ❝ HYO ‘DEEP’ MV event with Thai S♡NE ❞ ช่วง 18~24 พ.ค. 65\n\n🕸 https://t.co/tzrDBipWZq\n\n#효연 #HYO_DEEP\n#소녀시대 #GirlsGeneration\n#ThaiSONE_DEEP #SMTrue https://t.co/jkWy5rQa1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEEP",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						227,
+						243
+					]
+				},
+				{
+					"text": "ThaiSONE_DEEP",
+					"indices": [
+						244,
+						258
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						259,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tzrDBipWZq",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/5178337458880827",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530117855509115000,
+					"id_str": "1530117855509114880",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FTwSFSoacAAiZg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTwSFSoacAAiZg-.jpg",
+					"url": "https://t.co/jkWy5rQa1z",
+					"display_url": "pic.twitter.com/jkWy5rQa1z",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1530141771920973825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530117855509115000,
+					"id_str": "1530117855509114880",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FTwSFSoacAAiZg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTwSFSoacAAiZg-.jpg",
+					"url": "https://t.co/jkWy5rQa1z",
+					"display_url": "pic.twitter.com/jkWy5rQa1z",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1530141771920973825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93160,
+			"friends_count": 50,
+			"listed_count": 151,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "[🕷 ประกาศ 🕷] ผู้โชคดีที่ได้รับ ❝ มินิอัลบั้ม #DEEP พร้อมลายเซ็น #HYO ❞ รวม 3 รางวัล\n\nทีมงานสุ่มเลือกจากผู้ที่ร่วมกิจกรรม ❝ HYO ‘DEEP’ MV event with Thai S♡NE ❞ ช่วง 18~24 พ.ค. 65\n\n🕸 https://t.co/tzrDBipWZq\n\n#효연 #HYO_DEEP\n#소녀시대 #GirlsGeneration\n#ThaiSONE_DEEP #SMTrue https://t.co/jkWy5rQa1z"
+	},
+	{
 		"created_at": "Fri May 27 10:40:15 +0000 2022",
 		"id": 1530125117761769500,
 		"id_str": "1530136797422002178",
