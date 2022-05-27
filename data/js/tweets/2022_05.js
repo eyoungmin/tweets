@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 27 10:40:15 +0000 2022",
+		"id": 1530125117761769500,
+		"id_str": "1530136797422002178",
+		"full_text": "📸 Instantané #Photocall - Photocall instant \nLES BONNES ÉTOILES (BROKER) de KORE-EDA Hirokazu\n-\nBROKER by KORE-EDA Hirokazu\n#Cannes2022 #Competition https://t.co/EQyjnPLr74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Photocall",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "Cannes2022",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "Competition",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530124842447552500,
+					"id_str": "1530124842447552512",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FTwYb_AWQAAD8To.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTwYb_AWQAAD8To.jpg",
+					"url": "https://t.co/EQyjnPLr74",
+					"display_url": "pic.twitter.com/EQyjnPLr74",
+					"expanded_url": "https://twitter.com/Festival_Cannes/status/1530125117761769474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530124842447552500,
+					"id_str": "1530124842447552512",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FTwYb_AWQAAD8To.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTwYb_AWQAAD8To.jpg",
+					"url": "https://t.co/EQyjnPLr74",
+					"display_url": "pic.twitter.com/EQyjnPLr74",
+					"expanded_url": "https://twitter.com/Festival_Cannes/status/1530125117761769474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275020671,
+			"id_str": "275020671",
+			"name": "Festival de Cannes",
+			"screen_name": "Festival_Cannes",
+			"location": "Paris / Cannes",
+			"description": "Du 17 au 28 mai 2022, suivez la 75e édition au plus près de l'écran! // From 17 to 28 May 2022, we offer film fans a front row seat to this year's edition!",
+			"url": "https://t.co/yZa26clPXc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yZa26clPXc",
+							"expanded_url": "http://www.festival-cannes.com",
+							"display_url": "festival-cannes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518363,
+			"friends_count": 2290,
+			"listed_count": 4390,
+			"created_at": "Thu Mar 31 13:41:19 +0000 2011",
+			"favourites_count": 4474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819874733038727168/j5nR2gtS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819874733038727168/j5nR2gtS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275020671/1650984066",
+			"profile_link_color": "C2A200",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "3B383B",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1554,
+		"favorite_count": 3613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "📸 Instantané #Photocall - Photocall instant \nLES BONNES ÉTOILES (BROKER) de KORE-EDA Hirokazu\n-\nBROKER by KORE-EDA Hirokazu\n#Cannes2022 #Competition https://t.co/EQyjnPLr74"
+	},
+	{
 		"created_at": "Fri May 27 09:40:28 +0000 2022",
 		"id": 1530119689841811500,
 		"id_str": "1530121750897381376",
@@ -531,7 +728,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
