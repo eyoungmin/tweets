@@ -1,6 +1,1188 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 27 06:40:22 +0000 2022",
+		"id": 1530066399002890200,
+		"id_str": "1530076428557074433",
+		"full_text": "[#퀸덤2] QUEEN'S GALLERY 다섯 번째 전시 OPEN🎉\n\n🔔다섯 번째 전시\n3차 경연 2R &lt;팬타스틱 퀸덤&gt; 1위 : 브레이브걸스 展\n\n🖼️ https://t.co/gXugbMgSIK\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #퀸즈갤러리 #Mnet #엠넷 https://t.co/g0PshmTmFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"text": "퀸즈갤러리",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						206,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXugbMgSIK",
+					"expanded_url": "https://bit.ly/Queensgallery5th",
+					"display_url": "bit.ly/Queensgallery5…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530064680860864500,
+					"id_str": "1530064680860864512",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvhuHoVUAAhazj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvhuHoVUAAhazj.jpg",
+					"url": "https://t.co/g0PshmTmFC",
+					"display_url": "pic.twitter.com/g0PshmTmFC",
+					"expanded_url": "https://twitter.com/MnetKR/status/1530066399002890240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530064680860864500,
+					"id_str": "1530064680860864512",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvhuHoVUAAhazj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvhuHoVUAAhazj.jpg",
+					"url": "https://t.co/g0PshmTmFC",
+					"display_url": "pic.twitter.com/g0PshmTmFC",
+					"expanded_url": "https://twitter.com/MnetKR/status/1530066399002890240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063977,
+			"friends_count": 20944,
+			"listed_count": 3028,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 1359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] QUEEN'S GALLERY 다섯 번째 전시 OPEN🎉\n\n🔔다섯 번째 전시\n3차 경연 2R &lt;팬타스틱 퀸덤&gt; 1위 : 브레이브걸스 展\n\n🖼️ https://t.co/gXugbMgSIK\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #퀸즈갤러리 #Mnet #엠넷 https://t.co/g0PshmTmFC"
+	},
+	{
+		"created_at": "Fri May 27 06:40:18 +0000 2022",
+		"id": 1530064868581118000,
+		"id_str": "1530076411268145152",
+		"full_text": "We actually got the tacos to go and went back to our hotel to eat them in bed. But us in pyjamas with taco crumbs and hot sauce down our chin doesn't make for a sexy photo. https://t.co/LEayu0hleq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530064866324623400,
+					"id_str": "1530064866324623361",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvh46iVsAEJsqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvh46iVsAEJsqY.jpg",
+					"url": "https://t.co/LEayu0hleq",
+					"display_url": "pic.twitter.com/LEayu0hleq",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1530064868581117952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530064866324623400,
+					"id_str": "1530064866324623361",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvh46iVsAEJsqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvh46iVsAEJsqY.jpg",
+					"url": "https://t.co/LEayu0hleq",
+					"display_url": "pic.twitter.com/LEayu0hleq",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1530064868581117952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166531,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We actually got the tacos to go and went back to our hotel to eat them in bed. But us in pyjamas with taco crumbs and hot sauce down our chin doesn't make for a sexy photo. https://t.co/LEayu0hleq"
+	},
+	{
+		"created_at": "Fri May 27 06:40:15 +0000 2022",
+		"id": 1530063233444245500,
+		"id_str": "1530076398160949248",
+		"full_text": "@prickly_pole That's very sad that you think artists can't just be fans of music too!!!!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prickly_pole",
+					"name": "Socorro Arranz",
+					"id": 1493804101,
+					"id_str": "1493804101",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529826208661139500,
+		"in_reply_to_status_id_str": "1529826208661139456",
+		"in_reply_to_user_id": 1493804101,
+		"in_reply_to_user_id_str": "1493804101",
+		"in_reply_to_screen_name": "prickly_pole",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166531,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@prickly_pole That's very sad that you think artists can't just be fans of music too!!!!"
+	},
+	{
+		"created_at": "Fri May 27 06:40:10 +0000 2022",
+		"id": 1530062605288493000,
+		"id_str": "1530076376769908739",
+		"full_text": "@EstefaniaLlc @TheBelascoLA Yesssss we are about to announce, it's so we can shoot a music video 👀",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EstefaniaLlc",
+					"name": "estefanía",
+					"id": 276398506,
+					"id_str": "276398506",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TheBelascoLA",
+					"name": "The Belasco LA",
+					"id": 187334741,
+					"id_str": "187334741",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1529960164148842500,
+		"in_reply_to_status_id_str": "1529960164148842497",
+		"in_reply_to_user_id": 276398506,
+		"in_reply_to_user_id_str": "276398506",
+		"in_reply_to_screen_name": "EstefaniaLlc",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166531,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@EstefaniaLlc @TheBelascoLA Yesssss we are about to announce, it's so we can shoot a music video 👀"
+	},
+	{
+		"created_at": "Fri May 27 06:29:40 +0000 2022",
+		"id": 1530067994608832500,
+		"id_str": "1530073736522735619",
+		"full_text": "DEEP으로 돌아온 퍼포먼스 퀸 효연👑\n#스포티파이_빌보드 선물 도착\n\n지금 #스포티파이 에서 \n#효연 의 [#Deep]을 들어보세요!\nhttps://t.co/qISexdprxJ \n\n📍강남역G-Vision, 이즈라이브, 점프 밀라노, 신사역SYH빌딩\n\n@Hyoyeon_djhyo @GirlsGeneration #HYO #HYO_DEEP #GirlsGeneration #소녀시대 https://t.co/9DoCtiLhOb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이_빌보드",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "Deep",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						205,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						156,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qISexdprxJ",
+					"expanded_url": "http://spoti.fi/3yTSDCl",
+					"display_url": "spoti.fi/3yTSDCl",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530067945342517200,
+					"id_str": "1530067945342517250",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvksIxaQAIL5ZF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvksIxaQAIL5ZF.jpg",
+					"url": "https://t.co/9DoCtiLhOb",
+					"display_url": "pic.twitter.com/9DoCtiLhOb",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1530067994608832512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530067945342517200,
+					"id_str": "1530067945342517250",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvksIxaQAIL5ZF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvksIxaQAIL5ZF.jpg",
+					"url": "https://t.co/9DoCtiLhOb",
+					"display_url": "pic.twitter.com/9DoCtiLhOb",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1530067994608832512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530067965357736000,
+					"id_str": "1530067965357735936",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvktTVaQAA1td7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvktTVaQAA1td7.jpg",
+					"url": "https://t.co/9DoCtiLhOb",
+					"display_url": "pic.twitter.com/9DoCtiLhOb",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1530067994608832512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/8QxVSpPcFz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QxVSpPcFz",
+							"expanded_url": "http://spoti.fi/3PxAH6w",
+							"display_url": "spoti.fi/3PxAH6w",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95463,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DEEP으로 돌아온 퍼포먼스 퀸 효연👑\n#스포티파이_빌보드 선물 도착\n\n지금 #스포티파이 에서 \n#효연 의 [#Deep]을 들어보세요!\nhttps://t.co/qISexdprxJ \n\n📍강남역G-Vision, 이즈라이브, 점프 밀라노, 신사역SYH빌딩\n\n@Hyoyeon_djhyo @GirlsGeneration #HYO #HYO_DEEP #GirlsGeneration #소녀시대 https://t.co/9DoCtiLhOb"
+	},
+	{
+		"created_at": "Fri May 27 06:29:38 +0000 2022",
+		"id": 1530065782230904800,
+		"id_str": "1530073727660134400",
+		"full_text": "[#NEWS] 서현, 더 청량하게[화보]\n▶ https://t.co/6gThs6aXr5\n\n#서현 #티르리르 #SEOHYUN #TirrLirr https://t.co/9wBv54K6rK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "티르리르",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "TirrLirr",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6gThs6aXr5",
+					"expanded_url": "http://naver.me/5ObIiYgJ",
+					"display_url": "naver.me/5ObIiYgJ",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530065732666794000,
+					"id_str": "1530065732666793985",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvirV6aIAEo2Yz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvirV6aIAEo2Yz.jpg",
+					"url": "https://t.co/9wBv54K6rK",
+					"display_url": "pic.twitter.com/9wBv54K6rK",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1530065782230904832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530065732666794000,
+					"id_str": "1530065732666793985",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvirV6aIAEo2Yz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvirV6aIAEo2Yz.jpg",
+					"url": "https://t.co/9wBv54K6rK",
+					"display_url": "pic.twitter.com/9wBv54K6rK",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1530065782230904832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530065732666822700,
+					"id_str": "1530065732666822656",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FTvirV6akAAW009.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTvirV6akAAW009.jpg",
+					"url": "https://t.co/9wBv54K6rK",
+					"display_url": "pic.twitter.com/9wBv54K6rK",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1530065782230904832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60313,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 더 청량하게[화보]\n▶ https://t.co/6gThs6aXr5\n\n#서현 #티르리르 #SEOHYUN #TirrLirr https://t.co/9wBv54K6rK"
+	},
+	{
 		"created_at": "Fri May 27 05:40:14 +0000 2022",
 		"id": 1530048741054394400,
 		"id_str": "1530061295562674178",
