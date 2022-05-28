@@ -1,10 +1,185 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 10:40:10 +0000 2022",
+		"id": 1530484336360833000,
+		"id_str": "1530499162147545095",
+		"full_text": "Can't believe we are nearly at the end of our US tour. Just Oakland, Anaheim and Los Angeles left! Then it's onto Europe babyyyyyy https://t.co/fkvgBdAE6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530484299182526500,
+					"id_str": "1530484299182526465",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FT1fXHsWUAEEq-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT1fXHsWUAEEq-T.jpg",
+					"url": "https://t.co/fkvgBdAE6j",
+					"display_url": "pic.twitter.com/fkvgBdAE6j",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1530484336360833025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530484299182526500,
+					"id_str": "1530484299182526465",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FT1fXHsWUAEEq-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT1fXHsWUAEEq-T.jpg",
+					"url": "https://t.co/fkvgBdAE6j",
+					"display_url": "pic.twitter.com/fkvgBdAE6j",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1530484336360833025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166530,
+			"friends_count": 203,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can't believe we are nearly at the end of our US tour. Just Oakland, Anaheim and Los Angeles left! Then it's onto Europe babyyyyyy https://t.co/fkvgBdAE6j"
+	},
+	{
 		"created_at": "Sat May 28 08:40:14 +0000 2022",
 		"id": 1530443757409161200,
 		"id_str": "1530468980195999744",
-		"full_text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄‍♀️🏊‍♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz",
+		"full_text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄♀️🏊♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -362,7 +537,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄‍♀️🏊‍♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz"
+		"text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄♀️🏊♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz"
 	},
 	{
 		"created_at": "Sat May 28 05:40:26 +0000 2022",
