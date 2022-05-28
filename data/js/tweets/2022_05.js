@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 11:45:37 +0000 2022",
+		"id": 1530504158192746500,
+		"id_str": "1530515633305157632",
+		"full_text": "이달의 소녀의 스페셜 영상 도착👑\n\n#스포티파이 퀸덤2 공식 플레이리스트에서 \n#이달의소녀 의 컴백 음원을 만나보세요!\nhttps://t.co/bnVSDKI6N0\n\n결제수단 등록 없이 7일 무료체험 가능🎧\n[Android] https://t.co/xp6qMbn6EV \n[IOS] https://t.co/BkmBci5DUh \n\n#퀸덤2_스포티파이 @MnetKR https://t.co/PBdwuIPTXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "퀸덤2_스포티파이",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetKR",
+					"name": "Mnet",
+					"id": 128466223,
+					"id_str": "128466223",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bnVSDKI6N0",
+					"expanded_url": "http://spoti.fi/3ad3nRW",
+					"display_url": "spoti.fi/3ad3nRW",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/xp6qMbn6EV",
+					"expanded_url": "http://bit.ly/3PLuFiD",
+					"display_url": "bit.ly/3PLuFiD",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/BkmBci5DUh",
+					"expanded_url": "http://apple.co/3yZw7rR",
+					"display_url": "apple.co/3yZw7rR",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530048017054965800,
+					"id_str": "1530048017054965760",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530048017054965760/pu/img/LMRo0_y4CTR-F7ud.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530048017054965760/pu/img/LMRo0_y4CTR-F7ud.jpg",
+					"url": "https://t.co/PBdwuIPTXR",
+					"display_url": "pic.twitter.com/PBdwuIPTXR",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1530504158192746497/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530048017054965800,
+					"id_str": "1530048017054965760",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1530048017054965760/pu/img/LMRo0_y4CTR-F7ud.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1530048017054965760/pu/img/LMRo0_y4CTR-F7ud.jpg",
+					"url": "https://t.co/PBdwuIPTXR",
+					"display_url": "pic.twitter.com/PBdwuIPTXR",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1530504158192746497/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25400,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530048017054965760/pu/vid/480x270/sLxyPlHnxuUduLa4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530048017054965760/pu/vid/640x360/aeTXik1U_QDIj_H8.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1530048017054965760/pu/vid/1280x720/JJJrIfMzx2L21KKo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1530048017054965760/pu/pl/m2rigGXfEwCpqLDo.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/8QxVSpPcFz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QxVSpPcFz",
+							"expanded_url": "http://spoti.fi/3PxAH6w",
+							"display_url": "spoti.fi/3PxAH6w",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97152,
+			"friends_count": 0,
+			"listed_count": 77,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 1034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀의 스페셜 영상 도착👑\n\n#스포티파이 퀸덤2 공식 플레이리스트에서 \n#이달의소녀 의 컴백 음원을 만나보세요!\nhttps://t.co/bnVSDKI6N0\n\n결제수단 등록 없이 7일 무료체험 가능🎧\n[Android] https://t.co/xp6qMbn6EV \n[IOS] https://t.co/BkmBci5DUh \n\n#퀸덤2_스포티파이 @MnetKR https://t.co/PBdwuIPTXR"
+	},
+	{
 		"created_at": "Sat May 28 10:40:10 +0000 2022",
 		"id": 1530484336360833000,
 		"id_str": "1530499162147545095",
