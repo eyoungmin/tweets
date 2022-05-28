@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 15:40:12 +0000 2022",
+		"id": 1530284665407512600,
+		"id_str": "1530574668750626817",
+		"full_text": "Lights will guide you home, but we'll take care of the ride. Enjoy free rides home from the @coldplay concert on CTA!\n\nTurnstiles will be open from 11:30pm-12:30am on 5/28 &amp; 5/29 at Roosevelt station only. \n\n#coldplaychicago https://t.co/sdJFHou9R2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coldplaychicago",
+					"indices": [
+						212,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530284663629140000,
+					"id_str": "1530284663629139970",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FTypyzTX0AIZz1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTypyzTX0AIZz1r.jpg",
+					"url": "https://t.co/sdJFHou9R2",
+					"display_url": "pic.twitter.com/sdJFHou9R2",
+					"expanded_url": "https://twitter.com/cta/status/1530284665407512577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530284663629140000,
+					"id_str": "1530284663629139970",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FTypyzTX0AIZz1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTypyzTX0AIZz1r.jpg",
+					"url": "https://t.co/sdJFHou9R2",
+					"display_url": "pic.twitter.com/sdJFHou9R2",
+					"expanded_url": "https://twitter.com/cta/status/1530284665407512577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 342782636,
+			"id_str": "342782636",
+			"name": "cta",
+			"screen_name": "cta",
+			"location": "Chicago, IL",
+			"description": "Chicago Transit Authority updates/news/more. Not monitored 24/7; customer service: https://t.co/gnmP9auGLQ. In emergency always tell nearest staff/ca",
+			"url": "https://t.co/6ZxYE1s1EU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ZxYE1s1EU",
+							"expanded_url": "http://www.transitchicago.com",
+							"display_url": "transitchicago.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gnmP9auGLQ",
+							"expanded_url": "http://transitchicago.com/feedback",
+							"display_url": "transitchicago.com/feedback",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 263515,
+			"friends_count": 95,
+			"listed_count": 1594,
+			"created_at": "Tue Jul 26 15:37:01 +0000 2011",
+			"favourites_count": 2120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 106068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "191919",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037092242576441344/mJejHIAe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037092242576441344/mJejHIAe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/342782636/1646060804",
+			"profile_link_color": "0065BD",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lights will guide you home, but we'll take care of the ride. Enjoy free rides home from the @coldplay concert on CTA!\n\nTurnstiles will be open from 11:30pm-12:30am on 5/28 &amp; 5/29 at Roosevelt station only. \n\n#coldplaychicago https://t.co/sdJFHou9R2"
+	},
+	{
 		"created_at": "Sat May 28 13:24:58 +0000 2022",
 		"id": 1530534472999141400,
 		"id_str": "1530540635597393921",
