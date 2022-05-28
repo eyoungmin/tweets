@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 05:40:26 +0000 2022",
+		"id": 1530384445404237800,
+		"id_str": "1530423733088813059",
+		"full_text": "“사람들이 공통적으로 지닌 감정들을 그려보고 싶었다”\n&lt;#브로커&gt; 를 향한 전 세계의 질문 폭발!💥 \n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/Zo5HMeLr6q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "송강호",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"text": "제75회_칸국제영화제_경쟁부문초청",
+					"indices": [
+						153,
+						172
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530384301048885200,
+					"id_str": "1530384301048885250",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0EadnacAInSKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0EadnacAInSKq.jpg",
+					"url": "https://t.co/Zo5HMeLr6q",
+					"display_url": "pic.twitter.com/Zo5HMeLr6q",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530384445404237827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530384301048885200,
+					"id_str": "1530384301048885250",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0EadnacAInSKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0EadnacAInSKq.jpg",
+					"url": "https://t.co/Zo5HMeLr6q",
+					"display_url": "pic.twitter.com/Zo5HMeLr6q",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530384445404237827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530384301061460000,
+					"id_str": "1530384301061459970",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0EadqaUAIfo4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0EadqaUAIfo4n.jpg",
+					"url": "https://t.co/Zo5HMeLr6q",
+					"display_url": "pic.twitter.com/Zo5HMeLr6q",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530384445404237827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530384301040476200,
+					"id_str": "1530384301040476160",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0EadlaIAAfOUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0EadlaIAAfOUb.jpg",
+					"url": "https://t.co/Zo5HMeLr6q",
+					"display_url": "pic.twitter.com/Zo5HMeLr6q",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530384445404237827/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329547,
+			"friends_count": 10710,
+			"listed_count": 244,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 2591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“사람들이 공통적으로 지닌 감정들을 그려보고 싶었다”\n&lt;#브로커&gt; 를 향한 전 세계의 질문 폭발!💥 \n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/Zo5HMeLr6q"
+	},
+	{
+		"created_at": "Sat May 28 05:40:22 +0000 2022",
+		"id": 1530381665880920000,
+		"id_str": "1530423715795816450",
+		"full_text": "&lt;#브로커&gt; 칸 포토콜 현장 📸 https://t.co/kEAf3oFqMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						4,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530381654581481500,
+					"id_str": "1530381654581481472",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0CAawakAAviig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0CAawakAAviig.jpg",
+					"url": "https://t.co/kEAf3oFqMe",
+					"display_url": "pic.twitter.com/kEAf3oFqMe",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381665880920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 874,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530381654581481500,
+					"id_str": "1530381654581481472",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0CAawakAAviig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0CAawakAAviig.jpg",
+					"url": "https://t.co/kEAf3oFqMe",
+					"display_url": "pic.twitter.com/kEAf3oFqMe",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381665880920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 874,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530381654724083700,
+					"id_str": "1530381654724083713",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0CAbSagAEhZgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0CAbSagAEhZgZ.jpg",
+					"url": "https://t.co/kEAf3oFqMe",
+					"display_url": "pic.twitter.com/kEAf3oFqMe",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381665880920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 835,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1530381611820552200,
+		"in_reply_to_status_id_str": "1530381611820552192",
+		"in_reply_to_user_id": 452664114,
+		"in_reply_to_user_id_str": "452664114",
+		"in_reply_to_screen_name": "CJENMMOVIE",
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329547,
+			"friends_count": 10710,
+			"listed_count": 244,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 2001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#브로커&gt; 칸 포토콜 현장 📸 https://t.co/kEAf3oFqMe"
+	},
+	{
+		"created_at": "Sat May 28 05:40:16 +0000 2022",
+		"id": 1530381486175965200,
+		"id_str": "1530423690126667782",
+		"full_text": "&lt;#브로커&gt; 칸 포토콜 현장 📸 https://t.co/Qvh9r0EsiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						4,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530381454198579200,
+					"id_str": "1530381454198579200",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0B0wRaIAAKPRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0B0wRaIAAKPRs.jpg",
+					"url": "https://t.co/Qvh9r0EsiS",
+					"display_url": "pic.twitter.com/Qvh9r0EsiS",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381486175965184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1516,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530381454198579200,
+					"id_str": "1530381454198579200",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0B0wRaIAAKPRs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0B0wRaIAAKPRs.jpg",
+					"url": "https://t.co/Qvh9r0EsiS",
+					"display_url": "pic.twitter.com/Qvh9r0EsiS",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381486175965184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1516,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530381454206996500,
+					"id_str": "1530381454206996480",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0B0wTakAAtIfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0B0wTakAAtIfR.jpg",
+					"url": "https://t.co/Qvh9r0EsiS",
+					"display_url": "pic.twitter.com/Qvh9r0EsiS",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530381486175965184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1438,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1530381356039286800,
+		"in_reply_to_status_id_str": "1530381356039286784",
+		"in_reply_to_user_id": 452664114,
+		"in_reply_to_user_id_str": "452664114",
+		"in_reply_to_screen_name": "CJENMMOVIE",
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329547,
+			"friends_count": 10710,
+			"listed_count": 244,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 671,
+		"favorite_count": 2389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#브로커&gt; 칸 포토콜 현장 📸 https://t.co/Qvh9r0EsiS"
+	},
+	{
 		"created_at": "Sat May 28 03:40:10 +0000 2022",
 		"id": 1530383403115479000,
 		"id_str": "1530393466328469505",
