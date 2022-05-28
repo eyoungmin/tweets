@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 08:40:14 +0000 2022",
+		"id": 1530443757409161200,
+		"id_str": "1530468980195999744",
+		"full_text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄‍♀️🏊‍♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "수영강습필수",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "송강호",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "제75회_칸국제영화제_경쟁부문초청",
+					"indices": [
+						165,
+						184
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq33en",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1530400101944131600,
+					"id_str": "1530400101944131584",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0SyMiaAAAywJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0SyMiaAAAywJM.jpg",
+					"url": "https://t.co/gWWBqml1cz",
+					"display_url": "pic.twitter.com/gWWBqml1cz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530443757409161216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530400101944131600,
+					"id_str": "1530400101944131584",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0SyMiaAAAywJM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0SyMiaAAAywJM.jpg",
+					"url": "https://t.co/gWWBqml1cz",
+					"display_url": "pic.twitter.com/gWWBqml1cz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530443757409161216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530400101935775700,
+					"id_str": "1530400101935775745",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0SyMgagAEDOJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0SyMgagAEDOJW.jpg",
+					"url": "https://t.co/gWWBqml1cz",
+					"display_url": "pic.twitter.com/gWWBqml1cz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530443757409161216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530400101927383000,
+					"id_str": "1530400101927383041",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0SyMeacAEIPo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0SyMeacAEIPo8.jpg",
+					"url": "https://t.co/gWWBqml1cz",
+					"display_url": "pic.twitter.com/gWWBqml1cz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530443757409161216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1530400101931561000,
+					"id_str": "1530400101931560960",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FT0SyMfaMAAvoSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT0SyMfaMAAvoSn.jpg",
+					"url": "https://t.co/gWWBqml1cz",
+					"display_url": "pic.twitter.com/gWWBqml1cz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1530443757409161216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329570,
+			"friends_count": 10710,
+			"listed_count": 245,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 775,
+		"favorite_count": 2502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "칸 풍경과 배우들 비주얼에 파도처럼 밀려오는 설렘... 🌊💙\n&lt;#브로커&gt;에 빠지기 전 #수영강습필수 라구! 🏄‍♀️🏊‍♂️\n⠀\n✅&lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n⠀\n#송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #제75회_칸국제영화제_경쟁부문초청 #6월8일대개봉 https://t.co/gWWBqml1cz"
+	},
+	{
 		"created_at": "Sat May 28 05:40:26 +0000 2022",
 		"id": 1530384445404237800,
 		"id_str": "1530423733088813059",
