@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 30 02:44:41 +0000 2022",
+		"id": 1531102184007356400,
+		"id_str": "1531104280316243968",
+		"full_text": "[#NEWS] 서현X나인우, 판타지 로맨스 '징크스의 연인'\n▶ https://t.co/oWjYkZh5GU\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/64TaoWVCTB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWjYkZh5GU",
+					"expanded_url": "http://naver.me/5ObIMdIf",
+					"display_url": "naver.me/5ObIMdIf",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531102006768996400,
+					"id_str": "1531102006768996352",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FT-RKbxakAAesw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT-RKbxakAAesw-.jpg",
+					"url": "https://t.co/64TaoWVCTB",
+					"display_url": "pic.twitter.com/64TaoWVCTB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1531102184007356416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531102006768996400,
+					"id_str": "1531102006768996352",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FT-RKbxakAAesw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT-RKbxakAAesw-.jpg",
+					"url": "https://t.co/64TaoWVCTB",
+					"display_url": "pic.twitter.com/64TaoWVCTB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1531102184007356416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60355,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현X나인우, 판타지 로맨스 '징크스의 연인'\n▶ https://t.co/oWjYkZh5GU\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/64TaoWVCTB"
+	},
+	{
+		"created_at": "Mon May 30 02:40:22 +0000 2022",
+		"id": 1531100539815022600,
+		"id_str": "1531103193027035137",
+		"full_text": "BoA wraps up her 20th Japan debut anniversary concert proving her unrivaled vocals and performance!\nBoA’s 20th Japan debut anniversary album ‘The Greatest’ is out today!\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "TheGreatest",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"text": "BoA_TheGreatest",
+					"indices": [
+						194,
+						210
+					]
+				},
+				{
+					"text": "BoAJP20th",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1531100535398445000,
+		"in_reply_to_status_id_str": "1531100535398445059",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71508,
+			"friends_count": 1,
+			"listed_count": 277,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BoA wraps up her 20th Japan debut anniversary concert proving her unrivaled vocals and performance!\nBoA’s 20th Japan debut anniversary album ‘The Greatest’ is out today!\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th"
+	},
+	{
+		"created_at": "Mon May 30 02:40:15 +0000 2022",
+		"id": 1531100535398445000,
+		"id_str": "1531103163113164802",
+		"full_text": "보아, 日 데뷔 20주년 기념 콘서트 성황! 명불허전 라이브&amp;퍼포먼스 선사!\n日 데뷔 20주년 기념 앨범 ‘The Greatest’ 오늘 발매!\n\nhttps://t.co/A2btABLnJR\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "TheGreatest",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "BoA_TheGreatest",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "BoAJP20th",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A2btABLnJR",
+					"expanded_url": "https://bit.ly/3wZXizU",
+					"display_url": "bit.ly/3wZXizU",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71508,
+			"friends_count": 1,
+			"listed_count": 277,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아, 日 데뷔 20주년 기념 콘서트 성황! 명불허전 라이브&amp;퍼포먼스 선사!\n日 데뷔 20주년 기념 앨범 ‘The Greatest’ 오늘 발매!\n\nhttps://t.co/A2btABLnJR\n\n#BoA #보아 \n#TheGreatest #BoA_TheGreatest\n#BoAJP20th"
+	},
+	{
 		"created_at": "Mon May 30 00:40:10 +0000 2022",
 		"id": 1531069910570389500,
 		"id_str": "1531072946206392321",
