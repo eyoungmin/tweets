@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 05:40:38 +0000 2022",
+		"id": 1531508208325492700,
+		"id_str": "1531510947428327434",
+		"full_text": "@bradenpontoli @wiltern @theBelasco @TheBelascoLA Yep!!",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bradenpontoli",
+					"name": "bradenpontoli",
+					"id": 1232608620098908200,
+					"id_str": "1232608620098908161",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "wiltern",
+					"name": "The Wiltern",
+					"id": 14703765,
+					"id_str": "14703765",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "theBelasco",
+					"name": "The Belasco",
+					"id": 274358230,
+					"id_str": "274358230",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "TheBelascoLA",
+					"name": "The Belasco LA",
+					"id": 187334741,
+					"id_str": "187334741",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1531467258693791700,
+		"in_reply_to_status_id_str": "1531467258693791744",
+		"in_reply_to_user_id": 1232608620098908200,
+		"in_reply_to_user_id_str": "1232608620098908161",
+		"in_reply_to_screen_name": "bradenpontoli",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166504,
+			"friends_count": 203,
+			"listed_count": 427,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@bradenpontoli @wiltern @theBelasco @TheBelascoLA Yep!!"
+	},
+	{
+		"created_at": "Tue May 31 05:40:32 +0000 2022",
+		"id": 1531508140214300700,
+		"id_str": "1531510921583116289",
+		"full_text": "🎈🎈🎈🎈 Last day of tour tomorrow is gonna be a party!!!! This has been such an affirming few weeks around North America. We've waited 2 YEARS to play these shows and they've been completely unreal.\n\nLA, see you tomorrow at the Belasco to close out the best OW tour yet 😘 https://t.co/LRMzcDAQq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531508123596464000,
+					"id_str": "1531508123596464128",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FUEChi2XoAAGg-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUEChi2XoAAGg-Q.jpg",
+					"url": "https://t.co/LRMzcDAQq7",
+					"display_url": "pic.twitter.com/LRMzcDAQq7",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1531508140214300673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531508123596464000,
+					"id_str": "1531508123596464128",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FUEChi2XoAAGg-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUEChi2XoAAGg-Q.jpg",
+					"url": "https://t.co/LRMzcDAQq7",
+					"display_url": "pic.twitter.com/LRMzcDAQq7",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1531508140214300673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166504,
+			"friends_count": 203,
+			"listed_count": 427,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈🎈🎈🎈 Last day of tour tomorrow is gonna be a party!!!! This has been such an affirming few weeks around North America. We've waited 2 YEARS to play these shows and they've been completely unreal.\n\nLA, see you tomorrow at the Belasco to close out the best OW tour yet 😘 https://t.co/LRMzcDAQq7"
+	},
+	{
+		"created_at": "Tue May 31 05:40:16 +0000 2022",
+		"id": 1531501704176279600,
+		"id_str": "1531510853589164033",
+		"full_text": "[#퀸덤2] 3차 경연 2R &lt;팬타스틱 퀸덤&gt; 비하인드 포토 공개 📷\n\n지금 바로 확인하세요!\n\n비하인드 포토 확인하기▶️ https://t.co/HZQBmn2mXQ\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/CNMd2vnOSd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HZQBmn2mXQ",
+					"expanded_url": "https://bit.ly/2WJwSSr",
+					"display_url": "bit.ly/2WJwSSr",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531493199704780800,
+					"id_str": "1531493199704780800",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD083BUcAAD5s3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD083BUcAAD5s3.jpg",
+					"url": "https://t.co/CNMd2vnOSd",
+					"display_url": "pic.twitter.com/CNMd2vnOSd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531501704176279554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531493199704780800,
+					"id_str": "1531493199704780800",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD083BUcAAD5s3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD083BUcAAD5s3.jpg",
+					"url": "https://t.co/CNMd2vnOSd",
+					"display_url": "pic.twitter.com/CNMd2vnOSd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531501704176279554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531493199683825700,
+					"id_str": "1531493199683825664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD0828UsAANvar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD0828UsAANvar.jpg",
+					"url": "https://t.co/CNMd2vnOSd",
+					"display_url": "pic.twitter.com/CNMd2vnOSd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531501704176279554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531493199692169200,
+					"id_str": "1531493199692169216",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD082-UAAA2Ak7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD082-UAAA2Ak7.jpg",
+					"url": "https://t.co/CNMd2vnOSd",
+					"display_url": "pic.twitter.com/CNMd2vnOSd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531501704176279554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531493199717355500,
+					"id_str": "1531493199717355520",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD083EUUAA4P3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD083EUUAA4P3u.jpg",
+					"url": "https://t.co/CNMd2vnOSd",
+					"display_url": "pic.twitter.com/CNMd2vnOSd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531501704176279554/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063935,
+			"friends_count": 20936,
+			"listed_count": 3020,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 2769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 3차 경연 2R &lt;팬타스틱 퀸덤&gt; 비하인드 포토 공개 📷\n\n지금 바로 확인하세요!\n\n비하인드 포토 확인하기▶️ https://t.co/HZQBmn2mXQ\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/CNMd2vnOSd"
+	},
+	{
+		"created_at": "Tue May 31 05:40:14 +0000 2022",
+		"id": 1531499090588012500,
+		"id_str": "1531510844755935236",
+		"full_text": "내 엉덩이는 여전히 못생겼지만, 그 기능을 다하기에 참 proud of it!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58971,
+			"friends_count": 2,
+			"listed_count": 157,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내 엉덩이는 여전히 못생겼지만, 그 기능을 다하기에 참 proud of it!"
+	},
+	{
+		"created_at": "Tue May 31 05:40:10 +0000 2022",
+		"id": 1531497541388316700,
+		"id_str": "1531510827534123008",
+		"full_text": "사람들은 그저 나에게 예쁘다 귀엽다 칭찬을하지만 나는 그 사람의 눈을 깊게 들여다본다. 난 당신의 타인을 사랑하고 칭찬할 수 있는 그 마음을 가지고싶다. 나는 당신을 질투한다. 당신은 누군가가 되고싶어하는 사람이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1531496862384918500,
+		"in_reply_to_status_id_str": "1531496862384918528",
+		"in_reply_to_user_id": 1448497121867436000,
+		"in_reply_to_user_id_str": "1448497121867436037",
+		"in_reply_to_screen_name": "nakedbibi",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58971,
+			"friends_count": 2,
+			"listed_count": 157,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사람들은 그저 나에게 예쁘다 귀엽다 칭찬을하지만 나는 그 사람의 눈을 깊게 들여다본다. 난 당신의 타인을 사랑하고 칭찬할 수 있는 그 마음을 가지고싶다. 나는 당신을 질투한다. 당신은 누군가가 되고싶어하는 사람이다."
+	},
+	{
 		"created_at": "Tue May 31 03:45:47 +0000 2022",
 		"id": 1531472534322811000,
 		"id_str": "1531482042831097856",
