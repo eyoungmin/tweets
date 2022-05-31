@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 19:40:09 +0000 2022",
+		"id": 1531639993877381000,
+		"id_str": "1531722218991980544",
+		"full_text": "Fans attending the upcoming @Coldplay concerts at @MetLifeStadium this weekend can support the band’s sustainability efforts by taking NJ TRANSIT’s rail service to the stadium. Fans can use code \"COLDPLAY for 25% off their roundtrip ticket to Metlife! https://t.co/XNGqFJ1m3H https://t.co/8uVx8hrhj3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "MetLifeStadium",
+					"name": "MetLife Stadium",
+					"id": 84434832,
+					"id_str": "84434832",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XNGqFJ1m3H",
+					"expanded_url": "https://bit.ly/38xVVAq",
+					"display_url": "bit.ly/38xVVAq",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531639990970638300,
+					"id_str": "1531639990970638336",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FUF6dPGWYAAJAlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUF6dPGWYAAJAlw.jpg",
+					"url": "https://t.co/8uVx8hrhj3",
+					"display_url": "pic.twitter.com/8uVx8hrhj3",
+					"expanded_url": "https://twitter.com/NJTRANSIT/status/1531639993877381121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531639990970638300,
+					"id_str": "1531639990970638336",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FUF6dPGWYAAJAlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUF6dPGWYAAJAlw.jpg",
+					"url": "https://t.co/8uVx8hrhj3",
+					"display_url": "pic.twitter.com/8uVx8hrhj3",
+					"expanded_url": "https://twitter.com/NJTRANSIT/status/1531639993877381121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18136692,
+			"id_str": "18136692",
+			"name": "NJ TRANSIT",
+			"screen_name": "NJTRANSIT",
+			"location": "New Jersey",
+			"description": "NJ’s statewide transit provider. Monitored 6AM-10PM M-F, 10-6 Sat/Sun. Equal employment opportunity employer. https://t.co/uIxc8i15or…",
+			"url": "https://t.co/oIyh6H3WYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oIyh6H3WYS",
+							"expanded_url": "http://www.njtransit.com",
+							"display_url": "njtransit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uIxc8i15or",
+							"expanded_url": "https://twitter.com/i/lists/114937",
+							"display_url": "twitter.com/i/lists/114937",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249957,
+			"friends_count": 121,
+			"listed_count": 1587,
+			"created_at": "Mon Dec 15 14:00:04 +0000 2008",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 97682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1528769249329786882/EKGUTnNA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528769249329786882/EKGUTnNA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18136692/1650373221",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fans attending the upcoming @Coldplay concerts at @MetLifeStadium this weekend can support the band’s sustainability efforts by taking NJ TRANSIT’s rail service to the stadium. Fans can use code \"COLDPLAY for 25% off their roundtrip ticket to Metlife! https://t.co/XNGqFJ1m3H https://t.co/8uVx8hrhj3"
+	},
+	{
 		"created_at": "Tue May 31 18:45:37 +0000 2022",
 		"id": 1531697023526637600,
 		"id_str": "1531708493044109318",
