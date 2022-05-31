@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 10:40:10 +0000 2022",
+		"id": 1531576219669504000,
+		"id_str": "1531586326658797569",
+		"full_text": "그림 천재🎨 희진이가 그린 모니카 | 하승진의 회초리 | Ha’s Whiplash\n\n모니카 선생님을 향한 #희진 이의 영상 편지 도착💌\n✔본편 공개는 6월 2일 저녁 6시30분 원더케이 오리지널에서!\n\n#하승진의회초리 #하승진 #이달의소녀 #여진\n#Ha_Whiplash #HaSeungjin #LOONA #HeeJin #YeoJin @loonatheworld https://t.co/pnkgaARnnW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "하승진의회초리",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "하승진",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "Ha_Whiplash",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "HaSeungjin",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						186,
+						200
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531162869005361200,
+					"id_str": "1531162869005361152",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1531162869005361152/img/YqfvlavvOQCeg8eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1531162869005361152/img/YqfvlavvOQCeg8eD.jpg",
+					"url": "https://t.co/pnkgaARnnW",
+					"display_url": "pic.twitter.com/pnkgaARnnW",
+					"expanded_url": "https://twitter.com/1theK/status/1531576219669504001/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531162869005361200,
+					"id_str": "1531162869005361152",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1531162869005361152/img/YqfvlavvOQCeg8eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1531162869005361152/img/YqfvlavvOQCeg8eD.jpg",
+					"url": "https://t.co/pnkgaARnnW",
+					"display_url": "pic.twitter.com/pnkgaARnnW",
+					"expanded_url": "https://twitter.com/1theK/status/1531576219669504001/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20820,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531162869005361152/vid/480x270/k96itWpZKvH_DVQ7.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1531162869005361152/pl/aOuD8FIKR_OpUrL7.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531162869005361152/vid/1280x720/PHD1xu4x4o1tNtfy.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531162869005361152/vid/640x360/6Z8wDKSJiutk9XPi.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329037,
+			"friends_count": 814,
+			"listed_count": 2206,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1653983999",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 881,
+		"favorite_count": 2582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그림 천재🎨 희진이가 그린 모니카 | 하승진의 회초리 | Ha’s Whiplash\n\n모니카 선생님을 향한 #희진 이의 영상 편지 도착💌\n✔본편 공개는 6월 2일 저녁 6시30분 원더케이 오리지널에서!\n\n#하승진의회초리 #하승진 #이달의소녀 #여진\n#Ha_Whiplash #HaSeungjin #LOONA #HeeJin #YeoJin @loonatheworld https://t.co/pnkgaARnnW"
+	},
+	{
 		"created_at": "Tue May 31 09:09:41 +0000 2022",
 		"id": 1531561266438754300,
 		"id_str": "1531563554587000832",
