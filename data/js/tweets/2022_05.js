@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 08:40:20 +0000 2022",
+		"id": 1531502784671285200,
+		"id_str": "1531556169864646656",
+		"full_text": "https://t.co/txPzBB0Pk7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531502770435821600,
+					"id_str": "1531502770435821568",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD9p8xakAA0H3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD9p8xakAA0H3i.jpg",
+					"url": "https://t.co/txPzBB0Pk7",
+					"display_url": "pic.twitter.com/txPzBB0Pk7",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531502784671285250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531502770435821600,
+					"id_str": "1531502770435821568",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD9p8xakAA0H3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD9p8xakAA0H3i.jpg",
+					"url": "https://t.co/txPzBB0Pk7",
+					"display_url": "pic.twitter.com/txPzBB0Pk7",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531502784671285250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531502770578428000,
+					"id_str": "1531502770578427904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD9p9TakAAhs_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD9p9TakAAhs_D.jpg",
+					"url": "https://t.co/txPzBB0Pk7",
+					"display_url": "pic.twitter.com/txPzBB0Pk7",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531502784671285250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531502770796503000,
+					"id_str": "1531502770796503041",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FUD9p-HaIAEx-CO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUD9p-HaIAEx-CO.jpg",
+					"url": "https://t.co/txPzBB0Pk7",
+					"display_url": "pic.twitter.com/txPzBB0Pk7",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531502784671285250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1531502622016180200,
+		"in_reply_to_status_id_str": "1531502622016180224",
+		"in_reply_to_user_id": 452664114,
+		"in_reply_to_user_id_str": "452664114",
+		"in_reply_to_screen_name": "CJENMMOVIE",
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329706,
+			"friends_count": 10708,
+			"listed_count": 245,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 2340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/txPzBB0Pk7"
+	},
+	{
+		"created_at": "Tue May 31 08:40:15 +0000 2022",
+		"id": 1531500722696634400,
+		"id_str": "1531556148356206593",
+		"full_text": "아직 제 75회 칸 국제영화제 여운은 끝나지 않았다!🔥\n월클 &lt;#브로커&gt; 비하인드 하드.zip 싹 털어봄!📸📂\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/fjkiZOTkXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "남우주연상_송강호",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq33en",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531274976967671800,
+					"id_str": "1531274976967671809",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUAuen-aQAE_haL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUAuen-aQAE_haL.jpg",
+					"url": "https://t.co/fjkiZOTkXN",
+					"display_url": "pic.twitter.com/fjkiZOTkXN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531500722696634369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531274976967671800,
+					"id_str": "1531274976967671809",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUAuen-aQAE_haL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUAuen-aQAE_haL.jpg",
+					"url": "https://t.co/fjkiZOTkXN",
+					"display_url": "pic.twitter.com/fjkiZOTkXN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531500722696634369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531274976984469500,
+					"id_str": "1531274976984469504",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUAueoCakAADirj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUAueoCakAADirj.jpg",
+					"url": "https://t.co/fjkiZOTkXN",
+					"display_url": "pic.twitter.com/fjkiZOTkXN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531500722696634369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531274976967684000,
+					"id_str": "1531274976967684096",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUAuen-acAAwx-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUAuen-acAAwx-f.jpg",
+					"url": "https://t.co/fjkiZOTkXN",
+					"display_url": "pic.twitter.com/fjkiZOTkXN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531500722696634369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531274977013801000,
+					"id_str": "1531274977013800961",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUAueoJaIAEJkJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUAueoJaIAEJkJl.jpg",
+					"url": "https://t.co/fjkiZOTkXN",
+					"display_url": "pic.twitter.com/fjkiZOTkXN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1531500722696634369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329706,
+			"friends_count": 10708,
+			"listed_count": 245,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 877,
+		"favorite_count": 2543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아직 제 75회 칸 국제영화제 여운은 끝나지 않았다!🔥\n월클 &lt;#브로커&gt; 비하인드 하드.zip 싹 털어봄!📸📂\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq33en\n\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/fjkiZOTkXN"
+	},
+	{
 		"created_at": "Tue May 31 07:40:10 +0000 2022",
 		"id": 1531146210085585000,
 		"id_str": "1531541026762018818",
