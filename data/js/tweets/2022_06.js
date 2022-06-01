@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 13:40:10 +0000 2022",
+		"id": 1531993642176757800,
+		"id_str": "1531994012084748288",
+		"full_text": "3일동안 아도이 “Antihero” 함께 해주셔서 감사합니다. 행복하셨나요? 저희는 공연장을 찾아와주신 여러분 덕분에 정말 행복했습니다. 함께 해주신 모든 스탭 및 관계자분들께 감사드립니다. 다음 공연때 더 힘차고 밝은 모습으로 만나요!! #ADOY https://t.co/gK02pcb2RK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1531993634975133700,
+					"id_str": "1531993634975133702",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FUK8GBraMAYNR3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUK8GBraMAYNR3O.jpg",
+					"url": "https://t.co/gK02pcb2RK",
+					"display_url": "pic.twitter.com/gK02pcb2RK",
+					"expanded_url": "https://twitter.com/adoyband/status/1531993642176757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531993634975133700,
+					"id_str": "1531993634975133702",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FUK8GBraMAYNR3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUK8GBraMAYNR3O.jpg",
+					"url": "https://t.co/gK02pcb2RK",
+					"display_url": "pic.twitter.com/gK02pcb2RK",
+					"expanded_url": "https://twitter.com/adoyband/status/1531993642176757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1531993634970935300,
+					"id_str": "1531993634970935297",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FUK8GBqaIAE4xZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUK8GBqaIAE4xZE.jpg",
+					"url": "https://t.co/gK02pcb2RK",
+					"display_url": "pic.twitter.com/gK02pcb2RK",
+					"expanded_url": "https://twitter.com/adoyband/status/1531993642176757760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5104,
+			"friends_count": 492,
+			"listed_count": 39,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3일동안 아도이 “Antihero” 함께 해주셔서 감사합니다. 행복하셨나요? 저희는 공연장을 찾아와주신 여러분 덕분에 정말 행복했습니다. 함께 해주신 모든 스탭 및 관계자분들께 감사드립니다. 다음 공연때 더 힘차고 밝은 모습으로 만나요!! #ADOY https://t.co/gK02pcb2RK"
+	},
+	{
 		"created_at": "Wed Jun 01 12:40:10 +0000 2022",
 		"id": 1531975836039012400,
 		"id_str": "1531978914125561864",
