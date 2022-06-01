@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 09:40:44 +0000 2022",
+		"id": 1531924734765506600,
+		"id_str": "1531933757359685632",
+		"full_text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 3차 경연 2R 무대 비하인드 | Butterfly\n\nFull ver. ▶ https://t.co/4LpgaQYX5A\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/1BdjClO0u4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LpgaQYX5A",
+					"expanded_url": "https://youtu.be/CUg-PDQOnGY",
+					"display_url": "youtu.be/CUg-PDQOnGY",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531921475208302600,
+					"id_str": "1531921475208302592",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FUJ9azBVIAAqqNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUJ9azBVIAAqqNg.jpg",
+					"url": "https://t.co/1BdjClO0u4",
+					"display_url": "pic.twitter.com/1BdjClO0u4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531924734765506560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531921475208302600,
+					"id_str": "1531921475208302592",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FUJ9azBVIAAqqNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUJ9azBVIAAqqNg.jpg",
+					"url": "https://t.co/1BdjClO0u4",
+					"display_url": "pic.twitter.com/1BdjClO0u4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1531924734765506560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531921475208302592/vid/640x360/xaxABPiYx1gkfUEe.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531921475208302592/vid/1280x720/Xn-se5W6jkB2BMPc.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1531921475208302592/vid/480x270/MfCSIPcC-Xn0VZ4P.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1531921475208302592/pl/iL-ljhYPpyR8WKDw.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063824,
+			"friends_count": 20933,
+			"listed_count": 3022,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 765,
+		"favorite_count": 2070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2/Queen's Commentary] '이달의 소녀'가 직접 들려주는 3차 경연 2R 무대 비하인드 | Butterfly\n\nFull ver. ▶ https://t.co/4LpgaQYX5A\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 매주 목요일 밤 9시 20분\n\n#QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/1BdjClO0u4"
+	},
+	{
+		"created_at": "Wed Jun 01 09:40:09 +0000 2022",
+		"id": 1531923508728500200,
+		"id_str": "1531933613121576962",
+		"full_text": "\\💙⭐お知らせ️🌙🦋/\n\naespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～開催決定!!🎉\n\n併せてオフィシャルメールマガジンも開設✨チケットの先行抽選予約受付中です🎟\n\n☑️詳細はこちら💁‍♂️\nhttps://t.co/pzjAotYfv6\n\n☑️メルマガへのご登録はこちら💁‍♀️\nhttps://t.co/mLUyzoseU3\n\n#aespa #æspa #에스파 #エスパ https://t.co/GkxwqjQOaK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						202,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pzjAotYfv6",
+					"expanded_url": "https://aespa-official.jp/news/japan-showcase-2022/",
+					"display_url": "aespa-official.jp/news/japan-sho…",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/mLUyzoseU3",
+					"expanded_url": "https://aespa.smtown-official.jp/",
+					"display_url": "aespa.smtown-official.jp",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1531840096038572000,
+					"id_str": "1531840096038572032",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1531840096038572032/pu/img/E0O3AiRhensYpi1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1531840096038572032/pu/img/E0O3AiRhensYpi1d.jpg",
+					"url": "https://t.co/GkxwqjQOaK",
+					"display_url": "pic.twitter.com/GkxwqjQOaK",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1531923508728500225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1531840096038572000,
+					"id_str": "1531840096038572032",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1531840096038572032/pu/img/E0O3AiRhensYpi1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1531840096038572032/pu/img/E0O3AiRhensYpi1d.jpg",
+					"url": "https://t.co/GkxwqjQOaK",
+					"display_url": "pic.twitter.com/GkxwqjQOaK",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1531923508728500225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48296,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1531840096038572032/pu/vid/1280x720/KO2p8VrsDGVehvCU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1531840096038572032/pu/pl/08WtkxmydcFgt6r0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1531840096038572032/pu/vid/480x270/LfPLJ0m7ZIAimFCS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1531840096038572032/pu/vid/640x360/-mx_E1smxeRs1ua9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124947,
+			"friends_count": 1,
+			"listed_count": 203,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10894,
+		"favorite_count": 27759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "\\💙⭐お知らせ️🌙🦋/\n\naespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～開催決定!!🎉\n\n併せてオフィシャルメールマガジンも開設✨チケットの先行抽選予約受付中です🎟\n\n☑️詳細はこちら💁‍♂️\nhttps://t.co/pzjAotYfv6\n\n☑️メルマガへのご登録はこちら💁‍♀️\nhttps://t.co/mLUyzoseU3\n\n#aespa #æspa #에스파 #エスパ https://t.co/GkxwqjQOaK"
+	},
+	{
 		"created_at": "Wed Jun 01 08:40:10 +0000 2022",
 		"id": 1531909144109883400,
 		"id_str": "1531918514436595718",
