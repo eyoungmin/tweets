@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 10:08:23 +0000 2022",
+		"id": 1532300467858190300,
+		"id_str": "1532303105450049536",
+		"full_text": "파이널 경연에 참여하시는 오빛분들은 7시 10분까지 사진 속 장소로 모여주시기 바랍니다.\n\n입장 후 중간 퇴장, 화장실 이동 절대 불가합니다 https://t.co/ERY5dRaLoK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532300447310299100,
+					"id_str": "1532300447310299137",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FUPTI2saQAEz9hk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUPTI2saQAEz9hk.jpg",
+					"url": "https://t.co/ERY5dRaLoK",
+					"display_url": "pic.twitter.com/ERY5dRaLoK",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1532300467858190337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532300447310299100,
+					"id_str": "1532300447310299137",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FUPTI2saQAEz9hk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUPTI2saQAEz9hk.jpg",
+					"url": "https://t.co/ERY5dRaLoK",
+					"display_url": "pic.twitter.com/ERY5dRaLoK",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1532300467858190337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1532257430750789600,
+		"in_reply_to_status_id_str": "1532257430750789634",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31181,
+			"friends_count": 1,
+			"listed_count": 541,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파이널 경연에 참여하시는 오빛분들은 7시 10분까지 사진 속 장소로 모여주시기 바랍니다.\n\n입장 후 중간 퇴장, 화장실 이동 절대 불가합니다 https://t.co/ERY5dRaLoK"
+	},
+	{
 		"created_at": "Thu Jun 02 09:45:36 +0000 2022",
 		"id": 1532293445875748900,
 		"id_str": "1532297372209975297",
