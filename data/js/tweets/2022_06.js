@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 03:45:37 +0000 2022",
+		"id": 1532204104998690800,
+		"id_str": "1532206776300580864",
+		"full_text": "Lights, camera, action, pose! LOONA are picture perfect in their #Queendom2 single, \"POSE!\" Check out the lyrics to the track ahead of the final episode on Genius now!\n\n@loonatheworld #LOONA #POSE\n\nhttps://t.co/4aRFYLvNo4 https://t.co/ZdnMmi8DaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom2",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "POSE",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						169,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4aRFYLvNo4",
+					"expanded_url": "https://genius.com/Loona-pose-lyrics",
+					"display_url": "genius.com/Loona-pose-lyr…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532196431787958300,
+					"id_str": "1532196431787958275",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUN0iWrXoAMTzWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUN0iWrXoAMTzWV.jpg",
+					"url": "https://t.co/ZdnMmi8DaL",
+					"display_url": "pic.twitter.com/ZdnMmi8DaL",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1532204104998690817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532196431787958300,
+					"id_str": "1532196431787958275",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUN0iWrXoAMTzWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUN0iWrXoAMTzWV.jpg",
+					"url": "https://t.co/ZdnMmi8DaL",
+					"display_url": "pic.twitter.com/ZdnMmi8DaL",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1532204104998690817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanizations, English Translations for K-Pop & Korean music by Genius Korea Community | 🇰🇷 DM for inquiries | Not affiliated with @Genius Inc.",
+			"url": "https://t.co/hrRPuLlIwP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLlIwP",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16374,
+			"friends_count": 1569,
+			"listed_count": 78,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 3074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lights, camera, action, pose! LOONA are picture perfect in their #Queendom2 single, \"POSE!\" Check out the lyrics to the track ahead of the final episode on Genius now!\n\n@loonatheworld #LOONA #POSE\n\nhttps://t.co/4aRFYLvNo4 https://t.co/ZdnMmi8DaL"
+	},
+	{
 		"created_at": "Thu Jun 02 02:40:34 +0000 2022",
 		"id": 1532189120256422000,
 		"id_str": "1532190407408361472",
