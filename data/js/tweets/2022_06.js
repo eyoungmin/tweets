@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 11:40:09 +0000 2022",
+		"id": 1532316141825425400,
+		"id_str": "1532326199904575489",
+		"full_text": "[퀸덤2] 잠시 후 밤 9시 20분, 대망의 파이널 생방송🔥\n\n잠시 후 밤 9시 20분,\n글로벌이 선택한 단 하나의 QUEEN이 탄생합니다!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 6/2(목) 밤 9시 20분 파이널 생방송\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/Jt1yxm0JBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "RUNTHEWORLD",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532316126302314500,
+					"id_str": "1532316126302314502",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUPhZffaIAYPVOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUPhZffaIAYPVOH.jpg",
+					"url": "https://t.co/Jt1yxm0JBm",
+					"display_url": "pic.twitter.com/Jt1yxm0JBm",
+					"expanded_url": "https://twitter.com/MnetKR/status/1532316141825425408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532316126302314500,
+					"id_str": "1532316126302314502",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUPhZffaIAYPVOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUPhZffaIAYPVOH.jpg",
+					"url": "https://t.co/Jt1yxm0JBm",
+					"display_url": "pic.twitter.com/Jt1yxm0JBm",
+					"expanded_url": "https://twitter.com/MnetKR/status/1532316141825425408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063902,
+			"friends_count": 20933,
+			"listed_count": 3023,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1674,
+		"favorite_count": 5976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[퀸덤2] 잠시 후 밤 9시 20분, 대망의 파이널 생방송🔥\n\n잠시 후 밤 9시 20분,\n글로벌이 선택한 단 하나의 QUEEN이 탄생합니다!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 6/2(목) 밤 9시 20분 파이널 생방송\n\n#퀸덤2 #QUEENDOM2 #RUNTHEWORLD #엠넷 #Mnet https://t.co/Jt1yxm0JBm"
+	},
+	{
 		"created_at": "Thu Jun 02 10:08:23 +0000 2022",
 		"id": 1532300467858190300,
 		"id_str": "1532303105450049536",
