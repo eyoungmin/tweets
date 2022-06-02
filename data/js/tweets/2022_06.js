@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 07:40:28 +0000 2022",
+		"id": 1531709183925620700,
+		"id_str": "1532265879769071618",
+		"full_text": "Aespa's mini album, 'Girls,' is on its way! https://t.co/blncUp2NUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/blncUp2NUr",
+					"expanded_url": "http://blbrd.cm/7EcyXyJ",
+					"display_url": "blbrd.cm/7EcyXyJ",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13707702,
+			"friends_count": 3462,
+			"listed_count": 21609,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 296918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1652969174",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5156,
+		"favorite_count": 14966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aespa's mini album, 'Girls,' is on its way! https://t.co/blncUp2NUr"
+	},
+	{
+		"created_at": "Thu Jun 02 07:40:19 +0000 2022",
+		"id": 1531955989968298000,
+		"id_str": "1532265841592508416",
+		"full_text": ".@aespa_official. #Girls. July 8. ✨ https://t.co/gbbHxwTTow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Girls",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gbbHxwTTow",
+					"expanded_url": "https://rol.st/3x3oTAe",
+					"display_url": "rol.st/3x3oTAe",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14780915,
+			"id_str": "14780915",
+			"name": "Rolling Stone",
+			"screen_name": "RollingStone",
+			"location": "New York, New York",
+			"description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+			"url": "https://t.co/HPZh9kIhYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HPZh9kIhYX",
+							"expanded_url": "http://www.rollingstone.com",
+							"display_url": "rollingstone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yJnSOtbi68",
+							"expanded_url": "http://RollingStone.com",
+							"display_url": "RollingStone.com",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/4pKrTBMI3A",
+							"expanded_url": "http://rol.st/tips",
+							"display_url": "rol.st/tips",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6394594,
+			"friends_count": 449,
+			"listed_count": 35616,
+			"created_at": "Thu May 15 02:52:27 +0000 2008",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 170794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0B0B0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1653307320",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3092,
+		"favorite_count": 9365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official. #Girls. July 8. ✨ https://t.co/gbbHxwTTow"
+	},
+	{
+		"created_at": "Thu Jun 02 07:40:16 +0000 2022",
+		"id": 1532018444710846500,
+		"id_str": "1532265828435079168",
+		"full_text": "aespa have released a surprise track, “Illusion,” ahead of their new EP, Girls – The 2nd Mini Album, dropping on July 8th.\n\nListen to the high-energy song, which offers a vibrant beat and an earworm chorus: https://t.co/cvLS2ULCYL\n\n#aespa #aespa_Illusion #AESPA_GIRLS https://t.co/IRX2hPqXsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "aespa_Illusion",
+					"indices": [
+						239,
+						254
+					]
+				},
+				{
+					"text": "AESPA_GIRLS",
+					"indices": [
+						255,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cvLS2ULCYL",
+					"expanded_url": "http://cos.lv/Imm950Jnepp",
+					"display_url": "cos.lv/Imm950Jnepp",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532012297895411700,
+					"id_str": "1532012297895411713",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FULNEWeWAAEDViG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULNEWeWAAEDViG.jpg",
+					"url": "https://t.co/IRX2hPqXsY",
+					"display_url": "pic.twitter.com/IRX2hPqXsY",
+					"expanded_url": "https://twitter.com/consequence/status/1532018444710846464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532012297895411700,
+					"id_str": "1532012297895411713",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FULNEWeWAAEDViG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULNEWeWAAEDViG.jpg",
+					"url": "https://t.co/IRX2hPqXsY",
+					"display_url": "pic.twitter.com/IRX2hPqXsY",
+					"expanded_url": "https://twitter.com/consequence/status/1532018444710846464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15553222,
+			"id_str": "15553222",
+			"name": "Consequence",
+			"screen_name": "consequence",
+			"location": "New York",
+			"description": "Music, Movies, TV and Pop Culture News for the Mainstream and Underground. \nGet merch ➡ @consequenceshop",
+			"url": "https://t.co/D7zVyfT1Vs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7zVyfT1Vs",
+							"expanded_url": "https://consequence.net/",
+							"display_url": "consequence.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253181,
+			"friends_count": 2559,
+			"listed_count": 5144,
+			"created_at": "Wed Jul 23 02:17:36 +0000 2008",
+			"favourites_count": 14749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 192377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379621661104869376/O7pQDCB__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379621661104869376/O7pQDCB__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15553222/1617764336",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "07647E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1337,
+		"favorite_count": 4193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa have released a surprise track, “Illusion,” ahead of their new EP, Girls – The 2nd Mini Album, dropping on July 8th.\n\nListen to the high-energy song, which offers a vibrant beat and an earworm chorus: https://t.co/cvLS2ULCYL\n\n#aespa #aespa_Illusion #AESPA_GIRLS https://t.co/IRX2hPqXsY"
+	},
+	{
+		"created_at": "Thu Jun 02 07:40:14 +0000 2022",
+		"id": 1532045561989419000,
+		"id_str": "1532265819400437761",
+		"full_text": ".@aespa_official's second mini-album #GIRLS will heat up the charts this July.\nhttps://t.co/LpeB2ulKU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GIRLS",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LpeB2ulKU1",
+					"expanded_url": "https://www.nylon.com/life/aespa-girls-release-date-tracklist-themes?utm_campaign=nylon&utm_content=1654103100&utm_medium=owned&utm_source=twitter",
+					"display_url": "nylon.com/life/aespa-gir…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14222518,
+			"id_str": "14222518",
+			"name": "NYLON",
+			"screen_name": "NylonMag",
+			"location": "New York, USA",
+			"description": "",
+			"url": "https://t.co/y3ZV25Sa16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3ZV25Sa16",
+							"expanded_url": "http://nylon.com",
+							"display_url": "nylon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108598,
+			"friends_count": 1356,
+			"listed_count": 10216,
+			"created_at": "Wed Mar 26 03:18:38 +0000 2008",
+			"favourites_count": 4025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14222518/1649768636",
+			"profile_link_color": "EB0C8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8FF9FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1442,
+		"favorite_count": 4364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official's second mini-album #GIRLS will heat up the charts this July.\nhttps://t.co/LpeB2ulKU1"
+	},
+	{
+		"created_at": "Thu Jun 02 07:29:38 +0000 2022",
+		"id": 1532255694942093300,
+		"id_str": "1532263154222252033",
+		"full_text": "수영복 스타일링 승자는 누구? #권유리 #기은세  #김나영 #김희정 의 원피스 수영복부터 비키니까지! \nhttps://t.co/TuXYXk11kq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "기은세",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "김희정",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TuXYXk11kq",
+					"expanded_url": "https://www.allurekorea.com/?p=172879&ddw=112181&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=172879&ddw=…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38595,
+			"friends_count": 1,
+			"listed_count": 291,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1652768698",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수영복 스타일링 승자는 누구? #권유리 #기은세  #김나영 #김희정 의 원피스 수영복부터 비키니까지! \nhttps://t.co/TuXYXk11kq"
+	},
+	{
 		"created_at": "Thu Jun 02 06:40:21 +0000 2022",
 		"id": 1532249430660743200,
 		"id_str": "1532250749681512448",
