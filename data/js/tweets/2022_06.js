@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 05:40:16 +0000 2022",
+		"id": 1532224873883238400,
+		"id_str": "1532235630373126146",
+		"full_text": "TAEYEON shows strong presence and majesty as the grand master of ‘Queendom 2’! \nThe world-class host captivates global fans! \n“It was a delightful time for me to do this together with fellow singers”  \n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						242,
+						246
+					]
+				},
+				{
+					"text": "Queendom2",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjoqICIOAL",
+					"expanded_url": "https://bit.ly/3N9Ht0p",
+					"display_url": "bit.ly/3N9Ht0p",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1532224871668719600,
+		"in_reply_to_status_id_str": "1532224871668719616",
+		"in_reply_to_user_id": 1496499777965822000,
+		"in_reply_to_user_id_str": "1496499777965821956",
+		"in_reply_to_screen_name": "TAEYEONsmtown",
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107887,
+			"friends_count": 2,
+			"listed_count": 331,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 1144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON shows strong presence and majesty as the grand master of ‘Queendom 2’! \nThe world-class host captivates global fans! \n“It was a delightful time for me to do this together with fellow singers”  \n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2"
+	},
+	{
+		"created_at": "Thu Jun 02 05:40:10 +0000 2022",
+		"id": 1532224871668719600,
+		"id_str": "1532235604716666880",
+		"full_text": "‘퀸덤2’ 태연, 원 앤 온리 존재감 보여준 ‘그랜드 마스터’의 위엄!\n이번에도 태연이 해냈다! 글로벌 팬들 사로잡은 ‘월드 클래스 진행력’\n“후배들과 함께 할 수 있어 기뻤던 시간이었다”\n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2 https://t.co/QNzoszhan1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "Queendom2",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjoqICIOAL",
+					"expanded_url": "https://bit.ly/3N9Ht0p",
+					"display_url": "bit.ly/3N9Ht0p",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532224858695737300,
+					"id_str": "1532224858695737344",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FUOOZBKVIAAV2Wz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUOOZBKVIAAV2Wz.jpg",
+					"url": "https://t.co/QNzoszhan1",
+					"display_url": "pic.twitter.com/QNzoszhan1",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1532224871668719616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532224858695737300,
+					"id_str": "1532224858695737344",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FUOOZBKVIAAV2Wz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUOOZBKVIAAV2Wz.jpg",
+					"url": "https://t.co/QNzoszhan1",
+					"display_url": "pic.twitter.com/QNzoszhan1",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1532224871668719616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532224865268183000,
+					"id_str": "1532224865268183040",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FUOOZZpUsAAuU2o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUOOZZpUsAAuU2o.jpg",
+					"url": "https://t.co/QNzoszhan1",
+					"display_url": "pic.twitter.com/QNzoszhan1",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1532224871668719616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107887,
+			"friends_count": 2,
+			"listed_count": 331,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1846,
+		"favorite_count": 3333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘퀸덤2’ 태연, 원 앤 온리 존재감 보여준 ‘그랜드 마스터’의 위엄!\n이번에도 태연이 해냈다! 글로벌 팬들 사로잡은 ‘월드 클래스 진행력’\n“후배들과 함께 할 수 있어 기뻤던 시간이었다”\n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2 https://t.co/QNzoszhan1"
+	},
+	{
 		"created_at": "Thu Jun 02 04:29:39 +0000 2022",
 		"id": 1532206148363120600,
 		"id_str": "1532217857248993280",
