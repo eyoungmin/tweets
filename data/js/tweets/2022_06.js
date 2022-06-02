@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 09:45:36 +0000 2022",
+		"id": 1532293445875748900,
+		"id_str": "1532297372209975297",
+		"full_text": "전국 최초 강제 초심 탑재 방송❗ 하초리의 네 번째 게스트 #이달의소녀 #희진 #여진\n이달소 얼빡 실패 안 한다🥰 (비주얼로 따지자면 초심 잃은 건 승진이 같은데😂)\n#하승진의회초리 #하승진 #Ha_Whiplash #HaSeungjin #LOONA #HeeJin #YeoJin @loonatheworld\n\nfull ver.👉 https://t.co/6oSr3oDfCP https://t.co/q7cJY0UbQd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "하승진의회초리",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "하승진",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "Ha_Whiplash",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "HaSeungjin",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						147,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6oSr3oDfCP",
+					"expanded_url": "https://youtu.be/74TyeY3erR4",
+					"display_url": "youtu.be/74TyeY3erR4",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532259690373324800,
+					"id_str": "1532259690373324801",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FUO64K1aIAcoVLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUO64K1aIAcoVLo.jpg",
+					"url": "https://t.co/q7cJY0UbQd",
+					"display_url": "pic.twitter.com/q7cJY0UbQd",
+					"expanded_url": "https://twitter.com/1theK/status/1532293445875748865/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532259690373324800,
+					"id_str": "1532259690373324801",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FUO64K1aIAcoVLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUO64K1aIAcoVLo.jpg",
+					"url": "https://t.co/q7cJY0UbQd",
+					"display_url": "pic.twitter.com/q7cJY0UbQd",
+					"expanded_url": "https://twitter.com/1theK/status/1532293445875748865/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41274,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1532259690373324801/pl/0UMFAbBpkO9lr9WL.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532259690373324801/vid/1280x720/KO16kk8D4KY-3jeR.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532259690373324801/vid/480x270/sWg7FcqcmPuoxM1a.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532259690373324801/vid/640x360/7uysPdqpSIvY7cka.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/74TyeY3erR4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329276,
+			"friends_count": 814,
+			"listed_count": 2209,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1654162195",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 314,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국 최초 강제 초심 탑재 방송❗ 하초리의 네 번째 게스트 #이달의소녀 #희진 #여진\n이달소 얼빡 실패 안 한다🥰 (비주얼로 따지자면 초심 잃은 건 승진이 같은데😂)\n#하승진의회초리 #하승진 #Ha_Whiplash #HaSeungjin #LOONA #HeeJin #YeoJin @loonatheworld\n\nfull ver.👉 https://t.co/6oSr3oDfCP https://t.co/q7cJY0UbQd"
+	},
+	{
 		"created_at": "Thu Jun 02 08:40:10 +0000 2022",
 		"id": 1532279766560428000,
 		"id_str": "1532280902461661185",
