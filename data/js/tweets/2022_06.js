@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 13:40:09 +0000 2022",
+		"id": 1532342773478617000,
+		"id_str": "1532356398817976321",
+		"full_text": "[#퀸덤2] 파이널 생방송 투표 OPEN!\n\n📌국내 : 문자투표\n#0011 번으로 고유 번호 or 한글 아티스트명 문자 발송\n\n📌글로벌\n① &lt;엠넷 퀸덤 공식 투표 페이지&gt; 접속\n🔗https://t.co/0IVVHZ2WJP\n② 단 한 팀에게 투표!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2(#QUEENDOM2)〉\n\n#엠넷 https://t.co/wzCySKsYQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0IVVHZ2WJP",
+					"expanded_url": "https://mnet.world",
+					"display_url": "mnet.world",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532342754382352400,
+					"id_str": "1532342754382352384",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP5nc0akAABl6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUP5nc0akAABl6W.jpg",
+					"url": "https://t.co/wzCySKsYQN",
+					"display_url": "pic.twitter.com/wzCySKsYQN",
+					"expanded_url": "https://twitter.com/MnetKR/status/1532342773478617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532342754382352400,
+					"id_str": "1532342754382352384",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP5nc0akAABl6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUP5nc0akAABl6W.jpg",
+					"url": "https://t.co/wzCySKsYQN",
+					"display_url": "pic.twitter.com/wzCySKsYQN",
+					"expanded_url": "https://twitter.com/MnetKR/status/1532342773478617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3063956,
+			"friends_count": 20933,
+			"listed_count": 3024,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1845,
+		"favorite_count": 4555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀸덤2] 파이널 생방송 투표 OPEN!\n\n📌국내 : 문자투표\n#0011 번으로 고유 번호 or 한글 아티스트명 문자 발송\n\n📌글로벌\n① &lt;엠넷 퀸덤 공식 투표 페이지&gt; 접속\n🔗https://t.co/0IVVHZ2WJP\n② 단 한 팀에게 투표!\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2(#QUEENDOM2)〉\n\n#엠넷 https://t.co/wzCySKsYQN"
+	},
+	{
+		"created_at": "Thu Jun 02 13:26:21 +0000 2022",
+		"id": 1532346525853970400,
+		"id_str": "1532352924738670593",
+		"full_text": "HYO 효연 'DEEP' Dance Practice\n\nhttps://t.co/PKiVDv0vgJ\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/WWzW152EbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PKiVDv0vgJ",
+					"expanded_url": "https://youtu.be/fnNuE1NgYVo",
+					"display_url": "youtu.be/fnNuE1NgYVo",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532346512763543600,
+					"id_str": "1532346512763543552",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP9CN4UYAAprR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUP9CN4UYAAprR3.jpg",
+					"url": "https://t.co/WWzW152EbB",
+					"display_url": "pic.twitter.com/WWzW152EbB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1532346525853970432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532346512763543600,
+					"id_str": "1532346512763543552",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP9CN4UYAAprR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUP9CN4UYAAprR3.jpg",
+					"url": "https://t.co/WWzW152EbB",
+					"display_url": "pic.twitter.com/WWzW152EbB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1532346525853970432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3771915,
+			"friends_count": 5,
+			"listed_count": 5912,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2024,
+		"favorite_count": 3477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO 효연 'DEEP' Dance Practice\n\nhttps://t.co/PKiVDv0vgJ\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/WWzW152EbB"
+	},
+	{
+		"created_at": "Thu Jun 02 13:08:26 +0000 2022",
+		"id": 1532343994063405000,
+		"id_str": "1532348413458583553",
+		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nERuoi5Ja9",
+					"expanded_url": "https://www.mnet.world/community/main?communityId=DtAok2aQcE21eCPykh19t",
+					"display_url": "mnet.world/community/main…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532343397608226800,
+					"id_str": "1532343397608226816",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP6M5BagAA_vTD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FUP6M5BagAA_vTD.png",
+					"url": "https://t.co/gpOiTHujZL",
+					"display_url": "pic.twitter.com/gpOiTHujZL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532343994063405056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532343397608226800,
+					"id_str": "1532343397608226816",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP6M5BagAA_vTD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FUP6M5BagAA_vTD.png",
+					"url": "https://t.co/gpOiTHujZL",
+					"display_url": "pic.twitter.com/gpOiTHujZL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532343994063405056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909447,
+			"friends_count": 2,
+			"listed_count": 8654,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1916,
+		"favorite_count": 3945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL"
+	},
+	{
+		"created_at": "Thu Jun 02 13:08:26 +0000 2022",
+		"id": 1532343001846096000,
+		"id_str": "1532348413458538497",
+		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532338260055568400,
+					"id_str": "1532338260055568384",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP1h2JaMAAJaSe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FUP1h2JaMAAJaSe.png",
+					"url": "https://t.co/BgYAAaLyyS",
+					"display_url": "pic.twitter.com/BgYAAaLyyS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532343001846095872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532338260055568400,
+					"id_str": "1532338260055568384",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FUP1h2JaMAAJaSe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FUP1h2JaMAAJaSe.png",
+					"url": "https://t.co/BgYAAaLyyS",
+					"display_url": "pic.twitter.com/BgYAAaLyyS",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532343001846095872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909447,
+			"friends_count": 2,
+			"listed_count": 8654,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2829,
+		"favorite_count": 4365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS"
+	},
+	{
 		"created_at": "Thu Jun 02 12:26:21 +0000 2022",
 		"id": 1532327499857895400,
 		"id_str": "1532337823688183810",
