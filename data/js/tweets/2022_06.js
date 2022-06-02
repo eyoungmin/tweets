@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 04:29:39 +0000 2022",
+		"id": 1532206148363120600,
+		"id_str": "1532217857248993280",
+		"full_text": "Video Musik Remaster Girls’ Generation ‘Gee’ Rilis!\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/s1HkWHAT0n\n\n@GirlsGeneration \n#SM_Remastering_Project #RemasterMV\n#GirlsGeneration #Gee\n#SMSTATION https://t.co/QBvtJIHCKB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						190,
+						206
+					]
+				},
+				{
+					"text": "Gee",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						212,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s1HkWHAT0n",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid0y1QnPXah1KC1NLnJXq3gPQVBY954338SfVCukr629N1BE1dRPRJfKF54SkZ5TGRml",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532206138745569300,
+					"id_str": "1532206138745569280",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FUN9XX6aQAApyrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUN9XX6aQAApyrb.jpg",
+					"url": "https://t.co/QBvtJIHCKB",
+					"display_url": "pic.twitter.com/QBvtJIHCKB",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1532206148363120640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532206138745569300,
+					"id_str": "1532206138745569280",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FUN9XX6aQAApyrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUN9XX6aQAApyrb.jpg",
+					"url": "https://t.co/QBvtJIHCKB",
+					"display_url": "pic.twitter.com/QBvtJIHCKB",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1532206148363120640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006303,
+			"friends_count": 36,
+			"listed_count": 614,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Video Musik Remaster Girls’ Generation ‘Gee’ Rilis!\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/s1HkWHAT0n\n\n@GirlsGeneration \n#SM_Remastering_Project #RemasterMV\n#GirlsGeneration #Gee\n#SMSTATION https://t.co/QBvtJIHCKB"
+	},
+	{
 		"created_at": "Thu Jun 02 03:45:37 +0000 2022",
 		"id": 1532204104998690800,
 		"id_str": "1532206776300580864",
