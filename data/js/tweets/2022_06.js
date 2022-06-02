@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 15:45:41 +0000 2022",
+		"id": 1532387830001201200,
+		"id_str": "1532387987069317121",
+		"full_text": "매주 목요일 #퀸덤2 를 함께해주신 오빛 여러분 감사합니다🎉\n앞으로도 이달의 소녀와 함께해요💕\n\n#이달의소녀 #LOONA #QUEENDOM2 https://t.co/I4behbqMyT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532387428975411200,
+					"id_str": "1532387428975411202",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FUQiP2pagAIxXoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUQiP2pagAIxXoe.jpg",
+					"url": "https://t.co/I4behbqMyT",
+					"display_url": "pic.twitter.com/I4behbqMyT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532387830001201153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532387428975411200,
+					"id_str": "1532387428975411202",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FUQiP2pagAIxXoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUQiP2pagAIxXoe.jpg",
+					"url": "https://t.co/I4behbqMyT",
+					"display_url": "pic.twitter.com/I4behbqMyT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1532387830001201153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 910024,
+			"friends_count": 2,
+			"listed_count": 8662,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12123,
+		"favorite_count": 24618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매주 목요일 #퀸덤2 를 함께해주신 오빛 여러분 감사합니다🎉\n앞으로도 이달의 소녀와 함께해요💕\n\n#이달의소녀 #LOONA #QUEENDOM2 https://t.co/I4behbqMyT"
+	},
+	{
+		"created_at": "Thu Jun 02 15:45:37 +0000 2022",
+		"id": 1532383655863021600,
+		"id_str": "1532387969658769409",
+		"full_text": "#QUEENDOM2 \n先ほど最終回が放送され、\n優勝チームがついに決定しました🎉✨\n\n今夜披露された曲や、\n過去の楽曲を\n#Spotify の公式プレイリストで\n振り返ろう👑\n▶︎https://t.co/Ldav2Rek4L\n\n#クインダム2 #宇宙少女 \n#VIVIZ #BraveGirls #今月の少女\n#LOONA  #Kep1er #ヒョリン https://t.co/Msfw8islsa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "クインダム2",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "宇宙少女",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "BraveGirls",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "ヒョリン",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ldav2Rek4L",
+					"expanded_url": "https://spotify.link/Queendom2",
+					"display_url": "spotify.link/Queendom2",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532383259379699700,
+					"id_str": "1532383259379699712",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUQedJsVEAAnH_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUQedJsVEAAnH_G.jpg",
+					"url": "https://t.co/Msfw8islsa",
+					"display_url": "pic.twitter.com/Msfw8islsa",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1532383655863021568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532383259379699700,
+					"id_str": "1532383259379699712",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FUQedJsVEAAnH_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUQedJsVEAAnH_G.jpg",
+					"url": "https://t.co/Msfw8islsa",
+					"display_url": "pic.twitter.com/Msfw8islsa",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1532383655863021568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽からポッドキャストまで。 #すべては音からはじまる🎧 世界で4億2200万人以上のファンに選ばれているオーディオ ストリーミングサービス。 カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfurAP0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfurAP0w",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222577,
+			"friends_count": 1638,
+			"listed_count": 1124,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 17267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1640964398",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#QUEENDOM2 \n先ほど最終回が放送され、\n優勝チームがついに決定しました🎉✨\n\n今夜披露された曲や、\n過去の楽曲を\n#Spotify の公式プレイリストで\n振り返ろう👑\n▶︎https://t.co/Ldav2Rek4L\n\n#クインダム2 #宇宙少女 \n#VIVIZ #BraveGirls #今月の少女\n#LOONA  #Kep1er #ヒョリン https://t.co/Msfw8islsa"
+	},
+	{
 		"created_at": "Thu Jun 02 13:40:09 +0000 2022",
 		"id": 1532342773478617000,
 		"id_str": "1532356398817976321",
@@ -450,7 +910,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Thu Jun 02 13:08:26 +0000 2022",
 		"id": 1532343994063405000,
 		"id_str": "1532348413458583553",
-		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL",
+		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -658,13 +1118,13 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL"
+		"text": "📢&lt;퀸덤2&gt; 생방송 경연 글로벌 투표 안내\n\n#퀸덤2 파이널 생방송 글로벌 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤🔥\n\n🗳투표 방법\n✔ &lt;엠넷 퀸덤 투표 페이지&gt; 접속\n▶ https://t.co/nERuoi5Ja9\n✔투표 시간 동안 이달의 소녀에게 투표\n\n#LOONA #QUEENDOM2 https://t.co/gpOiTHujZL"
 	},
 	{
 		"created_at": "Thu Jun 02 13:08:26 +0000 2022",
 		"id": 1532343001846096000,
 		"id_str": "1532348413458538497",
-		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS",
+		"full_text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -862,7 +1322,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤‍🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS"
+		"text": "📢&lt;퀸덤2&gt; 생방송 경연 국내 투표 안내\n\n#퀸덤2 파이널 생방송 문자 투표가 시작되었습니다!\n오빛💫 #이달의소녀 에게 많은 투표 부탁드려요❤🔥\n\n🗳투표 방법\n- 이달의소녀\n- 5\n\n✔둘 중 하나의 방법으로 #0011 로 문자 전송\n✔한글로 띄어쓰기 없이 표기\n✔숫자만 기재\n\n#LOONA #QUEENDOM2 https://t.co/BgYAAaLyyS"
 	},
 	{
 		"created_at": "Thu Jun 02 12:26:21 +0000 2022",
