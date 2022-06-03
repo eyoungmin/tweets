@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 13:40:10 +0000 2022",
+		"id": 1532559883769290800,
+		"id_str": "1532718787983601666",
+		"full_text": "ยืนยันแล้ว ศิลปินต่างชาติอีกหนึ่งรายที่จะมาแสดงใน VERY Festival 2022 คือ ADOY วงอินดี้ป็อปชื่อดังจากเกาหลี ติดตามอัพเดท วันและเวลาแสดงของพวกเขา ได้ที่เพจ VERY Festival พร้อมการประกาศขายบัตร phase 2 เร็วๆ นี้\n\n#VERYfestival2022 #VERYfestival #ADOY https://t.co/WwICv8laTt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERYfestival2022",
+					"indices": [
+						209,
+						226
+					]
+				},
+				{
+					"text": "VERYfestival",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						241,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532559762172219400,
+					"id_str": "1532559762172219393",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FUS--91VEAE88Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUS--91VEAE88Kl.jpg",
+					"url": "https://t.co/WwICv8laTt",
+					"display_url": "pic.twitter.com/WwICv8laTt",
+					"expanded_url": "https://twitter.com/VERYRADIO/status/1532559883769290752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1803,
+							"h": 1803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532559762172219400,
+					"id_str": "1532559762172219393",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FUS--91VEAE88Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUS--91VEAE88Kl.jpg",
+					"url": "https://t.co/WwICv8laTt",
+					"display_url": "pic.twitter.com/WwICv8laTt",
+					"expanded_url": "https://twitter.com/VERYRADIO/status/1532559883769290752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1803,
+							"h": 1803,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842500972282691600,
+			"id_str": "842500972282691584",
+			"name": "VERY RADIO",
+			"screen_name": "VERYRADIO",
+			"location": "Bangkok, Thailand",
+			"description": "Alternative Music Station Based in Thailand",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2798,
+			"friends_count": 7,
+			"listed_count": 0,
+			"created_at": "Thu Mar 16 22:20:59 +0000 2017",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082667858679685120/EX-ZYSka_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082667858679685120/EX-ZYSka_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842500972282691584/1546963388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1127,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ยืนยันแล้ว ศิลปินต่างชาติอีกหนึ่งรายที่จะมาแสดงใน VERY Festival 2022 คือ ADOY วงอินดี้ป็อปชื่อดังจากเกาหลี ติดตามอัพเดท วันและเวลาแสดงของพวกเขา ได้ที่เพจ VERY Festival พร้อมการประกาศขายบัตร phase 2 เร็วๆ นี้\n\n#VERYfestival2022 #VERYfestival #ADOY https://t.co/WwICv8laTt"
+	},
+	{
 		"created_at": "Fri Jun 03 12:40:20 +0000 2022",
 		"id": 1532470871213891600,
 		"id_str": "1532703733250985985",
