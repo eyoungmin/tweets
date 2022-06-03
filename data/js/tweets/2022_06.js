@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 10:45:36 +0000 2022",
+		"id": 1532669358992138200,
+		"id_str": "1532674859632840705",
+		"full_text": "종방의 아쉬움을 달래며 몰아듣는 퀸덤2 전체곡🎵\n\nFULL ☞ https://t.co/MAD5hkpaKo\n\n𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 👑 퀸덤2 ! 글로벌이 선택한 최고의 걸그룹은? 전체곡 몰아듣기\n\n#PLAYLIST #KPOP #VIVIZ #비비지 #효린 #Kep1er #케플러 #브레이브걸스 #우주소녀 #이달의소녀 https://t.co/pgpJ7TMARj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "비비지",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "효린",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAD5hkpaKo",
+					"expanded_url": "https://youtu.be/BpH8W_bqH6U",
+					"display_url": "youtu.be/BpH8W_bqH6U",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532668760431411200,
+					"id_str": "1532668760431411201",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUiHf_aQAEg5ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUiHf_aQAEg5ax.jpg",
+					"url": "https://t.co/pgpJ7TMARj",
+					"display_url": "pic.twitter.com/pgpJ7TMARj",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1532669358992138240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532668760431411200,
+					"id_str": "1532668760431411201",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUiHf_aQAEg5ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUiHf_aQAEg5ax.jpg",
+					"url": "https://t.co/pgpJ7TMARj",
+					"display_url": "pic.twitter.com/pgpJ7TMARj",
+					"expanded_url": "https://twitter.com/StoneMusicEnt/status/1532669358992138240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127719346,
+			"id_str": "127719346",
+			"name": "Stone Music Entertainment",
+			"screen_name": "StoneMusicEnt",
+			"location": "Korea",
+			"description": "Stone Music Entertainment Official Twitter",
+			"url": "https://t.co/zbNhHV1rpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbNhHV1rpN",
+							"expanded_url": "http://bit.ly/StoneMusicYOUTUBE",
+							"display_url": "bit.ly/StoneMusicYOUT…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110687,
+			"friends_count": 25,
+			"listed_count": 403,
+			"created_at": "Tue Mar 30 01:51:47 +0000 2010",
+			"favourites_count": 441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476931985948180484/MoVq-rQY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476931985948180484/MoVq-rQY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127719346/1640963001",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "종방의 아쉬움을 달래며 몰아듣는 퀸덤2 전체곡🎵\n\nFULL ☞ https://t.co/MAD5hkpaKo\n\n𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 👑 퀸덤2 ! 글로벌이 선택한 최고의 걸그룹은? 전체곡 몰아듣기\n\n#PLAYLIST #KPOP #VIVIZ #비비지 #효린 #Kep1er #케플러 #브레이브걸스 #우주소녀 #이달의소녀 https://t.co/pgpJ7TMARj"
+	},
+	{
 		"created_at": "Fri Jun 03 09:26:30 +0000 2022",
 		"id": 1532649094975725600,
 		"id_str": "1532654950127308800",
