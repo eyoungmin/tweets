@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 07:40:09 +0000 2022",
+		"id": 1532618223463432200,
+		"id_str": "1532628189746499584",
+		"full_text": "띵동🔔 띵동🔔\n안녕하세요~ 옆집 이다미인데요!\n세상의 빛이 나타났다고 해요✨\n\n빛이 나타난 그 현장을\n생생히 전해드리려고\n비하인드 준비해왔어요🤗\n우리 네이버 포스트에서 만나요😘\n\n▶ https://t.co/eDyJ5lhGmm \n\n#신세경 #ShinSaeKyeong\n#스킨유 #Skinu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"text": "스킨유",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Skinu",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eDyJ5lhGmm",
+					"expanded_url": "http://naver.me/F0ceysWb",
+					"display_url": "naver.me/F0ceysWb",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띵동🔔 띵동🔔\n안녕하세요~ 옆집 이다미인데요!\n세상의 빛이 나타났다고 해요✨\n\n빛이 나타난 그 현장을\n생생히 전해드리려고\n비하인드 준비해왔어요🤗\n우리 네이버 포스트에서 만나요😘\n\n▶ https://t.co/eDyJ5lhGmm \n\n#신세경 #ShinSaeKyeong\n#스킨유 #Skinu"
+	},
+	{
 		"created_at": "Fri Jun 03 06:29:54 +0000 2022",
 		"id": 1532603605152592000,
 		"id_str": "1532610510289395712",
