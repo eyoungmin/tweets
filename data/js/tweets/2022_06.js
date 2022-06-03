@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 15:40:29 +0000 2022",
+		"id": 1532738910895321000,
+		"id_str": "1532749066853044225",
+		"full_text": "2022 LOONA 1st World Tour : [LOONATHEWORLD]✨ in the USA\n🎫Ticket Open NOW🎟️ 🔽🔽\n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#1st_WorldTour #USA\n\n📍[Los Angeles] 8/2-The Wiltern\n📎https://t.co/fNWzJKid1l https://t.co/1JxcL4C6LM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "1st_WorldTour",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"text": "USA",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fNWzJKid1l",
+					"expanded_url": "https://bit.ly/3MeqvwG",
+					"display_url": "bit.ly/3MeqvwG",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532738898220052500,
+					"id_str": "1532738898220052480",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FUVh6DnUcAADrz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUVh6DnUcAADrz7.jpg",
+					"url": "https://t.co/1JxcL4C6LM",
+					"display_url": "pic.twitter.com/1JxcL4C6LM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1532738910895321088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532738898220052500,
+					"id_str": "1532738898220052480",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FUVh6DnUcAADrz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUVh6DnUcAADrz7.jpg",
+					"url": "https://t.co/1JxcL4C6LM",
+					"display_url": "pic.twitter.com/1JxcL4C6LM",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1532738910895321088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148153,
+			"friends_count": 103,
+			"listed_count": 319,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 2755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 LOONA 1st World Tour : [LOONATHEWORLD]✨ in the USA\n🎫Ticket Open NOW🎟️ 🔽🔽\n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#1st_WorldTour #USA\n\n📍[Los Angeles] 8/2-The Wiltern\n📎https://t.co/fNWzJKid1l https://t.co/1JxcL4C6LM"
+	},
+	{
 		"created_at": "Fri Jun 03 15:08:42 +0000 2022",
 		"id": 1532740379258552300,
 		"id_str": "1532741068705304576",
