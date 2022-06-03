@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 18:40:09 +0000 2022",
+		"id": 1532772154462331000,
+		"id_str": "1532794284331737093",
+		"full_text": "@coldplay has pledged to make the Music of the Spheres Tour as sustainable and low-carbon as possible. To do our part, MetLife Stadium will limit single-use plastics at concession stands and place recycling and compost bins throughout the stadium this weekend. (1/3) https://t.co/D2bkvsM7vQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532772151287242800,
+					"id_str": "1532772151287242753",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FUWAJo8WYAEbbWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUWAJo8WYAEbbWM.jpg",
+					"url": "https://t.co/D2bkvsM7vQ",
+					"display_url": "pic.twitter.com/D2bkvsM7vQ",
+					"expanded_url": "https://twitter.com/MetLifeStadium/status/1532772154462330880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532772151287242800,
+					"id_str": "1532772151287242753",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FUWAJo8WYAEbbWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUWAJo8WYAEbbWM.jpg",
+					"url": "https://t.co/D2bkvsM7vQ",
+					"display_url": "pic.twitter.com/D2bkvsM7vQ",
+					"expanded_url": "https://twitter.com/MetLifeStadium/status/1532772154462330880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 84434832,
+			"id_str": "84434832",
+			"name": "MetLife Stadium",
+			"screen_name": "MetLifeStadium",
+			"location": "East Rutherford, NJ",
+			"description": "Welcome to MetLife Stadium, home of the @Giants and @nyjets.",
+			"url": "https://t.co/cocqtYjiCt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cocqtYjiCt",
+							"expanded_url": "http://linktr.ee/metlifestadium",
+							"display_url": "linktr.ee/metlifestadium",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44986,
+			"friends_count": 125,
+			"listed_count": 376,
+			"created_at": "Thu Oct 22 22:01:38 +0000 2009",
+			"favourites_count": 7757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914943815613427712/n-f4cQ45_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914943815613427712/n-f4cQ45_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84434832/1599078117",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@coldplay has pledged to make the Music of the Spheres Tour as sustainable and low-carbon as possible. To do our part, MetLife Stadium will limit single-use plastics at concession stands and place recycling and compost bins throughout the stadium this weekend. (1/3) https://t.co/D2bkvsM7vQ"
+	},
+	{
 		"created_at": "Fri Jun 03 15:40:29 +0000 2022",
 		"id": 1532738910895321000,
 		"id_str": "1532749066853044225",
