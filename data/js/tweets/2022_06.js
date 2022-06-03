@@ -1,6 +1,1160 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 05:45:37 +0000 2022",
+		"id": 1532592681024880600,
+		"id_str": "1532599362982912001",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀, 1년 만 컴백...서머 스페셜 'Flip That' 발매 확정\n\n▶️ https://t.co/5BbnoVEs6f\n\n#이달의소녀 #LOONA #Flipthat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "Flipthat",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5BbnoVEs6f",
+					"expanded_url": "http://naver.me/xS8VXk78",
+					"display_url": "naver.me/xS8VXk78",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 911939,
+			"friends_count": 2,
+			"listed_count": 8677,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1664,
+		"favorite_count": 4881,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀, 1년 만 컴백...서머 스페셜 'Flip That' 발매 확정\n\n▶️ https://t.co/5BbnoVEs6f\n\n#이달의소녀 #LOONA #Flipthat"
+	},
+	{
+		"created_at": "Fri Jun 03 05:40:41 +0000 2022",
+		"id": 1532592169835704300,
+		"id_str": "1532598123842916358",
+		"full_text": "&lt;#브로커&gt; 씨네21 커버스토리 화보 💗😘 https://t.co/ELS17j19t2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						4,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532592114789666800,
+					"id_str": "1532592114789666817",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcaIuaUAEFqtz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcaIuaUAEFqtz.jpg",
+					"url": "https://t.co/ELS17j19t2",
+					"display_url": "pic.twitter.com/ELS17j19t2",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592169835704321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 928,
+							"h": 1392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532592114789666800,
+					"id_str": "1532592114789666817",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcaIuaUAEFqtz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcaIuaUAEFqtz.jpg",
+					"url": "https://t.co/ELS17j19t2",
+					"display_url": "pic.twitter.com/ELS17j19t2",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592169835704321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 928,
+							"h": 1392,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532592114911309800,
+					"id_str": "1532592114911309824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcaJLacAACkWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcaJLacAACkWN.jpg",
+					"url": "https://t.co/ELS17j19t2",
+					"display_url": "pic.twitter.com/ELS17j19t2",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592169835704321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 835,
+							"h": 1252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1532592076478890000,
+		"in_reply_to_status_id_str": "1532592076478889984",
+		"in_reply_to_user_id": 452664114,
+		"in_reply_to_user_id_str": "452664114",
+		"in_reply_to_screen_name": "CJENMMOVIE",
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329806,
+			"friends_count": 10705,
+			"listed_count": 247,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 868,
+		"favorite_count": 2368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#브로커&gt; 씨네21 커버스토리 화보 💗😘 https://t.co/ELS17j19t2"
+	},
+	{
+		"created_at": "Fri Jun 03 05:40:32 +0000 2022",
+		"id": 1532592076478890000,
+		"id_str": "1532598085569941504",
+		"full_text": "송강호 X 강동원 X 이지은의 #유죄인간 모먼트.zip \n전 세계가 반한 &lt;#브로커&gt; 씨네21 커버스토리 화보로 확인하7ㅣ💘@cine_21\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/O5UXzvrwVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유죄인간",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "남우주연상_송강호",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cine_21",
+					"name": "cine21",
+					"id": 1262413899690696700,
+					"id_str": "1262413899690696705",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532591997365928000,
+					"id_str": "1532591997365927936",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcTTSaQAAToqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcTTSaQAAToqP.jpg",
+					"url": "https://t.co/O5UXzvrwVi",
+					"display_url": "pic.twitter.com/O5UXzvrwVi",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592076478889984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532591997365928000,
+					"id_str": "1532591997365927936",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcTTSaQAAToqP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcTTSaQAAToqP.jpg",
+					"url": "https://t.co/O5UXzvrwVi",
+					"display_url": "pic.twitter.com/O5UXzvrwVi",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592076478889984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532591997361754000,
+					"id_str": "1532591997361754114",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FUTcTTRakAIy8Wr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUTcTTRakAIy8Wr.jpg",
+					"url": "https://t.co/O5UXzvrwVi",
+					"display_url": "pic.twitter.com/O5UXzvrwVi",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1532592076478889984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 928,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329806,
+			"friends_count": 10705,
+			"listed_count": 247,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 740,
+		"favorite_count": 1802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "송강호 X 강동원 X 이지은의 #유죄인간 모먼트.zip \n전 세계가 반한 &lt;#브로커&gt; 씨네21 커버스토리 화보로 확인하7ㅣ💘@cine_21\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/O5UXzvrwVi"
+	},
+	{
+		"created_at": "Fri Jun 03 05:40:25 +0000 2022",
+		"id": 1532575300868972500,
+		"id_str": "1532598055685566464",
+		"full_text": "아이유가 발견한 어느 특별한 도시의 정체\n유희열의 안내를 받아 도착한 곳에는…? 🤭\n\n풀버전 보기 👉🏻 \nhttps://t.co/Z38cbumQWF\n\n#세상의모든TOP100 #아이유 #IU #유희열 #멜론 #TOP100 https://t.co/0S3WKa3gda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세상의모든TOP100",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "TOP100",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z38cbumQWF",
+					"expanded_url": "https://youtu.be/kHb89vQ_TM8",
+					"display_url": "youtu.be/kHb89vQ_TM8",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532557920210387000,
+					"id_str": "1532557920210386945",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FUS-7egakAAUPd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUS-7egakAAUPd-.jpg",
+					"url": "https://t.co/0S3WKa3gda",
+					"display_url": "pic.twitter.com/0S3WKa3gda",
+					"expanded_url": "https://twitter.com/melon/status/1532575300868972544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532557920210387000,
+					"id_str": "1532557920210386945",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FUS-7egakAAUPd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUS-7egakAAUPd-.jpg",
+					"url": "https://t.co/0S3WKa3gda",
+					"display_url": "pic.twitter.com/0S3WKa3gda",
+					"expanded_url": "https://twitter.com/melon/status/1532575300868972544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532557920210386945/vid/1280x720/ewZiJKYzxBcLRTGF.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532557920210386945/vid/480x270/CjLdgBLFup6rhXLz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1532557920210386945/pl/aq6AsW3LA3JYaOPE.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1532557920210386945/vid/640x360/r9molplJYbR5dq-F.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "TOP100 도시의 정체",
+						"description": "아이유가 발견한 어느 특별한 도시의 정체\n유희열의 안내를 받아 도착한 곳에는…? 🤭\n\n풀버전 보기 👉🏻 \nhttps://youtu.be/kHb89vQ_TM8\n\n#세상의모든TOP100 #아이유 #IU #유희열 #멜론 #TOP100",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/kHb89vQ_TM8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론\n👇🏻EVENT) 주제별 TOP100 곡 추천하고 백만원 경품 받으세요! (~6/30)",
+			"url": "https://t.co/XiKwAOxnP9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiKwAOxnP9",
+							"expanded_url": "http://kko.to/melontop100_tw",
+							"display_url": "kko.to/melontop100_tw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169668,
+			"friends_count": 70,
+			"listed_count": 661,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1259,
+		"favorite_count": 2761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유가 발견한 어느 특별한 도시의 정체\n유희열의 안내를 받아 도착한 곳에는…? 🤭\n\n풀버전 보기 👉🏻 \nhttps://t.co/Z38cbumQWF\n\n#세상의모든TOP100 #아이유 #IU #유희열 #멜론 #TOP100 https://t.co/0S3WKa3gda"
+	},
+	{
+		"created_at": "Fri Jun 03 05:40:21 +0000 2022",
+		"id": 1532595853328023600,
+		"id_str": "1532598038270775296",
+		"full_text": "뮤즈 신세경이 Pick한 컬러를\n섬세하고 고급스럽게 담아낸\n바닐라코의 #블루밍페탈 🌷🤍\n\nhttps://t.co/ef9sUejOcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루밍페탈",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ef9sUejOcL",
+					"expanded_url": "https://www.instagram.com/p/CeU9SIpB-np/",
+					"display_url": "instagram.com/p/CeU9SIpB-np/",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4286,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤즈 신세경이 Pick한 컬러를\n섬세하고 고급스럽게 담아낸\n바닐라코의 #블루밍페탈 🌷🤍\n\nhttps://t.co/ef9sUejOcL"
+	},
+	{
+		"created_at": "Fri Jun 03 05:40:16 +0000 2022",
+		"id": 1532594477743087600,
+		"id_str": "1532598016846217224",
+		"full_text": "[NEWS] \n\n이달의 소녀, '퀸덤2' 열기 잇는다... 20일 완전체 컴백\n\n▶️ https://t.co/LM0bV5K5fl\n\n#이달의소녀 #LOONA #Flipthat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "Flipthat",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LM0bV5K5fl",
+					"expanded_url": "http://naver.me/FmOm7mql",
+					"display_url": "naver.me/FmOm7mql",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16376,
+			"friends_count": 2,
+			"listed_count": 53,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 580,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n\n이달의 소녀, '퀸덤2' 열기 잇는다... 20일 완전체 컴백\n\n▶️ https://t.co/LM0bV5K5fl\n\n#이달의소녀 #LOONA #Flipthat"
+	},
+	{
 		"created_at": "Fri Jun 03 03:08:34 +0000 2022",
 		"id": 1532557688223191000,
 		"id_str": "1532559840089763840",
