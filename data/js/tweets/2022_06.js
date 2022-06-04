@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 09:29:38 +0000 2022",
+		"id": 1533010675454419000,
+		"id_str": "1533018129349103616",
+		"full_text": "화려한 퍼포먼스의 주인공 효연🕸\n\n중독적인 [#DEEP]의 후렴구부터 \n다양한 매력의 7곡들까지!\n\n지금. 여기. #스포티파이 에서 만나보세요\n\n[DEEP]하게 빠져들으러 가기\nhttps://t.co/xDqyc0YVTL \n\n@Hyoyeon_djhyo @GirlsGeneration #HYO \n#효연 #GirlsGeneration #소녀시대 https://t.co/5UoCGEEtIc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DEEP",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xDqyc0YVTL",
+					"expanded_url": "http://spoti.fi/3tdaPDv",
+					"display_url": "spoti.fi/3tdaPDv",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1532653647896920000,
+					"id_str": "1532653647896920064",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532653647896920064/pu/img/M7Y3WRcTQ3tblv1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532653647896920064/pu/img/M7Y3WRcTQ3tblv1B.jpg",
+					"url": "https://t.co/5UoCGEEtIc",
+					"display_url": "pic.twitter.com/5UoCGEEtIc",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1533010675454418944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532653647896920000,
+					"id_str": "1532653647896920064",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532653647896920064/pu/img/M7Y3WRcTQ3tblv1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532653647896920064/pu/img/M7Y3WRcTQ3tblv1B.jpg",
+					"url": "https://t.co/5UoCGEEtIc",
+					"display_url": "pic.twitter.com/5UoCGEEtIc",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1533010675454418944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 67934,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532653647896920064/pu/vid/320x320/TVZ33EHwOqiLpX6l.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532653647896920064/pu/vid/720x720/8MkkDnO2OHTczTVT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532653647896920064/pu/vid/540x540/-e3EVdKnY8U5XI2x.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1532653647896920064/pu/pl/tgoD1AbxwEKMeEde.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/8QxVSpPcFz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QxVSpPcFz",
+							"expanded_url": "http://spoti.fi/3PxAH6w",
+							"display_url": "spoti.fi/3PxAH6w",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101578,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화려한 퍼포먼스의 주인공 효연🕸\n\n중독적인 [#DEEP]의 후렴구부터 \n다양한 매력의 7곡들까지!\n\n지금. 여기. #스포티파이 에서 만나보세요\n\n[DEEP]하게 빠져들으러 가기\nhttps://t.co/xDqyc0YVTL \n\n@Hyoyeon_djhyo @GirlsGeneration #HYO \n#효연 #GirlsGeneration #소녀시대 https://t.co/5UoCGEEtIc"
+	},
+	{
 		"created_at": "Sat Jun 04 04:40:10 +0000 2022",
 		"id": 1532935191353647000,
 		"id_str": "1532945279502020609",
