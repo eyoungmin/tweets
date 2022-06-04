@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 15:45:37 +0000 2022",
+		"id": 1533104568053051400,
+		"id_str": "1533112746140639234",
+		"full_text": "Tickets for the 2022 LOONA 1st World Tour : [LOONATHEWORLD] in LOS ANGELES additional show are now on sale!🌴\n\nTickets🎟️👉 https://t.co/UKR2hhyk8B\n▶️Show Date &amp; Venue: August 1, 2022 (MON) - The Wiltern\n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#1st_WorldTour #USA https://t.co/ZY6CCiHAal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						206,
+						212
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "1st_WorldTour",
+					"indices": [
+						235,
+						249
+					]
+				},
+				{
+					"text": "USA",
+					"indices": [
+						250,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UKR2hhyk8B",
+					"expanded_url": "https://bit.ly/3x5PxIL",
+					"display_url": "bit.ly/3x5PxIL",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533103933517836300,
+					"id_str": "1533103933517836288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FUat56EVsAAfiA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUat56EVsAAfiA8.jpg",
+					"url": "https://t.co/ZY6CCiHAal",
+					"display_url": "pic.twitter.com/ZY6CCiHAal",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1533104568053051393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533103933517836300,
+					"id_str": "1533103933517836288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FUat56EVsAAfiA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUat56EVsAAfiA8.jpg",
+					"url": "https://t.co/ZY6CCiHAal",
+					"display_url": "pic.twitter.com/ZY6CCiHAal",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1533104568053051393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148333,
+			"friends_count": 103,
+			"listed_count": 318,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for the 2022 LOONA 1st World Tour : [LOONATHEWORLD] in LOS ANGELES additional show are now on sale!🌴\n\nTickets🎟️👉 https://t.co/UKR2hhyk8B\n▶️Show Date &amp; Venue: August 1, 2022 (MON) - The Wiltern\n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#1st_WorldTour #USA https://t.co/ZY6CCiHAal"
+	},
+	{
 		"created_at": "Sat Jun 04 11:30:13 +0000 2022",
 		"id": 1533043613395189800,
 		"id_str": "1533048475645947904",
