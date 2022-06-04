@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 03:45:31 +0000 2022",
+		"id": 1532924077593460700,
+		"id_str": "1532931529810137088",
+		"full_text": "#크리스탈 본캐 피셜로 분석해 본 출연작 속 캐릭터들! 이 인터뷰를 시작으로 그녀의 작품을 정주행 해보는 건 어떨까요?  크리스탈의 다채롭고 사랑스러운 표정과 표현들에 주목해보세요. 가장 마지막, 그녀가 수줍게 남긴 질문도 꼭 확인해보세요! 🎬 #KRYSTAL #JUNGSOOJUNG\nhttps://t.co/qcU7EtyNfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크리스탈",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "JUNGSOOJUNG",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qcU7EtyNfe",
+					"expanded_url": "https://youtu.be/PVcwZOXyei0",
+					"display_url": "youtu.be/PVcwZOXyei0",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127117031,
+			"id_str": "127117031",
+			"name": "아레나옴므플러스코리아",
+			"screen_name": "arenahommeplus",
+			"location": "Seoul, Korea",
+			"description": "Arena Homme+ Korea\nMen's Fashion & lifestyle Magazine \nFashion & Style, Success, Beauty, Accessories, Car, Tech, Liquor and Party",
+			"url": "https://t.co/S1NqQ7ixBi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1NqQ7ixBi",
+							"expanded_url": "https://www.smlounge.co.kr/arena",
+							"display_url": "smlounge.co.kr/arena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21563,
+			"friends_count": 0,
+			"listed_count": 95,
+			"created_at": "Sun Mar 28 03:26:36 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127117031/1652919747",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#크리스탈 본캐 피셜로 분석해 본 출연작 속 캐릭터들! 이 인터뷰를 시작으로 그녀의 작품을 정주행 해보는 건 어떨까요?  크리스탈의 다채롭고 사랑스러운 표정과 표현들에 주목해보세요. 가장 마지막, 그녀가 수줍게 남긴 질문도 꼭 확인해보세요! 🎬 #KRYSTAL #JUNGSOOJUNG\nhttps://t.co/qcU7EtyNfe"
+	},
+	{
 		"created_at": "Fri Jun 03 18:40:09 +0000 2022",
 		"id": 1532772154462331000,
 		"id_str": "1532794284331737093",
