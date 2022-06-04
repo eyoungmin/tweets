@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 10:40:10 +0000 2022",
+		"id": 1533011045287006200,
+		"id_str": "1533035876963565568",
+		"full_text": "신용재 (2F) EP ALBUM [사계 (四季)]\n\n💿 Tracklist\n1. 사계 (四季)\n2. 그댄 꽃 (Feat. 청하)\n3. 밤바다\n4. 불멍\n5. Rest of my life\n\n2022. 06. 08. WED. 6PM (KST)\n\n#신용재 #ShinYongJae #2F\n#사계 #TheFourSeasons 💐\n#MILLIONMARKET #밀리언마켓 https://t.co/xyvpA9f4vV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신용재",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "ShinYongJae",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "2F",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "사계",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "TheFourSeasons",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"text": "MILLIONMARKET",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "밀리언마켓",
+					"indices": [
+						193,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533011035568808000,
+					"id_str": "1533011035568807936",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FUZZaiPVIAAa5QN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUZZaiPVIAAa5QN.jpg",
+					"url": "https://t.co/xyvpA9f4vV",
+					"display_url": "pic.twitter.com/xyvpA9f4vV",
+					"expanded_url": "https://twitter.com/million_market/status/1533011045287006209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533011035568808000,
+					"id_str": "1533011035568807936",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FUZZaiPVIAAa5QN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUZZaiPVIAAa5QN.jpg",
+					"url": "https://t.co/xyvpA9f4vV",
+					"display_url": "pic.twitter.com/xyvpA9f4vV",
+					"expanded_url": "https://twitter.com/million_market/status/1533011045287006209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4298169078,
+			"id_str": "4298169078",
+			"name": "MILLION MARKET",
+			"screen_name": "million_market",
+			"location": "",
+			"description": "MILLION MARKET Official Twitter Page",
+			"url": "https://t.co/CkN09SrHVD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CkN09SrHVD",
+							"expanded_url": "http://www.million-market.com/",
+							"display_url": "million-market.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2775,
+			"friends_count": 3,
+			"listed_count": 32,
+			"created_at": "Fri Nov 20 06:49:47 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072442958073475072/h9sFRokr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072442958073475072/h9sFRokr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4298169078/1544525449",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신용재 (2F) EP ALBUM [사계 (四季)]\n\n💿 Tracklist\n1. 사계 (四季)\n2. 그댄 꽃 (Feat. 청하)\n3. 밤바다\n4. 불멍\n5. Rest of my life\n\n2022. 06. 08. WED. 6PM (KST)\n\n#신용재 #ShinYongJae #2F\n#사계 #TheFourSeasons 💐\n#MILLIONMARKET #밀리언마켓 https://t.co/xyvpA9f4vV"
+	},
+	{
 		"created_at": "Sat Jun 04 09:29:38 +0000 2022",
 		"id": 1533010675454419000,
 		"id_str": "1533018129349103616",
