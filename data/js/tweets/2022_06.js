@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 05 02:40:19 +0000 2022",
+		"id": 1533270138405126100,
+		"id_str": "1533277506748424192",
+		"full_text": "@1027KIISFM @iambeckyg 💗💗💗😘😘😘",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "iambeckyg",
+					"name": "Becky G.",
+					"id": 128023009,
+					"id_str": "128023009",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1533260795957477400,
+		"in_reply_to_status_id_str": "1533260795957477377",
+		"in_reply_to_user_id": 19046392,
+		"in_reply_to_user_id_str": "19046392",
+		"in_reply_to_screen_name": "1027KIISFM",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59462,
+			"friends_count": 3,
+			"listed_count": 161,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@1027KIISFM @iambeckyg 💗💗💗😘😘😘"
+	},
+	{
 		"created_at": "Sat Jun 04 20:40:09 +0000 2022",
 		"id": 1533179827091656700,
 		"id_str": "1533186870225641472",
