@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 05:40:09 +0000 2022",
+		"id": 1533660258115420200,
+		"id_str": "1533685154199351296",
+		"full_text": "⏰ #이지은 과 수요일에 만나요~🎵\n&lt;#브로커&gt; 드디어 D-2 ! #설레서_잠이안와🛏🌙\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n\n#남우주연상_송강호 #강동원 #배두나 #이지은 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/pWUj99acR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지은",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "설레서_잠이안와",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"text": "남우주연상_송강호",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"text": "6월8일대개봉",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533660148119781400,
+					"id_str": "1533660148119781376",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533660148119781376/pu/img/eUlQs3hJ7z3uoAXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533660148119781376/pu/img/eUlQs3hJ7z3uoAXc.jpg",
+					"url": "https://t.co/pWUj99acR6",
+					"display_url": "pic.twitter.com/pWUj99acR6",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1533660258115420160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533660148119781400,
+					"id_str": "1533660148119781376",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533660148119781376/pu/img/eUlQs3hJ7z3uoAXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533660148119781376/pu/img/eUlQs3hJ7z3uoAXc.jpg",
+					"url": "https://t.co/pWUj99acR6",
+					"display_url": "pic.twitter.com/pWUj99acR6",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1533660258115420160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25942,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533660148119781376/pu/vid/720x720/w6OaiMWS1Cvn0KyV.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533660148119781376/pu/vid/540x540/L7Y486Ry-wG3vE8c.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1533660148119781376/pu/pl/38hJleAiU98QNRg9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533660148119781376/pu/vid/320x320/qz4SkyUMjuxudvuA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329975,
+			"friends_count": 10704,
+			"listed_count": 248,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 2515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⏰ #이지은 과 수요일에 만나요~🎵\n&lt;#브로커&gt; 드디어 D-2 ! #설레서_잠이안와🛏🌙\n\n🎬 &lt;브로커&gt; 지금 바로 예매하기!\nhttps://t.co/kbTEEq3B3V\n\n#남우주연상_송강호 #강동원 #배두나 #이지은 #고레에다히로카즈감독 #6월8일대개봉 https://t.co/pWUj99acR6"
+	},
+	{
 		"created_at": "Mon Jun 06 04:40:09 +0000 2022",
 		"id": 1533660125822693400,
 		"id_str": "1533670054746808320",
