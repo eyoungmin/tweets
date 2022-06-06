@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 04:40:09 +0000 2022",
+		"id": 1533660125822693400,
+		"id_str": "1533670054746808320",
+		"full_text": "Impossible to capture the magic of tonight’s show in one photo but this one captures how I feel. Thank you New York and New Jersey.  PH https://t.co/bxxPyvhcJR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533660117698236400,
+					"id_str": "1533660117698236416",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FUinwFmWUAATga-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUinwFmWUAATga-.jpg",
+					"url": "https://t.co/bxxPyvhcJR",
+					"display_url": "pic.twitter.com/bxxPyvhcJR",
+					"expanded_url": "https://twitter.com/coldplay/status/1533660125822693376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533660117698236400,
+					"id_str": "1533660117698236416",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FUinwFmWUAATga-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUinwFmWUAATga-.jpg",
+					"url": "https://t.co/bxxPyvhcJR",
+					"display_url": "pic.twitter.com/bxxPyvhcJR",
+					"expanded_url": "https://twitter.com/coldplay/status/1533660125822693376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23612087,
+			"friends_count": 777,
+			"listed_count": 42513,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 420,
+		"favorite_count": 4750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Impossible to capture the magic of tonight’s show in one photo but this one captures how I feel. Thank you New York and New Jersey.  PH https://t.co/bxxPyvhcJR"
+	},
+	{
 		"created_at": "Mon Jun 06 03:40:13 +0000 2022",
 		"id": 1533652829549863000,
 		"id_str": "1533654969152327680",
