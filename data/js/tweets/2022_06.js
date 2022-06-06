@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 11:40:09 +0000 2022",
+		"id": 1533761011844386800,
+		"id_str": "1533775751044116482",
+		"full_text": "[💝]\n\n皆さんこんにちは💙⭐️🌙🦋\n\nいつも私たちaespaを応援してくださり、そしてaespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～に沢山の関心をお寄せくださりありがとうございます🥹\n\n日本の皆さんにお会いできる日が待ち遠しいという私たちの思いが伝わりますように🧚🏻‍♀️🫶\n\n#aespa #æspa #에스파 #エスパ https://t.co/jI70rzfWJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533760971151265800,
+					"id_str": "1533760971151265792",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533760971151265792/pu/img/pgRooJCNTIg7pnNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533760971151265792/pu/img/pgRooJCNTIg7pnNx.jpg",
+					"url": "https://t.co/jI70rzfWJY",
+					"display_url": "pic.twitter.com/jI70rzfWJY",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1533761011844386816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533760971151265800,
+					"id_str": "1533760971151265792",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533760971151265792/pu/img/pgRooJCNTIg7pnNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533760971151265792/pu/img/pgRooJCNTIg7pnNx.jpg",
+					"url": "https://t.co/jI70rzfWJY",
+					"display_url": "pic.twitter.com/jI70rzfWJY",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1533761011844386816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46966,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533760971151265792/pu/vid/480x270/48yjTYObsMD6jfn2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533760971151265792/pu/vid/1280x720/501qid89LyZaVsAl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533760971151265792/pu/vid/640x360/z4U37YvXkUbFmFCO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1533760971151265792/pu/pl/B-KT0s1bVEMy1u0v.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138315,
+			"friends_count": 1,
+			"listed_count": 245,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7094,
+		"favorite_count": 22041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💝]\n\n皆さんこんにちは💙⭐️🌙🦋\n\nいつも私たちaespaを応援してくださり、そしてaespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～に沢山の関心をお寄せくださりありがとうございます🥹\n\n日本の皆さんにお会いできる日が待ち遠しいという私たちの思いが伝わりますように🧚🏻‍♀️🫶\n\n#aespa #æspa #에스파 #エスパ https://t.co/jI70rzfWJY"
+	},
+	{
 		"created_at": "Mon Jun 06 05:40:09 +0000 2022",
 		"id": 1533660258115420200,
 		"id_str": "1533685154199351296",
