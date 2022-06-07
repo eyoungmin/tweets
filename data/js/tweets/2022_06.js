@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 09:40:15 +0000 2022",
+		"id": 1534107538601693200,
+		"id_str": "1534107965296353280",
+		"full_text": "[💡] #VLIVE \n청하랑 별하랑이랑 5번째 ~ing💚💙💜\n\n잠시 후 7시, 청하 솔로데뷔 5주년 파티에 함께 해주세요🎉\n\n👉🏼https://t.co/v7RiIsx01q\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#5YearsWithCHUNGHA\n#5YearsAnniversary\n#별하랑의여왕청하 https://t.co/e035hJaMDn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"text": "5YearsWithCHUNGHA",
+					"indices": [
+						128,
+						146
+					]
+				},
+				{
+					"text": "5YearsAnniversary",
+					"indices": [
+						147,
+						165
+					]
+				},
+				{
+					"text": "별하랑의여왕청하",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7RiIsx01q",
+					"expanded_url": "https://www.vlive.tv/post/1-29419469",
+					"display_url": "vlive.tv/post/1-29419469",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534107375762051000,
+					"id_str": "1534107375762051072",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FUo-h7uakAA8RdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUo-h7uakAA8RdA.jpg",
+					"url": "https://t.co/e035hJaMDn",
+					"display_url": "pic.twitter.com/e035hJaMDn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1534107538601693185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534107375762051000,
+					"id_str": "1534107375762051072",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FUo-h7uakAA8RdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUo-h7uakAA8RdA.jpg",
+					"url": "https://t.co/e035hJaMDn",
+					"display_url": "pic.twitter.com/e035hJaMDn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1534107538601693185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346656,
+			"friends_count": 1,
+			"listed_count": 2122,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] #VLIVE \n청하랑 별하랑이랑 5번째 ~ing💚💙💜\n\n잠시 후 7시, 청하 솔로데뷔 5주년 파티에 함께 해주세요🎉\n\n👉🏼https://t.co/v7RiIsx01q\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#5YearsWithCHUNGHA\n#5YearsAnniversary\n#별하랑의여왕청하 https://t.co/e035hJaMDn"
+	},
+	{
+		"created_at": "Tue Jun 07 09:40:09 +0000 2022",
+		"id": 1534097853311643600,
+		"id_str": "1534107939413413890",
+		"full_text": "[📢]\naespa OFFICIAL MAIL MAGAZINEにご登録の皆さんへ、メンバーからメッセージ動画が届きました✨\n本日はKARINAのメッセージを公開💙ぜひチェックしてください🎁\n※メッセージ動画は下記サイトにログイン後「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#KARINA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLUyzoseU3",
+					"expanded_url": "https://aespa.smtown-official.jp/",
+					"display_url": "aespa.smtown-official.jp",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141254,
+			"friends_count": 1,
+			"listed_count": 256,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1689,
+		"favorite_count": 5497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\naespa OFFICIAL MAIL MAGAZINEにご登録の皆さんへ、メンバーからメッセージ動画が届きました✨\n本日はKARINAのメッセージを公開💙ぜひチェックしてください🎁\n※メッセージ動画は下記サイトにログイン後「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#KARINA"
+	},
+	{
 		"created_at": "Tue Jun 07 06:45:37 +0000 2022",
 		"id": 1534052541847281700,
 		"id_str": "1534064014938058755",
