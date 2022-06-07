@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 21:40:09 +0000 2022",
+		"id": 1534278867963240400,
+		"id_str": "1534289133979435009",
+		"full_text": "☀️💚 @TODAYshow https://t.co/cz5RUmDaiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TODAYshow",
+					"name": "TODAY",
+					"id": 7744592,
+					"id_str": "7744592",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cz5RUmDaiV",
+					"expanded_url": "https://twitter.com/todayshow/status/1534208575492567043",
+					"display_url": "twitter.com/todayshow/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23613488,
+			"friends_count": 777,
+			"listed_count": 42505,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1534208575492567000,
+		"quoted_status_id_str": "1534208575492567043",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cz5RUmDaiV",
+			"expanded": "https://twitter.com/todayshow/status/1534208575492567043",
+			"display": "twitter.com/todayshow/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 07 16:20:03 +0000 2022",
+			"id": 1534208575492567000,
+			"id_str": "1534208575492567043",
+			"full_text": "Plenty of artists get pumped up from the energy of the crowd, but @coldplay is taking things one step further, literally harnessing their fans’ energy to help power their shows. https://t.co/hWxqtl5aBs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							66,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hWxqtl5aBs",
+						"expanded_url": "https://on.today.com/3aL5E7j",
+						"display_url": "on.today.com/3aL5E7j",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7744592,
+				"id_str": "7744592",
+				"name": "TODAY",
+				"screen_name": "TODAYshow",
+				"location": "Studio 1A",
+				"description": "America's favorite morning show",
+				"url": "https://t.co/F4QAq97Dvo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F4QAq97Dvo",
+								"expanded_url": "http://TODAY.com",
+								"display_url": "TODAY.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4221496,
+				"friends_count": 7840,
+				"listed_count": 18186,
+				"created_at": "Thu Jul 26 19:56:22 +0000 2007",
+				"favourites_count": 10425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 203162,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FF9805",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7744592/1598466948",
+				"profile_link_color": "FF503C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFAED",
+				"profile_text_color": "525252",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 194,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 88,
+		"favorite_count": 1046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☀️💚 @TODAYshow https://t.co/cz5RUmDaiV"
+	},
+	{
 		"created_at": "Tue Jun 07 15:40:15 +0000 2022",
 		"id": 1534196689472749600,
 		"id_str": "1534198558584340481",
