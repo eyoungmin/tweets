@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 04:40:09 +0000 2022",
+		"id": 1534022335476416500,
+		"id_str": "1534032442721456128",
+		"full_text": "We chatted with @BrookeReese about our journey so far and our upcoming EP. Listen now on @AppleMusic 💜\n \nhttps://t.co/LgAXLsEHDh\n \n#UpNext\n#aespa #æspa #에스파 \n#Girls https://t.co/i9Rro6u8rB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UpNext",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrookeReese",
+					"name": "Brooke Reese",
+					"id": 201547358,
+					"id_str": "201547358",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LgAXLsEHDh",
+					"expanded_url": "http://apple.co/AespaInterview",
+					"display_url": "apple.co/AespaInterview",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533809230037168000,
+					"id_str": "1533809230037168128",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FUkwzujVEAU5c3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUkwzujVEAU5c3C.jpg",
+					"url": "https://t.co/i9Rro6u8rB",
+					"display_url": "pic.twitter.com/i9Rro6u8rB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534022335476416512/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533809230037168000,
+					"id_str": "1533809230037168128",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FUkwzujVEAU5c3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUkwzujVEAU5c3C.jpg",
+					"url": "https://t.co/i9Rro6u8rB",
+					"display_url": "pic.twitter.com/i9Rro6u8rB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534022335476416512/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 7958,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1533809230037168128/vid/720x720/l3MftKfBJluZyzo3.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1533809230037168128/vid/320x320/R4_XaUgtm0JhHipQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1533809230037168128/vid/540x540/UYGrBsxdViYJ-ych.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1533809230037168128/pl/8yG965ZRhX_Hmd6v.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2704423,
+			"friends_count": 2,
+			"listed_count": 8555,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3814,
+		"favorite_count": 10426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We chatted with @BrookeReese about our journey so far and our upcoming EP. Listen now on @AppleMusic 💜\n \nhttps://t.co/LgAXLsEHDh\n \n#UpNext\n#aespa #æspa #에스파 \n#Girls https://t.co/i9Rro6u8rB"
+	},
+	{
 		"created_at": "Tue Jun 07 02:40:19 +0000 2022",
 		"id": 1533998333941149700,
 		"id_str": "1534002282035134464",
