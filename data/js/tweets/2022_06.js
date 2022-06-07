@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 14:40:09 +0000 2022",
+		"id": 1534179449985327000,
+		"id_str": "1534183436394577921",
+		"full_text": "@Ollielastname @1027KIISFM 💗💗💗",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ollielastname",
+					"name": "Ollie C.",
+					"id": 29057892,
+					"id_str": "29057892",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1533275760135286800,
+		"in_reply_to_status_id_str": "1533275760135286785",
+		"in_reply_to_user_id": 29057892,
+		"in_reply_to_user_id_str": "29057892",
+		"in_reply_to_screen_name": "Ollielastname",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59644,
+			"friends_count": 3,
+			"listed_count": 163,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@Ollielastname @1027KIISFM 💗💗💗"
+	},
+	{
 		"created_at": "Tue Jun 07 13:09:38 +0000 2022",
 		"id": 1534158752018235400,
 		"id_str": "1534160657838329857",
