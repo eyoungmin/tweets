@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 02:40:19 +0000 2022",
+		"id": 1533998333941149700,
+		"id_str": "1534002282035134464",
+		"full_text": "에스파, 美 LA 쇼케이스 6월 26일 개최!\n신곡 및 히트곡 무대, 토크, 게임까지 다채로운 코너 예고!\n\naespa's LA showcase will be held on June 26th!\nStay tuned for various corners from new &amp; hit song stages, talks, and games!\n\nhttps://t.co/TGAgX33Oo9 \n\n#aespa #æspa #에스파\n#Girls https://t.co/1X7JVUD22y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						223,
+						228
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						229,
+						233
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						234,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TGAgX33Oo9",
+					"expanded_url": "https://bit.ly/3az2uTO",
+					"display_url": "bit.ly/3az2uTO",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533998324642365400,
+					"id_str": "1533998324642365441",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnbWUpaQAE98Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnbWUpaQAE98Bl.jpg",
+					"url": "https://t.co/1X7JVUD22y",
+					"display_url": "pic.twitter.com/1X7JVUD22y",
+					"expanded_url": "https://twitter.com/aespa_official/status/1533998333941149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533998324642365400,
+					"id_str": "1533998324642365441",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnbWUpaQAE98Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnbWUpaQAE98Bl.jpg",
+					"url": "https://t.co/1X7JVUD22y",
+					"display_url": "pic.twitter.com/1X7JVUD22y",
+					"expanded_url": "https://twitter.com/aespa_official/status/1533998333941149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2704168,
+			"friends_count": 2,
+			"listed_count": 8555,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5132,
+		"favorite_count": 13516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 美 LA 쇼케이스 6월 26일 개최!\n신곡 및 히트곡 무대, 토크, 게임까지 다채로운 코너 예고!\n\naespa's LA showcase will be held on June 26th!\nStay tuned for various corners from new &amp; hit song stages, talks, and games!\n\nhttps://t.co/TGAgX33Oo9 \n\n#aespa #æspa #에스파\n#Girls https://t.co/1X7JVUD22y"
+	},
+	{
+		"created_at": "Tue Jun 07 02:40:09 +0000 2022",
+		"id": 1533927233462620200,
+		"id_str": "1534002243715878912",
+		"full_text": "These 10 tracks from artists including @BettyWho, @Aespa_Official, @whydontwemusic and @ajsmithmusic, plus more, will get you energized to take on the week.  https://t.co/4WVHONAayh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BettyWho",
+					"name": "Betty Who",
+					"id": 255316854,
+					"id_str": "255316854",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "whydontwemusic",
+					"name": "Why Don’t We",
+					"id": 778393933944541200,
+					"id_str": "778393933944541185",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "ajsmithmusic",
+					"name": "AJ Smith",
+					"id": 231223866,
+					"id_str": "231223866",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4WVHONAayh",
+					"expanded_url": "http://blbrd.cm/G0pQFsg",
+					"display_url": "blbrd.cm/G0pQFsg",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13721296,
+			"friends_count": 3464,
+			"listed_count": 21611,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 297199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1654178572",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1720,
+		"favorite_count": 5245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These 10 tracks from artists including @BettyWho, @Aespa_Official, @whydontwemusic and @ajsmithmusic, plus more, will get you energized to take on the week.  https://t.co/4WVHONAayh"
+	},
+	{
+		"created_at": "Tue Jun 07 02:29:40 +0000 2022",
+		"id": 1533998428497162200,
+		"id_str": "1533999605486166017",
+		"full_text": "[#NEWS] '징크스의 연인' 서현♥나인우, 본방사수 이끌 #만찢남녀\n▶ https://t.co/1WowGutjj1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/hgeHAIrqHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "만찢남녀",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1WowGutjj1",
+					"expanded_url": "http://naver.me/5vMj2ed7",
+					"display_url": "naver.me/5vMj2ed7",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1533995539066368000,
+					"id_str": "1533995539066368000",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnY0LkVsAAvqB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnY0LkVsAAvqB9.jpg",
+					"url": "https://t.co/hgeHAIrqHD",
+					"display_url": "pic.twitter.com/hgeHAIrqHD",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1533998428497162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533995539066368000,
+					"id_str": "1533995539066368000",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FUnY0LkVsAAvqB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUnY0LkVsAAvqB9.jpg",
+					"url": "https://t.co/hgeHAIrqHD",
+					"display_url": "pic.twitter.com/hgeHAIrqHD",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1533998428497162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60449,
+			"friends_count": 12,
+			"listed_count": 270,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현♥나인우, 본방사수 이끌 #만찢남녀\n▶ https://t.co/1WowGutjj1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/hgeHAIrqHD"
+	},
+	{
 		"created_at": "Mon Jun 06 21:40:10 +0000 2022",
 		"id": 1533919729819308000,
 		"id_str": "1533926747246297088",
