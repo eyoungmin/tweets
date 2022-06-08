@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 17:40:17 +0000 2022",
+		"id": 1534505519460888600,
+		"id_str": "1534591157694513154",
+		"full_text": "Lights will guide you home - but #SEPTA will RIDE YOU HOME - FOR FREE! Free rides from NRG Station on the Broad Street Line after the @coldplay show TONIGHT at @LFFStadium: https://t.co/7aJc1ColTh! #ISEPTAPHILLY #waytogo #ColdplayPhiladelphia https://t.co/87jUqMwJW6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEPTA",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "ISEPTAPHILLY",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"text": "waytogo",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "ColdplayPhiladelphia",
+					"indices": [
+						221,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"screen_name": "LFFStadium",
+					"name": "LincolnFinancialFld",
+					"id": 285759319,
+					"id_str": "285759319",
+					"indices": [
+						160,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7aJc1ColTh",
+					"expanded_url": "https://iseptaphilly.com/blog/coldplay",
+					"display_url": "iseptaphilly.com/blog/coldplay",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534268362167046100,
+					"id_str": "1534268362167046144",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FUrQ8k0WUAABAqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUrQ8k0WUAABAqE.jpg",
+					"url": "https://t.co/87jUqMwJW6",
+					"display_url": "pic.twitter.com/87jUqMwJW6",
+					"expanded_url": "https://twitter.com/SEPTAPHILLY/status/1534505519460888579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534268362167046100,
+					"id_str": "1534268362167046144",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FUrQ8k0WUAABAqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUrQ8k0WUAABAqE.jpg",
+					"url": "https://t.co/87jUqMwJW6",
+					"display_url": "pic.twitter.com/87jUqMwJW6",
+					"expanded_url": "https://twitter.com/SEPTAPHILLY/status/1534505519460888579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361108396,
+			"id_str": "2361108396",
+			"name": "ISEPTAPHILLY",
+			"screen_name": "SEPTAPHILLY",
+			"location": "Philadelphia",
+			"description": "An official Twitter feed of the Southeastern Pennsylvania Transportation Authority (SEPTA). Visit https://t.co/e3VTZdQH0y for service info. #ISEPTAPHILLY",
+			"url": "https://t.co/e3VTZdQH0y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3VTZdQH0y",
+							"expanded_url": "http://ISEPTAPHILLY.COM",
+							"display_url": "ISEPTAPHILLY.COM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e3VTZdQH0y",
+							"expanded_url": "http://ISEPTAPHILLY.COM",
+							"display_url": "ISEPTAPHILLY.COM",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85236,
+			"friends_count": 651,
+			"listed_count": 332,
+			"created_at": "Tue Feb 25 13:45:11 +0000 2014",
+			"favourites_count": 45341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1532043586576994305/eMx4NLdP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532043586576994305/eMx4NLdP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361108396/1651237626",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lights will guide you home - but #SEPTA will RIDE YOU HOME - FOR FREE! Free rides from NRG Station on the Broad Street Line after the @coldplay show TONIGHT at @LFFStadium: https://t.co/7aJc1ColTh! #ISEPTAPHILLY #waytogo #ColdplayPhiladelphia https://t.co/87jUqMwJW6"
+	},
+	{
 		"created_at": "Wed Jun 08 16:40:09 +0000 2022",
 		"id": 1534562902694166500,
 		"id_str": "1534576024440160257",
