@@ -1,6 +1,735 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 13:40:33 +0000 2022",
+		"id": 1534472916259467300,
+		"id_str": "1534530823915020289",
+		"full_text": "aespa The 2nd Mini Album ‘Girls’ KWANGYA INVITATIONAL EVENT💜\n\naespa의 미니 2집 ‘Girls’ 발매를 기념하여 “aespa ‘ep.2 Next Level’ - SM Culture Universe Premiere @ KWANGYA”가 진행됩니다!💜\naespa와 함께하는 이벤트를 SMTOWN &amp;STORE 온라인에서 만나보세요👏🏻👏🏻\n\n🔮https://t.co/jX9Iu8G0ro https://t.co/oLpdYTZPiJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jX9Iu8G0ro",
+					"expanded_url": "https://bit.ly/3x9Gbfg",
+					"display_url": "bit.ly/3x9Gbfg",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534472844511703000,
+					"id_str": "1534472844511703040",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FUuK7A6acAASzh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUuK7A6acAASzh2.jpg",
+					"url": "https://t.co/oLpdYTZPiJ",
+					"display_url": "pic.twitter.com/oLpdYTZPiJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1534472916259467265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534472844511703000,
+					"id_str": "1534472844511703040",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FUuK7A6acAASzh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUuK7A6acAASzh2.jpg",
+					"url": "https://t.co/oLpdYTZPiJ",
+					"display_url": "pic.twitter.com/oLpdYTZPiJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1534472916259467265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223477,
+			"friends_count": 0,
+			"listed_count": 379,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3658,
+		"favorite_count": 10214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa The 2nd Mini Album ‘Girls’ KWANGYA INVITATIONAL EVENT💜\n\naespa의 미니 2집 ‘Girls’ 발매를 기념하여 “aespa ‘ep.2 Next Level’ - SM Culture Universe Premiere @ KWANGYA”가 진행됩니다!💜\naespa와 함께하는 이벤트를 SMTOWN &amp;STORE 온라인에서 만나보세요👏🏻👏🏻\n\n🔮https://t.co/jX9Iu8G0ro https://t.co/oLpdYTZPiJ"
+	},
+	{
+		"created_at": "Wed Jun 08 13:40:27 +0000 2022",
+		"id": 1534526223484760000,
+		"id_str": "1534530798241579011",
+		"full_text": "[#츄 / #Chuu] 오빛들덕분에 좋은결과🎀💖\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/kYbm0MPJuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534526211288088600,
+					"id_str": "1534526211288088576",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7dXpaQAAZWqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7dXpaQAAZWqU.jpg",
+					"url": "https://t.co/kYbm0MPJuI",
+					"display_url": "pic.twitter.com/kYbm0MPJuI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526223484760066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534526211288088600,
+					"id_str": "1534526211288088576",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7dXpaQAAZWqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7dXpaQAAZWqU.jpg",
+					"url": "https://t.co/kYbm0MPJuI",
+					"display_url": "pic.twitter.com/kYbm0MPJuI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526223484760066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534526211195809800,
+					"id_str": "1534526211195809792",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7dXTaMAAvIhk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7dXTaMAAvIhk.jpg",
+					"url": "https://t.co/kYbm0MPJuI",
+					"display_url": "pic.twitter.com/kYbm0MPJuI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526223484760066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534526211426521000,
+					"id_str": "1534526211426521091",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7dYKakAMJmlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7dYKakAMJmlt.jpg",
+					"url": "https://t.co/kYbm0MPJuI",
+					"display_url": "pic.twitter.com/kYbm0MPJuI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526223484760066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1534526208095838200,
+		"in_reply_to_status_id_str": "1534526208095838208",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 925721,
+			"friends_count": 2,
+			"listed_count": 8719,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1666,
+		"favorite_count": 6795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#츄 / #Chuu] 오빛들덕분에 좋은결과🎀💖\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/kYbm0MPJuI"
+	},
+	{
+		"created_at": "Wed Jun 08 13:40:18 +0000 2022",
+		"id": 1534526208095838200,
+		"id_str": "1534530759976951812",
+		"full_text": "[#츄 / #Chuu] 오빛들덕분에 좋은결과🎀💖\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/X04v2VctCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						1,
+						3
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534526195626578000,
+					"id_str": "1534526195626577921",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7cdTakAEau96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7cdTakAEau96.jpg",
+					"url": "https://t.co/X04v2VctCn",
+					"display_url": "pic.twitter.com/X04v2VctCn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526208095838208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534526195626578000,
+					"id_str": "1534526195626577921",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7cdTakAEau96.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7cdTakAEau96.jpg",
+					"url": "https://t.co/X04v2VctCn",
+					"display_url": "pic.twitter.com/X04v2VctCn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526208095838208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534526195655921700,
+					"id_str": "1534526195655921664",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FUu7cdaaUAAtW_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUu7cdaaUAAtW_s.jpg",
+					"url": "https://t.co/X04v2VctCn",
+					"display_url": "pic.twitter.com/X04v2VctCn",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1534526208095838208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 925721,
+			"friends_count": 2,
+			"listed_count": 8719,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3677,
+		"favorite_count": 11927,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#츄 / #Chuu] 오빛들덕분에 좋은결과🎀💖\n\n#이달의소녀 #LOONA\n#퀸덤2 #QUEENDOM2 https://t.co/X04v2VctCn"
+	},
+	{
 		"created_at": "Wed Jun 08 12:29:38 +0000 2022",
 		"id": 1534505530739372000,
 		"id_str": "1534512980079017984",
