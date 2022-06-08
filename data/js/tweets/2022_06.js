@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 02:40:09 +0000 2022",
+		"id": 1534307968463806500,
+		"id_str": "1534364631497592832",
+		"full_text": "#Soundcheck: The 10 best music releases of the week.\n@aespa_official \n@YYYs\n@lakeyah, @Latto\n&amp; more\nhttps://t.co/0kr44snyaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Soundcheck",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "YYYs",
+					"name": "Yeah Yeah Yeahs",
+					"id": 21681783,
+					"id_str": "21681783",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"screen_name": "lakeyah",
+					"name": "“MYB” Ft. Latto 🎰x🐐 OUT NOW",
+					"id": 3050205531,
+					"id_str": "3050205531",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"screen_name": "Latto",
+					"name": "BIG LATTO 🎰",
+					"id": 184970791,
+					"id_str": "184970791",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0kr44snyaz",
+					"expanded_url": "https://www.nylon.com/entertainment/soundcheck-6-6-2022-aespa-illusion-yeah-yeah-yeahs?utm_campaign=nylon&utm_content=1654642500&utm_medium=owned&utm_source=twitter",
+					"display_url": "nylon.com/entertainment/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14222518,
+			"id_str": "14222518",
+			"name": "NYLON",
+			"screen_name": "NylonMag",
+			"location": "New York, USA",
+			"description": "",
+			"url": "https://t.co/y3ZV25Sa16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3ZV25Sa16",
+							"expanded_url": "http://nylon.com",
+							"display_url": "nylon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108714,
+			"friends_count": 1356,
+			"listed_count": 10217,
+			"created_at": "Wed Mar 26 03:18:38 +0000 2008",
+			"favourites_count": 4053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14222518/1649768636",
+			"profile_link_color": "EB0C8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8FF9FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1434,
+		"favorite_count": 4485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Soundcheck: The 10 best music releases of the week.\n@aespa_official \n@YYYs\n@lakeyah, @Latto\n&amp; more\nhttps://t.co/0kr44snyaz"
+	},
+	{
 		"created_at": "Wed Jun 08 01:46:57 +0000 2022",
 		"id": 1534349141505343500,
 		"id_str": "1534351240670289921",
