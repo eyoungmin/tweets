@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 05:40:16 +0000 2022",
+		"id": 1534402101102530600,
+		"id_str": "1534409959626133504",
+		"full_text": "[📹] #VENOMchallenge\n\n밴디트 6인조야?... 오분만에 배운거 왜 이렇게 칼군무얔ㅋㅋㅋ 분신고마워❤️\n\n▶️ https://t.co/Rh2VukocQC\n\n#BVNDIT with #CHUNGHA @CHUNGHA_MNHent \n\n#BVNDIT #밴디트\n#CHUNGHA #청하\n#ReOriginal #VENOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VENOMchallenge",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"text": "BVNDIT",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "BVNDIT",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "밴디트",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "ReOriginal",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"text": "VENOM",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rh2VukocQC",
+					"expanded_url": "https://vt.tiktok.com/ZSdGJgkhu/?k=1",
+					"display_url": "vt.tiktok.com/ZSdGJgkhu/?k=1",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1095272409211387900,
+			"id_str": "1095272409211387905",
+			"name": "BVNDIT",
+			"screen_name": "BVNDIT_official",
+			"location": "",
+			"description": "BVNDIT(밴디트) Official Twitter",
+			"url": "https://t.co/vNDvggVn0C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vNDvggVn0C",
+							"expanded_url": "http://youtu.be/7wNEXWnXAd0",
+							"display_url": "youtu.be/7wNEXWnXAd0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63586,
+			"friends_count": 2,
+			"listed_count": 991,
+			"created_at": "Tue Feb 12 10:44:26 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521505130956296192/QuZiEKjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521505130956296192/QuZiEKjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095272409211387905/1652018715",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #VENOMchallenge\n\n밴디트 6인조야?... 오분만에 배운거 왜 이렇게 칼군무얔ㅋㅋㅋ 분신고마워❤️\n\n▶️ https://t.co/Rh2VukocQC\n\n#BVNDIT with #CHUNGHA @CHUNGHA_MNHent \n\n#BVNDIT #밴디트\n#CHUNGHA #청하\n#ReOriginal #VENOM"
+	},
+	{
+		"created_at": "Wed Jun 08 05:29:38 +0000 2022",
+		"id": 1534399828280500200,
+		"id_str": "1534407282678800384",
+		"full_text": "#효연 무슨일이야? 컴백 앞두고 -9kg 감량한 효연의 다이어트 비법! 내일부터 당잘 해볼까? #간헐적단식 https://t.co/RAEPZ5Hfwa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "간헐적단식",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RAEPZ5Hfwa",
+					"expanded_url": "https://www.allurekorea.com/?p=173135&ddw=112607&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=173135&ddw=…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38585,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1652768698",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#효연 무슨일이야? 컴백 앞두고 -9kg 감량한 효연의 다이어트 비법! 내일부터 당잘 해볼까? #간헐적단식 https://t.co/RAEPZ5Hfwa"
+	},
+	{
 		"created_at": "Wed Jun 08 04:29:38 +0000 2022",
 		"id": 1534390890617503700,
 		"id_str": "1534392183817740288",
