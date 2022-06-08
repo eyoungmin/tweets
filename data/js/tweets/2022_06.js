@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 04:29:38 +0000 2022",
+		"id": 1534390890617503700,
+		"id_str": "1534392183817740288",
+		"full_text": "빅마우스 대본리딩 현장📸\n\n&lt;#빅마우스&gt; 2022년 7월 MBC 커밍쑨✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 #곽동연 https://t.co/lGiuRnWnAE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534390882593828900,
+					"id_str": "1534390882593828864",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FUtAYM-acAAsnzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUtAYM-acAAsnzp.jpg",
+					"url": "https://t.co/lGiuRnWnAE",
+					"display_url": "pic.twitter.com/lGiuRnWnAE",
+					"expanded_url": "https://twitter.com/withMBC/status/1534390890617503744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534390882593828900,
+					"id_str": "1534390882593828864",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FUtAYM-acAAsnzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUtAYM-acAAsnzp.jpg",
+					"url": "https://t.co/lGiuRnWnAE",
+					"display_url": "pic.twitter.com/lGiuRnWnAE",
+					"expanded_url": "https://twitter.com/withMBC/status/1534390890617503744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534390882614804500,
+					"id_str": "1534390882614804481",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FUtAYNDagAEfQVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUtAYNDagAEfQVy.jpg",
+					"url": "https://t.co/lGiuRnWnAE",
+					"display_url": "pic.twitter.com/lGiuRnWnAE",
+					"expanded_url": "https://twitter.com/withMBC/status/1534390890617503744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534390882610585600,
+					"id_str": "1534390882610585601",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FUtAYNCaIAEMxql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUtAYNCaIAEMxql.jpg",
+					"url": "https://t.co/lGiuRnWnAE",
+					"display_url": "pic.twitter.com/lGiuRnWnAE",
+					"expanded_url": "https://twitter.com/withMBC/status/1534390890617503744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534390882598031400,
+					"id_str": "1534390882598031360",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FUtAYM_akAAxhJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUtAYM_akAAxhJa.jpg",
+					"url": "https://t.co/lGiuRnWnAE",
+					"display_url": "pic.twitter.com/lGiuRnWnAE",
+					"expanded_url": "https://twitter.com/withMBC/status/1534390890617503744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008188,
+			"friends_count": 9900,
+			"listed_count": 4217,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1653354719",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빅마우스 대본리딩 현장📸\n\n&lt;#빅마우스&gt; 2022년 7월 MBC 커밍쑨✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 #곽동연 https://t.co/lGiuRnWnAE"
+	},
+	{
 		"created_at": "Wed Jun 08 03:29:42 +0000 2022",
 		"id": 1534373149009031200,
 		"id_str": "1534377097652756480",
