@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 03:29:42 +0000 2022",
+		"id": 1534373149009031200,
+		"id_str": "1534377097652756480",
+		"full_text": "세상을 바라보는 특별한 시선을 가진 슬비\n러블리한 매력+순수함의 결정체 ✨\n\n판타지 희망 로맨스 #징크스의연인\n6월 15일 [수] 밤 9시 50분 첫 방송🔮\n\n#KBS #새수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/eBK3JGMKpL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1534373135193186300,
+					"id_str": "1534373135193186304",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FUswPKwXoAAfSRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUswPKwXoAAfSRA.jpg",
+					"url": "https://t.co/eBK3JGMKpL",
+					"display_url": "pic.twitter.com/eBK3JGMKpL",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1534373149009031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534373135193186300,
+					"id_str": "1534373135193186304",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FUswPKwXoAAfSRA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUswPKwXoAAfSRA.jpg",
+					"url": "https://t.co/eBK3JGMKpL",
+					"display_url": "pic.twitter.com/eBK3JGMKpL",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1534373149009031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534373135092396000,
+					"id_str": "1534373135092396032",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FUswPKYVsAAPAOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUswPKYVsAAPAOH.jpg",
+					"url": "https://t.co/eBK3JGMKpL",
+					"display_url": "pic.twitter.com/eBK3JGMKpL",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1534373149009031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534373135092306000,
+					"id_str": "1534373135092305921",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FUswPKYUUAEaymk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUswPKYUUAEaymk.jpg",
+					"url": "https://t.co/eBK3JGMKpL",
+					"display_url": "pic.twitter.com/eBK3JGMKpL",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1534373149009031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106379,
+			"friends_count": 56878,
+			"listed_count": 2116,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1651211070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상을 바라보는 특별한 시선을 가진 슬비\n러블리한 매력+순수함의 결정체 ✨\n\n판타지 희망 로맨스 #징크스의연인\n6월 15일 [수] 밤 9시 50분 첫 방송🔮\n\n#KBS #새수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/eBK3JGMKpL"
+	},
+	{
+		"created_at": "Wed Jun 08 03:29:38 +0000 2022",
+		"id": 1534369665329549300,
+		"id_str": "1534377084549844999",
+		"full_text": "임윤아X이종석 '빅마우스', 대본 리딩 첫 공개…'믿보배' 군단 총출동\n\nScript reading photos of ‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk were first released!\n\nhttps://t.co/cqnmv3gxv4\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/fNeS4ePj6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						205,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqnmv3gxv4",
+					"expanded_url": "https://bit.ly/3xh2EHp",
+					"display_url": "bit.ly/3xh2EHp",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534369658111131600,
+					"id_str": "1534369658111131648",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534369658111131600,
+					"id_str": "1534369658111131648",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534369658132123600,
+					"id_str": "1534369658132123649",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExsaUAE0jX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExsaUAE0jX5.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10875003,
+			"friends_count": 56,
+			"listed_count": 12275,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1456,
+		"favorite_count": 3813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임윤아X이종석 '빅마우스', 대본 리딩 첫 공개…'믿보배' 군단 총출동\n\nScript reading photos of ‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk were first released!\n\nhttps://t.co/cqnmv3gxv4\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/fNeS4ePj6U"
+	},
+	{
 		"created_at": "Wed Jun 08 02:40:09 +0000 2022",
 		"id": 1534307968463806500,
 		"id_str": "1534364631497592832",
