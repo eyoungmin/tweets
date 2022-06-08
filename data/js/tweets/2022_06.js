@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 09:45:44 +0000 2022",
+		"id": 1534458125193203700,
+		"id_str": "1534471733180252160",
+		"full_text": "LOONA, LOONA, LOONA! \nOrbits, we're about to paint the #Billboard200 chart TOGETHER 🎨 \n\nPRE-ORDER FOR BB200 STARTED ⤵️\n🔗 https://t.co/WkPU3ie3Au\n\n*U.S shipping only*\n@loonatheworld\n#LOONAonBB200 #이달의소녀 #LOONA #FlipThat #StanLOONA https://t.co/MsuSDvXtgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Billboard200",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "LOONAonBB200",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "StanLOONA",
+					"indices": [
+						219,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						166,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WkPU3ie3Au",
+					"expanded_url": "https://hello82.shop/collections/new-releases/products/loona-summer-special-mini-album",
+					"display_url": "hello82.shop/collections/ne…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534457039971549200,
+					"id_str": "1534457039971549184",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FUt8jEaaAAAPShW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUt8jEaaAAAPShW.jpg",
+					"url": "https://t.co/MsuSDvXtgq",
+					"display_url": "pic.twitter.com/MsuSDvXtgq",
+					"expanded_url": "https://twitter.com/hello82official/status/1534458125193203712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534457039971549200,
+					"id_str": "1534457039971549184",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FUt8jEaaAAAPShW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUt8jEaaAAAPShW.jpg",
+					"url": "https://t.co/MsuSDvXtgq",
+					"display_url": "pic.twitter.com/MsuSDvXtgq",
+					"expanded_url": "https://twitter.com/hello82official/status/1534458125193203712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest updates on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official @annyon82",
+			"url": "https://t.co/tpPAHmm3Yk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tpPAHmm3Yk",
+							"expanded_url": "http://hello82.tv",
+							"display_url": "hello82.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126655,
+			"friends_count": 6,
+			"listed_count": 122,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 532,
+		"favorite_count": 1261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA, LOONA, LOONA! \nOrbits, we're about to paint the #Billboard200 chart TOGETHER 🎨 \n\nPRE-ORDER FOR BB200 STARTED ⤵️\n🔗 https://t.co/WkPU3ie3Au\n\n*U.S shipping only*\n@loonatheworld\n#LOONAonBB200 #이달의소녀 #LOONA #FlipThat #StanLOONA https://t.co/MsuSDvXtgq"
+	},
+	{
+		"created_at": "Wed Jun 08 09:40:27 +0000 2022",
+		"id": 1534465607810228200,
+		"id_str": "1534470399743909888",
+		"full_text": "[📹] #아이돌블라썸 \n퀸청하가 아블에😍 얘기만 했는데 한시간이 순삭! [블라블라 blabla]\n\n▶ https://t.co/f6oPuMEAYk\n\n#청하 #CHUNGHA\n#블라블라 #blabla #idolblossom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌블라썸",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "블라블라",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "blabla",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "idolblossom",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6oPuMEAYk",
+					"expanded_url": "https://youtu.be/3_MPUhJlVK0",
+					"display_url": "youtu.be/3_MPUhJlVK0",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346719,
+			"friends_count": 1,
+			"listed_count": 2126,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] #아이돌블라썸 \n퀸청하가 아블에😍 얘기만 했는데 한시간이 순삭! [블라블라 blabla]\n\n▶ https://t.co/f6oPuMEAYk\n\n#청하 #CHUNGHA\n#블라블라 #blabla #idolblossom"
+	},
+	{
+		"created_at": "Wed Jun 08 09:40:17 +0000 2022",
+		"id": 1534460222865125400,
+		"id_str": "1534470361537994754",
+		"full_text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はWINTERのメッセージを公開！⭐️\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ\n#WINTER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLUyzoaE2v",
+					"expanded_url": "https://aespa.smtown-official.jp/",
+					"display_url": "aespa.smtown-official.jp",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142119,
+			"friends_count": 1,
+			"listed_count": 257,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1714,
+		"favorite_count": 5142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はWINTERのメッセージを公開！⭐️\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ\n#WINTER"
+	},
+	{
 		"created_at": "Wed Jun 08 08:40:39 +0000 2022",
 		"id": 1534415260047638500,
 		"id_str": "1534455354142203904",
