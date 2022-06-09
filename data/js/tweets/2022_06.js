@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 02:45:36 +0000 2022",
+		"id": 1534717516140130300,
+		"id_str": "1534728390686695424",
+		"full_text": "[#아이돌챔프_투표]\n\nJune Comeback\n팬PD들이 가장 기대한 6월 컴백아이돌은? \n\n최애가 6월에 컴백한다고..? 👥👤..(웅성)\n전국 1650개의 피시방, 약 12만대로 홍보되는\n!!내 최애의 컴백 소식!!\n\n#Kep1er\n#LOONA\n#WONHO\n#BTS\n#KARD\n#YOUNGJAE\n•\n•\n•\nVote ▶️https://t.co/E2iDWbWYRO https://t.co/1gOjTJja6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "YOUNGJAE",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E2iDWbWYRO",
+					"expanded_url": "https://bit.ly/3My1YmE",
+					"display_url": "bit.ly/3My1YmE",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534717508003168300,
+					"id_str": "1534717508003168257",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FUxpcTcaAAEB3Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUxpcTcaAAEB3Sz.jpg",
+					"url": "https://t.co/1gOjTJja6y",
+					"display_url": "pic.twitter.com/1gOjTJja6y",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1534717516140130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534717508003168300,
+					"id_str": "1534717508003168257",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FUxpcTcaAAEB3Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUxpcTcaAAEB3Sz.jpg",
+					"url": "https://t.co/1gOjTJja6y",
+					"display_url": "pic.twitter.com/1gOjTJja6y",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1534717516140130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534717508254834700,
+					"id_str": "1534717508254834688",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FUxpcUYaIAAg1BN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUxpcUYaIAAg1BN.jpg",
+					"url": "https://t.co/1gOjTJja6y",
+					"display_url": "pic.twitter.com/1gOjTJja6y",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1534717516140130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534717508397453300,
+					"id_str": "1534717508397453312",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FUxpcU6aUAANfJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUxpcU6aUAANfJr.jpg",
+					"url": "https://t.co/1gOjTJja6y",
+					"display_url": "pic.twitter.com/1gOjTJja6y",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1534717516140130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97128,
+			"friends_count": 108,
+			"listed_count": 255,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1653868073",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n\nJune Comeback\n팬PD들이 가장 기대한 6월 컴백아이돌은? \n\n최애가 6월에 컴백한다고..? 👥👤..(웅성)\n전국 1650개의 피시방, 약 12만대로 홍보되는\n!!내 최애의 컴백 소식!!\n\n#Kep1er\n#LOONA\n#WONHO\n#BTS\n#KARD\n#YOUNGJAE\n•\n•\n•\nVote ▶️https://t.co/E2iDWbWYRO https://t.co/1gOjTJja6y"
+	},
+	{
 		"created_at": "Thu Jun 09 01:47:13 +0000 2022",
 		"id": 1534709614402363400,
 		"id_str": "1534713697536335872",
