@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 05:40:25 +0000 2022",
+		"id": 1534766788369535000,
+		"id_str": "1534772382413606915",
+		"full_text": "aespa’s SMCU EP.2 Premier Event will be held on June 19th! The 2nd episode of SMCU will be revealed for the first time! A special event in KWANGYA!\n\nhttps://t.co/F0nDn0RNAI\n\n#aespa #æspa #에스파 \n#SMCU #KWANGYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0nDn0RNAI",
+					"expanded_url": "https://bit.ly/3zsPDgG",
+					"display_url": "bit.ly/3zsPDgG",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534766784842043400,
+		"in_reply_to_status_id_str": "1534766784842043392",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2712053,
+			"friends_count": 2,
+			"listed_count": 8560,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2323,
+		"favorite_count": 6460,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa’s SMCU EP.2 Premier Event will be held on June 19th! The 2nd episode of SMCU will be revealed for the first time! A special event in KWANGYA!\n\nhttps://t.co/F0nDn0RNAI\n\n#aespa #æspa #에스파 \n#SMCU #KWANGYA"
+	},
+	{
+		"created_at": "Thu Jun 09 05:40:18 +0000 2022",
+		"id": 1534766784842043400,
+		"id_str": "1534772352461856768",
+		"full_text": "에스파, SMCU EP.2 프리미어 이벤트 6월 19일 진행!\nSMCU 두 번째 에피소드 최초 공개! 광야에서 펼치는 특별 이벤트!\n\nhttps://t.co/F0nDn0RNAI\n\n#aespa #æspa #에스파 \n#SMCU #KWANGYA https://t.co/J6PkS3fYyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0nDn0RNAI",
+					"expanded_url": "https://bit.ly/3zsPDgG",
+					"display_url": "bit.ly/3zsPDgG",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534766770321358800,
+					"id_str": "1534766770321358848",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyWPv4UAAABacj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyWPv4UAAABacj.jpg",
+					"url": "https://t.co/J6PkS3fYyE",
+					"display_url": "pic.twitter.com/J6PkS3fYyE",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534766784842043392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534766770321358800,
+					"id_str": "1534766770321358848",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyWPv4UAAABacj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyWPv4UAAABacj.jpg",
+					"url": "https://t.co/J6PkS3fYyE",
+					"display_url": "pic.twitter.com/J6PkS3fYyE",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534766784842043392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2712053,
+			"friends_count": 2,
+			"listed_count": 8560,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5057,
+		"favorite_count": 14518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, SMCU EP.2 프리미어 이벤트 6월 19일 진행!\nSMCU 두 번째 에피소드 최초 공개! 광야에서 펼치는 특별 이벤트!\n\nhttps://t.co/F0nDn0RNAI\n\n#aespa #æspa #에스파 \n#SMCU #KWANGYA https://t.co/J6PkS3fYyE"
+	},
+	{
 		"created_at": "Thu Jun 09 04:05:45 +0000 2022",
 		"id": 1534747113141153800,
 		"id_str": "1534748561266442240",
