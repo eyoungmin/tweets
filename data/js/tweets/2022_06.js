@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 18:40:12 +0000 2022",
+		"id": 1532487508264554500,
+		"id_str": "1534968620379426816",
+		"full_text": "@OhWonderMusic https://t.co/fuTNMZCjfv",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532487357336723500,
+					"id_str": "1532487357336723456",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532487357336723456/pu/img/gf6OXt6d-Qdy3zUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532487357336723456/pu/img/gf6OXt6d-Qdy3zUK.jpg",
+					"url": "https://t.co/fuTNMZCjfv",
+					"display_url": "pic.twitter.com/fuTNMZCjfv",
+					"expanded_url": "https://twitter.com/gilllllllian/status/1532487508264554497/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532487357336723500,
+					"id_str": "1532487357336723456",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1532487357336723456/pu/img/gf6OXt6d-Qdy3zUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1532487357336723456/pu/img/gf6OXt6d-Qdy3zUK.jpg",
+					"url": "https://t.co/fuTNMZCjfv",
+					"display_url": "pic.twitter.com/fuTNMZCjfv",
+					"expanded_url": "https://twitter.com/gilllllllian/status/1532487508264554497/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 371,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							11
+						],
+						"duration_millis": 8064,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532487357336723456/pu/vid/672x1232/H_gBd5z4e7bfgTx3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1532487357336723456/pu/pl/jUI78fx8XbO2xE1v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532487357336723456/pu/vid/480x880/ovif1GGZ6g5qV_oG.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1532487357336723456/pu/vid/320x586/_cYfSwaqUTuFnP-V.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1532478278040182800,
+		"in_reply_to_status_id_str": "1532478278040182784",
+		"in_reply_to_user_id": 2740435740,
+		"in_reply_to_user_id_str": "2740435740",
+		"in_reply_to_screen_name": "OhWonderMusic",
+		"user": {
+			"id": 3930435380,
+			"id_str": "3930435380",
+			"name": "thin bitch",
+			"screen_name": "gilllllllian",
+			"location": "",
+			"description": "tiny ass, dump truck heart",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 160,
+			"listed_count": 1,
+			"created_at": "Sun Oct 18 00:44:32 +0000 2015",
+			"favourites_count": 38114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506589860743696384/s2CRinhJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506589860743696384/s2CRinhJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3930435380/1639092664",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@OhWonderMusic https://t.co/fuTNMZCjfv"
+	},
+	{
 		"created_at": "Thu Jun 09 13:28:18 +0000 2022",
 		"id": 1534882530070999000,
 		"id_str": "1534890131928166400",
