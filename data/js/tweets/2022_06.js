@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 06:45:41 +0000 2022",
+		"id": 1534788540533313500,
+		"id_str": "1534788809681928193",
+		"full_text": "[#TMINEWSSHOW] 무엇이든 물어보세요! #이달의소녀 #김립 #이브 #최리 #희진\n \nTMI 객원기자에 관한 궁금한 질문들을 받는 중!🙌\n☞ https://t.co/3pscvfA7O6\n\n📌6월 10일 (금) 오후 3시 30분까지 \n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #엠넷 https://t.co/4V3KaHSsEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						188,
+						190
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3pscvfA7O6",
+					"expanded_url": "http://instagram.com/mnet_tminewsshow",
+					"display_url": "instagram.com/mnet_tminewssh…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534788014446039000,
+					"id_str": "1534788014446039040",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FUypkUaVUAAWykT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUypkUaVUAAWykT.jpg",
+					"url": "https://t.co/4V3KaHSsEz",
+					"display_url": "pic.twitter.com/4V3KaHSsEz",
+					"expanded_url": "https://twitter.com/MnetKR/status/1534788540533313536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534788014446039000,
+					"id_str": "1534788014446039040",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FUypkUaVUAAWykT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUypkUaVUAAWykT.jpg",
+					"url": "https://t.co/4V3KaHSsEz",
+					"display_url": "pic.twitter.com/4V3KaHSsEz",
+					"expanded_url": "https://twitter.com/MnetKR/status/1534788540533313536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3064235,
+			"friends_count": 20922,
+			"listed_count": 3028,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW] 무엇이든 물어보세요! #이달의소녀 #김립 #이브 #최리 #희진\n \nTMI 객원기자에 관한 궁금한 질문들을 받는 중!🙌\n☞ https://t.co/3pscvfA7O6\n\n📌6월 10일 (금) 오후 3시 30분까지 \n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #엠넷 https://t.co/4V3KaHSsEz"
+	},
+	{
+		"created_at": "Thu Jun 09 06:40:19 +0000 2022",
+		"id": 1534782952457916400,
+		"id_str": "1534787456926613505",
+		"full_text": "AESPA | WORLD, WE ARE READY FOR TAKEOFF\n\nhttps://t.co/snp8qcWjo3\n\n@FlauntMagazine \nPhotographed by Mason.Poole\nStyled by PunkySpider featuring @Givenchy\nHair: HairByMujin JeonJin ChoIngyeong\nMakeup: KwonSunyoung BaekSongyi LeeSeowon\nLocation: ClubBahiaLA\nWritten by 5elflov3 https://t.co/QpcJZd1GiR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FlauntMagazine",
+					"name": "FLAUNT",
+					"id": 22534727,
+					"id_str": "22534727",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "givenchy",
+					"name": "Givenchy",
+					"id": 274040176,
+					"id_str": "274040176",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/snp8qcWjo3",
+					"expanded_url": "https://bit.ly/3zpbHJ1",
+					"display_url": "bit.ly/3zpbHJ1",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534781656359325700,
+					"id_str": "1534781656359325696",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyjyOsVUAAVb-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyjyOsVUAAVb-X.jpg",
+					"url": "https://t.co/QpcJZd1GiR",
+					"display_url": "pic.twitter.com/QpcJZd1GiR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534782952457916417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534781656359325700,
+					"id_str": "1534781656359325696",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyjyOsVUAAVb-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyjyOsVUAAVb-X.jpg",
+					"url": "https://t.co/QpcJZd1GiR",
+					"display_url": "pic.twitter.com/QpcJZd1GiR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534782952457916417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534781775393591300,
+					"id_str": "1534781775393591296",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyj5KIUEAAw-Op.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyj5KIUEAAw-Op.jpg",
+					"url": "https://t.co/QpcJZd1GiR",
+					"display_url": "pic.twitter.com/QpcJZd1GiR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534782952457916417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534781784751083500,
+					"id_str": "1534781784751083520",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyj5s_UEAAUSYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyj5s_UEAAUSYD.jpg",
+					"url": "https://t.co/QpcJZd1GiR",
+					"display_url": "pic.twitter.com/QpcJZd1GiR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534782952457916417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534781792422506500,
+					"id_str": "1534781792422506496",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FUyj6JkUsAAbsKq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUyj6JkUsAAbsKq.jpg",
+					"url": "https://t.co/QpcJZd1GiR",
+					"display_url": "pic.twitter.com/QpcJZd1GiR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1534782952457916417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1534782941066211300,
+		"in_reply_to_status_id_str": "1534782941066211328",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2712367,
+			"friends_count": 2,
+			"listed_count": 8555,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3619,
+		"favorite_count": 9023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AESPA | WORLD, WE ARE READY FOR TAKEOFF\n\nhttps://t.co/snp8qcWjo3\n\n@FlauntMagazine \nPhotographed by Mason.Poole\nStyled by PunkySpider featuring @Givenchy\nHair: HairByMujin JeonJin ChoIngyeong\nMakeup: KwonSunyoung BaekSongyi LeeSeowon\nLocation: ClubBahiaLA\nWritten by 5elflov3 https://t.co/QpcJZd1GiR"
+	},
+	{
 		"created_at": "Thu Jun 09 05:40:25 +0000 2022",
 		"id": 1534766788369535000,
 		"id_str": "1534772382413606915",
