@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 15:40:17 +0000 2022",
+		"id": 1535152048387530800,
+		"id_str": "1535285731572203526",
+		"full_text": "기쁨,  반가움, 두려움, 슬픔을 모두 표현하는 동물이 어떻게 물건일까요? \"동물은 물건이 아니다\" 민법 개정안 통과를 촉구하는 국회 국민동의청원에 함께 힘을 모아주세요! https://t.co/Rv3Oi2BqEG https://t.co/XAraG8SMPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rv3Oi2BqEG",
+					"expanded_url": "https://petitions.assembly.go.kr/status/onGoing/DCEBD13459C45776E054B49691C1987F",
+					"display_url": "petitions.assembly.go.kr/status/onGoing…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535151705327030300,
+					"id_str": "1535151705327030273",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FU30V6haUAEp0lJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU30V6haUAEp0lJ.jpg",
+					"url": "https://t.co/XAraG8SMPQ",
+					"display_url": "pic.twitter.com/XAraG8SMPQ",
+					"expanded_url": "https://twitter.com/ekara_org/status/1535152048387530753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535151705327030300,
+					"id_str": "1535151705327030273",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FU30V6haUAEp0lJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU30V6haUAEp0lJ.jpg",
+					"url": "https://t.co/XAraG8SMPQ",
+					"display_url": "pic.twitter.com/XAraG8SMPQ",
+					"expanded_url": "https://twitter.com/ekara_org/status/1535152048387530753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 177415321,
+			"id_str": "177415321",
+			"name": "동물권행동 카라",
+			"screen_name": "ekara_org",
+			"location": "서울시 마포구 서교동 잔다리로122",
+			"description": "동물권행동 카라의 공식트위터입니다 :)",
+			"url": "https://t.co/2dEPqkCzSC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2dEPqkCzSC",
+							"expanded_url": "http://www.ekara.org",
+							"display_url": "ekara.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34116,
+			"friends_count": 190,
+			"listed_count": 220,
+			"created_at": "Thu Aug 12 02:19:04 +0000 2010",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03AAEC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177415321/1638254860",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9CD645",
+			"profile_text_color": "9E009E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기쁨,  반가움, 두려움, 슬픔을 모두 표현하는 동물이 어떻게 물건일까요? \"동물은 물건이 아니다\" 민법 개정안 통과를 촉구하는 국회 국민동의청원에 함께 힘을 모아주세요! https://t.co/Rv3Oi2BqEG https://t.co/XAraG8SMPQ"
+	},
+	{
 		"created_at": "Fri Jun 10 15:10:27 +0000 2022",
 		"id": 1535275928787779600,
 		"id_str": "1535278224170659841",
