@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 10:40:10 +0000 2022",
+		"id": 1535200099701338000,
+		"id_str": "1535210204039725057",
+		"full_text": "\\💙⭐️お知らせ🌙🦋/\naespa The 2nd Mini Album 『Girls』 mu-mo SHOP限定特典付きで販売スタート！\nお見逃しなく💨💨💨\n\nhttps://t.co/4SdLUhDwki\n\n#aespa #æspa #에스파 #エスパ #Girls https://t.co/HYovBeYx1N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4SdLUhDwki",
+					"expanded_url": "https://shop.mu-mo.net/avx/sv/list1?jsiteid=mumo&artist_id=AESPA",
+					"display_url": "shop.mu-mo.net/avx/sv/list1?j…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535063214454894600,
+					"id_str": "1535063214454894592",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2j3EVacAAYO0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2j3EVacAAYO0t.jpg",
+					"url": "https://t.co/HYovBeYx1N",
+					"display_url": "pic.twitter.com/HYovBeYx1N",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1535200099701338113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535063214454894600,
+					"id_str": "1535063214454894592",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2j3EVacAAYO0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2j3EVacAAYO0t.jpg",
+					"url": "https://t.co/HYovBeYx1N",
+					"display_url": "pic.twitter.com/HYovBeYx1N",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1535200099701338113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143662,
+			"friends_count": 1,
+			"listed_count": 266,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1738,
+		"favorite_count": 5901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "\\💙⭐️お知らせ🌙🦋/\naespa The 2nd Mini Album 『Girls』 mu-mo SHOP限定特典付きで販売スタート！\nお見逃しなく💨💨💨\n\nhttps://t.co/4SdLUhDwki\n\n#aespa #æspa #에스파 #エスパ #Girls https://t.co/HYovBeYx1N"
+	},
+	{
 		"created_at": "Fri Jun 10 09:40:27 +0000 2022",
 		"id": 1535185000118857700,
 		"id_str": "1535195175642972160",
@@ -270,7 +491,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Fri Jun 10 09:40:18 +0000 2022",
 		"id": 1535184997350379500,
 		"id_str": "1535195141660606469",
-		"full_text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE",
+		"full_text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -407,7 +628,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE"
+		"text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE"
 	},
 	{
 		"created_at": "Fri Jun 10 08:45:51 +0000 2022",
