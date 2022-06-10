@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 03:40:10 +0000 2022",
+		"id": 1535094405324865500,
+		"id_str": "1535104507100729375",
+		"full_text": "유닛이 모일 때 더 특별해지는 이달의 소녀 섬머 스페셜 미니 앨범 [Flip That] #AR카드 ♡ \n\n#이달의소녀\n#LOONA https://t.co/u2M8znQk4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AR카드",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535084709377519600,
+					"id_str": "1535084709377519616",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535084709377519616/pu/img/9K9zEWZzyOcXBpkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535084709377519616/pu/img/9K9zEWZzyOcXBpkK.jpg",
+					"url": "https://t.co/u2M8znQk4u",
+					"display_url": "pic.twitter.com/u2M8znQk4u",
+					"expanded_url": "https://twitter.com/Topp_ing/status/1535094405324865536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535084709377519600,
+					"id_str": "1535084709377519616",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535084709377519616/pu/img/9K9zEWZzyOcXBpkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535084709377519616/pu/img/9K9zEWZzyOcXBpkK.jpg",
+					"url": "https://t.co/u2M8znQk4u",
+					"display_url": "pic.twitter.com/u2M8znQk4u",
+					"expanded_url": "https://twitter.com/Topp_ing/status/1535094405324865536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11011,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535084709377519616/pu/vid/540x540/VymDWVFyrgtGJVJN.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535084709377519616/pu/vid/720x720/RbYCErCJyCwXFcR0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1535084709377519616/pu/pl/RCCbwnu_2mcZXtoC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535084709377519616/pu/vid/320x320/uhXGVT1_U0LmadLq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1410470694761078800,
+			"id_str": "1410470694761078786",
+			"name": "Topping",
+			"screen_name": "Topp_ing",
+			"location": "",
+			"description": "Topping! 새로워진 AR 서비스로 생생한 감동을 느껴보세요. 앱 다운로드🔗 https://t.co/54LflbSZPp 사용 및 제작 문의는 💌topping@neowiz.com",
+			"url": "https://t.co/hRwcht2twn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hRwcht2twn",
+							"expanded_url": "http://topp-ing.com",
+							"display_url": "topp-ing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/54LflbSZPp",
+							"expanded_url": "http://onelink.to/mm4hp7",
+							"display_url": "onelink.to/mm4hp7",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 05:30:17 +0000 2021",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410486892219404288/aXlG9q8b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410486892219404288/aXlG9q8b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410470694761078786/1625121256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 2576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "유닛이 모일 때 더 특별해지는 이달의 소녀 섬머 스페셜 미니 앨범 [Flip That] #AR카드 ♡ \n\n#이달의소녀\n#LOONA https://t.co/u2M8znQk4u"
+	},
+	{
 		"created_at": "Fri Jun 10 02:47:30 +0000 2022",
 		"id": 1535089966824362000,
 		"id_str": "1535091253242605568",
