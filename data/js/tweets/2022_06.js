@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 01:40:10 +0000 2022",
+		"id": 1535066515510562800,
+		"id_str": "1535074308355145733",
+		"full_text": "aespa has specially curated the Summertime Sounds playlist to celebrate the start of summer. Check out our new song ‘Illusion’ and other personally picked tracks on @AppleMusic 💜\n \nhttps://t.co/QmQmspOAuR\n \n#aespa #æspa #에스파\n#Girls https://t.co/XAf3CQaQG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						207,
+						213
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						225,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						165,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QmQmspOAuR",
+					"expanded_url": "http://apple.co/aespa_Summer",
+					"display_url": "apple.co/aespa_Summer",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535066501577076700,
+					"id_str": "1535066501577076736",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2m2Z0acAAAoSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2m2Z0acAAAoSR.jpg",
+					"url": "https://t.co/XAf3CQaQG0",
+					"display_url": "pic.twitter.com/XAf3CQaQG0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1535066515510562819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535066501577076700,
+					"id_str": "1535066501577076736",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FU2m2Z0acAAAoSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU2m2Z0acAAAoSR.jpg",
+					"url": "https://t.co/XAf3CQaQG0",
+					"display_url": "pic.twitter.com/XAf3CQaQG0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1535066515510562819/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2715842,
+			"friends_count": 2,
+			"listed_count": 8560,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3597,
+		"favorite_count": 10938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa has specially curated the Summertime Sounds playlist to celebrate the start of summer. Check out our new song ‘Illusion’ and other personally picked tracks on @AppleMusic 💜\n \nhttps://t.co/QmQmspOAuR\n \n#aespa #æspa #에스파\n#Girls https://t.co/XAf3CQaQG0"
+	},
+	{
 		"created_at": "Thu Jun 09 19:40:19 +0000 2022",
 		"id": 1534979856018026500,
 		"id_str": "1534983750521700355",
