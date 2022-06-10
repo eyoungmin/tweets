@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 07:40:10 +0000 2022",
+		"id": 1529742350880485400,
+		"id_str": "1535164905153867777",
+		"full_text": "🔥𝗥𝗔𝗣𝗕𝗘𝗔𝗧 𝟮𝟬𝟮𝟮 요일별 라인업 공개 \n\n100일 앞으로 성큼 다가온 '랩비트'\n요일별 라인업을 지금 바로 확인해보세요!\n\n다음은 어떤 아티스트가 공개될지 기대해주세요👀\n\n* 아티스트 사정으로 일부 라인업이 변동되었습니다. 참고 부탁드립니다.\n\n#랩비트 #RAPBEAT #뮤직페스티벌 https://t.co/83n4RVWJxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랩비트",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "RAPBEAT",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "뮤직페스티벌",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529742345771827200,
+					"id_str": "1529742345771827200",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTq8jv2aQAActuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTq8jv2aQAActuP.jpg",
+					"url": "https://t.co/83n4RVWJxQ",
+					"display_url": "pic.twitter.com/83n4RVWJxQ",
+					"expanded_url": "https://twitter.com/RAPBEATFESTIVAL/status/1529742350880485376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529742345771827200,
+					"id_str": "1529742345771827200",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FTq8jv2aQAActuP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTq8jv2aQAActuP.jpg",
+					"url": "https://t.co/83n4RVWJxQ",
+					"display_url": "pic.twitter.com/83n4RVWJxQ",
+					"expanded_url": "https://twitter.com/RAPBEATFESTIVAL/status/1529742350880485376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2491171189,
+			"id_str": "2491171189",
+			"name": "RAPBEAT 2022",
+			"screen_name": "RAPBEATFESTIVAL",
+			"location": "서울랜드 (SEOULLAND)",
+			"description": "The official Twitter of RAPBEAT\n\n2022.09.03(SAT) - 09.04(SUN)",
+			"url": "https://t.co/m1U7TdPx35",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m1U7TdPx35",
+							"expanded_url": "https://link.inpock.co.kr/rapbeat",
+							"display_url": "link.inpock.co.kr/rapbeat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1093,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon May 12 09:14:06 +0000 2014",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1519966033099956224/CHQfY8hA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519966033099956224/CHQfY8hA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491171189/1651223117",
+			"profile_link_color": "948F85",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥𝗥𝗔𝗣𝗕𝗘𝗔𝗧 𝟮𝟬𝟮𝟮 요일별 라인업 공개 \n\n100일 앞으로 성큼 다가온 '랩비트'\n요일별 라인업을 지금 바로 확인해보세요!\n\n다음은 어떤 아티스트가 공개될지 기대해주세요👀\n\n* 아티스트 사정으로 일부 라인업이 변동되었습니다. 참고 부탁드립니다.\n\n#랩비트 #RAPBEAT #뮤직페스티벌 https://t.co/83n4RVWJxQ"
+	},
+	{
 		"created_at": "Fri Jun 10 05:31:39 +0000 2022",
 		"id": 1535124665332813800,
 		"id_str": "1535132566122274816",
