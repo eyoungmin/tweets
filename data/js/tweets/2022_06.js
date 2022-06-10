@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 08:45:51 +0000 2022",
+		"id": 1535178110324248600,
+		"id_str": "1535181435828584448",
+		"full_text": "💙이달의 소녀가 주간아에 떴다!💙\n\n어? 근데 💡텔레파시 챌린지💡를 한다고?\n어디서하는데👀❓\n\n바로 ✨아이돌챔프✨에서!\n\n이달의소녀 X 오빛 취향 투표 하고\n기습라이브 보면 재미가 2배! 아니 500배!!😁\n\n투표하러가기⏩https://t.co/gHOnsbtj35 https://t.co/I1bnRiIvmT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gHOnsbtj35",
+					"expanded_url": "https://bit.ly/3MwGshX",
+					"display_url": "bit.ly/3MwGshX",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/I1bnRiIvmT",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97158,
+			"friends_count": 108,
+			"listed_count": 256,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1653868073",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535177446860787700,
+		"quoted_status_id_str": "1535177446860787713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I1bnRiIvmT",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 08:30:00 +0000 2022",
+			"id": 1535177446860787700,
+			"id_str": "1535177446860787713",
+			"full_text": "🚨 #주간아이돌 기습 라이브 (feat. 아이돌챔프)🚨\n\n주간아이돌 with #이달의소녀 ❗\nLIVE BROADCAST with #LOONA❗\n\n6월 13일, 촬영 현장을 찾아갑니다!\n아챔과 함께하는 텔레파시 챌린지 예정😝\n\n👉https://t.co/QkbE5pYvAy👈\n(Subscribe for alerts!)\n\n@weeklyidol_ @loonatheworld @idolchamp1 https://t.co/6q6cr0gXPK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "주간아이돌",
+						"indices": [
+							2,
+							8
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							43,
+							49
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							72,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "weeklyidol_",
+						"name": "주간아이돌 (Weekly idol official)",
+						"id": 1305389044700905500,
+						"id_str": "1305389044700905472",
+						"indices": [
+							177,
+							189
+						]
+					},
+					{
+						"screen_name": "loonatheworld",
+						"name": "이달의 소녀(LOOΠΔ)",
+						"id": 770959712791597000,
+						"id_str": "770959712791597056",
+						"indices": [
+							190,
+							204
+						]
+					},
+					{
+						"screen_name": "idolchamp1",
+						"name": "아이돌챔프",
+						"id": 842271014520148000,
+						"id_str": "842271014520147968",
+						"indices": [
+							205,
+							216
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QkbE5pYvAy",
+						"expanded_url": "https://youtu.be/ZoLJiOa1wjM",
+						"display_url": "youtu.be/ZoLJiOa1wjM",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1535163887607480300,
+						"id_str": "1535163887607480320",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+						"url": "https://t.co/6q6cr0gXPK",
+						"display_url": "pic.twitter.com/6q6cr0gXPK",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1535163887607480300,
+						"id_str": "1535163887607480320",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+						"url": "https://t.co/6q6cr0gXPK",
+						"display_url": "pic.twitter.com/6q6cr0gXPK",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1535163887641043000,
+						"id_str": "1535163887641042944",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/FU3_bBLaIAAZCAl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU3_bBLaIAAZCAl.jpg",
+						"url": "https://t.co/6q6cr0gXPK",
+						"display_url": "pic.twitter.com/6q6cr0gXPK",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123509,
+				"friends_count": 343,
+				"listed_count": 387,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9227,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1654488893",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙이달의 소녀가 주간아에 떴다!💙\n\n어? 근데 💡텔레파시 챌린지💡를 한다고?\n어디서하는데👀❓\n\n바로 ✨아이돌챔프✨에서!\n\n이달의소녀 X 오빛 취향 투표 하고\n기습라이브 보면 재미가 2배! 아니 500배!!😁\n\n투표하러가기⏩https://t.co/gHOnsbtj35 https://t.co/I1bnRiIvmT"
+	},
+	{
+		"created_at": "Fri Jun 10 08:45:37 +0000 2022",
+		"id": 1535177446860787700,
+		"id_str": "1535181376420446209",
+		"full_text": "🚨 #주간아이돌 기습 라이브 (feat. 아이돌챔프)🚨\n\n주간아이돌 with #이달의소녀 ❗\nLIVE BROADCAST with #LOONA❗\n\n6월 13일, 촬영 현장을 찾아갑니다!\n아챔과 함께하는 텔레파시 챌린지 예정😝\n\n👉https://t.co/QkbE5pYvAy👈\n(Subscribe for alerts!)\n\n@weeklyidol_ @loonatheworld @idolchamp1 https://t.co/6q6cr0gXPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weeklyidol_",
+					"name": "주간아이돌 (Weekly idol official)",
+					"id": 1305389044700905500,
+					"id_str": "1305389044700905472",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"screen_name": "idolchamp1",
+					"name": "아이돌챔프",
+					"id": 842271014520148000,
+					"id_str": "842271014520147968",
+					"indices": [
+						205,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QkbE5pYvAy",
+					"expanded_url": "https://youtu.be/ZoLJiOa1wjM",
+					"display_url": "youtu.be/ZoLJiOa1wjM",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535163887607480300,
+					"id_str": "1535163887607480320",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+					"url": "https://t.co/6q6cr0gXPK",
+					"display_url": "pic.twitter.com/6q6cr0gXPK",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535163887607480300,
+					"id_str": "1535163887607480320",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU3_bBDaAAAhoJh.jpg",
+					"url": "https://t.co/6q6cr0gXPK",
+					"display_url": "pic.twitter.com/6q6cr0gXPK",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535163887641043000,
+					"id_str": "1535163887641042944",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FU3_bBLaIAAZCAl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU3_bBLaIAAZCAl.jpg",
+					"url": "https://t.co/6q6cr0gXPK",
+					"display_url": "pic.twitter.com/6q6cr0gXPK",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1535177446860787713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123509,
+			"friends_count": 343,
+			"listed_count": 387,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1654488893",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨 #주간아이돌 기습 라이브 (feat. 아이돌챔프)🚨\n\n주간아이돌 with #이달의소녀 ❗\nLIVE BROADCAST with #LOONA❗\n\n6월 13일, 촬영 현장을 찾아갑니다!\n아챔과 함께하는 텔레파시 챌린지 예정😝\n\n👉https://t.co/QkbE5pYvAy👈\n(Subscribe for alerts!)\n\n@weeklyidol_ @loonatheworld @idolchamp1 https://t.co/6q6cr0gXPK"
+	},
+	{
+		"created_at": "Fri Jun 10 08:40:13 +0000 2022",
+		"id": 1535150541059530800,
+		"id_str": "1535180017759666176",
+		"full_text": "OST 듣고 가세요--\nhttps://t.co/X87qwGOtSY\n\n#김윤아 #자우림 #서머너즈워 #크로니클 #신작 #OST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "서머너즈워",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "크로니클",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "신작",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X87qwGOtSY",
+					"expanded_url": "https://youtu.be/SjsVum61V58",
+					"display_url": "youtu.be/SjsVum61V58",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116379100,
+			"id_str": "116379100",
+			"name": "컴투스",
+			"screen_name": "Com2uS_Korea",
+			"location": "Seoul, Korea",
+			"description": "Creative Fun Maker\r\n■ 컴투스 공식 기업 트위터/Com2us Official Twitter",
+			"url": "https://t.co/PXWREIUmoY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PXWREIUmoY",
+							"expanded_url": "http://www.com2us.com",
+							"display_url": "com2us.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41808,
+			"friends_count": 9381,
+			"listed_count": 187,
+			"created_at": "Mon Feb 22 07:05:57 +0000 2010",
+			"favourites_count": 752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1532249448184975360/m9bLm3RW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532249448184975360/m9bLm3RW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116379100/1654151853",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "OST 듣고 가세요--\nhttps://t.co/X87qwGOtSY\n\n#김윤아 #자우림 #서머너즈워 #크로니클 #신작 #OST"
+	},
+	{
 		"created_at": "Fri Jun 10 07:40:10 +0000 2022",
 		"id": 1529742350880485400,
 		"id_str": "1535164905153867777",
