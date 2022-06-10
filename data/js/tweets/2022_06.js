@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 09:40:27 +0000 2022",
+		"id": 1535185000118857700,
+		"id_str": "1535195175642972160",
+		"full_text": "폴킴 (Paul Kim) - One More Time [Main Teaser]\n🔗https://t.co/o1nDAFxVsn\n\n2022.06.14 6pm (KST) \n\n#폴킴 #PaulKim \n#신세경 #ShinSaeKyeong \n#OneMoreTime \n#Teaser\n#뉴런뮤직 https://t.co/If9acdayg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "폴킴",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "PaulKim",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "OneMoreTime",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "뉴런뮤직",
+					"indices": [
+						150,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o1nDAFxVsn",
+					"expanded_url": "https://youtu.be/yLdw7UCw9qA",
+					"display_url": "youtu.be/yLdw7UCw9qA",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535169410134311000,
+					"id_str": "1535169410134310913",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535169410134310913/pu/img/XxVy-5F0jCn57Gqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535169410134310913/pu/img/XxVy-5F0jCn57Gqt.jpg",
+					"url": "https://t.co/If9acdayg9",
+					"display_url": "pic.twitter.com/If9acdayg9",
+					"expanded_url": "https://twitter.com/paulkim_twt/status/1535185000118857729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535169410134311000,
+					"id_str": "1535169410134310913",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535169410134310913/pu/img/XxVy-5F0jCn57Gqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535169410134310913/pu/img/XxVy-5F0jCn57Gqt.jpg",
+					"url": "https://t.co/If9acdayg9",
+					"display_url": "pic.twitter.com/If9acdayg9",
+					"expanded_url": "https://twitter.com/paulkim_twt/status/1535185000118857729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36203,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535169410134310913/pu/vid/480x270/kVApK-utLk1Q6fQ-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535169410134310913/pu/vid/1280x720/Clg4jGLLT9wRCwLI.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535169410134310913/pu/vid/640x360/J7EIlradYeUuQgLK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1535169410134310913/pu/pl/7yBvKjAkI5TgAizk.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 774874937328754700,
+			"id_str": "774874937328754688",
+			"name": "폴킴 (Paul Kim)",
+			"screen_name": "paulkim_twt",
+			"location": "",
+			"description": "폴킴의 공식 Twitter입니다.💚\nOfficial Twitter for PaulKim\n\n폴킴 전국투어 '투성이' 공식 MD 👇",
+			"url": "https://t.co/0BFgftAhJ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0BFgftAhJ9",
+							"expanded_url": "https://linktr.ee/paulkimstar",
+							"display_url": "linktr.ee/paulkimstar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6359,
+			"friends_count": 22,
+			"listed_count": 13,
+			"created_at": "Sun Sep 11 07:39:16 +0000 2016",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535114055425622016/SXZJtbHh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535114055425622016/SXZJtbHh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/774874937328754688/1654834687",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "폴킴 (Paul Kim) - One More Time [Main Teaser]\n🔗https://t.co/o1nDAFxVsn\n\n2022.06.14 6pm (KST) \n\n#폴킴 #PaulKim \n#신세경 #ShinSaeKyeong \n#OneMoreTime \n#Teaser\n#뉴런뮤직 https://t.co/If9acdayg9"
+	},
+	{
+		"created_at": "Fri Jun 10 09:40:18 +0000 2022",
+		"id": 1535184997350379500,
+		"id_str": "1535195141660606469",
+		"full_text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						170,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLUyzoseU3",
+					"expanded_url": "https://aespa.smtown-official.jp/",
+					"display_url": "aespa.smtown-official.jp",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143593,
+			"friends_count": 1,
+			"listed_count": 261,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1363,
+		"favorite_count": 4203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにご登録のみなさんへ、本日はGISELLEのメッセージを公開！🌙\nぜひチェックしてください🧚🏻‍♀️✨\n\n※メッセージ動画は下記サイトにログイン後、「NEWS」よりご覧ください👀\nhttps://t.co/mLUyzoseU3\n#aespa #æspa #에스파 #エスパ\n#GISELLE"
+	},
+	{
 		"created_at": "Fri Jun 10 08:45:51 +0000 2022",
 		"id": 1535178110324248600,
 		"id_str": "1535181435828584448",
