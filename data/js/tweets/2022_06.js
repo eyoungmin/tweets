@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 02:40:11 +0000 2022",
+		"id": 1533410457377091600,
+		"id_str": "1535451800484122625",
+		"full_text": "A short animation: the Copernican Revolution https://t.co/L8U1Sh6SIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533410385352503300,
+					"id_str": "1533410385352503297",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533410385352503297/pu/img/OvL4ydtbvHNoUzET.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533410385352503297/pu/img/OvL4ydtbvHNoUzET.jpg",
+					"url": "https://t.co/L8U1Sh6SIw",
+					"display_url": "pic.twitter.com/L8U1Sh6SIw",
+					"expanded_url": "https://twitter.com/spacesnapshot/status/1533410457377091584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533410385352503300,
+					"id_str": "1533410385352503297",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1533410385352503297/pu/img/OvL4ydtbvHNoUzET.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1533410385352503297/pu/img/OvL4ydtbvHNoUzET.jpg",
+					"url": "https://t.co/L8U1Sh6SIw",
+					"display_url": "pic.twitter.com/L8U1Sh6SIw",
+					"expanded_url": "https://twitter.com/spacesnapshot/status/1533410457377091584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 120209,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533410385352503297/pu/vid/636x360/s4zqwFer6oqvbALg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1533410385352503297/pu/pl/h59D2UAKT9oMl1cy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533410385352503297/pu/vid/476x270/3RotgHCAkWB1B-ry.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1533410385352503297/pu/vid/848x480/jKipVoIE2xAryQLg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1495097512948269000,
+			"id_str": "1495097512948269058",
+			"name": "Space Porn 🛰",
+			"screen_name": "spacesnapshot",
+			"location": "",
+			"description": "All things spacex and Elon/blue origin and Jeff who roasts/daily astrophotos*/occasional fud debunking/ SN8/future Martian",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16663,
+			"friends_count": 6610,
+			"listed_count": 58,
+			"created_at": "Sat Feb 19 18:06:51 +0000 2022",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1495097747401502722/a8ytaxvG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1495097747401502722/a8ytaxvG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1495097512948269058/1645294719",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2301,
+		"favorite_count": 4083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A short animation: the Copernican Revolution https://t.co/L8U1Sh6SIw"
+	},
+	{
 		"created_at": "Fri Jun 10 22:40:13 +0000 2022",
 		"id": 1535328443881201700,
 		"id_str": "1535391411490660352",
