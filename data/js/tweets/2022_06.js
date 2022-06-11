@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 19:40:21 +0000 2022",
+		"id": 1533388649483706400,
+		"id_str": "1535708535333564424",
+		"full_text": "BIBI Shares About Performing At Her First Ever #WangoTango! @nakedbibi \nhttps://t.co/81LVmgKIdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WangoTango",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/81LVmgKIdV",
+					"expanded_url": "http://ihe.art/ho5cEar",
+					"display_url": "ihe.art/ho5cEar",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19046392,
+			"id_str": "19046392",
+			"name": "102.7 KIIS FM",
+			"screen_name": "1027KIISFM",
+			"location": "Los Angeles",
+			"description": "LA's #1 Hit Music Station! Follow us: Instagram 📸 | @1027KIISFM TikTok 📹 | @1027kiisfm Snapchat 🤳 | kiis_fm",
+			"url": "https://t.co/1uDH45VrAS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1uDH45VrAS",
+							"expanded_url": "http://kiisfm.com/listen",
+							"display_url": "kiisfm.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349413,
+			"friends_count": 975,
+			"listed_count": 1717,
+			"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+			"favourites_count": 24636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1532023536167968769/3kxfrD5r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532023536167968769/3kxfrD5r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1654802396",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI Shares About Performing At Her First Ever #WangoTango! @nakedbibi \nhttps://t.co/81LVmgKIdV"
+	},
+	{
+		"created_at": "Sat Jun 11 19:40:19 +0000 2022",
+		"id": 1535705471419666400,
+		"id_str": "1535708526223540224",
+		"full_text": "👀 https://t.co/5jDYMZsp3Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5jDYMZsp3Q",
+					"expanded_url": "https://twitter.com/abcnewspr/status/1535302460155232259",
+					"display_url": "twitter.com/abcnewspr/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59831,
+			"friends_count": 3,
+			"listed_count": 166,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535302460155232300,
+		"quoted_status_id_str": "1535302460155232259",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5jDYMZsp3Q",
+			"expanded": "https://twitter.com/abcnewspr/status/1535302460155232259",
+			"display": "twitter.com/abcnewspr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 16:46:45 +0000 2022",
+			"id": 1535302460155232300,
+			"id_str": "1535302460155232259",
+			"full_text": "Next week on @ABCGMA3: @SecCardona, @EricLeGrand52, @nakedbibi, @RepNancyMace, @AnikaNoniRose, @jimkwik, @RepMaloney, @PaulONeillYES, #JamesBrolin, @PPDCommish, @andregaines, @KekePalmer, #ChaseReplogle, @JackQuaid92 and more: https://t.co/0U0wxSqEqE https://t.co/XTUw1yW3w4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JamesBrolin",
+						"indices": [
+							134,
+							146
+						]
+					},
+					{
+						"text": "ChaseReplogle",
+						"indices": [
+							188,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ABCGMA3",
+						"name": "GMA3: What You Need To Know",
+						"id": 1017854722252902400,
+						"id_str": "1017854722252902400",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "SecCardona",
+						"name": "Secretary Miguel Cardona",
+						"id": 1364259892299767800,
+						"id_str": "1364259892299767810",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "EricLeGrand52",
+						"name": "Eric LeGrand",
+						"id": 276715917,
+						"id_str": "276715917",
+						"indices": [
+							36,
+							50
+						]
+					},
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"screen_name": "RepNancyMace",
+						"name": "Rep. Nancy Mace",
+						"id": 1343597700542038000,
+						"id_str": "1343597700542038017",
+						"indices": [
+							64,
+							77
+						]
+					},
+					{
+						"screen_name": "AnikaNoniRose",
+						"name": "Anika Noni Rose",
+						"id": 251686253,
+						"id_str": "251686253",
+						"indices": [
+							79,
+							93
+						]
+					},
+					{
+						"screen_name": "jimkwik",
+						"name": "Jim Kwik",
+						"id": 16496156,
+						"id_str": "16496156",
+						"indices": [
+							95,
+							103
+						]
+					},
+					{
+						"screen_name": "RepMaloney",
+						"name": "Carolyn B. Maloney",
+						"id": 258900199,
+						"id_str": "258900199",
+						"indices": [
+							105,
+							116
+						]
+					},
+					{
+						"screen_name": "PaulONeillYES",
+						"name": "Paul O'Neill",
+						"id": 521503652,
+						"id_str": "521503652",
+						"indices": [
+							118,
+							132
+						]
+					},
+					{
+						"screen_name": "PPDCommish",
+						"name": "Danielle M. Outlaw",
+						"id": 2750137002,
+						"id_str": "2750137002",
+						"indices": [
+							148,
+							159
+						]
+					},
+					{
+						"screen_name": "andregaines",
+						"name": "Andre Gaines",
+						"id": 270841670,
+						"id_str": "270841670",
+						"indices": [
+							161,
+							173
+						]
+					},
+					{
+						"screen_name": "KekePalmer",
+						"name": "Keke Palmer",
+						"id": 29860364,
+						"id_str": "29860364",
+						"indices": [
+							175,
+							186
+						]
+					},
+					{
+						"screen_name": "JackQuaid92",
+						"name": "Jack Quaid",
+						"id": 293960954,
+						"id_str": "293960954",
+						"indices": [
+							204,
+							216
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0U0wxSqEqE",
+						"expanded_url": "https://bit.ly/3xBOHVS",
+						"display_url": "bit.ly/3xBOHVS",
+						"indices": [
+							227,
+							250
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1535302452890718200,
+						"id_str": "1535302452890718208",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FU59ck9WUAAwymm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU59ck9WUAAwymm.jpg",
+						"url": "https://t.co/XTUw1yW3w4",
+						"display_url": "pic.twitter.com/XTUw1yW3w4",
+						"expanded_url": "https://twitter.com/ABCNewsPR/status/1535302460155232259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1535302452890718200,
+						"id_str": "1535302452890718208",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/FU59ck9WUAAwymm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU59ck9WUAAwymm.jpg",
+						"url": "https://t.co/XTUw1yW3w4",
+						"display_url": "pic.twitter.com/XTUw1yW3w4",
+						"expanded_url": "https://twitter.com/ABCNewsPR/status/1535302460155232259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27867017,
+				"id_str": "27867017",
+				"name": "ABC News PR",
+				"screen_name": "ABCNewsPR",
+				"location": "New York City",
+				"description": "The official Twitter account for the @ABC News Media Relations team.",
+				"url": "https://t.co/7V08XKqVM1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7V08XKqVM1",
+								"expanded_url": "https://abcnewspr.tumblr.com",
+								"display_url": "abcnewspr.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44200,
+				"friends_count": 784,
+				"listed_count": 1241,
+				"created_at": "Tue Mar 31 13:19:02 +0000 2009",
+				"favourites_count": 230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21629,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876797176306782208/qUrrm8ye_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876797176306782208/qUrrm8ye_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27867017/1478702934",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/5jDYMZsp3Q"
+	},
+	{
 		"created_at": "Sat Jun 11 16:40:09 +0000 2022",
 		"id": 1535471290202476500,
 		"id_str": "1535663188141817859",
