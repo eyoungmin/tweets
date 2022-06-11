@@ -1,10 +1,117 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 05:40:10 +0000 2022",
+		"id": 1534911968145989600,
+		"id_str": "1535497094676488194",
+		"full_text": "The Deals: Aespa has partnered with Warner Records, Elley Duhe closed a seven-figure deal with beatBread and more. https://t.co/meTEAyh6lp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/meTEAyh6lp",
+					"expanded_url": "http://blbrd.cm/Uc8NpzX",
+					"display_url": "blbrd.cm/Uc8NpzX",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardbiz",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13735698,
+			"friends_count": 3466,
+			"listed_count": 21618,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 297581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1654178572",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2496,
+		"favorite_count": 8445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Deals: Aespa has partnered with Warner Records, Elley Duhe closed a seven-figure deal with beatBread and more. https://t.co/meTEAyh6lp"
+	},
+	{
 		"created_at": "Sat Jun 11 03:40:09 +0000 2022",
 		"id": 1535456798668382200,
 		"id_str": "1535466894731378694",
-		"full_text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』の「aespa OFFICIAL MAIL MAGAZINE」チケット先行受付は、6月12日(日)23:59までとなっております‼️\nこの機会にぜひお申込みください💙⭐️🌙🦋\n\n☑️ メルマガサイトはこちら🧚‍♂️\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ https://t.co/wEjJ0GqZ2h",
+		"full_text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』の「aespa OFFICIAL MAIL MAGAZINE」チケット先行受付は、6月12日(日)23:59までとなっております‼️\nこの機会にぜひお申込みください💙⭐️🌙🦋\n\n☑️ メルマガサイトはこちら🧚♂️\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ https://t.co/wEjJ0GqZ2h",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -212,7 +319,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』の「aespa OFFICIAL MAIL MAGAZINE」チケット先行受付は、6月12日(日)23:59までとなっております‼️\nこの機会にぜひお申込みください💙⭐️🌙🦋\n\n☑️ メルマガサイトはこちら🧚‍♂️\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ https://t.co/wEjJ0GqZ2h"
+		"text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』の「aespa OFFICIAL MAIL MAGAZINE」チケット先行受付は、6月12日(日)23:59までとなっております‼️\nこの機会にぜひお申込みください💙⭐️🌙🦋\n\n☑️ メルマガサイトはこちら🧚♂️\nhttps://t.co/mLUyzoaE2v\n\n#aespa #æspa #에스파 #エスパ https://t.co/wEjJ0GqZ2h"
 	},
 	{
 		"created_at": "Sat Jun 11 02:40:11 +0000 2022",
