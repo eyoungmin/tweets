@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 15:40:30 +0000 2022",
+		"id": 1536001628305870800,
+		"id_str": "1536010562366230528",
+		"full_text": "🐟#HappyJinSoulday 🐟\n￼\n\n歌声が魅力的で作曲もできる多彩なジンソル💙\nお誕生日おめでとうございます🎂\n￼\n\n#ジンソル\n#LOONA\n#今月の少女 https://t.co/TR8genhDK4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyJinSoulday",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "ジンソル",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535201669574979600,
+					"id_str": "1535201669574979587",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4hyN2acAMQ1C9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4hyN2acAMQ1C9.jpg",
+					"url": "https://t.co/TR8genhDK4",
+					"display_url": "pic.twitter.com/TR8genhDK4",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1536001628305870849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535201669574979600,
+					"id_str": "1535201669574979587",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FU4hyN2acAMQ1C9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU4hyN2acAMQ1C9.jpg",
+					"url": "https://t.co/TR8genhDK4",
+					"display_url": "pic.twitter.com/TR8genhDK4",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1536001628305870849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91267,
+			"friends_count": 2,
+			"listed_count": 715,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1006,
+		"favorite_count": 3329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🐟#HappyJinSoulday 🐟\n￼\n\n歌声が魅力的で作曲もできる多彩なジンソル💙\nお誕生日おめでとうございます🎂\n￼\n\n#ジンソル\n#LOONA\n#今月の少女 https://t.co/TR8genhDK4"
+	},
+	{
 		"created_at": "Sun Jun 12 15:10:53 +0000 2022",
 		"id": 1536001628305649700,
 		"id_str": "1536003108731400192",
