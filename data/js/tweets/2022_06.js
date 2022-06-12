@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 19:40:09 +0000 2022",
+		"id": 1536067244576448500,
+		"id_str": "1536070873999986692",
+		"full_text": "my VERY 1st time on 🇺🇸 TV - and of all places @GMA @ABCGMA3 😱😱😱 super excited 🤩 and super nervous 🙏🏼 bibitans send me all ur good energy + vibes ✨✨✨ ill be on at 1 pm EST ❤️ let’s gooo #BIBIWKND @88rising @gHoodmusic_ https://t.co/KTpmvb63zp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIBIWKND",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"screen_name": "ABCGMA3",
+					"name": "GMA3: What You Need To Know",
+					"id": 1017854722252902400,
+					"id_str": "1017854722252902400",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						205,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536067240260472800,
+					"id_str": "1536067240260472834",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FVE1BD7XEAI-KLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVE1BD7XEAI-KLp.jpg",
+					"url": "https://t.co/KTpmvb63zp",
+					"display_url": "pic.twitter.com/KTpmvb63zp",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1536067244576448514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536067240260472800,
+					"id_str": "1536067240260472834",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FVE1BD7XEAI-KLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVE1BD7XEAI-KLp.jpg",
+					"url": "https://t.co/KTpmvb63zp",
+					"display_url": "pic.twitter.com/KTpmvb63zp",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1536067244576448514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59851,
+			"friends_count": 3,
+			"listed_count": 166,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my VERY 1st time on 🇺🇸 TV - and of all places @GMA @ABCGMA3 😱😱😱 super excited 🤩 and super nervous 🙏🏼 bibitans send me all ur good energy + vibes ✨✨✨ ill be on at 1 pm EST ❤️ let’s gooo #BIBIWKND @88rising @gHoodmusic_ https://t.co/KTpmvb63zp"
+	},
+	{
 		"created_at": "Sun Jun 12 16:40:10 +0000 2022",
 		"id": 1536015877056999400,
 		"id_str": "1536025576443625476",
