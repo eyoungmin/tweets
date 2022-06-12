@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 03:40:15 +0000 2022",
+		"id": 1535829014673510400,
+		"id_str": "1535829304029941761",
+		"full_text": "Savina&amp;Drones \nNew Release\n\n두 번 사는 음악천재 #ost \n‘너라면 좋겠다’ - 사비나앤드론즈\n\n[앨범소개]\n\n시간이 흐르면 많은 것이 변하고 또 떠나간다.그럼에도 끝까지 내 곁에 남아주었으면 하는, 나보다 날 더 사랑해 주는 한 사람에게 진심을 담아 마음을 전하는 곡이다.\n\nWith\n럭키클로버 (AVEC) https://t.co/VbS8vkPmAt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ost",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535829004984668200,
+					"id_str": "1535829004984668160",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FVBcV8XaUAAQ2pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVBcV8XaUAAQ2pk.jpg",
+					"url": "https://t.co/VbS8vkPmAt",
+					"display_url": "pic.twitter.com/VbS8vkPmAt",
+					"expanded_url": "https://twitter.com/savina0128/status/1535829014673510401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535829004984668200,
+					"id_str": "1535829004984668160",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FVBcV8XaUAAQ2pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVBcV8XaUAAQ2pk.jpg",
+					"url": "https://t.co/VbS8vkPmAt",
+					"display_url": "pic.twitter.com/VbS8vkPmAt",
+					"expanded_url": "https://twitter.com/savina0128/status/1535829014673510401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1795,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 245,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Savina&amp;Drones \nNew Release\n\n두 번 사는 음악천재 #ost \n‘너라면 좋겠다’ - 사비나앤드론즈\n\n[앨범소개]\n\n시간이 흐르면 많은 것이 변하고 또 떠나간다.그럼에도 끝까지 내 곁에 남아주었으면 하는, 나보다 날 더 사랑해 주는 한 사람에게 진심을 담아 마음을 전하는 곡이다.\n\nWith\n럭키클로버 (AVEC) https://t.co/VbS8vkPmAt"
+	},
+	{
 		"created_at": "Sat Jun 11 22:40:09 +0000 2022",
 		"id": 1535745019373559800,
 		"id_str": "1535753784978292736",
