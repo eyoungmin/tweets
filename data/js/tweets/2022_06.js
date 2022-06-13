@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 08:40:10 +0000 2022",
+		"id": 1535991819862954000,
+		"id_str": "1536267168702136324",
+		"full_text": "#AboutLastNight\n\n#ColdplayAtlanta https://t.co/QGab9fb9au",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AboutLastNight",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "ColdplayAtlanta",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535991344933617700,
+					"id_str": "1535991344933617670",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535991344933617670/pu/img/y8-G-xPqfhoAvFM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535991344933617670/pu/img/y8-G-xPqfhoAvFM5.jpg",
+					"url": "https://t.co/QGab9fb9au",
+					"display_url": "pic.twitter.com/QGab9fb9au",
+					"expanded_url": "https://twitter.com/heelsrule1988/status/1535991819862953985/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 947,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535991344933617700,
+					"id_str": "1535991344933617670",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1535991344933617670/pu/img/y8-G-xPqfhoAvFM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1535991344933617670/pu/img/y8-G-xPqfhoAvFM5.jpg",
+					"url": "https://t.co/QGab9fb9au",
+					"display_url": "pic.twitter.com/QGab9fb9au",
+					"expanded_url": "https://twitter.com/heelsrule1988/status/1535991819862953985/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 947,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							292,
+							135
+						],
+						"duration_millis": 81632,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1535991344933617670/pu/pl/EOAt6MAJN3XXLZr4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535991344933617670/pu/vid/778x360/ZxRG9KJexIsV8_Lp.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535991344933617670/pu/vid/584x270/OF_71xxO09nzFVAo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1535991344933617670/pu/vid/1556x720/tORvLWb7PTuayg2W.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 188163231,
+			"id_str": "188163231",
+			"name": "Jordan",
+			"screen_name": "heelsrule1988",
+			"location": "Raleigh, NC",
+			"description": "@dandelion2121 💍💙 | proud 919 resident and 910 native | jaded sports fan | BLM | 🏳️‍🌈 ally | @SportsJeopardy (link ⬇) | @PokemonGoApp trainer | views = mine",
+			"url": "https://t.co/wuVzxX4G61",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wuVzxX4G61",
+							"expanded_url": "https://twitter.com/heelsrule1988/status/682229785058119684",
+							"display_url": "twitter.com/heelsrule1988/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095,
+			"friends_count": 1963,
+			"listed_count": 56,
+			"created_at": "Wed Sep 08 02:05:27 +0000 2010",
+			"favourites_count": 82020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 218403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430307944030216194/lDfo4Owy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430307944030216194/lDfo4Owy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188163231/1649173852",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#AboutLastNight\n\n#ColdplayAtlanta https://t.co/QGab9fb9au"
+	},
+	{
 		"created_at": "Mon Jun 13 07:06:52 +0000 2022",
 		"id": 1536241969189441500,
 		"id_str": "1536243688724017152",
