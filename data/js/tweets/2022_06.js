@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 18:40:10 +0000 2022",
+		"id": 1536403995249582000,
+		"id_str": "1536418164107407360",
+		"full_text": "TUNE IN NOW~\n@nakedBIBI x @ABCGMA3 \n\nUSA: https://t.co/OurpI8L56c…\n\nInternational: https://t.co/nfP4sQBPAs\n\n#BiBiWKND\n@88rising @gHoodmusic_ https://t.co/9FldmiAdde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BiBiWKND",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "ABCGMA3",
+					"name": "GMA3: What You Need To Know",
+					"id": 1017854722252902400,
+					"id_str": "1017854722252902400",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OurpI8L56c",
+					"expanded_url": "http://abc.com/shows/good-mor",
+					"display_url": "abc.com/shows/good-mor",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/nfP4sQBPAs",
+					"expanded_url": "http://live94today.com/watch/abc/",
+					"display_url": "live94today.com/watch/abc/",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536403990006714400,
+					"id_str": "1536403990006714369",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FVJnSefX0AEspwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVJnSefX0AEspwe.jpg",
+					"url": "https://t.co/9FldmiAdde",
+					"display_url": "pic.twitter.com/9FldmiAdde",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1536403995249582083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536403990006714400,
+					"id_str": "1536403990006714369",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FVJnSefX0AEspwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVJnSefX0AEspwe.jpg",
+					"url": "https://t.co/9FldmiAdde",
+					"display_url": "pic.twitter.com/9FldmiAdde",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1536403995249582083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536403990002421800,
+					"id_str": "1536403990002421763",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FVJnSeeWUAMJz6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVJnSeeWUAMJz6y.jpg",
+					"url": "https://t.co/9FldmiAdde",
+					"display_url": "pic.twitter.com/9FldmiAdde",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1536403995249582083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59966,
+			"friends_count": 3,
+			"listed_count": 167,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TUNE IN NOW~\n@nakedBIBI x @ABCGMA3 \n\nUSA: https://t.co/OurpI8L56c…\n\nInternational: https://t.co/nfP4sQBPAs\n\n#BiBiWKND\n@88rising @gHoodmusic_ https://t.co/9FldmiAdde"
+	},
+	{
 		"created_at": "Mon Jun 13 15:40:25 +0000 2022",
 		"id": 1536347715365666800,
 		"id_str": "1536372928937598977",
