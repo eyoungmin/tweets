@@ -1,6 +1,902 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 05:40:27 +0000 2022",
+		"id": 1536154895908147200,
+		"id_str": "1536221942268760069",
+		"full_text": "🦋에버라인 X 이달의 소녀 대면 팬사인회 공지\n\n✔ 응모 기간: 6/13(MON) AM 10:00 ~ 6/19(SUN)\nPM 11:59 (KST)\n✔ 이벤트 일시: 7/2(SAT) PM 6:30\n✔ 응모 링크: https://t.co/ST7vBfSw2Q\n\n #LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/oFWLLBYdI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "EVERLINE",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "에버라인",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ST7vBfSw2Q",
+					"expanded_url": "https://bit.ly/3mJXBdH",
+					"display_url": "bit.ly/3mJXBdH",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536154591460438000,
+					"id_str": "1536154591460438017",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGEdkgVsAEGmYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGEdkgVsAEGmYQ.jpg",
+					"url": "https://t.co/oFWLLBYdI5",
+					"display_url": "pic.twitter.com/oFWLLBYdI5",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154895908147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536154591460438000,
+					"id_str": "1536154591460438017",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGEdkgVsAEGmYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGEdkgVsAEGmYQ.jpg",
+					"url": "https://t.co/oFWLLBYdI5",
+					"display_url": "pic.twitter.com/oFWLLBYdI5",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154895908147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536154591623975000,
+					"id_str": "1536154591623974912",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGEdlHVEAAj01W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGEdlHVEAAj01W.jpg",
+					"url": "https://t.co/oFWLLBYdI5",
+					"display_url": "pic.twitter.com/oFWLLBYdI5",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154895908147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536154591745560600,
+					"id_str": "1536154591745560577",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGEdlkUUAE5kfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGEdlkUUAE5kfR.jpg",
+					"url": "https://t.co/oFWLLBYdI5",
+					"display_url": "pic.twitter.com/oFWLLBYdI5",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154895908147200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309403974735286300,
+			"id_str": "1309403974735286272",
+			"name": "EVERLINE",
+			"screen_name": "EVERLINESHOP",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/DsIywT1pAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsIywT1pAi",
+							"expanded_url": "http://everlineshop.com/",
+							"display_url": "everlineshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8629,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Sep 25 08:07:03 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309403974735286272/1601021479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 1399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🦋에버라인 X 이달의 소녀 대면 팬사인회 공지\n\n✔ 응모 기간: 6/13(MON) AM 10:00 ~ 6/19(SUN)\nPM 11:59 (KST)\n✔ 이벤트 일시: 7/2(SAT) PM 6:30\n✔ 응모 링크: https://t.co/ST7vBfSw2Q\n\n #LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/oFWLLBYdI5"
+	},
+	{
+		"created_at": "Mon Jun 13 05:40:21 +0000 2022",
+		"id": 1536154878740902000,
+		"id_str": "1536221916591185920",
+		"full_text": "🍀에버라인 X 이달의 소녀 영상통화 팬사인회 공지\n\n✔ 응모 기간: 6/13(MON) AM 10:00 ~ 6/19(SUN)\nPM 11:59 (KST)\n✔ 이벤트 일시: 7/2(SAT) 대면 팬사인회 종료 후\n✔ 응모 링크: https://t.co/gb00EPqU3D\n\n #LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/o9ijbh5kTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "EVERLINE",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "에버라인",
+					"indices": [
+						175,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gb00EPqU3D",
+					"expanded_url": "https://bit.ly/39tXYWy",
+					"display_url": "bit.ly/39tXYWy",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536153177443053600,
+					"id_str": "1536153177443053568",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGDLQ4UsAAGEdH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVGDLQ4UsAAGEdH.png",
+					"url": "https://t.co/o9ijbh5kTR",
+					"display_url": "pic.twitter.com/o9ijbh5kTR",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154878740901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536153177443053600,
+					"id_str": "1536153177443053568",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGDLQ4UsAAGEdH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVGDLQ4UsAAGEdH.png",
+					"url": "https://t.co/o9ijbh5kTR",
+					"display_url": "pic.twitter.com/o9ijbh5kTR",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154878740901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1536153191494013000,
+					"id_str": "1536153191494012928",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGDMFOVUAA0e6p.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVGDMFOVUAA0e6p.png",
+					"url": "https://t.co/o9ijbh5kTR",
+					"display_url": "pic.twitter.com/o9ijbh5kTR",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154878740901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1536153211454664700,
+					"id_str": "1536153211454664704",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGDNPlUsAA-iWC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVGDNPlUsAA-iWC.png",
+					"url": "https://t.co/o9ijbh5kTR",
+					"display_url": "pic.twitter.com/o9ijbh5kTR",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1536154878740901888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 567,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309403974735286300,
+			"id_str": "1309403974735286272",
+			"name": "EVERLINE",
+			"screen_name": "EVERLINESHOP",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/DsIywT1pAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsIywT1pAi",
+							"expanded_url": "http://everlineshop.com/",
+							"display_url": "everlineshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8629,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Sep 25 08:07:03 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309403974735286272/1601021479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 996,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍀에버라인 X 이달의 소녀 영상통화 팬사인회 공지\n\n✔ 응모 기간: 6/13(MON) AM 10:00 ~ 6/19(SUN)\nPM 11:59 (KST)\n✔ 이벤트 일시: 7/2(SAT) 대면 팬사인회 종료 후\n✔ 응모 링크: https://t.co/gb00EPqU3D\n\n #LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/o9ijbh5kTR"
+	},
+	{
+		"created_at": "Mon Jun 13 05:40:13 +0000 2022",
+		"id": 1536151365457547300,
+		"id_str": "1536221882533523458",
+		"full_text": "💌OFF-LINE / Video Call Fan Sign\n💿#이달의소녀(#LOONA) - LOONA Summer Special Mini Album [#FlipThat]\n\n🗓️Period : ~6/19(Sun) 23:59(KST)\n🗓️Date : 6/24(Fri) 19:30~(KST)\n\n🎁Exclusive Photocard(Random 1 out of 12, 1:1)\n\n☑️KOR :https://t.co/yNON78RWKU\n☑️GLOBAL :https://t.co/Dg1Smt6Krv https://t.co/KkJxWiXUXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yNON78RWKU",
+					"expanded_url": "https://bit.ly/3xowtpB",
+					"display_url": "bit.ly/3xowtpB",
+					"indices": [
+						214,
+						237
+					]
+				},
+				{
+					"url": "https://t.co/Dg1Smt6Krv",
+					"expanded_url": "https://bit.ly/3MEZ2Vy",
+					"display_url": "bit.ly/3MEZ2Vy",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536149129390608400,
+					"id_str": "1536149129390608390",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FVF_fotaUAY6QeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVF_fotaUAY6QeL.jpg",
+					"url": "https://t.co/KkJxWiXUXH",
+					"display_url": "pic.twitter.com/KkJxWiXUXH",
+					"expanded_url": "https://twitter.com/synnararecord/status/1536151365457547264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536149129390608400,
+					"id_str": "1536149129390608390",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FVF_fotaUAY6QeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVF_fotaUAY6QeL.jpg",
+					"url": "https://t.co/KkJxWiXUXH",
+					"display_url": "pic.twitter.com/KkJxWiXUXH",
+					"expanded_url": "https://twitter.com/synnararecord/status/1536151365457547264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536149129411567600,
+					"id_str": "1536149129411567616",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FVF_foyaIAAOoaK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVF_foyaIAAOoaK.jpg",
+					"url": "https://t.co/KkJxWiXUXH",
+					"display_url": "pic.twitter.com/KkJxWiXUXH",
+					"expanded_url": "https://twitter.com/synnararecord/status/1536151365457547264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536149129411596300,
+					"id_str": "1536149129411596288",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FVF_foyakAATMnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVF_foyakAATMnO.jpg",
+					"url": "https://t.co/KkJxWiXUXH",
+					"display_url": "pic.twitter.com/KkJxWiXUXH",
+					"expanded_url": "https://twitter.com/synnararecord/status/1536151365457547264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536149129407373300,
+					"id_str": "1536149129407373314",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FVF_foxaIAIIecY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVF_foxaIAIIecY.jpg",
+					"url": "https://t.co/KkJxWiXUXH",
+					"display_url": "pic.twitter.com/KkJxWiXUXH",
+					"expanded_url": "https://twitter.com/synnararecord/status/1536151365457547264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152545104,
+			"id_str": "152545104",
+			"name": "신나라/SYNNARA",
+			"screen_name": "synnararecord",
+			"location": "대한민국",
+			"description": "All about K-Pop",
+			"url": "https://t.co/Sz0Rhuj31N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sz0Rhuj31N",
+							"expanded_url": "http://m.synnara.co.kr",
+							"display_url": "m.synnara.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9919,
+			"friends_count": 167,
+			"listed_count": 50,
+			"created_at": "Sun Jun 06 06:39:01 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994747996414726145/v96xHQzn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994747996414726145/v96xHQzn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152545104/1524197221",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C08C0A",
+			"profile_sidebar_fill_color": "DDE16E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 1095,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💌OFF-LINE / Video Call Fan Sign\n💿#이달의소녀(#LOONA) - LOONA Summer Special Mini Album [#FlipThat]\n\n🗓️Period : ~6/19(Sun) 23:59(KST)\n🗓️Date : 6/24(Fri) 19:30~(KST)\n\n🎁Exclusive Photocard(Random 1 out of 12, 1:1)\n\n☑️KOR :https://t.co/yNON78RWKU\n☑️GLOBAL :https://t.co/Dg1Smt6Krv https://t.co/KkJxWiXUXH"
+	},
+	{
 		"created_at": "Mon Jun 13 04:45:43 +0000 2022",
 		"id": 1536204213222617000,
 		"id_str": "1536208167364853760",
