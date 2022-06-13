@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 01:45:36 +0000 2022",
+		"id": 1536152157342142500,
+		"id_str": "1536162842885468160",
+		"full_text": "One week left for #LOONAonBB200 🎉\nOrbits, let’s flip that chart together! 😜\n\n🔗 https://t.co/24tDpUuSRo \n\n*hello82 is a certified Billboard reporter 😎 we don’t miss a day! \n\nHashtag to use 👉🏻 #LOONAonBB200",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONAonBB200",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"text": "LOONAonBB200",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24tDpUuSRo",
+					"expanded_url": "https://hello82.shop/products/loona-summer-special-mini-album",
+					"display_url": "hello82.shop/products/loona…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest updates on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official @annyon82",
+			"url": "https://t.co/tpPAHmm3Yk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tpPAHmm3Yk",
+							"expanded_url": "http://hello82.tv",
+							"display_url": "hello82.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127005,
+			"friends_count": 6,
+			"listed_count": 122,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One week left for #LOONAonBB200 🎉\nOrbits, let’s flip that chart together! 😜\n\n🔗 https://t.co/24tDpUuSRo \n\n*hello82 is a certified Billboard reporter 😎 we don’t miss a day! \n\nHashtag to use 👉🏻 #LOONAonBB200"
+	},
+	{
+		"created_at": "Mon Jun 13 01:40:14 +0000 2022",
+		"id": 1536151414518345700,
+		"id_str": "1536161488456622081",
+		"full_text": "📣LOONA [Flip That] GLOBAL VIDEO CALL EVENT가 오픈되었습니다!\n\n🗓️6/19 (일) 11:59 PM 마감!\n📸MMT 특전 포토카드 포함\n🎁당첨자 전원 *싸인 폴라로이드* 증정\n\n지금 바로 응모하세요!\n📲👉 https://t.co/sNlsfVRyQ0\n\n#이달의소녀 #LOONA #LOONA_Fansign with #MMTShop https://t.co/CAlMavokgN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "LOONA_Fansign",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"text": "MMTShop",
+					"indices": [
+						192,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sNlsfVRyQ0",
+					"expanded_url": "https://mmt.fans/b1MQ",
+					"display_url": "mmt.fans/b1MQ",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536151395300020200,
+					"id_str": "1536151395300020224",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBjh4UEAAztvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBjh4UEAAztvt.jpg",
+					"url": "https://t.co/CAlMavokgN",
+					"display_url": "pic.twitter.com/CAlMavokgN",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151414518345728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536151395300020200,
+					"id_str": "1536151395300020224",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBjh4UEAAztvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBjh4UEAAztvt.jpg",
+					"url": "https://t.co/CAlMavokgN",
+					"display_url": "pic.twitter.com/CAlMavokgN",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151414518345728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1668,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536151404082917400,
+					"id_str": "1536151404082917376",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBkCmUcAAxp7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBkCmUcAAxp7z.jpg",
+					"url": "https://t.co/CAlMavokgN",
+					"display_url": "pic.twitter.com/CAlMavokgN",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151414518345728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536151408679891000,
+					"id_str": "1536151408679890944",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBkTuUsAA8EiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBkTuUsAA8EiF.jpg",
+					"url": "https://t.co/CAlMavokgN",
+					"display_url": "pic.twitter.com/CAlMavokgN",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151414518345728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1668,
+							"h": 1668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1536151392296915000,
+		"in_reply_to_status_id_str": "1536151392296914944",
+		"in_reply_to_user_id": 1389021967567622100,
+		"in_reply_to_user_id_str": "1389021967567622145",
+		"in_reply_to_screen_name": "_mmtshop",
+		"user": {
+			"id": 1389021967567622100,
+			"id_str": "1389021967567622145",
+			"name": "MMT SHOP",
+			"screen_name": "_mmtshop",
+			"location": "Seoul, Korea",
+			"description": "🛍️ Shop for all your K-Pop Essentials!\n\n💫 MMT SHOP is commerce exclusive Twitter account owned by @_mymusictaste",
+			"url": "https://t.co/jRvgoFZu5F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jRvgoFZu5F",
+							"expanded_url": "http://mymusictaste.com/shop",
+							"display_url": "mymusictaste.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13829,
+			"friends_count": 67,
+			"listed_count": 45,
+			"created_at": "Mon May 03 01:00:26 +0000 2021",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1389021967567622145/1620613939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 1477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣LOONA [Flip That] GLOBAL VIDEO CALL EVENT가 오픈되었습니다!\n\n🗓️6/19 (일) 11:59 PM 마감!\n📸MMT 특전 포토카드 포함\n🎁당첨자 전원 *싸인 폴라로이드* 증정\n\n지금 바로 응모하세요!\n📲👉 https://t.co/sNlsfVRyQ0\n\n#이달의소녀 #LOONA #LOONA_Fansign with #MMTShop https://t.co/CAlMavokgN"
+	},
+	{
+		"created_at": "Mon Jun 13 01:40:09 +0000 2022",
+		"id": 1536151392296915000,
+		"id_str": "1536161471138353153",
+		"full_text": "📣LOONA [Flip That] GLOBAL VIDEO CALL EVENT is now open!\n\n🗓️Available until June 19, 11:59 PM (KST)\n📸MMT exclusive photocard\n🎁Winners also get: 1 Signed Polaroid\n\nGrab your CD for a chance to win!\n📲👉 https://t.co/Pd0VHciUUr\n\n#LOONA #이달의소녀 #LOONA_Fansign with #MMTShop https://t.co/TbHSlb0D4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "LOONA_Fansign",
+					"indices": [
+						238,
+						252
+					]
+				},
+				{
+					"text": "MMTShop",
+					"indices": [
+						258,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pd0VHciUUr",
+					"expanded_url": "https://mmt.fans/bF3z",
+					"display_url": "mmt.fans/bF3z",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536151375649702000,
+					"id_str": "1536151375649701889",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBiYrUAAE_TSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBiYrUAAE_TSc.jpg",
+					"url": "https://t.co/TbHSlb0D4T",
+					"display_url": "pic.twitter.com/TbHSlb0D4T",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151392296914944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536151375649702000,
+					"id_str": "1536151375649701889",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBiYrUAAE_TSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBiYrUAAE_TSc.jpg",
+					"url": "https://t.co/TbHSlb0D4T",
+					"display_url": "pic.twitter.com/TbHSlb0D4T",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151392296914944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1667,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536151383421792300,
+					"id_str": "1536151383421792256",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBi1oUsAAqTR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBi1oUsAAqTR7.jpg",
+					"url": "https://t.co/TbHSlb0D4T",
+					"display_url": "pic.twitter.com/TbHSlb0D4T",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151392296914944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536151388090007600,
+					"id_str": "1536151388090007553",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGBjHBUAAEHEWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGBjHBUAAEHEWb.jpg",
+					"url": "https://t.co/TbHSlb0D4T",
+					"display_url": "pic.twitter.com/TbHSlb0D4T",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1536151392296914944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1668,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1389021967567622100,
+			"id_str": "1389021967567622145",
+			"name": "MMT SHOP",
+			"screen_name": "_mmtshop",
+			"location": "Seoul, Korea",
+			"description": "🛍️ Shop for all your K-Pop Essentials!\n\n💫 MMT SHOP is commerce exclusive Twitter account owned by @_mymusictaste",
+			"url": "https://t.co/jRvgoFZu5F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jRvgoFZu5F",
+							"expanded_url": "http://mymusictaste.com/shop",
+							"display_url": "mymusictaste.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13829,
+			"friends_count": 67,
+			"listed_count": 45,
+			"created_at": "Mon May 03 01:00:26 +0000 2021",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1389021967567622145/1620613939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 1630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣LOONA [Flip That] GLOBAL VIDEO CALL EVENT is now open!\n\n🗓️Available until June 19, 11:59 PM (KST)\n📸MMT exclusive photocard\n🎁Winners also get: 1 Signed Polaroid\n\nGrab your CD for a chance to win!\n📲👉 https://t.co/Pd0VHciUUr\n\n#LOONA #이달의소녀 #LOONA_Fansign with #MMTShop https://t.co/TbHSlb0D4T"
+	},
+	{
 		"created_at": "Sun Jun 12 19:40:09 +0000 2022",
 		"id": 1536067244576448500,
 		"id_str": "1536070873999986692",
