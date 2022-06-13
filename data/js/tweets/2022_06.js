@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 10:29:38 +0000 2022",
+		"id": 1536287271493595100,
+		"id_str": "1536294720292413442",
+		"full_text": "K-POP 대표 여성 아티스트 모음집💚\n\n솔로부터 그룹까지, \n부드러우면서도 강렬한 여성 아티스트들을 \n[EQUAL K-Pop] 플리에서 만나보세요!\n\n지금. 여기. #스포티파이 에서\nhttps://t.co/x2CLyw102I \n\n#EQUAL #LISA #태연 #IU https://t.co/UbThsDJjIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "EQUAL",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x2CLyw102I",
+					"expanded_url": "http://spotify.link/k0n9cLzJOqb",
+					"display_url": "spotify.link/k0n9cLzJOqb",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536208232452001800,
+					"id_str": "1536208232452001793",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVG1P4xVEAEoCKB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVG1P4xVEAEoCKB.png",
+					"url": "https://t.co/UbThsDJjIP",
+					"display_url": "pic.twitter.com/UbThsDJjIP",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1536287271493595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536208232452001800,
+					"id_str": "1536208232452001793",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVG1P4xVEAEoCKB.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVG1P4xVEAEoCKB.png",
+					"url": "https://t.co/UbThsDJjIP",
+					"display_url": "pic.twitter.com/UbThsDJjIP",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1536287271493595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1536208255642239000,
+					"id_str": "1536208255642238977",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVG1RPKUAAE4Bzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVG1RPKUAAE4Bzo.jpg",
+					"url": "https://t.co/UbThsDJjIP",
+					"display_url": "pic.twitter.com/UbThsDJjIP",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1536287271493595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536208255612883000,
+					"id_str": "1536208255612882944",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVG1RPDUEAAaQHe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVG1RPDUEAAaQHe.jpg",
+					"url": "https://t.co/UbThsDJjIP",
+					"display_url": "pic.twitter.com/UbThsDJjIP",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1536287271493595138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/8QxVSpPcFz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QxVSpPcFz",
+							"expanded_url": "http://spoti.fi/3PxAH6w",
+							"display_url": "spoti.fi/3PxAH6w",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107421,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "K-POP 대표 여성 아티스트 모음집💚\n\n솔로부터 그룹까지, \n부드러우면서도 강렬한 여성 아티스트들을 \n[EQUAL K-Pop] 플리에서 만나보세요!\n\n지금. 여기. #스포티파이 에서\nhttps://t.co/x2CLyw102I \n\n#EQUAL #LISA #태연 #IU https://t.co/UbThsDJjIP"
+	},
+	{
 		"created_at": "Mon Jun 13 09:40:09 +0000 2022",
 		"id": 1536281459639476200,
 		"id_str": "1536282267173150720",
