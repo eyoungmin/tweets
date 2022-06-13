@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 07:06:52 +0000 2022",
+		"id": 1536241969189441500,
+		"id_str": "1536243688724017152",
+		"full_text": "#윤여정 VS #이성경 #탕웨이 vs #지수 #제니 VS #태연 스타들이 선택한 같은 드레스 다른 룩, 당신의 원 픽은? https://t.co/GUTTDjCQgG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤여정",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이성경",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "탕웨이",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						32,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GUTTDjCQgG",
+					"expanded_url": "https://www.allurekorea.com/?p=173431&ddw=113077&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=173431&ddw=…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38562,
+			"friends_count": 1,
+			"listed_count": 291,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1652768698",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#윤여정 VS #이성경 #탕웨이 vs #지수 #제니 VS #태연 스타들이 선택한 같은 드레스 다른 룩, 당신의 원 픽은? https://t.co/GUTTDjCQgG"
+	},
+	{
 		"created_at": "Mon Jun 13 06:48:22 +0000 2022",
 		"id": 1536235206671143000,
 		"id_str": "1536239036829839366",
