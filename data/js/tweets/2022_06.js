@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 06:48:22 +0000 2022",
+		"id": 1536235206671143000,
+		"id_str": "1536239036829839366",
+		"full_text": "[#NEWS] '징크스의 연인' 서현X나인우, 특별한 첫 만남 예고…\"찾았다, 왕자님!\"\n▶ https://t.co/mEumLUF4r6\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/HXGLcPopkM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mEumLUF4r6",
+					"expanded_url": "http://naver.me/F5L6RhoC",
+					"display_url": "naver.me/F5L6RhoC",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536235115621142500,
+					"id_str": "1536235115621142530",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FVHNssYUUAIaIM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVHNssYUUAIaIM0.jpg",
+					"url": "https://t.co/HXGLcPopkM",
+					"display_url": "pic.twitter.com/HXGLcPopkM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1536235206671142912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536235115621142500,
+					"id_str": "1536235115621142530",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FVHNssYUUAIaIM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVHNssYUUAIaIM0.jpg",
+					"url": "https://t.co/HXGLcPopkM",
+					"display_url": "pic.twitter.com/HXGLcPopkM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1536235206671142912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536235115625341000,
+					"id_str": "1536235115625340928",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FVHNssZUYAAmMEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVHNssZUYAAmMEB.jpg",
+					"url": "https://t.co/HXGLcPopkM",
+					"display_url": "pic.twitter.com/HXGLcPopkM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1536235206671142912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60524,
+			"friends_count": 12,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현X나인우, 특별한 첫 만남 예고…\"찾았다, 왕자님!\"\n▶ https://t.co/mEumLUF4r6\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/HXGLcPopkM"
+	},
+	{
+		"created_at": "Mon Jun 13 06:40:17 +0000 2022",
+		"id": 1536152842259398700,
+		"id_str": "1536236998536708096",
+		"full_text": "#이달의소녀 #LOONA\nLOOΠΔ Summer Special Mini Album [Flip That]\nMeet &amp; Call Event OPEN!\n\n🤍1부 : 대면 팬사인회\n🤍2부 : 영상통화 팬사인회\n\n✨메이크스타 한정 홀로그램 포토카드 증정✨ \n*포토카드 이벤트와 동일한 이미지\n\n📅2022.06.13 ~ 2022.06.19 23:59(KST)\n🔗https://t.co/HGHtHeeWSg https://t.co/eNlkIGyxw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGHtHeeWSg",
+					"expanded_url": "https://bit.ly/3QkD0KA",
+					"display_url": "bit.ly/3QkD0KA",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536152815952728000,
+					"id_str": "1536152815952728064",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGC2OOUEAAHroI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGC2OOUEAAHroI.jpg",
+					"url": "https://t.co/eNlkIGyxw8",
+					"display_url": "pic.twitter.com/eNlkIGyxw8",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1536152842259398666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536152815952728000,
+					"id_str": "1536152815952728064",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGC2OOUEAAHroI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGC2OOUEAAHroI.jpg",
+					"url": "https://t.co/eNlkIGyxw8",
+					"display_url": "pic.twitter.com/eNlkIGyxw8",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1536152842259398666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536152816070164500,
+					"id_str": "1536152816070164480",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGC2OqUAAAxbsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGC2OqUAAAxbsb.jpg",
+					"url": "https://t.co/eNlkIGyxw8",
+					"display_url": "pic.twitter.com/eNlkIGyxw8",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1536152842259398666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536152816200274000,
+					"id_str": "1536152816200273920",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGC2PJVUAAyAhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGC2PJVUAAyAhg.jpg",
+					"url": "https://t.co/eNlkIGyxw8",
+					"display_url": "pic.twitter.com/eNlkIGyxw8",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1536152842259398666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536152816342868000,
+					"id_str": "1536152816342867969",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVGC2PrVIAEqMnL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVGC2PrVIAEqMnL.jpg",
+					"url": "https://t.co/eNlkIGyxw8",
+					"display_url": "pic.twitter.com/eNlkIGyxw8",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1536152842259398666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2866496456,
+			"id_str": "2866496456",
+			"name": "MAKESTAR",
+			"screen_name": "Makestarcorp",
+			"location": "seoul,korea",
+			"description": "ITZY (CHECKMATE) STANDARD Ver. PHOTO CARD EVENT\n\n📆2022.06.03 13:00 ~ 07.14 23:59 (KST)\n🔗https://t.co/CJY4WkVihn\n\n*For general inquiries, please reach https://t.co/00LtDFTz4n",
+			"url": "https://t.co/61Q4bwNjMZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61Q4bwNjMZ",
+							"expanded_url": "https://www.makestar.com/",
+							"display_url": "makestar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CJY4WkVihn",
+							"expanded_url": "http://bit.ly/3x4Mfpj",
+							"display_url": "bit.ly/3x4Mfpj",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/00LtDFTz4n",
+							"expanded_url": "http://makestar.com/faq",
+							"display_url": "makestar.com/faq",
+							"indices": [
+								150,
+								173
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29490,
+			"friends_count": 85,
+			"listed_count": 137,
+			"created_at": "Mon Oct 20 05:51:54 +0000 2014",
+			"favourites_count": 4211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453984290854027264/FGWuuZ3J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453984290854027264/FGWuuZ3J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2866496456/1654233064",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 1281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\nLOOΠΔ Summer Special Mini Album [Flip That]\nMeet &amp; Call Event OPEN!\n\n🤍1부 : 대면 팬사인회\n🤍2부 : 영상통화 팬사인회\n\n✨메이크스타 한정 홀로그램 포토카드 증정✨ \n*포토카드 이벤트와 동일한 이미지\n\n📅2022.06.13 ~ 2022.06.19 23:59(KST)\n🔗https://t.co/HGHtHeeWSg https://t.co/eNlkIGyxw8"
+	},
+	{
 		"created_at": "Mon Jun 13 05:40:27 +0000 2022",
 		"id": 1536154895908147200,
 		"id_str": "1536221942268760069",
