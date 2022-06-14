@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 09:40:15 +0000 2022",
+		"id": 1536634554298925000,
+		"id_str": "1536644677771964417",
+		"full_text": "누구에게나 숨을 곳은 필요하더라고요. \n잠시 숨을 고르고 용기 내어 발을 내디뎌 봅니다. \n우린 결코 혼자가 아니니까요. \n- 폴킴 \n\n폴킴 (Paul Kim) - One More Time [Official Video]\n🔗https://t.co/jr7bnEf7mV\n\n#폴킴 #PaulKim \n#Star #OneMoreTime \n#OfficialVideo https://t.co/ac1HAfUy1u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "폴킴",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "PaulKim",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "OneMoreTime",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "OfficialVideo",
+					"indices": [
+						183,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jr7bnEf7mV",
+					"expanded_url": "https://youtu.be/ok6naQEuf5g",
+					"display_url": "youtu.be/ok6naQEuf5g",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536591593972437000,
+					"id_str": "1536591593972436992",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536591593972436992/pu/img/HDvteP9IKS0nyTO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536591593972436992/pu/img/HDvteP9IKS0nyTO3.jpg",
+					"url": "https://t.co/ac1HAfUy1u",
+					"display_url": "pic.twitter.com/ac1HAfUy1u",
+					"expanded_url": "https://twitter.com/paulkim_twt/status/1536634554298925056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536591593972437000,
+					"id_str": "1536591593972436992",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536591593972436992/pu/img/HDvteP9IKS0nyTO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536591593972436992/pu/img/HDvteP9IKS0nyTO3.jpg",
+					"url": "https://t.co/ac1HAfUy1u",
+					"display_url": "pic.twitter.com/ac1HAfUy1u",
+					"expanded_url": "https://twitter.com/paulkim_twt/status/1536634554298925056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53220,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536591593972436992/pu/vid/1280x720/GNcmVxsYTWlAQVda.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536591593972436992/pu/vid/480x270/nRb9ga6QXZXBfQgr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1536591593972436992/pu/pl/c8jde8fkMrbTnRjO.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1536591593972436992/pu/vid/640x360/UTtVTe7wsVVUZUN2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 774874937328754700,
+			"id_str": "774874937328754688",
+			"name": "폴킴 (Paul Kim)",
+			"screen_name": "paulkim_twt",
+			"location": "",
+			"description": "폴킴의 공식 Twitter입니다.💚\nOfficial Twitter for PaulKim\n\n폴킴 전국투어 '투성이' 공식 MD 👇",
+			"url": "https://t.co/0BFgftAhJ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0BFgftAhJ9",
+							"expanded_url": "https://linktr.ee/paulkimstar",
+							"display_url": "linktr.ee/paulkimstar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6395,
+			"friends_count": 22,
+			"listed_count": 13,
+			"created_at": "Sun Sep 11 07:39:16 +0000 2016",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535114055425622016/SXZJtbHh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535114055425622016/SXZJtbHh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/774874937328754688/1654834687",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누구에게나 숨을 곳은 필요하더라고요. \n잠시 숨을 고르고 용기 내어 발을 내디뎌 봅니다. \n우린 결코 혼자가 아니니까요. \n- 폴킴 \n\n폴킴 (Paul Kim) - One More Time [Official Video]\n🔗https://t.co/jr7bnEf7mV\n\n#폴킴 #PaulKim \n#Star #OneMoreTime \n#OfficialVideo https://t.co/ac1HAfUy1u"
+	},
+	{
+		"created_at": "Tue Jun 14 09:40:10 +0000 2022",
+		"id": 1536631137803505700,
+		"id_str": "1536644656238317570",
+		"full_text": "✨이달의 소녀 : 무엇이든 물어보세요✨\n이달의 소녀 멤버들에게 궁금했던 점들을 직접 물어볼 수 있는 '무엇이든 물어보세요'를 바로 지금! 이 게시글의 답글로 남겨주시면 VIBE가 직접 물어볼 예정입니다. 많은 참여 부탁드려요:) @loonatheworld https://t.co/E0WI2cvsPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						128,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536624802865172500,
+					"id_str": "1536624802865172481",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FVMwHefVUAER7ge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVMwHefVUAER7ge.jpg",
+					"url": "https://t.co/E0WI2cvsPE",
+					"display_url": "pic.twitter.com/E0WI2cvsPE",
+					"expanded_url": "https://twitter.com/vibemusic_kr/status/1536631137803505664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536624802865172500,
+					"id_str": "1536624802865172481",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FVMwHefVUAER7ge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVMwHefVUAER7ge.jpg",
+					"url": "https://t.co/E0WI2cvsPE",
+					"display_url": "pic.twitter.com/E0WI2cvsPE",
+					"expanded_url": "https://twitter.com/vibemusic_kr/status/1536631137803505664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024559432116523000,
+			"id_str": "1024559432116523008",
+			"name": "NAVER VIBE",
+			"screen_name": "vibemusic_kr",
+			"location": "Republic of Korea",
+			"description": "내 돈은 내가 듣는 음악에! #내돈내듣",
+			"url": "https://t.co/MS20TmpeMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MS20TmpeMR",
+							"expanded_url": "http://bit.ly/2TPRe9I",
+							"display_url": "bit.ly/2TPRe9I",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7984,
+			"friends_count": 61,
+			"listed_count": 40,
+			"created_at": "Wed Aug 01 07:36:18 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427806503323389954/Bb4BkBuz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427806503323389954/Bb4BkBuz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024559432116523008/1629247171",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 589,
+		"favorite_count": 2324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨이달의 소녀 : 무엇이든 물어보세요✨\n이달의 소녀 멤버들에게 궁금했던 점들을 직접 물어볼 수 있는 '무엇이든 물어보세요'를 바로 지금! 이 게시글의 답글로 남겨주시면 VIBE가 직접 물어볼 예정입니다. 많은 참여 부탁드려요:) @loonatheworld https://t.co/E0WI2cvsPE"
+	},
+	{
 		"created_at": "Tue Jun 14 02:40:21 +0000 2022",
 		"id": 1536536250655867000,
 		"id_str": "1536539006606909440",
