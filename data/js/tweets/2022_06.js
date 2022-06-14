@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 19:40:09 +0000 2022",
+		"id": 1536792333911457800,
+		"id_str": "1536795650112868354",
+		"full_text": "George’s Rockstars was set up in memory of a wonderful 6-year-old named George. Their mission is to bring smiles to children in hospital, starting with funding music therapy. Find out how you can support them at https://t.co/Fy2SLBM5tH Will 💚 https://t.co/2O0sL0C14p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fy2SLBM5tH",
+					"expanded_url": "https://georgesrockstars.com/support-us/",
+					"display_url": "georgesrockstars.com/support-us/",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536792330644103200,
+					"id_str": "1536792330644103172",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FVPIe4GWIAQDDBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVPIe4GWIAQDDBN.jpg",
+					"url": "https://t.co/2O0sL0C14p",
+					"display_url": "pic.twitter.com/2O0sL0C14p",
+					"expanded_url": "https://twitter.com/coldplay/status/1536792333911457792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536792330644103200,
+					"id_str": "1536792330644103172",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FVPIe4GWIAQDDBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVPIe4GWIAQDDBN.jpg",
+					"url": "https://t.co/2O0sL0C14p",
+					"display_url": "pic.twitter.com/2O0sL0C14p",
+					"expanded_url": "https://twitter.com/coldplay/status/1536792333911457792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23608256,
+			"friends_count": 776,
+			"listed_count": 42500,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "George’s Rockstars was set up in memory of a wonderful 6-year-old named George. Their mission is to bring smiles to children in hospital, starting with funding music therapy. Find out how you can support them at https://t.co/Fy2SLBM5tH Will 💚 https://t.co/2O0sL0C14p"
+	},
+	{
 		"created_at": "Tue Jun 14 16:40:10 +0000 2022",
 		"id": 1536748073266909200,
 		"id_str": "1536750352296443905",
