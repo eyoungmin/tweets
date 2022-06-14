@@ -1,6 +1,702 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 10:40:38 +0000 2022",
+		"id": 1536646050022592500,
+		"id_str": "1536659873932496896",
+		"full_text": "[NOTICE] 백예린 싱글앨범 ‘물고기' 음반 판매 안내\n⠀\n백예린 '물고기'가 Special Edition CD로 발매됩니다🫧 이번 CD는 예약 구매 수량을 포함한 한정 수량만큼 제작됩니다. 추후 재판 예정이 없는 시즌 음반이니 놓치지 마세요!\n\n#백예린 #yerinbaek #물고기 #pisces https://t.co/1ACoQ0GNlu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "pisces",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536646035967455200,
+					"id_str": "1536646035967455233",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNDbZ9aMAEyp7W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNDbZ9aMAEyp7W.jpg",
+					"url": "https://t.co/1ACoQ0GNlu",
+					"display_url": "pic.twitter.com/1ACoQ0GNlu",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1536646050022592512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536646035967455200,
+					"id_str": "1536646035967455233",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNDbZ9aMAEyp7W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNDbZ9aMAEyp7W.jpg",
+					"url": "https://t.co/1ACoQ0GNlu",
+					"display_url": "pic.twitter.com/1ACoQ0GNlu",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1536646050022592512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536646035963261000,
+					"id_str": "1536646035963260929",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNDbZ8aMAEH-2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNDbZ8aMAEH-2e.jpg",
+					"url": "https://t.co/1ACoQ0GNlu",
+					"display_url": "pic.twitter.com/1ACoQ0GNlu",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1536646050022592512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536646035971649500,
+					"id_str": "1536646035971649536",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNDbZ-aMAAi6WV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNDbZ-aMAAi6WV.jpg",
+					"url": "https://t.co/1ACoQ0GNlu",
+					"display_url": "pic.twitter.com/1ACoQ0GNlu",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1536646050022592512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536646036013613000,
+					"id_str": "1536646036013613056",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNDbaIagAAeiBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNDbaIagAAeiBq.jpg",
+					"url": "https://t.co/1ACoQ0GNlu",
+					"display_url": "pic.twitter.com/1ACoQ0GNlu",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1536646050022592512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43798,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 979,
+		"favorite_count": 1064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 백예린 싱글앨범 ‘물고기' 음반 판매 안내\n⠀\n백예린 '물고기'가 Special Edition CD로 발매됩니다🫧 이번 CD는 예약 구매 수량을 포함한 한정 수량만큼 제작됩니다. 추후 재판 예정이 없는 시즌 음반이니 놓치지 마세요!\n\n#백예린 #yerinbaek #물고기 #pisces https://t.co/1ACoQ0GNlu"
+	},
+	{
+		"created_at": "Tue Jun 14 10:40:32 +0000 2022",
+		"id": 1536646068498485200,
+		"id_str": "1536659848313585668",
+		"full_text": "* Keyrings can only be purchasable as a set\n* Price can vary depending on discount deals each stockists have\n* Release date or set components are subject to change in case supply issues arise. It will be notified separately where such change occurs.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1536646066237751300,
+		"in_reply_to_status_id_str": "1536646066237751297",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43798,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "* Keyrings can only be purchasable as a set\n* Price can vary depending on discount deals each stockists have\n* Release date or set components are subject to change in case supply issues arise. It will be notified separately where such change occurs."
+	},
+	{
+		"created_at": "Tue Jun 14 10:40:09 +0000 2022",
+		"id": 1536646061351383000,
+		"id_str": "1536659754650587136",
+		"full_text": "[Notice] Yerin Baek single ‘Pisces’ CD pre-order\n⠀\nPre-order for Yerin’s ‘Pisces’ special edition CD will be available soon. This will be a limited edition made to pre-order amount only. Don’t miss out on the chance to get hold of it as there won’t be any re-prints.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43798,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 225,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[Notice] Yerin Baek single ‘Pisces’ CD pre-order\n⠀\nPre-order for Yerin’s ‘Pisces’ special edition CD will be available soon. This will be a limited edition made to pre-order amount only. Don’t miss out on the chance to get hold of it as there won’t be any re-prints."
+	},
+	{
+		"created_at": "Tue Jun 14 10:32:49 +0000 2022",
+		"id": 1536646064669077500,
+		"id_str": "1536657907520897024",
+		"full_text": "Option 2) Pisces Box 🐠 + The Loved One Keyring 🤍\nSame box set above plus a heart shaped keyring. The keyring is made from white silver plated aluminium with engraved details on the hook and the pendant.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1536646062773239800,
+		"in_reply_to_status_id_str": "1536646062773239809",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43798,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Option 2) Pisces Box 🐠 + The Loved One Keyring 🤍\nSame box set above plus a heart shaped keyring. The keyring is made from white silver plated aluminium with engraved details on the hook and the pendant."
+	},
+	{
+		"created_at": "Tue Jun 14 10:32:49 +0000 2022",
+		"id": 1536646066237751300,
+		"id_str": "1536657907323834370",
+		"full_text": "▫️pre-order dates: 17/June/2022 – 14/July/2022\n(available for purchase on all online domestic album sale platforms)\n▫️release date : 15/July/2022\n▫️two options of CD box set only or CD box and a keyring set",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1536646064669077500,
+		"in_reply_to_status_id_str": "1536646064669077504",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43798,
+			"friends_count": 2,
+			"listed_count": 218,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "▫️pre-order dates: 17/June/2022 – 14/July/2022\n(available for purchase on all online domestic album sale platforms)\n▫️release date : 15/July/2022\n▫️two options of CD box set only or CD box and a keyring set"
+	},
+	{
 		"created_at": "Tue Jun 14 09:40:15 +0000 2022",
 		"id": 1536634554298925000,
 		"id_str": "1536644677771964417",
