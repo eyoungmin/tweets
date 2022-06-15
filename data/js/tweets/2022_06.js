@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 06:40:22 +0000 2022",
+		"id": 1536954177544667100,
+		"id_str": "1536961799169400834",
+		"full_text": "✨aespa Showcase SYNK in LA!✨\n2nd show added on June 27\n\n📍 YouTube Theater on June 27\n📢 Tickets on sale Fri., June 17 at 3PM PT \n🎟 https://t.co/oQfih0ByMO\n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls https://t.co/nUndEyAG9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "aespaShowcaseSYNKinLA",
+					"indices": [
+						174,
+						196
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						205,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQfih0ByMO",
+					"expanded_url": "http://bit.ly/Aespa62722TW",
+					"display_url": "bit.ly/Aespa62722TW",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536954055326859300,
+					"id_str": "1536954055326859264",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRbkffagAAmSJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRbkffagAAmSJk.jpg",
+					"url": "https://t.co/nUndEyAG9r",
+					"display_url": "pic.twitter.com/nUndEyAG9r",
+					"expanded_url": "https://twitter.com/aespa_official/status/1536954177544667138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536954055326859300,
+					"id_str": "1536954055326859264",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRbkffagAAmSJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRbkffagAAmSJk.jpg",
+					"url": "https://t.co/nUndEyAG9r",
+					"display_url": "pic.twitter.com/nUndEyAG9r",
+					"expanded_url": "https://twitter.com/aespa_official/status/1536954177544667138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2739291,
+			"friends_count": 2,
+			"listed_count": 8625,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3333,
+		"favorite_count": 10425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨aespa Showcase SYNK in LA!✨\n2nd show added on June 27\n\n📍 YouTube Theater on June 27\n📢 Tickets on sale Fri., June 17 at 3PM PT \n🎟 https://t.co/oQfih0ByMO\n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls https://t.co/nUndEyAG9r"
+	},
+	{
 		"created_at": "Wed Jun 15 04:48:52 +0000 2022",
 		"id": 1536929188791591000,
 		"id_str": "1536933739225153536",
