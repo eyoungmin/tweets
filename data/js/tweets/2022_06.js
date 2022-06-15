@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 15:40:37 +0000 2022",
+		"id": 1537093352620929000,
+		"id_str": "1537097755096715266",
+		"full_text": "Girls' Diary 💙🌙⭐️🦋\n\nhttps://t.co/iIDMh0oF4o \n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iIDMh0oF4o",
+					"expanded_url": "https://vt.tiktok.com/ZSdWcMNEa/?k=1",
+					"display_url": "vt.tiktok.com/ZSdWcMNEa/?k=1",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/0IPd3jaFr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0IPd3jaFr3",
+							"expanded_url": "http://apple.co/UpNextAespa",
+							"display_url": "apple.co/UpNextAespa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2742245,
+			"friends_count": 2,
+			"listed_count": 8635,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7877,
+		"favorite_count": 17095,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Diary 💙🌙⭐️🦋\n\nhttps://t.co/iIDMh0oF4o \n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Wed Jun 15 15:40:28 +0000 2022",
+		"id": 1537087568373698600,
+		"id_str": "1537097716718784512",
+		"full_text": "ORBIT!💫\nThank you so much for your love and support towards the 2022 LOONA 1st World Tour : [LOONATHEWORLD]!\nDue to overwhelming demand, 4 additional shows have been added to America!\n\n▶️Atlanta\n▶️Dallas\n▶️Houston\n▶️Mexico City*\n🎟️Tickets for 3 US cities open June 16, 8:00AM KST https://t.co/mkwKiMqN9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537087563030069200,
+					"id_str": "1537087563030069251",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVTU_qcUAAMLJQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVTU_qcUAAMLJQG.jpg",
+					"url": "https://t.co/mkwKiMqN9R",
+					"display_url": "pic.twitter.com/mkwKiMqN9R",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1537087568373698560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537087563030069200,
+					"id_str": "1537087563030069251",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FVTU_qcUAAMLJQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVTU_qcUAAMLJQG.jpg",
+					"url": "https://t.co/mkwKiMqN9R",
+					"display_url": "pic.twitter.com/mkwKiMqN9R",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1537087568373698560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148218,
+			"friends_count": 103,
+			"listed_count": 320,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1273,
+		"favorite_count": 4996,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ORBIT!💫\nThank you so much for your love and support towards the 2022 LOONA 1st World Tour : [LOONATHEWORLD]!\nDue to overwhelming demand, 4 additional shows have been added to America!\n\n▶️Atlanta\n▶️Dallas\n▶️Houston\n▶️Mexico City*\n🎟️Tickets for 3 US cities open June 16, 8:00AM KST https://t.co/mkwKiMqN9R"
+	},
+	{
 		"created_at": "Wed Jun 15 15:11:37 +0000 2022",
 		"id": 1537087535658193000,
 		"id_str": "1537090458584641541",
