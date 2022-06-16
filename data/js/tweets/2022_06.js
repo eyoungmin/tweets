@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 10:40:09 +0000 2022",
+		"id": 1537360628498968600,
+		"id_str": "1537384530021056512",
+		"full_text": "JUNNY - Color Me (Feat.CHUNG HA)\n\n🗓 D-7\n2022.06.23 THU 18:00 (KST)\n\n#JUNNY #주니\n#Color_Me #컬러미\n#CHUNGHA #청하\n#MAUVECOMPANY #모브컴퍼니 https://t.co/BshS1S0TH7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUNNY",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "주니",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "Color_Me",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "컬러미",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "MAUVECOMPANY",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"text": "모브컴퍼니",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537360617803493400,
+					"id_str": "1537360617803493376",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXNVivaMAAKOiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXNVivaMAAKOiY.jpg",
+					"url": "https://t.co/BshS1S0TH7",
+					"display_url": "pic.twitter.com/BshS1S0TH7",
+					"expanded_url": "https://twitter.com/mauvecompany/status/1537360628498968580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537360617803493400,
+					"id_str": "1537360617803493376",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXNVivaMAAKOiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXNVivaMAAKOiY.jpg",
+					"url": "https://t.co/BshS1S0TH7",
+					"display_url": "pic.twitter.com/BshS1S0TH7",
+					"expanded_url": "https://twitter.com/mauvecompany/status/1537360628498968580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1352557016028336000,
+			"id_str": "1352557016028336128",
+			"name": "모브컴퍼니 (mauve company)",
+			"screen_name": "mauvecompany",
+			"location": "",
+			"description": "mauve company official twitter",
+			"url": "https://t.co/g5isHLpQWG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g5isHLpQWG",
+							"expanded_url": "http://mauve-company.com/",
+							"display_url": "mauve-company.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1727,
+			"friends_count": 1,
+			"listed_count": 18,
+			"created_at": "Fri Jan 22 10:01:48 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352557148144693248/cBauChxE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352557148144693248/cBauChxE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1352557016028336128/1611309851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JUNNY - Color Me (Feat.CHUNG HA)\n\n🗓 D-7\n2022.06.23 THU 18:00 (KST)\n\n#JUNNY #주니\n#Color_Me #컬러미\n#CHUNGHA #청하\n#MAUVECOMPANY #모브컴퍼니 https://t.co/BshS1S0TH7"
+	},
+	{
 		"created_at": "Thu Jun 16 09:45:37 +0000 2022",
 		"id": 1537361035363254300,
 		"id_str": "1537370803850862593",
