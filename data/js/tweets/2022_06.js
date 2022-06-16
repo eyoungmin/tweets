@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 01:49:05 +0000 2022",
+		"id": 1537249406034256000,
+		"id_str": "1537250881069981697",
+		"full_text": "[#NEWS] 서현, 첫 등장부터 싱크로율 100%… 사랑스러운 매력 폭발 ('징크스의 연인')\n▶ https://t.co/r1G7gxEqcO\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/kB5eOxIbsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r1G7gxEqcO",
+					"expanded_url": "http://naver.me/xqvcg2Bl",
+					"display_url": "naver.me/xqvcg2Bl",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537249385847079000,
+					"id_str": "1537249385847078912",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FVVoK_aaQAAYY0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVVoK_aaQAAYY0_.jpg",
+					"url": "https://t.co/kB5eOxIbsB",
+					"display_url": "pic.twitter.com/kB5eOxIbsB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537249406034255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537249385847079000,
+					"id_str": "1537249385847078912",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FVVoK_aaQAAYY0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVVoK_aaQAAYY0_.jpg",
+					"url": "https://t.co/kB5eOxIbsB",
+					"display_url": "pic.twitter.com/kB5eOxIbsB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537249406034255873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60623,
+			"friends_count": 12,
+			"listed_count": 270,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 첫 등장부터 싱크로율 100%… 사랑스러운 매력 폭발 ('징크스의 연인')\n▶ https://t.co/r1G7gxEqcO\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/kB5eOxIbsB"
+	},
+	{
+		"created_at": "Thu Jun 16 01:33:15 +0000 2022",
+		"id": 1537238651490693000,
+		"id_str": "1537246896271417344",
+		"full_text": "🌳티켓 가격\n전석 110,000원\n⠀\n🌳티켓 오픈\n2022.6.16 (목) 오후 2시\n인터파크 https://t.co/007hHfspos\n\n#tvt #thevolunteers #thisistvtclub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvt",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "thevolunteers",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/007hHfspos",
+					"expanded_url": "https://tickets.interpark.com/goods/22007534",
+					"display_url": "tickets.interpark.com/goods/22007534",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537238629441245200,
+		"in_reply_to_status_id_str": "1537238629441245184",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6939,
+			"friends_count": 2,
+			"listed_count": 48,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌳티켓 가격\n전석 110,000원\n⠀\n🌳티켓 오픈\n2022.6.16 (목) 오후 2시\n인터파크 https://t.co/007hHfspos\n\n#tvt #thevolunteers #thisistvtclub"
+	},
+	{
 		"created_at": "Wed Jun 15 23:40:09 +0000 2022",
 		"id": 1537208346821812200,
 		"id_str": "1537218436048179205",
