@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 22:40:10 +0000 2022",
+		"id": 1537510548299993000,
+		"id_str": "1537565725296033795",
+		"full_text": "Zero waste at @Coldplay achieved ✅\n\n#ColdplayAtlanta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayAtlanta",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465030333,
+			"id_str": "1465030333",
+			"name": "Mercedes-Benz Stadium",
+			"screen_name": "MBStadium",
+			"location": "Atlanta, GA",
+			"description": "A World-Class Experience in the Heart of Atlanta - The official Twitter account of Mercedes-Benz Stadium.",
+			"url": "https://t.co/bwQ1R2tMGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bwQ1R2tMGD",
+							"expanded_url": "http://www.mercedesbenzstadium.com",
+							"display_url": "mercedesbenzstadium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85134,
+			"friends_count": 118,
+			"listed_count": 334,
+			"created_at": "Tue May 28 15:48:01 +0000 2013",
+			"favourites_count": 10890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534637987442589696/c-LSUElE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534637987442589696/c-LSUElE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465030333/1592581896",
+			"profile_link_color": "A71930",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 552,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Zero waste at @Coldplay achieved ✅\n\n#ColdplayAtlanta"
+	},
+	{
 		"created_at": "Thu Jun 16 15:11:51 +0000 2022",
 		"id": 1537450758584488000,
 		"id_str": "1537452904675545088",
