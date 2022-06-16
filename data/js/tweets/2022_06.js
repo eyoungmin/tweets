@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 02:40:09 +0000 2022",
+		"id": 1536996938465398800,
+		"id_str": "1537263734363676675",
+		"full_text": "신용재 (2F) '그댄 꽃 (Feat. 청하)'\nRecording Behind The Scenes\n\n🔗 https://t.co/AMPfJxbvcS\n\n#신용재 #ShinYongJae #2F \n#청하 #Chungha @CHUNGHA_MNHent\n#사계 #TheFourSeasons\n#MILLIONMARKET #밀리언마켓 https://t.co/Ulrd1ULkIL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신용재",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "ShinYongJae",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "2F",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Chungha",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "사계",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "TheFourSeasons",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "MILLIONMARKET",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "밀리언마켓",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AMPfJxbvcS",
+					"expanded_url": "https://youtu.be/GhkOiCfFd6s",
+					"display_url": "youtu.be/GhkOiCfFd6s",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536970538085625900,
+					"id_str": "1536970538085625856",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRqj6jVsAA06Tr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRqj6jVsAA06Tr.jpg",
+					"url": "https://t.co/Ulrd1ULkIL",
+					"display_url": "pic.twitter.com/Ulrd1ULkIL",
+					"expanded_url": "https://twitter.com/million_market/status/1536996938465398786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536970538085625900,
+					"id_str": "1536970538085625856",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FVRqj6jVsAA06Tr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVRqj6jVsAA06Tr.jpg",
+					"url": "https://t.co/Ulrd1ULkIL",
+					"display_url": "pic.twitter.com/Ulrd1ULkIL",
+					"expanded_url": "https://twitter.com/million_market/status/1536996938465398786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4298169078,
+			"id_str": "4298169078",
+			"name": "MILLION MARKET",
+			"screen_name": "million_market",
+			"location": "",
+			"description": "MILLION MARKET Official Twitter Page",
+			"url": "https://t.co/CkN09SrHVD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CkN09SrHVD",
+							"expanded_url": "http://www.million-market.com/",
+							"display_url": "million-market.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2765,
+			"friends_count": 3,
+			"listed_count": 31,
+			"created_at": "Fri Nov 20 06:49:47 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072442958073475072/h9sFRokr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072442958073475072/h9sFRokr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4298169078/1544525449",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신용재 (2F) '그댄 꽃 (Feat. 청하)'\nRecording Behind The Scenes\n\n🔗 https://t.co/AMPfJxbvcS\n\n#신용재 #ShinYongJae #2F \n#청하 #Chungha @CHUNGHA_MNHent\n#사계 #TheFourSeasons\n#MILLIONMARKET #밀리언마켓 https://t.co/Ulrd1ULkIL"
+	},
+	{
 		"created_at": "Thu Jun 16 01:49:05 +0000 2022",
 		"id": 1537249406034256000,
 		"id_str": "1537250881069981697",
