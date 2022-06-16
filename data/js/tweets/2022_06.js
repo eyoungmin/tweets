@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 09:45:37 +0000 2022",
+		"id": 1537361035363254300,
+		"id_str": "1537370803850862593",
+		"full_text": "IDOLCHAMP X MBC RADIO\n\n📻라디오에서 흘러나오는~ 🎶\n어..?이거 내 최애 노래인데!😮\n\n🕛12 PM 정오의 희망곡\n🕗8 PM 갓세븐 영재의 친한친구\n🕐2AM 아이돌 스테이션\n\nMBC 라디오에서 최애 홍보 가보자고!\n\nVote 👉 https://t.co/IelIlcdqV9\n\n#DRIPPIN #Kep1er #LOONA #KARD #fromis_9 #aespa #WONHO https://t.co/9oQ6gYKyH5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "fromis_9",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						210,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IelIlcdqV9",
+					"expanded_url": "https://bit.ly/39xXhLV",
+					"display_url": "bit.ly/39xXhLV",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537361001850753000,
+					"id_str": "1537361001850753025",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+					"url": "https://t.co/9oQ6gYKyH5",
+					"display_url": "pic.twitter.com/9oQ6gYKyH5",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1537361035363254274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537361001850753000,
+					"id_str": "1537361001850753025",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+					"url": "https://t.co/9oQ6gYKyH5",
+					"display_url": "pic.twitter.com/9oQ6gYKyH5",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1537361035363254274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97230,
+			"friends_count": 108,
+			"listed_count": 257,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655078853",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IDOLCHAMP X MBC RADIO\n\n📻라디오에서 흘러나오는~ 🎶\n어..?이거 내 최애 노래인데!😮\n\n🕛12 PM 정오의 희망곡\n🕗8 PM 갓세븐 영재의 친한친구\n🕐2AM 아이돌 스테이션\n\nMBC 라디오에서 최애 홍보 가보자고!\n\nVote 👉 https://t.co/IelIlcdqV9\n\n#DRIPPIN #Kep1er #LOONA #KARD #fromis_9 #aespa #WONHO https://t.co/9oQ6gYKyH5"
+	},
+	{
+		"created_at": "Thu Jun 16 09:40:14 +0000 2022",
+		"id": 1537338089634693000,
+		"id_str": "1537369452123238402",
+		"full_text": "\"연기 찢다 못해 너덜너덜함...너무 잘함!\"\n모두의 마음에 불지른 유죄인간 #이지은 🔥🔥\n⠀\n지금 바로 &lt;#브로커&gt; 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/XEcRQ2XGF9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지은",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "남우주연상_송강호",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						142,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537337993434120200,
+					"id_str": "1537337993434120192",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FVW4woZaQAAH5Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVW4woZaQAAH5Ay.jpg",
+					"url": "https://t.co/XEcRQ2XGF9",
+					"display_url": "pic.twitter.com/XEcRQ2XGF9",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1537338089634693120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537337993434120200,
+					"id_str": "1537337993434120192",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FVW4woZaQAAH5Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVW4woZaQAAH5Ay.jpg",
+					"url": "https://t.co/XEcRQ2XGF9",
+					"display_url": "pic.twitter.com/XEcRQ2XGF9",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1537338089634693120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330939,
+			"friends_count": 10699,
+			"listed_count": 250,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1655111623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 2230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"연기 찢다 못해 너덜너덜함...너무 잘함!\"\n모두의 마음에 불지른 유죄인간 #이지은 🔥🔥\n⠀\n지금 바로 &lt;#브로커&gt; 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/XEcRQ2XGF9"
+	},
+	{
+		"created_at": "Thu Jun 16 09:40:09 +0000 2022",
+		"id": 1537359546879946800,
+		"id_str": "1537369430656704513",
+		"full_text": "세경 언니 이렇게 멋지기\n있기?! 없기?!🤩\n대체 못하는 게 뭔지 모르겠는\n바닐라코의 곤듀님👸\n💞세경 배우 보러 가요💞\n⠀\n📝 https://t.co/uXJzGOTkjM\n⠀\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/ceRHdmmfZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uXJzGOTkjM",
+					"expanded_url": "https://youtu.be/0rJq1YguMLs",
+					"display_url": "youtu.be/0rJq1YguMLs",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537359531885609000,
+					"id_str": "1537359531885608961",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXMWVYaQAEeuzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXMWVYaQAEeuzC.jpg",
+					"url": "https://t.co/ceRHdmmfZI",
+					"display_url": "pic.twitter.com/ceRHdmmfZI",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1537359546879946752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537359531885609000,
+					"id_str": "1537359531885608961",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXMWVYaQAEeuzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXMWVYaQAEeuzC.jpg",
+					"url": "https://t.co/ceRHdmmfZI",
+					"display_url": "pic.twitter.com/ceRHdmmfZI",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1537359546879946752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4334,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세경 언니 이렇게 멋지기\n있기?! 없기?!🤩\n대체 못하는 게 뭔지 모르겠는\n바닐라코의 곤듀님👸\n💞세경 배우 보러 가요💞\n⠀\n📝 https://t.co/uXJzGOTkjM\n⠀\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/ceRHdmmfZI"
+	},
+	{
+		"created_at": "Thu Jun 16 09:29:57 +0000 2022",
+		"id": 1537365029523075000,
+		"id_str": "1537366862677192705",
+		"full_text": "YELO(옐로) ‘체인지데이즈 OST’ Released!!\n❤️ https://t.co/ActhHzTnG4 https://t.co/UGh5xR6YWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ActhHzTnG4",
+					"expanded_url": "https://www.instagram.com/p/Ce3GMTQMgFk/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Ce3GMTQMgFk/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537365020773712000,
+					"id_str": "1537365020773711872",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXRV1FUAAATJlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXRV1FUAAATJlK.jpg",
+					"url": "https://t.co/UGh5xR6YWx",
+					"display_url": "pic.twitter.com/UGh5xR6YWx",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1537365029523075072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537365020773712000,
+					"id_str": "1537365020773711872",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVXRV1FUAAATJlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVXRV1FUAAATJlK.jpg",
+					"url": "https://t.co/UGh5xR6YWx",
+					"display_url": "pic.twitter.com/UGh5xR6YWx",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1537365029523075072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7369,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YELO(옐로) ‘체인지데이즈 OST’ Released!!\n❤️ https://t.co/ActhHzTnG4 https://t.co/UGh5xR6YWx"
+	},
+	{
 		"created_at": "Thu Jun 16 07:40:09 +0000 2022",
 		"id": 1537329772002324500,
 		"id_str": "1537339232183885825",
