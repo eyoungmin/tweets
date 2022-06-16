@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 06:40:12 +0000 2022",
+		"id": 1537284372847820800,
+		"id_str": "1537324141182853120",
+		"full_text": "#멜론 #아이유 #트랙제로\n아이유가 응원하는 트랙제로!\n세상에 없는 명곡과 아티스트, 트랙제로가 다 찾아줄거예요.\n트랙제로 아티스트를 응원해주시면, 매주 선물을 드려요! \n(애플 에어팟 프로 매주 1명🍎)\n\n참여하고 싶다면? 멜론에서 확인해 보세요💨\n👉https://t.co/5C8yN6Htt8 https://t.co/OmRU4qOfhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "트랙제로",
+					"indices": [
+						9,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5C8yN6Htt8",
+					"expanded_url": "http://kko.to/clk5AUi01",
+					"display_url": "kko.to/clk5AUi01",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537274102305931300,
+					"id_str": "1537274102305931265",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537274102305931265/pu/img/b3YLGgbsqAbKNCTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537274102305931265/pu/img/b3YLGgbsqAbKNCTp.jpg",
+					"url": "https://t.co/OmRU4qOfhS",
+					"display_url": "pic.twitter.com/OmRU4qOfhS",
+					"expanded_url": "https://twitter.com/melon/status/1537284372847820800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537274102305931300,
+					"id_str": "1537274102305931265",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537274102305931265/pu/img/b3YLGgbsqAbKNCTp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537274102305931265/pu/img/b3YLGgbsqAbKNCTp.jpg",
+					"url": "https://t.co/OmRU4qOfhS",
+					"display_url": "pic.twitter.com/OmRU4qOfhS",
+					"expanded_url": "https://twitter.com/melon/status/1537284372847820800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15724,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1537274102305931265/pu/pl/_PP4DcxqL7f2gS7R.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537274102305931265/pu/vid/640x360/DnFCG2sb-CS8z3DL.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537274102305931265/pu/vid/480x270/WwTOXljqQYccqVP-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537274102305931265/pu/vid/1280x720/ZFWm3leoHXBQ0wUh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론\n👇🏻EVENT) 주제별 TOP100 곡 추천하고 백만원 경품 받으세요! (~6/30)",
+			"url": "https://t.co/XiKwAOxnP9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiKwAOxnP9",
+							"expanded_url": "http://kko.to/melontop100_tw",
+							"display_url": "kko.to/melontop100_tw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177487,
+			"friends_count": 70,
+			"listed_count": 668,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 672,
+		"favorite_count": 2228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #아이유 #트랙제로\n아이유가 응원하는 트랙제로!\n세상에 없는 명곡과 아티스트, 트랙제로가 다 찾아줄거예요.\n트랙제로 아티스트를 응원해주시면, 매주 선물을 드려요! \n(애플 에어팟 프로 매주 1명🍎)\n\n참여하고 싶다면? 멜론에서 확인해 보세요💨\n👉https://t.co/5C8yN6Htt8 https://t.co/OmRU4qOfhS"
+	},
+	{
+		"created_at": "Thu Jun 16 06:29:44 +0000 2022",
+		"id": 1537319562089144300,
+		"id_str": "1537321507302563840",
+		"full_text": "[#NEWS] [투데이TV]'징크스의 연인' 서현x나인우, 행운의 여신과 불운의 사나이..본격 만남 예고\n▶ https://t.co/DiHEjQggNo\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/P26YWDTag5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DiHEjQggNo",
+					"expanded_url": "http://naver.me/5bRqb94s",
+					"display_url": "naver.me/5bRqb94s",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537317226747162600,
+					"id_str": "1537317226747162626",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FVWl32dacAIko_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVWl32dacAIko_6.jpg",
+					"url": "https://t.co/P26YWDTag5",
+					"display_url": "pic.twitter.com/P26YWDTag5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537319562089144322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537317226747162600,
+					"id_str": "1537317226747162626",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FVWl32dacAIko_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVWl32dacAIko_6.jpg",
+					"url": "https://t.co/P26YWDTag5",
+					"display_url": "pic.twitter.com/P26YWDTag5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537319562089144322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60627,
+			"friends_count": 12,
+			"listed_count": 270,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] [투데이TV]'징크스의 연인' 서현x나인우, 행운의 여신과 불운의 사나이..본격 만남 예고\n▶ https://t.co/DiHEjQggNo\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/P26YWDTag5"
+	},
+	{
 		"created_at": "Thu Jun 16 05:45:36 +0000 2022",
 		"id": 1537298928382578700,
 		"id_str": "1537310404363313153",
