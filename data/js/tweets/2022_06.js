@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 17:40:09 +0000 2022",
+		"id": 1537842510101364700,
+		"id_str": "1537852614926286856",
+		"full_text": "✨ It’s time to join the queue for tickets now, MYs!\n\n📢 Tickets are on sale at 3PM PT for aespa Showcase SYNK in LA!\n\n🎟 Get yours here: https://t.co/nstgqA7DOH \n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls https://t.co/EgiypXqhVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "aespaShowcaseSYNKinLA",
+					"indices": [
+						180,
+						202
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nstgqA7DOH",
+					"expanded_url": "https://www.ticketmaster.com/event/0A005CCD9E871F6E",
+					"display_url": "ticketmaster.com/event/0A005CCD…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537811410624782300,
+					"id_str": "1537811410624782336",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVd0cPvUEAA9bMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVd0cPvUEAA9bMF.jpg",
+					"url": "https://t.co/EgiypXqhVJ",
+					"display_url": "pic.twitter.com/EgiypXqhVJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537842510101364736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537811410624782300,
+					"id_str": "1537811410624782336",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FVd0cPvUEAA9bMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVd0cPvUEAA9bMF.jpg",
+					"url": "https://t.co/EgiypXqhVJ",
+					"display_url": "pic.twitter.com/EgiypXqhVJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537842510101364736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15070,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537811410624782336/vid/480x270/TMIIXQdnnl-Z8kFv.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537811410624782336/vid/640x360/Z320a2DKujCNm_0B.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537811410624782336/vid/1280x720/1RrMQdEyCz9zquBE.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1537811410624782336/pl/sF5xn8g2birmY1us.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752947,
+			"friends_count": 2,
+			"listed_count": 8675,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2983,
+		"favorite_count": 9468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ It’s time to join the queue for tickets now, MYs!\n\n📢 Tickets are on sale at 3PM PT for aespa Showcase SYNK in LA!\n\n🎟 Get yours here: https://t.co/nstgqA7DOH \n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls https://t.co/EgiypXqhVJ"
+	},
+	{
 		"created_at": "Fri Jun 17 16:40:09 +0000 2022",
 		"id": 1537827420933222400,
 		"id_str": "1537837515486687232",
