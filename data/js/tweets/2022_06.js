@@ -1,10 +1,416 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 04:40:19 +0000 2022",
+		"id": 1537656281166622700,
+		"id_str": "1537656359726075904",
+		"full_text": "A teaser video of aespa’s SM CULTURE UNIVERSE EP.2  ‘Next Level’ will be released today at 6PM KST!\nStay tuned for the unrivaled avatar world view story development &amp; visual beauty!\n\nhttps://t.co/1fRRQoEy3V\n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						212,
+						218
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						236,
+						244
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						245,
+						255
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						256,
+						262
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						263,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1fRRQoEy3V",
+					"expanded_url": "https://bit.ly/3zQKpLA",
+					"display_url": "bit.ly/3zQKpLA",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537656277605593000,
+		"in_reply_to_status_id_str": "1537656277605593089",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2749056,
+			"friends_count": 2,
+			"listed_count": 8667,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1975,
+		"favorite_count": 5223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A teaser video of aespa’s SM CULTURE UNIVERSE EP.2  ‘Next Level’ will be released today at 6PM KST!\nStay tuned for the unrivaled avatar world view story development &amp; visual beauty!\n\nhttps://t.co/1fRRQoEy3V\n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Fri Jun 17 04:40:09 +0000 2022",
+		"id": 1537656277605593000,
+		"id_str": "1537656321511763968",
+		"full_text": "에스파, SMCU 세계관 영상 EP. 2 ‘Next Level’ 티저 영상 오늘 오후 6시 공개!\n독보적인 아바타 세계관 스토리 전개+영상미 기대 UP!\n\nhttps://t.co/1fRRQoEy3V\n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/YsNNPHhLiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1fRRQoEy3V",
+					"expanded_url": "https://bit.ly/3zQKpLA",
+					"display_url": "bit.ly/3zQKpLA",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537656169396727800,
+					"id_str": "1537656169396727808",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbaI6OUcAA0Erf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbaI6OUcAA0Erf.jpg",
+					"url": "https://t.co/YsNNPHhLiM",
+					"display_url": "pic.twitter.com/YsNNPHhLiM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537656277605593089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537656169396727800,
+					"id_str": "1537656169396727808",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbaI6OUcAA0Erf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbaI6OUcAA0Erf.jpg",
+					"url": "https://t.co/YsNNPHhLiM",
+					"display_url": "pic.twitter.com/YsNNPHhLiM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537656277605593089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2749056,
+			"friends_count": 2,
+			"listed_count": 8667,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4888,
+		"favorite_count": 12554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, SMCU 세계관 영상 EP. 2 ‘Next Level’ 티저 영상 오늘 오후 6시 공개!\n독보적인 아바타 세계관 스토리 전개+영상미 기대 UP!\n\nhttps://t.co/1fRRQoEy3V\n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/YsNNPHhLiM"
+	},
+	{
 		"created_at": "Fri Jun 17 02:40:12 +0000 2022",
 		"id": 1537575509277945900,
 		"id_str": "1537626132266246144",
-		"full_text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻‍🦰👨🏻‍🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr",
+		"full_text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻🦰👨🏻🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -240,7 +646,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻‍🦰👨🏻‍🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr"
+		"text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻🦰👨🏻🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr"
 	},
 	{
 		"created_at": "Fri Jun 17 01:29:39 +0000 2022",
