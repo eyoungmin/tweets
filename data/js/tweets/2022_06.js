@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 09:40:15 +0000 2022",
+		"id": 1537730693253386200,
+		"id_str": "1537731843935588359",
+		"full_text": "죠지 ‘유미의 세포들 시즌2 OST Part2’ Released!!\n💚 https://t.co/UTesY5AEvG https://t.co/oZRJ4fEY7i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UTesY5AEvG",
+					"expanded_url": "https://www.instagram.com/p/Ce5seXfLqht/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Ce5seXfLqht/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537730682956304400,
+					"id_str": "1537730682956304386",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcd6K3UUAIhyqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcd6K3UUAIhyqh.jpg",
+					"url": "https://t.co/oZRJ4fEY7i",
+					"display_url": "pic.twitter.com/oZRJ4fEY7i",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1537730693253386240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537730682956304400,
+					"id_str": "1537730682956304386",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcd6K3UUAIhyqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcd6K3UUAIhyqh.jpg",
+					"url": "https://t.co/oZRJ4fEY7i",
+					"display_url": "pic.twitter.com/oZRJ4fEY7i",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1537730693253386240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7370,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "죠지 ‘유미의 세포들 시즌2 OST Part2’ Released!!\n💚 https://t.co/UTesY5AEvG https://t.co/oZRJ4fEY7i"
+	},
+	{
+		"created_at": "Fri Jun 17 09:40:09 +0000 2022",
+		"id": 1537721727483928600,
+		"id_str": "1537731818258059264",
+		"full_text": "aespa 에스파 'ep2. Next Level' Teaser - SM Culture Universe\n\naespa 에스파 'ep2. Next Level' - SM Culture Universe \n➫ 2022.06.20 6PM KST \n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/BEbmGsdMFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537714593643888600,
+					"id_str": "1537714593643888640",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcSu68VEAAZzJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcSu68VEAAZzJ4.jpg",
+					"url": "https://t.co/BEbmGsdMFK",
+					"display_url": "pic.twitter.com/BEbmGsdMFK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537721727483928577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537714593643888600,
+					"id_str": "1537714593643888640",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcSu68VEAAZzJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcSu68VEAAZzJ4.jpg",
+					"url": "https://t.co/BEbmGsdMFK",
+					"display_url": "pic.twitter.com/BEbmGsdMFK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537721727483928577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47797,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537714593643888640/vid/1280x720/g3Skc-HpIp0aQihQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537714593643888640/vid/480x270/NXCkifCr5EbbRoCD.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1537714593643888640/pl/hxr4KuZJciuMtxca.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1537714593643888640/vid/640x360/-P44lK0JrzYW5HZa.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "aespa 에스파 'ep2. Next Level' Teaser - SM Culture Universe",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2750193,
+			"friends_count": 2,
+			"listed_count": 8659,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26906,
+		"favorite_count": 43629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'ep2. Next Level' Teaser - SM Culture Universe\n\naespa 에스파 'ep2. Next Level' - SM Culture Universe \n➫ 2022.06.20 6PM KST \n\n#aespa #æspa #에스파\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/BEbmGsdMFK"
+	},
+	{
+		"created_at": "Fri Jun 17 09:29:39 +0000 2022",
+		"id": 1537728120110710800,
+		"id_str": "1537729173866917888",
+		"full_text": "[#NEWS] 소녀시대, '써니' 패러디로 꿀잼 예고…'소시탐탐', 7월 5일 첫 방송\n▶ https://t.co/MqlJQUh981\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/uUsCAEKdZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MqlJQUh981",
+					"expanded_url": "http://naver.me/5XUQ0LH9",
+					"display_url": "naver.me/5XUQ0LH9",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537728110191292400,
+					"id_str": "1537728110191292423",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcbkakVsAcGK_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcbkakVsAcGK_Y.jpg",
+					"url": "https://t.co/uUsCAEKdZ6",
+					"display_url": "pic.twitter.com/uUsCAEKdZ6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537728120110710785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537728110191292400,
+					"id_str": "1537728110191292423",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcbkakVsAcGK_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcbkakVsAcGK_Y.jpg",
+					"url": "https://t.co/uUsCAEKdZ6",
+					"display_url": "pic.twitter.com/uUsCAEKdZ6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537728120110710785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537728110191202300,
+					"id_str": "1537728110191202305",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcbkakUUAEnoTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcbkakUUAEnoTH.jpg",
+					"url": "https://t.co/uUsCAEKdZ6",
+					"display_url": "pic.twitter.com/uUsCAEKdZ6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1537728120110710785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 543,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 308,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 1216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60655,
+			"friends_count": 12,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 소녀시대, '써니' 패러디로 꿀잼 예고…'소시탐탐', 7월 5일 첫 방송\n▶ https://t.co/MqlJQUh981\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/uUsCAEKdZ6"
+	},
+	{
 		"created_at": "Fri Jun 17 08:30:15 +0000 2022",
 		"id": 1537702225996238800,
 		"id_str": "1537714227158208512",
