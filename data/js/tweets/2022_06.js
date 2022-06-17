@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 06:40:09 +0000 2022",
+		"id": 1537646230855069700,
+		"id_str": "1537686520315904001",
+		"full_text": "#ORBIT! You get the first sneak peek👀at the MMT exclusive photocard!🎴\n\nBuy LOONA Summer Special Mini Album [Flip That] to get yours!\n👉 https://t.co/yLmEDanPPj\n\n🗓️Available until June 19, 11:59 PM (KST)\n📲Join the GLOBAL VIDEO CALL EVENT now\n\n#LOONA #LOONA_Fansign with #MMTShop https://t.co/MIzEO0t11A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ORBIT",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						241,
+						247
+					]
+				},
+				{
+					"text": "LOONA_Fansign",
+					"indices": [
+						248,
+						262
+					]
+				},
+				{
+					"text": "MMTShop",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yLmEDanPPj",
+					"expanded_url": "https://mmt.fans/bFUP",
+					"display_url": "mmt.fans/bFUP",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537646226161533000,
+					"id_str": "1537646226161532928",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbRGIyUAAA5hkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbRGIyUAAA5hkU.jpg",
+					"url": "https://t.co/MIzEO0t11A",
+					"display_url": "pic.twitter.com/MIzEO0t11A",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1537646230855069698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1161,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537646226161533000,
+					"id_str": "1537646226161532928",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbRGIyUAAA5hkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbRGIyUAAA5hkU.jpg",
+					"url": "https://t.co/MIzEO0t11A",
+					"display_url": "pic.twitter.com/MIzEO0t11A",
+					"expanded_url": "https://twitter.com/_mmtshop/status/1537646230855069698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1161,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1389021967567622100,
+			"id_str": "1389021967567622145",
+			"name": "MMT SHOP",
+			"screen_name": "_mmtshop",
+			"location": "Seoul, Korea",
+			"description": "🛍️ Shop for all your K-Pop Essentials!\n\n💫 MMT SHOP is commerce exclusive Twitter account owned by @_mymusictaste",
+			"url": "https://t.co/jRvgoFZu5F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jRvgoFZu5F",
+							"expanded_url": "http://mymusictaste.com/shop",
+							"display_url": "mymusictaste.com/shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13922,
+			"friends_count": 67,
+			"listed_count": 45,
+			"created_at": "Mon May 03 01:00:26 +0000 2021",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391581543118692354/8f8EA0uo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1389021967567622145/1620613939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 312,
+		"favorite_count": 1373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ORBIT! You get the first sneak peek👀at the MMT exclusive photocard!🎴\n\nBuy LOONA Summer Special Mini Album [Flip That] to get yours!\n👉 https://t.co/yLmEDanPPj\n\n🗓️Available until June 19, 11:59 PM (KST)\n📲Join the GLOBAL VIDEO CALL EVENT now\n\n#LOONA #LOONA_Fansign with #MMTShop https://t.co/MIzEO0t11A"
+	},
+	{
 		"created_at": "Fri Jun 17 04:40:19 +0000 2022",
 		"id": 1537656281166622700,
 		"id_str": "1537656359726075904",
