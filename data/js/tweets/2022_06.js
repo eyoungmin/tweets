@@ -1,6 +1,796 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 07:45:37 +0000 2022",
+		"id": 1537696519008137200,
+		"id_str": "1537702992769605632",
+		"full_text": "6/20 ~ 6/23 #아이돌라디오2 출연진\n\n🎀6/20(월)  \nDJ : 우즈&amp;차준호\n게스트 : 드리핀\n\n🎀6/23(목)  \nDJ : 최예나&amp;희진\n게스트 : 이달의 소녀\n\n*매주 월,목 저녁 8시 엔씨유니버스어플에서 라이브 스트리밍 https://t.co/Ersck6Sava",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오2",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537695982699565000,
+					"id_str": "1537695982699565056",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb-WWVaUAAFMZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb-WWVaUAAFMZh.jpg",
+					"url": "https://t.co/Ersck6Sava",
+					"display_url": "pic.twitter.com/Ersck6Sava",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1537696519008137216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537695982699565000,
+					"id_str": "1537695982699565056",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb-WWVaUAAFMZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb-WWVaUAAFMZh.jpg",
+					"url": "https://t.co/Ersck6Sava",
+					"display_url": "pic.twitter.com/Ersck6Sava",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1537696519008137216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537696001158692900,
+					"id_str": "1537696001158692864",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb-XbGaQAAVest.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVb-XbGaQAAVest.png",
+					"url": "https://t.co/Ersck6Sava",
+					"display_url": "pic.twitter.com/Ersck6Sava",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1537696519008137216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109030,
+			"friends_count": 9,
+			"listed_count": 279,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1244,
+		"favorite_count": 2013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6/20 ~ 6/23 #아이돌라디오2 출연진\n\n🎀6/20(월)  \nDJ : 우즈&amp;차준호\n게스트 : 드리핀\n\n🎀6/23(목)  \nDJ : 최예나&amp;희진\n게스트 : 이달의 소녀\n\n*매주 월,목 저녁 8시 엔씨유니버스어플에서 라이브 스트리밍 https://t.co/Ersck6Sava"
+	},
+	{
+		"created_at": "Fri Jun 17 07:30:14 +0000 2022",
+		"id": 1537689445041700900,
+		"id_str": "1537699121934454784",
+		"full_text": "환상소곡집 시리즈부터 월령, 소로, 몸과 마음까지 늘 일반적이지 않은 패키지 아이디어로 제작이 힘들 것 같다는 우려도 참 많이 들었습니다.하지만 한번 도전해보자고, 재미있을 것 같다며 함께 달려주신 소중한 분들이 계셔서\n매번 국내에 없었던 새로운 작품을 완성할 수 있었습니다.🥲❤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1537688957990801400,
+		"in_reply_to_status_id_str": "1537688957990801408",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10907,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "환상소곡집 시리즈부터 월령, 소로, 몸과 마음까지 늘 일반적이지 않은 패키지 아이디어로 제작이 힘들 것 같다는 우려도 참 많이 들었습니다.하지만 한번 도전해보자고, 재미있을 것 같다며 함께 달려주신 소중한 분들이 계셔서\n매번 국내에 없었던 새로운 작품을 완성할 수 있었습니다.🥲❤"
+	},
+	{
+		"created_at": "Fri Jun 17 07:30:14 +0000 2022",
+		"id": 1537689895652556800,
+		"id_str": "1537699121519177728",
+		"full_text": "저희들이 열심을 내게 만드는 당신, \n가장 좋은 것을 받아야 마땅한 당신,\n헤아릴 규는 당신께 늘 진심입니다💙\n* LP 사양\n- 투명 디스크 180g Heavy Weight Vinyl 1 LP, 12\", 33 ⅓ R.P.M\n- 게이트폴드 PET 커버\n- PET가사지:2종 \n- 포토: 3종 \n- PET 포토:1종 \n- IVORY 악보집 8p\n- 커버 아트웍:2종",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1537689625736511500,
+		"in_reply_to_status_id_str": "1537689625736511488",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10907,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저희들이 열심을 내게 만드는 당신, \n가장 좋은 것을 받아야 마땅한 당신,\n헤아릴 규는 당신께 늘 진심입니다💙\n* LP 사양\n- 투명 디스크 180g Heavy Weight Vinyl 1 LP, 12\", 33 ⅓ R.P.M\n- 게이트폴드 PET 커버\n- PET가사지:2종 \n- 포토: 3종 \n- PET 포토:1종 \n- IVORY 악보집 8p\n- 커버 아트웍:2종"
+	},
+	{
+		"created_at": "Fri Jun 17 07:30:14 +0000 2022",
+		"id": 1537688957990801400,
+		"id_str": "1537699121506635776",
+		"full_text": "💫'몸과 마음' LP가 제작 완료되어\n정성스럽게 포장되고 있습니다.\n다음 주 수요일부터 배송이 시작 될 예정입니다.새앨범이 아닌데도 불구하고\n주문량이 최고 기록을 갱신했습니다.\n보내주시는 사랑에 보답하고자\n이번에도 혜자 구성으로 완성하기 위해 노력했습니다!\n부디 기뻐하셨으면 좋겠어요🥰❤ https://t.co/JsfYxyhfeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537688936356515800,
+					"id_str": "1537688936356515842",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb38MqUEAIPYzP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb38MqUEAIPYzP.jpg",
+					"url": "https://t.co/JsfYxyhfeu",
+					"display_url": "pic.twitter.com/JsfYxyhfeu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537688957990801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537688936356515800,
+					"id_str": "1537688936356515842",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb38MqUEAIPYzP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb38MqUEAIPYzP.jpg",
+					"url": "https://t.co/JsfYxyhfeu",
+					"display_url": "pic.twitter.com/JsfYxyhfeu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537688957990801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537688941591023600,
+					"id_str": "1537688941591023617",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb38gKUUAEovS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb38gKUUAEovS_.jpg",
+					"url": "https://t.co/JsfYxyhfeu",
+					"display_url": "pic.twitter.com/JsfYxyhfeu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537688957990801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537688948113170400,
+					"id_str": "1537688948113170432",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb384dUYAAPImN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb384dUYAAPImN.jpg",
+					"url": "https://t.co/JsfYxyhfeu",
+					"display_url": "pic.twitter.com/JsfYxyhfeu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537688957990801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537688954266214400,
+					"id_str": "1537688954266214400",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FVb39PYUYAAdpis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVb39PYUYAAdpis.jpg",
+					"url": "https://t.co/JsfYxyhfeu",
+					"display_url": "pic.twitter.com/JsfYxyhfeu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537688957990801408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10907,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫'몸과 마음' LP가 제작 완료되어\n정성스럽게 포장되고 있습니다.\n다음 주 수요일부터 배송이 시작 될 예정입니다.새앨범이 아닌데도 불구하고\n주문량이 최고 기록을 갱신했습니다.\n보내주시는 사랑에 보답하고자\n이번에도 혜자 구성으로 완성하기 위해 노력했습니다!\n부디 기뻐하셨으면 좋겠어요🥰❤ https://t.co/JsfYxyhfeu"
+	},
+	{
+		"created_at": "Fri Jun 17 07:30:14 +0000 2022",
+		"id": 1537689625736511500,
+		"id_str": "1537699121498234880",
+		"full_text": "이런 시도들을 해볼 수 있다는 것 자체도\n늘 베스트셀러로 만들어 주시는 팬 분들이 계시기에 가능한 거라고 느끼고 있습니다.어떻게 보답해야 할까요?\n계속 쓰고 부르는 것 만으로는 평생 다 갚을 수 없을 것 같은 마음입니다.🥲",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1537689445041700900,
+		"in_reply_to_status_id_str": "1537689445041700864",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10907,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 시도들을 해볼 수 있다는 것 자체도\n늘 베스트셀러로 만들어 주시는 팬 분들이 계시기에 가능한 거라고 느끼고 있습니다.어떻게 보답해야 할까요?\n계속 쓰고 부르는 것 만으로는 평생 다 갚을 수 없을 것 같은 마음입니다.🥲"
+	},
+	{
 		"created_at": "Fri Jun 17 06:40:09 +0000 2022",
 		"id": 1537646230855069700,
 		"id_str": "1537686520315904001",
