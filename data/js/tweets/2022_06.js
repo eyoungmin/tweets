@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 16:40:09 +0000 2022",
+		"id": 1537827420933222400,
+		"id_str": "1537837515486687232",
+		"full_text": "Pre-order &amp; Pre-save aespa’s 2nd Mini Album ‘Girls’ from the links below 💿\n\n🔗 Retailer link: https://t.co/gHB4W08Aem \n🔗 Target: https://t.co/XgQhF5OE9p \n🔗 amazon: https://t.co/WlwohmeEP9 \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/ykcWP9qReP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						218,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gHB4W08Aem",
+					"expanded_url": "http://aespa.lnk.to/GirlsEP",
+					"display_url": "aespa.lnk.to/GirlsEP",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/XgQhF5OE9p",
+					"expanded_url": "https://www.target.com/s?searchTerm=aespa+girls",
+					"display_url": "target.com/s?searchTerm=a…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/WlwohmeEP9",
+					"expanded_url": "https://www.amazon.com/dp/B0B2X2GZ9T",
+					"display_url": "amazon.com/dp/B0B2X2GZ9T",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537812449667055600,
+					"id_str": "1537812449667055618",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdoRnmUAAIh-Fl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdoRnmUAAIh-Fl.jpg",
+					"url": "https://t.co/ykcWP9qReP",
+					"display_url": "pic.twitter.com/ykcWP9qReP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537827420933222401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537812449667055600,
+					"id_str": "1537812449667055618",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdoRnmUAAIh-Fl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdoRnmUAAIh-Fl.jpg",
+					"url": "https://t.co/ykcWP9qReP",
+					"display_url": "pic.twitter.com/ykcWP9qReP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1537827420933222401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752714,
+			"friends_count": 2,
+			"listed_count": 8678,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3783,
+		"favorite_count": 12263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pre-order &amp; Pre-save aespa’s 2nd Mini Album ‘Girls’ from the links below 💿\n\n🔗 Retailer link: https://t.co/gHB4W08Aem \n🔗 Target: https://t.co/XgQhF5OE9p \n🔗 amazon: https://t.co/WlwohmeEP9 \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/ykcWP9qReP"
+	},
+	{
 		"created_at": "Fri Jun 17 15:40:18 +0000 2022",
 		"id": 1537814841380941800,
 		"id_str": "1537822451094196225",
