@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 08:30:15 +0000 2022",
+		"id": 1537702225996238800,
+		"id_str": "1537714227158208512",
+		"full_text": "⬇️⬇️⬇️🔽🔽🔽\n* 교보 강남 / 교보 광화문 /교보 영등포 /교보 인천 /교보 대구 \n* 영풍 홍대 / 영풍 안성 스타필드\n.\n#심규선 #루시아 #심규선에세이 #밤의끝을알리는 #베스트셀러 #친필사인본 #교보문고 #영풍문고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "심규선에세이",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "밤의끝을알리는",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "베스트셀러",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "친필사인본",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "교보문고",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "영풍문고",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1537702144974803000,
+		"in_reply_to_status_id_str": "1537702144974802944",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "⬇️⬇️⬇️🔽🔽🔽\n* 교보 강남 / 교보 광화문 /교보 영등포 /교보 인천 /교보 대구 \n* 영풍 홍대 / 영풍 안성 스타필드\n.\n#심규선 #루시아 #심규선에세이 #밤의끝을알리는 #베스트셀러 #친필사인본 #교보문고 #영풍문고"
+	},
+	{
+		"created_at": "Fri Jun 17 08:30:15 +0000 2022",
+		"id": 1537702144974803000,
+		"id_str": "1537714227099512832",
+		"full_text": "지난 주 공지드렸던 &lt;밤의 끝을 알리는&gt; 친필사인본 오프라인 구매처 알려드립니다! 각 서점에 들러서 재고 수량 전체에 사인을 해두고 왔구요,\n지역 서점 배송 물량에도\n사인을 해두었습니다!\n예약 주문을 놓치셔서 안타깝게 \n사인본을 얻지 못 하셨다면 아래 안내 된 서점에서 구하실 수 있습니다😊 https://t.co/UMKhsvcXNt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537702126368919600,
+					"id_str": "1537702126368919552",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcD79SVEAAgAC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcD79SVEAAgAC5.jpg",
+					"url": "https://t.co/UMKhsvcXNt",
+					"display_url": "pic.twitter.com/UMKhsvcXNt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537702144974802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537702126368919600,
+					"id_str": "1537702126368919552",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcD79SVEAAgAC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcD79SVEAAgAC5.jpg",
+					"url": "https://t.co/UMKhsvcXNt",
+					"display_url": "pic.twitter.com/UMKhsvcXNt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537702144974802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537702130982658000,
+					"id_str": "1537702130982658048",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcD8OeVIAA-wDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcD8OeVIAA-wDH.jpg",
+					"url": "https://t.co/UMKhsvcXNt",
+					"display_url": "pic.twitter.com/UMKhsvcXNt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537702144974802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537702135365705700,
+					"id_str": "1537702135365705731",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcD8ezVIAMbHTN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcD8ezVIAMbHTN.jpg",
+					"url": "https://t.co/UMKhsvcXNt",
+					"display_url": "pic.twitter.com/UMKhsvcXNt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537702144974802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537702141103464400,
+					"id_str": "1537702141103464448",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcD80LUYAAic4B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcD80LUYAAic4B.jpg",
+					"url": "https://t.co/UMKhsvcXNt",
+					"display_url": "pic.twitter.com/UMKhsvcXNt",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537702144974802944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 주 공지드렸던 &lt;밤의 끝을 알리는&gt; 친필사인본 오프라인 구매처 알려드립니다! 각 서점에 들러서 재고 수량 전체에 사인을 해두고 왔구요,\n지역 서점 배송 물량에도\n사인을 해두었습니다!\n예약 주문을 놓치셔서 안타깝게 \n사인본을 얻지 못 하셨다면 아래 안내 된 서점에서 구하실 수 있습니다😊 https://t.co/UMKhsvcXNt"
+	},
+	{
+		"created_at": "Fri Jun 17 08:30:15 +0000 2022",
+		"id": 1537708990376816600,
+		"id_str": "1537714226982055938",
+		"full_text": "차 막힐때만 셀카 찍는데\n차만 타면 졸리는 편😅🦧\n다들 좋은 저녁 보내요🌿\n먹고 싶었던 거 맛있는 거 먹구요🧚\n#심규선 #나만살찔순없지 https://t.co/yxFqBeqUNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "나만살찔순없지",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537708982290108400,
+					"id_str": "1537708982290108417",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcKLBlUUAEbH-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcKLBlUUAEbH-M.jpg",
+					"url": "https://t.co/yxFqBeqUNa",
+					"display_url": "pic.twitter.com/yxFqBeqUNa",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537708990376816641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537708982290108400,
+					"id_str": "1537708982290108417",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcKLBlUUAEbH-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcKLBlUUAEbH-M.jpg",
+					"url": "https://t.co/yxFqBeqUNa",
+					"display_url": "pic.twitter.com/yxFqBeqUNa",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537708990376816641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537708986698330000,
+					"id_str": "1537708986698330112",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FVcKLSAUcAAPvkH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVcKLSAUcAAPvkH.jpg",
+					"url": "https://t.co/yxFqBeqUNa",
+					"display_url": "pic.twitter.com/yxFqBeqUNa",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1537708990376816641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차 막힐때만 셀카 찍는데\n차만 타면 졸리는 편😅🦧\n다들 좋은 저녁 보내요🌿\n먹고 싶었던 거 맛있는 거 먹구요🧚\n#심규선 #나만살찔순없지 https://t.co/yxFqBeqUNa"
+	},
+	{
 		"created_at": "Fri Jun 17 07:45:37 +0000 2022",
 		"id": 1537696519008137200,
 		"id_str": "1537702992769605632",
@@ -150,7 +812,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
