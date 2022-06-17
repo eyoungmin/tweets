@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 02:40:12 +0000 2022",
+		"id": 1537575509277945900,
+		"id_str": "1537626132266246144",
+		"full_text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻‍🦰👨🏻‍🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브로커",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "남우주연상_송강호",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "강동원",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "배두나",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이주영",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "고레에다히로카즈감독",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537574931701301200,
+					"id_str": "1537574931701301248",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FVaQQQOaAAAlYoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVaQQQOaAAAlYoc.jpg",
+					"url": "https://t.co/67vYJsrDUr",
+					"display_url": "pic.twitter.com/67vYJsrDUr",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1537575509277945856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 760,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537574931701301200,
+					"id_str": "1537574931701301248",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FVaQQQOaAAAlYoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVaQQQOaAAAlYoc.jpg",
+					"url": "https://t.co/67vYJsrDUr",
+					"display_url": "pic.twitter.com/67vYJsrDUr",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1537575509277945856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 760,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330940,
+			"friends_count": 10699,
+			"listed_count": 250,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1655111623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 868,
+		"favorite_count": 2455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"태어나줘서 고마워\"👦🏻👩🏻👩🏻‍🦰👨🏻‍🦱🧑🏻👶🏻👨🏻\n📸특별함과 찐가족미 가득! &lt;#브로커&gt; 스페셜 포스터 공개!\n⠀\n지금 바로 예매하러 GOGO!\nhttps://t.co/kbTEEq3B3V\n⠀\n#남우주연상_송강호 #강동원 #배두나 #이지은 #이주영 #고레에다히로카즈감독 #절찬상영중 https://t.co/67vYJsrDUr"
+	},
+	{
 		"created_at": "Fri Jun 17 01:29:39 +0000 2022",
 		"id": 1537600439306182700,
 		"id_str": "1537608377789988865",
