@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 03:40:10 +0000 2022",
+		"id": 1537996253488767000,
+		"id_str": "1538003610054758401",
+		"full_text": "ℍ𝕒𝕡𝕡𝕪 𝕊𝕆𝕆𝕄𝔸ℕ 𝔻𝕒𝕪 🎂🥳\n𝕗𝕣𝕠𝕞. #aespa💖\n\n#HappySOOMANDay \n#수만두컷 https://t.co/bj6cBfwBKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "HappySOOMANDay",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"text": "수만두컷",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537996246849159200,
+					"id_str": "1537996246849159169",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPcBdUAAEHH65.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPcBdUAAEHH65.jpg",
+					"url": "https://t.co/bj6cBfwBKG",
+					"display_url": "pic.twitter.com/bj6cBfwBKG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996253488766977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537996246849159200,
+					"id_str": "1537996246849159169",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPcBdUAAEHH65.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPcBdUAAEHH65.jpg",
+					"url": "https://t.co/bj6cBfwBKG",
+					"display_url": "pic.twitter.com/bj6cBfwBKG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996253488766977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537996246970880000,
+					"id_str": "1537996246970880000",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPcB6VUAAyuCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPcB6VUAAyuCQ.jpg",
+					"url": "https://t.co/bj6cBfwBKG",
+					"display_url": "pic.twitter.com/bj6cBfwBKG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996253488766977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 804,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906739,
+			"friends_count": 56,
+			"listed_count": 12313,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8436,
+		"favorite_count": 19074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ℍ𝕒𝕡𝕡𝕪 𝕊𝕆𝕆𝕄𝔸ℕ 𝔻𝕒𝕪 🎂🥳\n𝕗𝕣𝕠𝕞. #aespa💖\n\n#HappySOOMANDay \n#수만두컷 https://t.co/bj6cBfwBKG"
+	},
+	{
+		"created_at": "Sat Jun 18 03:40:09 +0000 2022",
+		"id": 1537996122458689500,
+		"id_str": "1538003609505263616",
+		"full_text": "ℍ𝕒𝕡𝕡𝕪 𝕊𝕆𝕆𝕄𝔸ℕ 𝔻𝕒𝕪 🎂🥳\n𝕗𝕣𝕠𝕞. #aespa💖\n\n#HappySOOMANDay \n#수만두컷 https://t.co/C5jBmUU19t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "HappySOOMANDay",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"text": "수만두컷",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537996116469244000,
+					"id_str": "1537996116469243904",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPUbwUYAAlbra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPUbwUYAAlbra.jpg",
+					"url": "https://t.co/C5jBmUU19t",
+					"display_url": "pic.twitter.com/C5jBmUU19t",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996122458689540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537996116469244000,
+					"id_str": "1537996116469243904",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPUbwUYAAlbra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPUbwUYAAlbra.jpg",
+					"url": "https://t.co/C5jBmUU19t",
+					"display_url": "pic.twitter.com/C5jBmUU19t",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996122458689540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537996116565774300,
+					"id_str": "1537996116565774337",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPUcHVUAEBlbG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPUcHVUAEBlbG.jpg",
+					"url": "https://t.co/C5jBmUU19t",
+					"display_url": "pic.twitter.com/C5jBmUU19t",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996122458689540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537996116683239400,
+					"id_str": "1537996116683239425",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPUcjVsAEVrcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPUcjVsAEVrcG.jpg",
+					"url": "https://t.co/C5jBmUU19t",
+					"display_url": "pic.twitter.com/C5jBmUU19t",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996122458689540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1537996116804808700,
+					"id_str": "1537996116804808705",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgPUdAUsAENO0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgPUdAUsAENO0W.jpg",
+					"url": "https://t.co/C5jBmUU19t",
+					"display_url": "pic.twitter.com/C5jBmUU19t",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1537996122458689540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10906739,
+			"friends_count": 56,
+			"listed_count": 12313,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7675,
+		"favorite_count": 18136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ℍ𝕒𝕡𝕡𝕪 𝕊𝕆𝕆𝕄𝔸ℕ 𝔻𝕒𝕪 🎂🥳\n𝕗𝕣𝕠𝕞. #aespa💖\n\n#HappySOOMANDay \n#수만두컷 https://t.co/C5jBmUU19t"
+	},
+	{
 		"created_at": "Sat Jun 18 02:40:10 +0000 2022",
 		"id": 1537978422114144300,
 		"id_str": "1537988511730524161",
