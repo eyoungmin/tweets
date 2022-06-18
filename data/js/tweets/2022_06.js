@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 06:40:27 +0000 2022",
+		"id": 1536479153532305400,
+		"id_str": "1538048980508090368",
+		"full_text": "Proud moment for @nakedbibi and also @gHoodmusic_  seeing the title feel ghood music on @GMA was beautiful. True independent movement 🙏🏽🙇🏽. Love you and show your love for @nakedbibi . More to come https://t.co/E95uNXUvxH #bibi #theweekend #88rising #feelghoodmusic @88rising",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bibi",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "theweekend",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"text": "88rising",
+					"indices": [
+						240,
+						249
+					]
+				},
+				{
+					"text": "feelghoodmusic",
+					"indices": [
+						250,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E95uNXUvxH",
+					"expanded_url": "https://youtu.be/pXxn8ptSRNc",
+					"display_url": "youtu.be/pXxn8ptSRNc",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47283664,
+			"id_str": "47283664",
+			"name": "아빠 최고 VITAMIN D",
+			"screen_name": "DrunkenTigerJK",
+			"location": "FEELGHOODMUSIC",
+			"description": "if you will suck my soul, i will lick ya funky emotionz(FeelGHoodMusic)",
+			"url": "https://t.co/zScwXlXz14",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zScwXlXz14",
+							"expanded_url": "https://youtu.be/3yhkr--FCtc",
+							"display_url": "youtu.be/3yhkr--FCtc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563631,
+			"friends_count": 1500,
+			"listed_count": 6232,
+			"created_at": "Mon Jun 15 07:21:18 +0000 2009",
+			"favourites_count": 422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1519006680477958144/zjKxW4Zg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519006680477958144/zjKxW4Zg_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud moment for @nakedbibi and also @gHoodmusic_  seeing the title feel ghood music on @GMA was beautiful. True independent movement 🙏🏽🙇🏽. Love you and show your love for @nakedbibi . More to come https://t.co/E95uNXUvxH #bibi #theweekend #88rising #feelghoodmusic @88rising"
+	},
+	{
+		"created_at": "Sat Jun 18 06:40:22 +0000 2022",
+		"id": 1536453355610026000,
+		"id_str": "1538048958869692416",
+		"full_text": "Korean pop singer Bibi (@nakedbibi) talks new music, her journey to stardom and performs her new song, #TheWeekend. https://t.co/06C0gPJFTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheWeekend",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536441459674693600,
+					"id_str": "1536441459674693637",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FVKMfV2WQAIr_B_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVKMfV2WQAIr_B_.jpg",
+					"url": "https://t.co/06C0gPJFTA",
+					"display_url": "pic.twitter.com/06C0gPJFTA",
+					"expanded_url": "https://twitter.com/ABCGMA3/status/1536453355610025986/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536441459674693600,
+					"id_str": "1536441459674693637",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FVKMfV2WQAIr_B_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVKMfV2WQAIr_B_.jpg",
+					"url": "https://t.co/06C0gPJFTA",
+					"display_url": "pic.twitter.com/06C0gPJFTA",
+					"expanded_url": "https://twitter.com/ABCGMA3/status/1536453355610025986/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 320121,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536441459674693637/vid/480x270/FVMSAkhioaZefmSN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1536441459674693637/pl/svln-l5APIiYl-So.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536441459674693637/vid/1280x720/o_BBZ2TGHdQnVHfZ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1536441459674693637/vid/640x360/1-pHlPyTeA8NNQuy.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017854722252902400,
+			"id_str": "1017854722252902400",
+			"name": "GMA3: What You Need To Know",
+			"screen_name": "ABCGMA3",
+			"location": "New York, NY",
+			"description": "GMA3 is a news, health and lifestyle program featuring @arobach, @tjholmes and @DrJAshton. Weekdays on ABC at 1pm ET/12C/P. #GMA3 #WYNTK",
+			"url": "https://t.co/rpky6o5fQ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rpky6o5fQ0",
+							"expanded_url": "https://www.goodmorningamerica.com/video/gma3",
+							"display_url": "goodmorningamerica.com/video/gma3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27200,
+			"friends_count": 244,
+			"listed_count": 74,
+			"created_at": "Fri Jul 13 19:34:11 +0000 2018",
+			"favourites_count": 2586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479508420453670916/a7f4uz1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479508420453670916/a7f4uz1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017854722252902400/1600709282",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korean pop singer Bibi (@nakedbibi) talks new music, her journey to stardom and performs her new song, #TheWeekend. https://t.co/06C0gPJFTA"
+	},
+	{
+		"created_at": "Sat Jun 18 06:40:18 +0000 2022",
+		"id": 1537585817761132500,
+		"id_str": "1538048945749999617",
+		"full_text": "BIBI ON GOOD MORNING AMERICA ☀️ Watch the full interview + performance at https://t.co/eKPFpKcM3a\n\n@nakedbibi @ABCGMA3 https://t.co/opgKbGgkQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "ABCGMA3",
+					"name": "GMA3: What You Need To Know",
+					"id": 1017854722252902400,
+					"id_str": "1017854722252902400",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eKPFpKcM3a",
+					"expanded_url": "https://youtu.be/pXxn8ptSRNc",
+					"display_url": "youtu.be/pXxn8ptSRNc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537570965818790000,
+					"id_str": "1537570965818789889",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537570965818789889/pu/img/vHcdBH9dQ3rDUVPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537570965818789889/pu/img/vHcdBH9dQ3rDUVPl.jpg",
+					"url": "https://t.co/opgKbGgkQw",
+					"display_url": "pic.twitter.com/opgKbGgkQw",
+					"expanded_url": "https://twitter.com/88rising/status/1537585817761132554/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537570965818790000,
+					"id_str": "1537570965818789889",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537570965818789889/pu/img/vHcdBH9dQ3rDUVPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537570965818789889/pu/img/vHcdBH9dQ3rDUVPl.jpg",
+					"url": "https://t.co/opgKbGgkQw",
+					"display_url": "pic.twitter.com/opgKbGgkQw",
+					"expanded_url": "https://twitter.com/88rising/status/1537585817761132554/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37804,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537570965818789889/pu/vid/1280x720/4QE4VCVmh6-d4HLa.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537570965818789889/pu/vid/480x270/-s7o2PDsC3BJsKfs.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537570965818789889/pu/vid/640x360/E40EpceWSJ42lnEL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1537570965818789889/pu/pl/F0vuCrvy-W3BNZwZ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Before\" out now.\nHead In The Clouds Festival August 20-21",
+			"url": "https://t.co/UW91LRQbEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UW91LRQbEl",
+							"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+							"display_url": "joji.lnk.to/GlimpseofUs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628120,
+			"friends_count": 305,
+			"listed_count": 586,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 900,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI ON GOOD MORNING AMERICA ☀️ Watch the full interview + performance at https://t.co/eKPFpKcM3a\n\n@nakedbibi @ABCGMA3 https://t.co/opgKbGgkQw"
+	},
+	{
 		"created_at": "Sat Jun 18 04:16:32 +0000 2022",
 		"id": 1538008605210943500,
 		"id_str": "1538012764299350021",
