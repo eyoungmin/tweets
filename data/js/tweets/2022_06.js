@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 17:40:09 +0000 2022",
+		"id": 1538569496218292200,
+		"id_str": "1538577390204600322",
+		"full_text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️‍🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vbzLQ4kpgR",
+					"expanded_url": "https://linktr.ee/ohwondermusic",
+					"display_url": "linktr.ee/ohwondermusic",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538569492627873800,
+					"id_str": "1538569492627873795",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVoYzUZWYAMLuPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVoYzUZWYAMLuPs.jpg",
+					"url": "https://t.co/aTl9OKaJmm",
+					"display_url": "pic.twitter.com/aTl9OKaJmm",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1538569496218292228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538569492627873800,
+					"id_str": "1538569492627873795",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FVoYzUZWYAMLuPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVoYzUZWYAMLuPs.jpg",
+					"url": "https://t.co/aTl9OKaJmm",
+					"display_url": "pic.twitter.com/aTl9OKaJmm",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1538569496218292228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166377,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️‍🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm"
+	},
+	{
 		"created_at": "Sun Jun 19 12:40:24 +0000 2022",
 		"id": 1538500981520240600,
 		"id_str": "1538501952853749762",
