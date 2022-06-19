@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 07:40:10 +0000 2022",
+		"id": 1538401190865674200,
+		"id_str": "1538426396321644544",
+		"full_text": "#이달의소녀\n\n#LOONA Summer Special Mini Album [Flip That]\n#케타포 대면/영상통화 팬사인회\n특전 포토카드 프리뷰 공개🪑💐\n(케타포 스페셜 포토카드 이미지와 동일합니다.)\n\n‼응모가 오늘 마감됩니다‼\n\n✅ https://t.co/mVlIsxh6mY\n\n#KTOWN4U https://t.co/0SF0Z1Un13 https://t.co/JmXUa89lNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "케타포",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "KTOWN4U",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mVlIsxh6mY",
+					"expanded_url": "https://bit.ly/3txkeWw",
+					"display_url": "bit.ly/3txkeWw",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/0SF0Z1Un13",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1536151365067628544",
+					"display_url": "twitter.com/Ktown4u_Event/…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538318242028335000,
+					"id_str": "1538318242028335104",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FVk0Sm-aMAA5mE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVk0Sm-aMAA5mE5.jpg",
+					"url": "https://t.co/JmXUa89lNs",
+					"display_url": "pic.twitter.com/JmXUa89lNs",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1538401190865674240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1263,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538318242028335000,
+					"id_str": "1538318242028335104",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FVk0Sm-aMAA5mE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVk0Sm-aMAA5mE5.jpg",
+					"url": "https://t.co/JmXUa89lNs",
+					"display_url": "pic.twitter.com/JmXUa89lNs",
+					"expanded_url": "https://twitter.com/Ktown4u_Event/status/1538401190865674240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1263,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354259510219554800,
+			"id_str": "1354259510219554816",
+			"name": "𝐊𝐓𝐎𝐖𝐍𝟒𝐔 𝐄𝐕𝐄𝐍𝐓",
+			"screen_name": "Ktown4u_Event",
+			"location": "",
+			"description": "🔔케타포 공식 이벤트 안내 계정🔔\nKTOWN4U Official Event Notice Account",
+			"url": "https://t.co/jxBMiCii8a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jxBMiCii8a",
+							"expanded_url": "http://www.ktown4u.com",
+							"display_url": "ktown4u.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8990,
+			"friends_count": 0,
+			"listed_count": 25,
+			"created_at": "Wed Jan 27 02:46:54 +0000 2021",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354259510219554816/1641452005",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536151365067628500,
+		"quoted_status_id_str": "1536151365067628544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0SF0Z1Un13",
+			"expanded": "https://twitter.com/Ktown4u_Event/status/1536151365067628544",
+			"display": "twitter.com/Ktown4u_Event/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 13 01:00:00 +0000 2022",
+			"id": 1536151365067628500,
+			"id_str": "1536151365067628544",
+			"full_text": "#이달의소녀\n\n#LOONA Summer Special Mini Album [Flip That] 발매기념\n#케타포 스페셜 이벤트 오픈💚🌼\n\n🎁 전 응모 고객, 케타포 단독 특전 포토카드 증정!\n🎁 추첨을 통해, 대면/영상통화 팬사인회 초대!\n🎁 추첨을 통해, 친필 사인 폴라로이드 증정!\n\n✅ https://t.co/mVlIsxh6mY\n\n#KTOWN4U https://t.co/mWYS0w3mhb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							8,
+							14
+						]
+					},
+					{
+						"text": "케타포",
+						"indices": [
+							58,
+							62
+						]
+					},
+					{
+						"text": "KTOWN4U",
+						"indices": [
+							188,
+							196
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mVlIsxh6mY",
+						"expanded_url": "https://bit.ly/3txkeWw",
+						"display_url": "bit.ly/3txkeWw",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1536149409670774800,
+						"id_str": "1536149409670774785",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/FVF_v81aQAEOuf0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVF_v81aQAEOuf0.jpg",
+						"url": "https://t.co/mWYS0w3mhb",
+						"display_url": "pic.twitter.com/mWYS0w3mhb",
+						"expanded_url": "https://twitter.com/Ktown4u_Event/status/1536151365067628544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 490,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 278,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1536149409670774800,
+						"id_str": "1536149409670774785",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/FVF_v81aQAEOuf0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVF_v81aQAEOuf0.jpg",
+						"url": "https://t.co/mWYS0w3mhb",
+						"display_url": "pic.twitter.com/mWYS0w3mhb",
+						"expanded_url": "https://twitter.com/Ktown4u_Event/status/1536151365067628544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 490,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 278,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1354259510219554800,
+				"id_str": "1354259510219554816",
+				"name": "𝐊𝐓𝐎𝐖𝐍𝟒𝐔 𝐄𝐕𝐄𝐍𝐓",
+				"screen_name": "Ktown4u_Event",
+				"location": "",
+				"description": "🔔케타포 공식 이벤트 안내 계정🔔\nKTOWN4U Official Event Notice Account",
+				"url": "https://t.co/jxBMiCii8a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jxBMiCii8a",
+								"expanded_url": "http://www.ktown4u.com",
+								"display_url": "ktown4u.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8990,
+				"friends_count": 0,
+				"listed_count": 25,
+				"created_at": "Wed Jan 27 02:46:54 +0000 2021",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 773,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478983192283856896/x2t6bqIb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354259510219554816/1641452005",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 412,
+			"favorite_count": 2604,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 336,
+		"favorite_count": 1453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀\n\n#LOONA Summer Special Mini Album [Flip That]\n#케타포 대면/영상통화 팬사인회\n특전 포토카드 프리뷰 공개🪑💐\n(케타포 스페셜 포토카드 이미지와 동일합니다.)\n\n‼응모가 오늘 마감됩니다‼\n\n✅ https://t.co/mVlIsxh6mY\n\n#KTOWN4U https://t.co/0SF0Z1Un13 https://t.co/JmXUa89lNs"
+	},
+	{
+		"created_at": "Sun Jun 19 07:12:29 +0000 2022",
+		"id": 1538415042999484400,
+		"id_str": "1538419430224322565",
+		"full_text": "[#하슬 / #HaSeul] 미앙 좀 늦었지 헿\n오빛이 기다리던 오빛4기!!!!\n\n#이달의소녀 #LOONA https://t.co/JctgRrcXI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538415034568966100,
+					"id_str": "1538415034568966144",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVmMUrSagAASjbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVmMUrSagAASjbF.jpg",
+					"url": "https://t.co/JctgRrcXI3",
+					"display_url": "pic.twitter.com/JctgRrcXI3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538415042999484417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538415034568966100,
+					"id_str": "1538415034568966144",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVmMUrSagAASjbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVmMUrSagAASjbF.jpg",
+					"url": "https://t.co/JctgRrcXI3",
+					"display_url": "pic.twitter.com/JctgRrcXI3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538415042999484417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538415034585727000,
+					"id_str": "1538415034585726977",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVmMUrWaQAEkoKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVmMUrWaQAEkoKr.jpg",
+					"url": "https://t.co/JctgRrcXI3",
+					"display_url": "pic.twitter.com/JctgRrcXI3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538415042999484417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538415034619293700,
+					"id_str": "1538415034619293696",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FVmMUreacAA87KP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVmMUreacAA87KP.jpg",
+					"url": "https://t.co/JctgRrcXI3",
+					"display_url": "pic.twitter.com/JctgRrcXI3",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538415042999484417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538415031007969300,
+		"in_reply_to_status_id_str": "1538415031007969280",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936894,
+			"friends_count": 2,
+			"listed_count": 8772,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1494,
+		"favorite_count": 5922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하슬 / #HaSeul] 미앙 좀 늦었지 헿\n오빛이 기다리던 오빛4기!!!!\n\n#이달의소녀 #LOONA https://t.co/JctgRrcXI3"
+	},
+	{
 		"created_at": "Sun Jun 19 04:29:38 +0000 2022",
 		"id": 1538371241924382700,
 		"id_str": "1538378449177530370",
