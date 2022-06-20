@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 08:45:36 +0000 2022",
+		"id": 1538800842337579000,
+		"id_str": "1538805254472482816",
+		"full_text": "🚨 CALLING U.S. ORBITS 🚨\n\nLess than an hour: #LOONA_FLIPTHAT_MV\nLess than 7 hours: #LOONAonBB200 \n\nBillboard 👉🏻 https://t.co/WkPU3ie3Au\n\nTake a look at this card news and see what you can do to help LOONA chart on Billboard 🎉 https://t.co/hyJzhrwqx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_FLIPTHAT_MV",
+					"indices": [
+						44,
+						62
+					]
+				},
+				{
+					"text": "LOONAonBB200",
+					"indices": [
+						82,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WkPU3ie3Au",
+					"expanded_url": "https://hello82.shop/collections/new-releases/products/loona-summer-special-mini-album",
+					"display_url": "hello82.shop/collections/ne…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/hyJzhrwqx7",
+					"expanded_url": "https://twitter.com/hello82official/status/1534616046241320960",
+					"display_url": "twitter.com/hello82officia…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest updates on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official @annyon82",
+			"url": "https://t.co/tpPAHmm3Yk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tpPAHmm3Yk",
+							"expanded_url": "http://hello82.tv",
+							"display_url": "hello82.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127471,
+			"friends_count": 6,
+			"listed_count": 126,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1534616046241321000,
+		"quoted_status_id_str": "1534616046241320960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hyJzhrwqx7",
+			"expanded": "https://twitter.com/hello82official/status/1534616046241320960",
+			"display": "twitter.com/hello82officia…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 08 19:19:11 +0000 2022",
+			"id": 1534616046241321000,
+			"id_str": "1534616046241320960",
+			"full_text": "🚨 Guide to painting LOONA on Billboard 200 🚨\nSummer Special Mini Album [Flip That]  \nOrbits, grab your brush 🖌 because it’s time 🎨\n\n📆 ~ June 20th 11:59PM ET\n🔗 https://t.co/24tDpUuSRo \n*U.S shipping only* \n\n#LOONAonBB200 #이달의소녀 #LOONA #hello82 #FlipThat #StanLOONA https://t.co/B56HG3Hf8R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LOONAonBB200",
+						"indices": [
+							206,
+							219
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							220,
+							226
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							227,
+							233
+						]
+					},
+					{
+						"text": "hello82",
+						"indices": [
+							234,
+							242
+						]
+					},
+					{
+						"text": "FlipThat",
+						"indices": [
+							243,
+							252
+						]
+					},
+					{
+						"text": "StanLOONA",
+						"indices": [
+							253,
+							263
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/24tDpUuSRo",
+						"expanded_url": "https://hello82.shop/products/loona-summer-special-mini-album",
+						"display_url": "hello82.shop/products/loona…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1534615340428103700,
+						"id_str": "1534615340428103680",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FUwMhXkVEAAIh-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUwMhXkVEAAIh-a.jpg",
+						"url": "https://t.co/B56HG3Hf8R",
+						"display_url": "pic.twitter.com/B56HG3Hf8R",
+						"expanded_url": "https://twitter.com/hello82official/status/1534616046241320960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1534615340428103700,
+						"id_str": "1534615340428103680",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FUwMhXkVEAAIh-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUwMhXkVEAAIh-a.jpg",
+						"url": "https://t.co/B56HG3Hf8R",
+						"display_url": "pic.twitter.com/B56HG3Hf8R",
+						"expanded_url": "https://twitter.com/hello82official/status/1534616046241320960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1534615340637859800,
+						"id_str": "1534615340637859841",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FUwMhYWVsAEPr4b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUwMhYWVsAEPr4b.jpg",
+						"url": "https://t.co/B56HG3Hf8R",
+						"display_url": "pic.twitter.com/B56HG3Hf8R",
+						"expanded_url": "https://twitter.com/hello82official/status/1534616046241320960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1534615340813983700,
+						"id_str": "1534615340813983745",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FUwMhZAVIAEy295.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUwMhZAVIAEy295.jpg",
+						"url": "https://t.co/B56HG3Hf8R",
+						"display_url": "pic.twitter.com/B56HG3Hf8R",
+						"expanded_url": "https://twitter.com/hello82official/status/1534616046241320960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1051676602646462500,
+				"id_str": "1051676602646462464",
+				"name": "hello82",
+				"screen_name": "hello82official",
+				"location": "",
+				"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest updates on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official @annyon82",
+				"url": "https://t.co/tpPAHmm3Yk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tpPAHmm3Yk",
+								"expanded_url": "http://hello82.tv",
+								"display_url": "hello82.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 127471,
+				"friends_count": 6,
+				"listed_count": 126,
+				"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+				"favourites_count": 849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+				"profile_link_color": "0B1DFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 806,
+			"favorite_count": 2261,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 209,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 CALLING U.S. ORBITS 🚨\n\nLess than an hour: #LOONA_FLIPTHAT_MV\nLess than 7 hours: #LOONAonBB200 \n\nBillboard 👉🏻 https://t.co/WkPU3ie3Au\n\nTake a look at this card news and see what you can do to help LOONA chart on Billboard 🎉 https://t.co/hyJzhrwqx7"
+	},
+	{
 		"created_at": "Mon Jun 20 07:08:50 +0000 2022",
 		"id": 1538778678888345600,
 		"id_str": "1538780900111941632",
