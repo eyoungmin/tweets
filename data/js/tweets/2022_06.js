@@ -1,10 +1,260 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 06:40:09 +0000 2022",
+		"id": 1538688354304532500,
+		"id_str": "1538773683761725441",
+		"full_text": "#이달의소녀 #LOONA #FlipThat\nLOONA Summer Special Mini Album [Flip That]\nFAN SIGN EVENT📝\n\n🦋영상통화 팬사인회 이벤트\n💚대면 팬사인회 이벤트\n\n📅응모 기간\n~6/22(수) 23:59(KST)\n\n📢당첨자 발표\n6/23(목) 15:00(KST) 이후\n\n#사운드웨이브_온라인몰\n🔗https://t.co/0QDtJxcToa https://t.co/hkqYtlNqQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "사운드웨이브_온라인몰",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QDtJxcToa",
+					"expanded_url": "https://bit.ly/3b9BA5q",
+					"display_url": "bit.ly/3b9BA5q",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538687972216012800,
+					"id_str": "1538687972216012801",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqEjvQaAAEttrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqEjvQaAAEttrc.jpg",
+					"url": "https://t.co/hkqYtlNqQN",
+					"display_url": "pic.twitter.com/hkqYtlNqQN",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1538688354304532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538687972216012800,
+					"id_str": "1538687972216012801",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqEjvQaAAEttrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqEjvQaAAEttrc.jpg",
+					"url": "https://t.co/hkqYtlNqQN",
+					"display_url": "pic.twitter.com/hkqYtlNqQN",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1538688354304532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538688311807864800,
+					"id_str": "1538688311807864832",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqE3gVacAA_l-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqE3gVacAA_l-d.jpg",
+					"url": "https://t.co/hkqYtlNqQN",
+					"display_url": "pic.twitter.com/hkqYtlNqQN",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1538688354304532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745838085401870300,
+			"id_str": "745838085401870337",
+			"name": "사운드웨이브 SOUNDWAVE",
+			"screen_name": "soundwave_korea",
+			"location": "대한민국",
+			"description": "사운드웨이브 공식 트위터 Official Twitter of SOUNDWAVE",
+			"url": "https://t.co/CR4cxlolgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CR4cxlolgm",
+							"expanded_url": "http://www.sound-wave.co.kr",
+							"display_url": "sound-wave.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13308,
+			"friends_count": 163,
+			"listed_count": 45,
+			"created_at": "Thu Jun 23 04:37:11 +0000 2016",
+			"favourites_count": 1138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398311934638755844/GlGDaUdo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398311934638755844/GlGDaUdo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745838085401870337/1562657052",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 349,
+		"favorite_count": 1592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #FlipThat\nLOONA Summer Special Mini Album [Flip That]\nFAN SIGN EVENT📝\n\n🦋영상통화 팬사인회 이벤트\n💚대면 팬사인회 이벤트\n\n📅응모 기간\n~6/22(수) 23:59(KST)\n\n📢당첨자 발표\n6/23(목) 15:00(KST) 이후\n\n#사운드웨이브_온라인몰\n🔗https://t.co/0QDtJxcToa https://t.co/hkqYtlNqQN"
+	},
+	{
 		"created_at": "Mon Jun 20 05:30:57 +0000 2022",
 		"id": 1538748119617523700,
 		"id_str": "1538756268352864257",
-		"full_text": "Just Go For It!\n아이유X제이에스티나의 핫&amp;쿨 썸머 주얼리와 함께\n트렌디하면서 힙한 스포티룩을 만들어보세요🏃‍♀️\n\nhttps://t.co/tG92mUyAng",
+		"full_text": "Just Go For It!\n아이유X제이에스티나의 핫&amp;쿨 썸머 주얼리와 함께\n트렌디하면서 힙한 스포티룩을 만들어보세요🏃♀️\n\nhttps://t.co/tG92mUyAng",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -105,7 +355,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "Just Go For It!\n아이유X제이에스티나의 핫&amp;쿨 썸머 주얼리와 함께\n트렌디하면서 힙한 스포티룩을 만들어보세요🏃‍♀️\n\nhttps://t.co/tG92mUyAng"
+		"text": "Just Go For It!\n아이유X제이에스티나의 핫&amp;쿨 썸머 주얼리와 함께\n트렌디하면서 힙한 스포티룩을 만들어보세요🏃♀️\n\nhttps://t.co/tG92mUyAng"
 	},
 	{
 		"created_at": "Mon Jun 20 04:40:26 +0000 2022",
