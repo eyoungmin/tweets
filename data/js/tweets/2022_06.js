@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 10:40:38 +0000 2022",
+		"id": 1538829393358778400,
+		"id_str": "1538834202275332097",
+		"full_text": "[#지니] 이달의 소녀 [Flip That] MV &amp; 자켓 촬영 현장\n\n▶️ https://t.co/mUkcKW9jvK\n\n#이달의소녀 #플립댓 #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mUkcKW9jvK",
+					"expanded_url": "http://www.genie.co.kr/1OG7E2",
+					"display_url": "genie.co.kr/1OG7E2",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938365,
+			"friends_count": 2,
+			"listed_count": 8777,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 932,
+		"favorite_count": 3139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#지니] 이달의 소녀 [Flip That] MV &amp; 자켓 촬영 현장\n\n▶️ https://t.co/mUkcKW9jvK\n\n#이달의소녀 #플립댓 #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Mon Jun 20 10:40:30 +0000 2022",
+		"id": 1538828894140190700,
+		"id_str": "1538834168242642946",
+		"full_text": "[#멜론] 이달의 소녀 추천! '여름에 듣기 좋은 노래 플레이리스트'\n\n▶️ https://t.co/Mqp0LMiqxM\n\n#이달의소녀 #플립댓 #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mqp0LMiqxM",
+					"expanded_url": "http://kko.to/C5oEGHd2y",
+					"display_url": "kko.to/C5oEGHd2y",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938365,
+			"friends_count": 2,
+			"listed_count": 8777,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 984,
+		"favorite_count": 3291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#멜론] 이달의 소녀 추천! '여름에 듣기 좋은 노래 플레이리스트'\n\n▶️ https://t.co/Mqp0LMiqxM\n\n#이달의소녀 #플립댓 #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Mon Jun 20 10:40:21 +0000 2022",
+		"id": 1538814361120407600,
+		"id_str": "1538834129583845377",
+		"full_text": "💿NEW MUSIC TODAY💿\n“이달의 소녀 (LOONA) - Flip That”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/C5R01oRw2U\n▶️ https://t.co/c3DvjrGw6h\n\n#warnermusic #warnerkpop #KPOP #이달의소녀 #이달소 #LOONA #Flipthat @loonatheworld @BBC_blockberry https://t.co/rOcA7x3dDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "Flipthat",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						200,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C5R01oRw2U",
+					"expanded_url": "https://WMK.lnk.to/KGh9Ok22",
+					"display_url": "WMK.lnk.to/KGh9Ok22",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/c3DvjrGw6h",
+					"expanded_url": "https://youtu.be/SPYX2y4NzTU",
+					"display_url": "youtu.be/SPYX2y4NzTU",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538814273480454100,
+					"id_str": "1538814273480454145",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"url": "https://t.co/rOcA7x3dDT",
+					"display_url": "pic.twitter.com/rOcA7x3dDT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538814361120407552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538814273480454100,
+					"id_str": "1538814273480454145",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538814273480454145/pu/img/_26HHidcDAfHrRRn.jpg",
+					"url": "https://t.co/rOcA7x3dDT",
+					"display_url": "pic.twitter.com/rOcA7x3dDT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1538814361120407552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60089,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/pl/6l6WnNkwBicliDNJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/320x320/nLqKmuuGCbbE7YtZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/540x540/yKCf2osXFqtNUHH0.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538814273480454145/pu/vid/720x720/HE-VjwPXMpd8KhC-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86876,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2052,
+		"favorite_count": 4637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“이달의 소녀 (LOONA) - Flip That”를 지금 바로 음원 사이트에서 만나보세요!\n\n🎵 https://t.co/C5R01oRw2U\n▶️ https://t.co/c3DvjrGw6h\n\n#warnermusic #warnerkpop #KPOP #이달의소녀 #이달소 #LOONA #Flipthat @loonatheworld @BBC_blockberry https://t.co/rOcA7x3dDT"
+	},
+	{
 		"created_at": "Mon Jun 20 09:46:04 +0000 2022",
 		"id": 1538813367196221400,
 		"id_str": "1538820469306032129",
