@@ -1,6 +1,2058 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 09:46:04 +0000 2022",
+		"id": 1538813367196221400,
+		"id_str": "1538820469306032129",
+		"full_text": "LOONA is back! Ready for the summer the girls have released \"Flip That\" from the min-album of the same name! Check out the lyrics &amp; English translation to the song on Genius now!\n\n#LOONA_FLIPTHAT_DDAY @loonatheworld \n\n🔗 https://t.co/nevxhMUt4C https://t.co/OmRmPjDAqb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA_FLIPTHAT_DDAY",
+					"indices": [
+						184,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						205,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nevxhMUt4C",
+					"expanded_url": "https://genius.com/Loona-flip-that-lyrics",
+					"display_url": "genius.com/Loona-flip-tha…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538812848096149500,
+					"id_str": "1538812848096149505",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr2IeKUAAEyxuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr2IeKUAAEyxuR.jpg",
+					"url": "https://t.co/OmRmPjDAqb",
+					"display_url": "pic.twitter.com/OmRmPjDAqb",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1538813367196221440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538812848096149500,
+					"id_str": "1538812848096149505",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr2IeKUAAEyxuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr2IeKUAAEyxuR.jpg",
+					"url": "https://t.co/OmRmPjDAqb",
+					"display_url": "pic.twitter.com/OmRmPjDAqb",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1538813367196221440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanizations, English Translations for K-Pop & Korean music | @Genius Community Based Account, not affiliated with Genius Inc. | 🇰🇷 DM for inquiries",
+			"url": "https://t.co/hrRPuLlIwP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLlIwP",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16591,
+			"friends_count": 1590,
+			"listed_count": 81,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 3119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA is back! Ready for the summer the girls have released \"Flip That\" from the min-album of the same name! Check out the lyrics &amp; English translation to the song on Genius now!\n\n#LOONA_FLIPTHAT_DDAY @loonatheworld \n\n🔗 https://t.co/nevxhMUt4C https://t.co/OmRmPjDAqb"
+	},
+	{
+		"created_at": "Mon Jun 20 09:45:58 +0000 2022",
+		"id": 1538812269462962200,
+		"id_str": "1538820443687223296",
+		"full_text": "오빛✨ 마음을 'Flip That' 할💚\n이달의 소녀의 서머 스페셜 미니 앨범💿\n[Flip That]이 발매되었습니다\n\n🦋 이달소의 새 앨범을 들어보고 싶다면\n🦋 이달소 앨범 발매 이벤트에 참여하고 싶다면\n\n👉🏻 지금 바로 벅스에서\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/xk4zZVevvn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538812208163225600,
+					"id_str": "1538812208163225600",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538812208163225600/pu/img/1EEKb9XGYmEfUUZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538812208163225600/pu/img/1EEKb9XGYmEfUUZZ.jpg",
+					"url": "https://t.co/xk4zZVevvn",
+					"display_url": "pic.twitter.com/xk4zZVevvn",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1538812269462962181/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538812208163225600,
+					"id_str": "1538812208163225600",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538812208163225600/pu/img/1EEKb9XGYmEfUUZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538812208163225600/pu/img/1EEKb9XGYmEfUUZZ.jpg",
+					"url": "https://t.co/xk4zZVevvn",
+					"display_url": "pic.twitter.com/xk4zZVevvn",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1538812269462962181/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26126,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538812208163225600/pu/vid/480x270/FuxNkdonIyry200P.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538812208163225600/pu/vid/640x360/ns6LnHUIr7WzLvr0.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538812208163225600/pu/vid/1280x720/2Xm2GugsnQcR3y9-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538812208163225600/pu/pl/IvGgw0wdu6EeNvNa.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54490933,
+			"id_str": "54490933",
+			"name": "벅스",
+			"screen_name": "Bugs_play",
+			"location": "Bugs.co.kr",
+			"description": "슈퍼사운드, 벅스",
+			"url": "http://t.co/jGYDBIeEWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jGYDBIeEWX",
+							"expanded_url": "http://Bugs.co.kr",
+							"display_url": "Bugs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10407,
+			"friends_count": 8577,
+			"listed_count": 285,
+			"created_at": "Tue Jul 07 08:32:47 +0000 2009",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54490933/1553073696",
+			"profile_link_color": "473209",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAC05",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛✨ 마음을 'Flip That' 할💚\n이달의 소녀의 서머 스페셜 미니 앨범💿\n[Flip That]이 발매되었습니다\n\n🦋 이달소의 새 앨범을 들어보고 싶다면\n🦋 이달소 앨범 발매 이벤트에 참여하고 싶다면\n\n👉🏻 지금 바로 벅스에서\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/xk4zZVevvn"
+	},
+	{
+		"created_at": "Mon Jun 20 09:45:52 +0000 2022",
+		"id": 1538812120527437800,
+		"id_str": "1538820417988722688",
+		"full_text": "📢 아아! #오빛 여러분들 주목~📢\n#탐이나 탐낼 만한 플레이어스킨🌙\n이달소로 꽉 찬 플레이어스킨🦋과 라이브앨범아트는 👉🏻오직 벅스에서만🎧\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/d61tbIdiO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오빛",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "탐이나",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538812107948699600,
+					"id_str": "1538812107948699648",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr1dY5aMAA8CmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr1dY5aMAA8CmC.jpg",
+					"url": "https://t.co/d61tbIdiO4",
+					"display_url": "pic.twitter.com/d61tbIdiO4",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1538812120527437825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538812107948699600,
+					"id_str": "1538812107948699648",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr1dY5aMAA8CmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr1dY5aMAA8CmC.jpg",
+					"url": "https://t.co/d61tbIdiO4",
+					"display_url": "pic.twitter.com/d61tbIdiO4",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1538812120527437825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54490933,
+			"id_str": "54490933",
+			"name": "벅스",
+			"screen_name": "Bugs_play",
+			"location": "Bugs.co.kr",
+			"description": "슈퍼사운드, 벅스",
+			"url": "http://t.co/jGYDBIeEWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jGYDBIeEWX",
+							"expanded_url": "http://Bugs.co.kr",
+							"display_url": "Bugs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10407,
+			"friends_count": 8577,
+			"listed_count": 285,
+			"created_at": "Tue Jul 07 08:32:47 +0000 2009",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54490933/1553073696",
+			"profile_link_color": "473209",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAC05",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 403,
+		"favorite_count": 1413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 아아! #오빛 여러분들 주목~📢\n#탐이나 탐낼 만한 플레이어스킨🌙\n이달소로 꽉 찬 플레이어스킨🦋과 라이브앨범아트는 👉🏻오직 벅스에서만🎧\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/d61tbIdiO4"
+	},
+	{
+		"created_at": "Mon Jun 20 09:45:46 +0000 2022",
+		"id": 1538810283506167800,
+		"id_str": "1538820392319606784",
+		"full_text": "[📽Full ver.] 이달의 소녀 LOONA 'Flip That' (플립댓) Showcase Stage 쇼케이스 (희진, 현진,하슬, 진솔, 최리, 이브, 츄, 고원, 올리비아혜) (@loonatheworld )\n\n🔗https://t.co/ycUw6IYBT2\n\n#이달의소녀 #LOONA #FlipThat https://t.co/2wykBEJE9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ycUw6IYBT2",
+					"expanded_url": "https://youtu.be/LQXzV9SZHgE",
+					"display_url": "youtu.be/LQXzV9SZHgE",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538810270856147000,
+					"id_str": "1538810270856146944",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzydMacAAfAwI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzydMacAAfAwI.jpg",
+					"url": "https://t.co/2wykBEJE9v",
+					"display_url": "pic.twitter.com/2wykBEJE9v",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1538810283506167808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538810270856147000,
+					"id_str": "1538810270856146944",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzydMacAAfAwI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzydMacAAfAwI.jpg",
+					"url": "https://t.co/2wykBEJE9v",
+					"display_url": "pic.twitter.com/2wykBEJE9v",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1538810283506167808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6393,
+			"friends_count": 11,
+			"listed_count": 25,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽Full ver.] 이달의 소녀 LOONA 'Flip That' (플립댓) Showcase Stage 쇼케이스 (희진, 현진,하슬, 진솔, 최리, 이브, 츄, 고원, 올리비아혜) (@loonatheworld )\n\n🔗https://t.co/ycUw6IYBT2\n\n#이달의소녀 #LOONA #FlipThat https://t.co/2wykBEJE9v"
+	},
+	{
+		"created_at": "Mon Jun 20 09:45:41 +0000 2022",
+		"id": 1538809990412386300,
+		"id_str": "1538820375018147840",
+		"full_text": "[📸쇼케이스]  이달의 소녀 LOONA  'Pale Blue Dot' Showcase Stage 쇼케이스 무대(희진, 현진, 하슬, 진솔, 최리, 이브, 츄, 고원, 올리비아혜) (@loonatheworld)\n\n🔗https://t.co/ttpgBKJV6R\n\n#이달의소녀 #LOONA #FlipThat #PaleBlueDot https://t.co/nM6wSCw1za",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "PaleBlueDot",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ttpgBKJV6R",
+					"expanded_url": "https://youtu.be/lomipi9gl_s",
+					"display_url": "youtu.be/lomipi9gl_s",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538809964965556200,
+					"id_str": "1538809964965556229",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzgpqacAUkcvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzgpqacAUkcvs.jpg",
+					"url": "https://t.co/nM6wSCw1za",
+					"display_url": "pic.twitter.com/nM6wSCw1za",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1538809990412386305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538809964965556200,
+					"id_str": "1538809964965556229",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrzgpqacAUkcvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrzgpqacAUkcvs.jpg",
+					"url": "https://t.co/nM6wSCw1za",
+					"display_url": "pic.twitter.com/nM6wSCw1za",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1538809990412386305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6393,
+			"friends_count": 11,
+			"listed_count": 25,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸쇼케이스]  이달의 소녀 LOONA  'Pale Blue Dot' Showcase Stage 쇼케이스 무대(희진, 현진, 하슬, 진솔, 최리, 이브, 츄, 고원, 올리비아혜) (@loonatheworld)\n\n🔗https://t.co/ttpgBKJV6R\n\n#이달의소녀 #LOONA #FlipThat #PaleBlueDot https://t.co/nM6wSCw1za"
+	},
+	{
+		"created_at": "Mon Jun 20 09:40:37 +0000 2022",
+		"id": 1538816584806170600,
+		"id_str": "1538819096472690690",
+		"full_text": "이달의 소녀 \"Flip That\" 응원법 영상이 공개되었습니다📣\n오빛💫 #FlipThat 무대 보면서 힘차게 응원해주세요\n\n▶️ https://t.co/QmA39NAjAZ\n\n#이달의소녀 #플립댓 #LOONA https://t.co/ltjnpSdsPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlipThat",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmA39NAjAZ",
+					"expanded_url": "https://youtu.be/nvrrvV5w1R8",
+					"display_url": "youtu.be/nvrrvV5w1R8",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538816570239361000,
+					"id_str": "1538816570239361024",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr5hIOaIAAr57U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr5hIOaIAAr57U.jpg",
+					"url": "https://t.co/ltjnpSdsPN",
+					"display_url": "pic.twitter.com/ltjnpSdsPN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538816584806170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538816570239361000,
+					"id_str": "1538816570239361024",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FVr5hIOaIAAr57U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVr5hIOaIAAr57U.jpg",
+					"url": "https://t.co/ltjnpSdsPN",
+					"display_url": "pic.twitter.com/ltjnpSdsPN",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1538816584806170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938248,
+			"friends_count": 2,
+			"listed_count": 8772,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3315,
+		"favorite_count": 7810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 \"Flip That\" 응원법 영상이 공개되었습니다📣\n오빛💫 #FlipThat 무대 보면서 힘차게 응원해주세요\n\n▶️ https://t.co/QmA39NAjAZ\n\n#이달의소녀 #플립댓 #LOONA https://t.co/ltjnpSdsPN"
+	},
+	{
+		"created_at": "Mon Jun 20 09:40:31 +0000 2022",
+		"id": 1538504502180860000,
+		"id_str": "1538819074934833152",
+		"full_text": "여러분 기적이에요 70% 넘었어요 4일안에 30%를 채워서 동물친구들의 삶을 바꿀수있게 도와주세요 여러분의 5분이 다른 동물의 삶을 송두리채 변화시킬수있어요 \nhttps://t.co/M7uhrCI5ml\n해당 링크 들어가서 동의만 해주시면됩니다 도와주세요 감사합니다!! https://t.co/3oJ2XEyNGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7uhrCI5ml",
+					"expanded_url": "https://petitions.assembly.go.kr/status/onGoing/DCEBD13459C45776E054B49691C1987F",
+					"display_url": "petitions.assembly.go.kr/status/onGoing…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538504493737734100,
+					"id_str": "1538504493737734150",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVndr4qUcAYC54C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVndr4qUcAYC54C.jpg",
+					"url": "https://t.co/3oJ2XEyNGk",
+					"display_url": "pic.twitter.com/3oJ2XEyNGk",
+					"expanded_url": "https://twitter.com/avoahth/status/1538504502180859909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538504493737734100,
+					"id_str": "1538504493737734150",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FVndr4qUcAYC54C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVndr4qUcAYC54C.jpg",
+					"url": "https://t.co/3oJ2XEyNGk",
+					"display_url": "pic.twitter.com/3oJ2XEyNGk",
+					"expanded_url": "https://twitter.com/avoahth/status/1538504502180859909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1538393319696236500,
+		"in_reply_to_status_id_str": "1538393319696236544",
+		"in_reply_to_user_id": 1495047413626671000,
+		"in_reply_to_user_id_str": "1495047413626671111",
+		"in_reply_to_screen_name": "avoahth",
+		"user": {
+			"id": 1495047413626671000,
+			"id_str": "1495047413626671111",
+			"name": "아쓰아보아기",
+			"screen_name": "avoahth",
+			"location": "",
+			"description": "김다은(천사) 김아쓰(9세)                        김아기(6살 중요) 김아보 (3세)                 신천지관계자분들은 조용히                     홈 버튼을 눌러 나가세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 73,
+			"listed_count": 3,
+			"created_at": "Sat Feb 19 14:47:50 +0000 2022",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509905336903163904/uywk9Sae_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509905336903163904/uywk9Sae_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1495047413626671111/1648824471",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2772,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 기적이에요 70% 넘었어요 4일안에 30%를 채워서 동물친구들의 삶을 바꿀수있게 도와주세요 여러분의 5분이 다른 동물의 삶을 송두리채 변화시킬수있어요 \nhttps://t.co/M7uhrCI5ml\n해당 링크 들어가서 동의만 해주시면됩니다 도와주세요 감사합니다!! https://t.co/3oJ2XEyNGk"
+	},
+	{
+		"created_at": "Mon Jun 20 09:40:23 +0000 2022",
+		"id": 1538808880817242000,
+		"id_str": "1538819040919027712",
+		"full_text": "aespa 에스파 'ep2. Next Level' - SM Culture Universe\n\n🎬 https://t.co/J9D6lpOsvF\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/KEaYTwBq3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "SM_Culture_Universe",
+					"indices": [
+						96,
+						116
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						150,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J9D6lpOsvF",
+					"expanded_url": "https://youtu.be/i8fRCkq5tbw",
+					"display_url": "youtu.be/i8fRCkq5tbw",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538781716156153900,
+					"id_str": "1538781716156153856",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrZ0WpagAALu04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrZ0WpagAALu04.jpg",
+					"url": "https://t.co/KEaYTwBq3G",
+					"display_url": "pic.twitter.com/KEaYTwBq3G",
+					"expanded_url": "https://twitter.com/aespa_official/status/1538808880817242113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538781716156153900,
+					"id_str": "1538781716156153856",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrZ0WpagAALu04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrZ0WpagAALu04.jpg",
+					"url": "https://t.co/KEaYTwBq3G",
+					"display_url": "pic.twitter.com/KEaYTwBq3G",
+					"expanded_url": "https://twitter.com/aespa_official/status/1538808880817242113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2766411,
+			"friends_count": 2,
+			"listed_count": 8699,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18520,
+		"favorite_count": 31045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'ep2. Next Level' - SM Culture Universe\n\n🎬 https://t.co/J9D6lpOsvF\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/KEaYTwBq3G"
+	},
+	{
+		"created_at": "Mon Jun 20 09:31:03 +0000 2022",
+		"id": 1538806728153714700,
+		"id_str": "1538816690544267266",
+		"full_text": "심규선X유승우 &lt;로맨스 in 부산&gt; - SUDDENLY FESTIVAL\n- 티켓오픈 2022년 6월 21일 (화) 10:00\n- 공연일시 : 2022년 7월 24일 (일) 18시\n- 공연장소 : 부산시민회관 대극장\n.\n#심규선 #루시아 #유승우 #로맨스in부산 #SUDDENLYFESTIVAL #페스티벌 #부산시민회관 #인터파크티켓 #부산",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "유승우",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "로맨스in부산",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "SUDDENLYFESTIVAL",
+					"indices": [
+						152,
+						169
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "부산시민회관",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"text": "부산",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538806655042740200,
+		"in_reply_to_status_id_str": "1538806655042740224",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10908,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "심규선X유승우 &lt;로맨스 in 부산&gt; - SUDDENLY FESTIVAL\n- 티켓오픈 2022년 6월 21일 (화) 10:00\n- 공연일시 : 2022년 7월 24일 (일) 18시\n- 공연장소 : 부산시민회관 대극장\n.\n#심규선 #루시아 #유승우 #로맨스in부산 #SUDDENLYFESTIVAL #페스티벌 #부산시민회관 #인터파크티켓 #부산"
+	},
+	{
+		"created_at": "Mon Jun 20 09:31:03 +0000 2022",
+		"id": 1538806655042740200,
+		"id_str": "1538816688740675584",
+		"full_text": "🎆페스티벌 공지🎆\n☀️🌊부산으로 갑니다☀️🌊\n내일부터 티켓 오픈이네요, \n얼마만의 페스티벌 무대인지🥲💙\n이산가족 상봉 및 한풀이 공연이 될 것 같습니다🤣 https://t.co/JhLlylA1TX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538806652014428200,
+					"id_str": "1538806652014428160",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrwfz9UAAAEbSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrwfz9UAAAEbSA.jpg",
+					"url": "https://t.co/JhLlylA1TX",
+					"display_url": "pic.twitter.com/JhLlylA1TX",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1538806655042740224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538806652014428200,
+					"id_str": "1538806652014428160",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FVrwfz9UAAAEbSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVrwfz9UAAAEbSA.jpg",
+					"url": "https://t.co/JhLlylA1TX",
+					"display_url": "pic.twitter.com/JhLlylA1TX",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1538806655042740224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10908,
+			"friends_count": 0,
+			"listed_count": 163,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎆페스티벌 공지🎆\n☀️🌊부산으로 갑니다☀️🌊\n내일부터 티켓 오픈이네요, \n얼마만의 페스티벌 무대인지🥲💙\n이산가족 상봉 및 한풀이 공연이 될 것 같습니다🤣 https://t.co/JhLlylA1TX"
+	},
+	{
 		"created_at": "Mon Jun 20 08:45:36 +0000 2022",
 		"id": 1538800842337579000,
 		"id_str": "1538805254472482816",
