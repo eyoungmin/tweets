@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 02:40:09 +0000 2022",
+		"id": 1538708937893380000,
+		"id_str": "1538713285800906754",
+		"full_text": "[💡] Article, With HYPEBEAST🥰\n\n👉https://t.co/y4TB0eiyCz\n\n#Seori #서리 #hypebeast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "hypebeast",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y4TB0eiyCz",
+					"expanded_url": "https://url.kr/49cdv8",
+					"display_url": "url.kr/49cdv8",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/2jDAeGXOz0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2jDAeGXOz0",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44753,
+			"friends_count": 0,
+			"listed_count": 188,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1505898413191180296/4NuW8UXg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1647869136",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💡] Article, With HYPEBEAST🥰\n\n👉https://t.co/y4TB0eiyCz\n\n#Seori #서리 #hypebeast"
+	},
+	{
 		"created_at": "Mon Jun 20 01:45:37 +0000 2022",
 		"id": 1538690365573972000,
 		"id_str": "1538699559836295168",
