@@ -1,10 +1,239 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 01:45:37 +0000 2022",
+		"id": 1538690365573972000,
+		"id_str": "1538699559836295168",
+		"full_text": "[Group] Weekly Ranking\n\n💝 4th week of June / 6월 4주의 아이돌은?💝\n\n👑NOMINEE \n#OMEGA_X\n#WONHO\n#Kep1er\n#LOONA\n#KARD\n#SECRET_NUMBER\n#YOUNGJAE\n#NAYEON\n•\n•\n•\n👑REWARD : Special SUBWAY AD (1 Month)\n\nVOTE👉https://t.co/U0pCkB0jEr https://t.co/3h9f0SewLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "SECRET_NUMBER",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "YOUNGJAE",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "NAYEON",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0pCkB0jEr",
+					"expanded_url": "https://bit.ly/3zLR5eb",
+					"display_url": "bit.ly/3zLR5eb",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538690356585590800,
+					"id_str": "1538690356585590784",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqGuhuacAA9e0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqGuhuacAA9e0N.jpg",
+					"url": "https://t.co/3h9f0SewLI",
+					"display_url": "pic.twitter.com/3h9f0SewLI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1538690365573971968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538690356585590800,
+					"id_str": "1538690356585590784",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FVqGuhuacAA9e0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVqGuhuacAA9e0N.jpg",
+					"url": "https://t.co/3h9f0SewLI",
+					"display_url": "pic.twitter.com/3h9f0SewLI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1538690365573971968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97373,
+			"friends_count": 108,
+			"listed_count": 256,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Group] Weekly Ranking\n\n💝 4th week of June / 6월 4주의 아이돌은?💝\n\n👑NOMINEE \n#OMEGA_X\n#WONHO\n#Kep1er\n#LOONA\n#KARD\n#SECRET_NUMBER\n#YOUNGJAE\n#NAYEON\n•\n•\n•\n👑REWARD : Special SUBWAY AD (1 Month)\n\nVOTE👉https://t.co/U0pCkB0jEr https://t.co/3h9f0SewLI"
+	},
+	{
 		"created_at": "Sun Jun 19 17:40:09 +0000 2022",
 		"id": 1538569496218292200,
 		"id_str": "1538577390204600322",
-		"full_text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️‍🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm",
+		"full_text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +412,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️‍🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm"
+		"text": "When you realise that you've got a new album coming out in less than 5 weeks and it's full of bangers ❤️🔥 Wahhhh! Pre-order \"22 Make\" on exclusive signed vinyl/cd/tape here -  https://t.co/vbzLQ4kpgR https://t.co/aTl9OKaJmm"
 	},
 	{
 		"created_at": "Sun Jun 19 12:40:24 +0000 2022",
