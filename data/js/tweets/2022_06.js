@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 14:40:09 +0000 2022",
+		"id": 1539185899342549000,
+		"id_str": "1539256867754545156",
+		"full_text": "JUNNY - Color Me (Feat.청하)\nTeaser \n\nhttps://t.co/P2PQOTyftf \n\n🗓 D-2\n2022.06.23 THU 18:00 (KST)\n\n#JUNNY #주니\n#Color_Me #컬러미\n#CHUNGHA #청하\n#MAUVECOMPANY #모브컴퍼니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUNNY",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "주니",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "Color_Me",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "컬러미",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "MAUVECOMPANY",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "모브컴퍼니",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P2PQOTyftf",
+					"expanded_url": "https://youtu.be/Sq0KH39tK54",
+					"display_url": "youtu.be/Sq0KH39tK54",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1352557016028336000,
+			"id_str": "1352557016028336128",
+			"name": "모브컴퍼니 (mauve company)",
+			"screen_name": "mauvecompany",
+			"location": "",
+			"description": "mauve company official twitter",
+			"url": "https://t.co/g5isHLpQWG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g5isHLpQWG",
+							"expanded_url": "http://mauve-company.com/",
+							"display_url": "mauve-company.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 1,
+			"listed_count": 18,
+			"created_at": "Fri Jan 22 10:01:48 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352557148144693248/cBauChxE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352557148144693248/cBauChxE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1352557016028336128/1611309851",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JUNNY - Color Me (Feat.청하)\nTeaser \n\nhttps://t.co/P2PQOTyftf \n\n🗓 D-2\n2022.06.23 THU 18:00 (KST)\n\n#JUNNY #주니\n#Color_Me #컬러미\n#CHUNGHA #청하\n#MAUVECOMPANY #모브컴퍼니"
+	},
+	{
 		"created_at": "Tue Jun 21 12:40:15 +0000 2022",
 		"id": 1539216657079357400,
 		"id_str": "1539226690064470016",
