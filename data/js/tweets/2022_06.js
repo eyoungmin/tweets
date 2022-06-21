@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 12:40:15 +0000 2022",
+		"id": 1539216657079357400,
+		"id_str": "1539226690064470016",
+		"full_text": "🌼에버라인 X 이달의 소녀 온&amp;오프라인 럭키드로우 공지\n\n✔이벤트 기간: 6/22(WED) AM 10:00 ~ 6/27(MON) PM 11:59 (KST)\n✔구매 링크: https://t.co/gtLDp4pZN4\n\n📍에버라인 뮤직 &amp; 카페 (서울 서대문구 신촌역로 29)\n\n#LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/NkFnwTJOgH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "EVERLINE",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "에버라인",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gtLDp4pZN4",
+					"expanded_url": "https://bit.ly/3N5lyXv",
+					"display_url": "bit.ly/3N5lyXv",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539216632811098000,
+					"id_str": "1539216632811098113",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxlX1cUEAEsKgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxlX1cUEAEsKgd.jpg",
+					"url": "https://t.co/NkFnwTJOgH",
+					"display_url": "pic.twitter.com/NkFnwTJOgH",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1539216657079357441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539216632811098000,
+					"id_str": "1539216632811098113",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxlX1cUEAEsKgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxlX1cUEAEsKgd.jpg",
+					"url": "https://t.co/NkFnwTJOgH",
+					"display_url": "pic.twitter.com/NkFnwTJOgH",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1539216657079357441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539216633012531200,
+					"id_str": "1539216633012531200",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxlX2MVsAAf2d7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxlX2MVsAAf2d7.jpg",
+					"url": "https://t.co/NkFnwTJOgH",
+					"display_url": "pic.twitter.com/NkFnwTJOgH",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1539216657079357441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539216633184432000,
+					"id_str": "1539216633184432129",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxlX21UsAERsyJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxlX21UsAERsyJ.jpg",
+					"url": "https://t.co/NkFnwTJOgH",
+					"display_url": "pic.twitter.com/NkFnwTJOgH",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1539216657079357441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539216633364828200,
+					"id_str": "1539216633364828161",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxlX3gVUAEpo3t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxlX3gVUAEpo3t.jpg",
+					"url": "https://t.co/NkFnwTJOgH",
+					"display_url": "pic.twitter.com/NkFnwTJOgH",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1539216657079357441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309403974735286300,
+			"id_str": "1309403974735286272",
+			"name": "EVERLINE",
+			"screen_name": "EVERLINESHOP",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/DsIywT1pAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsIywT1pAi",
+							"expanded_url": "http://everlineshop.com/",
+							"display_url": "everlineshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8701,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Fri Sep 25 08:07:03 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309403974735286272/1601021479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 1313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌼에버라인 X 이달의 소녀 온&amp;오프라인 럭키드로우 공지\n\n✔이벤트 기간: 6/22(WED) AM 10:00 ~ 6/27(MON) PM 11:59 (KST)\n✔구매 링크: https://t.co/gtLDp4pZN4\n\n📍에버라인 뮤직 &amp; 카페 (서울 서대문구 신촌역로 29)\n\n#LOONA #이달의소녀 #EVERLINE #에버라인 https://t.co/NkFnwTJOgH"
+	},
+	{
 		"created_at": "Tue Jun 21 11:40:14 +0000 2022",
 		"id": 1539205005382938600,
 		"id_str": "1539211590356111361",
