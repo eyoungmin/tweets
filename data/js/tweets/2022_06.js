@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 08:40:19 +0000 2022",
+		"id": 1539163714728800300,
+		"id_str": "1539166309384171520",
+		"full_text": "[🎬ᐢ•_•] #스포해블립 #blip\n\n#블립 + 짱달소 + 교복 = 필승 조합 ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥̀\n케이팝을 뒤집어버릴 #블라블라 깜짝 무대가 곧 공개됩니다💗\n\n🏫#LOONA #FlipThat (SCHOOL UNIFORM VER.)🏫\n6/24 18:00 RELEASE\n\n🌙#오빛 을 위한 #이달의소녀 스케줄 알리미\n📱https://t.co/RSVf1iCShK https://t.co/TaEGcnT7Pk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포해블립",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "blip",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "블립",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "블라블라",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RSVf1iCShK",
+					"expanded_url": "http://s.blip.kr/download",
+					"display_url": "s.blip.kr/download",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539160783229448200,
+					"id_str": "1539160783229448192",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FVwyk9iacAARWCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVwyk9iacAARWCO.jpg",
+					"url": "https://t.co/TaEGcnT7Pk",
+					"display_url": "pic.twitter.com/TaEGcnT7Pk",
+					"expanded_url": "https://twitter.com/blip_twt/status/1539163714728800257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539160783229448200,
+					"id_str": "1539160783229448192",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FVwyk9iacAARWCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVwyk9iacAARWCO.jpg",
+					"url": "https://t.co/TaEGcnT7Pk",
+					"display_url": "pic.twitter.com/TaEGcnT7Pk",
+					"expanded_url": "https://twitter.com/blip_twt/status/1539163714728800257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222406929932095500,
+			"id_str": "1222406929932095491",
+			"name": "ᐢ•_• 블립 blip | 케이팝 팬을 위한 스케줄 알리미",
+			"screen_name": "blip_twt",
+			"location": "💞시켜줘, 케이팝 명예 스케줄 알리미💞",
+			"description": "NCT, 세븐틴, 아스트로, 아이유 등 케이팝 아이돌 스케줄부터 떡밥, 스밍·뮤밍용 데이터까지! 눈치 빠른 100만 명의 팬들은 이미 #블립 사용중 ᐢ•_• The Go-To App for K-Pop Stars’ Schedule | K-Popアイドルのスケジュール、ブリップでホイッと！",
+			"url": "https://t.co/dTHWts8FNW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dTHWts8FNW",
+							"expanded_url": "https://s.blip.kr/download",
+							"display_url": "s.blip.kr/download",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5578,
+			"friends_count": 78,
+			"listed_count": 11,
+			"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+			"favourites_count": 4110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1653545182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 812,
+		"favorite_count": 1967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎬ᐢ•_•] #스포해블립 #blip\n\n#블립 + 짱달소 + 교복 = 필승 조합 ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥̀\n케이팝을 뒤집어버릴 #블라블라 깜짝 무대가 곧 공개됩니다💗\n\n🏫#LOONA #FlipThat (SCHOOL UNIFORM VER.)🏫\n6/24 18:00 RELEASE\n\n🌙#오빛 을 위한 #이달의소녀 스케줄 알리미\n📱https://t.co/RSVf1iCShK https://t.co/TaEGcnT7Pk"
+	},
+	{
+		"created_at": "Tue Jun 21 08:40:12 +0000 2022",
+		"id": 1539156171814207500,
+		"id_str": "1539166279495520256",
+		"full_text": "너 좀 뭐 돼?😄 때아닌 거짓말 소동에 흑화한😈 #이달의소녀 의 모습이 궁금하다면 내일 원더케이에서 공개되는 #라이어와춤을 꼭 보기로 약속🤙해요 오빛💓\n#LOONA's &lt;#Dance_with_liar&gt; Coming Soon! @loonatheworld https://t.co/syBB6vwgc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "라이어와춤을",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "Dance_with_liar",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						132,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539121644996038700,
+					"id_str": "1539121644996038657",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539121644996038657/img/fsiTIiEAC2Z_ECQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539121644996038657/img/fsiTIiEAC2Z_ECQv.jpg",
+					"url": "https://t.co/syBB6vwgc7",
+					"display_url": "pic.twitter.com/syBB6vwgc7",
+					"expanded_url": "https://twitter.com/1theK/status/1539156171814207488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539121644996038700,
+					"id_str": "1539121644996038657",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1539121644996038657/img/fsiTIiEAC2Z_ECQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1539121644996038657/img/fsiTIiEAC2Z_ECQv.jpg",
+					"url": "https://t.co/syBB6vwgc7",
+					"display_url": "pic.twitter.com/syBB6vwgc7",
+					"expanded_url": "https://twitter.com/1theK/status/1539156171814207488/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6639,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539121644996038657/vid/480x852/RpY5FShia_NdP7Cb.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539121644996038657/vid/720x1280/wOINCsZuz3g8Tx2N.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1539121644996038657/pl/N2Qt5riEFea-KQGb.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539121644996038657/vid/320x568/xwlHmkQrrTmSJPwC.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2334207,
+			"friends_count": 813,
+			"listed_count": 2221,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1655463643",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1211,
+		"favorite_count": 3179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너 좀 뭐 돼?😄 때아닌 거짓말 소동에 흑화한😈 #이달의소녀 의 모습이 궁금하다면 내일 원더케이에서 공개되는 #라이어와춤을 꼭 보기로 약속🤙해요 오빛💓\n#LOONA's &lt;#Dance_with_liar&gt; Coming Soon! @loonatheworld https://t.co/syBB6vwgc7"
+	},
+	{
+		"created_at": "Tue Jun 21 08:24:23 +0000 2022",
+		"id": 1539153641730637800,
+		"id_str": "1539162302942810113",
+		"full_text": "올 여름이 기다려지는 이유! 완전체 #소녀시대 &lt;소시탐탐&gt; &amp; #우가팸 #방탄소년단 #뷔 #박서준 #최우식 #박형식 #픽보이 &lt;인더숲 : 우정여행&gt; 우정 예능이 온다! https://t.co/oHgTraccyN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "우가팸",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "뷔",
+					"indices": [
+						57,
+						59
+					]
+				},
+				{
+					"text": "박서준",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "최우식",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "박형식",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "픽보이",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oHgTraccyN",
+					"expanded_url": "https://www.allurekorea.com/2022/06/21/jtbc/?ddw=113848&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/06/21/jtb…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38566,
+			"friends_count": 1,
+			"listed_count": 292,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1655556171",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올 여름이 기다려지는 이유! 완전체 #소녀시대 &lt;소시탐탐&gt; &amp; #우가팸 #방탄소년단 #뷔 #박서준 #최우식 #박형식 #픽보이 &lt;인더숲 : 우정여행&gt; 우정 예능이 온다! https://t.co/oHgTraccyN"
+	},
+	{
 		"created_at": "Tue Jun 21 07:40:29 +0000 2022",
 		"id": 1539145602348351500,
 		"id_str": "1539151255246888960",
