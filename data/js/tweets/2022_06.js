@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 02:40:14 +0000 2022",
+		"id": 1539073051379150800,
+		"id_str": "1539075691190304769",
+		"full_text": "#aespa’s #SM_Culture_Universe EP. 2 ‘#NextLevel’ is out! \nA brilliant, multifaceted production with live-action → animation → motion-toon along with the expanded #SMCU storyline and movie-like scale is a hit among the fans! \n\n#æspa #에스파\n#Season1\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SM_Culture_Universe",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						226,
+						231
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						232,
+						236
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						237,
+						245
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1539073048224989200,
+		"in_reply_to_status_id_str": "1539073048224989184",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2771336,
+			"friends_count": 2,
+			"listed_count": 8706,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1217,
+		"favorite_count": 4014,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa’s #SM_Culture_Universe EP. 2 ‘#NextLevel’ is out! \nA brilliant, multifaceted production with live-action → animation → motion-toon along with the expanded #SMCU storyline and movie-like scale is a hit among the fans! \n\n#æspa #에스파\n#Season1\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Tue Jun 21 02:40:09 +0000 2022",
+		"id": 1539073048224989200,
+		"id_str": "1539075673897189378",
+		"full_text": "에스파, SMCU 세계관 영상 EP. 2 ‘Next Level’ 공개 화제! 영화 같은 스케일!\n실사→애니→모션툰 오가는 감각적인 연출! 확장된 세계관 스토리로 시선집중! \n\nhttps://t.co/qBTTwSy8JS\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/Y57OtDdS6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "SM_Culture_Universe",
+					"indices": [
+						141,
+						161
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						195,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBTTwSy8JS",
+					"expanded_url": "https://bit.ly/3Ob48tQ",
+					"display_url": "bit.ly/3Ob48tQ",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539072835997487000,
+					"id_str": "1539072835997487105",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvilwkVUAELyDi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvilwkVUAELyDi.jpg",
+					"url": "https://t.co/Y57OtDdS6O",
+					"display_url": "pic.twitter.com/Y57OtDdS6O",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539073048224989184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539072835997487000,
+					"id_str": "1539072835997487105",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvilwkVUAELyDi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvilwkVUAELyDi.jpg",
+					"url": "https://t.co/Y57OtDdS6O",
+					"display_url": "pic.twitter.com/Y57OtDdS6O",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539073048224989184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2771336,
+			"friends_count": 2,
+			"listed_count": 8706,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4455,
+		"favorite_count": 12378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, SMCU 세계관 영상 EP. 2 ‘Next Level’ 공개 화제! 영화 같은 스케일!\n실사→애니→모션툰 오가는 감각적인 연출! 확장된 세계관 스토리로 시선집중! \n\nhttps://t.co/qBTTwSy8JS\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/Y57OtDdS6O"
+	},
+	{
+		"created_at": "Tue Jun 21 02:29:44 +0000 2022",
+		"id": 1539071355231998000,
+		"id_str": "1539073048732647427",
+		"full_text": "[#NEWS] 서현과 인우가 내리는 나라\n▶ https://t.co/qDJ71CZLlu\n\n#서현 #싱글즈 #징크스의연인 #SEOHYUN #Singles #JinxedatFirst https://t.co/jLx9KFDXB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "Singles",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						85,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qDJ71CZLlu",
+					"expanded_url": "https://bit.ly/3HCbHYc",
+					"display_url": "bit.ly/3HCbHYc",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539064965226963000,
+					"id_str": "1539064965226962944",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvbbnqaIAABfu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvbbnqaIAABfu-.jpg",
+					"url": "https://t.co/jLx9KFDXB7",
+					"display_url": "pic.twitter.com/jLx9KFDXB7",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539071355231997952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539064965226963000,
+					"id_str": "1539064965226962944",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvbbnqaIAABfu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvbbnqaIAABfu-.jpg",
+					"url": "https://t.co/jLx9KFDXB7",
+					"display_url": "pic.twitter.com/jLx9KFDXB7",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539071355231997952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539064965348626400,
+					"id_str": "1539064965348626432",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvbboHakAACk6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvbboHakAACk6Q.jpg",
+					"url": "https://t.co/jLx9KFDXB7",
+					"display_url": "pic.twitter.com/jLx9KFDXB7",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539071355231997952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60806,
+			"friends_count": 12,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현과 인우가 내리는 나라\n▶ https://t.co/qDJ71CZLlu\n\n#서현 #싱글즈 #징크스의연인 #SEOHYUN #Singles #JinxedatFirst https://t.co/jLx9KFDXB7"
+	},
+	{
 		"created_at": "Mon Jun 20 22:45:36 +0000 2022",
 		"id": 1539016272205209600,
 		"id_str": "1539016647608045593",
