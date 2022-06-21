@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 09:40:23 +0000 2022",
+		"id": 1539180957172961300,
+		"id_str": "1539181426595221504",
+		"full_text": "We are so excited to share the music video for \"True Romance\" with you on Thursday. It's the kind of video we will treasure when we are old and wrinkly 🧡 https://t.co/vq9rT9R0SW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539180928215527400,
+					"id_str": "1539180928215527424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxE5jdXsAAG2LX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxE5jdXsAAG2LX.jpg",
+					"url": "https://t.co/vq9rT9R0SW",
+					"display_url": "pic.twitter.com/vq9rT9R0SW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1539180957172961280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539180928215527400,
+					"id_str": "1539180928215527424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxE5jdXsAAG2LX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxE5jdXsAAG2LX.jpg",
+					"url": "https://t.co/vq9rT9R0SW",
+					"display_url": "pic.twitter.com/vq9rT9R0SW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1539180957172961280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539180937203880000,
+					"id_str": "1539180937203879936",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxE6E8XEAAYBbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxE6E8XEAAYBbD.jpg",
+					"url": "https://t.co/vq9rT9R0SW",
+					"display_url": "pic.twitter.com/vq9rT9R0SW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1539180957172961280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539180944573223000,
+					"id_str": "1539180944573222913",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxE6gZWUAEa5M7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxE6gZWUAEa5M7.jpg",
+					"url": "https://t.co/vq9rT9R0SW",
+					"display_url": "pic.twitter.com/vq9rT9R0SW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1539180957172961280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539180951820959700,
+					"id_str": "1539180951820959745",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVxE67ZWAAEHxhn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVxE67ZWAAEHxhn.jpg",
+					"url": "https://t.co/vq9rT9R0SW",
+					"display_url": "pic.twitter.com/vq9rT9R0SW",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1539180957172961280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new song 'True Romance' is out now",
+			"url": "https://t.co/aWDekOmHRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOmHRR",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166353,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are so excited to share the music video for \"True Romance\" with you on Thursday. It's the kind of video we will treasure when we are old and wrinkly 🧡 https://t.co/vq9rT9R0SW"
+	},
+	{
+		"created_at": "Tue Jun 21 09:34:13 +0000 2022",
+		"id": 1539172239639056400,
+		"id_str": "1539179874467819521",
+		"full_text": "안녕!!! 💖💖💖💖💖\n#자우림 의 생일파티 공연이\n열흘 앞으로 다가왔다!!! \n공연에 오는 친구들에게 \n꼭 필요한 정보를 줄게.\n지금 당장 운동을 시작해라. \n반복한다. 지금 당장 운동을 시작해라!! https://t.co/2IE5f4rFDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539172224963604500,
+					"id_str": "1539172224963604480",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FVw8-9UacAAw7kV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVw8-9UacAAw7kV.jpg",
+					"url": "https://t.co/2IE5f4rFDE",
+					"display_url": "pic.twitter.com/2IE5f4rFDE",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539172239639056385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539172224963604500,
+					"id_str": "1539172224963604480",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FVw8-9UacAAw7kV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVw8-9UacAAw7kV.jpg",
+					"url": "https://t.co/2IE5f4rFDE",
+					"display_url": "pic.twitter.com/2IE5f4rFDE",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539172239639056385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274912,
+			"friends_count": 579,
+			"listed_count": 2778,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕!!! 💖💖💖💖💖\n#자우림 의 생일파티 공연이\n열흘 앞으로 다가왔다!!! \n공연에 오는 친구들에게 \n꼭 필요한 정보를 줄게.\n지금 당장 운동을 시작해라. \n반복한다. 지금 당장 운동을 시작해라!! https://t.co/2IE5f4rFDE"
+	},
+	{
+		"created_at": "Tue Jun 21 09:31:21 +0000 2022",
+		"id": 1539171279718060000,
+		"id_str": "1539179155455021057",
+		"full_text": "안녕하세요. EDAM엔터테인먼트입니다. https://t.co/LR2gWFaW3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539165483512963000,
+					"id_str": "1539165483512963073",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FVw22jdVIAED9Rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVw22jdVIAED9Rs.jpg",
+					"url": "https://t.co/LR2gWFaW3j",
+					"display_url": "pic.twitter.com/LR2gWFaW3j",
+					"expanded_url": "https://twitter.com/edam_ent/status/1539171279718060033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1707,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539165483512963000,
+					"id_str": "1539165483512963073",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FVw22jdVIAED9Rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVw22jdVIAED9Rs.jpg",
+					"url": "https://t.co/LR2gWFaW3j",
+					"display_url": "pic.twitter.com/LR2gWFaW3j",
+					"expanded_url": "https://twitter.com/edam_ent/status/1539171279718060033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1707,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64091,
+			"friends_count": 2,
+			"listed_count": 228,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 924,
+		"favorite_count": 1635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. EDAM엔터테인먼트입니다. https://t.co/LR2gWFaW3j"
+	},
+	{
 		"created_at": "Tue Jun 21 08:40:19 +0000 2022",
 		"id": 1539163714728800300,
 		"id_str": "1539166309384171520",
