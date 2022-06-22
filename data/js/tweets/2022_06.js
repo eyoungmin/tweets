@@ -1,6 +1,1237 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 09:45:40 +0000 2022",
+		"id": 1539544288698466300,
+		"id_str": "1539545144055287810",
+		"full_text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/xcZE3siYUZ\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #츄 #Chuu #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						78,
+						80
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						96,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xcZE3siYUZ",
+					"expanded_url": "https://vt.tiktok.com/ZSd32Qopp/?k=1",
+					"display_url": "vt.tiktok.com/ZSd32Qopp/?k=1",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940617,
+			"friends_count": 2,
+			"listed_count": 8769,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 950,
+		"favorite_count": 2599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/xcZE3siYUZ\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #츄 #Chuu #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Wed Jun 22 09:40:29 +0000 2022",
+		"id": 1539540348632191000,
+		"id_str": "1539543838141947910",
+		"full_text": "라이어의 연기는 어떠셨나요⁉️\n너무너무 즐거웠던 🔥라이어와 춤을🔥\n아직 못보신 분은 얼른 보러가세요💃\n\n#이달의소녀 #LOONA https://t.co/DaBe6iumAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539540336632303600,
+					"id_str": "1539540336632303616",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2Lx4JakAAZncB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2Lx4JakAAZncB.jpg",
+					"url": "https://t.co/DaBe6iumAf",
+					"display_url": "pic.twitter.com/DaBe6iumAf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1539540348632190977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539540336632303600,
+					"id_str": "1539540336632303616",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2Lx4JakAAZncB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2Lx4JakAAZncB.jpg",
+					"url": "https://t.co/DaBe6iumAf",
+					"display_url": "pic.twitter.com/DaBe6iumAf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1539540348632190977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940617,
+			"friends_count": 2,
+			"listed_count": 8769,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2818,
+		"favorite_count": 7768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라이어의 연기는 어떠셨나요⁉️\n너무너무 즐거웠던 🔥라이어와 춤을🔥\n아직 못보신 분은 얼른 보러가세요💃\n\n#이달의소녀 #LOONA https://t.co/DaBe6iumAf"
+	},
+	{
+		"created_at": "Wed Jun 22 09:40:20 +0000 2022",
+		"id": 1539538800921022500,
+		"id_str": "1539543804100976640",
+		"full_text": "[📢]\nSMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n\n待望の追加公演が決定しました❣\nこちらもお楽しみに！✨\n\n✔ 8/27, 28  公演SOLD OUT\n\n🆕🌟8/29(月) 17:30🌟\n\n🔗詳細は\nhttps://t.co/WKTQAO4plB\nhttps://t.co/Y8NI3EdZlE\nhttps://t.co/9jExcVU46S\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#aespa https://t.co/wFCsKqkoOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						208,
+						227
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						228,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WKTQAO4plB",
+					"expanded_url": "https://smtown.jp",
+					"display_url": "smtown.jp",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/Y8NI3EdZlE",
+					"expanded_url": "https://smtown-official.jp",
+					"display_url": "smtown-official.jp",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/9jExcVU46S",
+					"expanded_url": "https://aespa-official.jp/news/smcu-express-tokyo/",
+					"display_url": "aespa-official.jp/news/smcu-expr…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539447747069104000,
+					"id_str": "1539447747069104128",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FV03kdJUUAAtvED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV03kdJUUAAtvED.jpg",
+					"url": "https://t.co/wFCsKqkoOa",
+					"display_url": "pic.twitter.com/wFCsKqkoOa",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1539538800921022464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539447747069104000,
+					"id_str": "1539447747069104128",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FV03kdJUUAAtvED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV03kdJUUAAtvED.jpg",
+					"url": "https://t.co/wFCsKqkoOa",
+					"display_url": "pic.twitter.com/wFCsKqkoOa",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1539538800921022464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539447824412078000,
+					"id_str": "1539447824412078082",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FV03o9RUcAIPz42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV03o9RUcAIPz42.jpg",
+					"url": "https://t.co/wFCsKqkoOa",
+					"display_url": "pic.twitter.com/wFCsKqkoOa",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1539538800921022464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfo1vZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfo1vZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149986,
+			"friends_count": 1,
+			"listed_count": 294,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1328,
+		"favorite_count": 4434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\nSMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n\n待望の追加公演が決定しました❣\nこちらもお楽しみに！✨\n\n✔ 8/27, 28  公演SOLD OUT\n\n🆕🌟8/29(月) 17:30🌟\n\n🔗詳細は\nhttps://t.co/WKTQAO4plB\nhttps://t.co/Y8NI3EdZlE\nhttps://t.co/9jExcVU46S\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#aespa https://t.co/wFCsKqkoOa"
+	},
+	{
+		"created_at": "Wed Jun 22 09:31:39 +0000 2022",
+		"id": 1539533651213398000,
+		"id_str": "1539541617782099968",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n待望の追加公演が決定しました❣\nこちらもお楽しみに✨\n\n✔ 8/27, 28  公演SOLD OUT\n🆕8/29(月) 17:30\n\n詳細は\nhttps://t.co/VrVj4WmC9a\nhttps://t.co/lUllBsxZbc\nhttps://t.co/wWYMdnYncl\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#少女時代 #TAEYEON #HYOYEON https://t.co/SJ9bSWZBYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						198,
+						217
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						224,
+						232
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						233,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VrVj4WmC9a",
+					"expanded_url": "https://smtown.jp",
+					"display_url": "smtown.jp",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/lUllBsxZbc",
+					"expanded_url": "https://smtown-official.jp",
+					"display_url": "smtown-official.jp",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/wWYMdnYncl",
+					"expanded_url": "https://girls-generation.jp/news/3948",
+					"display_url": "girls-generation.jp/news/3948",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539444487659090000,
+					"id_str": "1539444487659089920",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539444487659090000,
+					"id_str": "1539444487659089920",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539444524057239600,
+					"id_str": "1539444524057239552",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00o2faIAAyp6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00o2faIAAyp6F.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112826,
+			"friends_count": 0,
+			"listed_count": 515,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n待望の追加公演が決定しました❣\nこちらもお楽しみに✨\n\n✔ 8/27, 28  公演SOLD OUT\n🆕8/29(月) 17:30\n\n詳細は\nhttps://t.co/VrVj4WmC9a\nhttps://t.co/lUllBsxZbc\nhttps://t.co/wWYMdnYncl\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#少女時代 #TAEYEON #HYOYEON https://t.co/SJ9bSWZBYL"
+	},
+	{
+		"created_at": "Wed Jun 22 09:31:36 +0000 2022",
+		"id": 1539533774026727400,
+		"id_str": "1539541603026513920",
+		"full_text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚‍\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lrv4euCzNd",
+					"expanded_url": "https://youtu.be/ekvJA3GZw1Y",
+					"display_url": "youtu.be/ekvJA3GZw1Y",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539523074445324300,
+					"id_str": "1539523074445324289",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FV18FFfUsAEnKTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV18FFfUsAEnKTM.jpg",
+					"url": "https://t.co/2D5AhM47RB",
+					"display_url": "pic.twitter.com/2D5AhM47RB",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1539533774026727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539523074445324300,
+					"id_str": "1539523074445324289",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FV18FFfUsAEnKTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV18FFfUsAEnKTM.jpg",
+					"url": "https://t.co/2D5AhM47RB",
+					"display_url": "pic.twitter.com/2D5AhM47RB",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1539533774026727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1324590,
+			"friends_count": 0,
+			"listed_count": 2285,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2312,
+		"favorite_count": 5499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚‍\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB"
+	},
+	{
+		"created_at": "Wed Jun 22 09:29:40 +0000 2022",
+		"id": 1539538871997722600,
+		"id_str": "1539541120044216321",
+		"full_text": "[#DRAMA] #징크스의연인 l 서현 'Milky Way' MV\n▶ https://t.co/xxmYlYEIQV\n\n#서현 #징크스의연인 #MilkyWay #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "MilkyWay",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xxmYlYEIQV",
+					"expanded_url": "https://youtu.be/qjsbIPIx_P8",
+					"display_url": "youtu.be/qjsbIPIx_P8",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60810,
+			"friends_count": 12,
+			"listed_count": 270,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] #징크스의연인 l 서현 'Milky Way' MV\n▶ https://t.co/xxmYlYEIQV\n\n#서현 #징크스의연인 #MilkyWay #SEOHYUN #JinxedatFirst"
+	},
+	{
 		"created_at": "Wed Jun 22 08:50:46 +0000 2022",
 		"id": 1539519149197906000,
 		"id_str": "1539531326990143493",
