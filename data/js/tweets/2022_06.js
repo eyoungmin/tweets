@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 10:45:41 +0000 2022",
+		"id": 1539548755153678300,
+		"id_str": "1539560246359863304",
+		"full_text": "📣주간아이돌 with #이달의소녀 \n\n👑텔레파시 게임 최종 우승자👑\n\n올리비아 혜💗고원💗여진💗비비\n팬잘알 멤버들이 점령해버린 썸네일!(꺄악 넘예뻐ㅠ)\n\n전원 흑발에 LOVEDIVE커버..물 떠놓고 기도할게..\n\n본방사수 전에 기습라이브 복습 GoGo!\n➡https://t.co/TAwZktDhcj\n\n@weeklyidol_ @idolchamp1 https://t.co/rvXuzVmPVV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weeklyidol_",
+					"name": "주간아이돌 (Weekly idol official)",
+					"id": 1305389044700905500,
+					"id_str": "1305389044700905472",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"screen_name": "idolchamp1",
+					"name": "아이돌챔프",
+					"id": 842271014520148000,
+					"id_str": "842271014520147968",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TAwZktDhcj",
+					"expanded_url": "https://bit.ly/3ndUHhj",
+					"display_url": "bit.ly/3ndUHhj",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539515937321537500,
+					"id_str": "1539515937321537536",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FV11lpoaUAADACf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV11lpoaUAADACf.jpg",
+					"url": "https://t.co/rvXuzVmPVV",
+					"display_url": "pic.twitter.com/rvXuzVmPVV",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539548755153678336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539515937321537500,
+					"id_str": "1539515937321537536",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FV11lpoaUAADACf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV11lpoaUAADACf.jpg",
+					"url": "https://t.co/rvXuzVmPVV",
+					"display_url": "pic.twitter.com/rvXuzVmPVV",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539548755153678336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124874,
+			"friends_count": 344,
+			"listed_count": 390,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1655688002",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣주간아이돌 with #이달의소녀 \n\n👑텔레파시 게임 최종 우승자👑\n\n올리비아 혜💗고원💗여진💗비비\n팬잘알 멤버들이 점령해버린 썸네일!(꺄악 넘예뻐ㅠ)\n\n전원 흑발에 LOVEDIVE커버..물 떠놓고 기도할게..\n\n본방사수 전에 기습라이브 복습 GoGo!\n➡https://t.co/TAwZktDhcj\n\n@weeklyidol_ @idolchamp1 https://t.co/rvXuzVmPVV"
+	},
+	{
+		"created_at": "Wed Jun 22 10:40:27 +0000 2022",
+		"id": 1539555192051421200,
+		"id_str": "1539558931235844098",
+		"full_text": "[#바이브] 무엇이든 물어보세요 : 이달의 소녀\n\n▶️ https://t.co/HGvz84MMsM\n\n#이달의소녀 #플립댓 #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바이브",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGvz84MMsM",
+					"expanded_url": "https://vibe.naver.com/magazines/62132",
+					"display_url": "vibe.naver.com/magazines/62132",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940650,
+			"friends_count": 2,
+			"listed_count": 8770,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 367,
+		"favorite_count": 1500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#바이브] 무엇이든 물어보세요 : 이달의 소녀\n\n▶️ https://t.co/HGvz84MMsM\n\n#이달의소녀 #플립댓 #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Wed Jun 22 10:40:23 +0000 2022",
+		"id": 1539548750481223700,
+		"id_str": "1539558913846157314",
+		"full_text": "🔔[혼밥상] #희진 @loonatheworld\n\n❗ [단독] 뭐? 강아지가 요리를 한다고?🐶 ❗\n#희진 갱얼쥐 셀카보면서 #혼밥상 기다리자! #오빛 🤍\n\n#FlipThat 돼버린 메뉴가 궁금하다면?🔁\n- 6/23 저녁 7시에 혼밥상에서 만나요!\n\n-\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #FlipThat #플립댓 https://t.co/o7EyjcxctJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "혼밥상",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539497287780405200,
+					"id_str": "1539497287780405250",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1koGrUEAIOabY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1koGrUEAIOabY.jpg",
+					"url": "https://t.co/o7EyjcxctJ",
+					"display_url": "pic.twitter.com/o7EyjcxctJ",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539548750481223683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539497287780405200,
+					"id_str": "1539497287780405250",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1koGrUEAIOabY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1koGrUEAIOabY.jpg",
+					"url": "https://t.co/o7EyjcxctJ",
+					"display_url": "pic.twitter.com/o7EyjcxctJ",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539548750481223683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16056,
+			"friends_count": 1,
+			"listed_count": 42,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 826,
+		"favorite_count": 2656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔔[혼밥상] #희진 @loonatheworld\n\n❗ [단독] 뭐? 강아지가 요리를 한다고?🐶 ❗\n#희진 갱얼쥐 셀카보면서 #혼밥상 기다리자! #오빛 🤍\n\n#FlipThat 돼버린 메뉴가 궁금하다면?🔁\n- 6/23 저녁 7시에 혼밥상에서 만나요!\n\n-\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #FlipThat #플립댓 https://t.co/o7EyjcxctJ"
+	},
+	{
 		"created_at": "Wed Jun 22 09:45:40 +0000 2022",
 		"id": 1539544288698466300,
 		"id_str": "1539545144055287810",
@@ -894,7 +1522,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Wed Jun 22 09:31:36 +0000 2022",
 		"id": 1539533774026727400,
 		"id_str": "1539541603026513920",
-		"full_text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚‍\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB",
+		"full_text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1073,7 +1701,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚‍\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB"
+		"text": "[IU TV]\n\n많이 궁금하셨죠?👀\nIU VLOG in Cannes\n\n아이유 얼굴 : 예쁠게🥰\n아이유 분위기 : 칸의 요정🧚\n유애나 : 사랑할게💚\n\n🎥 https://t.co/Lrv4euCzNd https://t.co/2D5AhM47RB"
 	},
 	{
 		"created_at": "Wed Jun 22 09:29:40 +0000 2022",
