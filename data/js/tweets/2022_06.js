@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 11:40:09 +0000 2022",
+		"id": 1539564047040774100,
+		"id_str": "1539573957157871617",
+		"full_text": "aespa 에스파 ‘ep2. Next Level’ – SM Culture Universe Behind The Scenes\n\nhttps://t.co/JhG7mcv6Il\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel \n#Girls #aespa_Girls https://t.co/wXJu4Ms9uK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "SM_Culture_Universe",
+					"indices": [
+						112,
+						132
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JhG7mcv6Il",
+					"expanded_url": "https://youtu.be/yH9v20RCz_w",
+					"display_url": "youtu.be/yH9v20RCz_w",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539564037864046600,
+					"id_str": "1539564037864046593",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2hVeHaQAEeFz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2hVeHaQAEeFz0.jpg",
+					"url": "https://t.co/wXJu4Ms9uK",
+					"display_url": "pic.twitter.com/wXJu4Ms9uK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539564047040774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539564037864046600,
+					"id_str": "1539564037864046593",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2hVeHaQAEeFz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2hVeHaQAEeFz0.jpg",
+					"url": "https://t.co/wXJu4Ms9uK",
+					"display_url": "pic.twitter.com/wXJu4Ms9uK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539564047040774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2784476,
+			"friends_count": 2,
+			"listed_count": 8726,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9088,
+		"favorite_count": 22213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 ‘ep2. Next Level’ – SM Culture Universe Behind The Scenes\n\nhttps://t.co/JhG7mcv6Il\n\n#aespa #æspa #에스파\n#SM_Culture_Universe\n#SMCU #Season1 #NextLevel \n#Girls #aespa_Girls https://t.co/wXJu4Ms9uK"
+	},
+	{
 		"created_at": "Wed Jun 22 10:45:41 +0000 2022",
 		"id": 1539548755153678300,
 		"id_str": "1539560246359863304",
