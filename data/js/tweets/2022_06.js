@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 05:40:10 +0000 2022",
+		"id": 1539454378830012400,
+		"id_str": "1539483360686669824",
+		"full_text": "Australia! @CHUNGHA_MNHent is coming to you! ✨\n\n#CHUNGHA #청하 will be joining us in Saturday Line-up, on August 13 at #HPFSydney2022\n\nLet CHUNG HA show you why you #GottaGo to #HallyuPopFest! #StayTonight with us at the festival you don’t want to miss! https://t.co/t82YvLxdPk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "HPFSydney2022",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "GottaGo",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "HallyuPopFest",
+					"indices": [
+						175,
+						189
+					]
+				},
+				{
+					"text": "StayTonight",
+					"indices": [
+						191,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539447803898118100,
+					"id_str": "1539447803898118144",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FV03nw2aQAAbCwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV03nw2aQAAbCwX.jpg",
+					"url": "https://t.co/t82YvLxdPk",
+					"display_url": "pic.twitter.com/t82YvLxdPk",
+					"expanded_url": "https://twitter.com/hpfsydney2022/status/1539454378830012417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539447803898118100,
+					"id_str": "1539447803898118144",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FV03nw2aQAAbCwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV03nw2aQAAbCwX.jpg",
+					"url": "https://t.co/t82YvLxdPk",
+					"display_url": "pic.twitter.com/t82YvLxdPk",
+					"expanded_url": "https://twitter.com/hpfsydney2022/status/1539454378830012417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1503561504544546800,
+			"id_str": "1503561504544546818",
+			"name": "HallyuPopFest Sydney 2022",
+			"screen_name": "hpfsydney2022",
+			"location": "Sydney",
+			"description": "Bringing you to the hottest K-pop artists and the best of Hallyu, get ready for a K-POP filled 2 days across 1 WEEKEND this August 13 & 14 at Qudos Bank Arena!",
+			"url": "https://t.co/hBuXCXTMb9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hBuXCXTMb9",
+							"expanded_url": "https://bit.ly/HPFSydneyPresale",
+							"display_url": "bit.ly/HPFSydneyPresa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1125,
+			"friends_count": 17,
+			"listed_count": 1,
+			"created_at": "Tue Mar 15 02:39:53 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503561504544546818/1655859765",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia! @CHUNGHA_MNHent is coming to you! ✨\n\n#CHUNGHA #청하 will be joining us in Saturday Line-up, on August 13 at #HPFSydney2022\n\nLet CHUNG HA show you why you #GottaGo to #HallyuPopFest! #StayTonight with us at the festival you don’t want to miss! https://t.co/t82YvLxdPk"
+	},
+	{
+		"created_at": "Wed Jun 22 05:29:39 +0000 2022",
+		"id": 1539473253755920400,
+		"id_str": "1539480715821256704",
+		"full_text": "🔥예상치 못한 운명의 장난🔥\nMBC금토드라마 &lt;빅마우스&gt; 메인포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 #곽동연 https://t.co/hL7HzzXseV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539435691079217200,
+					"id_str": "1539435691079217152",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FV0smtFVsAAGZ7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV0smtFVsAAGZ7X.jpg",
+					"url": "https://t.co/hL7HzzXseV",
+					"display_url": "pic.twitter.com/hL7HzzXseV",
+					"expanded_url": "https://twitter.com/withMBC/status/1539473253755920384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539435691079217200,
+					"id_str": "1539435691079217152",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FV0smtFVsAAGZ7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV0smtFVsAAGZ7X.jpg",
+					"url": "https://t.co/hL7HzzXseV",
+					"display_url": "pic.twitter.com/hL7HzzXseV",
+					"expanded_url": "https://twitter.com/withMBC/status/1539473253755920384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539435691074916400,
+					"id_str": "1539435691074916352",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FV0smtEUEAArg84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV0smtEUEAArg84.jpg",
+					"url": "https://t.co/hL7HzzXseV",
+					"display_url": "pic.twitter.com/hL7HzzXseV",
+					"expanded_url": "https://twitter.com/withMBC/status/1539473253755920384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007802,
+			"friends_count": 9886,
+			"listed_count": 4214,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1653354719",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥예상치 못한 운명의 장난🔥\nMBC금토드라마 &lt;빅마우스&gt; 메인포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 #곽동연 https://t.co/hL7HzzXseV"
+	},
+	{
+		"created_at": "Wed Jun 22 05:24:35 +0000 2022",
+		"id": 1539473253844000800,
+		"id_str": "1539479439397900289",
+		"full_text": "#소녀시대 부터 #트와이스, #브브걸, #아이브까지! 여돌이 선택한 올여름 탈색 헤어(#수영, #써니, #민영, #가을, #나연) https://t.co/hQkvUkcbl7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "브브걸",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "아이브까지",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "민영",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "가을",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQkvUkcbl7",
+					"expanded_url": "https://www.allurekorea.com/?p=174139&ddw=113852&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=174139&ddw=…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38568,
+			"friends_count": 1,
+			"listed_count": 292,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1655556171",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 부터 #트와이스, #브브걸, #아이브까지! 여돌이 선택한 올여름 탈색 헤어(#수영, #써니, #민영, #가을, #나연) https://t.co/hQkvUkcbl7"
+	},
+	{
 		"created_at": "Wed Jun 22 04:45:37 +0000 2022",
 		"id": 1539468900982993000,
 		"id_str": "1539469633211846657",
