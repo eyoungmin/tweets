@@ -1,6 +1,737 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 06:45:36 +0000 2022",
+		"id": 1539485076160774100,
+		"id_str": "1539499830162120704",
+		"full_text": "[#오덕상점 히든 스테이지]\n▪︎이달의 소녀(LOONA)▪︎\n\n짱달소🌙와 함께하는 주간아📺가\n오빛💫의 심장을 뒤집어버릴 예정이니까😎👀\n주간아 친필 사인 기념품 이벤트!🎁\n-\n이벤트 참여 : https://t.co/S0K6dbC1vY\n-\n#주간아이돌 #WeeklyIdol\n#이달의소녀 #LOONA https://t.co/8ulRJmF3J2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오덕상점",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "주간아이돌",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "WeeklyIdol",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S0K6dbC1vY",
+					"expanded_url": "https://bit.ly/3HFdtI5",
+					"display_url": "bit.ly/3HFdtI5",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539485067650601000,
+					"id_str": "1539485067650600960",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1ZgzJVEAASC35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1ZgzJVEAASC35.jpg",
+					"url": "https://t.co/8ulRJmF3J2",
+					"display_url": "pic.twitter.com/8ulRJmF3J2",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1539485076160774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539485067650601000,
+					"id_str": "1539485067650600960",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1ZgzJVEAASC35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1ZgzJVEAASC35.jpg",
+					"url": "https://t.co/8ulRJmF3J2",
+					"display_url": "pic.twitter.com/8ulRJmF3J2",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1539485076160774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 447600838,
+			"id_str": "447600838",
+			"name": "MBC M",
+			"screen_name": "mbcplusm",
+			"location": "일산 MBC드림센터",
+			"description": "MBC M 공식 트위터입니다.",
+			"url": "https://t.co/CNaCbZTOqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CNaCbZTOqc",
+							"expanded_url": "http://www.instagram.com/mbcplus_m",
+							"display_url": "instagram.com/mbcplus_m",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189744,
+			"friends_count": 11,
+			"listed_count": 387,
+			"created_at": "Tue Dec 27 02:37:54 +0000 2011",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/447600838/1644198695",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오덕상점 히든 스테이지]\n▪︎이달의 소녀(LOONA)▪︎\n\n짱달소🌙와 함께하는 주간아📺가\n오빛💫의 심장을 뒤집어버릴 예정이니까😎👀\n주간아 친필 사인 기념품 이벤트!🎁\n-\n이벤트 참여 : https://t.co/S0K6dbC1vY\n-\n#주간아이돌 #WeeklyIdol\n#이달의소녀 #LOONA https://t.co/8ulRJmF3J2"
+	},
+	{
+		"created_at": "Wed Jun 22 06:40:25 +0000 2022",
+		"id": 1539492673555353600,
+		"id_str": "1539498524856958976",
+		"full_text": "#주간아 #주간아이돌\n#이달의소녀 #LOONA @loonatheworld\n\n 오늘 6/22(수) MBC M 오후 7시 30분‼️\n⬇모바일로 &lt;주간아이돌&gt; 본방 시청⬇️\nhttps://t.co/aAEEG7EG6i\n\n유튜브 방송은\n약간의 딜레이가 발생할 수 있습니다.\n\n#희진 #현진 #하슬 #여진 \n#비비 #김립 #진솔 #최리\n#이브 #츄 #고원 #올리비아혜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "주간아이돌",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						192,
+						194
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aAEEG7EG6i",
+					"expanded_url": "http://youtube.com/allthekpop",
+					"display_url": "youtube.com/allthekpop",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1305389044700905500,
+			"id_str": "1305389044700905472",
+			"name": "주간아이돌 (Weekly idol official)",
+			"screen_name": "weeklyidol_",
+			"location": "MBC M & every1",
+			"description": "💗주간아이돌 Official Twitter💗 📺 본방 시간➡️➡️ 매주 수요일 MBC M 7시 30분/MBCevery1 12시",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52515,
+			"friends_count": 1,
+			"listed_count": 116,
+			"created_at": "Mon Sep 14 06:13:04 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308235519650746369/JbHv7rR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308235519650746369/JbHv7rR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305389044700905472/1600708006",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주간아 #주간아이돌\n#이달의소녀 #LOONA @loonatheworld\n\n 오늘 6/22(수) MBC M 오후 7시 30분‼️\n⬇모바일로 &lt;주간아이돌&gt; 본방 시청⬇️\nhttps://t.co/aAEEG7EG6i\n\n유튜브 방송은\n약간의 딜레이가 발생할 수 있습니다.\n\n#희진 #현진 #하슬 #여진 \n#비비 #김립 #진솔 #최리\n#이브 #츄 #고원 #올리비아혜"
+	},
+	{
+		"created_at": "Wed Jun 22 06:40:23 +0000 2022",
+		"id": 1539496048627896300,
+		"id_str": "1539498515910602752",
+		"full_text": "[#이달의소녀] 220623 Mnet 엠카운트다운 사녹 추가모집 참여 안내 공지가 업로드 되었습니다‼\n\n👉👉 https://t.co/zkZUcBTfop\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zkZUcBTfop",
+					"expanded_url": "https://m.cafe.daum.net/loonatheworld/F6Fq/408",
+					"display_url": "m.cafe.daum.net/loonatheworld/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31707,
+			"friends_count": 1,
+			"listed_count": 548,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀] 220623 Mnet 엠카운트다운 사녹 추가모집 참여 안내 공지가 업로드 되었습니다‼\n\n👉👉 https://t.co/zkZUcBTfop\n\n#LOONA"
+	},
+	{
+		"created_at": "Wed Jun 22 06:40:10 +0000 2022",
+		"id": 1539479098182934500,
+		"id_str": "1539498460453474304",
+		"full_text": "[#MCOUNTDOWN] Ep.758 Line up\nDRIPPIN(드리핀)/DKZ/LAPILLUS/BDC/SECRET NUMBER (시크릿넘버)/ICHILLIN’(아이칠린)/영재/OMEGA X/원호/이달의 소녀/이무진/임영웅/KARD/케플러(Kep1er)/TAN/TRENDZ (트렌드지)/TNX https://t.co/0vJLt50dGx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539479048685899800,
+					"id_str": "1539479048685899776",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1UCcwUUAA3HGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1UCcwUUAA3HGU.jpg",
+					"url": "https://t.co/0vJLt50dGx",
+					"display_url": "pic.twitter.com/0vJLt50dGx",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1539479098182934529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1097,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539479048685899800,
+					"id_str": "1539479048685899776",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FV1UCcwUUAA3HGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV1UCcwUUAA3HGU.jpg",
+					"url": "https://t.co/0vJLt50dGx",
+					"display_url": "pic.twitter.com/0vJLt50dGx",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1539479098182934529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1097,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/gKJd4srK5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gKJd4srK5X",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3825676,
+			"friends_count": 0,
+			"listed_count": 4661,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1649328771",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1610,
+		"favorite_count": 4023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[#MCOUNTDOWN] Ep.758 Line up\nDRIPPIN(드리핀)/DKZ/LAPILLUS/BDC/SECRET NUMBER (시크릿넘버)/ICHILLIN’(아이칠린)/영재/OMEGA X/원호/이달의 소녀/이무진/임영웅/KARD/케플러(Kep1er)/TAN/TRENDZ (트렌드지)/TNX https://t.co/0vJLt50dGx"
+	},
+	{
 		"created_at": "Wed Jun 22 05:40:10 +0000 2022",
 		"id": 1539454378830012400,
 		"id_str": "1539483360686669824",
