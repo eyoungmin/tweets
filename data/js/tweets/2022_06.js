@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 02:40:23 +0000 2022",
+		"id": 1539432217041965000,
+		"id_str": "1539438118021087233",
+		"full_text": "220622 Chungha is part of the lineup for HallyuPopFest Sydney 2022, happening on August 13 &amp; 15 \n\n#청하 #CHUNGHA @CHUNGHA_MNHent https://t.co/iQp57bmYM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						115,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iQp57bmYM4",
+					"expanded_url": "https://twitter.com/hpfsydney2022/status/1539397763607236608",
+					"display_url": "twitter.com/hpfsydney2022/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 921481895153750000,
+			"id_str": "921481895153750016",
+			"name": "CHUNGHA GLOBAL",
+			"screen_name": "ChunghaGlobal",
+			"location": "EST. 2017",
+			"description": "FAN ACCOUNT | WE ARE NOT KIM CHUNGHA. Global fanbase dedicated to solo artist #CHUNGHA #청하. Providing support projects, updates & more! @CHUNGHA_MNHent",
+			"url": "https://t.co/PehXf10l0M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PehXf10l0M",
+							"expanded_url": "https://chunghaglobal.carrd.co",
+							"display_url": "chunghaglobal.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19728,
+			"friends_count": 91,
+			"listed_count": 375,
+			"created_at": "Fri Oct 20 21:02:58 +0000 2017",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463352723839979522/XvvqOMdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463352723839979522/XvvqOMdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/921481895153750016/1637725405",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539397763607236600,
+		"quoted_status_id_str": "1539397763607236608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iQp57bmYM4",
+			"expanded": "https://twitter.com/hpfsydney2022/status/1539397763607236608",
+			"display": "twitter.com/hpfsydney2022/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 22 00:00:02 +0000 2022",
+			"id": 1539397763607236600,
+			"id_str": "1539397763607236608",
+			"full_text": "G'day, fellow K-Pop fans! 😎\n#HallyuPopFest is coming to Sydney this year! \n\nK-POP filled 2 days across 1 WEEKEND happening this August 13 &amp; 14 at Qudos Bank Arena!\n\nPresale : Friday, 24 Jun, 10am - 28 Jun, 12pm AEST\nGeneral sale : Tuesday, 28 Jun, 1pm AEST\n\nAre You Ready? 😉🐨 https://t.co/sIu3e1Fzav",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HallyuPopFest",
+						"indices": [
+							28,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1539395458367619000,
+						"id_str": "1539395458367619072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+						"url": "https://t.co/sIu3e1Fzav",
+						"display_url": "pic.twitter.com/sIu3e1Fzav",
+						"expanded_url": "https://twitter.com/hpfsydney2022/status/1539397763607236608/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539395458367619000,
+						"id_str": "1539395458367619072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+						"url": "https://t.co/sIu3e1Fzav",
+						"display_url": "pic.twitter.com/sIu3e1Fzav",
+						"expanded_url": "https://twitter.com/hpfsydney2022/status/1539397763607236608/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 32298,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/480x270/7TvV4Z4Ot_fHPHOe.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/1280x720/tFQRJf-Biv2u5hFr.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/pl/5gpP0xYUGt9tjJhN.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/640x360/QOFzrb4aulcN1FOe.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1503561504544546800,
+				"id_str": "1503561504544546818",
+				"name": "HallyuPopFest Sydney 2022",
+				"screen_name": "hpfsydney2022",
+				"location": "Sydney",
+				"description": "Bringing you to the hottest K-pop artists and the best of Hallyu, get ready for a K-POP filled 2 days across 1 WEEKEND this August 13 & 14 at Qudos Bank Arena!",
+				"url": "https://t.co/hBuXCXTMb9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hBuXCXTMb9",
+								"expanded_url": "https://bit.ly/HPFSydneyPresale",
+								"display_url": "bit.ly/HPFSydneyPresa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 562,
+				"friends_count": 17,
+				"listed_count": 0,
+				"created_at": "Tue Mar 15 02:39:53 +0000 2022",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503561504544546818/1655859765",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3781,
+			"favorite_count": 6261,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 79,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "220622 Chungha is part of the lineup for HallyuPopFest Sydney 2022, happening on August 13 &amp; 15 \n\n#청하 #CHUNGHA @CHUNGHA_MNHent https://t.co/iQp57bmYM4"
+	},
+	{
+		"created_at": "Wed Jun 22 02:40:17 +0000 2022",
+		"id": 1539397763607236600,
+		"id_str": "1539438092301606913",
+		"full_text": "G'day, fellow K-Pop fans! 😎\n#HallyuPopFest is coming to Sydney this year! \n\nK-POP filled 2 days across 1 WEEKEND happening this August 13 &amp; 14 at Qudos Bank Arena!\n\nPresale : Friday, 24 Jun, 10am - 28 Jun, 12pm AEST\nGeneral sale : Tuesday, 28 Jun, 1pm AEST\n\nAre You Ready? 😉🐨 https://t.co/sIu3e1Fzav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HallyuPopFest",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539395458367619000,
+					"id_str": "1539395458367619072",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+					"url": "https://t.co/sIu3e1Fzav",
+					"display_url": "pic.twitter.com/sIu3e1Fzav",
+					"expanded_url": "https://twitter.com/hpfsydney2022/status/1539397763607236608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539395458367619000,
+					"id_str": "1539395458367619072",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539395458367619072/pu/img/OwWd-GQ1VeBjbl1q.jpg",
+					"url": "https://t.co/sIu3e1Fzav",
+					"display_url": "pic.twitter.com/sIu3e1Fzav",
+					"expanded_url": "https://twitter.com/hpfsydney2022/status/1539397763607236608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32298,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/480x270/7TvV4Z4Ot_fHPHOe.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/1280x720/tFQRJf-Biv2u5hFr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/pl/5gpP0xYUGt9tjJhN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539395458367619072/pu/vid/640x360/QOFzrb4aulcN1FOe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1503561504544546800,
+			"id_str": "1503561504544546818",
+			"name": "HallyuPopFest Sydney 2022",
+			"screen_name": "hpfsydney2022",
+			"location": "Sydney",
+			"description": "Bringing you to the hottest K-pop artists and the best of Hallyu, get ready for a K-POP filled 2 days across 1 WEEKEND this August 13 & 14 at Qudos Bank Arena!",
+			"url": "https://t.co/hBuXCXTMb9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hBuXCXTMb9",
+							"expanded_url": "https://bit.ly/HPFSydneyPresale",
+							"display_url": "bit.ly/HPFSydneyPresa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562,
+			"friends_count": 17,
+			"listed_count": 0,
+			"created_at": "Tue Mar 15 02:39:53 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539394266673590272/IEThss_b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503561504544546818/1655859765",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3781,
+		"favorite_count": 6261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "G'day, fellow K-Pop fans! 😎\n#HallyuPopFest is coming to Sydney this year! \n\nK-POP filled 2 days across 1 WEEKEND happening this August 13 &amp; 14 at Qudos Bank Arena!\n\nPresale : Friday, 24 Jun, 10am - 28 Jun, 12pm AEST\nGeneral sale : Tuesday, 28 Jun, 1pm AEST\n\nAre You Ready? 😉🐨 https://t.co/sIu3e1Fzav"
+	},
+	{
 		"created_at": "Wed Jun 22 01:45:37 +0000 2022",
 		"id": 1539420405345099800,
 		"id_str": "1539424334418268160",
