@@ -1,6 +1,1101 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 13:40:36 +0000 2022",
+		"id": 1539598404812017700,
+		"id_str": "1539604268067471366",
+		"full_text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n이브▶️ https://t.co/b2dRGSEN39\n츄▶️ https://t.co/2yievtTeJb\n고원▶️ https://t.co/yI9dkzKnBY\n올리비아 혜▶️ https://t.co/z7HfmU4nJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b2dRGSEN39",
+					"expanded_url": "https://youtu.be/_ERMLYskrfw",
+					"display_url": "youtu.be/_ERMLYskrfw",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/2yievtTeJb",
+					"expanded_url": "https://youtu.be/vlyb8Rwv2to",
+					"display_url": "youtu.be/vlyb8Rwv2to",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/yI9dkzKnBY",
+					"expanded_url": "https://youtu.be/hdIhou5Qh10",
+					"display_url": "youtu.be/hdIhou5Qh10",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/z7HfmU4nJM",
+					"expanded_url": "https://youtu.be/1SoUCWOnRwU",
+					"display_url": "youtu.be/1SoUCWOnRwU",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1539598403142709200,
+		"in_reply_to_status_id_str": "1539598403142709248",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940789,
+			"friends_count": 2,
+			"listed_count": 8774,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 276,
+		"favorite_count": 1054,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n이브▶️ https://t.co/b2dRGSEN39\n츄▶️ https://t.co/2yievtTeJb\n고원▶️ https://t.co/yI9dkzKnBY\n올리비아 혜▶️ https://t.co/z7HfmU4nJM"
+	},
+	{
+		"created_at": "Wed Jun 22 13:40:33 +0000 2022",
+		"id": 1539598403142709200,
+		"id_str": "1539604254960263168",
+		"full_text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n비비 ▶️ https://t.co/KqQFS0cRLX\n김립▶️ https://t.co/cN0qw1IpSj\n진솔▶️ https://t.co/XKnk5tMst1\n최리▶️ https://t.co/h6sKYid1zl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KqQFS0cRLX",
+					"expanded_url": "https://youtu.be/3Jodz4UTHn",
+					"display_url": "youtu.be/3Jodz4UTHn",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/cN0qw1IpSj",
+					"expanded_url": "https://youtu.be/3dx9-FT7cYk",
+					"display_url": "youtu.be/3dx9-FT7cYk",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/XKnk5tMst1",
+					"expanded_url": "https://youtu.be/y0L_BxFeuh8",
+					"display_url": "youtu.be/y0L_BxFeuh8",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/h6sKYid1zl",
+					"expanded_url": "https://youtu.be/RHHCJJie7o4",
+					"display_url": "youtu.be/RHHCJJie7o4",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1539598400651309000,
+		"in_reply_to_status_id_str": "1539598400651309059",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940789,
+			"friends_count": 2,
+			"listed_count": 8774,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 1072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n비비 ▶️ https://t.co/KqQFS0cRLX\n김립▶️ https://t.co/cN0qw1IpSj\n진솔▶️ https://t.co/XKnk5tMst1\n최리▶️ https://t.co/h6sKYid1zl"
+	},
+	{
+		"created_at": "Wed Jun 22 13:40:27 +0000 2022",
+		"id": 1539598400651309000,
+		"id_str": "1539604229236596737",
+		"full_text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n희진 ▶️ https://t.co/VXIhLQV11B\n현진 ▶️ https://t.co/KqLnKQ1zs3\n하슬 ▶️ https://t.co/qQrjadZPCN\n여진 ▶️ https://t.co/YaMgDttwaF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아이돌",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VXIhLQV11B",
+					"expanded_url": "https://youtu.be/mr31o9lqrNk",
+					"display_url": "youtu.be/mr31o9lqrNk",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/KqLnKQ1zs3",
+					"expanded_url": "https://youtu.be/4L5f8jYuwCo",
+					"display_url": "youtu.be/4L5f8jYuwCo",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/qQrjadZPCN",
+					"expanded_url": "https://youtu.be/ZHKHYrqqedQ",
+					"display_url": "youtu.be/ZHKHYrqqedQ",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/YaMgDttwaF",
+					"expanded_url": "https://youtu.be/IJkvdz52wUY",
+					"display_url": "youtu.be/IJkvdz52wUY",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940789,
+			"friends_count": 2,
+			"listed_count": 8774,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 550,
+		"favorite_count": 2180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#주간아이돌] 주간아 직캠 #이달의소녀 #LOONA #FlipThat EP.567\n\n희진 ▶️ https://t.co/VXIhLQV11B\n현진 ▶️ https://t.co/KqLnKQ1zs3\n하슬 ▶️ https://t.co/qQrjadZPCN\n여진 ▶️ https://t.co/YaMgDttwaF"
+	},
+	{
+		"created_at": "Wed Jun 22 13:40:21 +0000 2022",
+		"id": 1539576341913165800,
+		"id_str": "1539604203517222913",
+		"full_text": "#주간아 #주간아이돌 @weeklyidol_\n#이달의소녀 #LOONA @loonatheworld\n\n📣📣다들 주목📣📣\n퀸달소 멤버별 직캠 떴다고 해서\n바로 달려왔습니다😎\n좌표는 여기⬇️\n\n#FlipThat 멤버별 직캠 \nhttps://t.co/Ytm02YPmDd\n\n#희진 #현진 #하슬 #여진 \n#비비 #김립 #진솔 #최리\n#이브 #츄 #고원 #올리비아혜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "주간아이돌",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						184,
+						186
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						191,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weeklyidol_",
+					"name": "주간아이돌 (Weekly idol official)",
+					"id": 1305389044700905500,
+					"id_str": "1305389044700905472",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ytm02YPmDd",
+					"expanded_url": "https://youtu.be/mr31o9lqrNk",
+					"display_url": "youtu.be/mr31o9lqrNk",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1305389044700905500,
+			"id_str": "1305389044700905472",
+			"name": "주간아이돌 (Weekly idol official)",
+			"screen_name": "weeklyidol_",
+			"location": "MBC M & every1",
+			"description": "💗주간아이돌 Official Twitter💗 📺 본방 시간➡️➡️ 매주 수요일 MBC M 7시 30분/MBCevery1 12시",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52527,
+			"friends_count": 1,
+			"listed_count": 116,
+			"created_at": "Mon Sep 14 06:13:04 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308235519650746369/JbHv7rR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308235519650746369/JbHv7rR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305389044700905472/1600708006",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 1534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#주간아 #주간아이돌 @weeklyidol_\n#이달의소녀 #LOONA @loonatheworld\n\n📣📣다들 주목📣📣\n퀸달소 멤버별 직캠 떴다고 해서\n바로 달려왔습니다😎\n좌표는 여기⬇️\n\n#FlipThat 멤버별 직캠 \nhttps://t.co/Ytm02YPmDd\n\n#희진 #현진 #하슬 #여진 \n#비비 #김립 #진솔 #최리\n#이브 #츄 #고원 #올리비아혜"
+	},
+	{
+		"created_at": "Wed Jun 22 13:40:19 +0000 2022",
+		"id": 1539595048748142600,
+		"id_str": "1539604194595930112",
+		"full_text": "GRWM with NINGNING🦋💕\n\nhttps://t.co/goMPVFl7nK\n\n#NINGNING \n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/HE1iY6AJbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/goMPVFl7nK",
+					"expanded_url": "https://vt.tiktok.com/ZSd3hRhcd/?k=1",
+					"display_url": "vt.tiktok.com/ZSd3hRhcd/?k=1",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539594924131111000,
+					"id_str": "1539594924131110912",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FV29bSbUUAAseTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV29bSbUUAAseTE.jpg",
+					"url": "https://t.co/HE1iY6AJbs",
+					"display_url": "pic.twitter.com/HE1iY6AJbs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539595048748142593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539594924131111000,
+					"id_str": "1539594924131110912",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FV29bSbUUAAseTE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV29bSbUUAAseTE.jpg",
+					"url": "https://t.co/HE1iY6AJbs",
+					"display_url": "pic.twitter.com/HE1iY6AJbs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1539595048748142593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785470,
+			"friends_count": 2,
+			"listed_count": 8729,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9813,
+		"favorite_count": 30867,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "GRWM with NINGNING🦋💕\n\nhttps://t.co/goMPVFl7nK\n\n#NINGNING \n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/HE1iY6AJbs"
+	},
+	{
+		"created_at": "Wed Jun 22 13:13:24 +0000 2022",
+		"id": 1539594773711171600,
+		"id_str": "1539597422904586240",
+		"full_text": "[TMI NEWS SHOW/19회 예고] 이달의 소녀는 &lt;TMI NEWS SHOW&gt;를 뒤집어 뒤집어~🎵 갓달소와 함께 모은 스타들의 TMI는?!\n\n▶️https://t.co/DGu4FWYHEU\n\n#이달의소녀 #플립댓 #LOONA #FlipThat #TMINEWSSHOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DGu4FWYHEU",
+					"expanded_url": "https://youtu.be/_Mh6s1Rp52o",
+					"display_url": "youtu.be/_Mh6s1Rp52o",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940789,
+			"friends_count": 2,
+			"listed_count": 8774,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 640,
+		"favorite_count": 2337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TMI NEWS SHOW/19회 예고] 이달의 소녀는 &lt;TMI NEWS SHOW&gt;를 뒤집어 뒤집어~🎵 갓달소와 함께 모은 스타들의 TMI는?!\n\n▶️https://t.co/DGu4FWYHEU\n\n#이달의소녀 #플립댓 #LOONA #FlipThat #TMINEWSSHOW"
+	},
+	{
 		"created_at": "Wed Jun 22 12:46:00 +0000 2022",
 		"id": 1539586502853894100,
 		"id_str": "1539590526982291456",
