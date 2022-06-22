@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 00:45:47 +0000 2022",
+		"id": 1539397760134176800,
+		"id_str": "1539409276946501637",
+		"full_text": "Poppin’ Wednesday👀\n\nEnjoy K-pop LIVE! This is Today's Live Schedule💕\n\n⏲7:30 PM #Weeklyidol #LOONA\n\n수요일 오후 7시 30분 모바일에서도 ✨본방사수✨\n\n▶️https://t.co/YxUp32m3q1 https://t.co/tQ7JHz7x6B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeklyidol",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YxUp32m3q1",
+					"expanded_url": "https://bit.ly/3uV94Zr",
+					"display_url": "bit.ly/3uV94Zr",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539047778893959200,
+					"id_str": "1539047778893959168",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvLzPlUEAA2N-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvLzPlUEAA2N-R.jpg",
+					"url": "https://t.co/tQ7JHz7x6B",
+					"display_url": "pic.twitter.com/tQ7JHz7x6B",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539397760134176768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539047778893959200,
+					"id_str": "1539047778893959168",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FVvLzPlUEAA2N-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVvLzPlUEAA2N-R.jpg",
+					"url": "https://t.co/tQ7JHz7x6B",
+					"display_url": "pic.twitter.com/tQ7JHz7x6B",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539397760134176768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124793,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1655688002",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Poppin’ Wednesday👀\n\nEnjoy K-pop LIVE! This is Today's Live Schedule💕\n\n⏲7:30 PM #Weeklyidol #LOONA\n\n수요일 오후 7시 30분 모바일에서도 ✨본방사수✨\n\n▶️https://t.co/YxUp32m3q1 https://t.co/tQ7JHz7x6B"
+	},
+	{
 		"created_at": "Tue Jun 21 23:45:40 +0000 2022",
 		"id": 1539391311056232400,
 		"id_str": "1539394148083589120",
