@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 11:40:23 +0000 2022",
+		"id": 1539896049329967000,
+		"id_str": "1539936401147498496",
+		"full_text": "#WhosfanCafe ☕\n\nWhosfan Cafe X LOONA 'Flip That'\n💜오피셜 테마 카페 Official Themed Cafe💚\n\nCOMING SOON!\n\n#후즈팬카페 w/ @loonatheworld \n\n#이달의소녀 #FlipThat #플립댓 https://t.co/93qgwBWZ2k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosfanCafe",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "후즈팬카페",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539534866148380700,
+					"id_str": "1539534866148380672",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2GzdAaUAAiHGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2GzdAaUAAiHGN.jpg",
+					"url": "https://t.co/93qgwBWZ2k",
+					"display_url": "pic.twitter.com/93qgwBWZ2k",
+					"expanded_url": "https://twitter.com/WhosfanCafe/status/1539896049329967104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1984,
+							"h": 1984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539534866148380700,
+					"id_str": "1539534866148380672",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2GzdAaUAAiHGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2GzdAaUAAiHGN.jpg",
+					"url": "https://t.co/93qgwBWZ2k",
+					"display_url": "pic.twitter.com/93qgwBWZ2k",
+					"expanded_url": "https://twitter.com/WhosfanCafe/status/1539896049329967104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1984,
+							"h": 1984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1490870017331589000,
+			"id_str": "1490870017331589120",
+			"name": "Whosfan Cafe 후즈팬 카페",
+			"screen_name": "WhosfanCafe",
+			"location": "",
+			"description": "Whosfan Cafe Official Account #WhosfanCafe #후즈팬카페",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1158,
+			"friends_count": 2,
+			"listed_count": 5,
+			"created_at": "Tue Feb 08 02:09:14 +0000 2022",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490870017331589120/1644287145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 1413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#WhosfanCafe ☕\n\nWhosfan Cafe X LOONA 'Flip That'\n💜오피셜 테마 카페 Official Themed Cafe💚\n\nCOMING SOON!\n\n#후즈팬카페 w/ @loonatheworld \n\n#이달의소녀 #FlipThat #플립댓 https://t.co/93qgwBWZ2k"
+	},
+	{
+		"created_at": "Thu Jun 23 11:40:17 +0000 2022",
+		"id": 1539929389093503000,
+		"id_str": "1539936375432167424",
+		"full_text": "잠시 후 8시 30분, 아이돌라디오2 #ep92_이달의소녀 라이브 스트리밍 방송이 시작됩니다\n\n유니버스에서 시청하기\nhttps://t.co/TqgKpdKqKj\n\n@into__universe\n@YENA_OFFICIAL\n@loonatheworld https://t.co/5fG440dhJl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ep92_이달의소녀",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "into__universe",
+					"name": "UNIVERSE_OFFICIAL",
+					"id": 1301330441786462200,
+					"id_str": "1301330441786462209",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "YENA_OFFICIAL",
+					"name": "최예나",
+					"id": 1394936522017689600,
+					"id_str": "1394936522017689600",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TqgKpdKqKj",
+					"expanded_url": "http://buff.ly/3tXSO9s",
+					"display_url": "buff.ly/3tXSO9s",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539929339462299600,
+					"id_str": "1539929339462299649",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7tk0naMAE1PW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7tk0naMAE1PW2.jpg",
+					"url": "https://t.co/5fG440dhJl",
+					"display_url": "pic.twitter.com/5fG440dhJl",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539929389093502976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539929339462299600,
+					"id_str": "1539929339462299649",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7tk0naMAE1PW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7tk0naMAE1PW2.jpg",
+					"url": "https://t.co/5fG440dhJl",
+					"display_url": "pic.twitter.com/5fG440dhJl",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539929389093502976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539929339441344500,
+					"id_str": "1539929339441344512",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7tk0iacAAOVz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7tk0iacAAOVz8.jpg",
+					"url": "https://t.co/5fG440dhJl",
+					"display_url": "pic.twitter.com/5fG440dhJl",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539929389093502976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539929353165090800,
+					"id_str": "1539929353165090816",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7tlnqaMAAhY4B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7tlnqaMAAhY4B.jpg",
+					"url": "https://t.co/5fG440dhJl",
+					"display_url": "pic.twitter.com/5fG440dhJl",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539929389093502976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539929353165086700,
+					"id_str": "1539929353165086720",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7tlnqaIAAgP30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7tlnqaIAAgP30.jpg",
+					"url": "https://t.co/5fG440dhJl",
+					"display_url": "pic.twitter.com/5fG440dhJl",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539929389093502976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109058,
+			"friends_count": 9,
+			"listed_count": 278,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1222,
+		"favorite_count": 3172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 8시 30분, 아이돌라디오2 #ep92_이달의소녀 라이브 스트리밍 방송이 시작됩니다\n\n유니버스에서 시청하기\nhttps://t.co/TqgKpdKqKj\n\n@into__universe\n@YENA_OFFICIAL\n@loonatheworld https://t.co/5fG440dhJl"
+	},
+	{
 		"created_at": "Thu Jun 23 10:45:51 +0000 2022",
 		"id": 1539911149918965800,
 		"id_str": "1539922676244004865",
