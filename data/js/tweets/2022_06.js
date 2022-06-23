@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 12:45:50 +0000 2022",
+		"id": 1539941346508693500,
+		"id_str": "1539952871948656640",
+		"full_text": "[랜덤플레이댄스FULL] 12명이 하는 2배속 랜플댄@_@;; 극악 난이도에 뒤집어진 이달소\n\n12명이 하는 랜덤플레이댄스?!\n우리는 이걸 난리통이라고 부르기로 했어요... \n📽️https://t.co/At24AFBSKc\n\n#주간아 #랜덤플레이댄스 #LOONA #이달의소녀 https://t.co/9WaEByKvZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "랜덤플레이댄스",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/At24AFBSKc",
+					"expanded_url": "https://youtu.be/O004hzHOULw",
+					"display_url": "youtu.be/O004hzHOULw",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539880377367818200,
+					"id_str": "1539880377367818241",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7BC2macAE4L6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7BC2macAE4L6B.jpg",
+					"url": "https://t.co/9WaEByKvZ8",
+					"display_url": "pic.twitter.com/9WaEByKvZ8",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539941346508693504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539880377367818200,
+					"id_str": "1539880377367818241",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7BC2macAE4L6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7BC2macAE4L6B.jpg",
+					"url": "https://t.co/9WaEByKvZ8",
+					"display_url": "pic.twitter.com/9WaEByKvZ8",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539941346508693504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124981,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1655688002",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[랜덤플레이댄스FULL] 12명이 하는 2배속 랜플댄@_@;; 극악 난이도에 뒤집어진 이달소\n\n12명이 하는 랜덤플레이댄스?!\n우리는 이걸 난리통이라고 부르기로 했어요... \n📽️https://t.co/At24AFBSKc\n\n#주간아 #랜덤플레이댄스 #LOONA #이달의소녀 https://t.co/9WaEByKvZ8"
+	},
+	{
+		"created_at": "Thu Jun 23 12:45:42 +0000 2022",
+		"id": 1539941340108075000,
+		"id_str": "1539952837953835010",
+		"full_text": "[신속배달] ※설렘 주의보※ 심쿵 장인 퀸달소 웅니들의 멋짐 모먼트♨\n\n남돌 커버 댄스부터 only 오빛을 위한 심쿵 멘트까지~! (❤ ω ❤)\n이달소 웅니들,, 설렘 폭격으로 주간아를 뒤집어 놓으셨다. 👍\n📽️https://t.co/HR449IuDRZ\n\n#신속배달 #주간아이돌 #LOONA #이달의소녀 https://t.co/WMfqrPs48T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신속배달",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "주간아이돌",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HR449IuDRZ",
+					"expanded_url": "https://youtu.be/qMyR3583aYA",
+					"display_url": "youtu.be/qMyR3583aYA",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539880444682203100,
+					"id_str": "1539880444682203136",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7BGxXacAATdAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7BGxXacAATdAG.jpg",
+					"url": "https://t.co/WMfqrPs48T",
+					"display_url": "pic.twitter.com/WMfqrPs48T",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539941340108075014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539880444682203100,
+					"id_str": "1539880444682203136",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7BGxXacAATdAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7BGxXacAATdAG.jpg",
+					"url": "https://t.co/WMfqrPs48T",
+					"display_url": "pic.twitter.com/WMfqrPs48T",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1539941340108075014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124981,
+			"friends_count": 344,
+			"listed_count": 391,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1655688002",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신속배달] ※설렘 주의보※ 심쿵 장인 퀸달소 웅니들의 멋짐 모먼트♨\n\n남돌 커버 댄스부터 only 오빛을 위한 심쿵 멘트까지~! (❤ ω ❤)\n이달소 웅니들,, 설렘 폭격으로 주간아를 뒤집어 놓으셨다. 👍\n📽️https://t.co/HR449IuDRZ\n\n#신속배달 #주간아이돌 #LOONA #이달의소녀 https://t.co/WMfqrPs48T"
+	},
+	{
 		"created_at": "Thu Jun 23 11:40:23 +0000 2022",
 		"id": 1539896049329967000,
 		"id_str": "1539936401147498496",
@@ -472,7 +900,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
