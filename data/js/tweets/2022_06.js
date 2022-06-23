@@ -1,6 +1,1999 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 13:46:13 +0000 2022",
+		"id": 1539966953670213600,
+		"id_str": "1539968068125720582",
+		"full_text": "[아돌라 #shorts] 연기천재 이달소 모음 (feat.예디)\n\n#예디 #최예나 #이달의소녀 #LOONA https://t.co/BZD33EtUVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shorts",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "예디",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						53,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539966837727035400,
+					"id_str": "1539966837727035392",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539966837727035392/pu/img/Ktm31NmVgYT7ohG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539966837727035392/pu/img/Ktm31NmVgYT7ohG4.jpg",
+					"url": "https://t.co/BZD33EtUVe",
+					"display_url": "pic.twitter.com/BZD33EtUVe",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539966953670213632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539966837727035400,
+					"id_str": "1539966837727035392",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539966837727035392/pu/img/Ktm31NmVgYT7ohG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539966837727035392/pu/img/Ktm31NmVgYT7ohG4.jpg",
+					"url": "https://t.co/BZD33EtUVe",
+					"display_url": "pic.twitter.com/BZD33EtUVe",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539966953670213632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 137216,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539966837727035392/pu/pl/fGXi0AY6rNNIN6fz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539966837727035392/pu/vid/480x270/IQ8xZtr2SEnP0nuL.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539966837727035392/pu/vid/1280x720/eY5qaCCBQz463DcT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539966837727035392/pu/vid/640x360/BX_o_WxOIM_lgOwK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109044,
+			"friends_count": 9,
+			"listed_count": 278,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아돌라 #shorts] 연기천재 이달소 모음 (feat.예디)\n\n#예디 #최예나 #이달의소녀 #LOONA https://t.co/BZD33EtUVe"
+	},
+	{
+		"created_at": "Thu Jun 23 13:46:10 +0000 2022",
+		"id": 1539964951166857200,
+		"id_str": "1539968054708187137",
+		"full_text": "[아돌라 #shorts] 이달소는 OO을 뒤집어 뒤집어!\n\n#이달의소녀 #LOONA #FlipThat https://t.co/YVxTRu2X9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shorts",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539964864156016600,
+					"id_str": "1539964864156016640",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539964864156016640/pu/img/JrzKGqYqxdLuiqhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539964864156016640/pu/img/JrzKGqYqxdLuiqhB.jpg",
+					"url": "https://t.co/YVxTRu2X9f",
+					"display_url": "pic.twitter.com/YVxTRu2X9f",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539964951166857217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539964864156016600,
+					"id_str": "1539964864156016640",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539964864156016640/pu/img/JrzKGqYqxdLuiqhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539964864156016640/pu/img/JrzKGqYqxdLuiqhB.jpg",
+					"url": "https://t.co/YVxTRu2X9f",
+					"display_url": "pic.twitter.com/YVxTRu2X9f",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539964951166857217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 115626,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964864156016640/pu/vid/1280x720/_W3vVuT6mHX5VBfA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539964864156016640/pu/pl/pLbLN32SVm1_zoyA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964864156016640/pu/vid/640x360/nYl7OyJe74eggFod.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964864156016640/pu/vid/480x270/sXvyv2Z6s8dOnWUz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109044,
+			"friends_count": 9,
+			"listed_count": 278,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아돌라 #shorts] 이달소는 OO을 뒤집어 뒤집어!\n\n#이달의소녀 #LOONA #FlipThat https://t.co/YVxTRu2X9f"
+	},
+	{
+		"created_at": "Thu Jun 23 13:46:02 +0000 2022",
+		"id": 1539964837912277000,
+		"id_str": "1539968024505004035",
+		"full_text": "[아돌라 #shorts] 이달의소녀 '탐이나+ Flip That' 댄스클래스 \n\n#예디 #최예나 #YENA #찐디 #희진 #최리  #이달의소녀 #LOONA https://t.co/oqSdARpNmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shorts",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "예디",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "YENA",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "찐디",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						80,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539964718936637400,
+					"id_str": "1539964718936637441",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539964718936637441/pu/img/d_WEBm_qa579nFH4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539964718936637441/pu/img/d_WEBm_qa579nFH4.jpg",
+					"url": "https://t.co/oqSdARpNmU",
+					"display_url": "pic.twitter.com/oqSdARpNmU",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539964837912276992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539964718936637400,
+					"id_str": "1539964718936637441",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539964718936637441/pu/img/d_WEBm_qa579nFH4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539964718936637441/pu/img/d_WEBm_qa579nFH4.jpg",
+					"url": "https://t.co/oqSdARpNmU",
+					"display_url": "pic.twitter.com/oqSdARpNmU",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539964837912276992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131669,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539964718936637441/pu/pl/jLOO0kh6Qw4DCx1z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964718936637441/pu/vid/1280x720/afHU_3GhRFEGCvBy.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964718936637441/pu/vid/640x360/zQfQiEK8n9BqAUaT.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539964718936637441/pu/vid/480x270/tAlkWKjAFQ4uDMS1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109044,
+			"friends_count": 9,
+			"listed_count": 278,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아돌라 #shorts] 이달의소녀 '탐이나+ Flip That' 댄스클래스 \n\n#예디 #최예나 #YENA #찐디 #희진 #최리  #이달의소녀 #LOONA https://t.co/oqSdARpNmU"
+	},
+	{
+		"created_at": "Thu Jun 23 13:45:46 +0000 2022",
+		"id": 1539962132997218300,
+		"id_str": "1539967955907141634",
+		"full_text": "[#오돌라] 220623\n\n 🐰🐣최고존엄우주귀요미짱디제이 찐디❤️예디\n\n#찐디 #희진 #이달의소녀 #예디 #최예나 #YENA https://t.co/db0WDMyJDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오돌라",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "찐디",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "예디",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "YENA",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539961833058345000,
+					"id_str": "1539961833058344960",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LIMsaIAAIUyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LIMsaIAAIUyU.jpg",
+					"url": "https://t.co/db0WDMyJDz",
+					"display_url": "pic.twitter.com/db0WDMyJDz",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539962132997218304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539961833058345000,
+					"id_str": "1539961833058344960",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LIMsaIAAIUyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LIMsaIAAIUyU.jpg",
+					"url": "https://t.co/db0WDMyJDz",
+					"display_url": "pic.twitter.com/db0WDMyJDz",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539962132997218304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539961833213542400,
+					"id_str": "1539961833213542400",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LINRaQAAZm_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LINRaQAAZm_K.jpg",
+					"url": "https://t.co/db0WDMyJDz",
+					"display_url": "pic.twitter.com/db0WDMyJDz",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1539962132997218304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109044,
+			"friends_count": 9,
+			"listed_count": 278,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 661,
+		"favorite_count": 1160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오돌라] 220623\n\n 🐰🐣최고존엄우주귀요미짱디제이 찐디❤️예디\n\n#찐디 #희진 #이달의소녀 #예디 #최예나 #YENA https://t.co/db0WDMyJDz"
+	},
+	{
+		"created_at": "Thu Jun 23 13:45:37 +0000 2022",
+		"id": 1539961470405861400,
+		"id_str": "1539967917357314050",
+		"full_text": "&lt;2022년 상반기 결산 특집&gt;\n☀️SUMMER WORKSHOP🍉⛱\n\n6/24 PM 06:10\n\nENHYPEN, IVE, KARD, LE SSERAFIM, NMIXX, STAYC, TAN, TOMORROW X TOGETHER, 김우석, 나연, 남매즈(문빈 X 문수아), (여자)아이들, 영재, 원호 (WONHO), 이달의 소녀, 임영웅, 장꾸즈(장원영 X 성훈), Kep1er, 펜타곤, 프로미스나인 https://t.co/Gu8uor9zsC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539961461220733000,
+					"id_str": "1539961461220732928",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8KyjfacAAw9fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8KyjfacAAw9fR.jpg",
+					"url": "https://t.co/Gu8uor9zsC",
+					"display_url": "pic.twitter.com/Gu8uor9zsC",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1539961470405861376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539961461220733000,
+					"id_str": "1539961461220732928",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8KyjfacAAw9fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8KyjfacAAw9fR.jpg",
+					"url": "https://t.co/Gu8uor9zsC",
+					"display_url": "pic.twitter.com/Gu8uor9zsC",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1539961470405861376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081379,
+			"friends_count": 19,
+			"listed_count": 5127,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5531,
+		"favorite_count": 11893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2022년 상반기 결산 특집&gt;\n☀️SUMMER WORKSHOP🍉⛱\n\n6/24 PM 06:10\n\nENHYPEN, IVE, KARD, LE SSERAFIM, NMIXX, STAYC, TAN, TOMORROW X TOGETHER, 김우석, 나연, 남매즈(문빈 X 문수아), (여자)아이들, 영재, 원호 (WONHO), 이달의 소녀, 임영웅, 장꾸즈(장원영 X 성훈), Kep1er, 펜타곤, 프로미스나인 https://t.co/Gu8uor9zsC"
+	},
+	{
+		"created_at": "Thu Jun 23 13:40:32 +0000 2022",
+		"id": 1539964465231589400,
+		"id_str": "1539966638665211904",
+		"full_text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/TfTBge8nFb\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #진솔 #JinSoul #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						100,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TfTBge8nFb",
+					"expanded_url": "https://vt.tiktok.com/ZSd3Gv4UJ/?k=1",
+					"display_url": "vt.tiktok.com/ZSd3Gv4UJ/?k=1",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941765,
+			"friends_count": 2,
+			"listed_count": 8775,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 2767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/TfTBge8nFb\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #진솔 #JinSoul #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Thu Jun 23 13:40:16 +0000 2022",
+		"id": 1539961069719789600,
+		"id_str": "1539966570054799367",
+		"full_text": "🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539961066938982400,
+		"in_reply_to_status_id_str": "1539961066938982400",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275029,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM"
+	},
+	{
+		"created_at": "Thu Jun 23 13:34:47 +0000 2022",
+		"id": 1539961066938982400,
+		"id_str": "1539965190971613186",
+		"full_text": "[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\n💿 TRACK LIST \n1. HAPPY 25th, JAURIM!!\n2. 매직카펫라이드 25th\n3. 헤이헤이헤이 25th\n4. 하하하쏭 25th\n5. 17171771 25th\n6. 팬이야 25th\n7. 밀랍천사 25th\n8. 미안해 널 미워해 25th\n9. our song\n10. 스물다섯, 스물하나 25th\n11. 샤이닝 25th\n12. 일탈 25th https://t.co/rrd49l3JLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539961056277450800,
+					"id_str": "1539961056277450752",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8Ka-9aUAA9Hpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8Ka-9aUAA9Hpk.jpg",
+					"url": "https://t.co/rrd49l3JLQ",
+					"display_url": "pic.twitter.com/rrd49l3JLQ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961066938982400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539961056277450800,
+					"id_str": "1539961056277450752",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8Ka-9aUAA9Hpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8Ka-9aUAA9Hpk.jpg",
+					"url": "https://t.co/rrd49l3JLQ",
+					"display_url": "pic.twitter.com/rrd49l3JLQ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961066938982400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275029,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\n💿 TRACK LIST \n1. HAPPY 25th, JAURIM!!\n2. 매직카펫라이드 25th\n3. 헤이헤이헤이 25th\n4. 하하하쏭 25th\n5. 17171771 25th\n6. 팬이야 25th\n7. 밀랍천사 25th\n8. 미안해 널 미워해 25th\n9. our song\n10. 스물다섯, 스물하나 25th\n11. 샤이닝 25th\n12. 일탈 25th https://t.co/rrd49l3JLQ"
+	},
+	{
+		"created_at": "Thu Jun 23 13:34:47 +0000 2022",
+		"id": 1539961895808929800,
+		"id_str": "1539965190921302017",
+		"full_text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #이선규\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/9INaA6Se64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이선규",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539961886476992500,
+					"id_str": "1539961886476992513",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LLTsaAAEg98c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LLTsaAAEg98c.jpg",
+					"url": "https://t.co/9INaA6Se64",
+					"display_url": "pic.twitter.com/9INaA6Se64",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961895808929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539961886476992500,
+					"id_str": "1539961886476992513",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LLTsaAAEg98c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LLTsaAAEg98c.jpg",
+					"url": "https://t.co/9INaA6Se64",
+					"display_url": "pic.twitter.com/9INaA6Se64",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961895808929792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539961069719789600,
+		"in_reply_to_status_id_str": "1539961069719789571",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275029,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #이선규\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/9INaA6Se64"
+	},
+	{
+		"created_at": "Thu Jun 23 13:34:47 +0000 2022",
+		"id": 1539961909545341000,
+		"id_str": "1539965189952393217",
+		"full_text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김진만\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/ibZxF0p5mA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김진만",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539961901178065000,
+					"id_str": "1539961901178064896",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LMKdakAA3kvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LMKdakAA3kvK.jpg",
+					"url": "https://t.co/ibZxF0p5mA",
+					"display_url": "pic.twitter.com/ibZxF0p5mA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961909545340928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539961901178065000,
+					"id_str": "1539961901178064896",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV8LMKdakAA3kvK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV8LMKdakAA3kvK.jpg",
+					"url": "https://t.co/ibZxF0p5mA",
+					"display_url": "pic.twitter.com/ibZxF0p5mA",
+					"expanded_url": "https://twitter.com/love_yuna/status/1539961909545340928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539961895808929800,
+		"in_reply_to_status_id_str": "1539961895808929792",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275029,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김진만\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/ibZxF0p5mA"
+	},
+	{
 		"created_at": "Thu Jun 23 12:45:50 +0000 2022",
 		"id": 1539941346508693500,
 		"id_str": "1539952871948656640",
