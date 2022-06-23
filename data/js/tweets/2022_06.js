@@ -1,10 +1,2377 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 10:45:51 +0000 2022",
+		"id": 1539911149918965800,
+		"id_str": "1539922676244004865",
+		"full_text": "[#혼밥상] #희진 @loonatheworld\n우리 #희진 요리사 혼혈이라면서요? 한국과 천국...😇\n04:32 이 장면 보고 나도 희진 고향 천국갔다옴...\n\n#FlipThat 돼버린 메뉴가 궁금하다면?🔁\nFULL👉 https://t.co/xheAZST8mL\n\n-\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #FlipThat #플립댓 #오빛 #혼밥상 https://t.co/OHAWoIyJnK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혼밥상",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "혼밥상",
+					"indices": [
+						199,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xheAZST8mL",
+					"expanded_url": "https://youtu.be/6y6XssGBSWI",
+					"display_url": "youtu.be/6y6XssGBSWI",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539882575115694000,
+					"id_str": "1539882575115694080",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539882575115694080/pu/img/SU2bxjlHhOmysVep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539882575115694080/pu/img/SU2bxjlHhOmysVep.jpg",
+					"url": "https://t.co/OHAWoIyJnK",
+					"display_url": "pic.twitter.com/OHAWoIyJnK",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539911149918965760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539882575115694000,
+					"id_str": "1539882575115694080",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539882575115694080/pu/img/SU2bxjlHhOmysVep.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539882575115694080/pu/img/SU2bxjlHhOmysVep.jpg",
+					"url": "https://t.co/OHAWoIyJnK",
+					"display_url": "pic.twitter.com/OHAWoIyJnK",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539911149918965760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59927,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539882575115694080/pu/pl/mtYVNs7IcREwUL_w.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539882575115694080/pu/vid/480x270/RiNNSObdqJjGzPRp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539882575115694080/pu/vid/640x360/920_eq06HdebZnze.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539882575115694080/pu/vid/1280x720/e-m1gvnqOhQOLeQO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16141,
+			"friends_count": 1,
+			"listed_count": 41,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 730,
+		"favorite_count": 1879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#혼밥상] #희진 @loonatheworld\n우리 #희진 요리사 혼혈이라면서요? 한국과 천국...😇\n04:32 이 장면 보고 나도 희진 고향 천국갔다옴...\n\n#FlipThat 돼버린 메뉴가 궁금하다면?🔁\nFULL👉 https://t.co/xheAZST8mL\n\n-\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #FlipThat #플립댓 #오빛 #혼밥상 https://t.co/OHAWoIyJnK"
+	},
+	{
+		"created_at": "Thu Jun 23 10:45:41 +0000 2022",
+		"id": 1539911142004465700,
+		"id_str": "1539922637794811904",
+		"full_text": "[EVENT] #희진 #혼밥상 @loonatheworld\n혼밥상 이벤트! 트위터 구독하고 \n본 게시물에 혼밥상 희진편 감상 댓글을 남겨주세요!\n\n추첨을 통해 #희진 싸인 #폴라로이드 를 드립니다🧡\n\n*당첨 발표는 당첨자에 한하여 DM으로 연락드립니다.\n\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #이벤트 #EVENT https://t.co/ITocRoGqtR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "혼밥상",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "폴라로이드",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "EVENT",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539876510751789000,
+					"id_str": "1539876510751789056",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FV69hyVUEAA-ryh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV69hyVUEAA-ryh.jpg",
+					"url": "https://t.co/ITocRoGqtR",
+					"display_url": "pic.twitter.com/ITocRoGqtR",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539911142004465667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539876510751789000,
+					"id_str": "1539876510751789056",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FV69hyVUEAA-ryh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV69hyVUEAA-ryh.jpg",
+					"url": "https://t.co/ITocRoGqtR",
+					"display_url": "pic.twitter.com/ITocRoGqtR",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539911142004465667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539876539340247000,
+					"id_str": "1539876539340247040",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FV69jc1VUAAyjWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV69jc1VUAAyjWO.jpg",
+					"url": "https://t.co/ITocRoGqtR",
+					"display_url": "pic.twitter.com/ITocRoGqtR",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1539911142004465667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16141,
+			"friends_count": 1,
+			"listed_count": 41,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 1018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] #희진 #혼밥상 @loonatheworld\n혼밥상 이벤트! 트위터 구독하고 \n본 게시물에 혼밥상 희진편 감상 댓글을 남겨주세요!\n\n추첨을 통해 #희진 싸인 #폴라로이드 를 드립니다🧡\n\n*당첨 발표는 당첨자에 한하여 DM으로 연락드립니다.\n\n#이달의소녀 #이달소 #LOONA #희진 #HeeJin #이벤트 #EVENT https://t.co/ITocRoGqtR"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:36 +0000 2022",
+		"id": 1539920076773552000,
+		"id_str": "1539921357605113857",
+		"full_text": "[#14F] 걸크러쉬 컨셉도 찰떡 같이 소화해낸 비결은 ‘K-장녀’? 뜻밖의 반전미 넘치는 츄 \n\n▶️ https://t.co/xiXrXKzacU\n\n#이달의소녀 #츄 #LOONA #Chuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "14F",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						90,
+						92
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiXrXKzacU",
+					"expanded_url": "https://youtu.be/56vv3lnlJ6Y",
+					"display_url": "youtu.be/56vv3lnlJ6Y",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941589,
+			"friends_count": 2,
+			"listed_count": 8783,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 1919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#14F] 걸크러쉬 컨셉도 찰떡 같이 소화해낸 비결은 ‘K-장녀’? 뜻밖의 반전미 넘치는 츄 \n\n▶️ https://t.co/xiXrXKzacU\n\n#이달의소녀 #츄 #LOONA #Chuu"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:34 +0000 2022",
+		"id": 1539919451986231300,
+		"id_str": "1539921348750876672",
+		"full_text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/0eomat2TGV\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #최리 #Choerry #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						100,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0eomat2TGV",
+					"expanded_url": "https://vt.tiktok.com/ZSd3qqDL4/?k=1",
+					"display_url": "vt.tiktok.com/ZSd3qqDL4/?k=1",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941589,
+			"friends_count": 2,
+			"listed_count": 8783,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 730,
+		"favorite_count": 1985,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/0eomat2TGV\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #최리 #Choerry #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:31 +0000 2022",
+		"id": 1539918839311261700,
+		"id_str": "1539921335698309125",
+		"full_text": "[#MCOUNTDOWN] MPD 직캠\n\n이브▶️ https://t.co/D1AU60jhnK\n츄▶️ https://t.co/PCGysckuR7\n고원▶️ https://t.co/CgLUEYGPR3\n올리비아 혜▶️ https://t.co/WpBL2swkp6\n\n#이달의소녀 #플립댓  #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D1AU60jhnK",
+					"expanded_url": "https://youtu.be/cv1dV2tJoao",
+					"display_url": "youtu.be/cv1dV2tJoao",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/PCGysckuR7",
+					"expanded_url": "https://youtu.be/br7ds4DMGdY",
+					"display_url": "youtu.be/br7ds4DMGdY",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/CgLUEYGPR3",
+					"expanded_url": "https://youtu.be/jWT63p_GWvA",
+					"display_url": "youtu.be/jWT63p_GWvA",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/WpBL2swkp6",
+					"expanded_url": "https://youtu.be/3BEfb2KGKW4",
+					"display_url": "youtu.be/3BEfb2KGKW4",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1539918837545459700,
+		"in_reply_to_status_id_str": "1539918837545459712",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941589,
+			"friends_count": 2,
+			"listed_count": 8783,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MCOUNTDOWN] MPD 직캠\n\n이브▶️ https://t.co/D1AU60jhnK\n츄▶️ https://t.co/PCGysckuR7\n고원▶️ https://t.co/CgLUEYGPR3\n올리비아 혜▶️ https://t.co/WpBL2swkp6\n\n#이달의소녀 #플립댓  #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:23 +0000 2022",
+		"id": 1539918837545459700,
+		"id_str": "1539921301644648448",
+		"full_text": "[#MCOUNTDOWN] MPD 직캠\n\n비비▶️ https://t.co/BGKkCtwRjq\n김립▶️ https://t.co/U7r106TdaD\n진솔▶️ https://t.co/0goJ3vdoTe\n최리▶️ https://t.co/9ub8xOt6TM\n\n#이달의소녀 #플립댓  #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BGKkCtwRjq",
+					"expanded_url": "https://youtu.be/3PIt5Fz1dAY",
+					"display_url": "youtu.be/3PIt5Fz1dAY",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/U7r106TdaD",
+					"expanded_url": "https://youtu.be/MAQDA271I2o",
+					"display_url": "youtu.be/MAQDA271I2o",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/0goJ3vdoTe",
+					"expanded_url": "https://youtu.be/mR0zGy2-UmQ",
+					"display_url": "youtu.be/mR0zGy2-UmQ",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/9ub8xOt6TM",
+					"expanded_url": "https://youtu.be/kv5MbkJ1P8I",
+					"display_url": "youtu.be/kv5MbkJ1P8I",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1539918835335147500,
+		"in_reply_to_status_id_str": "1539918835335147520",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941589,
+			"friends_count": 2,
+			"listed_count": 8783,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MCOUNTDOWN] MPD 직캠\n\n비비▶️ https://t.co/BGKkCtwRjq\n김립▶️ https://t.co/U7r106TdaD\n진솔▶️ https://t.co/0goJ3vdoTe\n최리▶️ https://t.co/9ub8xOt6TM\n\n#이달의소녀 #플립댓  #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:17 +0000 2022",
+		"id": 1539918835335147500,
+		"id_str": "1539921276021755904",
+		"full_text": "[#MCOUNTDOWN] MPD 직캠\n\n희진▶️ https://t.co/0Pupjw44PC\n현진▶️ https://t.co/5x769PzDTS\n하슬▶️ https://t.co/NVXqf8MF50\n여진▶️ https://t.co/c9e2EVXuCd\n\n#이달의소녀 #플립댓  #LOONA #FlipThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Pupjw44PC",
+					"expanded_url": "https://youtu.be/7wSgKxRFS-g",
+					"display_url": "youtu.be/7wSgKxRFS-g",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/5x769PzDTS",
+					"expanded_url": "https://youtu.be/mfOdqg_AZDU",
+					"display_url": "youtu.be/mfOdqg_AZDU",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/NVXqf8MF50",
+					"expanded_url": "https://youtu.be/KNfff7J0cXw",
+					"display_url": "youtu.be/KNfff7J0cXw",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/c9e2EVXuCd",
+					"expanded_url": "https://youtu.be/0oFFHmKwsNw",
+					"display_url": "youtu.be/0oFFHmKwsNw",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941589,
+			"friends_count": 2,
+			"listed_count": 8783,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 587,
+		"favorite_count": 1583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MCOUNTDOWN] MPD 직캠\n\n희진▶️ https://t.co/0Pupjw44PC\n현진▶️ https://t.co/5x769PzDTS\n하슬▶️ https://t.co/NVXqf8MF50\n여진▶️ https://t.co/c9e2EVXuCd\n\n#이달의소녀 #플립댓  #LOONA #FlipThat"
+	},
+	{
+		"created_at": "Thu Jun 23 10:40:10 +0000 2022",
+		"id": 1539916135197732900,
+		"id_str": "1539921246116265985",
+		"full_text": "우리의 여름을 플립댓 할 오빛의 자랑! 오빛의 우주! 짱달소의 컴백 무대💕 #이달의소녀 #FlipThat #LOONA #플립댓 @loonatheworld #MCOUNTDOWN #MPD직캠\n\n▶ https://t.co/s0IK7ev6bL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						71,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s0IK7ev6bL",
+					"expanded_url": "https://youtu.be/MorGYbbWog0",
+					"display_url": "youtu.be/MorGYbbWog0",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1252206,
+			"friends_count": 459,
+			"listed_count": 1556,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 1750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리의 여름을 플립댓 할 오빛의 자랑! 오빛의 우주! 짱달소의 컴백 무대💕 #이달의소녀 #FlipThat #LOONA #플립댓 @loonatheworld #MCOUNTDOWN #MPD직캠\n\n▶ https://t.co/s0IK7ev6bL"
+	},
+	{
+		"created_at": "Thu Jun 23 10:17:50 +0000 2022",
+		"id": 1539911901802401800,
+		"id_str": "1539915626084302848",
+		"full_text": "💿 TRACK LIST \n1. HAPPY 25th, JAURIM!!\n2. 매직카펫라이드 25th\n3. 헤이헤이헤이 25th\n4. 하하하쏭 25th\n5. 17171771 25th\n6. 팬이야 25th\n7. 밀랍천사 25th\n8. 미안해 널 미워해 25th\n9. our song\n10. 스물다섯, 스물하나 25th\n11. 샤이닝 25th\n12. 일탈 25th",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539911742163001300,
+		"in_reply_to_status_id_str": "1539911742163001345",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💿 TRACK LIST \n1. HAPPY 25th, JAURIM!!\n2. 매직카펫라이드 25th\n3. 헤이헤이헤이 25th\n4. 하하하쏭 25th\n5. 17171771 25th\n6. 팬이야 25th\n7. 밀랍천사 25th\n8. 미안해 널 미워해 25th\n9. our song\n10. 스물다섯, 스물하나 25th\n11. 샤이닝 25th\n12. 일탈 25th"
+	},
+	{
+		"created_at": "Thu Jun 23 10:17:50 +0000 2022",
+		"id": 1539913150773899300,
+		"id_str": "1539915625849450497",
+		"full_text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김진만\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/mUi2phK0df",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김진만",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539913145300398000,
+					"id_str": "1539913145300398081",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7e2MqVsAEXCIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7e2MqVsAEXCIX.jpg",
+					"url": "https://t.co/mUi2phK0df",
+					"display_url": "pic.twitter.com/mUi2phK0df",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913150773899264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539913145300398000,
+					"id_str": "1539913145300398081",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7e2MqVsAEXCIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7e2MqVsAEXCIX.jpg",
+					"url": "https://t.co/mUi2phK0df",
+					"display_url": "pic.twitter.com/mUi2phK0df",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913150773899264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김진만\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/mUi2phK0df"
+	},
+	{
+		"created_at": "Thu Jun 23 10:17:50 +0000 2022",
+		"id": 1539913923729641500,
+		"id_str": "1539915625824325632",
+		"full_text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #이선규\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/Sg8PxGrSDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이선규",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539913918897803300,
+					"id_str": "1539913918897803265",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7fjOiVUAESjnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7fjOiVUAESjnC.jpg",
+					"url": "https://t.co/Sg8PxGrSDI",
+					"display_url": "pic.twitter.com/Sg8PxGrSDI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913923729641472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539913918897803300,
+					"id_str": "1539913918897803265",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7fjOiVUAESjnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7fjOiVUAESjnC.jpg",
+					"url": "https://t.co/Sg8PxGrSDI",
+					"display_url": "pic.twitter.com/Sg8PxGrSDI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913923729641472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #이선규\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/Sg8PxGrSDI"
+	},
+	{
+		"created_at": "Thu Jun 23 10:17:50 +0000 2022",
+		"id": 1539913414134313000,
+		"id_str": "1539915625815871489",
+		"full_text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김윤아 \n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/k0YzecHyIe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539913408895520800,
+					"id_str": "1539913408895520768",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7fFioUEAApunZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7fFioUEAApunZ.jpg",
+					"url": "https://t.co/k0YzecHyIe",
+					"display_url": "pic.twitter.com/k0YzecHyIe",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913414134312960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539913408895520800,
+					"id_str": "1539913408895520768",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7fFioUEAApunZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7fFioUEAApunZ.jpg",
+					"url": "https://t.co/k0YzecHyIe",
+					"display_url": "pic.twitter.com/k0YzecHyIe",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1539913414134312960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤자우림 스페셜 앨범❤\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n\nCONCEPT PHOTO #김윤아 \n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM https://t.co/k0YzecHyIe"
+	},
+	{
+		"created_at": "Thu Jun 23 10:17:50 +0000 2022",
+		"id": 1539911931070255000,
+		"id_str": "1539915625493307392",
+		"full_text": "🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539911901802401800,
+		"in_reply_to_status_id_str": "1539911901802401793",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n🎁 CONCERT\n2022.07.01-03 OLYMPIC HALL\n\n#HAPPY25thJAURIM"
+	},
+	{
 		"created_at": "Thu Jun 23 09:40:28 +0000 2022",
 		"id": 1539895095758946300,
 		"id_str": "1539906223696494597",
-		"full_text": "오늘 오후 8시 30분 #이달의소녀 in 아이돌라디오🙌\n(스페셜 DJ #최예나 &amp; #희진) NC 유니버스 앱 생방송! https://t.co/AJJMQRKOkm\n​\n#LOONA in IDOL RADIO at 20:30 (Special DJ #YENA &amp; #HeeJin)\nWatch ive on NC Universe app. \n​\n@idolradiokorea @into__universe @YENA_OFFICIAL @loonatheworld https://t.co/HoBI3NONiY",
+		"full_text": "오늘 오후 8시 30분 #이달의소녀 in 아이돌라디오🙌\n(스페셜 DJ #최예나 &amp; #희진) NC 유니버스 앱 생방송! https://t.co/AJJMQRKOkm\n\n#LOONA in IDOL RADIO at 20:30 (Special DJ #YENA &amp; #HeeJin)\nWatch ive on NC Universe app. \n\n@idolradiokorea @into__universe @YENA_OFFICIAL @loonatheworld https://t.co/HoBI3NONiY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -267,7 +2634,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "오늘 오후 8시 30분 #이달의소녀 in 아이돌라디오🙌\n(스페셜 DJ #최예나 &amp; #희진) NC 유니버스 앱 생방송! https://t.co/AJJMQRKOkm\n​\n#LOONA in IDOL RADIO at 20:30 (Special DJ #YENA &amp; #HeeJin)\nWatch ive on NC Universe app. \n​\n@idolradiokorea @into__universe @YENA_OFFICIAL @loonatheworld https://t.co/HoBI3NONiY"
+		"text": "오늘 오후 8시 30분 #이달의소녀 in 아이돌라디오🙌\n(스페셜 DJ #최예나 &amp; #희진) NC 유니버스 앱 생방송! https://t.co/AJJMQRKOkm\n\n#LOONA in IDOL RADIO at 20:30 (Special DJ #YENA &amp; #HeeJin)\nWatch ive on NC Universe app. \n\n@idolradiokorea @into__universe @YENA_OFFICIAL @loonatheworld https://t.co/HoBI3NONiY"
 	},
 	{
 		"created_at": "Thu Jun 23 09:40:24 +0000 2022",
@@ -1105,7 +3472,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
