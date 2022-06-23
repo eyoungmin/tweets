@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 16:40:10 +0000 2022",
+		"id": 1540002217553547300,
+		"id_str": "1540011842860470272",
+		"full_text": "TRUE ROMANCE VIDEO OUT NOW!! ❤️‍🔥❤️‍🔥 We had the best time ever filming this video during a day off on tour in LA. Thank you to Alex and Tim  for capturing something beautiful. Go watch it!! 😇\nhttps://t.co/Dzjp2pfwiM https://t.co/HNoOHUsgRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dzjp2pfwiM",
+					"expanded_url": "http://OhWonder.lnk.to/TrueRomanceOfficialVideoTW",
+					"display_url": "OhWonder.lnk.to/TrueRomanceOff…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540001572415045600,
+					"id_str": "1540001572415045632",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540001572415045632/pu/img/0Y-aahG8frIYY-QQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540001572415045632/pu/img/0Y-aahG8frIYY-QQ.jpg",
+					"url": "https://t.co/HNoOHUsgRt",
+					"display_url": "pic.twitter.com/HNoOHUsgRt",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1540002217553547265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540001572415045600,
+					"id_str": "1540001572415045632",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540001572415045632/pu/img/0Y-aahG8frIYY-QQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540001572415045632/pu/img/0Y-aahG8frIYY-QQ.jpg",
+					"url": "https://t.co/HNoOHUsgRt",
+					"display_url": "pic.twitter.com/HNoOHUsgRt",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1540002217553547265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 24290,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540001572415045632/pu/vid/320x400/qSd_GXnDTLfvRcvQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540001572415045632/pu/vid/720x900/CdPgY-ij4tT14QOq.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540001572415045632/pu/vid/480x600/ZhupnAGQAsYooRt8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1540001572415045632/pu/pl/5ywp0HTl7e9KbIer.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out July 22nd! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166321,
+			"friends_count": 204,
+			"listed_count": 428,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TRUE ROMANCE VIDEO OUT NOW!! ❤️‍🔥❤️‍🔥 We had the best time ever filming this video during a day off on tour in LA. Thank you to Alex and Tim  for capturing something beautiful. Go watch it!! 😇\nhttps://t.co/Dzjp2pfwiM https://t.co/HNoOHUsgRt"
+	},
+	{
 		"created_at": "Thu Jun 23 15:45:37 +0000 2022",
 		"id": 1539988235140620300,
 		"id_str": "1539998114781822977",
