@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 14:32:00 +0000 2022",
+		"id": 1539978344829030400,
+		"id_str": "1539979592441597952",
+		"full_text": "@SNSD_0805 내마음대로 45도….😅",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SNSD_0805",
+					"name": "화수은화",
+					"id": 173447107,
+					"id_str": "173447107",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539944759313150000,
+		"in_reply_to_status_id_str": "1539944759313149952",
+		"in_reply_to_user_id": 173447107,
+		"in_reply_to_user_id_str": "173447107",
+		"in_reply_to_screen_name": "SNSD_0805",
+		"user": {
+			"id": 1075285323016335400,
+			"id_str": "1075285323016335360",
+			"name": "sooyoung choi",
+			"screen_name": "sychoiofficial",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72720,
+			"friends_count": 4,
+			"listed_count": 333,
+			"created_at": "Wed Dec 19 07:02:53 +0000 2018",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450005862559334403/ubQLx8LA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450005862559334403/ubQLx8LA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 731,
+		"favorite_count": 1139,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SNSD_0805 내마음대로 45도….😅"
+	},
+	{
 		"created_at": "Thu Jun 23 13:46:13 +0000 2022",
 		"id": 1539966953670213600,
 		"id_str": "1539968068125720582",
@@ -173,7 +266,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
@@ -408,7 +501,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
@@ -678,7 +771,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
@@ -939,7 +1032,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
