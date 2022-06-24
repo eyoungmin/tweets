@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 03:45:52 +0000 2022",
+		"id": 1540175381550010400,
+		"id_str": "1540179373059440641",
+		"full_text": "1등 하면 &gt;&gt;MBC라디오&lt;&lt;에\n최애곡이 선곡될 수 있는 찬스 =͟͟͞͞(๑•̀ㅁ•́ฅ✧.\n\n#방탄소년단 #BTS #영재 #YOUNGJAE #케플러 #Kep1er #이달의소녀 #LOONA #시크릿넘버 #SECRETNUMBER #이민혁 #HUTA #LeeMinhyuk #원호 #WONHO https://t.co/F8hjg53Gg2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "영재",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "YOUNGJAE",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "SECRETNUMBER",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "이민혁",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "HUTA",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "LeeMinhyuk",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"text": "원호",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F8hjg53Gg2",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1537361035363254274",
+					"display_url": "twitter.com/idolchamp1/sta…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97396,
+			"friends_count": 108,
+			"listed_count": 258,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537361035363254300,
+		"quoted_status_id_str": "1537361035363254274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F8hjg53Gg2",
+			"expanded": "https://twitter.com/idolchamp1/status/1537361035363254274",
+			"display": "twitter.com/idolchamp1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 09:06:48 +0000 2022",
+			"id": 1537361035363254300,
+			"id_str": "1537361035363254274",
+			"full_text": "IDOLCHAMP X MBC RADIO\n\n📻라디오에서 흘러나오는~ 🎶\n어..?이거 내 최애 노래인데!😮\n\n🕛12 PM 정오의 희망곡\n🕗8 PM 갓세븐 영재의 친한친구\n🕐2AM 아이돌 스테이션\n\nMBC 라디오에서 최애 홍보 가보자고!\n\nVote 👉 https://t.co/IelIlcdqV9\n\n#DRIPPIN #Kep1er #LOONA #KARD #fromis_9 #aespa #WONHO https://t.co/9oQ6gYKyH5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DRIPPIN",
+						"indices": [
+							163,
+							171
+						]
+					},
+					{
+						"text": "Kep1er",
+						"indices": [
+							172,
+							179
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							180,
+							186
+						]
+					},
+					{
+						"text": "KARD",
+						"indices": [
+							187,
+							192
+						]
+					},
+					{
+						"text": "fromis_9",
+						"indices": [
+							193,
+							202
+						]
+					},
+					{
+						"text": "aespa",
+						"indices": [
+							203,
+							209
+						]
+					},
+					{
+						"text": "WONHO",
+						"indices": [
+							210,
+							216
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IelIlcdqV9",
+						"expanded_url": "https://bit.ly/39xXhLV",
+						"display_url": "bit.ly/39xXhLV",
+						"indices": [
+							138,
+							161
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1537361001850753000,
+						"id_str": "1537361001850753025",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+						"url": "https://t.co/9oQ6gYKyH5",
+						"display_url": "pic.twitter.com/9oQ6gYKyH5",
+						"expanded_url": "https://twitter.com/idolchamp1/status/1537361035363254274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537361001850753000,
+						"id_str": "1537361001850753025",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVXNr5baUAEALVP.jpg",
+						"url": "https://t.co/9oQ6gYKyH5",
+						"display_url": "pic.twitter.com/9oQ6gYKyH5",
+						"expanded_url": "https://twitter.com/idolchamp1/status/1537361035363254274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 842271014520148000,
+				"id_str": "842271014520147968",
+				"name": "아이돌챔프",
+				"screen_name": "idolchamp1",
+				"location": "아이돌 맴 속",
+				"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97396,
+				"friends_count": 108,
+				"listed_count": 258,
+				"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+				"favourites_count": 289,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 300,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1등 하면 &gt;&gt;MBC라디오&lt;&lt;에\n최애곡이 선곡될 수 있는 찬스 =͟͟͞͞(๑•̀ㅁ•́ฅ✧.\n\n#방탄소년단 #BTS #영재 #YOUNGJAE #케플러 #Kep1er #이달의소녀 #LOONA #시크릿넘버 #SECRETNUMBER #이민혁 #HUTA #LeeMinhyuk #원호 #WONHO https://t.co/F8hjg53Gg2"
+	},
+	{
+		"created_at": "Fri Jun 24 03:45:45 +0000 2022",
+		"id": 1540168166495907800,
+		"id_str": "1540179343229566980",
+		"full_text": "희진겅듀님 김뽁드셧대🍳\n여러분의 혼밥 메뉴도 알려주기\n\n✔챌린지 진행중✔ \nhttps://t.co/qHAYfRujyK\n\n#혼밥상챌린지 #혼밥상 \n#이달의소녀 #LOONA #희진 #HeeJin #FlipThat #플립댓 #오빛 https://t.co/r3tMsyAcb8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "혼밥상챌린지",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "혼밥상",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						122,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHAYfRujyK",
+					"expanded_url": "https://bit.ly/3bswi5j",
+					"display_url": "bit.ly/3bswi5j",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540165454442143700,
+					"id_str": "1540165454442143744",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FV_EUhdaIAAVDSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV_EUhdaIAAVDSF.jpg",
+					"url": "https://t.co/r3tMsyAcb8",
+					"display_url": "pic.twitter.com/r3tMsyAcb8",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1540168166495907840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540165454442143700,
+					"id_str": "1540165454442143744",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FV_EUhdaIAAVDSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV_EUhdaIAAVDSF.jpg",
+					"url": "https://t.co/r3tMsyAcb8",
+					"display_url": "pic.twitter.com/r3tMsyAcb8",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1540168166495907840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16206,
+			"friends_count": 1,
+			"listed_count": 41,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "희진겅듀님 김뽁드셧대🍳\n여러분의 혼밥 메뉴도 알려주기\n\n✔챌린지 진행중✔ \nhttps://t.co/qHAYfRujyK\n\n#혼밥상챌린지 #혼밥상 \n#이달의소녀 #LOONA #희진 #HeeJin #FlipThat #플립댓 #오빛 https://t.co/r3tMsyAcb8"
+	},
+	{
+		"created_at": "Fri Jun 24 03:45:37 +0000 2022",
+		"id": 1540167838878638000,
+		"id_str": "1540179309159235588",
+		"full_text": "아이돌 라디오 시즌2 #ep92_이달의소녀 FULL 영상과 하이라이트가 업로드 되었습니다\n\n유니버스에서 시청해주세요!\nhttps://t.co/TqgKpdJSUL \n\n@into__universe\n@YENA_OFFICIAL\n@loonatheworld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ep92_이달의소녀",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "into__universe",
+					"name": "UNIVERSE_OFFICIAL",
+					"id": 1301330441786462200,
+					"id_str": "1301330441786462209",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "YENA_OFFICIAL",
+					"name": "최예나",
+					"id": 1394936522017689600,
+					"id_str": "1394936522017689600",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TqgKpdJSUL",
+					"expanded_url": "http://buff.ly/3tXSO9s",
+					"display_url": "buff.ly/3tXSO9s",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/J1NQtNsrHe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1NQtNsrHe",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109040,
+			"friends_count": 9,
+			"listed_count": 279,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537666595639947264/n0WzP39v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1626839012",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이돌 라디오 시즌2 #ep92_이달의소녀 FULL 영상과 하이라이트가 업로드 되었습니다\n\n유니버스에서 시청해주세요!\nhttps://t.co/TqgKpdJSUL \n\n@into__universe\n@YENA_OFFICIAL\n@loonatheworld"
+	},
+	{
 		"created_at": "Fri Jun 24 02:40:14 +0000 2022",
 		"id": 1540158280533934000,
 		"id_str": "1540162855764377602",
