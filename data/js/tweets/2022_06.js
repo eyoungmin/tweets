@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 18:40:09 +0000 2022",
+		"id": 1540396727508914200,
+		"id_str": "1540404429500858371",
+		"full_text": "⚡️♥️ https://t.co/cPAetqgUUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPAetqgUUP",
+					"expanded_url": "https://twitter.com/PS22Chorus/status/1539327846631473152",
+					"display_url": "twitter.com/PS22Chorus/sta…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602217,
+			"friends_count": 776,
+			"listed_count": 42497,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539327846631473200,
+		"quoted_status_id_str": "1539327846631473152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cPAetqgUUP",
+			"expanded": "https://twitter.com/PS22Chorus/status/1539327846631473152",
+			"display": "twitter.com/PS22Chorus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 21 19:22:12 +0000 2022",
+			"id": 1539327846631473200,
+			"id_str": "1539327846631473152",
+			"full_text": "Holy smokes!!!!!!  We won a video chat with @coldplay!!!  Big thanks to @codeorg for acknowledging the hard work our students and my colleagues put into our contest entry... We are over the 🌙!!! https://t.co/O5YHbvulXh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"screen_name": "codeorg",
+						"name": "Code.org",
+						"id": 850107536,
+						"id_str": "850107536",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O5YHbvulXh",
+						"expanded_url": "https://twitter.com/codeorg/status/1537102643457363970",
+						"display_url": "twitter.com/codeorg/status…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56792752,
+				"id_str": "56792752",
+				"name": "PS22 Chorus",
+				"screen_name": "PS22Chorus",
+				"location": "Staten Island",
+				"description": "PS22 Chorus is the Webby Award-winning public school group from Staten Island, NY, comprised of 65 ordinary 5th graders achieving the extraordinary, in harmony.",
+				"url": "https://t.co/Q1jA95Rylj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q1jA95Rylj",
+								"expanded_url": "http://facebook.com/ps22chorus",
+								"display_url": "facebook.com/ps22chorus",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8012,
+				"friends_count": 29,
+				"listed_count": 145,
+				"created_at": "Tue Jul 14 19:40:33 +0000 2009",
+				"favourites_count": 406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1924,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1507743423582908423/rZKeSrje_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507743423582908423/rZKeSrje_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56792752/1648309019",
+				"profile_link_color": "1F2491",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FF7700",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1537102643457364000,
+			"quoted_status_id_str": "1537102643457363970",
+			"quoted_status_permalink": {
+				"url": "https://t.co/O5YHbvulXh",
+				"expanded": "https://twitter.com/codeorg/status/1537102643457363970",
+				"display": "twitter.com/codeorg/status…"
+			},
+			"retweet_count": 9,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "⚡️♥️ https://t.co/cPAetqgUUP"
+	},
+	{
 		"created_at": "Fri Jun 24 15:40:10 +0000 2022",
 		"id": 1540353497044238300,
 		"id_str": "1540359131193921536",
