@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 02:40:14 +0000 2022",
+		"id": 1540158280533934000,
+		"id_str": "1540162855764377602",
+		"full_text": "#aespa’s first English single, ‘Life’s Too Short’, track + MV will be released today at 1PM (KST)! The song is packed full of positive energy with its bright tune and hopeful message. aespa is also gearing up for their upcoming July comeback!\n\n#LifesTooShort #LTS #aespa_LTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						244,
+						258
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						259,
+						263
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540158274632568800,
+		"in_reply_to_status_id_str": "1540158274632568832",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796364,
+			"friends_count": 2,
+			"listed_count": 8750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1779,
+		"favorite_count": 5243,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa’s first English single, ‘Life’s Too Short’, track + MV will be released today at 1PM (KST)! The song is packed full of positive energy with its bright tune and hopeful message. aespa is also gearing up for their upcoming July comeback!\n\n#LifesTooShort #LTS #aespa_LTS"
+	},
+	{
+		"created_at": "Fri Jun 24 02:40:10 +0000 2022",
+		"id": 1540158274632568800,
+		"id_str": "1540162838508994567",
+		"full_text": "에스파, 첫 영어 싱글 ‘Life’s Too Short’ 음원+MV 오늘 오후 1시 공개!\n밝은 음악+희망찬 메시지로 긍정 에너지 전파! 7월 컴백 예열!\n\nhttps://t.co/jHWbhBPLcc\n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/oNvxrXYql4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						170,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jHWbhBPLcc",
+					"expanded_url": "https://bit.ly/3nwparr",
+					"display_url": "bit.ly/3nwparr",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540158261386965000,
+					"id_str": "1540158261386964992",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FV-9x1PacAAP5i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV-9x1PacAAP5i9.jpg",
+					"url": "https://t.co/oNvxrXYql4",
+					"display_url": "pic.twitter.com/oNvxrXYql4",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540158274632568832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540158261386965000,
+					"id_str": "1540158261386964992",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FV-9x1PacAAP5i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV-9x1PacAAP5i9.jpg",
+					"url": "https://t.co/oNvxrXYql4",
+					"display_url": "pic.twitter.com/oNvxrXYql4",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540158274632568832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/DLwoyPJkHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLwoyPJkHR",
+							"expanded_url": "http://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796364,
+			"friends_count": 2,
+			"listed_count": 8750,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5151,
+		"favorite_count": 15495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 첫 영어 싱글 ‘Life’s Too Short’ 음원+MV 오늘 오후 1시 공개!\n밝은 음악+희망찬 메시지로 긍정 에너지 전파! 7월 컴백 예열!\n\nhttps://t.co/jHWbhBPLcc\n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/oNvxrXYql4"
+	},
+	{
 		"created_at": "Fri Jun 24 01:51:09 +0000 2022",
 		"id": 1540150025921040400,
 		"id_str": "1540150504247812096",
