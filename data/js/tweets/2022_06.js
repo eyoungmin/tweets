@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 11:45:41 +0000 2022",
+		"id": 1540288639027933200,
+		"id_str": "1540300125570056194",
+		"full_text": "6월 5주차 아챔이가 꾸며주는 대기실의 주인공은? 👀 ❤\n\n#이달의소녀 #LOONA\n#케플러 #Kep1er\n#드리핀 #DRIPPIN\n#카드 #KARD\n#오메가엑스 #OMEGAX\n\n생방송 당일, 아챔이가 격하게 환영해드립니다 🎂🎉\n\n아챔이 대꾸 맛집으로 소문난건 안 비밀~(n˘v˘•)¬\n투표 START! 👉 https://t.co/BMACxQosSC https://t.co/wNav0HNaeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "카드",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "오메가엑스",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "OMEGAX",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMACxQosSC",
+					"expanded_url": "https://bit.ly/3OBfuai",
+					"display_url": "bit.ly/3OBfuai",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539890102625005600,
+					"id_str": "1539890102625005569",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7J48AacAEytiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7J48AacAEytiN.jpg",
+					"url": "https://t.co/wNav0HNaeI",
+					"display_url": "pic.twitter.com/wNav0HNaeI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1540288639027933186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539890102625005600,
+					"id_str": "1539890102625005569",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7J48AacAEytiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7J48AacAEytiN.jpg",
+					"url": "https://t.co/wNav0HNaeI",
+					"display_url": "pic.twitter.com/wNav0HNaeI",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1540288639027933186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97425,
+			"friends_count": 108,
+			"listed_count": 259,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6월 5주차 아챔이가 꾸며주는 대기실의 주인공은? 👀 ❤\n\n#이달의소녀 #LOONA\n#케플러 #Kep1er\n#드리핀 #DRIPPIN\n#카드 #KARD\n#오메가엑스 #OMEGAX\n\n생방송 당일, 아챔이가 격하게 환영해드립니다 🎂🎉\n\n아챔이 대꾸 맛집으로 소문난건 안 비밀~(n˘v˘•)¬\n투표 START! 👉 https://t.co/BMACxQosSC https://t.co/wNav0HNaeI"
+	},
+	{
+		"created_at": "Fri Jun 24 11:40:14 +0000 2022",
+		"id": 1540278092169908200,
+		"id_str": "1540298750211538945",
+		"full_text": "#WhosfanCafe ☕\n\n📆오프라인 럭키드로우 일정 변경\n(Schedule Changes to Offline Lucky Draw)\n\n6/27 (MON) 10:30 AM → 6/28 (TUE) 10:30 AM\n\nKO🔗https://t.co/RHnqDxdpyS\nEN🔗https://t.co/xceM5fOZVV\n\n#후즈팬카페",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosfanCafe",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "후즈팬카페",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHnqDxdpyS",
+					"expanded_url": "http://bit.ly/3A11e6I",
+					"display_url": "bit.ly/3A11e6I",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/xceM5fOZVV",
+					"expanded_url": "http://bit.ly/3QNonPW",
+					"display_url": "bit.ly/3QNonPW",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1540260199508103200,
+		"in_reply_to_status_id_str": "1540260199508103169",
+		"in_reply_to_user_id": 1490870017331589000,
+		"in_reply_to_user_id_str": "1490870017331589120",
+		"in_reply_to_screen_name": "WhosfanCafe",
+		"user": {
+			"id": 1490870017331589000,
+			"id_str": "1490870017331589120",
+			"name": "Whosfan Cafe 후즈팬 카페",
+			"screen_name": "WhosfanCafe",
+			"location": "",
+			"description": "Whosfan Cafe Official Account #WhosfanCafe #후즈팬카페",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1215,
+			"friends_count": 2,
+			"listed_count": 6,
+			"created_at": "Tue Feb 08 02:09:14 +0000 2022",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490870017331589120/1644287145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#WhosfanCafe ☕\n\n📆오프라인 럭키드로우 일정 변경\n(Schedule Changes to Offline Lucky Draw)\n\n6/27 (MON) 10:30 AM → 6/28 (TUE) 10:30 AM\n\nKO🔗https://t.co/RHnqDxdpyS\nEN🔗https://t.co/xceM5fOZVV\n\n#후즈팬카페"
+	},
+	{
 		"created_at": "Fri Jun 24 10:40:16 +0000 2022",
 		"id": 1540259314115702800,
 		"id_str": "1540283659466555393",
