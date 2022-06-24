@@ -1,6 +1,873 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 10:40:16 +0000 2022",
+		"id": 1540259314115702800,
+		"id_str": "1540283659466555393",
+		"full_text": "[💿ᐢ•_•]\n#LOONA 𝗦𝘂𝗺𝗺𝗲𝗿 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗠𝗶𝗻𝗶 𝗔𝗹𝗯𝘂𝗺 [𝗙𝗹𝗶𝗽 𝗧𝗵𝗮𝘁] \n#블립마켓 𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗣𝗛𝗢𝗧𝗢 𝗖𝗔𝗥𝗗💝\n\n💗#블립 단독 특전 포토카드 증정\n🗓~6/30 23:59 KST\n🔗https://t.co/hdRd1d5O9t\n\n#이달의소녀 스케줄 알리미, 블립\n📱https://t.co/RSVf1iV1vS https://t.co/6brMBbeuzT https://t.co/1nlrF5Ok56",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "블립마켓",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "블립",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hdRd1d5O9t",
+					"expanded_url": "http://cutt.ly/hKb37Bl",
+					"display_url": "cutt.ly/hKb37Bl",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/RSVf1iV1vS",
+					"expanded_url": "http://s.blip.kr/download",
+					"display_url": "s.blip.kr/download",
+					"indices": [
+						163,
+						186
+					]
+				},
+				{
+					"url": "https://t.co/6brMBbeuzT",
+					"expanded_url": "https://twitter.com/blip_twt/status/1540251017807556609",
+					"display_url": "twitter.com/blip_twt/statu…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540259309174796300,
+					"id_str": "1540259309174796288",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FWAZrllaMAAAEes.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWAZrllaMAAAEes.jpg",
+					"url": "https://t.co/1nlrF5Ok56",
+					"display_url": "pic.twitter.com/1nlrF5Ok56",
+					"expanded_url": "https://twitter.com/blip_twt/status/1540259314115702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540259309174796300,
+					"id_str": "1540259309174796288",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FWAZrllaMAAAEes.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWAZrllaMAAAEes.jpg",
+					"url": "https://t.co/1nlrF5Ok56",
+					"display_url": "pic.twitter.com/1nlrF5Ok56",
+					"expanded_url": "https://twitter.com/blip_twt/status/1540259314115702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540259309170589700,
+					"id_str": "1540259309170589696",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FWAZrlkaAAACaIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWAZrlkaAAACaIE.jpg",
+					"url": "https://t.co/1nlrF5Ok56",
+					"display_url": "pic.twitter.com/1nlrF5Ok56",
+					"expanded_url": "https://twitter.com/blip_twt/status/1540259314115702784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222406929932095500,
+			"id_str": "1222406929932095491",
+			"name": "ᐢ•_• 블립 blip | 케이팝 팬을 위한 스케줄 알리미",
+			"screen_name": "blip_twt",
+			"location": "💞시켜줘, 케이팝 명예 스케줄 알리미💞",
+			"description": "NCT, 세븐틴, 아스트로, 아이유 등 케이팝 아이돌 스케줄부터 떡밥, 스밍·뮤밍용 데이터까지! 눈치 빠른 100만 명의 팬들은 이미 #블립 사용중 ᐢ•_• The Go-To App for K-Pop Stars’ Schedule | K-Popアイドルのスケジュール、ブリップでホイッと！",
+			"url": "https://t.co/dTHWts8FNW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dTHWts8FNW",
+							"expanded_url": "https://s.blip.kr/download",
+							"display_url": "s.blip.kr/download",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5881,
+			"friends_count": 78,
+			"listed_count": 11,
+			"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+			"favourites_count": 4122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1653545182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540251017807556600,
+		"quoted_status_id_str": "1540251017807556609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6brMBbeuzT",
+			"expanded": "https://twitter.com/blip_twt/status/1540251017807556609",
+			"display": "twitter.com/blip_twt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 24 08:30:33 +0000 2022",
+			"id": 1540251017807556600,
+			"id_str": "1540251017807556609",
+			"full_text": "[🎬ᐢ•_•] #블립 #블라블라 #LOONA #FlipThat\n\n[4K] 이달의 소녀 - Flip That (SCHOOL UNIFORM VER.) | 오빛들. 짱달소와 함께 세상을 뒤집어버릴까요?🔄 정답은 Yes‼️ | 블라블라 blah blah | 블립\n\n🎬https://t.co/XfHx2ZQDk2\n📱https://t.co/RSVf1iV1vS\n\n#blip #blahblah #이달의소녀 https://t.co/lCx4guLjmu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "블립",
+						"indices": [
+							8,
+							11
+						]
+					},
+					{
+						"text": "블라블라",
+						"indices": [
+							12,
+							17
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							18,
+							24
+						]
+					},
+					{
+						"text": "FlipThat",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"text": "blip",
+						"indices": [
+							195,
+							200
+						]
+					},
+					{
+						"text": "blahblah",
+						"indices": [
+							201,
+							210
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							211,
+							217
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XfHx2ZQDk2",
+						"expanded_url": "http://youtu.be/W9nfFQZ4Op4",
+						"display_url": "youtu.be/W9nfFQZ4Op4",
+						"indices": [
+							145,
+							168
+						]
+					},
+					{
+						"url": "https://t.co/RSVf1iV1vS",
+						"expanded_url": "http://s.blip.kr/download",
+						"display_url": "s.blip.kr/download",
+						"indices": [
+							170,
+							193
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1540251012996677600,
+						"id_str": "1540251012996677633",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/FWASIr6aQAECuDo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWASIr6aQAECuDo.jpg",
+						"url": "https://t.co/lCx4guLjmu",
+						"display_url": "pic.twitter.com/lCx4guLjmu",
+						"expanded_url": "https://twitter.com/blip_twt/status/1540251017807556609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1540251012996677600,
+						"id_str": "1540251012996677633",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/FWASIr6aQAECuDo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWASIr6aQAECuDo.jpg",
+						"url": "https://t.co/lCx4guLjmu",
+						"display_url": "pic.twitter.com/lCx4guLjmu",
+						"expanded_url": "https://twitter.com/blip_twt/status/1540251017807556609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1222406929932095500,
+				"id_str": "1222406929932095491",
+				"name": "ᐢ•_• 블립 blip | 케이팝 팬을 위한 스케줄 알리미",
+				"screen_name": "blip_twt",
+				"location": "💞시켜줘, 케이팝 명예 스케줄 알리미💞",
+				"description": "NCT, 세븐틴, 아스트로, 아이유 등 케이팝 아이돌 스케줄부터 떡밥, 스밍·뮤밍용 데이터까지! 눈치 빠른 100만 명의 팬들은 이미 #블립 사용중 ᐢ•_• The Go-To App for K-Pop Stars’ Schedule | K-Popアイドルのスケジュール、ブリップでホイッと！",
+				"url": "https://t.co/dTHWts8FNW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dTHWts8FNW",
+								"expanded_url": "https://s.blip.kr/download",
+								"display_url": "s.blip.kr/download",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5881,
+				"friends_count": 78,
+				"listed_count": 11,
+				"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+				"favourites_count": 4122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1745,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529663419745710081/weMFvbG1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1653545182",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1104,
+			"favorite_count": 2669,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 303,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💿ᐢ•_•]\n#LOONA 𝗦𝘂𝗺𝗺𝗲𝗿 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗠𝗶𝗻𝗶 𝗔𝗹𝗯𝘂𝗺 [𝗙𝗹𝗶𝗽 𝗧𝗵𝗮𝘁] \n#블립마켓 𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗣𝗛𝗢𝗧𝗢 𝗖𝗔𝗥𝗗💝\n\n💗#블립 단독 특전 포토카드 증정\n🗓~6/30 23:59 KST\n🔗https://t.co/hdRd1d5O9t\n\n#이달의소녀 스케줄 알리미, 블립\n📱https://t.co/RSVf1iV1vS https://t.co/6brMBbeuzT https://t.co/1nlrF5Ok56"
+	},
+	{
+		"created_at": "Fri Jun 24 10:40:09 +0000 2022",
+		"id": 1540268370960195600,
+		"id_str": "1540283633541562368",
+		"full_text": "Wow, loving these picks @aespa_official! https://t.co/FANx3JzUBU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FANx3JzUBU",
+					"expanded_url": "https://twitter.com/spotifykr/status/1540265853622833153",
+					"display_url": "twitter.com/spotifykr/stat…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKpop",
+			"location": "",
+			"description": "Annyeong! ✨ Welcome to the colorful world of music, standom, community, and more. Turn on the movement! #SpotifyKPop",
+			"url": "https://t.co/OXiIJ12IEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OXiIJ12IEA",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420649,
+			"friends_count": 240,
+			"listed_count": 452,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 4535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1655957063",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540265853622833200,
+		"quoted_status_id_str": "1540265853622833153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FANx3JzUBU",
+			"expanded": "https://twitter.com/spotifykr/status/1540265853622833153",
+			"display": "twitter.com/spotifykr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 24 09:29:30 +0000 2022",
+			"id": 1540265853622833200,
+			"id_str": "1540265853622833153",
+			"full_text": "Idol Lounge를 점령한 에스파💚\n\n오직 에스파가 추천하는 곡으로만 재구성된 \n플레이리스트  [Idol Lounge: aespa]\n\n멤버들의 스페셜 메시지까지 \n지금. 여기. #스포티파이 에서  확인하세요!\nhttps://t.co/VZyF95C661 \n\n@aespa_official #aespa #에스파 #IdolLounge https://t.co/BPOcMHm12D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "스포티파이",
+						"indices": [
+							101,
+							107
+						]
+					},
+					{
+						"text": "aespa",
+						"indices": [
+							161,
+							167
+						]
+					},
+					{
+						"text": "에스파",
+						"indices": [
+							168,
+							172
+						]
+					},
+					{
+						"text": "IdolLounge",
+						"indices": [
+							173,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aespa_official",
+						"name": "aespa",
+						"id": 1277453652924366800,
+						"id_str": "1277453652924366848",
+						"indices": [
+							145,
+							160
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VZyF95C661",
+						"expanded_url": "http://spotify.link/wOGlbBYi7qb",
+						"display_url": "spotify.link/wOGlbBYi7qb",
+						"indices": [
+							119,
+							142
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1540265772404342800,
+						"id_str": "1540265772404342784",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FWAfjy_agAAQn4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWAfjy_agAAQn4D.jpg",
+						"url": "https://t.co/BPOcMHm12D",
+						"display_url": "pic.twitter.com/BPOcMHm12D",
+						"expanded_url": "https://twitter.com/SpotifyKR/status/1540265853622833153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1540265772404342800,
+						"id_str": "1540265772404342784",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FWAfjy_agAAQn4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWAfjy_agAAQn4D.jpg",
+						"url": "https://t.co/BPOcMHm12D",
+						"display_url": "pic.twitter.com/BPOcMHm12D",
+						"expanded_url": "https://twitter.com/SpotifyKR/status/1540265853622833153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1207908245118963700,
+				"id_str": "1207908245118963712",
+				"name": "Spotify Korea",
+				"screen_name": "SpotifyKR",
+				"location": "",
+				"description": "스포티파이, 지금 3개월 무료체험 중💚",
+				"url": "https://t.co/3A5aX8S14h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3A5aX8S14h",
+								"expanded_url": "https://spotify.link/AI7hay2nQqb",
+								"display_url": "spotify.link/AI7hay2nQqb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112989,
+				"friends_count": 0,
+				"listed_count": 84,
+				"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+				"favourites_count": 529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 630,
+			"favorite_count": 1229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1825,
+		"favorite_count": 6267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, loving these picks @aespa_official! https://t.co/FANx3JzUBU"
+	},
+	{
 		"created_at": "Fri Jun 24 09:45:37 +0000 2022",
 		"id": 1540258434204983300,
 		"id_str": "1540269907429957632",
@@ -576,7 +1443,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Fri Jun 24 09:40:13 +0000 2022",
 		"id": 1540258439586357200,
 		"id_str": "1540268546722242563",
-		"full_text": "\\💙⭐️お知らせ🌙🦋/\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のOfficial Twitter先行(抽選)がスタートしました🎟✨\n\n8/6(土)、8/7(日) ぴあアリーナMMにて開催❤️‍🔥\nこのチャンスをお見逃しなく⚡️\n\n🔽チケット申し込みはこちら🧚‍♂️\nhttps://t.co/mNdhhIA3p2\n\n#aespa #æspa #에스파 #エスパ https://t.co/izT7cPWPZE",
+		"full_text": "\\💙⭐️お知らせ🌙🦋/\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のOfficial Twitter先行(抽選)がスタートしました🎟✨\n\n8/6(土)、8/7(日) ぴあアリーナMMにて開催❤️🔥\nこのチャンスをお見逃しなく⚡️\n\n🔽チケット申し込みはこちら🧚♂️\nhttps://t.co/mNdhhIA3p2\n\n#aespa #æspa #에스파 #エスパ https://t.co/izT7cPWPZE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -784,7 +1651,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "\\💙⭐️お知らせ🌙🦋/\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のOfficial Twitter先行(抽選)がスタートしました🎟✨\n\n8/6(土)、8/7(日) ぴあアリーナMMにて開催❤️‍🔥\nこのチャンスをお見逃しなく⚡️\n\n🔽チケット申し込みはこちら🧚‍♂️\nhttps://t.co/mNdhhIA3p2\n\n#aespa #æspa #에스파 #エスパ https://t.co/izT7cPWPZE"
+		"text": "\\💙⭐️お知らせ🌙🦋/\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のOfficial Twitter先行(抽選)がスタートしました🎟✨\n\n8/6(土)、8/7(日) ぴあアリーナMMにて開催❤️🔥\nこのチャンスをお見逃しなく⚡️\n\n🔽チケット申し込みはこちら🧚♂️\nhttps://t.co/mNdhhIA3p2\n\n#aespa #æspa #에스파 #エスパ https://t.co/izT7cPWPZE"
 	},
 	{
 		"created_at": "Fri Jun 24 09:29:38 +0000 2022",
