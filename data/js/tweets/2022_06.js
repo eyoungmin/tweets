@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 14:13:58 +0000 2022",
+		"id": 1540330879029235700,
+		"id_str": "1540337440111460352",
+		"full_text": "🗳MBC M #쇼챔피언 사전투표 안내🗳\n\n🔥투표기간\n~ 2022.06.27 (월) PM 2:00(KST)\n\n🔥투표방법\n→아이돌챔프 APP 접속\n→쇼챔피언 사전투표 클릭\n→이달의 소녀 'Flip That' 투표✔️\n\n오빛 여러분들의 많은 참여 바랍니다💖\n\n#이달의소녀 #플립댓 #LOONA #FlipThat https://t.co/n3pamVO0EG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540330873283051500,
+					"id_str": "1540330873283051520",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWBaxKqagAAWiRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWBaxKqagAAWiRl.jpg",
+					"url": "https://t.co/n3pamVO0EG",
+					"display_url": "pic.twitter.com/n3pamVO0EG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1540330879029235712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1566,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540330873283051500,
+					"id_str": "1540330873283051520",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWBaxKqagAAWiRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWBaxKqagAAWiRl.jpg",
+					"url": "https://t.co/n3pamVO0EG",
+					"display_url": "pic.twitter.com/n3pamVO0EG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1540330879029235712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 520,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1566,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 942635,
+			"friends_count": 2,
+			"listed_count": 8777,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1174,
+		"favorite_count": 3207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗳MBC M #쇼챔피언 사전투표 안내🗳\n\n🔥투표기간\n~ 2022.06.27 (월) PM 2:00(KST)\n\n🔥투표방법\n→아이돌챔프 APP 접속\n→쇼챔피언 사전투표 클릭\n→이달의 소녀 'Flip That' 투표✔️\n\n오빛 여러분들의 많은 참여 바랍니다💖\n\n#이달의소녀 #플립댓 #LOONA #FlipThat https://t.co/n3pamVO0EG"
+	},
+	{
 		"created_at": "Fri Jun 24 13:40:09 +0000 2022",
 		"id": 1540325143448354800,
 		"id_str": "1540328931957657601",
@@ -38,7 +249,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out July 22nd! ❤️‍🔥",
+			"description": "New album \"22 Make\" out July 22nd! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
