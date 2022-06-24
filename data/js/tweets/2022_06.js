@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 12:40:15 +0000 2022",
+		"id": 1540308519672434700,
+		"id_str": "1540313857691992065",
+		"full_text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/anZssipwvN\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #ViVi #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						93,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anZssipwvN",
+					"expanded_url": "https://vt.tiktok.com/ZSdTjYs6S/?k=1",
+					"display_url": "vt.tiktok.com/ZSdTjYs6S/?k=1",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 942525,
+			"friends_count": 2,
+			"listed_count": 8780,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 819,
+		"favorite_count": 2578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/anZssipwvN\n\n#이달의소녀 #LOONA #플립댓 #FlipThat #ViVi #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
 		"created_at": "Fri Jun 24 11:45:41 +0000 2022",
 		"id": 1540288639027933200,
 		"id_str": "1540300125570056194",
