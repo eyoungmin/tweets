@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 04:40:39 +0000 2022",
+		"id": 1540187959281848300,
+		"id_str": "1540193160017633281",
+		"full_text": "If you haven’t had chance to grab showcase tickets yet, get them for 6/27 here!\n🎟 https://t.co/oQfih0jpyG\n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "aespaShowcaseSYNKinLA",
+					"indices": [
+						126,
+						148
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						157,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQfih0jpyG",
+					"expanded_url": "http://bit.ly/Aespa62722TW",
+					"display_url": "bit.ly/Aespa62722TW",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1540187956987605000,
+		"in_reply_to_status_id_str": "1540187956987604993",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2797193,
+			"friends_count": 2,
+			"listed_count": 8759,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 866,
+		"favorite_count": 3090,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you haven’t had chance to grab showcase tickets yet, get them for 6/27 here!\n🎟 https://t.co/oQfih0jpyG\n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Fri Jun 24 04:40:34 +0000 2022",
+		"id": 1540187956987605000,
+		"id_str": "1540193138597416960",
+		"full_text": "✨ Calling all MYs ✨ Please send us your questions on Instagram story for us to answer during our SYNK Showcase! 🤗\n\n💌 https://t.co/rmKRsVkHB8 \n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "aespaShowcaseSYNKinLA",
+					"indices": [
+						162,
+						184
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rmKRsVkHB8",
+					"expanded_url": "http://bit.ly/3HM2qNk",
+					"display_url": "bit.ly/3HM2qNk",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2797193,
+			"friends_count": 2,
+			"listed_count": 8759,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3369,
+		"favorite_count": 9931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ Calling all MYs ✨ Please send us your questions on Instagram story for us to answer during our SYNK Showcase! 🤗\n\n💌 https://t.co/rmKRsVkHB8 \n\n#aespa #æspa #에스파 \n#aespaShowcaseSYNKinLA \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Fri Jun 24 04:40:22 +0000 2022",
+		"id": 1540183936034545700,
+		"id_str": "1540193087510781952",
+		"full_text": "aespa 에스파 〖Life's Too Short (English Ver.)〗 \nListen now on your favorite platform\n🎧 https://t.co/PVBOlEN4jw  \n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						130,
+						144
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PVBOlEN4jw",
+					"expanded_url": "https://aespa.lnk.to/LifesTooShort",
+					"display_url": "aespa.lnk.to/LifesTooShort",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2797193,
+			"friends_count": 2,
+			"listed_count": 8759,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5301,
+		"favorite_count": 12493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 〖Life's Too Short (English Ver.)〗 \nListen now on your favorite platform\n🎧 https://t.co/PVBOlEN4jw  \n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Fri Jun 24 04:40:16 +0000 2022",
+		"id": 1540183411171930000,
+		"id_str": "1540193061921325056",
+		"full_text": "aespa 에스파 〖Life's Too Short (English Ver.)〗 \n\n🎧Melon: https://t.co/QElnC6zeaO \n🎧FLO: https://t.co/sw4qwF88pA \n🎧genie: https://t.co/NcX2OvhGx8 \n🎧NAVER VIBE: https://t.co/X2D5l4gBEX \n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						201,
+						215
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						233,
+						239
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						240,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QElnC6zeaO",
+					"expanded_url": "https://bit.ly/3Ook38j",
+					"display_url": "bit.ly/3Ook38j",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/sw4qwF88pA",
+					"expanded_url": "https://bit.ly/3yh6W3i",
+					"display_url": "bit.ly/3yh6W3i",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/NcX2OvhGx8",
+					"expanded_url": "https://bit.ly/3QKvdFZ",
+					"display_url": "bit.ly/3QKvdFZ",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/X2D5l4gBEX",
+					"expanded_url": "https://bit.ly/3Nm3Yi2",
+					"display_url": "bit.ly/3Nm3Yi2",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2797193,
+			"friends_count": 2,
+			"listed_count": 8759,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4431,
+		"favorite_count": 10192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 〖Life's Too Short (English Ver.)〗 \n\n🎧Melon: https://t.co/QElnC6zeaO \n🎧FLO: https://t.co/sw4qwF88pA \n🎧genie: https://t.co/NcX2OvhGx8 \n🎧NAVER VIBE: https://t.co/X2D5l4gBEX \n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Fri Jun 24 03:45:52 +0000 2022",
 		"id": 1540175381550010400,
 		"id_str": "1540179373059440641",
@@ -754,7 +1409,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/J1NQtNsrHe",
 			"entities": {
 				"url": {
