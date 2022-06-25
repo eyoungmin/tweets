@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 02:40:11 +0000 2022",
+		"id": 1540519772969767000,
+		"id_str": "1540525233697865730",
+		"full_text": "#WhosfanCafe ☕\n\nLOONA 'Flip That' 오피셜 테마 카페\n럭키드로우 포토카드 초상 변경 안내\n\n🔗https://t.co/RHnqDwVgkK\n\n#이달의소녀 #FlipThat #플립댓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosfanCafe",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHnqDwVgkK",
+					"expanded_url": "http://bit.ly/3A11e6I",
+					"display_url": "bit.ly/3A11e6I",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1490870017331589000,
+			"id_str": "1490870017331589120",
+			"name": "Whosfan Cafe 후즈팬 카페",
+			"screen_name": "WhosfanCafe",
+			"location": "",
+			"description": "Whosfan Cafe Official Account #WhosfanCafe #후즈팬카페",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1234,
+			"friends_count": 2,
+			"listed_count": 6,
+			"created_at": "Tue Feb 08 02:09:14 +0000 2022",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490870017331589120/1644287145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 927,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#WhosfanCafe ☕\n\nLOONA 'Flip That' 오피셜 테마 카페\n럭키드로우 포토카드 초상 변경 안내\n\n🔗https://t.co/RHnqDwVgkK\n\n#이달의소녀 #FlipThat #플립댓"
+	},
+	{
 		"created_at": "Sat Jun 25 01:45:36 +0000 2022",
 		"id": 1540500028027875300,
 		"id_str": "1540511497545187328",
