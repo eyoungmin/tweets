@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 03:45:36 +0000 2022",
+		"id": 1540530223912870000,
+		"id_str": "1540541695976263688",
+		"full_text": "📢 짱달소 소울메이트 콩원이&amp;올혜 #왕크왕캠 도착🌱\n사랑스러움으로 오빛 마음 뒤집어🔀 뒤집어🔀\n\n💗the Bigger the Better Cam💗 #GoWon 🦋(feat. #OliviaHye 🐺)\n▶️https://t.co/DuGDoOFNcK\n\n@loonatheworld\n#고원 #올리비아혜 #이달의소녀 \n#플립댓 #LOONA #FlipThat \n#봉춘라디오 #MBCRADIO https://t.co/wMJLlDmbKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왕크왕캠",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "MBCRADIO",
+					"indices": [
+						206,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						142,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DuGDoOFNcK",
+					"expanded_url": "https://youtu.be/QcKRSK7wCjs",
+					"display_url": "youtu.be/QcKRSK7wCjs",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540378044699148300,
+					"id_str": "1540378044699148288",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540378044699148288/pu/img/LZOez5FgEI1Q6y9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540378044699148288/pu/img/LZOez5FgEI1Q6y9b.jpg",
+					"url": "https://t.co/wMJLlDmbKq",
+					"display_url": "pic.twitter.com/wMJLlDmbKq",
+					"expanded_url": "https://twitter.com/radiombc/status/1540530223912869889/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540378044699148300,
+					"id_str": "1540378044699148288",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540378044699148288/pu/img/LZOez5FgEI1Q6y9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540378044699148288/pu/img/LZOez5FgEI1Q6y9b.jpg",
+					"url": "https://t.co/wMJLlDmbKq",
+					"display_url": "pic.twitter.com/wMJLlDmbKq",
+					"expanded_url": "https://twitter.com/radiombc/status/1540530223912869889/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							480,
+							253
+						],
+						"duration_millis": 27861,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540378044699148288/pu/vid/682x360/sXlGV6LFiMklV9HQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1540378044699148288/pu/pl/TarLNtvSOjbKHJ0y.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540378044699148288/pu/vid/1366x720/q3orv3lV8Y59J-7e.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540378044699148288/pu/vid/512x270/uEob6rfyECQ8hOa1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79459,
+			"friends_count": 43,
+			"listed_count": 599,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 628,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 짱달소 소울메이트 콩원이&amp;올혜 #왕크왕캠 도착🌱\n사랑스러움으로 오빛 마음 뒤집어🔀 뒤집어🔀\n\n💗the Bigger the Better Cam💗 #GoWon 🦋(feat. #OliviaHye 🐺)\n▶️https://t.co/DuGDoOFNcK\n\n@loonatheworld\n#고원 #올리비아혜 #이달의소녀 \n#플립댓 #LOONA #FlipThat \n#봉춘라디오 #MBCRADIO https://t.co/wMJLlDmbKq"
+	},
+	{
+		"created_at": "Sat Jun 25 03:40:10 +0000 2022",
+		"id": 1540530250593235000,
+		"id_str": "1540540325541838853",
+		"full_text": "✨2022 aespa FAN MEETING : MY SYNK. aespa✨ \n\n📢MY-ACE 회원 예매 유의사항 안내\n\n📆MY-ACE 회원 예매 일정\n2022. 07. 04. (Mon) 8PM ~ 9PM\n\n자세한 내용은 아래 이미지를 확인해주세요! \n\n#aespa #에스파 \n#MYSYNK_aespa #MYACE #FANMEETING https://t.co/JtuvbIoetj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "MYSYNK_aespa",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "MYACE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540530237288886300,
+					"id_str": "1540530237288886273",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEQFrdaMAE7t4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEQFrdaMAE7t4r.jpg",
+					"url": "https://t.co/JtuvbIoetj",
+					"display_url": "pic.twitter.com/JtuvbIoetj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540530250593234944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540530237288886300,
+					"id_str": "1540530237288886273",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEQFrdaMAE7t4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEQFrdaMAE7t4r.jpg",
+					"url": "https://t.co/JtuvbIoetj",
+					"display_url": "pic.twitter.com/JtuvbIoetj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540530250593234944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 730,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540530237314076700,
+					"id_str": "1540530237314076672",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEQFrjakAA4_Az.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEQFrjakAA4_Az.jpg",
+					"url": "https://t.co/JtuvbIoetj",
+					"display_url": "pic.twitter.com/JtuvbIoetj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540530250593234944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 662,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2803792,
+			"friends_count": 2,
+			"listed_count": 8765,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2857,
+		"favorite_count": 9467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨2022 aespa FAN MEETING : MY SYNK. aespa✨ \n\n📢MY-ACE 회원 예매 유의사항 안내\n\n📆MY-ACE 회원 예매 일정\n2022. 07. 04. (Mon) 8PM ~ 9PM\n\n자세한 내용은 아래 이미지를 확인해주세요! \n\n#aespa #에스파 \n#MYSYNK_aespa #MYACE #FANMEETING https://t.co/JtuvbIoetj"
+	},
+	{
 		"created_at": "Sat Jun 25 02:40:11 +0000 2022",
 		"id": 1540519772969767000,
 		"id_str": "1540525233697865730",
