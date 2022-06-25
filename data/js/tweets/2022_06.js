@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 05:40:18 +0000 2022",
+		"id": 1540565499251024000,
+		"id_str": "1540570558382972928",
+		"full_text": "Watch aespa on @JimmyKimmelLive – June 29th on ABC! #KIMMEL\n\n#aespa #æspa #에스파 \n#JimmyKimmelLive\n#aespa_on_KIMMEL\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/RyRTGomJQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMMEL",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "JimmyKimmelLive",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "aespa_on_KIMMEL",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JimmyKimmelLive",
+					"name": "Jimmy Kimmel Live",
+					"id": 34036028,
+					"id_str": "34036028",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540565493752270800,
+					"id_str": "1540565493752270848",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEwJ4BUEAAxmaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEwJ4BUEAAxmaM.jpg",
+					"url": "https://t.co/RyRTGomJQ3",
+					"display_url": "pic.twitter.com/RyRTGomJQ3",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540565499251023872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540565493752270800,
+					"id_str": "1540565493752270848",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FWEwJ4BUEAAxmaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWEwJ4BUEAAxmaM.jpg",
+					"url": "https://t.co/RyRTGomJQ3",
+					"display_url": "pic.twitter.com/RyRTGomJQ3",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540565499251023872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804197,
+			"friends_count": 2,
+			"listed_count": 8763,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3875,
+		"favorite_count": 10440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch aespa on @JimmyKimmelLive – June 29th on ABC! #KIMMEL\n\n#aespa #æspa #에스파 \n#JimmyKimmelLive\n#aespa_on_KIMMEL\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/RyRTGomJQ3"
+	},
+	{
+		"created_at": "Sat Jun 25 05:40:16 +0000 2022",
+		"id": 1540564373520777200,
+		"id_str": "1540570549507833856",
+		"full_text": "#aespa to make their first appearance on popular American late night talk show, ‘Jimmy Kimmel Live’, where they will be performing their first English single, #LifesTooShort !\n\nhttps://t.co/j1Tg1PviNU\n\n#JIMMYKIMMELLIVE #KIMMEL\n#aespa_on_KIMMEL\n#LTS #aespa_LTS\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"text": "JIMMYKIMMELLIVE",
+					"indices": [
+						202,
+						218
+					]
+				},
+				{
+					"text": "KIMMEL",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"text": "aespa_on_KIMMEL",
+					"indices": [
+						227,
+						243
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						244,
+						248
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						260,
+						266
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j1Tg1PviNU",
+					"expanded_url": "https://bit.ly/3ndLuWD",
+					"display_url": "bit.ly/3ndLuWD",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540564369775374300,
+		"in_reply_to_status_id_str": "1540564369775374336",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804197,
+			"friends_count": 2,
+			"listed_count": 8763,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1181,
+		"favorite_count": 3921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa to make their first appearance on popular American late night talk show, ‘Jimmy Kimmel Live’, where they will be performing their first English single, #LifesTooShort !\n\nhttps://t.co/j1Tg1PviNU\n\n#JIMMYKIMMELLIVE #KIMMEL\n#aespa_on_KIMMEL\n#LTS #aespa_LTS\n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Sat Jun 25 04:40:09 +0000 2022",
 		"id": 1540553044672544800,
 		"id_str": "1540555424252018688",
