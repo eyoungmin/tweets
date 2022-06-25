@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 01:45:36 +0000 2022",
+		"id": 1540500028027875300,
+		"id_str": "1540511497545187328",
+		"full_text": "Now Playing♬ \n#클라씨 - 클라씨 (CLASS:y - CLASSY)\n\n&lt;#쇼음악중심&gt; 오늘 오후 3시 15분 기대하쇼쇼쇼~\n\n✨라인업✨ #나연(#TWICE) #임영웅 #원호 #KARD #이달의소녀 #BDC #DRIPPIN #Kep1er #TAN #김희재 #라필루스 #CLASSy #ICHILLIN #TRENDZ #TNX MBC220611방송 https://t.co/SCcfWweuDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클라씨",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "임영웅",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "원호",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "TAN",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "김희재",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "라필루스",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "CLASSy",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "ICHILLIN",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "TRENDZ",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "TNX",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539888803938046000,
+					"id_str": "1539888803938045952",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7I62AUAAAzvg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7I62AUAAAzvg-.jpg",
+					"url": "https://t.co/SCcfWweuDg",
+					"display_url": "pic.twitter.com/SCcfWweuDg",
+					"expanded_url": "https://twitter.com/withMBC/status/1540500028027875329/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539888803938046000,
+					"id_str": "1539888803938045952",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FV7I62AUAAAzvg-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV7I62AUAAAzvg-.jpg",
+					"url": "https://t.co/SCcfWweuDg",
+					"display_url": "pic.twitter.com/SCcfWweuDg",
+					"expanded_url": "https://twitter.com/withMBC/status/1540500028027875329/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539888803938045952/vid/720x720/ZnvsEsRLWiBw-QjH.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539888803938045952/vid/540x540/ULCY8WWDDrh0bSzE.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1539888803938045952/pl/6wiR9K_gpdn-1bbK.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1539888803938045952/vid/320x320/IbN5WgrnWEembJs8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007735,
+			"friends_count": 9883,
+			"listed_count": 0,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1653354719",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Now Playing♬ \n#클라씨 - 클라씨 (CLASS:y - CLASSY)\n\n&lt;#쇼음악중심&gt; 오늘 오후 3시 15분 기대하쇼쇼쇼~\n\n✨라인업✨ #나연(#TWICE) #임영웅 #원호 #KARD #이달의소녀 #BDC #DRIPPIN #Kep1er #TAN #김희재 #라필루스 #CLASSy #ICHILLIN #TRENDZ #TNX MBC220611방송 https://t.co/SCcfWweuDg"
+	},
+	{
+		"created_at": "Sat Jun 25 01:40:11 +0000 2022",
+		"id": 1540501174129795000,
+		"id_str": "1540510133868003328",
+		"full_text": "who’s coming thru for round 2? @hitcfestival @88rising @gHoodmusic_ 😘😘😘 https://t.co/gEJ05n8d2W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hitcfestival",
+					"name": "Head In The Clouds Festival",
+					"id": 1482148373306101800,
+					"id_str": "1482148373306101761",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel gHood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gEJ05n8d2W",
+					"expanded_url": "https://twitter.com/hitcfestival/status/1537510322734608386",
+					"display_url": "twitter.com/hitcfestival/s…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60430,
+			"friends_count": 3,
+			"listed_count": 169,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537510322734608400,
+		"quoted_status_id_str": "1537510322734608386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gEJ05n8d2W",
+			"expanded": "https://twitter.com/hitcfestival/status/1537510322734608386",
+			"display": "twitter.com/hitcfestival/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 19:00:01 +0000 2022",
+			"id": 1537510322734608400,
+			"id_str": "1537510322734608386",
+			"full_text": "When you casually get a kiss from @nakedbibi #hitcfestival #tbt https://t.co/4Pf0LZy1pZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hitcfestival",
+						"indices": [
+							45,
+							58
+						]
+					},
+					{
+						"text": "tbt",
+						"indices": [
+							59,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							34,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1537178573764587500,
+						"id_str": "1537178573764587522",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537178573764587522/pu/img/tkNkbqjhAPpmIYNa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537178573764587522/pu/img/tkNkbqjhAPpmIYNa.jpg",
+						"url": "https://t.co/4Pf0LZy1pZ",
+						"display_url": "pic.twitter.com/4Pf0LZy1pZ",
+						"expanded_url": "https://twitter.com/hitcfestival/status/1537510322734608386/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537178573764587500,
+						"id_str": "1537178573764587522",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537178573764587522/pu/img/tkNkbqjhAPpmIYNa.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537178573764587522/pu/img/tkNkbqjhAPpmIYNa.jpg",
+						"url": "https://t.co/4Pf0LZy1pZ",
+						"display_url": "pic.twitter.com/4Pf0LZy1pZ",
+						"expanded_url": "https://twitter.com/hitcfestival/status/1537510322734608386/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 236,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								120,
+								59
+							],
+							"duration_millis": 20968,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1537178573764587522/pu/vid/480x236/lXMJyr8SX3DgEliJ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1537178573764587522/pu/pl/_Qipisxru1k02CRE.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482148373306101800,
+				"id_str": "1482148373306101761",
+				"name": "Head In The Clouds Festival",
+				"screen_name": "hitcfestival",
+				"location": "",
+				"description": "@88rising ⛅️",
+				"url": "https://t.co/JofyfQleGZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JofyfQleGZ",
+								"expanded_url": "http://hitcfestival.com",
+								"display_url": "hitcfestival.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3214,
+				"friends_count": 1,
+				"listed_count": 1,
+				"created_at": "Sat Jan 15 00:31:31 +0000 2022",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528813181161852928/NJXiTTbV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528813181161852928/NJXiTTbV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482148373306101761/1653332442",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 76,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "who’s coming thru for round 2? @hitcfestival @88rising @gHoodmusic_ 😘😘😘 https://t.co/gEJ05n8d2W"
+	},
+	{
 		"created_at": "Fri Jun 24 23:40:10 +0000 2022",
 		"id": 1540470306841604000,
 		"id_str": "1540479927790829568",
