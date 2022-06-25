@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 09:40:22 +0000 2022",
+		"id": 1540630823879463000,
+		"id_str": "1540630973632618497",
+		"full_text": "금일 진행되는 팬사인회에 멤버 하슬의 갑작스런 컨디션 난조로 인해 참석이 불가한 상황입니다. 팬분들께 갑작스런 소식 전해드리게 되어 진심으로 죄송하며, 금일 사인회에 참석하는 팬여러분의 양해 부탁드립니다. 아티스트의 조속한 회복을 위해 최선을 다하겠습니다. 감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 943129,
+			"friends_count": 2,
+			"listed_count": 8780,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 736,
+		"favorite_count": 3506,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "금일 진행되는 팬사인회에 멤버 하슬의 갑작스런 컨디션 난조로 인해 참석이 불가한 상황입니다. 팬분들께 갑작스런 소식 전해드리게 되어 진심으로 죄송하며, 금일 사인회에 참석하는 팬여러분의 양해 부탁드립니다. 아티스트의 조속한 회복을 위해 최선을 다하겠습니다. 감사합니다."
+	},
+	{
 		"created_at": "Sat Jun 25 08:46:02 +0000 2022",
 		"id": 1540616400133161000,
 		"id_str": "1540617299820007425",
