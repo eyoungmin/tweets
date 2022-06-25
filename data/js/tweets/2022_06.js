@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 15:35:45 +0000 2022",
+		"id": 1540711485516574700,
+		"id_str": "1540720410978766849",
+		"full_text": "6월 26일 오늘은 아티스트 백예린의 생일입니다. 이번 생일엔 예린양이 팬들을 위해 특별한 사진을 준비했습니다💘 예린과 팬분들 모두 오늘 가장 행복한 하루가 되길 바라요.\n\n#백예린 #yerinbaek #hbd https://t.co/tciWIbbj3V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "hbd",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540711474725023700,
+					"id_str": "1540711474725023744",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FWG07FhacAAqFjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWG07FhacAAqFjd.jpg",
+					"url": "https://t.co/tciWIbbj3V",
+					"display_url": "pic.twitter.com/tciWIbbj3V",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1540711485516574721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540711474725023700,
+					"id_str": "1540711474725023744",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FWG07FhacAAqFjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWG07FhacAAqFjd.jpg",
+					"url": "https://t.co/tciWIbbj3V",
+					"display_url": "pic.twitter.com/tciWIbbj3V",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1540711485516574721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4756,
+			"friends_count": 2,
+			"listed_count": 33,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6월 26일 오늘은 아티스트 백예린의 생일입니다. 이번 생일엔 예린양이 팬들을 위해 특별한 사진을 준비했습니다💘 예린과 팬분들 모두 오늘 가장 행복한 하루가 되길 바라요.\n\n#백예린 #yerinbaek #hbd https://t.co/tciWIbbj3V"
+	},
+	{
 		"created_at": "Sat Jun 25 15:14:15 +0000 2022",
 		"id": 1540708618798243800,
 		"id_str": "1540715000477523968",
