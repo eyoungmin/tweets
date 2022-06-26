@@ -1,6 +1,864 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 13:40:30 +0000 2022",
+		"id": 1541049546146726000,
+		"id_str": "1541053794032689153",
+		"full_text": "오빛과 함께한 플립댓 첫주 활동 완료👍💓\n\n#이달의소녀 #LOONA https://t.co/9t49X4bdP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541049540459262000,
+					"id_str": "1541049540459261954",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLoZGhacAIqHdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLoZGhacAIqHdp.jpg",
+					"url": "https://t.co/9t49X4bdP2",
+					"display_url": "pic.twitter.com/9t49X4bdP2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541049546146725889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541049540459262000,
+					"id_str": "1541049540459261954",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLoZGhacAIqHdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLoZGhacAIqHdp.jpg",
+					"url": "https://t.co/9t49X4bdP2",
+					"display_url": "pic.twitter.com/9t49X4bdP2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541049546146725889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944373,
+			"friends_count": 2,
+			"listed_count": 8791,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2412,
+		"favorite_count": 7619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛과 함께한 플립댓 첫주 활동 완료👍💓\n\n#이달의소녀 #LOONA https://t.co/9t49X4bdP2"
+	},
+	{
+		"created_at": "Sun Jun 26 13:40:26 +0000 2022",
+		"id": 1541047545732157400,
+		"id_str": "1541053776458485760",
+		"full_text": "존나 개쩔어;; 사랑함다배우님 https://t.co/HOfVG2Fv7h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HOfVG2Fv7h",
+					"expanded_url": "https://twitter.com/baked_bala/status/1540933244715016192",
+					"display_url": "twitter.com/baked_bala/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60617,
+			"friends_count": 3,
+			"listed_count": 169,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540933244715016200,
+		"quoted_status_id_str": "1540933244715016192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HOfVG2Fv7h",
+			"expanded": "https://twitter.com/baked_bala/status/1540933244715016192",
+			"display": "twitter.com/baked_bala/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 26 05:41:29 +0000 2022",
+			"id": 1540933244715016200,
+			"id_str": "1540933244715016192",
+			"full_text": "어멈머 김형서 @nakedbibi 절거워할 소식; 서현진님 요새 즐겨듣는 음악 비비의 비누래 역시 음잘알 스엠 출신 천재배우 아닐 리❤️‍🔥 https://t.co/KhOSbsbt3a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1540933212213432300,
+						"id_str": "1540933212213432320",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540933212213432320/pu/img/WR5qVomWdAWWgiw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540933212213432320/pu/img/WR5qVomWdAWWgiw6.jpg",
+						"url": "https://t.co/KhOSbsbt3a",
+						"display_url": "pic.twitter.com/KhOSbsbt3a",
+						"expanded_url": "https://twitter.com/baked_bala/status/1540933244715016192/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 694,
+								"h": 694,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 694,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1540933212213432300,
+						"id_str": "1540933212213432320",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540933212213432320/pu/img/WR5qVomWdAWWgiw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540933212213432320/pu/img/WR5qVomWdAWWgiw6.jpg",
+						"url": "https://t.co/KhOSbsbt3a",
+						"display_url": "pic.twitter.com/KhOSbsbt3a",
+						"expanded_url": "https://twitter.com/baked_bala/status/1540933244715016192/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 694,
+								"h": 694,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 694,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 13438,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1540933212213432320/pu/vid/540x540/XvPklM5qE3UUwNLn.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1540933212213432320/pu/vid/320x320/S6bWehCf9haLA4vr.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1540933212213432320/pu/pl/q45e0GNDTbOekXG-.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1540933212213432320/pu/vid/694x694/4L-7kneAZPZ8tMaJ.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1381929589367173000,
+				"id_str": "1381929589367173123",
+				"name": ":발아",
+				"screen_name": "baked_bala",
+				"location": "",
+				"description": "𝕟𝕠 𝕤𝕚𝕓𝕒𝕝 𝕜𝕖𝕖𝕡 𝕓𝕚𝕓𝕚𝕟𝕘💥",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 567,
+				"friends_count": 35,
+				"listed_count": 13,
+				"created_at": "Tue Apr 13 11:17:50 +0000 2021",
+				"favourites_count": 1668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7904,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1381948615581528069/yo8KcGwf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381948615581528069/yo8KcGwf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1381929589367173123/1650210419",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 98,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 310,
+		"favorite_count": 482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존나 개쩔어;; 사랑함다배우님 https://t.co/HOfVG2Fv7h"
+	},
+	{
+		"created_at": "Sun Jun 26 13:40:23 +0000 2022",
+		"id": 1541044062441971700,
+		"id_str": "1541053763078815745",
+		"full_text": "Life’s Too Short 💙🌙⭐️🦋\nWhy would I ever stop\n\nhttps://t.co/nijt2BPpqj\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/hFi3DT0BoD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nijt2BPpqj",
+					"expanded_url": "https://vt.tiktok.com/ZSdwYMwCW/?k=1",
+					"display_url": "vt.tiktok.com/ZSdwYMwCW/?k=1",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541044052040495000,
+					"id_str": "1541044052040495104",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLjZokaMAAFDyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLjZokaMAAFDyn.jpg",
+					"url": "https://t.co/hFi3DT0BoD",
+					"display_url": "pic.twitter.com/hFi3DT0BoD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541044062441971712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541044052040495000,
+					"id_str": "1541044052040495104",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLjZokaMAAFDyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLjZokaMAAFDyn.jpg",
+					"url": "https://t.co/hFi3DT0BoD",
+					"display_url": "pic.twitter.com/hFi3DT0BoD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541044062441971712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812132,
+			"friends_count": 2,
+			"listed_count": 8777,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4606,
+		"favorite_count": 15107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life’s Too Short 💙🌙⭐️🦋\nWhy would I ever stop\n\nhttps://t.co/nijt2BPpqj\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/hFi3DT0BoD"
+	},
+	{
+		"created_at": "Sun Jun 26 13:40:18 +0000 2022",
+		"id": 1541040308460302300,
+		"id_str": "1541053741616578561",
+		"full_text": "Use this sound &amp; Join the Choir of “Life’s Too Short”🎵🖤\n\nhttps://t.co/nJTraGbUqA\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJTraGbUqA",
+					"expanded_url": "https://vt.tiktok.com/ZSdwF3XxW/?k=1",
+					"display_url": "vt.tiktok.com/ZSdwF3XxW/?k=1",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812132,
+			"friends_count": 2,
+			"listed_count": 8777,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2694,
+		"favorite_count": 9319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Use this sound &amp; Join the Choir of “Life’s Too Short”🎵🖤\n\nhttps://t.co/nJTraGbUqA\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Sun Jun 26 12:40:42 +0000 2022",
 		"id": 1541036108548477000,
 		"id_str": "1541038743745925121",
@@ -664,7 +1522,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
