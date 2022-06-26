@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 03:45:37 +0000 2022",
+		"id": 1540892610721484800,
+		"id_str": "1540904086371024896",
+		"full_text": "[D-1] 💓비아이(B.I) x 츄(Chuu) - 자장가💓Release\n\n드디어 내일(27일) 오후 6시👀 듣기만 해도 당 충전🍫 되는 듀엣곡 공개\n#딩고뮤직 유튜브에서 공개되는 딩고라이브도 놓치지말기🌟\n\n@shxx131bi131\n@loonatheworld\n\n#BI #츄 #이달의소녀 #LOONA #자장가 \n#dingomusic #딩고 #딩고음원프로젝트 https://t.co/WTeitbA7Ro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BI",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						149,
+						151
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "자장가",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "dingomusic",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "딩고음원프로젝트",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shxx131bi131",
+					"name": "김한빈",
+					"id": 987289203078672400,
+					"id_str": "987289203078672384",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540892421751337000,
+					"id_str": "1540892421751336960",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJZfluUcAAiFST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJZfluUcAAiFST.jpg",
+					"url": "https://t.co/WTeitbA7Ro",
+					"display_url": "pic.twitter.com/WTeitbA7Ro",
+					"expanded_url": "https://twitter.com/dingo_official/status/1540892610721484802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540892421751337000,
+					"id_str": "1540892421751336960",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJZfluUcAAiFST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJZfluUcAAiFST.jpg",
+					"url": "https://t.co/WTeitbA7Ro",
+					"display_url": "pic.twitter.com/WTeitbA7Ro",
+					"expanded_url": "https://twitter.com/dingo_official/status/1540892610721484802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540892421763895300,
+					"id_str": "1540892421763895296",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJZflxUEAASLwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJZflxUEAASLwD.jpg",
+					"url": "https://t.co/WTeitbA7Ro",
+					"display_url": "pic.twitter.com/WTeitbA7Ro",
+					"expanded_url": "https://twitter.com/dingo_official/status/1540892610721484802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128913,
+			"friends_count": 1,
+			"listed_count": 176,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 13657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1632731850",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1049,
+		"favorite_count": 1669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1] 💓비아이(B.I) x 츄(Chuu) - 자장가💓Release\n\n드디어 내일(27일) 오후 6시👀 듣기만 해도 당 충전🍫 되는 듀엣곡 공개\n#딩고뮤직 유튜브에서 공개되는 딩고라이브도 놓치지말기🌟\n\n@shxx131bi131\n@loonatheworld\n\n#BI #츄 #이달의소녀 #LOONA #자장가 \n#dingomusic #딩고 #딩고음원프로젝트 https://t.co/WTeitbA7Ro"
+	},
+	{
 		"created_at": "Sun Jun 26 00:14:20 +0000 2022",
 		"id": 1540843959085564000,
 		"id_str": "1540850915552350210",
