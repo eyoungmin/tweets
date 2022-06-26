@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 09:45:39 +0000 2022",
+		"id": 1540986546886561800,
+		"id_str": "1540994690329317376",
+		"full_text": "🎉퀸덤2 준우승의 주인공 이달의 소녀🎉\n이달의 소녀가 퀸덤2를 진행하면서 친해진 사람들은 누구?!🧐\n봉춘라디오에서 확인하세요🙌\n\nCheck below link to watch it!\n▶https://t.co/7LNXLfqcNH\n\n#이달의소녀 #LOONA #FlipThat\n#희진 #하슬 #여진 #고원 #올리비아혜\n#봉춘라디오 #MBCRADIO #KPOP https://t.co/ijhZ2NGMFP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "MBCRADIO",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7LNXLfqcNH",
+					"expanded_url": "https://youtu.be/Mrc4lyLxsno",
+					"display_url": "youtu.be/Mrc4lyLxsno",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540986462329393200,
+					"id_str": "1540986462329393152",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540986462329393152/pu/img/8vBYWu2A0EFAupJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540986462329393152/pu/img/8vBYWu2A0EFAupJ2.jpg",
+					"url": "https://t.co/ijhZ2NGMFP",
+					"display_url": "pic.twitter.com/ijhZ2NGMFP",
+					"expanded_url": "https://twitter.com/radiombc/status/1540986546886561792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540986462329393200,
+					"id_str": "1540986462329393152",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540986462329393152/pu/img/8vBYWu2A0EFAupJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540986462329393152/pu/img/8vBYWu2A0EFAupJ2.jpg",
+					"url": "https://t.co/ijhZ2NGMFP",
+					"display_url": "pic.twitter.com/ijhZ2NGMFP",
+					"expanded_url": "https://twitter.com/radiombc/status/1540986546886561792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30263,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540986462329393152/pu/vid/1280x720/CDQh3OSd9oyE-BgJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540986462329393152/pu/vid/640x360/E3KXHk2kPn2pPjch.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1540986462329393152/pu/pl/vGCVEewc9n1iLdBy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540986462329393152/pu/vid/480x270/oeewL2YFefRpOtui.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79533,
+			"friends_count": 43,
+			"listed_count": 599,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉퀸덤2 준우승의 주인공 이달의 소녀🎉\n이달의 소녀가 퀸덤2를 진행하면서 친해진 사람들은 누구?!🧐\n봉춘라디오에서 확인하세요🙌\n\nCheck below link to watch it!\n▶https://t.co/7LNXLfqcNH\n\n#이달의소녀 #LOONA #FlipThat\n#희진 #하슬 #여진 #고원 #올리비아혜\n#봉춘라디오 #MBCRADIO #KPOP https://t.co/ijhZ2NGMFP"
+	},
+	{
 		"created_at": "Sun Jun 26 08:40:14 +0000 2022",
 		"id": 1540977545138491400,
 		"id_str": "1540978231184171008",
