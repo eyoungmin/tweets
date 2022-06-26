@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 25 23:40:18 +0000 2022",
+		"id": 1540830446539243500,
+		"id_str": "1540842348934008832",
+		"full_text": "Thank you MYs for welcoming us to LA with such a cute event at Boulon D Amour! ☺️💕 The drinks are sooo delicious~ See you at Showcase SYNK in LA tomorrow! 💜\n\n@envimediaco @warnerrecords @smtown_usa\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/7Oms9Fkpc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						212,
+						216
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						224,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "envimediaco",
+					"name": "EnVi Media",
+					"id": 1261454941551501300,
+					"id_str": "1261454941551501315",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"screen_name": "warnerrecords",
+					"name": "Warner Records",
+					"id": 62971680,
+					"id_str": "62971680",
+					"indices": [
+						171,
+						185
+					]
+				},
+				{
+					"screen_name": "SMTOWN_USA",
+					"name": "SMTOWN USA",
+					"id": 1280628247747678200,
+					"id_str": "1280628247747678208",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540830438809186300,
+					"id_str": "1540830438809186304",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FWIhHtRUsAAbwrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWIhHtRUsAAbwrt.jpg",
+					"url": "https://t.co/7Oms9Fkpc9",
+					"display_url": "pic.twitter.com/7Oms9Fkpc9",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540830446539243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540830438809186300,
+					"id_str": "1540830438809186304",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FWIhHtRUsAAbwrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWIhHtRUsAAbwrt.jpg",
+					"url": "https://t.co/7Oms9Fkpc9",
+					"display_url": "pic.twitter.com/7Oms9Fkpc9",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540830446539243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540830438809211000,
+					"id_str": "1540830438809210880",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FWIhHtRVEAAiEHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWIhHtRVEAAiEHv.jpg",
+					"url": "https://t.co/7Oms9Fkpc9",
+					"display_url": "pic.twitter.com/7Oms9Fkpc9",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540830446539243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1086,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540830438804975600,
+					"id_str": "1540830438804975616",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FWIhHtQUcAAWd_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWIhHtQUcAAWd_4.jpg",
+					"url": "https://t.co/7Oms9Fkpc9",
+					"display_url": "pic.twitter.com/7Oms9Fkpc9",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540830446539243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 885,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 981,
+							"h": 1330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540830438809165800,
+					"id_str": "1540830438809165825",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FWIhHtRUYAE3Phx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWIhHtRUYAE3Phx.jpg",
+					"url": "https://t.co/7Oms9Fkpc9",
+					"display_url": "pic.twitter.com/7Oms9Fkpc9",
+					"expanded_url": "https://twitter.com/aespa_official/status/1540830446539243520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2807736,
+			"friends_count": 2,
+			"listed_count": 8765,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5201,
+		"favorite_count": 18712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you MYs for welcoming us to LA with such a cute event at Boulon D Amour! ☺️💕 The drinks are sooo delicious~ See you at Showcase SYNK in LA tomorrow! 💜\n\n@envimediaco @warnerrecords @smtown_usa\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/7Oms9Fkpc9"
+	},
+	{
 		"created_at": "Sat Jun 25 22:14:18 +0000 2022",
 		"id": 1540820643788521500,
 		"id_str": "1540820710032932864",
