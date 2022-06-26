@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 14:40:09 +0000 2022",
+		"id": 1541059282120343600,
+		"id_str": "1541068806356877314",
+		"full_text": "Let’s sing “Life’s Too Short” together!🎤❣️\n\nhttps://t.co/zGhjiXFYFn\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/ch9UTIM7pJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zGhjiXFYFn",
+					"expanded_url": "https://vt.tiktok.com/ZSdw23hyS/?k=1",
+					"display_url": "vt.tiktok.com/ZSdw23hyS/?k=1",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541059268635664400,
+					"id_str": "1541059268635664384",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLxPWzaIAA2jHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLxPWzaIAA2jHY.jpg",
+					"url": "https://t.co/ch9UTIM7pJ",
+					"display_url": "pic.twitter.com/ch9UTIM7pJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541059282120343553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541059268635664400,
+					"id_str": "1541059268635664384",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FWLxPWzaIAA2jHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWLxPWzaIAA2jHY.jpg",
+					"url": "https://t.co/ch9UTIM7pJ",
+					"display_url": "pic.twitter.com/ch9UTIM7pJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541059282120343553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812462,
+			"friends_count": 2,
+			"listed_count": 8778,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6431,
+		"favorite_count": 19200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s sing “Life’s Too Short” together!🎤❣️\n\nhttps://t.co/zGhjiXFYFn\n\n#aespa #LifesTooShort #LTS \n#Girls #aespa_Girls https://t.co/ch9UTIM7pJ"
+	},
+	{
 		"created_at": "Sun Jun 26 13:40:30 +0000 2022",
 		"id": 1541049546146726000,
 		"id_str": "1541053794032689153",
@@ -287,7 +508,7 @@ Grailbird.data.tweets_2022_06 =
 			"created_at": "Sun Jun 26 05:41:29 +0000 2022",
 			"id": 1540933244715016200,
 			"id_str": "1540933244715016192",
-			"full_text": "어멈머 김형서 @nakedbibi 절거워할 소식; 서현진님 요새 즐겨듣는 음악 비비의 비누래 역시 음잘알 스엠 출신 천재배우 아닐 리❤️‍🔥 https://t.co/KhOSbsbt3a",
+			"full_text": "어멈머 김형서 @nakedbibi 절거워할 소식; 서현진님 요새 즐겨듣는 음악 비비의 비누래 역시 음잘알 스엠 출신 천재배우 아닐 리❤️🔥 https://t.co/KhOSbsbt3a",
 			"truncated": false,
 			"display_text_range": [
 				0,
