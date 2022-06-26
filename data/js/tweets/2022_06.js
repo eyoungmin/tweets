@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 15:11:51 +0000 2022",
+		"id": 1541074836092354600,
+		"id_str": "1541076782714978311",
+		"full_text": "CHUNG HA The 2nd Studio Album Pt.1 'Bare&amp;Rare' Scheduler\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 4:00AM (EST)\n\n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1 https://t.co/naxp5x6ygn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "Bare",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "2nd",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Album",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "Part1",
+					"indices": [
+						156,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541074828379054000,
+					"id_str": "1541074828379054080",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FWL_ZDXUYAAFPHC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWL_ZDXUYAAFPHC.jpg",
+					"url": "https://t.co/naxp5x6ygn",
+					"display_url": "pic.twitter.com/naxp5x6ygn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1541074836092354562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541074828379054000,
+					"id_str": "1541074828379054080",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FWL_ZDXUYAAFPHC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWL_ZDXUYAAFPHC.jpg",
+					"url": "https://t.co/naxp5x6ygn",
+					"display_url": "pic.twitter.com/naxp5x6ygn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1541074836092354562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 347077,
+			"friends_count": 1,
+			"listed_count": 2137,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2269,
+		"favorite_count": 4487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA The 2nd Studio Album Pt.1 'Bare&amp;Rare' Scheduler\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 4:00AM (EST)\n\n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1 https://t.co/naxp5x6ygn"
+	},
+	{
 		"created_at": "Sun Jun 26 14:40:09 +0000 2022",
 		"id": 1541059282120343600,
 		"id_str": "1541068806356877314",
