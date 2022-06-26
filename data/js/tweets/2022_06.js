@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 04:40:14 +0000 2022",
+		"id": 1540198028723622000,
+		"id_str": "1540917829326802944",
+		"full_text": "#이달의소녀\n#플립댓 #FlipThat\n\n#LOONA Summer Special Mini Album 'Flip That'\n#케타포삼성점 POP-UP STORE 안내❤️ \n\n📆22.06.26~22.06.29\n\n💌인생네컷 스페셜 프레임   \n💌미공개 포토카드 럭키드로우 https://t.co/pIMh3j1FiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "케타포삼성점",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540189550857044000,
+					"id_str": "1540189550857043968",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FV_aPHmaQAADww_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV_aPHmaQAADww_.jpg",
+					"url": "https://t.co/pIMh3j1FiG",
+					"display_url": "pic.twitter.com/pIMh3j1FiG",
+					"expanded_url": "https://twitter.com/KTOWN4U_store/status/1540198028723621888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 301,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 171,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 301,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540189550857044000,
+					"id_str": "1540189550857043968",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FV_aPHmaQAADww_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV_aPHmaQAADww_.jpg",
+					"url": "https://t.co/pIMh3j1FiG",
+					"display_url": "pic.twitter.com/pIMh3j1FiG",
+					"expanded_url": "https://twitter.com/KTOWN4U_store/status/1540198028723621888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 301,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 171,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 301,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540189550861258800,
+					"id_str": "1540189550861258752",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FV_aPHnakAAa0qM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV_aPHnakAAa0qM.jpg",
+					"url": "https://t.co/pIMh3j1FiG",
+					"display_url": "pic.twitter.com/pIMh3j1FiG",
+					"expanded_url": "https://twitter.com/KTOWN4U_store/status/1540198028723621888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 320,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 181,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1450319234521723000,
+			"id_str": "1450319234521722882",
+			"name": "케타포 삼성점",
+			"screen_name": "KTOWN4U_store",
+			"location": "서울특별시 강남구 테헤란로83길 18 매직킹덤 2층 ",
+			"description": "🎈상시 매장으로 다양한 신보 앨범을 구매하실 수 있습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4294,
+			"friends_count": 1,
+			"listed_count": 10,
+			"created_at": "Tue Oct 19 04:34:01 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478983259518570499/658CLT4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478983259518570499/658CLT4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1450319234521722882/1641451929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 365,
+		"favorite_count": 1445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀\n#플립댓 #FlipThat\n\n#LOONA Summer Special Mini Album 'Flip That'\n#케타포삼성점 POP-UP STORE 안내❤️ \n\n📆22.06.26~22.06.29\n\n💌인생네컷 스페셜 프레임   \n💌미공개 포토카드 럭키드로우 https://t.co/pIMh3j1FiG"
+	},
+	{
+		"created_at": "Sun Jun 26 04:32:33 +0000 2022",
+		"id": 1540908881446338600,
+		"id_str": "1540915898751385601",
+		"full_text": "소중했던 순간들의 기록 - 커버챌린저 분들과 함께 만든 무대, 감상해주세요 \n\n⚓️Link in bio\n\nBass 최정연님\nGuitar 손재원님\nVocal 조현영님\nPiano by 박대현 @pianistdaehyun \n\n(멋지게 DBYH 듀엣해주신 유승기님 영상은 추후에 업로드 할게요 기다려주세요🙂👍🏻)\n\n#사비나앤드론즈 #팬미팅콘서트 https://t.co/2NtZnF4S2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "팬미팅콘서트",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1540908873703628800,
+					"id_str": "1540908873703628800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJodOBaIAA1Jbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJodOBaIAA1Jbf.jpg",
+					"url": "https://t.co/2NtZnF4S2T",
+					"display_url": "pic.twitter.com/2NtZnF4S2T",
+					"expanded_url": "https://twitter.com/savina0128/status/1540908881446338561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540908873703628800,
+					"id_str": "1540908873703628800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJodOBaIAA1Jbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJodOBaIAA1Jbf.jpg",
+					"url": "https://t.co/2NtZnF4S2T",
+					"display_url": "pic.twitter.com/2NtZnF4S2T",
+					"expanded_url": "https://twitter.com/savina0128/status/1540908881446338561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540908873699463200,
+					"id_str": "1540908873699463169",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJodOAakAESCj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJodOAakAESCj3.jpg",
+					"url": "https://t.co/2NtZnF4S2T",
+					"display_url": "pic.twitter.com/2NtZnF4S2T",
+					"expanded_url": "https://twitter.com/savina0128/status/1540908881446338561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1540908873703620600,
+					"id_str": "1540908873703620608",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FWJodOBaAAAhEM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWJodOBaAAAhEM5.jpg",
+					"url": "https://t.co/2NtZnF4S2T",
+					"display_url": "pic.twitter.com/2NtZnF4S2T",
+					"expanded_url": "https://twitter.com/savina0128/status/1540908881446338561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1299,
+			"friends_count": 245,
+			"listed_count": 0,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소중했던 순간들의 기록 - 커버챌린저 분들과 함께 만든 무대, 감상해주세요 \n\n⚓️Link in bio\n\nBass 최정연님\nGuitar 손재원님\nVocal 조현영님\nPiano by 박대현 @pianistdaehyun \n\n(멋지게 DBYH 듀엣해주신 유승기님 영상은 추후에 업로드 할게요 기다려주세요🙂👍🏻)\n\n#사비나앤드론즈 #팬미팅콘서트 https://t.co/2NtZnF4S2T"
+	},
+	{
 		"created_at": "Sun Jun 26 03:45:37 +0000 2022",
 		"id": 1540892610721484800,
 		"id_str": "1540904086371024896",
