@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 02:45:37 +0000 2022",
+		"id": 1541250702768742400,
+		"id_str": "1541251373613842443",
+		"full_text": "[올케팝 #EVENT.•♥]\n\n'Flip That'으로 컴백한 LOONA❤\n\n이달의 소녀 싸인 폴라를 갖고 싶다면⁉️\n주간아 클립 시청 후 인증하면 \n💓싸폴💓 이벤트 참여 뚝딱❤\n\n주간아 보러 가는 길➿\n🔜 https://t.co/SN3V28BCt1\n미방분 보러 가는 길➿\n🔜 https://t.co/JtlLrP1jLK\n\n#주간아이돌 #LOONA #이달의소녀 https://t.co/LMOiQahX20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "주간아이돌",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						194,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SN3V28BCt1",
+					"expanded_url": "https://bit.ly/3AeglK2",
+					"display_url": "bit.ly/3AeglK2",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/JtlLrP1jLK",
+					"expanded_url": "https://bit.ly/3u3XOwo",
+					"display_url": "bit.ly/3u3XOwo",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541250631432032300,
+					"id_str": "1541250631432032256",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOfSIxaUAAiZUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOfSIxaUAAiZUC.jpg",
+					"url": "https://t.co/LMOiQahX20",
+					"display_url": "pic.twitter.com/LMOiQahX20",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1541250702768742400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541250631432032300,
+					"id_str": "1541250631432032256",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOfSIxaUAAiZUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOfSIxaUAAiZUC.jpg",
+					"url": "https://t.co/LMOiQahX20",
+					"display_url": "pic.twitter.com/LMOiQahX20",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1541250702768742400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125336,
+			"friends_count": 344,
+			"listed_count": 393,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1655688002",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[올케팝 #EVENT.•♥]\n\n'Flip That'으로 컴백한 LOONA❤\n\n이달의 소녀 싸인 폴라를 갖고 싶다면⁉️\n주간아 클립 시청 후 인증하면 \n💓싸폴💓 이벤트 참여 뚝딱❤\n\n주간아 보러 가는 길➿\n🔜 https://t.co/SN3V28BCt1\n미방분 보러 가는 길➿\n🔜 https://t.co/JtlLrP1jLK\n\n#주간아이돌 #LOONA #이달의소녀 https://t.co/LMOiQahX20"
+	},
+	{
+		"created_at": "Mon Jun 27 02:40:33 +0000 2022",
+		"id": 1541247163472429000,
+		"id_str": "1541250100772671490",
+		"full_text": "✨New K-Pop✨\n이달의 소녀(@loonatheworld)의 'Flip That'이 #Anghami(@anghami) 'New K-Pop' 플레이리스트 커버를 장식하였습니다🌙💘\n\nCheck out 'Flip That' on 'New K-Pop' playlist on Anghami⁠⠀\n🎶https://t.co/hYk3OYTi9L\n\n#warnerkpop #warnermusic #KPOP #이달의소녀 #플립댓 #FlipThat https://t.co/QuAUkwTu4N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Anghami",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "warnerkpop",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"screen_name": "anghami",
+					"name": "Anghami",
+					"id": 273360241,
+					"id_str": "273360241",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hYk3OYTi9L",
+					"expanded_url": "http://g.angha.me/lw6n20lk",
+					"display_url": "g.angha.me/lw6n20lk",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541247161257857000,
+					"id_str": "1541247161257857025",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOcIJXakAEF_sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOcIJXakAEF_sz.jpg",
+					"url": "https://t.co/QuAUkwTu4N",
+					"display_url": "pic.twitter.com/QuAUkwTu4N",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1541247163472429056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541247161257857000,
+					"id_str": "1541247161257857025",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOcIJXakAEF_sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOcIJXakAEF_sz.jpg",
+					"url": "https://t.co/QuAUkwTu4N",
+					"display_url": "pic.twitter.com/QuAUkwTu4N",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1541247163472429056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87504,
+			"friends_count": 492,
+			"listed_count": 212,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1636703401",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 1362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨New K-Pop✨\n이달의 소녀(@loonatheworld)의 'Flip That'이 #Anghami(@anghami) 'New K-Pop' 플레이리스트 커버를 장식하였습니다🌙💘\n\nCheck out 'Flip That' on 'New K-Pop' playlist on Anghami⁠⠀\n🎶https://t.co/hYk3OYTi9L\n\n#warnerkpop #warnermusic #KPOP #이달의소녀 #플립댓 #FlipThat https://t.co/QuAUkwTu4N"
+	},
+	{
+		"created_at": "Mon Jun 27 02:40:23 +0000 2022",
+		"id": 1541243142003114000,
+		"id_str": "1541250057890140163",
+		"full_text": "[#초동 기록] #이달의소녀 '#FlipThat' 초동 11만 장 돌파...글로벌 사로잡은 소녀들의 커리어 하이 (#한터차트 공식)\n\n#LOONA #플립댓 \n#HanteoChart #Chodong #Initial_Chodong_Record\n@loonatheworld\n\n전문 보기🔗https://t.co/Ls7wa66eS7 https://t.co/5PVpxWnGHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "초동",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "한터차트",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "HanteoChart",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "Chodong",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "Initial_Chodong_Record",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						134,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ls7wa66eS7",
+					"expanded_url": "https://www.hanteonews.com/ko/article/all?fc=36025",
+					"display_url": "hanteonews.com/ko/article/all…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541243073996689400,
+					"id_str": "1541243073996689408",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOYaPIakAA8Xrz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOYaPIakAA8Xrz.jpg",
+					"url": "https://t.co/5PVpxWnGHo",
+					"display_url": "pic.twitter.com/5PVpxWnGHo",
+					"expanded_url": "https://twitter.com/HanteoNews/status/1541243142003113985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541243073996689400,
+					"id_str": "1541243073996689408",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOYaPIakAA8Xrz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOYaPIakAA8Xrz.jpg",
+					"url": "https://t.co/5PVpxWnGHo",
+					"display_url": "pic.twitter.com/5PVpxWnGHo",
+					"expanded_url": "https://twitter.com/HanteoNews/status/1541243142003113985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1116614981942833200,
+			"id_str": "1116614981942833152",
+			"name": "HANTEO NEWS",
+			"screen_name": "HanteoNews",
+			"location": "Worldwide",
+			"description": "📰한터뉴스 공식 트위터 계정 📊한터차트 데이터 독점 사용 매체\n📰HANTEO NEWS official account  📊K-POP News by HANTEO CHART Data",
+			"url": "https://t.co/bFyyUVuaR2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bFyyUVuaR2",
+							"expanded_url": "http://www.hanteonews.com",
+							"display_url": "hanteonews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15372,
+			"friends_count": 213,
+			"listed_count": 109,
+			"created_at": "Fri Apr 12 08:12:12 +0000 2019",
+			"favourites_count": 10860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201857443724087296/5fO_pzhc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201857443724087296/5fO_pzhc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1116614981942833152/1575379729",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 497,
+		"favorite_count": 1974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#초동 기록] #이달의소녀 '#FlipThat' 초동 11만 장 돌파...글로벌 사로잡은 소녀들의 커리어 하이 (#한터차트 공식)\n\n#LOONA #플립댓 \n#HanteoChart #Chodong #Initial_Chodong_Record\n@loonatheworld\n\n전문 보기🔗https://t.co/Ls7wa66eS7 https://t.co/5PVpxWnGHo"
+	},
+	{
+		"created_at": "Mon Jun 27 02:40:16 +0000 2022",
+		"id": 1541241852854120400,
+		"id_str": "1541250027921854465",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 7월 11일 'Bare &amp; Rare' 컴백 확정..차세대 솔로퀸 귀환[공식]\n\n🔎 https://t.co/Sw8q6dzzTc\n\n#청하 #CHUNGHA\n#컴백 #BareRare #솔로퀸_귀환 https://t.co/Nzc4IMz0xH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "솔로퀸_귀환",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sw8q6dzzTc",
+					"expanded_url": "http://naver.me/GVMJwpiu",
+					"display_url": "naver.me/GVMJwpiu",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541241839675617300,
+					"id_str": "1541241839675617280",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOXSY7VsAAtiHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOXSY7VsAAtiHt.jpg",
+					"url": "https://t.co/Nzc4IMz0xH",
+					"display_url": "pic.twitter.com/Nzc4IMz0xH",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1541241852854120448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541241839675617300,
+					"id_str": "1541241839675617280",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOXSY7VsAAtiHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOXSY7VsAAtiHt.jpg",
+					"url": "https://t.co/Nzc4IMz0xH",
+					"display_url": "pic.twitter.com/Nzc4IMz0xH",
+					"expanded_url": "https://twitter.com/mnhent_01/status/1541241852854120448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30735,
+			"friends_count": 7,
+			"listed_count": 315,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 7월 11일 'Bare &amp; Rare' 컴백 확정..차세대 솔로퀸 귀환[공식]\n\n🔎 https://t.co/Sw8q6dzzTc\n\n#청하 #CHUNGHA\n#컴백 #BareRare #솔로퀸_귀환 https://t.co/Nzc4IMz0xH"
+	},
+	{
 		"created_at": "Sun Jun 26 15:45:37 +0000 2022",
 		"id": 1541073802855035000,
 		"id_str": "1541085279557226497",
