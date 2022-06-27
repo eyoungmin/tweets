@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 11:45:42 +0000 2022",
+		"id": 1541386406739599400,
+		"id_str": "1541387290265718786",
+		"full_text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/CGnPXPKtUf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541386385835249700,
+					"id_str": "1541386385835249664",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQawFVVUAAUGTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQawFVVUAAUGTy.jpg",
+					"url": "https://t.co/CGnPXPKtUf",
+					"display_url": "pic.twitter.com/CGnPXPKtUf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541386406739599360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541386385835249700,
+					"id_str": "1541386385835249664",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQawFVVUAAUGTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQawFVVUAAUGTy.jpg",
+					"url": "https://t.co/CGnPXPKtUf",
+					"display_url": "pic.twitter.com/CGnPXPKtUf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541386406739599360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541386386330116000,
+					"id_str": "1541386386330116096",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQawHLUYAABUzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQawHLUYAABUzU.jpg",
+					"url": "https://t.co/CGnPXPKtUf",
+					"display_url": "pic.twitter.com/CGnPXPKtUf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541386406739599360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541386385835184000,
+					"id_str": "1541386385835184128",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQawFVUUAA_H5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQawFVUUAA_H5w.jpg",
+					"url": "https://t.co/CGnPXPKtUf",
+					"display_url": "pic.twitter.com/CGnPXPKtUf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541386406739599360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945005,
+			"friends_count": 2,
+			"listed_count": 8786,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1682,
+		"favorite_count": 4974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/CGnPXPKtUf"
+	},
+	{
+		"created_at": "Mon Jun 27 11:40:26 +0000 2022",
+		"id": 1541382116537147400,
+		"id_str": "1541385964903452672",
+		"full_text": "*운영시간 : 공연 시작 3시간 전 ~ 공연 종료 후 30분까지\n*카드 결제만 가능합니다.\n*단순 변심으로 인한 교환 및 환불은 불가합니다.\n\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n🎉SPECIAL ALBUM\n2022.07.01 6PM RELEASE\n\n🎉CONCERT\n2022.07.01-03 OLYMPIC HALL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1541382081946652700,
+		"in_reply_to_status_id_str": "1541382081946652672",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3710,
+			"friends_count": 5,
+			"listed_count": 21,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*운영시간 : 공연 시작 3시간 전 ~ 공연 종료 후 30분까지\n*카드 결제만 가능합니다.\n*단순 변심으로 인한 교환 및 환불은 불가합니다.\n\n[𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌]\n🎉SPECIAL ALBUM\n2022.07.01 6PM RELEASE\n\n🎉CONCERT\n2022.07.01-03 OLYMPIC HALL"
+	},
+	{
+		"created_at": "Mon Jun 27 11:40:20 +0000 2022",
+		"id": 1541382081946652700,
+		"id_str": "1541385939116855297",
+		"full_text": "🎁MD\n• HAPPY 25th JAURIM 슬로건 : 15,000원\n• HAPPY 25th JAURIM 티셔츠 : 33,000원\n• 자우림 슬로건 : 15,000원\n• 스티커, 포토카드 세트 : 20,000원\n• 맥주잔 : 12,000원\n• 소주잔 세트 : 20,000원\n• 포스터 5종 : 15,000원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1541382018524582000,
+		"in_reply_to_status_id_str": "1541382018524581888",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3710,
+			"friends_count": 5,
+			"listed_count": 21,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🎁MD\n• HAPPY 25th JAURIM 슬로건 : 15,000원\n• HAPPY 25th JAURIM 티셔츠 : 33,000원\n• 자우림 슬로건 : 15,000원\n• 스티커, 포토카드 세트 : 20,000원\n• 맥주잔 : 12,000원\n• 소주잔 세트 : 20,000원\n• 포스터 5종 : 15,000원"
+	},
+	{
+		"created_at": "Mon Jun 27 11:40:13 +0000 2022",
+		"id": 1541382018524582000,
+		"id_str": "1541385913233772547",
+		"full_text": "❤️CD 및 MD 판매 안내❤️\n\n💿CD\n• 스페셜 앨범 [HAPPY 25th JAURIM] : 22,000원\n• 정규 11집[영원한 사랑] : 38,000원\n• EP [HOLA!] : 8,500원\n• 정규 10집 [자우림] : 15,000원\n• 정규 9집 [GoodBye, Grief] : 13,000원 https://t.co/M0uGVACSRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541382013390753800,
+					"id_str": "1541382013390753792",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQWxktVEAASf3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQWxktVEAASf3H.jpg",
+					"url": "https://t.co/M0uGVACSRH",
+					"display_url": "pic.twitter.com/M0uGVACSRH",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1541382018524581888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541382013390753800,
+					"id_str": "1541382013390753792",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQWxktVEAASf3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQWxktVEAASf3H.jpg",
+					"url": "https://t.co/M0uGVACSRH",
+					"display_url": "pic.twitter.com/M0uGVACSRH",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1541382018524581888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1797,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541382013399072800,
+					"id_str": "1541382013399072768",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQWxkvUAAACLm1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQWxkvUAAACLm1.jpg",
+					"url": "https://t.co/M0uGVACSRH",
+					"display_url": "pic.twitter.com/M0uGVACSRH",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1541382018524581888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1797,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541382013394878500,
+					"id_str": "1541382013394878464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQWxkuUAAAy3U2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQWxkuUAAAy3U2.jpg",
+					"url": "https://t.co/M0uGVACSRH",
+					"display_url": "pic.twitter.com/M0uGVACSRH",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1541382018524581888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1797,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3710,
+			"friends_count": 5,
+			"listed_count": 21,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️CD 및 MD 판매 안내❤️\n\n💿CD\n• 스페셜 앨범 [HAPPY 25th JAURIM] : 22,000원\n• 정규 11집[영원한 사랑] : 38,000원\n• EP [HOLA!] : 8,500원\n• 정규 10집 [자우림] : 15,000원\n• 정규 9집 [GoodBye, Grief] : 13,000원 https://t.co/M0uGVACSRH"
+	},
+	{
 		"created_at": "Mon Jun 27 10:45:56 +0000 2022",
 		"id": 1541368241821339600,
 		"id_str": "1541372249785106432",
