@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 06:40:29 +0000 2022",
+		"id": 1541300353148530700,
+		"id_str": "1541310480068771842",
+		"full_text": "★더쇼 300회 라인업★ ATEEZ(에이티즈), bugAboo (버가부), DRIPPIN(드리핀), KARD, Lapillus(라필루스), OMEGA X (오메가엑스), PIXY (픽시), TAN, TRENDZ (트렌드지), 김희재, 박현서, 백그림, 울랄라세션 (ULALA SESSION), 이달의 소녀, 케플러(Kep1er) #THESHOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054276,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1060,
+		"favorite_count": 2831,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "★더쇼 300회 라인업★ ATEEZ(에이티즈), bugAboo (버가부), DRIPPIN(드리핀), KARD, Lapillus(라필루스), OMEGA X (오메가엑스), PIXY (픽시), TAN, TRENDZ (트렌드지), 김희재, 박현서, 백그림, 울랄라세션 (ULALA SESSION), 이달의 소녀, 케플러(Kep1er) #THESHOW"
+	},
+	{
+		"created_at": "Mon Jun 27 06:40:21 +0000 2022",
+		"id": 1541304518520217600,
+		"id_str": "1541310445939818496",
+		"full_text": "6월 5주차 아챔이가 꾸며주는 대기실의 주인공은!!👀❤\n#이달의소녀 #LOONA \n\n이달소에게 주고 싶은 간식, 선물🎁을 \n아래 답글로 추천해주세요❤(~오늘 자정까지)\nPlease recommend a snack or gift for LOONA❤\n(~12AM, KST) https://t.co/XYnIklhYt6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541304502342815700,
+					"id_str": "1541304502342815744",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPQR1jakAAszO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPQR1jakAAszO1.jpg",
+					"url": "https://t.co/XYnIklhYt6",
+					"display_url": "pic.twitter.com/XYnIklhYt6",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1541304518520217601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541304502342815700,
+					"id_str": "1541304502342815744",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPQR1jakAAszO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPQR1jakAAszO1.jpg",
+					"url": "https://t.co/XYnIklhYt6",
+					"display_url": "pic.twitter.com/XYnIklhYt6",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1541304518520217601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1540288639027933200,
+		"in_reply_to_status_id_str": "1540288639027933186",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97581,
+			"friends_count": 108,
+			"listed_count": 259,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 1121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6월 5주차 아챔이가 꾸며주는 대기실의 주인공은!!👀❤\n#이달의소녀 #LOONA \n\n이달소에게 주고 싶은 간식, 선물🎁을 \n아래 답글로 추천해주세요❤(~오늘 자정까지)\nPlease recommend a snack or gift for LOONA❤\n(~12AM, KST) https://t.co/XYnIklhYt6"
+	},
+	{
 		"created_at": "Mon Jun 27 05:40:15 +0000 2022",
 		"id": 1541291850077974500,
 		"id_str": "1541295320834924545",
