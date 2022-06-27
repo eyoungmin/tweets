@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 07:45:36 +0000 2022",
+		"id": 1541319468579553300,
+		"id_str": "1541326869953380352",
+		"full_text": "뒤집어~ 뒤집어~! 친친을 뒤집어놓으실(?)\n💗#이달의소녀💗가 완전체로 등장!\n이달소의 스테이지8! 기대해주세요!\n\n6/28(TUE) 8pm(KST), #LOONA will appear on MBC radio Live streaming!\n\n📻#GOT7영재의친한친구\n✔6월 28일 화요일 저녁 8시부터\n✔#봉춘라디오 에서 스트리밍!\n\n#FlipThat #친한친구 https://t.co/7HUQFIQmVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "GOT7영재의친한친구",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "친한친구",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541319260579848200,
+					"id_str": "1541319260579848192",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPds4RUYAAmick.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPds4RUYAAmick.jpg",
+					"url": "https://t.co/7HUQFIQmVa",
+					"display_url": "pic.twitter.com/7HUQFIQmVa",
+					"expanded_url": "https://twitter.com/radiombc/status/1541319468579553281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541319260579848200,
+					"id_str": "1541319260579848192",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPds4RUYAAmick.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPds4RUYAAmick.jpg",
+					"url": "https://t.co/7HUQFIQmVa",
+					"display_url": "pic.twitter.com/7HUQFIQmVa",
+					"expanded_url": "https://twitter.com/radiombc/status/1541319468579553281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79579,
+			"friends_count": 43,
+			"listed_count": 598,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뒤집어~ 뒤집어~! 친친을 뒤집어놓으실(?)\n💗#이달의소녀💗가 완전체로 등장!\n이달소의 스테이지8! 기대해주세요!\n\n6/28(TUE) 8pm(KST), #LOONA will appear on MBC radio Live streaming!\n\n📻#GOT7영재의친한친구\n✔6월 28일 화요일 저녁 8시부터\n✔#봉춘라디오 에서 스트리밍!\n\n#FlipThat #친한친구 https://t.co/7HUQFIQmVa"
+	},
+	{
 		"created_at": "Mon Jun 27 06:40:29 +0000 2022",
 		"id": 1541300353148530700,
 		"id_str": "1541310480068771842",
