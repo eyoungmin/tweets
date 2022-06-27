@@ -1,10 +1,252 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 04:40:09 +0000 2022",
+		"id": 1541270273604825000,
+		"id_str": "1541280200125812739",
+		"full_text": "aespa 에스파 'Life's Too Short (English Ver.)' Lyric Video\n\n🎬 https://t.co/XRuV84rHw3\n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/GXdzOvZxvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XRuV84rHw3",
+					"expanded_url": "https://youtu.be/5KjN4VzsDhk",
+					"display_url": "youtu.be/5KjN4VzsDhk",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541270257775812600,
+					"id_str": "1541270257775812608",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOxIimaIAATC6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOxIimaIAATC6P.jpg",
+					"url": "https://t.co/GXdzOvZxvD",
+					"display_url": "pic.twitter.com/GXdzOvZxvD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541270273604825088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541270257775812600,
+					"id_str": "1541270257775812608",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FWOxIimaIAATC6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWOxIimaIAATC6P.jpg",
+					"url": "https://t.co/GXdzOvZxvD",
+					"display_url": "pic.twitter.com/GXdzOvZxvD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541270273604825088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2817805,
+			"friends_count": 2,
+			"listed_count": 8790,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6431,
+		"favorite_count": 15555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Life's Too Short (English Ver.)' Lyric Video\n\n🎬 https://t.co/XRuV84rHw3\n\n#aespa #æspa #에스파 \n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/GXdzOvZxvD"
+	},
+	{
 		"created_at": "Mon Jun 27 03:45:47 +0000 2022",
 		"id": 1541265120755880000,
 		"id_str": "1541266514908684288",
-		"full_text": "#지오디 #점심어택\n\n비오는 월요일은 썸머요정 #이달의소녀(#이브 #하슬 #고원 #여진)와 생방송으로 달려요🧚🏻‍♀️ 여름의 맛이 가득 담긴 앨범 토크부터 당충전 go! 간식 게임까지🍬 지금 막 시작했어요✨ #NOW온에어 #god #LOONA \n\n▶평일 낮 12시 30분💙 NOW. 본방사수!\n🔔https://t.co/Ur3sryqAjZ https://t.co/BOeuWxXmNr",
+		"full_text": "#지오디 #점심어택\n\n비오는 월요일은 썸머요정 #이달의소녀(#이브 #하슬 #고원 #여진)와 생방송으로 달려요🧚🏻♀️ 여름의 맛이 가득 담긴 앨범 토크부터 당충전 go! 간식 게임까지🍬 지금 막 시작했어요✨ #NOW온에어 #god #LOONA \n\n▶평일 낮 12시 30분💙 NOW. 본방사수!\n🔔https://t.co/Ur3sryqAjZ https://t.co/BOeuWxXmNr",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -290,7 +532,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#지오디 #점심어택\n\n비오는 월요일은 썸머요정 #이달의소녀(#이브 #하슬 #고원 #여진)와 생방송으로 달려요🧚🏻‍♀️ 여름의 맛이 가득 담긴 앨범 토크부터 당충전 go! 간식 게임까지🍬 지금 막 시작했어요✨ #NOW온에어 #god #LOONA \n\n▶평일 낮 12시 30분💙 NOW. 본방사수!\n🔔https://t.co/Ur3sryqAjZ https://t.co/BOeuWxXmNr"
+		"text": "#지오디 #점심어택\n\n비오는 월요일은 썸머요정 #이달의소녀(#이브 #하슬 #고원 #여진)와 생방송으로 달려요🧚🏻♀️ 여름의 맛이 가득 담긴 앨범 토크부터 당충전 go! 간식 게임까지🍬 지금 막 시작했어요✨ #NOW온에어 #god #LOONA \n\n▶평일 낮 12시 30분💙 NOW. 본방사수!\n🔔https://t.co/Ur3sryqAjZ https://t.co/BOeuWxXmNr"
 	},
 	{
 		"created_at": "Mon Jun 27 03:45:40 +0000 2022",
