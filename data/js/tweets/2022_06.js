@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 14:40:09 +0000 2022",
+		"id": 1541421626230997000,
+		"id_str": "1541431194797182977",
+		"full_text": "Let’s enjoy ‘Life’s Too Short’💙🌙⭐️🦋\n\nhttps://t.co/IzJz1d7Ptc\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #Nightcore \n#Girls #aespa_Girls https://t.co/mxTfttSzj1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"text": "Nightcore",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IzJz1d7Ptc",
+					"expanded_url": "https://vt.tiktok.com/ZSdw4syQ8/?k=1",
+					"display_url": "vt.tiktok.com/ZSdw4syQ8/?k=1",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541421616307257300,
+					"id_str": "1541421616307257344",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQ6yxEaQAA0Psx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQ6yxEaQAA0Psx.jpg",
+					"url": "https://t.co/mxTfttSzj1",
+					"display_url": "pic.twitter.com/mxTfttSzj1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541421626230996992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541421616307257300,
+					"id_str": "1541421616307257344",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FWQ6yxEaQAA0Psx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWQ6yxEaQAA0Psx.jpg",
+					"url": "https://t.co/mxTfttSzj1",
+					"display_url": "pic.twitter.com/mxTfttSzj1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541421626230996992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2821218,
+			"friends_count": 2,
+			"listed_count": 8800,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7246,
+		"favorite_count": 25607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s enjoy ‘Life’s Too Short’💙🌙⭐️🦋\n\nhttps://t.co/IzJz1d7Ptc\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #Nightcore \n#Girls #aespa_Girls https://t.co/mxTfttSzj1"
+	},
+	{
 		"created_at": "Mon Jun 27 12:40:32 +0000 2022",
 		"id": 1541395941101805600,
 		"id_str": "1541401090335424520",
@@ -698,7 +933,7 @@ Grailbird.data.tweets_2022_06 =
 		"created_at": "Mon Jun 27 12:14:44 +0000 2022",
 		"id": 1541386448233828400,
 		"id_str": "1541394596785049600",
-		"full_text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/AhZuICcelO",
+		"full_text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤🔥\n\n#이달의소녀 #LOONA https://t.co/AhZuICcelO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -932,13 +1167,13 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/AhZuICcelO"
+		"text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤🔥\n\n#이달의소녀 #LOONA https://t.co/AhZuICcelO"
 	},
 	{
 		"created_at": "Mon Jun 27 12:14:44 +0000 2022",
 		"id": 1541386500444520400,
 		"id_str": "1541394596214624256",
-		"full_text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/OWJGEQ0Lz8",
+		"full_text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤🔥\n\n#이달의소녀 #LOONA https://t.co/OWJGEQ0Lz8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1167,7 +1402,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤‍🔥\n\n#이달의소녀 #LOONA https://t.co/OWJGEQ0Lz8"
+		"text": "[#진솔 / #JinSoul] 'Flip That' 활동 1주차 끄읕!\n지금까지 나의 최애 스타일링은 RED❤🔥\n\n#이달의소녀 #LOONA https://t.co/OWJGEQ0Lz8"
 	},
 	{
 		"created_at": "Mon Jun 27 11:45:42 +0000 2022",
