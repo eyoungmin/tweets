@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 15:12:06 +0000 2022",
+		"id": 1541438941097652200,
+		"id_str": "1541439231649689600",
+		"full_text": "CHUNG HA 청하 \nThe 2nd Studio Album 'Bare&amp;Rare Pt.1' \nMood Sampler #Bare Ver.\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 4:00AM (EST)\n\n#CHUNGHA #청하 #BareRare #Mood_Sampler https://t.co/4xnI5GBmjn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bare",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "Mood_Sampler",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541438875746242600,
+					"id_str": "1541438875746242560",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541438875746242560/pu/img/RoIKPjxoWo1Zfyu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541438875746242560/pu/img/RoIKPjxoWo1Zfyu9.jpg",
+					"url": "https://t.co/4xnI5GBmjn",
+					"display_url": "pic.twitter.com/4xnI5GBmjn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1541438941097652224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541438875746242600,
+					"id_str": "1541438875746242560",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541438875746242560/pu/img/RoIKPjxoWo1Zfyu9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541438875746242560/pu/img/RoIKPjxoWo1Zfyu9.jpg",
+					"url": "https://t.co/4xnI5GBmjn",
+					"display_url": "pic.twitter.com/4xnI5GBmjn",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1541438941097652224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32363,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541438875746242560/pu/pl/WkYnxEmoqdt4t_kj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541438875746242560/pu/vid/640x360/5_yda0TjksvX-KFn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541438875746242560/pu/vid/1280x720/c0NhyULHd7m1IHqw.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541438875746242560/pu/vid/480x270/qqFkU3XhqoVWlFJG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 347873,
+			"friends_count": 1,
+			"listed_count": 2146,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509908621093589000/JeXLwU1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1648825254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1474,
+		"favorite_count": 2502,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA 청하 \nThe 2nd Studio Album 'Bare&amp;Rare Pt.1' \nMood Sampler #Bare Ver.\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 4:00AM (EST)\n\n#CHUNGHA #청하 #BareRare #Mood_Sampler https://t.co/4xnI5GBmjn"
+	},
+	{
 		"created_at": "Mon Jun 27 14:40:09 +0000 2022",
 		"id": 1541421626230997000,
 		"id_str": "1541431194797182977",
