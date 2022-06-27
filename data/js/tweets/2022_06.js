@@ -1,6 +1,1327 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 09:45:37 +0000 2022",
+		"id": 1541347244862890000,
+		"id_str": "1541357070624215041",
+		"full_text": "B.I pairs up with Chuu of LOONA for a special new single \"자장가 (Lullaby)\" co-written by the two artists. Check out the lyrics &amp; English translation to the song on Genius now!\n\n#LullabyBIxChuu @shxx131bi131 @loonatheworld @dingo_official \n\n🔗 https://t.co/4I96887Olw https://t.co/lVHmTBjSxx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LullabyBIxChuu",
+					"indices": [
+						179,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shxx131bi131",
+					"name": "김한빈",
+					"id": 987289203078672400,
+					"id_str": "987289203078672384",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						209,
+						223
+					]
+				},
+				{
+					"screen_name": "dingo_official",
+					"name": "dingo(딩고)",
+					"id": 936446104136065000,
+					"id_str": "936446104136065024",
+					"indices": [
+						224,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4I96887Olw",
+					"expanded_url": "https://genius.com/Bi-and-chuu-lullaby-lyrics",
+					"display_url": "genius.com/Bi-and-chuu-lu…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541346784718385200,
+					"id_str": "1541346784718385152",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP2u_rUcAAOIZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP2u_rUcAAOIZD.jpg",
+					"url": "https://t.co/lVHmTBjSxx",
+					"display_url": "pic.twitter.com/lVHmTBjSxx",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1541347244862889984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541346784718385200,
+					"id_str": "1541346784718385152",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP2u_rUcAAOIZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP2u_rUcAAOIZD.jpg",
+					"url": "https://t.co/lVHmTBjSxx",
+					"display_url": "pic.twitter.com/lVHmTBjSxx",
+					"expanded_url": "https://twitter.com/Genius_kor/status/1541347244862889984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288205677488255000,
+			"id_str": "1288205677488254976",
+			"name": "Genius Korea",
+			"screen_name": "Genius_kor",
+			"location": "Worldwide",
+			"description": "Lyrics, Romanizations, English Translations for K-Pop & Korean music | @Genius Community Based Account, not affiliated with Genius Inc. | 🇰🇷 DM for inquiries",
+			"url": "https://t.co/hrRPuLlIwP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrRPuLlIwP",
+							"expanded_url": "https://genius.com/artists/Genius-korea",
+							"display_url": "genius.com/artists/Genius…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16631,
+			"friends_count": 1596,
+			"listed_count": 81,
+			"created_at": "Tue Jul 28 20:13:28 +0000 2020",
+			"favourites_count": 3147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477967058356764673/NBhDCQRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288205677488254976/1595971297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "B.I pairs up with Chuu of LOONA for a special new single \"자장가 (Lullaby)\" co-written by the two artists. Check out the lyrics &amp; English translation to the song on Genius now!\n\n#LullabyBIxChuu @shxx131bi131 @loonatheworld @dingo_official \n\n🔗 https://t.co/4I96887Olw https://t.co/lVHmTBjSxx"
+	},
+	{
+		"created_at": "Mon Jun 27 09:40:40 +0000 2022",
+		"id": 1541354743704211500,
+		"id_str": "1541355826442637317",
+		"full_text": "[#OliviaHye] 🍃\n\n#이달의소녀 #LOONA https://t.co/IsXAG4jz94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OliviaHye",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541354725861630000,
+					"id_str": "1541354725861629955",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP99OvaIAMCd8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP99OvaIAMCd8W.jpg",
+					"url": "https://t.co/IsXAG4jz94",
+					"display_url": "pic.twitter.com/IsXAG4jz94",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541354743704211456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541354725861630000,
+					"id_str": "1541354725861629955",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP99OvaIAMCd8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP99OvaIAMCd8W.jpg",
+					"url": "https://t.co/IsXAG4jz94",
+					"display_url": "pic.twitter.com/IsXAG4jz94",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541354743704211456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541354725865824300,
+					"id_str": "1541354725865824256",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP99OwaIAAIM2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP99OwaIAAIM2X.jpg",
+					"url": "https://t.co/IsXAG4jz94",
+					"display_url": "pic.twitter.com/IsXAG4jz94",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541354743704211456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541354725853241300,
+					"id_str": "1541354725853241344",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP99OtaIAAMxM-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP99OtaIAAMxM-.jpg",
+					"url": "https://t.co/IsXAG4jz94",
+					"display_url": "pic.twitter.com/IsXAG4jz94",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541354743704211456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944931,
+			"friends_count": 2,
+			"listed_count": 8786,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2388,
+		"favorite_count": 6646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#OliviaHye] 🍃\n\n#이달의소녀 #LOONA https://t.co/IsXAG4jz94"
+	},
+	{
+		"created_at": "Mon Jun 27 09:40:37 +0000 2022",
+		"id": 1541351270598193200,
+		"id_str": "1541355813352214528",
+		"full_text": "오늘부터 자장가는 요거다..❤\n🔽자장가 바로 들으러 가기🔽\n\nMelon : https://t.co/Kj7SeoFuls  \nGenie : https://t.co/m5Z5AFYHvT \nBugs : https://t.co/DoJXCKq6ab\nFLO : https://t.co/YC3B4nQSoX\nVIBE : https://t.co/vpxsMXOFlt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kj7SeoFuls",
+					"expanded_url": "http://kko.to/ForjpyYlG",
+					"display_url": "kko.to/ForjpyYlG",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/m5Z5AFYHvT",
+					"expanded_url": "http://www.genie.co.kr/QXPQ47",
+					"display_url": "genie.co.kr/QXPQ47",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/DoJXCKq6ab",
+					"expanded_url": "https://music.bugs.co.kr/album/20476077",
+					"display_url": "music.bugs.co.kr/album/20476077",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/YC3B4nQSoX",
+					"expanded_url": "https://www.music-flo.com/detail/album/edhzlhnhn/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/vpxsMXOFlt",
+					"expanded_url": "https://vibe.naver.com/album/7620652",
+					"display_url": "vibe.naver.com/album/7620652",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541346849239404500,
+		"in_reply_to_status_id_str": "1541346849239404544",
+		"in_reply_to_user_id": 936446104136065000,
+		"in_reply_to_user_id_str": "936446104136065024",
+		"in_reply_to_screen_name": "dingo_official",
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128947,
+			"friends_count": 1,
+			"listed_count": 176,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 13655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1632731850",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 807,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부터 자장가는 요거다..❤\n🔽자장가 바로 들으러 가기🔽\n\nMelon : https://t.co/Kj7SeoFuls  \nGenie : https://t.co/m5Z5AFYHvT \nBugs : https://t.co/DoJXCKq6ab\nFLO : https://t.co/YC3B4nQSoX\nVIBE : https://t.co/vpxsMXOFlt"
+	},
+	{
+		"created_at": "Mon Jun 27 09:40:32 +0000 2022",
+		"id": 1541346849239404500,
+		"id_str": "1541355791810183171",
+		"full_text": "[#딩고뮤직]\n🛌오늘은 달콤한 꿈을 꿀 수 있을 것 같아 💌\n\nB.I와 츄의 달달한 라이브🍯\n\n풀버전은 유튜브에서 4K로 확인하세요.\n\n🔗https://t.co/biMTzFnEIW https://t.co/vGBr6SOJrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/biMTzFnEIW",
+					"expanded_url": "https://youtu.be/go50ASrZJKs",
+					"display_url": "youtu.be/go50ASrZJKs",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541325285651427300,
+					"id_str": "1541325285651427330",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPjLlaUsAI7Hij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPjLlaUsAI7Hij.jpg",
+					"url": "https://t.co/vGBr6SOJrM",
+					"display_url": "pic.twitter.com/vGBr6SOJrM",
+					"expanded_url": "https://twitter.com/dingo_official/status/1541346849239404544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541325285651427300,
+					"id_str": "1541325285651427330",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FWPjLlaUsAI7Hij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWPjLlaUsAI7Hij.jpg",
+					"url": "https://t.co/vGBr6SOJrM",
+					"display_url": "pic.twitter.com/vGBr6SOJrM",
+					"expanded_url": "https://twitter.com/dingo_official/status/1541346849239404544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128947,
+			"friends_count": 1,
+			"listed_count": 176,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 13655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1632731850",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1932,
+		"favorite_count": 2829,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직]\n🛌오늘은 달콤한 꿈을 꿀 수 있을 것 같아 💌\n\nB.I와 츄의 달달한 라이브🍯\n\n풀버전은 유튜브에서 4K로 확인하세요.\n\n🔗https://t.co/biMTzFnEIW https://t.co/vGBr6SOJrM"
+	},
+	{
+		"created_at": "Mon Jun 27 09:40:15 +0000 2022",
+		"id": 1541346253661163500,
+		"id_str": "1541355719714377728",
+		"full_text": "[📢] \naespa The 2nd Mini Album 『Girls』 mu-mo SHOP限定特典の一部内容が決定🎉🙌\nアルバム1枚ご購入につきオリジナルトレカを1枚プレゼント！💝\nお見逃しなく💨💨💨\n\nhttps://t.co/4SdLUhE49Q\n\n#aespa #æspa #에스파 #エスパ #Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4SdLUhE49Q",
+					"expanded_url": "https://shop.mu-mo.net/avx/sv/list1?jsiteid=mumo&artist_id=AESPA",
+					"display_url": "shop.mu-mo.net/avx/sv/list1?j…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Life’s Too Short (English Ver.)",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160526,
+			"friends_count": 1,
+			"listed_count": 311,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 941,
+		"favorite_count": 3639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢] \naespa The 2nd Mini Album 『Girls』 mu-mo SHOP限定特典の一部内容が決定🎉🙌\nアルバム1枚ご購入につきオリジナルトレカを1枚プレゼント！💝\nお見逃しなく💨💨💨\n\nhttps://t.co/4SdLUhE49Q\n\n#aespa #æspa #에스파 #エスパ #Girls"
+	},
+	{
+		"created_at": "Mon Jun 27 09:32:55 +0000 2022",
+		"id": 1541345666093715500,
+		"id_str": "1541353875369627648",
+		"full_text": "[유애나공지]\n💚4차 Lotto Show 응모 안내\n\n▶ https://t.co/JeGzt0sUUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JeGzt0sUUK",
+					"expanded_url": "https://cafe.daum.net/IU/S1Fl",
+					"display_url": "cafe.daum.net/IU/S1Fl",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1331002,
+			"friends_count": 0,
+			"listed_count": 2286,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 2254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지]\n💚4차 Lotto Show 응모 안내\n\n▶ https://t.co/JeGzt0sUUK"
+	},
+	{
+		"created_at": "Mon Jun 27 09:14:41 +0000 2022",
+		"id": 1541348405514862600,
+		"id_str": "1541349287518474242",
+		"full_text": "[#딩고라이브] 비아이(B.I) × 츄(Chuu) '자장가'\n\n▶️ https://t.co/uqyMNkxiee\n\n#이달의소녀 #츄 #딩고뮤직 \n#LOONA #Chuu #dinggomusic \n#딩고음원프로젝트 https://t.co/hCObGZ8Vii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고라이브",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						70,
+						72
+					]
+				},
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "dinggomusic",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "딩고음원프로젝트",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqyMNkxiee",
+					"expanded_url": "https://youtu.be/go50ASrZJKs",
+					"display_url": "youtu.be/go50ASrZJKs",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541348393267925000,
+					"id_str": "1541348393267924992",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP4Mn_akAAc2ev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP4Mn_akAAc2ev.jpg",
+					"url": "https://t.co/hCObGZ8Vii",
+					"display_url": "pic.twitter.com/hCObGZ8Vii",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541348405514862592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541348393267925000,
+					"id_str": "1541348393267924992",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP4Mn_akAAc2ev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP4Mn_akAAc2ev.jpg",
+					"url": "https://t.co/hCObGZ8Vii",
+					"display_url": "pic.twitter.com/hCObGZ8Vii",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541348405514862592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944931,
+			"friends_count": 2,
+			"listed_count": 8786,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2401,
+		"favorite_count": 5630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고라이브] 비아이(B.I) × 츄(Chuu) '자장가'\n\n▶️ https://t.co/uqyMNkxiee\n\n#이달의소녀 #츄 #딩고뮤직 \n#LOONA #Chuu #dinggomusic \n#딩고음원프로젝트 https://t.co/hCObGZ8Vii"
+	},
+	{
 		"created_at": "Mon Jun 27 08:40:23 +0000 2022",
 		"id": 1541338041746440200,
 		"id_str": "1541340653824745472",
