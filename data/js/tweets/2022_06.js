@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 08:45:37 +0000 2022",
+		"id": 1541704282679824400,
+		"id_str": "1541704358777217025",
+		"full_text": "220625🔍[예능연구소 4K #최애직캠]\n\n‘이달의 소녀 – Flip That’\n츄▶https://t.co/8GCy8yJxQR\n희진▶https://t.co/xGYPAG9iIx\n\n#쇼음악중심 #음중 #이달의소녀 #LOONA #FlipThat @loonatheworld\n\n✨MBC KPOP 채널 1000만 기원 이벤트✨\n▶https://t.co/xlCvkaHJ6g https://t.co/ECgjL9bMvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최애직캠",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8GCy8yJxQR",
+					"expanded_url": "https://youtu.be/HsUp2pTvig4",
+					"display_url": "youtu.be/HsUp2pTvig4",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/xGYPAG9iIx",
+					"expanded_url": "https://youtu.be/Dx0VjwYmM-g",
+					"display_url": "youtu.be/Dx0VjwYmM-g",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/xlCvkaHJ6g",
+					"expanded_url": "http://asq.kr/XpNhPD9kg",
+					"display_url": "asq.kr/XpNhPD9kg",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541704187234230300,
+					"id_str": "1541704187234230272",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU7yjzUIAAkjAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU7yjzUIAAkjAQ.jpg",
+					"url": "https://t.co/ECgjL9bMvh",
+					"display_url": "pic.twitter.com/ECgjL9bMvh",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1541704282679824384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541704187234230300,
+					"id_str": "1541704187234230272",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU7yjzUIAAkjAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU7yjzUIAAkjAQ.jpg",
+					"url": "https://t.co/ECgjL9bMvh",
+					"display_url": "pic.twitter.com/ECgjL9bMvh",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1541704282679824384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944470,
+			"friends_count": 5,
+			"listed_count": 1034,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 947,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "220625🔍[예능연구소 4K #최애직캠]\n\n‘이달의 소녀 – Flip That’\n츄▶https://t.co/8GCy8yJxQR\n희진▶https://t.co/xGYPAG9iIx\n\n#쇼음악중심 #음중 #이달의소녀 #LOONA #FlipThat @loonatheworld\n\n✨MBC KPOP 채널 1000만 기원 이벤트✨\n▶https://t.co/xlCvkaHJ6g https://t.co/ECgjL9bMvh"
+	},
+	{
+		"created_at": "Tue Jun 28 08:40:27 +0000 2022",
+		"id": 1541695929551507500,
+		"id_str": "1541703058203328512",
+		"full_text": "오랜만에 동심으로 돌아간 MC 이브!\n오늘 해결해야 할 #굿금증 은 과연 무엇일까요?\n기부와 후원에 대한 궁금증을\n속 시원하게 해결하는 굿금증 2화 대공개✨\n👉 https://t.co/thbpwt3WK5\n\n#굿네이버스 #GoodNeighbors \n#이달의소녀 #이달소 #이브 #LOONA #Yves https://t.co/cRRiHftLQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿금증",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "굿네이버스",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "GoodNeighbors",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thbpwt3WK5",
+					"expanded_url": "https://vvd.bz/bBzQ",
+					"display_url": "vvd.bz/bBzQ",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541695918281326600,
+					"id_str": "1541695918281326592",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU0RPjUAAA_859.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU0RPjUAAA_859.jpg",
+					"url": "https://t.co/cRRiHftLQY",
+					"display_url": "pic.twitter.com/cRRiHftLQY",
+					"expanded_url": "https://twitter.com/Good_Neighbors/status/1541695929551507456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541695918281326600,
+					"id_str": "1541695918281326592",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU0RPjUAAA_859.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU0RPjUAAA_859.jpg",
+					"url": "https://t.co/cRRiHftLQY",
+					"display_url": "pic.twitter.com/cRRiHftLQY",
+					"expanded_url": "https://twitter.com/Good_Neighbors/status/1541695929551507456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64963693,
+			"id_str": "64963693",
+			"name": "굿네이버스",
+			"screen_name": "Good_Neighbors",
+			"location": "Seoul, South Korea",
+			"description": "굿네이버스는 1991년 한국에서 설립되어 국내, 북한 및 해외에서 굶주림 없는 세상, 더불어 사는 세상을 만들기 위해 전문사회복지사업과 국제개발협력사업을 활발히 수행하고 있는 글로벌 아동권리 전문 NGO입니다.",
+			"url": "https://t.co/OGZfH0BE5J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OGZfH0BE5J",
+							"expanded_url": "http://goodneighbors.kr",
+							"display_url": "goodneighbors.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20380,
+			"friends_count": 18321,
+			"listed_count": 754,
+			"created_at": "Wed Aug 12 06:46:08 +0000 2009",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8AA230",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547225993715277824/yv7gWZjS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547225993715277824/yv7gWZjS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64963693/1641285666",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 1342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜만에 동심으로 돌아간 MC 이브!\n오늘 해결해야 할 #굿금증 은 과연 무엇일까요?\n기부와 후원에 대한 궁금증을\n속 시원하게 해결하는 굿금증 2화 대공개✨\n👉 https://t.co/thbpwt3WK5\n\n#굿네이버스 #GoodNeighbors \n#이달의소녀 #이달소 #이브 #LOONA #Yves https://t.co/cRRiHftLQY"
+	},
+	{
+		"created_at": "Tue Jun 28 08:40:09 +0000 2022",
+		"id": 1541677905595379700,
+		"id_str": "1541702986065395712",
+		"full_text": "🎊이달의 소녀(LOONA) 사인 폴라로이드 EVENT🎊\n\n지금 #Whosfan 앱에서\n모바일로 LOONA 'Flip That' 오피셜 테마 카페 즐기고\n💚짱달소💚 사인 폴라로이드 받자!\n\n모바일 후즈팬 카페 입장하기\n▶ https://t.co/yvFDhEqXFE\n\n@loonatheworld \n#이달의소녀 #LOONA #후즈팬카페 #WhosfanCafe https://t.co/esagcfjZ3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Whosfan",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "후즈팬카페",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "WhosfanCafe",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						148,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yvFDhEqXFE",
+					"expanded_url": "http://whosfan.page.link/UAg1",
+					"display_url": "whosfan.page.link/UAg1",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541668366863048700,
+					"id_str": "1541668366863048706",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUbNihUIAIA1wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUbNihUIAIA1wd.jpg",
+					"url": "https://t.co/esagcfjZ3R",
+					"display_url": "pic.twitter.com/esagcfjZ3R",
+					"expanded_url": "https://twitter.com/Whosfan_Ofcl/status/1541677905595379712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 865,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1477,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541668366863048700,
+					"id_str": "1541668366863048706",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUbNihUIAIA1wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUbNihUIAIA1wd.jpg",
+					"url": "https://t.co/esagcfjZ3R",
+					"display_url": "pic.twitter.com/esagcfjZ3R",
+					"expanded_url": "https://twitter.com/Whosfan_Ofcl/status/1541677905595379712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 865,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1477,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541668444973650000,
+					"id_str": "1541668444973649920",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUbSFgVUAAUM3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUbSFgVUAAUM3B.jpg",
+					"url": "https://t.co/esagcfjZ3R",
+					"display_url": "pic.twitter.com/esagcfjZ3R",
+					"expanded_url": "https://twitter.com/Whosfan_Ofcl/status/1541677905595379712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1420,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124219275370041300,
+			"id_str": "1124219275370041345",
+			"name": "Whosfan 후즈팬",
+			"screen_name": "Whosfan_Ofcl",
+			"location": "대한민국",
+			"description": "✩ 글로벌 케이팝 팬덤 플랫폼, 후즈팬 공식 트위터 계정\n✩ Whosfan, the Global K-pop Fandom Platform\n✩ Whosfan, la plataforma global para los fans del K-pop",
+			"url": "https://t.co/EJZtLfF2RT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJZtLfF2RT",
+							"expanded_url": "http://www.whosfan.io",
+							"display_url": "whosfan.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43838,
+			"friends_count": 116,
+			"listed_count": 130,
+			"created_at": "Fri May 03 07:48:57 +0000 2019",
+			"favourites_count": 6862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290179002078904320/g1j6qrv1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124219275370041345/1565679493",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 1102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎊이달의 소녀(LOONA) 사인 폴라로이드 EVENT🎊\n\n지금 #Whosfan 앱에서\n모바일로 LOONA 'Flip That' 오피셜 테마 카페 즐기고\n💚짱달소💚 사인 폴라로이드 받자!\n\n모바일 후즈팬 카페 입장하기\n▶ https://t.co/yvFDhEqXFE\n\n@loonatheworld \n#이달의소녀 #LOONA #후즈팬카페 #WhosfanCafe https://t.co/esagcfjZ3R"
+	},
+	{
 		"created_at": "Tue Jun 28 07:40:39 +0000 2022",
 		"id": 1541685239457927200,
 		"id_str": "1541688010072367106",
