@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 13:40:25 +0000 2022",
+		"id": 1541775053452636200,
+		"id_str": "1541778547282436096",
+		"full_text": "아무도 예상 못한 명창 현진의 급발진과 \n어쩐지 조오금 부끄러워 보이는 이달의 소녀 멤버들🙄\n내일 오후 6시, 실시간 채팅과 함께 만나요! \n\n#Goldenchild #장준 #AB6IX #전웅 #이달의소녀 #LOONA \n@loonatheworld https://t.co/FNAUUwtggD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Goldenchild",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "장준",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "전웅",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541774891615395800,
+					"id_str": "1541774891615395840",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FWV8GGJaIAAkC2H.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWV8GGJaIAAkC2H.jpg",
+					"url": "https://t.co/FNAUUwtggD",
+					"display_url": "pic.twitter.com/FNAUUwtggD",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1541775053452636160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541774891615395800,
+					"id_str": "1541774891615395840",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FWV8GGJaIAAkC2H.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWV8GGJaIAAkC2H.jpg",
+					"url": "https://t.co/FNAUUwtggD",
+					"display_url": "pic.twitter.com/FNAUUwtggD",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1541775053452636160/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FWV8GGJaIAAkC2H.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1383367901747454000,
+			"id_str": "1383367901747453967",
+			"name": "이게될까? 🤔",
+			"screen_name": "_ssap_possible",
+			"location": "",
+			"description": "이게될까? 공식 계정🤓 보고싶은 거 있으면 #이거내놔 태그해서 우리 불러요🔈👇🏻링크로 보러가기👇🏻본편은 카카오페이지에서",
+			"url": "https://t.co/EDerunkgfB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EDerunkgfB",
+							"expanded_url": "https://page.kakao.com/viewer/59723530",
+							"display_url": "page.kakao.com/viewer/59723530",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13271,
+			"friends_count": 5,
+			"listed_count": 28,
+			"created_at": "Sat Apr 17 10:33:30 +0000 2021",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428022571019096066/gCXX65YL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428022571019096066/gCXX65YL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1383367901747453967/1622224126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 2045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아무도 예상 못한 명창 현진의 급발진과 \n어쩐지 조오금 부끄러워 보이는 이달의 소녀 멤버들🙄\n내일 오후 6시, 실시간 채팅과 함께 만나요! \n\n#Goldenchild #장준 #AB6IX #전웅 #이달의소녀 #LOONA \n@loonatheworld https://t.co/FNAUUwtggD"
+	},
+	{
 		"created_at": "Tue Jun 28 12:45:36 +0000 2022",
 		"id": 1541760829854449700,
 		"id_str": "1541764754431262720",
