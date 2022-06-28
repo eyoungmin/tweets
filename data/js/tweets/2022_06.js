@@ -1,6 +1,2732 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 09:52:13 +0000 2022",
+		"id": 1541715439901745200,
+		"id_str": "1541721122021904384",
+		"full_text": "[#EVENT] 🎉 Happy Seo Hyun Day 🎉\n\n생일을 맞이해 팬분들을 위한 깜짝 이벤트를 준비한 서현 배우! (말해 모해 서다정...♥)\n'행운의 여신'이 준비한 이벤트가 궁금하시다면?\n나무엑터스 유튜브 커뮤니티에서 자세한 사항을 확인해 주세요~🎈\n\n#서현 #SEOHYUN #행운의여신_서현아_소원을말해봐 https://t.co/D6Ta3c2MXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "행운의여신_서현아_소원을말해봐",
+					"indices": [
+						160,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541715416195616800,
+					"id_str": "1541715416195616768",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541715416195616800,
+					"id_str": "1541715416195616768",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416426225700,
+					"id_str": "1541715416426225665",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGALzUIAEbqiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGALzUIAEbqiR.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416568844300,
+					"id_str": "1541715416568844288",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAMVUUAAgnRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAMVUUAAgnRO.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416904392700,
+					"id_str": "1541715416904392704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGANlUYAAGOpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGANlUYAAGOpw.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541715078663110700,
+		"in_reply_to_status_id_str": "1541715078663110656",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60889,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 503,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT] 🎉 Happy Seo Hyun Day 🎉\n\n생일을 맞이해 팬분들을 위한 깜짝 이벤트를 준비한 서현 배우! (말해 모해 서다정...♥)\n'행운의 여신'이 준비한 이벤트가 궁금하시다면?\n나무엑터스 유튜브 커뮤니티에서 자세한 사항을 확인해 주세요~🎈\n\n#서현 #SEOHYUN #행운의여신_서현아_소원을말해봐 https://t.co/D6Ta3c2MXF"
+	},
+	{
+		"created_at": "Tue Jun 28 09:46:01 +0000 2022",
+		"id": 1541710104177037300,
+		"id_str": "1541719559568343042",
+		"full_text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/xO3Oerrgrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541710097545834500,
+					"id_str": "1541710097545834496",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBKlbaMAASxCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBKlbaMAASxCa.jpg",
+					"url": "https://t.co/xO3Oerrgrz",
+					"display_url": "pic.twitter.com/xO3Oerrgrz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710104177037312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541710097545834500,
+					"id_str": "1541710097545834496",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBKlbaMAASxCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBKlbaMAASxCa.jpg",
+					"url": "https://t.co/xO3Oerrgrz",
+					"display_url": "pic.twitter.com/xO3Oerrgrz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710104177037312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710097554223000,
+					"id_str": "1541710097554223105",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBKldaMAEZcNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBKldaMAEZcNF.jpg",
+					"url": "https://t.co/xO3Oerrgrz",
+					"display_url": "pic.twitter.com/xO3Oerrgrz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710104177037312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710097621352400,
+					"id_str": "1541710097621352448",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBKltagAA98d5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBKltagAA98d5.jpg",
+					"url": "https://t.co/xO3Oerrgrz",
+					"display_url": "pic.twitter.com/xO3Oerrgrz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710104177037312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710097579413500,
+					"id_str": "1541710097579413505",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBKljakAEmx-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBKljakAEmx-y.jpg",
+					"url": "https://t.co/xO3Oerrgrz",
+					"display_url": "pic.twitter.com/xO3Oerrgrz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710104177037312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 535,
+		"favorite_count": 1445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/xO3Oerrgrz"
+	},
+	{
+		"created_at": "Tue Jun 28 09:45:55 +0000 2022",
+		"id": 1541710072577138700,
+		"id_str": "1541719533869727745",
+		"full_text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/ZHoRlxd6Ud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541710065878864000,
+					"id_str": "1541710065878863878",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBIvdakAYK5Gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBIvdakAYK5Gp.jpg",
+					"url": "https://t.co/ZHoRlxd6Ud",
+					"display_url": "pic.twitter.com/ZHoRlxd6Ud",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710072577138688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541710065878864000,
+					"id_str": "1541710065878863878",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBIvdakAYK5Gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBIvdakAYK5Gp.jpg",
+					"url": "https://t.co/ZHoRlxd6Ud",
+					"display_url": "pic.twitter.com/ZHoRlxd6Ud",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710072577138688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710065883054000,
+					"id_str": "1541710065883054080",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBIveagAAP3To.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBIveagAAP3To.jpg",
+					"url": "https://t.co/ZHoRlxd6Ud",
+					"display_url": "pic.twitter.com/ZHoRlxd6Ud",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710072577138688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1713,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710065874661400,
+					"id_str": "1541710065874661376",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBIvcacAAT-bK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBIvcacAAT-bK.jpg",
+					"url": "https://t.co/ZHoRlxd6Ud",
+					"display_url": "pic.twitter.com/ZHoRlxd6Ud",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710072577138688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710065866260500,
+					"id_str": "1541710065866260480",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBIvaaQAAEues.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBIvaaQAAEues.jpg",
+					"url": "https://t.co/ZHoRlxd6Ud",
+					"display_url": "pic.twitter.com/ZHoRlxd6Ud",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710072577138688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 569,
+		"favorite_count": 1554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/ZHoRlxd6Ud"
+	},
+	{
+		"created_at": "Tue Jun 28 09:45:50 +0000 2022",
+		"id": 1541710031686897700,
+		"id_str": "1541719512495669250",
+		"full_text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/0ddgtiEsiW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541710024690774000,
+					"id_str": "1541710024690774017",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBGWBaMAEKG05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBGWBaMAEKG05.jpg",
+					"url": "https://t.co/0ddgtiEsiW",
+					"display_url": "pic.twitter.com/0ddgtiEsiW",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710031686897664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541710024690774000,
+					"id_str": "1541710024690774017",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBGWBaMAEKG05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBGWBaMAEKG05.jpg",
+					"url": "https://t.co/0ddgtiEsiW",
+					"display_url": "pic.twitter.com/0ddgtiEsiW",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710031686897664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710024674017300,
+					"id_str": "1541710024674017282",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBGV9agAIwyP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBGV9agAIwyP2.jpg",
+					"url": "https://t.co/0ddgtiEsiW",
+					"display_url": "pic.twitter.com/0ddgtiEsiW",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710031686897664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710024665632800,
+					"id_str": "1541710024665632768",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBGV7akAAIpKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBGV7akAAIpKI.jpg",
+					"url": "https://t.co/0ddgtiEsiW",
+					"display_url": "pic.twitter.com/0ddgtiEsiW",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710031686897664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541710024703361000,
+					"id_str": "1541710024703361024",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBGWEaQAAHtZm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBGWEaQAAHtZm.jpg",
+					"url": "https://t.co/0ddgtiEsiW",
+					"display_url": "pic.twitter.com/0ddgtiEsiW",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541710031686897664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 657,
+		"favorite_count": 2048,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[★EP. 300 THE SHOW CHOICE NOMINEE②]\nTo see ✨Visual Michelin✨ LOONA, Open Run is essential..\nSo THE SHOW was in the waiting line since past life\n\n#THESHOW #LOONA #FlipThat @loonatheworld https://t.co/0ddgtiEsiW"
+	},
+	{
+		"created_at": "Tue Jun 28 09:40:39 +0000 2022",
+		"id": 1541709980331810800,
+		"id_str": "1541718211091120128",
+		"full_text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/z5JTzdnFxO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541709973272821800,
+					"id_str": "1541709973272821760",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBDWeagAA53pg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBDWeagAA53pg.jpg",
+					"url": "https://t.co/z5JTzdnFxO",
+					"display_url": "pic.twitter.com/z5JTzdnFxO",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709980331810817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541709973272821800,
+					"id_str": "1541709973272821760",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBDWeagAA53pg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBDWeagAA53pg.jpg",
+					"url": "https://t.co/z5JTzdnFxO",
+					"display_url": "pic.twitter.com/z5JTzdnFxO",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709980331810817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709973260234800,
+					"id_str": "1541709973260234752",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBDWbacAAnz4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBDWbacAAnz4n.jpg",
+					"url": "https://t.co/z5JTzdnFxO",
+					"display_url": "pic.twitter.com/z5JTzdnFxO",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709980331810817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709973256011800,
+					"id_str": "1541709973256011776",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBDWaaAAAaAAW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBDWaaAAAaAAW.jpg",
+					"url": "https://t.co/z5JTzdnFxO",
+					"display_url": "pic.twitter.com/z5JTzdnFxO",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709980331810817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709973247635500,
+					"id_str": "1541709973247635456",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVBDWYaMAAHEdq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVBDWYaMAAHEdq.jpg",
+					"url": "https://t.co/z5JTzdnFxO",
+					"display_url": "pic.twitter.com/z5JTzdnFxO",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709980331810817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1073,
+		"favorite_count": 3104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/z5JTzdnFxO"
+	},
+	{
+		"created_at": "Tue Jun 28 09:40:31 +0000 2022",
+		"id": 1541709915005538300,
+		"id_str": "1541718176857219073",
+		"full_text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/kfzjZya1lB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541709906038116400,
+					"id_str": "1541709906038116353",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA_cAaUAEM4_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA_cAaUAEM4_9.jpg",
+					"url": "https://t.co/kfzjZya1lB",
+					"display_url": "pic.twitter.com/kfzjZya1lB",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709915005538306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541709906038116400,
+					"id_str": "1541709906038116353",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA_cAaUAEM4_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA_cAaUAEM4_9.jpg",
+					"url": "https://t.co/kfzjZya1lB",
+					"display_url": "pic.twitter.com/kfzjZya1lB",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709915005538306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709906142974000,
+					"id_str": "1541709906142973953",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA_cZaUAEtfCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA_cZaUAEtfCS.jpg",
+					"url": "https://t.co/kfzjZya1lB",
+					"display_url": "pic.twitter.com/kfzjZya1lB",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709915005538306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1713,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709906059096000,
+					"id_str": "1541709906059096064",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA_cFacAAh9X3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA_cFacAAh9X3.jpg",
+					"url": "https://t.co/kfzjZya1lB",
+					"display_url": "pic.twitter.com/kfzjZya1lB",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709915005538306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709906059104300,
+					"id_str": "1541709906059104256",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA_cFakAAZBY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA_cFakAAZBY1.jpg",
+					"url": "https://t.co/kfzjZya1lB",
+					"display_url": "pic.twitter.com/kfzjZya1lB",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709915005538306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1121,
+		"favorite_count": 3286,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/kfzjZya1lB"
+	},
+	{
+		"created_at": "Tue Jun 28 09:40:28 +0000 2022",
+		"id": 1541709878938714000,
+		"id_str": "1541718163691282433",
+		"full_text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/PjFgKGikvJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541709872156524500,
+					"id_str": "1541709872156524544",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA9dyaQAAXJ4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA9dyaQAAXJ4R.jpg",
+					"url": "https://t.co/PjFgKGikvJ",
+					"display_url": "pic.twitter.com/PjFgKGikvJ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709878938714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541709872156524500,
+					"id_str": "1541709872156524544",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA9dyaQAAXJ4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA9dyaQAAXJ4R.jpg",
+					"url": "https://t.co/PjFgKGikvJ",
+					"display_url": "pic.twitter.com/PjFgKGikvJ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709878938714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709872160739300,
+					"id_str": "1541709872160739329",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA9dzakAE6wBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA9dzakAE6wBU.jpg",
+					"url": "https://t.co/PjFgKGikvJ",
+					"display_url": "pic.twitter.com/PjFgKGikvJ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709878938714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709872160739300,
+					"id_str": "1541709872160739328",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA9dzakAAtxnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA9dzakAAtxnH.jpg",
+					"url": "https://t.co/PjFgKGikvJ",
+					"display_url": "pic.twitter.com/PjFgKGikvJ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709878938714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541709872143937500,
+					"id_str": "1541709872143937536",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVA9dvaMAAflGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVA9dvaMAAflGP.jpg",
+					"url": "https://t.co/PjFgKGikvJ",
+					"display_url": "pic.twitter.com/PjFgKGikvJ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1541709878938714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054817,
+			"friends_count": 123,
+			"listed_count": 1783,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 995,
+		"favorite_count": 2898,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[★300회 더쇼초이스 후보②]\n✨얼굴맛집✨ 짱달소 보려면 오픈런 필수래서 \n더쇼가 전생부터 웨이팅했잖아\n\n#THESHOW #더쇼 #이달의소녀 #FlipThat @loonatheworld https://t.co/PjFgKGikvJ"
+	},
+	{
+		"created_at": "Tue Jun 28 09:40:10 +0000 2022",
+		"id": 1541708146413957000,
+		"id_str": "1541718086964973568",
+		"full_text": "햇살🌞은 비추고\n우린 세경씨만 바라봐💛\n우주를 비행하는 미래 우주인 세경과\n폴킴이 함께한 One more time MV\n비하인드는 쓱크립트에서!🥰\n\n📝 https://t.co/xU5EBtLAeE\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/OO4vR1AB3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xU5EBtLAeE",
+					"expanded_url": "https://youtu.be/p4wwG3S7bJA",
+					"display_url": "youtu.be/p4wwG3S7bJA",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541708132489244700,
+					"id_str": "1541708132489244678",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU_YNBaMAYqwUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU_YNBaMAYqwUV.jpg",
+					"url": "https://t.co/OO4vR1AB3n",
+					"display_url": "pic.twitter.com/OO4vR1AB3n",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1541708146413957120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541708132489244700,
+					"id_str": "1541708132489244678",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FWU_YNBaMAYqwUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWU_YNBaMAYqwUV.jpg",
+					"url": "https://t.co/OO4vR1AB3n",
+					"display_url": "pic.twitter.com/OO4vR1AB3n",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1541708146413957120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4405,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "햇살🌞은 비추고\n우린 세경씨만 바라봐💛\n우주를 비행하는 미래 우주인 세경과\n폴킴이 함께한 One more time MV\n비하인드는 쓱크립트에서!🥰\n\n📝 https://t.co/xU5EBtLAeE\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/OO4vR1AB3n"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:45 +0000 2022",
+		"id": 1541715078663110700,
+		"id_str": "1541715468008005632",
+		"full_text": "[#🌳] 생일 주인공은 내가 할게, 선물은 누가 받아갈래? #해피서현데이 🥳\n▶ https://t.co/c5AgXpXcdc\n\n#서현 #SEOHYUN #NAMOOCONTENTS #행운의여신_서현아_소원을말해봐 https://t.co/TtR2dy84Pt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피서현데이",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "행운의여신_서현아_소원을말해봐",
+					"indices": [
+						98,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5AgXpXcdc",
+					"expanded_url": "https://youtu.be/MvbeKUlat0s",
+					"display_url": "youtu.be/MvbeKUlat0s",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541711178446938000,
+					"id_str": "1541711178446938112",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVCJgGUIAAvAyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVCJgGUIAAvAyE.jpg",
+					"url": "https://t.co/TtR2dy84Pt",
+					"display_url": "pic.twitter.com/TtR2dy84Pt",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715078663110656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541711178446938000,
+					"id_str": "1541711178446938112",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVCJgGUIAAvAyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVCJgGUIAAvAyE.jpg",
+					"url": "https://t.co/TtR2dy84Pt",
+					"display_url": "pic.twitter.com/TtR2dy84Pt",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715078663110656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60889,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] 생일 주인공은 내가 할게, 선물은 누가 받아갈래? #해피서현데이 🥳\n▶ https://t.co/c5AgXpXcdc\n\n#서현 #SEOHYUN #NAMOOCONTENTS #행운의여신_서현아_소원을말해봐 https://t.co/TtR2dy84Pt"
+	},
+	{
+		"created_at": "Tue Jun 28 09:29:38 +0000 2022",
+		"id": 1541708620282601500,
+		"id_str": "1541715438198980608",
+		"full_text": "[#VIDEO] 드라마보다 더 설레는 인터뷰가 있다? 서현&amp;나인우 러블리 핑퐁 인터뷰!\n▶ https://t.co/UEjxqcy9dU\n\n#서현 #싱글즈 #SEOHYUN #Singles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "Singles",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UEjxqcy9dU",
+					"expanded_url": "https://youtu.be/5mMHNHuCFmo",
+					"display_url": "youtu.be/5mMHNHuCFmo",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60889,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 드라마보다 더 설레는 인터뷰가 있다? 서현&amp;나인우 러블리 핑퐁 인터뷰!\n▶ https://t.co/UEjxqcy9dU\n\n#서현 #싱글즈 #SEOHYUN #Singles"
+	},
+	{
 		"created_at": "Tue Jun 28 08:45:37 +0000 2022",
 		"id": 1541704282679824400,
 		"id_str": "1541704358777217025",
