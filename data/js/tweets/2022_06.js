@@ -1,6 +1,1612 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 05:45:51 +0000 2022",
+		"id": 1541647829134782500,
+		"id_str": "1541659119043710976",
+		"full_text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #희진 💌\n\n이달의 소녀 희진에게 무엇이든 물어보세요💬\n올라운더 요정💗 희진이가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #HeeJin #LOONA #엠넷 https://t.co/3x8u1puDFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						169,
+						171
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						191,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541647535051137000,
+					"id_str": "1541647535051137025",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIQ9-UYAE6OLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIQ9-UYAE6OLa.jpg",
+					"url": "https://t.co/3x8u1puDFR",
+					"display_url": "pic.twitter.com/3x8u1puDFR",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647829134782464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541647535051137000,
+					"id_str": "1541647535051137025",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIQ9-UYAE6OLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIQ9-UYAE6OLa.jpg",
+					"url": "https://t.co/3x8u1puDFR",
+					"display_url": "pic.twitter.com/3x8u1puDFR",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647829134782464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647541984407600,
+					"id_str": "1541647541984407553",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIRXzVsAEajPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIRXzVsAEajPV.jpg",
+					"url": "https://t.co/3x8u1puDFR",
+					"display_url": "pic.twitter.com/3x8u1puDFR",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647829134782464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647597604987000,
+					"id_str": "1541647597604986881",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIUnAUYAEopON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIUnAUYAEopON.jpg",
+					"url": "https://t.co/3x8u1puDFR",
+					"display_url": "pic.twitter.com/3x8u1puDFR",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647829134782464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647606111019000,
+					"id_str": "1541647606111019008",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIVGsUIAAm-hR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIVGsUIAAm-hR.jpg",
+					"url": "https://t.co/3x8u1puDFR",
+					"display_url": "pic.twitter.com/3x8u1puDFR",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647829134782464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066146,
+			"friends_count": 20909,
+			"listed_count": 3031,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #희진 💌\n\n이달의 소녀 희진에게 무엇이든 물어보세요💬\n올라운더 요정💗 희진이가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #HeeJin #LOONA #엠넷 https://t.co/3x8u1puDFR"
+	},
+	{
+		"created_at": "Tue Jun 28 05:45:49 +0000 2022",
+		"id": 1541647327483465700,
+		"id_str": "1541659110130728960",
+		"full_text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #최리 💌\n\n이달의 소녀 최리에게 무엇이든 물어보세요💬\n상콤 팡팡💜 최리가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #최리 #Choerry #LOONA #엠넷 https://t.co/Eb4MzTCEtu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						166,
+						168
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541647239050760200,
+					"id_str": "1541647239050760193",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUH_vSVEAEnMUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUH_vSVEAEnMUE.jpg",
+					"url": "https://t.co/Eb4MzTCEtu",
+					"display_url": "pic.twitter.com/Eb4MzTCEtu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647327483465728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541647239050760200,
+					"id_str": "1541647239050760193",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUH_vSVEAEnMUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUH_vSVEAEnMUE.jpg",
+					"url": "https://t.co/Eb4MzTCEtu",
+					"display_url": "pic.twitter.com/Eb4MzTCEtu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647327483465728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647246617260000,
+					"id_str": "1541647246617260032",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIALeUsAAiom0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIALeUsAAiom0.jpg",
+					"url": "https://t.co/Eb4MzTCEtu",
+					"display_url": "pic.twitter.com/Eb4MzTCEtu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647327483465728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647254158577700,
+					"id_str": "1541647254158577665",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIAnkUEAE3KB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIAnkUEAE3KB3.jpg",
+					"url": "https://t.co/Eb4MzTCEtu",
+					"display_url": "pic.twitter.com/Eb4MzTCEtu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647327483465728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541647262454993000,
+					"id_str": "1541647262454992896",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUIBGeVUAAPTLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUIBGeVUAAPTLl.jpg",
+					"url": "https://t.co/Eb4MzTCEtu",
+					"display_url": "pic.twitter.com/Eb4MzTCEtu",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541647327483465728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066146,
+			"friends_count": 20909,
+			"listed_count": 3031,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #최리 💌\n\n이달의 소녀 최리에게 무엇이든 물어보세요💬\n상콤 팡팡💜 최리가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #최리 #Choerry #LOONA #엠넷 https://t.co/Eb4MzTCEtu"
+	},
+	{
+		"created_at": "Tue Jun 28 05:45:46 +0000 2022",
+		"id": 1541646769146044400,
+		"id_str": "1541659097061359616",
+		"full_text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #이브 💌\n\n이달의 소녀 이브에게 무엇이든 물어보세요💬\n인간 에리얼💖 이브가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #이브 #Yves #LOONA #엠넷 https://t.co/pINEq03lV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						167,
+						169
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						191,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541646666188456000,
+					"id_str": "1541646666188455937",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHeZNUAAExw71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHeZNUAAExw71.jpg",
+					"url": "https://t.co/pINEq03lV1",
+					"display_url": "pic.twitter.com/pINEq03lV1",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646769146044418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541646666188456000,
+					"id_str": "1541646666188455937",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHeZNUAAExw71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHeZNUAAExw71.jpg",
+					"url": "https://t.co/pINEq03lV1",
+					"display_url": "pic.twitter.com/pINEq03lV1",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646769146044418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646675445371000,
+					"id_str": "1541646675445370880",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHe7sVUAATA7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHe7sVUAATA7u.jpg",
+					"url": "https://t.co/pINEq03lV1",
+					"display_url": "pic.twitter.com/pINEq03lV1",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646769146044418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646684404404200,
+					"id_str": "1541646684404404224",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHfdEVUAAYmDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHfdEVUAAYmDH.jpg",
+					"url": "https://t.co/pINEq03lV1",
+					"display_url": "pic.twitter.com/pINEq03lV1",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646769146044418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646693573152800,
+					"id_str": "1541646693573152768",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHf_OVUAA2s3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHf_OVUAA2s3F.jpg",
+					"url": "https://t.co/pINEq03lV1",
+					"display_url": "pic.twitter.com/pINEq03lV1",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646769146044418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066146,
+			"friends_count": 20909,
+			"listed_count": 3031,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #이브 💌\n\n이달의 소녀 이브에게 무엇이든 물어보세요💬\n인간 에리얼💖 이브가 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #이브 #Yves #LOONA #엠넷 https://t.co/pINEq03lV1"
+	},
+	{
+		"created_at": "Tue Jun 28 05:45:36 +0000 2022",
+		"id": 1541646470473846800,
+		"id_str": "1541659058805014528",
+		"full_text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #김립 💌\n\n이달의 소녀 김립에게 무엇이든 물어보세요💬\n❣큐티=립❣ 김립이 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #김립 #KimLip #LOONA #엠넷 https://t.co/e34WIKNGbo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						166,
+						168
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541646369160433700,
+					"id_str": "1541646369160433664",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHNGsUEAAcxON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHNGsUEAAcxON.jpg",
+					"url": "https://t.co/e34WIKNGbo",
+					"display_url": "pic.twitter.com/e34WIKNGbo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646470473846784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541646369160433700,
+					"id_str": "1541646369160433664",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHNGsUEAAcxON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHNGsUEAAcxON.jpg",
+					"url": "https://t.co/e34WIKNGbo",
+					"display_url": "pic.twitter.com/e34WIKNGbo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646470473846784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646376202686500,
+					"id_str": "1541646376202686464",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHNg7UUAACgtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHNg7UUAACgtd.jpg",
+					"url": "https://t.co/e34WIKNGbo",
+					"display_url": "pic.twitter.com/e34WIKNGbo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646470473846784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646386222944300,
+					"id_str": "1541646386222944256",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHOGQVUAAmYMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHOGQVUAAmYMp.jpg",
+					"url": "https://t.co/e34WIKNGbo",
+					"display_url": "pic.twitter.com/e34WIKNGbo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646470473846784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541646394871623700,
+					"id_str": "1541646394871623681",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUHOmeVsAEcnRJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUHOmeVsAEcnRJ.jpg",
+					"url": "https://t.co/e34WIKNGbo",
+					"display_url": "pic.twitter.com/e34WIKNGbo",
+					"expanded_url": "https://twitter.com/MnetKR/status/1541646470473846784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066146,
+			"friends_count": 20909,
+			"listed_count": 3031,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW] T.물.보 with #이달의소녀 #김립 💌\n\n이달의 소녀 김립에게 무엇이든 물어보세요💬\n❣큐티=립❣ 김립이 직접 알려주는 TMI!\n\n내일 (수) 저녁 8시 본.방.사.수🔥\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #김립 #KimLip #LOONA #엠넷 https://t.co/e34WIKNGbo"
+	},
+	{
+		"created_at": "Tue Jun 28 05:40:10 +0000 2022",
+		"id": 1541657289769115600,
+		"id_str": "1541657687804583941",
+		"full_text": "D-7!\n소녀시대의 탐나는 예능 정복기\n&lt;소시탐탐&gt; 7/5(화) 밤 9시 첫 방송\n\nGirls' Generation's variety show &lt;소시탐탐&gt;'s first episode to air on July 5th at 9PM KST!\n\n#소녀시대 #GirlsGeneration \n#소시탐탐 https://t.co/Hnsboiy3SM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						153,
+						169
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541657037959925800,
+					"id_str": "1541657037959925760",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUQ6HEVEAA8DFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUQ6HEVEAA8DFe.jpg",
+					"url": "https://t.co/Hnsboiy3SM",
+					"display_url": "pic.twitter.com/Hnsboiy3SM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1541657289769115649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541657037959925800,
+					"id_str": "1541657037959925760",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUQ6HEVEAA8DFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUQ6HEVEAA8DFe.jpg",
+					"url": "https://t.co/Hnsboiy3SM",
+					"display_url": "pic.twitter.com/Hnsboiy3SM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1541657289769115649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3775422,
+			"friends_count": 5,
+			"listed_count": 5952,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5203,
+		"favorite_count": 6758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-7!\n소녀시대의 탐나는 예능 정복기\n&lt;소시탐탐&gt; 7/5(화) 밤 9시 첫 방송\n\nGirls' Generation's variety show &lt;소시탐탐&gt;'s first episode to air on July 5th at 9PM KST!\n\n#소녀시대 #GirlsGeneration \n#소시탐탐 https://t.co/Hnsboiy3SM"
+	},
+	{
 		"created_at": "Tue Jun 28 04:45:37 +0000 2022",
 		"id": 1541640686134472700,
 		"id_str": "1541643959814045697",
