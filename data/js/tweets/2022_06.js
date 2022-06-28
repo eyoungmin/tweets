@@ -1,6 +1,881 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 02:52:05 +0000 2022",
+		"id": 1541609831458406400,
+		"id_str": "1541615391268425729",
+		"full_text": "[#NEWS] 서현-나인우, '징크스'가 아닌 '행운의 연인'이었네!\n▶ https://t.co/noDzJ7KTwI\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ndL8USyjyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/noDzJ7KTwI",
+					"expanded_url": "https://bit.ly/3y1GPMe",
+					"display_url": "bit.ly/3y1GPMe",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541602916154323000,
+					"id_str": "1541602916154322944",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTfrzoVsAAjhTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTfrzoVsAAjhTq.jpg",
+					"url": "https://t.co/ndL8USyjyP",
+					"display_url": "pic.twitter.com/ndL8USyjyP",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541609831458406401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541602916154323000,
+					"id_str": "1541602916154322944",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTfrzoVsAAjhTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTfrzoVsAAjhTq.jpg",
+					"url": "https://t.co/ndL8USyjyP",
+					"display_url": "pic.twitter.com/ndL8USyjyP",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541609831458406401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541602916246556700,
+					"id_str": "1541602916246556672",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTfrz-VEAAVGf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTfrz-VEAAVGf-.jpg",
+					"url": "https://t.co/ndL8USyjyP",
+					"display_url": "pic.twitter.com/ndL8USyjyP",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541609831458406401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541602946747494400,
+					"id_str": "1541602946747494400",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTftlmUcAADzWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTftlmUcAADzWA.jpg",
+					"url": "https://t.co/ndL8USyjyP",
+					"display_url": "pic.twitter.com/ndL8USyjyP",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541609831458406401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60864,
+			"friends_count": 12,
+			"listed_count": 270,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현-나인우, '징크스'가 아닌 '행운의 연인'이었네!\n▶ https://t.co/noDzJ7KTwI\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ndL8USyjyP"
+	},
+	{
+		"created_at": "Tue Jun 28 02:40:24 +0000 2022",
+		"id": 1541608360281157600,
+		"id_str": "1541612449941561344",
+		"full_text": "#aespa will open for the ‘#GoodMorningAmerica’ Summer Concert Series 2022 on July 8 as the first K-pop girl group to attend! They will be revealing their first ever stage of ‘#Girls’ through a spectacular performance! \n\nhttps://t.co/DV4gtkIcmh\n\n#GMA #LifesTooShort #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "GoodMorningAmerica",
+					"indices": [
+						26,
+						45
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "GMA",
+					"indices": [
+						245,
+						249
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						250,
+						264
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						265,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DV4gtkIcmh",
+					"expanded_url": "https://bit.ly/3OC3Koa",
+					"display_url": "bit.ly/3OC3Koa",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541608357680689200,
+		"in_reply_to_status_id_str": "1541608357680689162",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2824195,
+			"friends_count": 2,
+			"listed_count": 8806,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 889,
+		"favorite_count": 2797,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa will open for the ‘#GoodMorningAmerica’ Summer Concert Series 2022 on July 8 as the first K-pop girl group to attend! They will be revealing their first ever stage of ‘#Girls’ through a spectacular performance! \n\nhttps://t.co/DV4gtkIcmh\n\n#GMA #LifesTooShort #aespa_Girls"
+	},
+	{
+		"created_at": "Tue Jun 28 02:40:18 +0000 2022",
+		"id": 1541608357680689200,
+		"id_str": "1541612424276623361",
+		"full_text": "에스파, 7월 8일 美 ‘GMA 서머 콘서트 시리즈 2022’ 오프닝 연다! K팝 걸그룹 최초 출연!\n신곡 ‘Girls’ 무대 최초 공개! 화려한 퍼포먼스 선사 예고!\n\nhttps://t.co/DV4gtkIcmh\n\n#aespa #æspa #에스파 \n#GMA #GoodMorningAmerica\n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls https://t.co/raWvVBRMP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "GMA",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "GoodMorningAmerica",
+					"indices": [
+						144,
+						163
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						203,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DV4gtkIcmh",
+					"expanded_url": "https://bit.ly/3OC3Koa",
+					"display_url": "bit.ly/3OC3Koa",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541608210628456400,
+					"id_str": "1541608210628456448",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTkf_FVsAApW3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTkf_FVsAApW3T.jpg",
+					"url": "https://t.co/raWvVBRMP0",
+					"display_url": "pic.twitter.com/raWvVBRMP0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541608357680689162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541608210628456400,
+					"id_str": "1541608210628456448",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTkf_FVsAApW3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTkf_FVsAApW3T.jpg",
+					"url": "https://t.co/raWvVBRMP0",
+					"display_url": "pic.twitter.com/raWvVBRMP0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541608357680689162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2824195,
+			"friends_count": 2,
+			"listed_count": 8806,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2358,
+		"favorite_count": 7356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 7월 8일 美 ‘GMA 서머 콘서트 시리즈 2022’ 오프닝 연다! K팝 걸그룹 최초 출연!\n신곡 ‘Girls’ 무대 최초 공개! 화려한 퍼포먼스 선사 예고!\n\nhttps://t.co/DV4gtkIcmh\n\n#aespa #æspa #에스파 \n#GMA #GoodMorningAmerica\n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls https://t.co/raWvVBRMP0"
+	},
+	{
+		"created_at": "Tue Jun 28 02:40:10 +0000 2022",
+		"id": 1541608011487416300,
+		"id_str": "1541612390189596673",
+		"full_text": "[#이달의소녀]\n2022.06.28 (화) 더쇼 사녹 인원체크 안내📣\n\n✔️줄 서는 시간 11:50AM\n✔️번호 배부 시간 12:00PM\n\n사진 속 장소에서 10분 전까지 번호대로 줄을 서주시기 바랍니다.\n\n#LOONA https://t.co/5rS8JmgSVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541607997721710600,
+					"id_str": "1541607997721710592",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTkTl8akAAUsWr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTkTl8akAAUsWr.jpg",
+					"url": "https://t.co/5rS8JmgSVv",
+					"display_url": "pic.twitter.com/5rS8JmgSVv",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1541608011487416326/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541607997721710600,
+					"id_str": "1541607997721710592",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FWTkTl8akAAUsWr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWTkTl8akAAUsWr.jpg",
+					"url": "https://t.co/5rS8JmgSVv",
+					"display_url": "pic.twitter.com/5rS8JmgSVv",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1541608011487416326/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31918,
+			"friends_count": 1,
+			"listed_count": 548,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀]\n2022.06.28 (화) 더쇼 사녹 인원체크 안내📣\n\n✔️줄 서는 시간 11:50AM\n✔️번호 배부 시간 12:00PM\n\n사진 속 장소에서 10분 전까지 번호대로 줄을 서주시기 바랍니다.\n\n#LOONA https://t.co/5rS8JmgSVv"
+	},
+	{
 		"created_at": "Mon Jun 27 23:40:35 +0000 2022",
 		"id": 1540620815108116500,
 		"id_str": "1541567197457309696",
