@@ -1,6 +1,798 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 23:40:35 +0000 2022",
+		"id": 1540620815108116500,
+		"id_str": "1541567197457309696",
+		"full_text": "첫 영어 싱글로 돌아온 에스파💚\n\n인생을 후회 없이 즐기겠다는 \n에스파의 외침 [Life’s Too Short]를\n지금 #스포티파이 에서 들어보세요!\nhttps://t.co/oHRYBrSnIF  \n\n@aespa_official #aespa \n#에스파 #LifesTooShort https://t.co/zaaACuF7P2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						140,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oHRYBrSnIF",
+					"expanded_url": "http://spotify.link/0gfrFFZm7qb",
+					"display_url": "spotify.link/0gfrFFZm7qb",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540275236599627800,
+					"id_str": "1540275236599627776",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540275236599627776/pu/img/PTrraLW5L0aMEGug.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540275236599627776/pu/img/PTrraLW5L0aMEGug.jpg",
+					"url": "https://t.co/zaaACuF7P2",
+					"display_url": "pic.twitter.com/zaaACuF7P2",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1540620815108116480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540275236599627800,
+					"id_str": "1540275236599627776",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540275236599627776/pu/img/PTrraLW5L0aMEGug.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540275236599627776/pu/img/PTrraLW5L0aMEGug.jpg",
+					"url": "https://t.co/zaaACuF7P2",
+					"display_url": "pic.twitter.com/zaaACuF7P2",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1540620815108116480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12979,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540275236599627776/pu/vid/720x1280/_zUKZgTUEpKM-Tsj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1540275236599627776/pu/pl/TvE2z5_SKrxeTaac.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540275236599627776/pu/vid/480x852/N_-qmKBmZgSkKLgE.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540275236599627776/pu/vid/320x568/lqHFBlQcu829R2ui.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/3A5aX8S14h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3A5aX8S14h",
+							"expanded_url": "https://spotify.link/AI7hay2nQqb",
+							"display_url": "spotify.link/AI7hay2nQqb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114668,
+			"friends_count": 0,
+			"listed_count": 84,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1789,
+		"favorite_count": 5630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫 영어 싱글로 돌아온 에스파💚\n\n인생을 후회 없이 즐기겠다는 \n에스파의 외침 [Life’s Too Short]를\n지금 #스포티파이 에서 들어보세요!\nhttps://t.co/oHRYBrSnIF  \n\n@aespa_official #aespa \n#에스파 #LifesTooShort https://t.co/zaaACuF7P2"
+	},
+	{
+		"created_at": "Mon Jun 27 23:40:26 +0000 2022",
+		"id": 1540379223814291500,
+		"id_str": "1541567159184269312",
+		"full_text": "#aespa's first all-English single is now available to stream for free on #Anghami 😍\nFollow the link below and enjoy listening to #LifesTooShort \n\n🔗 https://t.co/vy6qleXeNs 🔗\n\n@aespa_official https://t.co/XA0mbqyzPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Anghami",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						175,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vy6qleXeNs",
+					"expanded_url": "http://g.angha.me/7yon56gl",
+					"display_url": "g.angha.me/7yon56gl",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540252445711925200,
+					"id_str": "1540252445711925248",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FWAT08xXEAE02h5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWAT08xXEAE02h5.jpg",
+					"url": "https://t.co/XA0mbqyzPz",
+					"display_url": "pic.twitter.com/XA0mbqyzPz",
+					"expanded_url": "https://twitter.com/anghami/status/1540379223814291457/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540252445711925200,
+					"id_str": "1540252445711925248",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FWAT08xXEAE02h5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWAT08xXEAE02h5.jpg",
+					"url": "https://t.co/XA0mbqyzPz",
+					"display_url": "pic.twitter.com/XA0mbqyzPz",
+					"expanded_url": "https://twitter.com/anghami/status/1540379223814291457/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11030,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1540252445711925248/vid/320x320/2E_MrD3rjNHPc1MP.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1540252445711925248/vid/720x720/OKMZhMxstkneS4xO.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1540252445711925248/pl/T487wQ-4PU6DdLjf.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1540252445711925248/vid/540x540/IzsM_MxLdRt8FORa.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273360241,
+			"id_str": "273360241",
+			"name": "Anghami",
+			"screen_name": "anghami",
+			"location": "",
+			"description": "The world is listening. For support @anghamicare",
+			"url": "https://t.co/FoHKDexrip",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FoHKDexrip",
+							"expanded_url": "https://play.anghami.com/home",
+							"display_url": "play.anghami.com/home",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 909833,
+			"friends_count": 4646,
+			"listed_count": 404,
+			"created_at": "Mon Mar 28 10:21:49 +0000 2011",
+			"favourites_count": 29475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499312039616995330/y1pa2euL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499312039616995330/y1pa2euL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273360241/1651587494",
+			"profile_link_color": "92278F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1327,
+		"favorite_count": 4129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa's first all-English single is now available to stream for free on #Anghami 😍\nFollow the link below and enjoy listening to #LifesTooShort \n\n🔗 https://t.co/vy6qleXeNs 🔗\n\n@aespa_official https://t.co/XA0mbqyzPz"
+	},
+	{
+		"created_at": "Mon Jun 27 23:40:17 +0000 2022",
+		"id": 1540356575084175400,
+		"id_str": "1541567120819077125",
+		"full_text": ".@aespa_official have a message for you! ❤️ Stream their new single 'Life's Too Short' now: https://t.co/2pSI02yWHs #aespa #æspa \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls #RadarWeekly https://t.co/1E2PviBq6Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						130,
+						144
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "RadarWeekly",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2pSI02yWHs",
+					"expanded_url": "https://dzr.lnk.to/LifesTooShortTW",
+					"display_url": "dzr.lnk.to/LifesTooShortTW",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1540334834492604400,
+					"id_str": "1540334834492604416",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540334834492604416/pu/img/6feNSH8pyGwrWBzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540334834492604416/pu/img/6feNSH8pyGwrWBzo.jpg",
+					"url": "https://t.co/1E2PviBq6Q",
+					"display_url": "pic.twitter.com/1E2PviBq6Q",
+					"expanded_url": "https://twitter.com/Deezer/status/1540356575084175360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1540334834492604400,
+					"id_str": "1540334834492604416",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1540334834492604416/pu/img/6feNSH8pyGwrWBzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1540334834492604416/pu/img/6feNSH8pyGwrWBzo.jpg",
+					"url": "https://t.co/1E2PviBq6Q",
+					"display_url": "pic.twitter.com/1E2PviBq6Q",
+					"expanded_url": "https://twitter.com/Deezer/status/1540356575084175360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540334834492604416/pu/vid/540x540/kB2VBKZS5H11jZAx.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540334834492604416/pu/vid/320x320/l5wXntda3N3Xw64M.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1540334834492604416/pu/pl/qmgAaX0kfAx52oEL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1540334834492604416/pu/vid/720x720/alb8JYwnXD0vI7yv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 244127,
+			"friends_count": 1031,
+			"listed_count": 1063,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 14571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1313,
+		"favorite_count": 3550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official have a message for you! ❤️ Stream their new single 'Life's Too Short' now: https://t.co/2pSI02yWHs #aespa #æspa \n#LifesTooShort #LTS #aespa_LTS \n#Girls #aespa_Girls #RadarWeekly https://t.co/1E2PviBq6Q"
+	},
+	{
 		"created_at": "Mon Jun 27 21:40:20 +0000 2022",
 		"id": 1541526855873794000,
 		"id_str": "1541536935302291456",
