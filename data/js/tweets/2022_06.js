@@ -1,6 +1,775 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 10:52:14 +0000 2022",
+		"id": 1541735660733620200,
+		"id_str": "1541736223764402177",
+		"full_text": "[#🌳] 너무 예뻐서 누르게 될걸?\n▶ https://t.co/xLHd598HvG\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/8W6193GwNL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLHd598HvG",
+					"expanded_url": "http://naver.me/GoBGB6Jo",
+					"display_url": "naver.me/GoBGB6Jo",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541717618003914800,
+					"id_str": "1541717618003914752",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVIAVUVsAAEdmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVIAVUVsAAEdmH.jpg",
+					"url": "https://t.co/8W6193GwNL",
+					"display_url": "pic.twitter.com/8W6193GwNL",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541735660733620225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541717618003914800,
+					"id_str": "1541717618003914752",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVIAVUVsAAEdmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVIAVUVsAAEdmH.jpg",
+					"url": "https://t.co/8W6193GwNL",
+					"display_url": "pic.twitter.com/8W6193GwNL",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541735660733620225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60893,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] 너무 예뻐서 누르게 될걸?\n▶ https://t.co/xLHd598HvG\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/8W6193GwNL"
+	},
+	{
+		"created_at": "Tue Jun 28 10:45:45 +0000 2022",
+		"id": 1541723083769356300,
+		"id_str": "1541734590729052160",
+		"full_text": "[EVENT] #PLAYCOLOR #이달의소녀 @loonatheworld\n#지니오리지널 트위터 구독하고 본 게시물에 #PLAYCOLOR #이달의소녀 감상평 답글을 남겨주세요! \n추첨을 통해 이달의 소녀 싸인 폴라로이드를 드립니다. \n\n*당첨 발표는 당첨자에 한하여 DM으로 연락드립니다.\n\n#이달의소녀 #LOONA #FlipThat #EVENT https://t.co/lQXDVXpNYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PLAYCOLOR",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "지니오리지널",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "PLAYCOLOR",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "EVENT",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541654804056772600,
+					"id_str": "1541654804056772608",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUO4FIUEAAPN3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUO4FIUEAAPN3F.jpg",
+					"url": "https://t.co/lQXDVXpNYG",
+					"display_url": "pic.twitter.com/lQXDVXpNYG",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1541723083769356288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541654804056772600,
+					"id_str": "1541654804056772608",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUO4FIUEAAPN3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUO4FIUEAAPN3F.jpg",
+					"url": "https://t.co/lQXDVXpNYG",
+					"display_url": "pic.twitter.com/lQXDVXpNYG",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1541723083769356288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541654826475323400,
+					"id_str": "1541654826475323393",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWUO5YpUAAEf-1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWUO5YpUAAEf-1w.jpg",
+					"url": "https://t.co/lQXDVXpNYG",
+					"display_url": "pic.twitter.com/lQXDVXpNYG",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1541723083769356288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16306,
+			"friends_count": 1,
+			"listed_count": 41,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] #PLAYCOLOR #이달의소녀 @loonatheworld\n#지니오리지널 트위터 구독하고 본 게시물에 #PLAYCOLOR #이달의소녀 감상평 답글을 남겨주세요! \n추첨을 통해 이달의 소녀 싸인 폴라로이드를 드립니다. \n\n*당첨 발표는 당첨자에 한하여 DM으로 연락드립니다.\n\n#이달의소녀 #LOONA #FlipThat #EVENT https://t.co/lQXDVXpNYG"
+	},
+	{
+		"created_at": "Tue Jun 28 10:45:37 +0000 2022",
+		"id": 1541723081768439800,
+		"id_str": "1541734556675588096",
+		"full_text": "[PLAY COLOR] 이달의 소녀(LOONA) - Flip That @loonatheworld\n내 마음은 아무리 #FlipThat 해도 이달소를 향한 ❤️🥰❤️뿐이야\n#이달의소녀 이렇게 무대 잘하면 우주밖에 못 뒤집어~🎵 뒤집어~🔁\n\nFULL👉 https://t.co/E4iTY4cCGi\n\n#이달의소녀 #LOONA #FlipThat\n#PLAYCOLOR #플레이컬러 https://t.co/F1AuZi0V0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlipThat",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "PLAYCOLOR",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "플레이컬러",
+					"indices": [
+						198,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E4iTY4cCGi",
+					"expanded_url": "https://youtu.be/d92CMOS4yKE",
+					"display_url": "youtu.be/d92CMOS4yKE",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541654307522482200,
+					"id_str": "1541654307522482176",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541654307522482176/pu/img/tk1-swl0QVy3XEyl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541654307522482176/pu/img/tk1-swl0QVy3XEyl.jpg",
+					"url": "https://t.co/F1AuZi0V0Y",
+					"display_url": "pic.twitter.com/F1AuZi0V0Y",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1541723081768439808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541654307522482200,
+					"id_str": "1541654307522482176",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541654307522482176/pu/img/tk1-swl0QVy3XEyl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541654307522482176/pu/img/tk1-swl0QVy3XEyl.jpg",
+					"url": "https://t.co/F1AuZi0V0Y",
+					"display_url": "pic.twitter.com/F1AuZi0V0Y",
+					"expanded_url": "https://twitter.com/genieoriginal/status/1541723081768439808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57124,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541654307522482176/pu/pl/oRay6dOCwl_t5nRi.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541654307522482176/pu/vid/640x360/LYWhj6-HldUHHUMH.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541654307522482176/pu/vid/480x270/kNJxaPL8JAGrUqCm.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541654307522482176/pu/vid/1280x720/ejVQO7pYsQUC54ze.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125666048135458800,
+			"id_str": "1125666048135458817",
+			"name": "genie original",
+			"screen_name": "genieoriginal",
+			"location": "",
+			"description": "𝑘𝑒𝑒𝑝 𝑔𝑜𝑖𝑛𝑔 𝑤ℎ𝑎𝑡 𝑦𝑜𝑢 𝑙𝑜𝑣𝑒, 𝑔𝑒𝑛𝑖𝑒 𝑜𝑟𝑖𝑔𝑖𝑛𝑎𝑙  🙋\nHere's genie original twitter 💙",
+			"url": "https://t.co/NN2ysMr2RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NN2ysMr2RZ",
+							"expanded_url": "https://www.youtube.com/channel/UCsm_xYKnv4cGMYwcee33bqw/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCsm_x…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16306,
+			"friends_count": 1,
+			"listed_count": 41,
+			"created_at": "Tue May 07 07:37:54 +0000 2019",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423554647545958410/KxZUXWKH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125666048135458817/1628236852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 900,
+		"favorite_count": 1633,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PLAY COLOR] 이달의 소녀(LOONA) - Flip That @loonatheworld\n내 마음은 아무리 #FlipThat 해도 이달소를 향한 ❤️🥰❤️뿐이야\n#이달의소녀 이렇게 무대 잘하면 우주밖에 못 뒤집어~🎵 뒤집어~🔁\n\nFULL👉 https://t.co/E4iTY4cCGi\n\n#이달의소녀 #LOONA #FlipThat\n#PLAYCOLOR #플레이컬러 https://t.co/F1AuZi0V0Y"
+	},
+	{
 		"created_at": "Tue Jun 28 09:52:13 +0000 2022",
 		"id": 1541715439901745200,
 		"id_str": "1541721122021904384",
