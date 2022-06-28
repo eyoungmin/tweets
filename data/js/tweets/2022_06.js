@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 04:45:37 +0000 2022",
+		"id": 1541640686134472700,
+		"id_str": "1541643959814045697",
+		"full_text": "[쇼챔피언 439회(0629) 생방송 출연진]\n이달의 소녀 / 케플러(Kep1er) / KARD / 울랄라세션(ULALA SESSION) / DRIPPIN / 김희재 / OMEGA X(오메가엑스) / PIXY(픽시) / ICHILLIN’(아이칠린) / Lapillus / TRENDZ(트렌드지) / bugAboo(버가부) / 백그림 / 박현서 / BEAUTYBOX(뷰티박스)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXG31o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXG31o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1187030,
+			"friends_count": 220,
+			"listed_count": 2154,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 439회(0629) 생방송 출연진]\n이달의 소녀 / 케플러(Kep1er) / KARD / 울랄라세션(ULALA SESSION) / DRIPPIN / 김희재 / OMEGA X(오메가엑스) / PIXY(픽시) / ICHILLIN’(아이칠린) / Lapillus / TRENDZ(트렌드지) / bugAboo(버가부) / 백그림 / 박현서 / BEAUTYBOX(뷰티박스)"
+	},
+	{
+		"created_at": "Tue Jun 28 04:40:29 +0000 2022",
+		"id": 1541638132671467500,
+		"id_str": "1541642669528649731",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 정규 2집 'Bare &amp; Rare' 무드 샘플러 공개…7월 11일 컴백\n\n🔎 https://t.co/TzI6Pu9BQE\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Mood_Sampler #공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "Mood_Sampler",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TzI6Pu9BQE",
+					"expanded_url": "http://naver.me/GazI2Umn",
+					"display_url": "naver.me/GazI2Umn",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30751,
+			"friends_count": 7,
+			"listed_count": 314,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 정규 2집 'Bare &amp; Rare' 무드 샘플러 공개…7월 11일 컴백\n\n🔎 https://t.co/TzI6Pu9BQE\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Mood_Sampler #공개"
+	},
+	{
 		"created_at": "Tue Jun 28 03:45:37 +0000 2022",
 		"id": 1541617383701221400,
 		"id_str": "1541628861158400001",
