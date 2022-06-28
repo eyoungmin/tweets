@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 12:45:36 +0000 2022",
+		"id": 1541760829854449700,
+		"id_str": "1541764754431262720",
+		"full_text": "우리 츄 1위 기념🏆 자장가 세로캠 선물💗\n오늘도 달콤한 츄 목소리 들으며 자장자장 하루 마무리🥱💤\n\n🌙자장가 바로 들으러 가기🌙\n▶️ https://t.co/fyGqyAK4Ur\n(Melon, genie, Bugs, FLO, VIBE, Spotify...)\n\n#츄 #이달의소녀 #Chuu #LOONA #자장가 https://t.co/Jxzd0u8qX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						145,
+						147
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "자장가",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fyGqyAK4Ur",
+					"expanded_url": "https://fanlink.to/Bichuu_lullaby",
+					"display_url": "fanlink.to/Bichuu_lullaby",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541754606220640300,
+					"id_str": "1541754606220640256",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541754606220640256/pu/img/-vem_r-4Nr6aOcF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541754606220640256/pu/img/-vem_r-4Nr6aOcF_.jpg",
+					"url": "https://t.co/Jxzd0u8qX5",
+					"display_url": "pic.twitter.com/Jxzd0u8qX5",
+					"expanded_url": "https://twitter.com/dingo_official/status/1541760829854449664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541754606220640300,
+					"id_str": "1541754606220640256",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541754606220640256/pu/img/-vem_r-4Nr6aOcF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541754606220640256/pu/img/-vem_r-4Nr6aOcF_.jpg",
+					"url": "https://t.co/Jxzd0u8qX5",
+					"display_url": "pic.twitter.com/Jxzd0u8qX5",
+					"expanded_url": "https://twitter.com/dingo_official/status/1541760829854449664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 35648,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541754606220640256/pu/vid/720x1280/tGx6qktPxeSGqUMu.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541754606220640256/pu/vid/480x852/aCyjxZHuKT12l9l9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541754606220640256/pu/pl/ufupBLgaacdftMMk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541754606220640256/pu/vid/320x568/9GAmkIEHf0bwDpmc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128938,
+			"friends_count": 1,
+			"listed_count": 176,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 13654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1632731850",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 1708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 츄 1위 기념🏆 자장가 세로캠 선물💗\n오늘도 달콤한 츄 목소리 들으며 자장자장 하루 마무리🥱💤\n\n🌙자장가 바로 들으러 가기🌙\n▶️ https://t.co/fyGqyAK4Ur\n(Melon, genie, Bugs, FLO, VIBE, Spotify...)\n\n#츄 #이달의소녀 #Chuu #LOONA #자장가 https://t.co/Jxzd0u8qX5"
+	},
+	{
+		"created_at": "Tue Jun 28 12:40:22 +0000 2022",
+		"id": 1541762833456992300,
+		"id_str": "1541763436001890306",
+		"full_text": "즐겁게 촬영한 플립댓 릴레이댄스🌱\n아직 못 본 오빛은 얼른 보러가세요❗️\n\n▶️ https://t.co/gV70N4kiTG\n\n#이달의소녀 #LOONA https://t.co/OMdMWCdyG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gV70N4kiTG",
+					"expanded_url": "https://youtu.be/ll6JmzLqsg8",
+					"display_url": "youtu.be/ll6JmzLqsg8",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541762827949863000,
+					"id_str": "1541762827949862912",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVxH5facAA8B1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVxH5facAA8B1y.jpg",
+					"url": "https://t.co/OMdMWCdyG7",
+					"display_url": "pic.twitter.com/OMdMWCdyG7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541762833456992256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541762827949863000,
+					"id_str": "1541762827949862912",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVxH5facAA8B1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVxH5facAA8B1y.jpg",
+					"url": "https://t.co/OMdMWCdyG7",
+					"display_url": "pic.twitter.com/OMdMWCdyG7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1541762833456992256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945848,
+			"friends_count": 2,
+			"listed_count": 8793,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1644,
+		"favorite_count": 4541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "즐겁게 촬영한 플립댓 릴레이댄스🌱\n아직 못 본 오빛은 얼른 보러가세요❗️\n\n▶️ https://t.co/gV70N4kiTG\n\n#이달의소녀 #LOONA https://t.co/OMdMWCdyG7"
+	},
+	{
+		"created_at": "Tue Jun 28 12:40:20 +0000 2022",
+		"id": 1541756631444488200,
+		"id_str": "1541763426967502854",
+		"full_text": "⭐️ WINTER + NINGNING 🦋\n= Perfect Duet! 💯\n\nhttps://t.co/rM42NzCxIk\n\n#WINTER #NINGNING #duet\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTSSingingChallenge\n#Girls #aespa_Girls https://t.co/y59UIVODR1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "duet",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "LTSSingingChallenge",
+					"indices": [
+						133,
+						153
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						161,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rM42NzCxIk",
+					"expanded_url": "https://vt.tiktok.com/ZSdKdtKvC/?k=1",
+					"display_url": "vt.tiktok.com/ZSdKdtKvC/?k=1",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541756620694499300,
+					"id_str": "1541756620694499334",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVrelqaMAY5L5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVrelqaMAY5L5z.jpg",
+					"url": "https://t.co/y59UIVODR1",
+					"display_url": "pic.twitter.com/y59UIVODR1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541756631444488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541756620694499300,
+					"id_str": "1541756620694499334",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVrelqaMAY5L5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVrelqaMAY5L5z.jpg",
+					"url": "https://t.co/y59UIVODR1",
+					"display_url": "pic.twitter.com/y59UIVODR1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541756631444488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1066,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826776,
+			"friends_count": 2,
+			"listed_count": 8815,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3287,
+		"favorite_count": 9752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⭐️ WINTER + NINGNING 🦋\n= Perfect Duet! 💯\n\nhttps://t.co/rM42NzCxIk\n\n#WINTER #NINGNING #duet\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTSSingingChallenge\n#Girls #aespa_Girls https://t.co/y59UIVODR1"
+	},
+	{
+		"created_at": "Tue Jun 28 12:40:14 +0000 2022",
+		"id": 1541756511852306400,
+		"id_str": "1541763401331916800",
+		"full_text": "Duet with NINGNING 🦋\n\nhttps://t.co/Q7v20xMcsq\n\n#NINGNING #duet #duetwithme\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTSSingingChallenge\n#Girls #aespa_Girls https://t.co/h8bMgzakOK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "duet",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "duetwithme",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "LTSSingingChallenge",
+					"indices": [
+						117,
+						137
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q7v20xMcsq",
+					"expanded_url": "https://vt.tiktok.com/ZSdKd4NQh/?k=1",
+					"display_url": "vt.tiktok.com/ZSdKd4NQh/?k=1",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541756501479800800,
+					"id_str": "1541756501479800833",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVrXpjaQAEMe3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVrXpjaQAEMe3g.jpg",
+					"url": "https://t.co/h8bMgzakOK",
+					"display_url": "pic.twitter.com/h8bMgzakOK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541756511852306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541756501479800800,
+					"id_str": "1541756501479800833",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVrXpjaQAEMe3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVrXpjaQAEMe3g.jpg",
+					"url": "https://t.co/h8bMgzakOK",
+					"display_url": "pic.twitter.com/h8bMgzakOK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541756511852306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826776,
+			"friends_count": 2,
+			"listed_count": 8815,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2717,
+		"favorite_count": 8729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Duet with NINGNING 🦋\n\nhttps://t.co/Q7v20xMcsq\n\n#NINGNING #duet #duetwithme\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTSSingingChallenge\n#Girls #aespa_Girls https://t.co/h8bMgzakOK"
+	},
+	{
 		"created_at": "Tue Jun 28 11:46:06 +0000 2022",
 		"id": 1541745729714143200,
 		"id_str": "1541749779092357120",
