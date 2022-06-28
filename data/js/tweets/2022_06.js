@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 14:40:09 +0000 2022",
+		"id": 1541784218954436600,
+		"id_str": "1541793582734008321",
+		"full_text": "Bam!💙👏🌙👏⭐️👏🦋\n\nhttps://t.co/OWc0YPHffd\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #Clap \n#Girls #aespa_Girls https://t.co/oGwkAjvMCX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "Clap",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWc0YPHffd",
+					"expanded_url": "https://vt.tiktok.com/ZSdKLtfvL/?k=1",
+					"display_url": "vt.tiktok.com/ZSdKLtfvL/?k=1",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541784208221556700,
+					"id_str": "1541784208221556736",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FWWEkZNaUAArpCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWWEkZNaUAArpCt.jpg",
+					"url": "https://t.co/oGwkAjvMCX",
+					"display_url": "pic.twitter.com/oGwkAjvMCX",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541784218954436608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541784208221556700,
+					"id_str": "1541784208221556736",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FWWEkZNaUAArpCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWWEkZNaUAArpCt.jpg",
+					"url": "https://t.co/oGwkAjvMCX",
+					"display_url": "pic.twitter.com/oGwkAjvMCX",
+					"expanded_url": "https://twitter.com/aespa_official/status/1541784218954436608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2827427,
+			"friends_count": 2,
+			"listed_count": 8813,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7835,
+		"favorite_count": 28965,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Bam!💙👏🌙👏⭐️👏🦋\n\nhttps://t.co/OWc0YPHffd\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #Clap \n#Girls #aespa_Girls https://t.co/oGwkAjvMCX"
+	},
+	{
 		"created_at": "Tue Jun 28 13:40:25 +0000 2022",
 		"id": 1541775053452636200,
 		"id_str": "1541778547282436096",
