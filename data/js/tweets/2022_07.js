@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 13:40:09 +0000 2022",
+		"id": 1542855547480711200,
+		"id_str": "1542865647012651008",
+		"full_text": "aespa ‘ep.2 Next Level’ - SM Culture Universe Premiere @ KWANGYA Behind The Scenes\n\nhttps://t.co/OUjPJX4PqC \n\n#aespa #æspa #에스파\n#SM_Culture_Universe #Behind #KWANGYA\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/Q3IuqzEzhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "SM_Culture_Universe",
+					"indices": [
+						128,
+						148
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "KWANGYA",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "Season1",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						199,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OUjPJX4PqC",
+					"expanded_url": "https://youtu.be/mvQFQOKD_9I",
+					"display_url": "youtu.be/mvQFQOKD_9I",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542783115583574000,
+					"id_str": "1542783115583574018",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkREdHUUAIT_EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkREdHUUAIT_EK.jpg",
+					"url": "https://t.co/Q3IuqzEzhd",
+					"display_url": "pic.twitter.com/Q3IuqzEzhd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542855547480711168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542783115583574000,
+					"id_str": "1542783115583574018",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkREdHUUAIT_EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkREdHUUAIT_EK.jpg",
+					"url": "https://t.co/Q3IuqzEzhd",
+					"display_url": "pic.twitter.com/Q3IuqzEzhd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542855547480711168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2846960,
+			"friends_count": 2,
+			"listed_count": 8837,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5853,
+		"favorite_count": 17450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa ‘ep.2 Next Level’ - SM Culture Universe Premiere @ KWANGYA Behind The Scenes\n\nhttps://t.co/OUjPJX4PqC \n\n#aespa #æspa #에스파\n#SM_Culture_Universe #Behind #KWANGYA\n#SMCU #Season1 #NextLevel\n#Girls #aespa_Girls https://t.co/Q3IuqzEzhd"
+	},
+	{
 		"created_at": "Fri Jul 01 12:40:31 +0000 2022",
 		"id": 1542846748699533300,
 		"id_str": "1542850637322649600",
