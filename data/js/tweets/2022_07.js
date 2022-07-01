@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 03:40:10 +0000 2022",
+		"id": 1542704548678029300,
+		"id_str": "1542714654350352385",
+		"full_text": "드디어 ! aespa 공식응원봉 출시 !\naespa 공식 응원봉 출시와 함께 예약 판매가 진행되오니\n아래 안내 확인해주세요😊\n \n#aespa #aespa_fanlight\n#에스파 #에스파공식응원봉 https://t.co/sp8reJZ4bS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "aespa_fanlight",
+					"indices": [
+						79,
+						94
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "에스파공식응원봉",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542687463000268800,
+					"id_str": "1542687463000268800",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FWi6EveUYAAe1MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWi6EveUYAAe1MB.jpg",
+					"url": "https://t.co/sp8reJZ4bS",
+					"display_url": "pic.twitter.com/sp8reJZ4bS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542704548678029312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 851,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 282,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542687463000268800,
+					"id_str": "1542687463000268800",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FWi6EveUYAAe1MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWi6EveUYAAe1MB.jpg",
+					"url": "https://t.co/sp8reJZ4bS",
+					"display_url": "pic.twitter.com/sp8reJZ4bS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542704548678029312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 851,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 282,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843486,
+			"friends_count": 2,
+			"listed_count": 8834,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14234,
+		"favorite_count": 39862,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 ! aespa 공식응원봉 출시 !\naespa 공식 응원봉 출시와 함께 예약 판매가 진행되오니\n아래 안내 확인해주세요😊\n \n#aespa #aespa_fanlight\n#에스파 #에스파공식응원봉 https://t.co/sp8reJZ4bS"
+	},
+	{
 		"created_at": "Fri Jul 01 02:45:45 +0000 2022",
 		"id": 1542696996477161500,
 		"id_str": "1542700959083761664",
