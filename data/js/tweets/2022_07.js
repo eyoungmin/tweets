@@ -1,6 +1,1835 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 09:40:39 +0000 2022",
+		"id": 1542804809287315500,
+		"id_str": "1542805372800536576",
+		"full_text": "aespa at SM ENTERTAINMENT SQUARE 💖\n\nhttps://t.co/Tn6RHzx1Sp\n\n#aespa #æspa #에스파\n#SMENTERTAINMENTSQUARE \n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "SMENTERTAINMENTSQUARE",
+					"indices": [
+						79,
+						101
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tn6RHzx1Sp",
+					"expanded_url": "https://www.instagram.com/reel/CfdvSxGFpXy/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/reel/CfdvSxGFp…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2845500,
+			"friends_count": 2,
+			"listed_count": 8838,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2318,
+		"favorite_count": 6127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa at SM ENTERTAINMENT SQUARE 💖\n\nhttps://t.co/Tn6RHzx1Sp\n\n#aespa #æspa #에스파\n#SMENTERTAINMENTSQUARE \n#SMTOWN"
+	},
+	{
+		"created_at": "Fri Jul 01 09:40:34 +0000 2022",
+		"id": 1542804075963527200,
+		"id_str": "1542805351376031746",
+		"full_text": "그리고 제가 월간 커넥트에서 꼭 함께 얘기하고 싶었던 기후 환경 변화 문제에 대해 기후변화 피해국인 팔라우의 #수랑겔휩스주니어대통령 이 절박하지만 희망을 얘기하는 인터뷰를 해 주셨습니다. \n\n내일 7월 2일 아침 10시 30분, #tvn #월간커넥트시즌2 \n되도록 많은 분들이 시청해 주시길 바랍니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "수랑겔휩스주니어대통령",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"text": "tvn",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "월간커넥트시즌2",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1542804074487091200,
+		"in_reply_to_status_id_str": "1542804074487091202",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274929,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 제가 월간 커넥트에서 꼭 함께 얘기하고 싶었던 기후 환경 변화 문제에 대해 기후변화 피해국인 팔라우의 #수랑겔휩스주니어대통령 이 절박하지만 희망을 얘기하는 인터뷰를 해 주셨습니다. \n\n내일 7월 2일 아침 10시 30분, #tvn #월간커넥트시즌2 \n되도록 많은 분들이 시청해 주시길 바랍니다"
+	},
+	{
+		"created_at": "Fri Jul 01 09:40:27 +0000 2022",
+		"id": 1542804074487091200,
+		"id_str": "1542805321504153603",
+		"full_text": "월간 커넥트 시즌 2 마지막회에서는 20년간 전 세계 아동 서적계에서 굵직한 상을 수상하며 독보적인 그림세계, 천재적인 재능을 펼치고 있는 그림책 작가 #이수지 님을 만나실 것입니다. \n\n➡️타래로",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수지",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1542804071370801200,
+		"in_reply_to_status_id_str": "1542804071370801152",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274929,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "월간 커넥트 시즌 2 마지막회에서는 20년간 전 세계 아동 서적계에서 굵직한 상을 수상하며 독보적인 그림세계, 천재적인 재능을 펼치고 있는 그림책 작가 #이수지 님을 만나실 것입니다. \n\n➡️타래로"
+	},
+	{
+		"created_at": "Fri Jul 01 09:40:21 +0000 2022",
+		"id": 1542804071370801200,
+		"id_str": "1542805295843446784",
+		"full_text": "오늘은 공연 첫날이지만\n제가 출연하면서 가장 사랑했던\n방송 프로그램 #월간커넥트시즌2 의 마지막 방송을 꼭 봐주십사 글을 올립니다. \n\n➡️타래로 https://t.co/3xIK1TZbqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월간커넥트시즌2",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542804057341165600,
+					"id_str": "1542804057341165569",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkkHbPaAAEs5qD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkkHbPaAAEs5qD.jpg",
+					"url": "https://t.co/3xIK1TZbqn",
+					"display_url": "pic.twitter.com/3xIK1TZbqn",
+					"expanded_url": "https://twitter.com/love_yuna/status/1542804071370801152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542804057341165600,
+					"id_str": "1542804057341165569",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkkHbPaAAEs5qD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkkHbPaAAEs5qD.jpg",
+					"url": "https://t.co/3xIK1TZbqn",
+					"display_url": "pic.twitter.com/3xIK1TZbqn",
+					"expanded_url": "https://twitter.com/love_yuna/status/1542804071370801152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274929,
+			"friends_count": 579,
+			"listed_count": 2777,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 공연 첫날이지만\n제가 출연하면서 가장 사랑했던\n방송 프로그램 #월간커넥트시즌2 의 마지막 방송을 꼭 봐주십사 글을 올립니다. \n\n➡️타래로 https://t.co/3xIK1TZbqn"
+	},
+	{
+		"created_at": "Fri Jul 01 09:40:16 +0000 2022",
+		"id": 1542801922637594600,
+		"id_str": "1542805274402164737",
+		"full_text": "That’s HOT @ParisHilton ❤️‍🔥\n\n#aespa #æspa #에스파 \n#JimmyKimmelLive @JimmyKimmelLive \n#aespa_on_KIMMEL\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/iQHxQbZx6l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "JimmyKimmelLive",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"text": "aespa_on_KIMMEL",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParisHilton",
+					"name": "ParisHilton",
+					"id": 24929621,
+					"id_str": "24929621",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "JimmyKimmelLive",
+					"name": "Jimmy Kimmel Live",
+					"id": 34036028,
+					"id_str": "34036028",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542801918459723800,
+					"id_str": "1542801918459723776",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkiK7SVQAAWey0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkiK7SVQAAWey0.jpg",
+					"url": "https://t.co/iQHxQbZx6l",
+					"display_url": "pic.twitter.com/iQHxQbZx6l",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542801922637594624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542801918459723800,
+					"id_str": "1542801918459723776",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkiK7SVQAAWey0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkiK7SVQAAWey0.jpg",
+					"url": "https://t.co/iQHxQbZx6l",
+					"display_url": "pic.twitter.com/iQHxQbZx6l",
+					"expanded_url": "https://twitter.com/aespa_official/status/1542801922637594624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2845500,
+			"friends_count": 2,
+			"listed_count": 8838,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9413,
+		"favorite_count": 24685,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That’s HOT @ParisHilton ❤️‍🔥\n\n#aespa #æspa #에스파 \n#JimmyKimmelLive @JimmyKimmelLive \n#aespa_on_KIMMEL\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls https://t.co/iQHxQbZx6l"
+	},
+	{
+		"created_at": "Fri Jul 01 09:37:17 +0000 2022",
+		"id": 1542795281602838500,
+		"id_str": "1542804523659382784",
+		"full_text": "The Volunteers New Single\n[New Plant] 2022.7.12 6PM KST\n\n#tvt #thevolunteers #release https://t.co/8cibbqFBVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvt",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "thevolunteers",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542795230432612400,
+					"id_str": "1542795230432612352",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542795230432612352/pu/img/gPPl0TaeU9l2N94i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542795230432612352/pu/img/gPPl0TaeU9l2N94i.jpg",
+					"url": "https://t.co/8cibbqFBVz",
+					"display_url": "pic.twitter.com/8cibbqFBVz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1542795281602838528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542795230432612400,
+					"id_str": "1542795230432612352",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542795230432612352/pu/img/gPPl0TaeU9l2N94i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542795230432612352/pu/img/gPPl0TaeU9l2N94i.jpg",
+					"url": "https://t.co/8cibbqFBVz",
+					"display_url": "pic.twitter.com/8cibbqFBVz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1542795281602838528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542795230432612352/pu/pl/LUviZJ-QjZtWNDjw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542795230432612352/pu/vid/720x720/W2GPmGZR0BlfP63o.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542795230432612352/pu/vid/540x540/287zT-IciKo4-sce.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542795230432612352/pu/vid/320x320/zezoT8sR1bEeYbZS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7198,
+			"friends_count": 2,
+			"listed_count": 54,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Volunteers New Single\n[New Plant] 2022.7.12 6PM KST\n\n#tvt #thevolunteers #release https://t.co/8cibbqFBVz"
+	},
+	{
+		"created_at": "Fri Jul 01 09:35:59 +0000 2022",
+		"id": 1542800037930930200,
+		"id_str": "1542804198269472770",
+		"full_text": "Feel My Rhythm (Orchestra Ver) \n\n🎧Listen now on your favorite platform\nhttps://t.co/ADsdQhcgWx\n\n#Feel_My_Rhythm #필마이리듬 #오케스트라\n#레드벨벳 #RedVelvet\n#서울시립교향악단 #서울시향 #seoulphil\n#smclassics #sm클래식스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"text": "필마이리듬",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "오케스트라",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "서울시립교향악단",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "서울시향",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "seoulphil",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "smclassics",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"text": "sm클래식스",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ADsdQhcgWx",
+					"expanded_url": "https://smclassics.lnk.to/FeelMyRhythm",
+					"display_url": "smclassics.lnk.to/FeelMyRhythm",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5457558,
+			"friends_count": 2,
+			"listed_count": 11077,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2222,
+		"favorite_count": 4447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feel My Rhythm (Orchestra Ver) \n\n🎧Listen now on your favorite platform\nhttps://t.co/ADsdQhcgWx\n\n#Feel_My_Rhythm #필마이리듬 #오케스트라\n#레드벨벳 #RedVelvet\n#서울시립교향악단 #서울시향 #seoulphil\n#smclassics #sm클래식스"
+	},
+	{
+		"created_at": "Fri Jul 01 09:33:54 +0000 2022",
+		"id": 1542799874764247000,
+		"id_str": "1542803676061782016",
+		"full_text": "the new remix of 'Wings' by the very talented Maya Randle is out now! this song is so special to me and i love the energy Maya has given this version! ⚡️ https://t.co/tbdvduqodX\n\nImage credit: Lotta https://t.co/B66swyHehK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tbdvduqodX",
+					"expanded_url": "https://birdy.lnk.to/Wings-MR-Remix",
+					"display_url": "birdy.lnk.to/Wings-MR-Remix",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542798459819925500,
+					"id_str": "1542798459819925508",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542798459819925508/pu/img/Ju6ugart8kTRkXFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542798459819925508/pu/img/Ju6ugart8kTRkXFm.jpg",
+					"url": "https://t.co/B66swyHehK",
+					"display_url": "pic.twitter.com/B66swyHehK",
+					"expanded_url": "https://twitter.com/birdy/status/1542799874764247040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542798459819925500,
+					"id_str": "1542798459819925508",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542798459819925508/pu/img/Ju6ugart8kTRkXFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542798459819925508/pu/img/Ju6ugart8kTRkXFm.jpg",
+					"url": "https://t.co/B66swyHehK",
+					"display_url": "pic.twitter.com/B66swyHehK",
+					"expanded_url": "https://twitter.com/birdy/status/1542799874764247040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20840,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542798459819925508/pu/vid/540x540/b3MmeCpKeBNuczeF.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542798459819925508/pu/vid/720x720/_zNdPixKSuuWqpU-.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542798459819925508/pu/vid/320x320/c9xovOnBj-2Buodx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542798459819925508/pu/pl/Oczuu7zRzwr2XK_x.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "tickets to my 2023 european tour are on sale now ✨  \nhttps://t.co/AOWSyI9JYu",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310813,
+			"friends_count": 177,
+			"listed_count": 1178,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the new remix of 'Wings' by the very talented Maya Randle is out now! this song is so special to me and i love the energy Maya has given this version! ⚡️ https://t.co/tbdvduqodX\n\nImage credit: Lotta https://t.co/B66swyHehK"
+	},
+	{
+		"created_at": "Fri Jul 01 09:19:46 +0000 2022",
+		"id": 1542796973341696000,
+		"id_str": "1542800116238536704",
+		"full_text": "❤️RELEASE ON❤️\n자우림 25주년 스페셜 앨범 \n[ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ]\n2022.07.01 6PM\n\n🎁CONCERT \n2022.07.01-03 https://t.co/2MrErNPaYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542796827258327000,
+					"id_str": "1542796827258327040",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542796827258327040/pu/img/ruqmWGwB55dzNgiA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542796827258327040/pu/img/ruqmWGwB55dzNgiA.jpg",
+					"url": "https://t.co/2MrErNPaYp",
+					"display_url": "pic.twitter.com/2MrErNPaYp",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1542796973341696000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542796827258327000,
+					"id_str": "1542796827258327040",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1542796827258327040/pu/img/ruqmWGwB55dzNgiA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1542796827258327040/pu/img/ruqmWGwB55dzNgiA.jpg",
+					"url": "https://t.co/2MrErNPaYp",
+					"display_url": "pic.twitter.com/2MrErNPaYp",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1542796973341696000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49382,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542796827258327040/pu/vid/1280x720/Pkw45dPoshNguBjQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542796827258327040/pu/vid/640x360/PrxkVjbJVTXnXMxi.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1542796827258327040/pu/pl/ZjDKwue8DPbp86Rr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1542796827258327040/pu/vid/480x270/8Vg1LtfyXXyBwMz3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3744,
+			"friends_count": 5,
+			"listed_count": 22,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️RELEASE ON❤️\n자우림 25주년 스페셜 앨범 \n[ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ]\n2022.07.01 6PM\n\n🎁CONCERT \n2022.07.01-03 https://t.co/2MrErNPaYp"
+	},
+	{
+		"created_at": "Fri Jul 01 09:09:38 +0000 2022",
+		"id": 1542796441508204500,
+		"id_str": "1542797569142755329",
+		"full_text": "SM X 서울시립교향악단 ‘Feel My Rhythm (Orchestra Ver.)’ Release\n\nMelon➫ https://t.co/ytrOCEUXZM\nFLO➫https://t.co/qyEJuEk98v\ngenie➫ https://t.co/mqD4NXzFZa\nNAVER➫ https://t.co/0SwA9kO7aE\n\n#Feel_My_Rhythm\n#RedVelvet @RVsmtown\n@SeoulPhil  \n@smclassics  \n@SMTOWNGLOBAL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Feel_My_Rhythm",
+					"indices": [
+						179,
+						194
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						195,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"screen_name": "SeoulPhil",
+					"name": "서울시립교향악단 Seoul Philharmonic Orchestra",
+					"id": 124082919,
+					"id_str": "124082919",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"screen_name": "smclassics",
+					"name": "SM Classics",
+					"id": 1283055925838913500,
+					"id_str": "1283055925838913536",
+					"indices": [
+						229,
+						240
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						243,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ytrOCEUXZM",
+					"expanded_url": "http://kko.to/ywAX2W0p9",
+					"display_url": "kko.to/ywAX2W0p9",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/qyEJuEk98v",
+					"expanded_url": "http://flomuz.io/s/b.E0FEG",
+					"display_url": "flomuz.io/s/b.E0FEG",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/mqD4NXzFZa",
+					"expanded_url": "http://genie.co.kr/LRGCB3",
+					"display_url": "genie.co.kr/LRGCB3",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/0SwA9kO7aE",
+					"expanded_url": "http://naver.me/xkemOgWd",
+					"display_url": "naver.me/xkemOgWd",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1283055925838913500,
+			"id_str": "1283055925838913536",
+			"name": "SM Classics",
+			"screen_name": "smclassics",
+			"location": "",
+			"description": "SM Entertainment Classic Label",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13238,
+			"friends_count": 1,
+			"listed_count": 31,
+			"created_at": "Tue Jul 14 15:09:31 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542323857033678848/GvzTLdeT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542323857033678848/GvzTLdeT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1321,
+		"favorite_count": 3053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM X 서울시립교향악단 ‘Feel My Rhythm (Orchestra Ver.)’ Release\n\nMelon➫ https://t.co/ytrOCEUXZM\nFLO➫https://t.co/qyEJuEk98v\ngenie➫ https://t.co/mqD4NXzFZa\nNAVER➫ https://t.co/0SwA9kO7aE\n\n#Feel_My_Rhythm\n#RedVelvet @RVsmtown\n@SeoulPhil  \n@smclassics  \n@SMTOWNGLOBAL"
+	},
+	{
 		"created_at": "Fri Jul 01 08:45:48 +0000 2022",
 		"id": 1542783163327398000,
 		"id_str": "1542791568259796992",
