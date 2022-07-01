@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 08:45:48 +0000 2022",
+		"id": 1542783163327398000,
+		"id_str": "1542791568259796992",
+		"full_text": "이번주 #인기가요(#inkigayo) Ep.1144 라인업 공개‼\n\n나연 / 던 / DRIPPIN / 라필루스 / 이민혁 / 박현서 / 선미 / 설하윤 / ICHILLIN’ / 영재 / 이달의 소녀 / KARD / 케플러 / CLASS:y / TAN / TRENDZ / fromis_9 \n\n링크를 확인해주세요↙\nhttps://t.co/boKAQ8FiQY https://t.co/N9PPFH42gS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/boKAQ8FiQY",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/board/54772?cmd=view&page=1&board_no=1437",
+					"display_url": "programs.sbs.co.kr/enter/gayo/boa…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542783125897371600,
+					"id_str": "1542783125897371649",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkRFDiUYAEOhBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkRFDiUYAEOhBb.jpg",
+					"url": "https://t.co/N9PPFH42gS",
+					"display_url": "pic.twitter.com/N9PPFH42gS",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1542783163327397888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542783125897371600,
+					"id_str": "1542783125897371649",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkRFDiUYAEOhBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkRFDiUYAEOhBb.jpg",
+					"url": "https://t.co/N9PPFH42gS",
+					"display_url": "pic.twitter.com/N9PPFH42gS",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1542783163327397888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/OApBmPQRxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OApBmPQRxw",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180359,
+			"friends_count": 0,
+			"listed_count": 542,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1649207259",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #인기가요(#inkigayo) Ep.1144 라인업 공개‼\n\n나연 / 던 / DRIPPIN / 라필루스 / 이민혁 / 박현서 / 선미 / 설하윤 / ICHILLIN’ / 영재 / 이달의 소녀 / KARD / 케플러 / CLASS:y / TAN / TRENDZ / fromis_9 \n\n링크를 확인해주세요↙\nhttps://t.co/boKAQ8FiQY https://t.co/N9PPFH42gS"
+	},
+	{
+		"created_at": "Fri Jul 01 08:40:13 +0000 2022",
+		"id": 1542780043855904800,
+		"id_str": "1542790166443708417",
+		"full_text": "[퇴근길 LIVE 4K] \n퇴근길 전부 Flip That! 뒤집어버린 짱달소의 퇴근길 현장🍳\n#THEKPOP #퇴근길라이브 #퇴근길LIVE #이달의소녀 #LOONA #FlipThat #플립댓\n\n@loonatheworld\n\n▶https://t.co/rmquqtDoxQ https://t.co/9X6Qx5Kw9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEKPOP",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "퇴근길라이브",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "퇴근길LIVE",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rmquqtDoxQ",
+					"expanded_url": "https://youtu.be/5n3wshxYkhk",
+					"display_url": "youtu.be/5n3wshxYkhk",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542743459416907800,
+					"id_str": "1542743459416907776",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjtAKYaIAAdeY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjtAKYaIAAdeY6.jpg",
+					"url": "https://t.co/9X6Qx5Kw9a",
+					"display_url": "pic.twitter.com/9X6Qx5Kw9a",
+					"expanded_url": "https://twitter.com/TheKpop/status/1542780043855904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542743459416907800,
+					"id_str": "1542743459416907776",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FWjtAKYaIAAdeY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWjtAKYaIAAdeY6.jpg",
+					"url": "https://t.co/9X6Qx5Kw9a",
+					"display_url": "pic.twitter.com/9X6Qx5Kw9a",
+					"expanded_url": "https://twitter.com/TheKpop/status/1542780043855904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "TheKpop",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/DvR4tkL53U",
+			"url": "https://t.co/87WseQ3dJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87WseQ3dJp",
+							"expanded_url": "https://mtv.sbs.co.kr/channel.html",
+							"display_url": "mtv.sbs.co.kr/channel.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DvR4tkL53U",
+							"expanded_url": "http://youtube.com/c/TheKPOP",
+							"display_url": "youtube.com/c/TheKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 799886,
+			"friends_count": 1037,
+			"listed_count": 1428,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1656414129",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 2003,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[퇴근길 LIVE 4K] \n퇴근길 전부 Flip That! 뒤집어버린 짱달소의 퇴근길 현장🍳\n#THEKPOP #퇴근길라이브 #퇴근길LIVE #이달의소녀 #LOONA #FlipThat #플립댓\n\n@loonatheworld\n\n▶https://t.co/rmquqtDoxQ https://t.co/9X6Qx5Kw9a"
+	},
+	{
 		"created_at": "Fri Jul 01 07:40:23 +0000 2022",
 		"id": 1542727195306573800,
 		"id_str": "1542775104916131840",
