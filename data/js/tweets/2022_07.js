@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 15:40:34 +0000 2022",
+		"id": 1542793430392541200,
+		"id_str": "1542895948392796161",
+		"full_text": "[🖥/#K_Choreo8K]\n8K Full 직캠을 지금 바로 확인하세요!\n\n이달의 소녀 (LOONA) &lt;Flip That&gt;\n▶︎https://t.co/Do2tW5yK2z\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#이달의소녀 #플립댓 #LOONA #FlipThat\n@loonatheworld https://t.co/dcjTI3l75y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "K_Choreo8K",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "StudioK",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "8K",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "8K풀직캠",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						158,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Do2tW5yK2z",
+					"expanded_url": "https://youtu.be/wYx0C4rayx0",
+					"display_url": "youtu.be/wYx0C4rayx0",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542793422389784600,
+					"id_str": "1542793422389784577",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkacY9aMAEU3-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkacY9aMAEU3-R.jpg",
+					"url": "https://t.co/dcjTI3l75y",
+					"display_url": "pic.twitter.com/dcjTI3l75y",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1542793430392541186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542793422389784600,
+					"id_str": "1542793422389784577",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkacY9aMAEU3-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkacY9aMAEU3-R.jpg",
+					"url": "https://t.co/dcjTI3l75y",
+					"display_url": "pic.twitter.com/dcjTI3l75y",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1542793430392541186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "KBS KPOP",
+			"screen_name": "StudioK_twt",
+			"location": "",
+			"description": "💙KBS KPOP💚Official Twitter💛공식 트위터 오픈💚KBS 음악방송과 예능 콘텐츠 소식들로 매일 찾아올게요💙😜 \n#뮤직뱅크 #아이돌인간극장 #리무진서비스 #매점터는아이돌 & so much more by StudioK",
+			"url": "https://t.co/zq35Rwet13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq35Rwet13",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86478,
+			"friends_count": 8,
+			"listed_count": 184,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1656309206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 471,
+		"favorite_count": 1608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🖥/#K_Choreo8K]\n8K Full 직캠을 지금 바로 확인하세요!\n\n이달의 소녀 (LOONA) &lt;Flip That&gt;\n▶︎https://t.co/Do2tW5yK2z\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#이달의소녀 #플립댓 #LOONA #FlipThat\n@loonatheworld https://t.co/dcjTI3l75y"
+	},
+	{
 		"created_at": "Fri Jul 01 15:15:52 +0000 2022",
 		"id": 1542885575359086600,
 		"id_str": "1542889734715760640",
