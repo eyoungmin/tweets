@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 06:40:32 +0000 2022",
+		"id": 1542757986262651000,
+		"id_str": "1542760044470697984",
+		"full_text": "[TikTok]\n\n#라필루스 와 함께 뒤집어 뒤집어🔁😜\n@offclLapillus\n\n▶️ https://t.co/HWKtz6Br5j\n\n#이달의소녀 #LOONA #현진 #HyunJin #비비 #ViVi #Lapillus #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라필루스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "Lapillus",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						146,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "offclLapillus",
+					"name": "Lapillus OFFICIAL",
+					"id": 1521040571078373400,
+					"id_str": "1521040571078373377",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HWKtz6Br5j",
+					"expanded_url": "https://vt.tiktok.com/ZSdEkP1hw/?k=1",
+					"display_url": "vt.tiktok.com/ZSdEkP1hw/?k=1",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 947531,
+			"friends_count": 2,
+			"listed_count": 8792,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 588,
+		"favorite_count": 1895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n#라필루스 와 함께 뒤집어 뒤집어🔁😜\n@offclLapillus\n\n▶️ https://t.co/HWKtz6Br5j\n\n#이달의소녀 #LOONA #현진 #HyunJin #비비 #ViVi #Lapillus #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Fri Jul 01 06:40:29 +0000 2022",
+		"id": 1542674370975305700,
+		"id_str": "1542760031409537024",
+		"full_text": "#이달의소녀 #LOONA #FilpThat\nLOONA Summer Special Mini Album [Flip That]\nFAN SIGN EVENT📝\n\n🦋대면 팬사인회 이벤트\n🌱영상통화 팬사인회 이벤트\n\n📅응모 기간\n~7/4(월) 23:59(KST)\n\n📢당첨자 발표\n7/5(화) 15:00(KST) 이후\n\n#사운드웨이브_온라인몰\n🔗https://t.co/g2XC6mztF8 https://t.co/zrTbHvLLtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "FilpThat",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "사운드웨이브_온라인몰",
+					"indices": [
+						171,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g2XC6mztF8",
+					"expanded_url": "https://bit.ly/3y9Uktt",
+					"display_url": "bit.ly/3y9Uktt",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542673915775832000,
+					"id_str": "1542673915775832064",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FWitwMIUUAAauL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWitwMIUUAAauL7.jpg",
+					"url": "https://t.co/zrTbHvLLtU",
+					"display_url": "pic.twitter.com/zrTbHvLLtU",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1542674370975305735/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542673915775832000,
+					"id_str": "1542673915775832064",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FWitwMIUUAAauL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWitwMIUUAAauL7.jpg",
+					"url": "https://t.co/zrTbHvLLtU",
+					"display_url": "pic.twitter.com/zrTbHvLLtU",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1542674370975305735/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542673921001922600,
+					"id_str": "1542673921001922560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FWitwfmUIAAjkdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWitwfmUIAAjkdK.jpg",
+					"url": "https://t.co/zrTbHvLLtU",
+					"display_url": "pic.twitter.com/zrTbHvLLtU",
+					"expanded_url": "https://twitter.com/soundwave_korea/status/1542674370975305735/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 745838085401870300,
+			"id_str": "745838085401870337",
+			"name": "사운드웨이브 SOUNDWAVE",
+			"screen_name": "soundwave_korea",
+			"location": "대한민국",
+			"description": "사운드웨이브 공식 트위터 Official Twitter of SOUNDWAVE",
+			"url": "https://t.co/CR4cxlolgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CR4cxlolgm",
+							"expanded_url": "http://www.sound-wave.co.kr",
+							"display_url": "sound-wave.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13489,
+			"friends_count": 163,
+			"listed_count": 48,
+			"created_at": "Thu Jun 23 04:37:11 +0000 2016",
+			"favourites_count": 1136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398311934638755844/GlGDaUdo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398311934638755844/GlGDaUdo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/745838085401870337/1562657052",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 1069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #FilpThat\nLOONA Summer Special Mini Album [Flip That]\nFAN SIGN EVENT📝\n\n🦋대면 팬사인회 이벤트\n🌱영상통화 팬사인회 이벤트\n\n📅응모 기간\n~7/4(월) 23:59(KST)\n\n📢당첨자 발표\n7/5(화) 15:00(KST) 이후\n\n#사운드웨이브_온라인몰\n🔗https://t.co/g2XC6mztF8 https://t.co/zrTbHvLLtU"
+	},
+	{
+		"created_at": "Fri Jul 01 06:40:20 +0000 2022",
+		"id": 1542755119866847200,
+		"id_str": "1542759993241378817",
+		"full_text": "❤️D-day❤️\n자우림 단독 콘서트 \n[ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡, 𝐉𝐀𝐔𝐑𝐈𝐌!!! ]\n\n🎉공연장소 : 올림픽공원 올림픽홀\n\n🎊공연일시 : \n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n#HAPPY25thJAURIM https://t.co/ezVXxzuj5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY25thJAURIM",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542755113147650000,
+					"id_str": "1542755113147650048",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FWj3mf6VUAAjk3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWj3mf6VUAAjk3_.jpg",
+					"url": "https://t.co/ezVXxzuj5A",
+					"display_url": "pic.twitter.com/ezVXxzuj5A",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1542755119866847232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542755113147650000,
+					"id_str": "1542755113147650048",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FWj3mf6VUAAjk3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWj3mf6VUAAjk3_.jpg",
+					"url": "https://t.co/ezVXxzuj5A",
+					"display_url": "pic.twitter.com/ezVXxzuj5A",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1542755119866847232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542755113134985200,
+					"id_str": "1542755113134985218",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FWj3mf3UEAIuvAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWj3mf3UEAIuvAF.jpg",
+					"url": "https://t.co/ezVXxzuj5A",
+					"display_url": "pic.twitter.com/ezVXxzuj5A",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1542755119866847232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1195,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2YZGVkZey0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2YZGVkZey0",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3740,
+			"friends_count": 5,
+			"listed_count": 22,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453957282640052224/zBP7HlUw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1635498290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️D-day❤️\n자우림 단독 콘서트 \n[ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡, 𝐉𝐀𝐔𝐑𝐈𝐌!!! ]\n\n🎉공연장소 : 올림픽공원 올림픽홀\n\n🎊공연일시 : \n2022년 7월 1일(금) 오후 8시\n2022년 7월 2일(토) 오후 6시\n2022년 7월 3일(일) 오후 5시\n\n🎁 SPECIAL ALBUM \n2022.07.01 6PM RELEASE\n\n#HAPPY25thJAURIM https://t.co/ezVXxzuj5A"
+	},
+	{
+		"created_at": "Fri Jul 01 06:40:18 +0000 2022",
+		"id": 1542752904351649800,
+		"id_str": "1542759984345350145",
+		"full_text": "aespa will be attending the UN '2022 High-Level Political Forum for sustainable development' on July 5!\nAs representatives of GenZ, they will deliver a speech accompanied by a positive energy-filled performance!\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022 https://t.co/eO5ZzxPsc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "UnitedNations",
+					"indices": [
+						241,
+						255
+					]
+				},
+				{
+					"text": "UN",
+					"indices": [
+						256,
+						259
+					]
+				},
+				{
+					"text": "HLPF2022",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						225,
+						240
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542752897397510100,
+					"id_str": "1542752897397510150",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FWj1lhmVUAY_t_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWj1lhmVUAY_t_j.jpg",
+					"url": "https://t.co/eO5ZzxPsc9",
+					"display_url": "pic.twitter.com/eO5ZzxPsc9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542752904351649793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542752897397510100,
+					"id_str": "1542752897397510150",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FWj1lhmVUAY_t_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWj1lhmVUAY_t_j.jpg",
+					"url": "https://t.co/eO5ZzxPsc9",
+					"display_url": "pic.twitter.com/eO5ZzxPsc9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1542752904351649793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10952588,
+			"friends_count": 56,
+			"listed_count": 12350,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2986,
+		"favorite_count": 8969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa will be attending the UN '2022 High-Level Political Forum for sustainable development' on July 5!\nAs representatives of GenZ, they will deliver a speech accompanied by a positive energy-filled performance!\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022 https://t.co/eO5ZzxPsc9"
+	},
+	{
 		"created_at": "Fri Jul 01 04:40:36 +0000 2022",
 		"id": 1542727198720901000,
 		"id_str": "1542729863378767872",
