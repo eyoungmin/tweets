@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 15:40:10 +0000 2022",
+		"id": 1543248176559247400,
+		"id_str": "1543258234861019142",
+		"full_text": "aespa 에스파 'Girls' Real World Teaser - NINGNING\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#NINGNING #닝닝 \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/tsbJPMVQj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543248166304198700,
+					"id_str": "1543248166304198657",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWq4B-DVsAEEkBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWq4B-DVsAEEkBb.jpg",
+					"url": "https://t.co/tsbJPMVQj0",
+					"display_url": "pic.twitter.com/tsbJPMVQj0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543248176559247361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543248166304198700,
+					"id_str": "1543248166304198657",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWq4B-DVsAEEkBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWq4B-DVsAEEkBb.jpg",
+					"url": "https://t.co/tsbJPMVQj0",
+					"display_url": "pic.twitter.com/tsbJPMVQj0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543248176559247361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543248166308302800,
+					"id_str": "1543248166308302848",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWq4B-EUUAAW5Nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWq4B-EUUAAW5Nz.jpg",
+					"url": "https://t.co/tsbJPMVQj0",
+					"display_url": "pic.twitter.com/tsbJPMVQj0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543248176559247361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543248166312546300,
+					"id_str": "1543248166312546304",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWq4B-FVEAA6BPO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWq4B-FVEAA6BPO.jpg",
+					"url": "https://t.co/tsbJPMVQj0",
+					"display_url": "pic.twitter.com/tsbJPMVQj0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543248176559247361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543248166463516700,
+					"id_str": "1543248166463516673",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWq4B-pUsAE0ksv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWq4B-pUsAE0ksv.jpg",
+					"url": "https://t.co/tsbJPMVQj0",
+					"display_url": "pic.twitter.com/tsbJPMVQj0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543248176559247361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2855202,
+			"friends_count": 2,
+			"listed_count": 8861,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31411,
+		"favorite_count": 67470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Girls' Real World Teaser - NINGNING\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#NINGNING #닝닝 \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/tsbJPMVQj0"
+	},
+	{
 		"created_at": "Sat Jul 02 14:40:29 +0000 2022",
 		"id": 1543234395586416600,
 		"id_str": "1543243214546767873",
