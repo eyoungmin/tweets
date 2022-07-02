@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 03:40:09 +0000 2022",
+		"id": 1542795243363651600,
+		"id_str": "1543077039355428866",
+		"full_text": "#될파라치 이달소 🔥청양이랑🌟청량도 잘하면 어떡하죠? 진짜 안 사랑하는 법 몰라🥺 상큼 뿜뿜 넘치는 영상이 궁금하다면 #카카오페이지 #이달의소녀 편을 확인하세요!\n\n👇#플립댓_챌린지 도 있어요🔁 \n▶️https://t.co/5xkGraru22\n\n#톡드립 #Goldenchild #장준 #AB6IX #전웅 #LOONA \n@loonatheworld https://t.co/an3bg9QeNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "될파라치",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "카카오페이지",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "톡드립",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "Goldenchild",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "장준",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "전웅",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5xkGraru22",
+					"expanded_url": "http://youtube.com/shorts/wT5Px4GzDbY?feature=share",
+					"display_url": "youtube.com/shorts/wT5Px4G…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542794040907034600,
+					"id_str": "1542794040907034625",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkbAZHacAEizWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkbAZHacAEizWq.jpg",
+					"url": "https://t.co/an3bg9QeNf",
+					"display_url": "pic.twitter.com/an3bg9QeNf",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1542795243363651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542794040907034600,
+					"id_str": "1542794040907034625",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkbAZHacAEizWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkbAZHacAEizWq.jpg",
+					"url": "https://t.co/an3bg9QeNf",
+					"display_url": "pic.twitter.com/an3bg9QeNf",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1542795243363651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542795202766999600,
+					"id_str": "1542795202766999552",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkcEBYakAACsgu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkcEBYakAACsgu.jpg",
+					"url": "https://t.co/an3bg9QeNf",
+					"display_url": "pic.twitter.com/an3bg9QeNf",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1542795243363651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542795202951544800,
+					"id_str": "1542795202951544832",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkcECEagAA_V_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkcECEagAA_V_W.jpg",
+					"url": "https://t.co/an3bg9QeNf",
+					"display_url": "pic.twitter.com/an3bg9QeNf",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1542795243363651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1542795202934771700,
+					"id_str": "1542795202934771712",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FWkcECAakAALLyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWkcECAakAALLyY.jpg",
+					"url": "https://t.co/an3bg9QeNf",
+					"display_url": "pic.twitter.com/an3bg9QeNf",
+					"expanded_url": "https://twitter.com/_ssap_possible/status/1542795243363651584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1637,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1383367901747454000,
+			"id_str": "1383367901747453967",
+			"name": "이게될까? 🤔",
+			"screen_name": "_ssap_possible",
+			"location": "",
+			"description": "이게될까? 공식 계정🤓 보고싶은 거 있으면 #이거내놔 태그해서 우리 불러요🔈👇🏻링크로 보러가기👇🏻본편은 카카오페이지에서",
+			"url": "https://t.co/p0iTzSjTeq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p0iTzSjTeq",
+							"expanded_url": "https://youtu.be/R_Ek1pczt7s",
+							"display_url": "youtu.be/R_Ek1pczt7s",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13314,
+			"friends_count": 5,
+			"listed_count": 28,
+			"created_at": "Sat Apr 17 10:33:30 +0000 2021",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428022571019096066/gCXX65YL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428022571019096066/gCXX65YL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1383367901747453967/1622224126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1255,
+		"favorite_count": 4180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#될파라치 이달소 🔥청양이랑🌟청량도 잘하면 어떡하죠? 진짜 안 사랑하는 법 몰라🥺 상큼 뿜뿜 넘치는 영상이 궁금하다면 #카카오페이지 #이달의소녀 편을 확인하세요!\n\n👇#플립댓_챌린지 도 있어요🔁 \n▶️https://t.co/5xkGraru22\n\n#톡드립 #Goldenchild #장준 #AB6IX #전웅 #LOONA \n@loonatheworld https://t.co/an3bg9QeNf"
+	},
+	{
 		"created_at": "Sat Jul 02 02:40:14 +0000 2022",
 		"id": 1543057536802504700,
 		"id_str": "1543061957799985152",
