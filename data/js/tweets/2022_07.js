@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 02 01:40:10 +0000 2022",
+		"id": 1543037903613223000,
+		"id_str": "1543046841281007617",
+		"full_text": "🎉aespa Snapchat account open🎉\nAdd aespa on Snapchat! 👻\nAlso try Life’s Too Short filter ✨\n\n➫ https://t.co/cVcnHIqeXP\n🤳https://t.co/sWimPiVPr1\n\n#aespa #æspa #에스파 \n#Snapchat\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "Snapchat",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "aespa_LTS",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						210,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cVcnHIqeXP",
+					"expanded_url": "http://www.snapchat.com/add/aespa.official",
+					"display_url": "snapchat.com/add/aespa.offi…",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/sWimPiVPr1",
+					"expanded_url": "http://bit.ly/3a4VZZn",
+					"display_url": "bit.ly/3a4VZZn",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2850342,
+			"friends_count": 2,
+			"listed_count": 8851,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2337,
+		"favorite_count": 7983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎉aespa Snapchat account open🎉\nAdd aespa on Snapchat! 👻\nAlso try Life’s Too Short filter ✨\n\n➫ https://t.co/cVcnHIqeXP\n🤳https://t.co/sWimPiVPr1\n\n#aespa #æspa #에스파 \n#Snapchat\n#LifesTooShort #LTS #aespa_LTS\n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Fri Jul 01 16:40:27 +0000 2022",
 		"id": 1542896348647018500,
 		"id_str": "1542911018585784321",
