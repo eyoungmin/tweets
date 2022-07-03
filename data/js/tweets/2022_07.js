@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 03 09:45:36 +0000 2022",
+		"id": 1543519921824563200,
+		"id_str": "1543531395611516928",
+		"full_text": "📢 청량&amp;몽환으로 돌아온 🤍이달의 소녀🤍\n미모로 아돌라를 뒤집으신 이달소의 첫 왔다갔디오!\n오빛 여러분들 많관부...!🙏\n\nLOONA's interview with MBC RADIO.\nCheck below link to watch it!\n▶https://t.co/ox5yE1GLmy\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/fnszxRDDAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ox5yE1GLmy",
+					"expanded_url": "https://youtu.be/NzM9d4jNXjA",
+					"display_url": "youtu.be/NzM9d4jNXjA",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543309221470490600,
+					"id_str": "1543309221470490624",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543309221470490624/pu/img/TftWgIUP_pDMxi4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543309221470490624/pu/img/TftWgIUP_pDMxi4G.jpg",
+					"url": "https://t.co/fnszxRDDAy",
+					"display_url": "pic.twitter.com/fnszxRDDAy",
+					"expanded_url": "https://twitter.com/radiombc/status/1543519921824563200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543309221470490600,
+					"id_str": "1543309221470490624",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543309221470490624/pu/img/TftWgIUP_pDMxi4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543309221470490624/pu/img/TftWgIUP_pDMxi4G.jpg",
+					"url": "https://t.co/fnszxRDDAy",
+					"display_url": "pic.twitter.com/fnszxRDDAy",
+					"expanded_url": "https://twitter.com/radiombc/status/1543519921824563200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41007,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1543309221470490624/pu/pl/Zlgg1S_STZphhp_j.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543309221470490624/pu/vid/640x360/I3GNzp1SdSOhi79I.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543309221470490624/pu/vid/1280x720/f-oFK2KImGcCDDND.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543309221470490624/pu/vid/480x270/juH6ycjI6x1Ycpej.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79716,
+			"friends_count": 43,
+			"listed_count": 598,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 청량&amp;몽환으로 돌아온 🤍이달의 소녀🤍\n미모로 아돌라를 뒤집으신 이달소의 첫 왔다갔디오!\n오빛 여러분들 많관부...!🙏\n\nLOONA's interview with MBC RADIO.\nCheck below link to watch it!\n▶https://t.co/ox5yE1GLmy\n\n#이달의소녀 #LOONA #FlipThat\n@loonatheworld https://t.co/fnszxRDDAy"
+	},
+	{
 		"created_at": "Sun Jul 03 08:40:30 +0000 2022",
 		"id": 1543513860203638800,
 		"id_str": "1543515012014215169",
