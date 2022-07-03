@@ -1,6 +1,1407 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 03 01:40:36 +0000 2022",
+		"id": 1543406879317307400,
+		"id_str": "1543409341029564417",
+		"full_text": "@UniStudios\n#UniversalStudiosHollywood #ad\n#aespa #KARINA #NINGNING https://t.co/AzJ1kG6Zsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UniversalStudiosHollywood",
+					"indices": [
+						12,
+						38
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543406545995968500,
+					"id_str": "1543406545995968513",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtIE4YaMAEetrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtIE4YaMAEetrg.jpg",
+					"url": "https://t.co/AzJ1kG6Zsj",
+					"display_url": "pic.twitter.com/AzJ1kG6Zsj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406879317307393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543406545995968500,
+					"id_str": "1543406545995968513",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtIE4YaMAEetrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtIE4YaMAEetrg.jpg",
+					"url": "https://t.co/AzJ1kG6Zsj",
+					"display_url": "pic.twitter.com/AzJ1kG6Zsj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406879317307393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543406544444092400,
+					"id_str": "1543406544444092416",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtIEymacAAmiuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtIEymacAAmiuK.jpg",
+					"url": "https://t.co/AzJ1kG6Zsj",
+					"display_url": "pic.twitter.com/AzJ1kG6Zsj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406879317307393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 33578424,
+		"in_reply_to_user_id_str": "33578424",
+		"in_reply_to_screen_name": "UniStudios",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857137,
+			"friends_count": 2,
+			"listed_count": 8868,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1659,
+		"favorite_count": 2847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@UniStudios\n#UniversalStudiosHollywood #ad\n#aespa #KARINA #NINGNING https://t.co/AzJ1kG6Zsj"
+	},
+	{
+		"created_at": "Sun Jul 03 01:40:31 +0000 2022",
+		"id": 1543406208434184200,
+		"id_str": "1543409319554809856",
+		"full_text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/nUhp2VgPyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UniversalStudiosHollywood",
+					"indices": [
+						20,
+						46
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543406078029078500,
+					"id_str": "1543406078029078528",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543406078029078528/pu/img/Y5qPeKvPKexdshDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543406078029078528/pu/img/Y5qPeKvPKexdshDd.jpg",
+					"url": "https://t.co/nUhp2VgPyP",
+					"display_url": "pic.twitter.com/nUhp2VgPyP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406208434184193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543406078029078500,
+					"id_str": "1543406078029078528",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1543406078029078528/pu/img/Y5qPeKvPKexdshDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1543406078029078528/pu/img/Y5qPeKvPKexdshDd.jpg",
+					"url": "https://t.co/nUhp2VgPyP",
+					"display_url": "pic.twitter.com/nUhp2VgPyP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406208434184193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9068,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1543406078029078528/pu/pl/W7Fc1GH222LqLGp2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543406078029078528/pu/vid/480x852/i_8foEbhV1a_kVNg.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543406078029078528/pu/vid/320x568/ZZKjy9TIuoG0gKtD.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1543406078029078528/pu/vid/720x1280/xvs3geZjNnp5mqge.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543406061306409000,
+		"in_reply_to_status_id_str": "1543406061306408960",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857137,
+			"friends_count": 2,
+			"listed_count": 8868,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3876,
+		"favorite_count": 10532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/nUhp2VgPyP"
+	},
+	{
+		"created_at": "Sun Jul 03 01:40:24 +0000 2022",
+		"id": 1543406061306409000,
+		"id_str": "1543409289703858176",
+		"full_text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/zGk2p6WKBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UniversalStudiosHollywood",
+					"indices": [
+						20,
+						46
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543405972940791800,
+					"id_str": "1543405972940791808",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtHjhlaIAAFeXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtHjhlaIAAFeXz.jpg",
+					"url": "https://t.co/zGk2p6WKBl",
+					"display_url": "pic.twitter.com/zGk2p6WKBl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406061306408960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543405972940791800,
+					"id_str": "1543405972940791808",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtHjhlaIAAFeXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtHjhlaIAAFeXz.jpg",
+					"url": "https://t.co/zGk2p6WKBl",
+					"display_url": "pic.twitter.com/zGk2p6WKBl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406061306408960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543405972915646500,
+					"id_str": "1543405972915646464",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtHjhfacAA8Jwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtHjhfacAA8Jwk.jpg",
+					"url": "https://t.co/zGk2p6WKBl",
+					"display_url": "pic.twitter.com/zGk2p6WKBl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406061306408960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543404579433648000,
+					"id_str": "1543404579433648128",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtGSaXakAAtC7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtGSaXakAAtC7q.jpg",
+					"url": "https://t.co/zGk2p6WKBl",
+					"display_url": "pic.twitter.com/zGk2p6WKBl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543406061306408960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543404529852776400,
+		"in_reply_to_status_id_str": "1543404529852776449",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857137,
+			"friends_count": 2,
+			"listed_count": 8868,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4590,
+		"favorite_count": 12614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/zGk2p6WKBl"
+	},
+	{
+		"created_at": "Sun Jul 03 01:40:21 +0000 2022",
+		"id": 1543404529852776400,
+		"id_str": "1543409276617740288",
+		"full_text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/pHzPm5GcCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UniversalStudiosHollywood",
+					"indices": [
+						20,
+						46
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543403967526600700,
+					"id_str": "1543403967526600704",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFuy1aAAA1WUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFuy1aAAA1WUx.jpg",
+					"url": "https://t.co/pHzPm5GcCg",
+					"display_url": "pic.twitter.com/pHzPm5GcCg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543404529852776449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543403967526600700,
+					"id_str": "1543403967526600704",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFuy1aAAA1WUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFuy1aAAA1WUx.jpg",
+					"url": "https://t.co/pHzPm5GcCg",
+					"display_url": "pic.twitter.com/pHzPm5GcCg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543404529852776449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543403967526633500,
+					"id_str": "1543403967526633473",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFuy1agAE7DF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFuy1agAE7DF2.jpg",
+					"url": "https://t.co/pHzPm5GcCg",
+					"display_url": "pic.twitter.com/pHzPm5GcCg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543404529852776449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543403967535005700,
+					"id_str": "1543403967535005696",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFuy3aQAAO7U3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFuy3aQAAO7U3.jpg",
+					"url": "https://t.co/pHzPm5GcCg",
+					"display_url": "pic.twitter.com/pHzPm5GcCg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543404529852776449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857137,
+			"friends_count": 2,
+			"listed_count": 8868,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11076,
+		"favorite_count": 29211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐳🐬🐋🦕💦🧊\n\n@UniStudios #UniversalStudiosHollywood #ad\n#aespa #KARINA https://t.co/pHzPm5GcCg"
+	},
+	{
+		"created_at": "Sun Jul 03 01:40:19 +0000 2022",
+		"id": 1543403497575821300,
+		"id_str": "1543409267323023360",
+		"full_text": "@UniStudios #UniversalStudiosHollywood #ad\n#aespa #NINGNING https://t.co/YBtcgZYWrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UniversalStudiosHollywood",
+					"indices": [
+						12,
+						38
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniStudios",
+					"name": "Universal Studios Hollywood",
+					"id": 33578424,
+					"id_str": "33578424",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543403450184368000,
+					"id_str": "1543403450184368128",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFQrlaAAANrzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFQrlaAAANrzG.jpg",
+					"url": "https://t.co/YBtcgZYWrN",
+					"display_url": "pic.twitter.com/YBtcgZYWrN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543403497575821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1065,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543403450184368000,
+					"id_str": "1543403450184368128",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFQrlaAAANrzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFQrlaAAANrzG.jpg",
+					"url": "https://t.co/YBtcgZYWrN",
+					"display_url": "pic.twitter.com/YBtcgZYWrN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543403497575821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1065,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1278,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543403450184376300,
+					"id_str": "1543403450184376320",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFQrlaIAAmcyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFQrlaIAAmcyR.jpg",
+					"url": "https://t.co/YBtcgZYWrN",
+					"display_url": "pic.twitter.com/YBtcgZYWrN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543403497575821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543403451899838500,
+					"id_str": "1543403451899838464",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFQx-aAAAfwOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFQx-aAAAfwOU.jpg",
+					"url": "https://t.co/YBtcgZYWrN",
+					"display_url": "pic.twitter.com/YBtcgZYWrN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543403497575821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543403451904045000,
+					"id_str": "1543403451904045056",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FWtFQx_aMAADy4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWtFQx_aMAADy4k.jpg",
+					"url": "https://t.co/YBtcgZYWrN",
+					"display_url": "pic.twitter.com/YBtcgZYWrN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543403497575821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543403446040404000,
+		"in_reply_to_status_id_str": "1543403446040403968",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857137,
+			"friends_count": 2,
+			"listed_count": 8868,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4613,
+		"favorite_count": 12975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@UniStudios #UniversalStudiosHollywood #ad\n#aespa #NINGNING https://t.co/YBtcgZYWrN"
+	},
+	{
 		"created_at": "Sun Jul 03 00:40:09 +0000 2022",
 		"id": 1543392127845269500,
 		"id_str": "1543394128662249472",
