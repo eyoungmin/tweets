@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 03 04:45:36 +0000 2022",
+		"id": 1543444422817226800,
+		"id_str": "1543455897791467520",
+		"full_text": "[#TMINEWSSHOW/19회]  \"저는 알바 왕이~(╯▽╰ )\" 즉석에서 맞혀보는 이달의 소녀 알바 왕은?!\n\n📍 영상 보러가기\n▶️ https://t.co/0QqwjhYr0G\n▶️ https://t.co/Fo60VGDPo8\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #김립 #이브 #최리 #희진 #엠넷 https://t.co/QODJKes1IV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						183,
+						185
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						206,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QqwjhYr0G",
+					"expanded_url": "http://youtu.be/cRHrczK06pg",
+					"display_url": "youtu.be/cRHrczK06pg",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/Fo60VGDPo8",
+					"expanded_url": "http://tv.naver.com/v/27653656",
+					"display_url": "tv.naver.com/v/27653656",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1542465041152192500,
+					"id_str": "1542465041152192513",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FWfvyFhVsAEfHW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWfvyFhVsAEfHW0.jpg",
+					"url": "https://t.co/QODJKes1IV",
+					"display_url": "pic.twitter.com/QODJKes1IV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1543444422817226752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542465041152192500,
+					"id_str": "1542465041152192513",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FWfvyFhVsAEfHW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWfvyFhVsAEfHW0.jpg",
+					"url": "https://t.co/QODJKes1IV",
+					"display_url": "pic.twitter.com/QODJKes1IV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1543444422817226752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066352,
+			"friends_count": 20908,
+			"listed_count": 3034,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW/19회]  \"저는 알바 왕이~(╯▽╰ )\" 즉석에서 맞혀보는 이달의 소녀 알바 왕은?!\n\n📍 영상 보러가기\n▶️ https://t.co/0QqwjhYr0G\n▶️ https://t.co/Fo60VGDPo8\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #김립 #이브 #최리 #희진 #엠넷 https://t.co/QODJKes1IV"
+	},
+	{
 		"created_at": "Sun Jul 03 01:40:36 +0000 2022",
 		"id": 1543406879317307400,
 		"id_str": "1543409341029564417",
