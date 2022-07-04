@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 08:16:29 +0000 2022",
+		"id": 1543868871807213600,
+		"id_str": "1543871356869042176",
+		"full_text": "[TikTok]\n\n#PIXY 와 함께 뒤집어 뒤집어🔁😜\n@official_pixy\n\n▶️ https://t.co/cMquwbDLYj\n\n#이달의소녀 #LOONA #여진 #YeoJin #고원 #GoWon #픽시 #로라 #LOLA #디아 #DIA #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PIXY",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "픽시",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "로라",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "LOLA",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "디아",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "DIA",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						159,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_pixy",
+					"name": "pixy_official",
+					"id": 1269910095472648200,
+					"id_str": "1269910095472648192",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cMquwbDLYj",
+					"expanded_url": "https://vt.tiktok.com/ZSdo9fxMM/?k=1",
+					"display_url": "vt.tiktok.com/ZSdo9fxMM/?k=1",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 949766,
+			"friends_count": 2,
+			"listed_count": 8798,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 607,
+		"favorite_count": 2231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n#PIXY 와 함께 뒤집어 뒤집어🔁😜\n@official_pixy\n\n▶️ https://t.co/cMquwbDLYj\n\n#이달의소녀 #LOONA #여진 #YeoJin #고원 #GoWon #픽시 #로라 #LOLA #디아 #DIA #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
 		"created_at": "Mon Jul 04 06:40:20 +0000 2022",
 		"id": 1543846204265857000,
 		"id_str": "1543847157068972032",
