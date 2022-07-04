@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 10:40:10 +0000 2022",
+		"id": 1543897405371719700,
+		"id_str": "1543907512835084290",
+		"full_text": "#CHUNGHA #BareRare #Sparkling #CaliforniaDream\n여름하면 청하💙, 청하하면 여름🌊\n\n여름을 시원하고 스파클하게 만들어 줄 서머퀸, \n청하가 #OUTNOW로 찾아옵니다💫\n\n최초 공개되는 &lt;Sparkling&gt; 무대\n'Bare&amp;Rare Pt.1' 비하인드 토크!\n7월 11일 PM 7시 네이버 NOW에서‼️\n🎥https://t.co/2D0W3zvHws https://t.co/dgyaIT7BKc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "CaliforniaDream",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"text": "OUTNOW로",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2D0W3zvHws",
+					"expanded_url": "https://youtube.com/shorts/EUgCO8RNCCE",
+					"display_url": "youtube.com/shorts/EUgCO8R…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543818356880715800,
+					"id_str": "1543818356880715777",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy-nbeaMAEutAk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FWy-nbeaMAEutAk.png",
+					"url": "https://t.co/dgyaIT7BKc",
+					"display_url": "pic.twitter.com/dgyaIT7BKc",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1543897405371719681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543818356880715800,
+					"id_str": "1543818356880715777",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy-nbeaMAEutAk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FWy-nbeaMAEutAk.png",
+					"url": "https://t.co/dgyaIT7BKc",
+					"display_url": "pic.twitter.com/dgyaIT7BKc",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1543897405371719681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "PLAY YOUR MUSIC #MUPLY #뮤플리 💜 #돌들의침묵 #플리예고LIVE #OUTNOWUnlimited",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30938,
+			"friends_count": 87,
+			"listed_count": 75,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475285350310617091/e0WPgRG-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475285350310617091/e0WPgRG-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1640570413",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CHUNGHA #BareRare #Sparkling #CaliforniaDream\n여름하면 청하💙, 청하하면 여름🌊\n\n여름을 시원하고 스파클하게 만들어 줄 서머퀸, \n청하가 #OUTNOW로 찾아옵니다💫\n\n최초 공개되는 &lt;Sparkling&gt; 무대\n'Bare&amp;Rare Pt.1' 비하인드 토크!\n7월 11일 PM 7시 네이버 NOW에서‼️\n🎥https://t.co/2D0W3zvHws https://t.co/dgyaIT7BKc"
+	},
+	{
 		"created_at": "Mon Jul 04 09:53:37 +0000 2022",
 		"id": 1543894385036779500,
 		"id_str": "1543895799628582913",
