@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 09:53:37 +0000 2022",
+		"id": 1543894385036779500,
+		"id_str": "1543895799628582913",
+		"full_text": "[#NEWS] 서현 \"'소시탐탐'은 소녀시대 15주년 프로젝트. 에너지와 비글미 기대해 주세요\"\n▶ https://t.co/gbCDGvjs9S\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/nLixDa9Ypn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gbCDGvjs9S",
+					"expanded_url": "https://bit.ly/3bP1gED",
+					"display_url": "bit.ly/3bP1gED",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543893123067043800,
+					"id_str": "1543893123067043840",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0CnZOUYAAsWl5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0CnZOUYAAsWl5.jpg",
+					"url": "https://t.co/nLixDa9Ypn",
+					"display_url": "pic.twitter.com/nLixDa9Ypn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1543894385036779520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543893123067043800,
+					"id_str": "1543893123067043840",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FW0CnZOUYAAsWl5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW0CnZOUYAAsWl5.jpg",
+					"url": "https://t.co/nLixDa9Ypn",
+					"display_url": "pic.twitter.com/nLixDa9Ypn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1543894385036779520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61005,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현 \"'소시탐탐'은 소녀시대 15주년 프로젝트. 에너지와 비글미 기대해 주세요\"\n▶ https://t.co/gbCDGvjs9S\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/nLixDa9Ypn"
+	},
+	{
+		"created_at": "Mon Jul 04 09:40:28 +0000 2022",
+		"id": 1543890649962778600,
+		"id_str": "1543892489463074816",
+		"full_text": "[TikTok]\n#이민혁 #HUTA 와 함께 뒤집어 뒤집어🔁😜\n@OFFICIALBTOB\n\n▶ https://t.co/T6mpOTiYuP\n\n#이달의소녀 #LOONA #하슬 #HaSeul #이브 #Yves #OliviaHye #HUTA #LEE_MINHYUK #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이민혁",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "HUTA",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "HUTA",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "LEE_MINHYUK",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						167,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OFFICIALBTOB",
+					"name": "BTOB·비투비",
+					"id": 543462047,
+					"id_str": "543462047",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T6mpOTiYuP",
+					"expanded_url": "https://vt.tiktok.com/ZSdoQBJ8V/?k=1",
+					"display_url": "vt.tiktok.com/ZSdoQBJ8V/?k=1",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 949804,
+			"friends_count": 2,
+			"listed_count": 8801,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 524,
+		"favorite_count": 1640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n#이민혁 #HUTA 와 함께 뒤집어 뒤집어🔁😜\n@OFFICIALBTOB\n\n▶ https://t.co/T6mpOTiYuP\n\n#이달의소녀 #LOONA #하슬 #HaSeul #이브 #Yves #OliviaHye #HUTA #LEE_MINHYUK #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Mon Jul 04 09:34:29 +0000 2022",
+		"id": 1543882384504127500,
+		"id_str": "1543890985758773248",
+		"full_text": "[유애나공지]\n💚5차 Lotto Show 응모 안내\n\n▶ https://t.co/lnh5mCgcGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lnh5mCgcGo",
+					"expanded_url": "https://cafe.daum.net/IU/S1IB",
+					"display_url": "cafe.daum.net/IU/S1IB",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1338966,
+			"friends_count": 0,
+			"listed_count": 2282,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 461,
+		"favorite_count": 2059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지]\n💚5차 Lotto Show 응모 안내\n\n▶ https://t.co/lnh5mCgcGo"
+	},
+	{
 		"created_at": "Mon Jul 04 08:16:29 +0000 2022",
 		"id": 1543868871807213600,
 		"id_str": "1543871356869042176",
