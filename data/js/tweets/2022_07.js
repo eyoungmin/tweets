@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 01:45:36 +0000 2022",
+		"id": 1543759295325491200,
+		"id_str": "1543772988272742400",
+		"full_text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; '이달의소녀(이브·최리·올리비아 혜)'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 혜주 미모로 월요병 극뽀옥 ٩( *˙0˙*)۶🔥 ) https://t.co/uLj57fa38K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1543758556964749300,
+					"id_str": "1543758556964749312",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyIOnbagAAU0CE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyIOnbagAAU0CE.jpg",
+					"url": "https://t.co/uLj57fa38K",
+					"display_url": "pic.twitter.com/uLj57fa38K",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1543759295325491200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543758556964749300,
+					"id_str": "1543758556964749312",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyIOnbagAAU0CE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyIOnbagAAU0CE.jpg",
+					"url": "https://t.co/uLj57fa38K",
+					"display_url": "pic.twitter.com/uLj57fa38K",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1543759295325491200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6543,
+			"friends_count": 11,
+			"listed_count": 25,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; '이달의소녀(이브·최리·올리비아 혜)'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 혜주 미모로 월요병 극뽀옥 ٩( *˙0˙*)۶🔥 ) https://t.co/uLj57fa38K"
+	},
+	{
 		"created_at": "Sun Jul 03 22:40:09 +0000 2022",
 		"id": 1543711420033941500,
 		"id_str": "1543726317409034243",
