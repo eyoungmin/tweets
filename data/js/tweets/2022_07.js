@@ -1,6 +1,1584 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 04:45:41 +0000 2022",
+		"id": 1543814358362382300,
+		"id_str": "1543818304455950336",
+		"full_text": "TODAY's LINEUP💗\nKIM JAE HWAN, fromis_9, ONEUS, WOODZ, WONPIL, DAY6(Even of Day), LOONA, SF9, PENTAGON, YANG YOSEOP, Highlight, MAMAMOO, JO YURI, YUJU, WJSN THE BLACK, MOONBIN&amp;SANHA, YUQI, (G)I-DLE, ATEEZ, TOMORROW X TOGETHER, Stray Kids, Red Velvet, Seventeen https://t.co/tGpUFnvz2y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tGpUFnvz2y",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787720589582337",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126106,
+			"friends_count": 346,
+			"listed_count": 395,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1543787720589582300,
+		"quoted_status_id_str": "1543787720589582337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tGpUFnvz2y",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1543787720589582337",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 04 02:44:09 +0000 2022",
+			"id": 1543787720589582300,
+			"id_str": "1543787720589582337",
+			"full_text": "Today's K-Bop Playlist👋\n⏰PM 12:00~15:30\n\nListen in the rain~☔\nA collection of songs that are good to get wet in the rain🌧\n\n▶ https://t.co/MWVKqnsdIh\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/HVvjgR7jTn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MWVKqnsdIh",
+						"expanded_url": "https://youtu.be/16LssN_SEqw",
+						"display_url": "youtu.be/16LssN_SEqw",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1543787709525028900,
+						"id_str": "1543787709525028864",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/FWyivhLacAAhyYh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWyivhLacAAhyYh.jpg",
+						"url": "https://t.co/HVvjgR7jTn",
+						"display_url": "pic.twitter.com/HVvjgR7jTn",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787720589582337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1543787709525028900,
+						"id_str": "1543787709525028864",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/FWyivhLacAAhyYh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWyivhLacAAhyYh.jpg",
+						"url": "https://t.co/HVvjgR7jTn",
+						"display_url": "pic.twitter.com/HVvjgR7jTn",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787720589582337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1543787716185591800,
+			"in_reply_to_status_id_str": "1543787716185591808",
+			"in_reply_to_user_id": 744928926,
+			"in_reply_to_user_id_str": "744928926",
+			"in_reply_to_screen_name": "ALLTHEKPOP",
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126106,
+				"friends_count": 346,
+				"listed_count": 395,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9354,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY's LINEUP💗\nKIM JAE HWAN, fromis_9, ONEUS, WOODZ, WONPIL, DAY6(Even of Day), LOONA, SF9, PENTAGON, YANG YOSEOP, Highlight, MAMAMOO, JO YURI, YUJU, WJSN THE BLACK, MOONBIN&amp;SANHA, YUQI, (G)I-DLE, ATEEZ, TOMORROW X TOGETHER, Stray Kids, Red Velvet, Seventeen https://t.co/tGpUFnvz2y"
+	},
+	{
+		"created_at": "Mon Jul 04 04:45:36 +0000 2022",
+		"id": 1543814105965928400,
+		"id_str": "1543818286848438272",
+		"full_text": "오늘의 라인업💗\n김재환, 프로미스나인, 원어스, 우즈(조승연), 원필, 데이식스(이븐 오브 데이), 이달의 소녀, 에스에프나인, 펜타곤, 양요섭, 하이라이트, 마마무, 조유리, 유주, 우주소녀 더 블랙, 문빈&amp;산하, 우기, (여자)아이들, 에이티즈, 투모로우바이투게더, 스트레이 키즈, 레드벨벳, 세븐틴 https://t.co/z8W9buHlVm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8W9buHlVm",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787716185591808",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126106,
+			"friends_count": 346,
+			"listed_count": 395,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1543787716185591800,
+		"quoted_status_id_str": "1543787716185591808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z8W9buHlVm",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1543787716185591808",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 04 02:44:08 +0000 2022",
+			"id": 1543787716185591800,
+			"id_str": "1543787716185591808",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 12:00~15:30\n\n뭘 좋아하실지 몰라서 ☔이슬비, 소나기, 폭우☔ 일단 다 가져왔어요! \n괜히 센치해지는 장마철, 맞춤형 플리 함께 들어요 ( *︾▽︾)💙   \n\n▶ https://t.co/MWVKqnsdIh\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/rOmIfLNfUz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MWVKqnsdIh",
+						"expanded_url": "https://youtu.be/16LssN_SEqw",
+						"display_url": "youtu.be/16LssN_SEqw",
+						"indices": [
+							112,
+							135
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1543787677971263500,
+						"id_str": "1543787677971263489",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/FWyitroaMAETYj2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWyitroaMAETYj2.jpg",
+						"url": "https://t.co/rOmIfLNfUz",
+						"display_url": "pic.twitter.com/rOmIfLNfUz",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787716185591808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1543787677971263500,
+						"id_str": "1543787677971263489",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/FWyitroaMAETYj2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWyitroaMAETYj2.jpg",
+						"url": "https://t.co/rOmIfLNfUz",
+						"display_url": "pic.twitter.com/rOmIfLNfUz",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1543787716185591808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126106,
+				"friends_count": 346,
+				"listed_count": 395,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9354,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n김재환, 프로미스나인, 원어스, 우즈(조승연), 원필, 데이식스(이븐 오브 데이), 이달의 소녀, 에스에프나인, 펜타곤, 양요섭, 하이라이트, 마마무, 조유리, 유주, 우주소녀 더 블랙, 문빈&amp;산하, 우기, (여자)아이들, 에이티즈, 투모로우바이투게더, 스트레이 키즈, 레드벨벳, 세븐틴 https://t.co/z8W9buHlVm"
+	},
+	{
+		"created_at": "Mon Jul 04 04:40:30 +0000 2022",
+		"id": 1543810698483880000,
+		"id_str": "1543817000966840326",
+		"full_text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Drbw5SYKo",
+					"expanded_url": "https://vt.tiktok.com/ZSdoahQL9/",
+					"display_url": "vt.tiktok.com/ZSdoahQL9/",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/C5JJgpcIfg",
+					"expanded_url": "https://www.instagram.com/ar/1503083396761207",
+					"display_url": "instagram.com/ar/15030833967…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543810645274964000,
+		"in_reply_to_status_id_str": "1543810645274963969",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865746,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 1418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Mon Jul 04 04:40:27 +0000 2022",
+		"id": 1543810645274964000,
+		"id_str": "1543816987956154370",
+		"full_text": "🦋 might as well try…\n\nhttps://t.co/hpAUTXY1ir\n\n#NINGNING   \n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls https://t.co/yXRvZaCuRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hpAUTXY1ir",
+					"expanded_url": "https://vt.tiktok.com/ZSdoaJXh2/?k=1",
+					"display_url": "vt.tiktok.com/ZSdoaJXh2/?k=1",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543810636584751000,
+					"id_str": "1543810636584751105",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy3mDIakAEW6Zy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy3mDIakAEW6Zy.jpg",
+					"url": "https://t.co/yXRvZaCuRM",
+					"display_url": "pic.twitter.com/yXRvZaCuRM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543810645274963969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543810636584751000,
+					"id_str": "1543810636584751105",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy3mDIakAEW6Zy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy3mDIakAEW6Zy.jpg",
+					"url": "https://t.co/yXRvZaCuRM",
+					"display_url": "pic.twitter.com/yXRvZaCuRM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543810645274963969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865746,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2059,
+		"favorite_count": 6865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🦋 might as well try…\n\nhttps://t.co/hpAUTXY1ir\n\n#NINGNING   \n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls https://t.co/yXRvZaCuRM"
+	},
+	{
+		"created_at": "Mon Jul 04 04:40:25 +0000 2022",
+		"id": 1543810397093765000,
+		"id_str": "1543816979039096838",
+		"full_text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Drbw5SYKo",
+					"expanded_url": "https://vt.tiktok.com/ZSdoahQL9/",
+					"display_url": "vt.tiktok.com/ZSdoahQL9/",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/C5JJgpcIfg",
+					"expanded_url": "https://www.instagram.com/ar/1503083396761207",
+					"display_url": "instagram.com/ar/15030833967…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543810328504414200,
+		"in_reply_to_status_id_str": "1543810328504414208",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865746,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 1444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Mon Jul 04 04:40:22 +0000 2022",
+		"id": 1543810328504414200,
+		"id_str": "1543816965986422785",
+		"full_text": "⭐️ might as well try…\n\nhttps://t.co/GcAWS31lgp\n\n#WINTER \n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls https://t.co/bio6H2xW1y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GcAWS31lgp",
+					"expanded_url": "https://vt.tiktok.com/ZSdoaFdbg/?k=1",
+					"display_url": "vt.tiktok.com/ZSdoaFdbg/?k=1",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543810319843487700,
+					"id_str": "1543810319843487744",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy3TnLacAA-eVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy3TnLacAA-eVX.jpg",
+					"url": "https://t.co/bio6H2xW1y",
+					"display_url": "pic.twitter.com/bio6H2xW1y",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543810328504414208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543810319843487700,
+					"id_str": "1543810319843487744",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FWy3TnLacAA-eVX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWy3TnLacAA-eVX.jpg",
+					"url": "https://t.co/bio6H2xW1y",
+					"display_url": "pic.twitter.com/bio6H2xW1y",
+					"expanded_url": "https://twitter.com/aespa_official/status/1543810328504414208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865746,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2250,
+		"favorite_count": 6789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⭐️ might as well try…\n\nhttps://t.co/GcAWS31lgp\n\n#WINTER \n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls https://t.co/bio6H2xW1y"
+	},
+	{
+		"created_at": "Mon Jul 04 04:40:17 +0000 2022",
+		"id": 1543809977139097600,
+		"id_str": "1543816948726874115",
+		"full_text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "LTSChallenge",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "LTS",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Drbw5SYKo",
+					"expanded_url": "https://vt.tiktok.com/ZSdoahQL9/",
+					"display_url": "vt.tiktok.com/ZSdoahQL9/",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/C5JJgpcIfg",
+					"expanded_url": "https://www.instagram.com/ar/1503083396761207",
+					"display_url": "instagram.com/ar/15030833967…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543809924345495600,
+		"in_reply_to_status_id_str": "1543809924345495553",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865746,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 348,
+		"favorite_count": 1496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Try Our 'Life's Too Short' Filter!\n\ntiktok ➫ https://t.co/4Drbw5SYKo\ninstagram ➫ https://t.co/C5JJgpcIfg\n\n#aespa #LifesTooShort #LTS \n#LTSChallenge #LTS\n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Mon Jul 04 03:27:20 +0000 2022",
 		"id": 1543792281274429400,
 		"id_str": "1543798588777451521",
