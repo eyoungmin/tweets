@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 06:40:20 +0000 2022",
+		"id": 1543846204265857000,
+		"id_str": "1543847157068972032",
+		"full_text": "[TikTok]\n\n#김희재 와 함께 뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/wWdZXV3ePv\n\n#이달의소녀 #LOONA #진솔 #JinSoul #고원 #GoWon #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김희재",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "플립댓_챌린지",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "FlipThat_Challenge",
+					"indices": [
+						121,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wWdZXV3ePv",
+					"expanded_url": "https://vt.tiktok.com/ZSdoHF8NS/?k=1",
+					"display_url": "vt.tiktok.com/ZSdoHF8NS/?k=1",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 949715,
+			"friends_count": 2,
+			"listed_count": 8799,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 1720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok]\n\n#김희재 와 함께 뒤집어 뒤집어🔁😜\n\n▶️ https://t.co/wWdZXV3ePv\n\n#이달의소녀 #LOONA #진솔 #JinSoul #고원 #GoWon #플립댓 #FlipThat #플립댓_챌린지 #FlipThat_Challenge"
+	},
+	{
+		"created_at": "Mon Jul 04 06:40:17 +0000 2022",
+		"id": 1543842445409915000,
+		"id_str": "1543847144058150912",
+		"full_text": "aespa is holding a comeback live on 7/11 at 8PM (KST) to celebrate the release of their second mini album 'Girls' with the fans online!\n\nhttps://t.co/5FTHgQ6035 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						189,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5FTHgQ6035",
+					"expanded_url": "https://bit.ly/3P2G10s",
+					"display_url": "bit.ly/3P2G10s",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1543842441018556400,
+		"in_reply_to_status_id_str": "1543842441018556416",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2866326,
+			"friends_count": 2,
+			"listed_count": 8881,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 993,
+		"favorite_count": 3367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa is holding a comeback live on 7/11 at 8PM (KST) to celebrate the release of their second mini album 'Girls' with the fans online!\n\nhttps://t.co/5FTHgQ6035 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Mon Jul 04 04:45:41 +0000 2022",
 		"id": 1543814358362382300,
 		"id_str": "1543818304455950336",
