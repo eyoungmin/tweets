@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 12:40:14 +0000 2022",
+		"id": 1544271207645991000,
+		"id_str": "1544300119771807750",
+		"full_text": "오늘도 내일도 네버엔딩 슈가데이🍭🔥  (With #이달소)\n\n🔗 https://t.co/DqvSdfYsoD\n\n#영재 #Youngjae #YOUNGJAE_SUGAR #SUGAR #영재_슈가 #Tiktok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "영재",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "Youngjae",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "YOUNGJAE_SUGAR",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"text": "SUGAR",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "영재_슈가",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "Tiktok",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DqvSdfYsoD",
+					"expanded_url": "https://vt.tiktok.com/ZSR1JAFqC/?k=1",
+					"display_url": "vt.tiktok.com/ZSR1JAFqC/?k=1",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1437665675175084000,
+			"id_str": "1437665675175084033",
+			"name": "영재 YOUNGJAE",
+			"screen_name": "YOUNGJAExArs",
+			"location": "",
+			"description": "영재 YOUNGJAE Official Twitter",
+			"url": "https://t.co/itbuxxBNtF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itbuxxBNtF",
+							"expanded_url": "https://youtu.be/D-wRk-L_0AQ",
+							"display_url": "youtu.be/D-wRk-L_0AQ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 448545,
+			"friends_count": 3,
+			"listed_count": 620,
+			"created_at": "Tue Sep 14 06:34:44 +0000 2021",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1532167502046072833/0L15VqDK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532167502046072833/0L15VqDK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437665675175084033/1655803020",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2665,
+		"favorite_count": 5499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 내일도 네버엔딩 슈가데이🍭🔥  (With #이달소)\n\n🔗 https://t.co/DqvSdfYsoD\n\n#영재 #Youngjae #YOUNGJAE_SUGAR #SUGAR #영재_슈가 #Tiktok"
+	},
+	{
 		"created_at": "Tue Jul 05 11:45:36 +0000 2022",
 		"id": 1544274901728575500,
 		"id_str": "1544286370402914306",
