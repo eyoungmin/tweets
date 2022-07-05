@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 01:29:39 +0000 2022",
+		"id": 1544127076680118300,
+		"id_str": "1544131360054444032",
+		"full_text": "[#그레이트서울인베이전] BAND MEMBER PROFILEㅣ⑦ #WalkingAfterU\n\n#해인 #한겸 #아현 #써니\n\nGSI 본방📺 시청 전,\n밴드 멤버 숙지는 완료하셨나요?\n📇BAND MEMBER PROFILE📇로\n멤버 한 명 한 명 가까워져보아요!\n\n2022.07.20 (수) 밤 9시 40분 첫방송\n⠀\n#GreatSeoulInvasion #GSI #지에스아이 #Mnet https://t.co/I15M6IT3eY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그레이트서울인베이전",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "WalkingAfterU",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"text": "해인",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "한겸",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "아현",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "GreatSeoulInvasion",
+					"indices": [
+						175,
+						194
+					]
+				},
+				{
+					"text": "GSI",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "지에스아이",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544127062666907600,
+					"id_str": "1544127062666907648",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW3XYeJUEAAcsfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW3XYeJUEAAcsfu.jpg",
+					"url": "https://t.co/I15M6IT3eY",
+					"display_url": "pic.twitter.com/I15M6IT3eY",
+					"expanded_url": "https://twitter.com/MnetKR/status/1544127076680118272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544127062666907600,
+					"id_str": "1544127062666907648",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW3XYeJUEAAcsfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW3XYeJUEAAcsfu.jpg",
+					"url": "https://t.co/I15M6IT3eY",
+					"display_url": "pic.twitter.com/I15M6IT3eY",
+					"expanded_url": "https://twitter.com/MnetKR/status/1544127076680118272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544127062696374300,
+					"id_str": "1544127062696374272",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW3XYeQVsAAK8Kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW3XYeQVsAAK8Kc.jpg",
+					"url": "https://t.co/I15M6IT3eY",
+					"display_url": "pic.twitter.com/I15M6IT3eY",
+					"expanded_url": "https://twitter.com/MnetKR/status/1544127076680118272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544127062704722000,
+					"id_str": "1544127062704721920",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FW3XYeSVEAATmhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW3XYeSVEAATmhj.jpg",
+					"url": "https://t.co/I15M6IT3eY",
+					"display_url": "pic.twitter.com/I15M6IT3eY",
+					"expanded_url": "https://twitter.com/MnetKR/status/1544127076680118272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066260,
+			"friends_count": 20909,
+			"listed_count": 3032,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#그레이트서울인베이전] BAND MEMBER PROFILEㅣ⑦ #WalkingAfterU\n\n#해인 #한겸 #아현 #써니\n\nGSI 본방📺 시청 전,\n밴드 멤버 숙지는 완료하셨나요?\n📇BAND MEMBER PROFILE📇로\n멤버 한 명 한 명 가까워져보아요!\n\n2022.07.20 (수) 밤 9시 40분 첫방송\n⠀\n#GreatSeoulInvasion #GSI #지에스아이 #Mnet https://t.co/I15M6IT3eY"
+	},
+	{
 		"created_at": "Mon Jul 04 15:40:09 +0000 2022",
 		"id": 1543973033504714800,
 		"id_str": "1543983009350680577",
