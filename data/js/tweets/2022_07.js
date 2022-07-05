@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 15:40:21 +0000 2022",
+		"id": 1544335490698059800,
+		"id_str": "1544345445425881088",
+		"full_text": "📣 LIVE AUDIO STREAM FROM PARIS\n\nOn Sunday 17 July, you can hear the band's full Paris Stade de France show for free through the official #MusicOfTheSpheresWorldTour app, presented by @sap. \n\n📱 Download the app now at https://t.co/qEL4DB53RK https://t.co/vvQUE1Iijz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						137,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SAP",
+					"name": "SAP",
+					"id": 76117579,
+					"id_str": "76117579",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qEL4DB53RK",
+					"expanded_url": "http://coldplay.com/app",
+					"display_url": "coldplay.com/app",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544333089190678500,
+					"id_str": "1544333089190678528",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+					"url": "https://t.co/vvQUE1Iijz",
+					"display_url": "pic.twitter.com/vvQUE1Iijz",
+					"expanded_url": "https://twitter.com/coldplay/status/1544335490698059776/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544333089190678500,
+					"id_str": "1544333089190678528",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+					"url": "https://t.co/vvQUE1Iijz",
+					"display_url": "pic.twitter.com/vvQUE1Iijz",
+					"expanded_url": "https://twitter.com/coldplay/status/1544335490698059776/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20020,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/540x540/KSiAuZ_685zenapW.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544333089190678528/pl/PCjrUQ-UWRXVfqJl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/720x720/iusw-1D_rQGAhWW-.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/320x320/9w-ZgRX3k5t2TpxH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://coldplay.com/app"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600000,
+			"friends_count": 775,
+			"listed_count": 42472,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 1684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣 LIVE AUDIO STREAM FROM PARIS\n\nOn Sunday 17 July, you can hear the band's full Paris Stade de France show for free through the official #MusicOfTheSpheresWorldTour app, presented by @sap. \n\n📱 Download the app now at https://t.co/qEL4DB53RK https://t.co/vvQUE1Iijz"
+	},
+	{
+		"created_at": "Tue Jul 05 15:40:16 +0000 2022",
+		"id": 1544335445290393600,
+		"id_str": "1544345423669706752",
+		"full_text": "aespa 에스파 'Girls' Real World Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/jbNPhnJbFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544335426030563300,
+					"id_str": "1544335426030563328",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6U40KacAA_J8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6U40KacAA_J8y.jpg",
+					"url": "https://t.co/jbNPhnJbFQ",
+					"display_url": "pic.twitter.com/jbNPhnJbFQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544335445290393601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544335426030563300,
+					"id_str": "1544335426030563328",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6U40KacAA_J8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6U40KacAA_J8y.jpg",
+					"url": "https://t.co/jbNPhnJbFQ",
+					"display_url": "pic.twitter.com/jbNPhnJbFQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544335445290393601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544335426026356700,
+					"id_str": "1544335426026356736",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6U40JaQAAaj47.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6U40JaQAAaj47.jpg",
+					"url": "https://t.co/jbNPhnJbFQ",
+					"display_url": "pic.twitter.com/jbNPhnJbFQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544335445290393601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544335426001191000,
+					"id_str": "1544335426001190912",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FW6U40DaQAAkWio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW6U40DaQAAkWio.jpg",
+					"url": "https://t.co/jbNPhnJbFQ",
+					"display_url": "pic.twitter.com/jbNPhnJbFQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544335445290393601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2873267,
+			"friends_count": 2,
+			"listed_count": 8884,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23505,
+		"favorite_count": 47698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 'Girls' Real World Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/jbNPhnJbFQ"
+	},
+	{
 		"created_at": "Tue Jul 05 15:13:59 +0000 2022",
 		"id": 1544335693798785000,
 		"id_str": "1544338810330161152",
