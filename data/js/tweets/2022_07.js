@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 14:40:17 +0000 2022",
+		"id": 1544305753082810400,
+		"id_str": "1544330328357093376",
+		"full_text": "The #GlobalGoals are facing some serious global challenges. \n\nBut the #SDGs &amp; the #2030Agenda are still within our reach, if we start acting now. \n\nThe #HLPF 2022 starts today. Let's act NOW for the SDGs 👉 https://t.co/a8NJwb88AY https://t.co/V0YioVJOlv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"text": "SDGs",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "2030Agenda",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "HLPF",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a8NJwb88AY",
+					"expanded_url": "http://hlpf.un.org/2022",
+					"display_url": "hlpf.un.org/2022",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544305595850842000,
+					"id_str": "1544305595850842112",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544305595850842112/pu/img/cp2GDrlmB1IauuQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544305595850842112/pu/img/cp2GDrlmB1IauuQ2.jpg",
+					"url": "https://t.co/V0YioVJOlv",
+					"display_url": "pic.twitter.com/V0YioVJOlv",
+					"expanded_url": "https://twitter.com/UNECOSOC/status/1544305753082810369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544305595850842000,
+					"id_str": "1544305595850842112",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544305595850842112/pu/img/cp2GDrlmB1IauuQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544305595850842112/pu/img/cp2GDrlmB1IauuQ2.jpg",
+					"url": "https://t.co/V0YioVJOlv",
+					"display_url": "pic.twitter.com/V0YioVJOlv",
+					"expanded_url": "https://twitter.com/UNECOSOC/status/1544305753082810369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123008,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544305595850842112/pu/vid/480x270/HrWtpWjaDTlhOWZF.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544305595850842112/pu/vid/640x360/b71ijE9onmERmMHj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544305595850842112/pu/pl/MyQwKYINILNZyzT6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544305595850842112/pu/vid/1280x720/dwusosnbW7KC7Nxt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 504914052,
+			"id_str": "504914052",
+			"name": "UN ECOSOC President",
+			"screen_name": "UNECOSOC",
+			"location": "New York",
+			"description": "Collen Vixen Kelapile - United Nations Economic and Social Council (UNECOSOC) President - Official Twitter Account of UN ECOSOC",
+			"url": "https://t.co/7oAemiNgh4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7oAemiNgh4",
+							"expanded_url": "http://www.un.org/en/ecosoc/",
+							"display_url": "un.org/en/ecosoc/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83186,
+			"friends_count": 50019,
+			"listed_count": 874,
+			"created_at": "Sun Feb 26 19:54:55 +0000 2012",
+			"favourites_count": 2407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422329054406057985/QWXvsrsi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422329054406057985/QWXvsrsi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/504914052/1641914765",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1370,
+		"favorite_count": 4453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #GlobalGoals are facing some serious global challenges. \n\nBut the #SDGs &amp; the #2030Agenda are still within our reach, if we start acting now. \n\nThe #HLPF 2022 starts today. Let's act NOW for the SDGs 👉 https://t.co/a8NJwb88AY https://t.co/V0YioVJOlv"
+	},
+	{
 		"created_at": "Tue Jul 05 13:40:21 +0000 2022",
 		"id": 1544313351463145500,
 		"id_str": "1544315246260719616",
