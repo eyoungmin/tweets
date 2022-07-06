@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 00:45:37 +0000 2022",
+		"id": 1544471051547005000,
+		"id_str": "1544482665746894850",
+		"full_text": "[#아이돌챔프_투표]\n\nପ 6월의 쇼챔피언 엔딩요정 ଓ\n\n최애의 얼빡샷을 구독자 670만\n🎊 채널 메인에 걸어보세요 🎊\nPromote to -ˋ6.7Mˊ- subscribers !\n\n👉 https://t.co/rhhz0ZK2bB\n#NCTDREAM #재민 #LOONA #이달의소녀 #츄 #KARD #제이셉 #케플러 #XIAOTING #조유리 ... https://t.co/rmuPJNcTYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "재민",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						156,
+						158
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "제이셉",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "XIAOTING",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rhhz0ZK2bB",
+					"expanded_url": "https://bit.ly/3bM4rwW",
+					"display_url": "bit.ly/3bM4rwW",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544471036535615500,
+					"id_str": "1544471036535615488",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8QOYqVsAALFcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8QOYqVsAALFcE.jpg",
+					"url": "https://t.co/rmuPJNcTYm",
+					"display_url": "pic.twitter.com/rmuPJNcTYm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1544471051547004929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544471036535615500,
+					"id_str": "1544471036535615488",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8QOYqVsAALFcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8QOYqVsAALFcE.jpg",
+					"url": "https://t.co/rmuPJNcTYm",
+					"display_url": "pic.twitter.com/rmuPJNcTYm",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1544471051547004929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98068,
+			"friends_count": 108,
+			"listed_count": 258,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1655689519",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n\nପ 6월의 쇼챔피언 엔딩요정 ଓ\n\n최애의 얼빡샷을 구독자 670만\n🎊 채널 메인에 걸어보세요 🎊\nPromote to -ˋ6.7Mˊ- subscribers !\n\n👉 https://t.co/rhhz0ZK2bB\n#NCTDREAM #재민 #LOONA #이달의소녀 #츄 #KARD #제이셉 #케플러 #XIAOTING #조유리 ... https://t.co/rmuPJNcTYm"
+	},
+	{
 		"created_at": "Tue Jul 05 21:40:09 +0000 2022",
 		"id": 1544434035551654000,
 		"id_str": "1544435994556268544",
