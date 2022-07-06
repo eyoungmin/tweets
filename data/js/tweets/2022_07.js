@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 12:40:10 +0000 2022",
+		"id": 1544645281471312000,
+		"id_str": "1544662487269875717",
+		"full_text": "[💌#fromis_9]\n#Stay_This_Way with #LOONA #Chuu 🌱🌴\n\n🖇\nhttps://t.co/ah5JQEnnDS\n\n#프로미스나인\n#from_our_Memento_Box",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fromis_9",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "Stay_This_Way",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "from_our_Memento_Box",
+					"indices": [
+						85,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ah5JQEnnDS",
+					"expanded_url": "https://vt.tiktok.com/ZSR15MqmL",
+					"display_url": "vt.tiktok.com/ZSR15MqmL",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 844819971582574600,
+			"id_str": "844819971582574593",
+			"name": "fromis_9 [프로미스나인]",
+			"screen_name": "realfromis_9",
+			"location": "새롬 하영 규리 지원 지선 서연 채영 나경 지헌",
+			"description": "#fromis_9 #프로미스나인 Official Twitter",
+			"url": "https://t.co/bgtQl7Z5mQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bgtQl7Z5mQ",
+							"expanded_url": "https://youtu.be/JC6budcACNE",
+							"display_url": "youtu.be/JC6budcACNE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420267,
+			"friends_count": 2,
+			"listed_count": 4152,
+			"created_at": "Thu Mar 23 07:55:52 +0000 2017",
+			"favourites_count": 188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533783019047493632/3EP4oLKw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533783019047493632/3EP4oLKw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/844819971582574593/1654517345",
+			"profile_link_color": "FE8F1C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1545,
+		"favorite_count": 4456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[💌#fromis_9]\n#Stay_This_Way with #LOONA #Chuu 🌱🌴\n\n🖇\nhttps://t.co/ah5JQEnnDS\n\n#프로미스나인\n#from_our_Memento_Box"
+	},
+	{
 		"created_at": "Wed Jul 06 11:40:09 +0000 2022",
 		"id": 1544622182948425700,
 		"id_str": "1544647387192360967",
