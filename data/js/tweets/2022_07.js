@@ -1,6 +1,1120 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 15:40:32 +0000 2022",
+		"id": 1544701430438568000,
+		"id_str": "1544707880921726977",
+		"full_text": "CHUNG HA The 2nd Studio Album 'Bare&amp;Rare Pt.1' Album Preview #2\n \n2022.07.11. 6:00PM (KST)\n2022.07.11. 5:00AM (EST)\n \n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1 https://t.co/6zw5RjbO7l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "Bare",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "2nd",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Album",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "Part1",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544701422586933200,
+					"id_str": "1544701422586933249",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_hwnlVsAEpuRp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_hwnlVsAEpuRp.jpg",
+					"url": "https://t.co/6zw5RjbO7l",
+					"display_url": "pic.twitter.com/6zw5RjbO7l",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1544701430438567936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 318,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 106,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 186,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544701422586933200,
+					"id_str": "1544701422586933249",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_hwnlVsAEpuRp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_hwnlVsAEpuRp.jpg",
+					"url": "https://t.co/6zw5RjbO7l",
+					"display_url": "pic.twitter.com/6zw5RjbO7l",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1544701430438567936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 318,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 106,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 186,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350769,
+			"friends_count": 1,
+			"listed_count": 2164,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 641,
+		"favorite_count": 2035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA The 2nd Studio Album 'Bare&amp;Rare Pt.1' Album Preview #2\n \n2022.07.11. 6:00PM (KST)\n2022.07.11. 5:00AM (EST)\n \n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1 https://t.co/6zw5RjbO7l"
+	},
+	{
+		"created_at": "Wed Jul 06 15:40:29 +0000 2022",
+		"id": 1544688925138116600,
+		"id_str": "1544707867558567936",
+		"full_text": "u are invited to camp mcdonald's https://t.co/ZO2KcOJlFr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544688355576881200,
+					"id_str": "1544688355576881159",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_V4BLXoAc7dkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_V4BLXoAc7dkI.jpg",
+					"url": "https://t.co/ZO2KcOJlFr",
+					"display_url": "pic.twitter.com/ZO2KcOJlFr",
+					"expanded_url": "https://twitter.com/McDonalds/status/1544688925138116608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544688355576881200,
+					"id_str": "1544688355576881159",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_V4BLXoAc7dkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_V4BLXoAc7dkI.jpg",
+					"url": "https://t.co/ZO2KcOJlFr",
+					"display_url": "pic.twitter.com/ZO2KcOJlFr",
+					"expanded_url": "https://twitter.com/McDonalds/status/1544688925138116608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71026122,
+			"id_str": "71026122",
+			"name": "McDonald's",
+			"screen_name": "McDonalds",
+			"location": "",
+			"description": "today at camp: apple pie McFlurry. only in the app",
+			"url": "https://t.co/T5YSo5aCMX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T5YSo5aCMX",
+							"expanded_url": "https://mcdonalds.smart.link/6akuop9iq",
+							"display_url": "mcdonalds.smart.link/6akuop9iq",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4578627,
+			"friends_count": 13662,
+			"listed_count": 9275,
+			"created_at": "Wed Sep 02 17:46:43 +0000 2009",
+			"favourites_count": 21070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 825816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544689978759938051/F-eEBaLj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544689978759938051/F-eEBaLj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71026122/1657117797",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "u are invited to camp mcdonald's https://t.co/ZO2KcOJlFr"
+	},
+	{
+		"created_at": "Wed Jul 06 15:40:20 +0000 2022",
+		"id": 1544699188142690300,
+		"id_str": "1544707829134725121",
+		"full_text": "aespa 에스파 'Girls' MV Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/4X7ErbLzhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544699145037918200,
+					"id_str": "1544699145037918208",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1544699145037918208/img/-T6is3hpcQq-IX6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1544699145037918208/img/-T6is3hpcQq-IX6o.jpg",
+					"url": "https://t.co/4X7ErbLzhH",
+					"display_url": "pic.twitter.com/4X7ErbLzhH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544699188142690304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544699145037918200,
+					"id_str": "1544699145037918208",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1544699145037918208/img/-T6is3hpcQq-IX6o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1544699145037918208/img/-T6is3hpcQq-IX6o.jpg",
+					"url": "https://t.co/4X7ErbLzhH",
+					"display_url": "pic.twitter.com/4X7ErbLzhH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544699188142690304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29184,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544699145037918208/pl/ukwvCXB828MxRMDP.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544699145037918208/vid/480x270/QazhbE9qE6QNv79v.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544699145037918208/vid/1280x720/VLARBNXJnKTQfmSL.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544699145037918208/vid/640x360/nUgDOQbTBoryUk3J.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2880401,
+			"friends_count": 2,
+			"listed_count": 8895,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47699,
+		"favorite_count": 80097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 'Girls' MV Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/4X7ErbLzhH"
+	},
+	{
+		"created_at": "Wed Jul 06 15:40:15 +0000 2022",
+		"id": 1544698204456833000,
+		"id_str": "1544707807630528512",
+		"full_text": "aespa 에스파 'Girls' Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/fQr84B4cMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						110,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544698189047300000,
+					"id_str": "1544698189047300097",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_e0ZtagAEQma5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_e0ZtagAEQma5.jpg",
+					"url": "https://t.co/fQr84B4cMM",
+					"display_url": "pic.twitter.com/fQr84B4cMM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544698204456833024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544698189047300000,
+					"id_str": "1544698189047300097",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_e0ZtagAEQma5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_e0ZtagAEQma5.jpg",
+					"url": "https://t.co/fQr84B4cMM",
+					"display_url": "pic.twitter.com/fQr84B4cMM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544698204456833024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2880401,
+			"friends_count": 2,
+			"listed_count": 8895,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33349,
+		"favorite_count": 68628,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 'Girls' Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/fQr84B4cMM"
+	},
+	{
+		"created_at": "Wed Jul 06 15:40:13 +0000 2022",
+		"id": 1544698141756207000,
+		"id_str": "1544707798671532033",
+		"full_text": "aespa 에스파 'Girls' Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/TqQ5GyN8E5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544698067005640700,
+					"id_str": "1544698067005640705",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_etTEakAEceHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_etTEakAEceHk.jpg",
+					"url": "https://t.co/TqQ5GyN8E5",
+					"display_url": "pic.twitter.com/TqQ5GyN8E5",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544698141756207105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544698067005640700,
+					"id_str": "1544698067005640705",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_etTEakAEceHk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_etTEakAEceHk.jpg",
+					"url": "https://t.co/TqQ5GyN8E5",
+					"display_url": "pic.twitter.com/TqQ5GyN8E5",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544698141756207105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544698066988843000,
+					"id_str": "1544698066988843010",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_etTAaQAIR4C3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_etTAaQAIR4C3.jpg",
+					"url": "https://t.co/TqQ5GyN8E5",
+					"display_url": "pic.twitter.com/TqQ5GyN8E5",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544698141756207105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2880401,
+			"friends_count": 2,
+			"listed_count": 8895,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26510,
+		"favorite_count": 53606,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 'Girls' Teaser\n\naespa 에스파 The 2nd Mini Album 〖Girls〗\n➫ 2022.07.08 1PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/TqQ5GyN8E5"
+	},
+	{
 		"created_at": "Wed Jul 06 14:40:25 +0000 2022",
 		"id": 1544671815007608800,
 		"id_str": "1544692751559712769",
