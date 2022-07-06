@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 06:40:09 +0000 2022",
+		"id": 1544547363166949400,
+		"id_str": "1544571889955311616",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/lEEE7JGITP\n\n이달의소녀 Summer Special Mini Album [Flip That] \nMEET &amp; CALL FANSIGN PHOTO CARD📸\n\n🌙미공개 포토카드 12종 중 1종 증정\n🌙당첨자 추첨 사인 폴라로이드 증정\n\n📆 ~  7.7 23:59 (KST)\n\n오직 원더월에서만. https://t.co/2YYSDRYvRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lEEE7JGITP",
+					"expanded_url": "http://bit.ly/3HYI43n",
+					"display_url": "bit.ly/3HYI43n",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544547263401169000,
+					"id_str": "1544547263401168896",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9VjX3UEAA1VGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9VjX3UEAA1VGR.jpg",
+					"url": "https://t.co/2YYSDRYvRs",
+					"display_url": "pic.twitter.com/2YYSDRYvRs",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1544547363166949376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544547263401169000,
+					"id_str": "1544547263401168896",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9VjX3UEAA1VGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9VjX3UEAA1VGR.jpg",
+					"url": "https://t.co/2YYSDRYvRs",
+					"display_url": "pic.twitter.com/2YYSDRYvRs",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1544547363166949376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/O00wUau7Ny",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O00wUau7Ny",
+							"expanded_url": "https://wonderwall.kr/artlab",
+							"display_url": "wonderwall.kr/artlab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14002,
+			"friends_count": 2,
+			"listed_count": 38,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1615282200",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 1140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/lEEE7JGITP\n\n이달의소녀 Summer Special Mini Album [Flip That] \nMEET &amp; CALL FANSIGN PHOTO CARD📸\n\n🌙미공개 포토카드 12종 중 1종 증정\n🌙당첨자 추첨 사인 폴라로이드 증정\n\n📆 ~  7.7 23:59 (KST)\n\n오직 원더월에서만. https://t.co/2YYSDRYvRs"
+	},
+	{
+		"created_at": "Wed Jul 06 06:35:03 +0000 2022",
+		"id": 1544563753642889200,
+		"id_str": "1544570606221271040",
+		"full_text": "박창근 ‘Re:born’ Released!!\n💚 https://t.co/xGBI7iHuFU https://t.co/NtasyPmiRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xGBI7iHuFU",
+					"expanded_url": "https://www.instagram.com/p/CfqPvRsM8_g/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CfqPvRsM8_g/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544563745547964400,
+					"id_str": "1544563745547964417",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9kiwpVUAE814h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9kiwpVUAE814h.jpg",
+					"url": "https://t.co/NtasyPmiRL",
+					"display_url": "pic.twitter.com/NtasyPmiRL",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1544563753642889216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544563745547964400,
+					"id_str": "1544563745547964417",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9kiwpVUAE814h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9kiwpVUAE814h.jpg",
+					"url": "https://t.co/NtasyPmiRL",
+					"display_url": "pic.twitter.com/NtasyPmiRL",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1544563753642889216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7366,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박창근 ‘Re:born’ Released!!\n💚 https://t.co/xGBI7iHuFU https://t.co/NtasyPmiRL"
+	},
+	{
+		"created_at": "Wed Jul 06 06:29:38 +0000 2022",
+		"id": 1544561782869590000,
+		"id_str": "1544569242997112836",
+		"full_text": "&lt;빅마우스&gt; 천재 사기꾼🧐 '박창호' 캐릭터 포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/W5XEnEv8xY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544546885087948800,
+					"id_str": "1544546885087948802",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9VNWiacAIoVRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9VNWiacAIoVRf.jpg",
+					"url": "https://t.co/W5XEnEv8xY",
+					"display_url": "pic.twitter.com/W5XEnEv8xY",
+					"expanded_url": "https://twitter.com/withMBC/status/1544561782869590016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544546885087948800,
+					"id_str": "1544546885087948802",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9VNWiacAIoVRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9VNWiacAIoVRf.jpg",
+					"url": "https://t.co/W5XEnEv8xY",
+					"display_url": "pic.twitter.com/W5XEnEv8xY",
+					"expanded_url": "https://twitter.com/withMBC/status/1544561782869590016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544546885092151300,
+					"id_str": "1544546885092151296",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9VNWjakAApWgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9VNWjakAApWgd.jpg",
+					"url": "https://t.co/W5XEnEv8xY",
+					"display_url": "pic.twitter.com/W5XEnEv8xY",
+					"expanded_url": "https://twitter.com/withMBC/status/1544561782869590016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007170,
+			"friends_count": 9876,
+			"listed_count": 4212,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1653354719",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;빅마우스&gt; 천재 사기꾼🧐 '박창호' 캐릭터 포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/W5XEnEv8xY"
+	},
+	{
 		"created_at": "Wed Jul 06 05:40:09 +0000 2022",
 		"id": 1544487040632254500,
 		"id_str": "1544556790087655424",
