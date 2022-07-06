@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 14:40:25 +0000 2022",
+		"id": 1544671815007608800,
+		"id_str": "1544692751559712769",
+		"full_text": "🌠 Biutyful (Official video) 🌠\n\nWatch now https://t.co/BPfaFO06rK\n@coldplay @hensoncompany \n#RUWeird #TheWeirdos https://t.co/K4OI45m3nG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUWeird",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "TheWeirdos",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "hensoncompany",
+					"name": "The Jim Henson Company",
+					"id": 20015787,
+					"id_str": "20015787",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BPfaFO06rK",
+					"expanded_url": "http://youtu.be/raHLFg6bkNI",
+					"display_url": "youtu.be/raHLFg6bkNI",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544671806300233700,
+					"id_str": "1544671806300233728",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_G0uUWIAA-ngp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_G0uUWIAA-ngp.jpg",
+					"url": "https://t.co/K4OI45m3nG",
+					"display_url": "pic.twitter.com/K4OI45m3nG",
+					"expanded_url": "https://twitter.com/MatWhitecross/status/1544671815007608835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1902,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544671806300233700,
+					"id_str": "1544671806300233728",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_G0uUWIAA-ngp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_G0uUWIAA-ngp.jpg",
+					"url": "https://t.co/K4OI45m3nG",
+					"display_url": "pic.twitter.com/K4OI45m3nG",
+					"expanded_url": "https://twitter.com/MatWhitecross/status/1544671815007608835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1902,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1455537739,
+			"id_str": "1455537739",
+			"name": "Mat Whitecross 🇺🇦💙💛",
+			"screen_name": "MatWhitecross",
+			"location": "London, England",
+			"description": "Road to Guantanamo, Shock Doctrine, Moving to Mars, Sex&Drugs, Ashes, Spike Island, Fleming, Supersonic, Vic&Bob, Coldplay, The Kings, Road2Tokyo, Sound of 007",
+			"url": "https://t.co/zOGD2BwT2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zOGD2BwT2Z",
+							"expanded_url": "http://mint-pictures.com",
+							"display_url": "mint-pictures.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10177,
+			"friends_count": 2945,
+			"listed_count": 41,
+			"created_at": "Fri May 24 23:33:40 +0000 2013",
+			"favourites_count": 108673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DB1515",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1535531487717691392/gJ10Lc_V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535531487717691392/gJ10Lc_V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1455537739/1654934221",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌠 Biutyful (Official video) 🌠\n\nWatch now https://t.co/BPfaFO06rK\n@coldplay @hensoncompany \n#RUWeird #TheWeirdos https://t.co/K4OI45m3nG"
+	},
+	{
+		"created_at": "Wed Jul 06 14:40:19 +0000 2022",
+		"id": 1544685192438112300,
+		"id_str": "1544692724040974337",
+		"full_text": "#Ad welcome to camp. i’ll be in the @mcdonalds app 7/24!!!! https://t.co/LYxmEr71Ui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ad",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McDonalds",
+					"name": "McDonald's",
+					"id": 71026122,
+					"id_str": "71026122",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544685187317252000,
+					"id_str": "1544685187317252096",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_S_mfaQAAghnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_S_mfaQAAghnx.jpg",
+					"url": "https://t.co/LYxmEr71Ui",
+					"display_url": "pic.twitter.com/LYxmEr71Ui",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1544685192438112256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544685187317252000,
+					"id_str": "1544685187317252096",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_S_mfaQAAghnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_S_mfaQAAghnx.jpg",
+					"url": "https://t.co/LYxmEr71Ui",
+					"display_url": "pic.twitter.com/LYxmEr71Ui",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1544685192438112256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 1297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62299,
+			"friends_count": 3,
+			"listed_count": 169,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Ad welcome to camp. i’ll be in the @mcdonalds app 7/24!!!! https://t.co/LYxmEr71Ui"
+	},
+	{
+		"created_at": "Wed Jul 06 14:40:11 +0000 2022",
+		"id": 1544683393983471600,
+		"id_str": "1544692694047498241",
+		"full_text": "#Ad catch me at camp mcdonald’s 🙃 https://t.co/h4tCKwaYXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ad",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h4tCKwaYXo",
+					"expanded_url": "https://twitter.com/mcdonalds/status/1544672280692793344",
+					"display_url": "twitter.com/mcdonalds/stat…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62299,
+			"friends_count": 3,
+			"listed_count": 169,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544672280692793300,
+		"quoted_status_id_str": "1544672280692793344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h4tCKwaYXo",
+			"expanded": "https://twitter.com/mcdonalds/status/1544672280692793344",
+			"display": "twitter.com/mcdonalds/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 06 13:19:04 +0000 2022",
+			"id": 1544672280692793300,
+			"id_str": "1544672280692793344",
+			"full_text": "https://t.co/kuvU5jllhC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kuvU5jllhC",
+						"expanded_url": "https://calendar.google.com/calendar/u/3?cid=Z3F2MnQ3aDZtYWRyb3QzM2NmNDZtOGM5dGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+						"display_url": "calendar.google.com/calendar/u/3?c…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71026122,
+				"id_str": "71026122",
+				"name": "McDonald's",
+				"screen_name": "McDonalds",
+				"location": "",
+				"description": "today at camp: apple pie McFlurry. only in the app",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4578590,
+				"friends_count": 13662,
+				"listed_count": 9275,
+				"created_at": "Wed Sep 02 17:46:43 +0000 2009",
+				"favourites_count": 21040,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 825789,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1544689978759938051/F-eEBaLj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544689978759938051/F-eEBaLj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71026122/1657117797",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zxx"
+		},
+		"retweet_count": 36,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Ad catch me at camp mcdonald’s 🙃 https://t.co/h4tCKwaYXo"
+	},
+	{
 		"created_at": "Wed Jul 06 13:40:18 +0000 2022",
 		"id": 1544669421976813600,
 		"id_str": "1544677621438496770",
