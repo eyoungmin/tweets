@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 19:40:10 +0000 2022",
+		"id": 1544767435512889300,
+		"id_str": "1544768183785119758",
+		"full_text": "👊 https://t.co/gQoyeIslva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gQoyeIslva",
+					"expanded_url": "https://twitter.com/denniswerth_/status/1544430509765398528",
+					"display_url": "twitter.com/denniswerth_/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600070,
+			"friends_count": 776,
+			"listed_count": 42473,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544430509765398500,
+		"quoted_status_id_str": "1544430509765398528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gQoyeIslva",
+			"expanded": "https://twitter.com/denniswerth_/status/1544430509765398528",
+			"display": "twitter.com/denniswerth_/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 05 21:18:22 +0000 2022",
+			"id": 1544430509765398500,
+			"id_str": "1544430509765398528",
+			"full_text": "???????? 🤯 #ColdplayFrankfurt @coldplay https://t.co/QRBdCdXQun",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ColdplayFrankfurt",
+						"indices": [
+							11,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1544430067513712600,
+						"id_str": "1544430067513712640",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544430067513712640/pu/img/caNvjcdrnsatQYhZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544430067513712640/pu/img/caNvjcdrnsatQYhZ.jpg",
+						"url": "https://t.co/QRBdCdXQun",
+						"display_url": "pic.twitter.com/QRBdCdXQun",
+						"expanded_url": "https://twitter.com/DennisWerth_/status/1544430509765398528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544430067513712600,
+						"id_str": "1544430067513712640",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544430067513712640/pu/img/caNvjcdrnsatQYhZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544430067513712640/pu/img/caNvjcdrnsatQYhZ.jpg",
+						"url": "https://t.co/QRBdCdXQun",
+						"display_url": "pic.twitter.com/QRBdCdXQun",
+						"expanded_url": "https://twitter.com/DennisWerth_/status/1544430509765398528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 27633,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1544430067513712640/pu/pl/nyJG6v5fwZ6z3wFu.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1544430067513712640/pu/vid/480x852/oEHPqWPQX3-kxzlg.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1544430067513712640/pu/vid/320x568/-CNAgGaiqN7H5Ebx.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1544430067513712640/pu/vid/720x1280/SW9w6hXyixFFh3IM.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1582833632,
+				"id_str": "1582833632",
+				"name": "Dennis",
+				"screen_name": "DennisWerth_",
+				"location": "Köln",
+				"description": "💛  cars & games\nMail: info@dennis-werth.de",
+				"url": "https://t.co/07jKEQc40l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/07jKEQc40l",
+								"expanded_url": "https://www.instagram.com/denniswerth/",
+								"display_url": "instagram.com/denniswerth/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69991,
+				"friends_count": 1856,
+				"listed_count": 129,
+				"created_at": "Wed Jul 10 11:00:00 +0000 2013",
+				"favourites_count": 28217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49660,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDBDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1528723609098887171/A7YGbRVP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528723609098887171/A7YGbRVP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1582833632/1654979485",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 2702,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 90,
+		"favorite_count": 1523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "👊 https://t.co/gQoyeIslva"
+	},
+	{
 		"created_at": "Wed Jul 06 17:40:10 +0000 2022",
 		"id": 1544663860950466600,
 		"id_str": "1544737986532855814",
