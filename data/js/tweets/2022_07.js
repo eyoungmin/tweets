@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 13:40:18 +0000 2022",
+		"id": 1544669421976813600,
+		"id_str": "1544677621438496770",
+		"full_text": "🌠 Biutyful (Official video) 🌠\n\nWatch now https://t.co/19MeNXQdKm\n\n#RUWeird #TheWeirdos https://t.co/HU6hx6NacI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUWeird",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "TheWeirdos",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/19MeNXQdKm",
+					"expanded_url": "https://youtu.be/raHLFg6bkNI",
+					"display_url": "youtu.be/raHLFg6bkNI",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544665207682867200,
+					"id_str": "1544665207682867200",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_BRI7XoAQA78-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_BRI7XoAQA78-.jpg",
+					"url": "https://t.co/HU6hx6NacI",
+					"display_url": "pic.twitter.com/HU6hx6NacI",
+					"expanded_url": "https://twitter.com/coldplay/status/1544669421976813573/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544665207682867200,
+					"id_str": "1544665207682867200",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_BRI7XoAQA78-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_BRI7XoAQA78-.jpg",
+					"url": "https://t.co/HU6hx6NacI",
+					"display_url": "pic.twitter.com/HU6hx6NacI",
+					"expanded_url": "https://twitter.com/coldplay/status/1544669421976813573/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29080,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544665207682867200/pl/d5P5gim4kvGtZwUl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544665207682867200/vid/640x360/0_Uy7qgyKH3dewLk.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544665207682867200/vid/1280x720/hFFyVtTKsPa-FKHF.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544665207682867200/vid/480x270/FMOdHrk6EkOl8BjH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Coldplay - Biutyful",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/raHLFg6bkNI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600032,
+			"friends_count": 775,
+			"listed_count": 42472,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 397,
+		"favorite_count": 1554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌠 Biutyful (Official video) 🌠\n\nWatch now https://t.co/19MeNXQdKm\n\n#RUWeird #TheWeirdos https://t.co/HU6hx6NacI"
+	},
+	{
 		"created_at": "Wed Jul 06 12:40:10 +0000 2022",
 		"id": 1544645281471312000,
 		"id_str": "1544662487269875717",
