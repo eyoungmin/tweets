@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 11:40:09 +0000 2022",
+		"id": 1544622182948425700,
+		"id_str": "1544647387192360967",
+		"full_text": "[🔬#아이돌슈타인] X @loonatheworld\n\n신개념 과학 예능 아이돌슈타인🧪\n아슈 연구소에 #이달의소녀 가 놀러 왔어요❗️🌙\n\n이달의 소녀와 관련된 퀴즈를 오픈채팅방에서 '선공개' 합니다🤫\n오빛들이 예상한 [빈칸]을 마음껏 채워주세요!\n\nhttps://t.co/98O0sbYDVn\n-\n#아체라스튜디오 #ACL #LOONA https://t.co/3edLWiRA3X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "아체라스튜디오",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "ACL",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/98O0sbYDVn",
+					"expanded_url": "https://open.kakao.com/o/gFhxMkoe",
+					"display_url": "open.kakao.com/o/gFhxMkoe",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544617440474460200,
+					"id_str": "1544617440474460160",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-VYN1acAAFljQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-VYN1acAAFljQ.jpg",
+					"url": "https://t.co/3edLWiRA3X",
+					"display_url": "pic.twitter.com/3edLWiRA3X",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1544622182948425728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544617440474460200,
+					"id_str": "1544617440474460160",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-VYN1acAAFljQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-VYN1acAAFljQ.jpg",
+					"url": "https://t.co/3edLWiRA3X",
+					"display_url": "pic.twitter.com/3edLWiRA3X",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1544622182948425728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3456,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1656925237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔬#아이돌슈타인] X @loonatheworld\n\n신개념 과학 예능 아이돌슈타인🧪\n아슈 연구소에 #이달의소녀 가 놀러 왔어요❗️🌙\n\n이달의 소녀와 관련된 퀴즈를 오픈채팅방에서 '선공개' 합니다🤫\n오빛들이 예상한 [빈칸]을 마음껏 채워주세요!\n\nhttps://t.co/98O0sbYDVn\n-\n#아체라스튜디오 #ACL #LOONA https://t.co/3edLWiRA3X"
+	},
+	{
+		"created_at": "Wed Jul 06 11:37:04 +0000 2022",
+		"id": 1544641936027291600,
+		"id_str": "1544646610465853441",
+		"full_text": "오늘은 당당 완디!\nin 영스트리트💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/cwafN9PjAX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544641876405260300,
+					"id_str": "1544641876405260288",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-rmkxUEAAxweX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-rmkxUEAAxweX.jpg",
+					"url": "https://t.co/cwafN9PjAX",
+					"display_url": "pic.twitter.com/cwafN9PjAX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1544641936027291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544641876405260300,
+					"id_str": "1544641876405260288",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-rmkxUEAAxweX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-rmkxUEAAxweX.jpg",
+					"url": "https://t.co/cwafN9PjAX",
+					"display_url": "pic.twitter.com/cwafN9PjAX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1544641936027291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544641908235849700,
+					"id_str": "1544641908235849728",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-robWUUAAlahr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-robWUUAAlahr.jpg",
+					"url": "https://t.co/cwafN9PjAX",
+					"display_url": "pic.twitter.com/cwafN9PjAX",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1544641936027291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5468840,
+			"friends_count": 2,
+			"listed_count": 11091,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2722,
+		"favorite_count": 8764,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 당당 완디!\nin 영스트리트💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/cwafN9PjAX"
+	},
+	{
 		"created_at": "Wed Jul 06 09:40:41 +0000 2022",
 		"id": 1544616866173186000,
 		"id_str": "1544617321326690304",
