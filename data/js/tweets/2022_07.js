@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 03:44:30 +0000 2022",
+		"id": 1544512964148936700,
+		"id_str": "1544527684213960704",
+		"full_text": "They speak about the importance of the sustainable real world being mirrored in the virtual world and encourage future attention and practice.\n\nhttps://t.co/gAb8s5bsWt\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "UnitedNations",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"text": "UN",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "HLPF2022",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						181,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gAb8s5bsWt",
+					"expanded_url": "https://bit.ly/3nIJHJm",
+					"display_url": "bit.ly/3nIJHJm",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544512790886371300,
+		"in_reply_to_status_id_str": "1544512790886371329",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10974814,
+			"friends_count": 56,
+			"listed_count": 12364,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 566,
+		"favorite_count": 1648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They speak about the importance of the sustainable real world being mirrored in the virtual world and encourage future attention and practice.\n\nhttps://t.co/gAb8s5bsWt\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022"
+	},
+	{
+		"created_at": "Wed Jul 06 03:44:30 +0000 2022",
+		"id": 1544512790886371300,
+		"id_str": "1544527683811348480",
+		"full_text": "‘Next generation leaders’ aespa deliver a speech at the UN ‘2022 High-Level Political Forum for sustainable development’!\n\nhttps://t.co/gAb8s5bsWt\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022 https://t.co/bPKZLsbnc5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "UnitedNations",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"text": "UN",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "HLPF2022",
+					"indices": [
+						196,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						160,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gAb8s5bsWt",
+					"expanded_url": "https://bit.ly/3nIJHJm",
+					"display_url": "bit.ly/3nIJHJm",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544512766681026600,
+					"id_str": "1544512766681026561",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FW82LZkUEAEWOVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW82LZkUEAEWOVg.jpg",
+					"url": "https://t.co/bPKZLsbnc5",
+					"display_url": "pic.twitter.com/bPKZLsbnc5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544512790886371329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544512766681026600,
+					"id_str": "1544512766681026561",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FW82LZkUEAEWOVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW82LZkUEAEWOVg.jpg",
+					"url": "https://t.co/bPKZLsbnc5",
+					"display_url": "pic.twitter.com/bPKZLsbnc5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544512790886371329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544512766685302800,
+					"id_str": "1544512766685302784",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FW82LZlVUAAfyv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW82LZlVUAAfyv0.jpg",
+					"url": "https://t.co/bPKZLsbnc5",
+					"display_url": "pic.twitter.com/bPKZLsbnc5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544512790886371329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544512766681104400,
+					"id_str": "1544512766681104385",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FW82LZkVQAEX3BY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW82LZkVQAEX3BY.jpg",
+					"url": "https://t.co/bPKZLsbnc5",
+					"display_url": "pic.twitter.com/bPKZLsbnc5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544512790886371329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544512766681104400,
+					"id_str": "1544512766681104384",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FW82LZkVQAAahe5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW82LZkVQAAahe5.jpg",
+					"url": "https://t.co/bPKZLsbnc5",
+					"display_url": "pic.twitter.com/bPKZLsbnc5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1544512790886371329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10974814,
+			"friends_count": 56,
+			"listed_count": 12364,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4880,
+		"favorite_count": 11419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Next generation leaders’ aespa deliver a speech at the UN ‘2022 High-Level Political Forum for sustainable development’!\n\nhttps://t.co/gAb8s5bsWt\n\n#aespa #에스파 @aespa_official\n#UnitedNations #UN \n#HLPF2022 https://t.co/bPKZLsbnc5"
+	},
+	{
+		"created_at": "Wed Jul 06 03:40:10 +0000 2022",
+		"id": 1544524130661175300,
+		"id_str": "1544526591673438209",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 전곡 프로듀싱 새 앨범 하이라이트 메들리 공개\n\n🔎 https://t.co/4VxmenP2Au\n\n#청하 #CHUNGHA\n#컴백 #BareRare #officialphoto #공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "officialphoto",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4VxmenP2Au",
+					"expanded_url": "http://naver.me/Ge3stQNI",
+					"display_url": "naver.me/Ge3stQNI",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30752,
+			"friends_count": 7,
+			"listed_count": 315,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 전곡 프로듀싱 새 앨범 하이라이트 메들리 공개\n\n🔎 https://t.co/4VxmenP2Au\n\n#청하 #CHUNGHA\n#컴백 #BareRare #officialphoto #공개"
+	},
+	{
 		"created_at": "Wed Jul 06 02:29:46 +0000 2022",
 		"id": 1544507124470128600,
 		"id_str": "1544508876560764928",
