@@ -1,6 +1,832 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 09:40:22 +0000 2022",
+		"id": 1544969475065127000,
+		"id_str": "1544979628393172993",
+		"full_text": "#CHUNGHA The 2nd Studio Album 'Bare&amp;Rare Pt.1' Pre-Order Video Call Event\n\n🖤#청하 미공개 셀카 포토카드 프리뷰!\n🖤Unreleased Selfie Photocard Preview!\n\n📆~07.11 23:59(KST)\n🔗https://t.co/bDbKehbLuE https://t.co/bb8cFsZ1zW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bDbKehbLuE",
+					"expanded_url": "http://bit.ly/3bCkT2P",
+					"display_url": "bit.ly/3bCkT2P",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544559901107572700,
+					"id_str": "1544559901107572736",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9hC-_UUAAujmO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9hC-_UUAAujmO.jpg",
+					"url": "https://t.co/bb8cFsZ1zW",
+					"display_url": "pic.twitter.com/bb8cFsZ1zW",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1544969475065126919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544559901107572700,
+					"id_str": "1544559901107572736",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FW9hC-_UUAAujmO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW9hC-_UUAAujmO.jpg",
+					"url": "https://t.co/bb8cFsZ1zW",
+					"display_url": "pic.twitter.com/bb8cFsZ1zW",
+					"expanded_url": "https://twitter.com/Makestarcorp/status/1544969475065126919/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2866496456,
+			"id_str": "2866496456",
+			"name": "MAKESTAR",
+			"screen_name": "Makestarcorp",
+			"location": "seoul,korea",
+			"description": "#STAYC #스테이씨 (WE NEED LOVE)\nPRE-ORDER MEET&CALL EVENT\n\n📆 ~ 07.15 23:59 (KST)\n🔗https://t.co/SEfF4nSFNv\n\n*For general inquiries, please reach https://t.co/00LtDFTz4n",
+			"url": "https://t.co/61Q4bwNjMZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61Q4bwNjMZ",
+							"expanded_url": "https://www.makestar.com/",
+							"display_url": "makestar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SEfF4nSFNv",
+							"expanded_url": "http://bit.ly/3R9ZazF",
+							"display_url": "bit.ly/3R9ZazF",
+							"indices": [
+								78,
+								101
+							]
+						},
+						{
+							"url": "https://t.co/00LtDFTz4n",
+							"expanded_url": "http://makestar.com/faq",
+							"display_url": "makestar.com/faq",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29712,
+			"friends_count": 85,
+			"listed_count": 140,
+			"created_at": "Mon Oct 20 05:51:54 +0000 2014",
+			"favourites_count": 4210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453984290854027264/FGWuuZ3J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453984290854027264/FGWuuZ3J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2866496456/1656905357",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#CHUNGHA The 2nd Studio Album 'Bare&amp;Rare Pt.1' Pre-Order Video Call Event\n\n🖤#청하 미공개 셀카 포토카드 프리뷰!\n🖤Unreleased Selfie Photocard Preview!\n\n📆~07.11 23:59(KST)\n🔗https://t.co/bDbKehbLuE https://t.co/bb8cFsZ1zW"
+	},
+	{
+		"created_at": "Thu Jul 07 09:40:10 +0000 2022",
+		"id": 1544969514239987700,
+		"id_str": "1544979577155592193",
+		"full_text": "The Volunteers [New Plant] Tracklist\n⠀\n01. New Plant (Title)\n02. Hypocreep\n\n✨2022.7.12 6PM Release\n\n#tvt #thevolunteers #release https://t.co/6i4IRAlMM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvt",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "thevolunteers",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544969474117619700,
+					"id_str": "1544969474117619713",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544969474117619713/pu/img/aZG3LKih4UPmajVZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544969474117619713/pu/img/aZG3LKih4UPmajVZ.jpg",
+					"url": "https://t.co/6i4IRAlMM1",
+					"display_url": "pic.twitter.com/6i4IRAlMM1",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1544969514239987712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544969474117619700,
+					"id_str": "1544969474117619713",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544969474117619713/pu/img/aZG3LKih4UPmajVZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544969474117619713/pu/img/aZG3LKih4UPmajVZ.jpg",
+					"url": "https://t.co/6i4IRAlMM1",
+					"display_url": "pic.twitter.com/6i4IRAlMM1",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1544969514239987712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14514,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544969474117619713/pu/vid/320x400/pC9_cVPIvB1b72ca.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544969474117619713/pu/vid/480x600/_r9fYSMp3kGQRM3i.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544969474117619713/pu/vid/720x900/UMxTN2c58z9XqmA9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544969474117619713/pu/pl/1Yeju5aVqgZN9ziO.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7464,
+			"friends_count": 2,
+			"listed_count": 54,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Volunteers [New Plant] Tracklist\n⠀\n01. New Plant (Title)\n02. Hypocreep\n\n✨2022.7.12 6PM Release\n\n#tvt #thevolunteers #release https://t.co/6i4IRAlMM1"
+	},
+	{
+		"created_at": "Thu Jul 07 09:35:20 +0000 2022",
+		"id": 1544973030899810300,
+		"id_str": "1544978360689774592",
+		"full_text": "MCND ‘SECRET MISSION Chapter.2’ Released!!\n💕 https://t.co/5PCLUJDMRk https://t.co/LZDja6wXG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5PCLUJDMRk",
+					"expanded_url": "https://www.instagram.com/p/CftJ8FUD34z/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CftJ8FUD34z/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544973025476374500,
+					"id_str": "1544973025476374529",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDYx_MUcAE-Sz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDYx_MUcAE-Sz_.jpg",
+					"url": "https://t.co/LZDja6wXG1",
+					"display_url": "pic.twitter.com/LZDja6wXG1",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1544973030899810305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544973025476374500,
+					"id_str": "1544973025476374529",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDYx_MUcAE-Sz_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDYx_MUcAE-Sz_.jpg",
+					"url": "https://t.co/LZDja6wXG1",
+					"display_url": "pic.twitter.com/LZDja6wXG1",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1544973030899810305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7369,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MCND ‘SECRET MISSION Chapter.2’ Released!!\n💕 https://t.co/5PCLUJDMRk https://t.co/LZDja6wXG1"
+	},
+	{
+		"created_at": "Thu Jul 07 09:35:20 +0000 2022",
+		"id": 1544973189154947000,
+		"id_str": "1544978360660422656",
+		"full_text": "노을진 한강🌆 돌아온 웃음😊 네온빛 음악✨\n2022 스마일러브위크엔드 In 노들섬!\n[ADOY]가 함께합니다!\n\n📌 오프라인 티켓 예매처 : 멜론티켓, 예스24 티켓, 네이버 예약, 인터파크\n📌 예매 사이트 링크 모음 : https://t.co/FBPbZmQd3J\n📌 온라인 티켓 예매처 : 라이브앳 (https://t.co/xZ5zuTyZqR https://t.co/RsZUoTow97",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FBPbZmQd3J",
+					"expanded_url": "https://linktr.ee/smileloveweekend",
+					"display_url": "linktr.ee/smileloveweeke…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/xZ5zuTyZqR",
+					"expanded_url": "https://www.live-at.kr/_",
+					"display_url": "live-at.kr/_",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544973179550302200,
+					"id_str": "1544973179550302208",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDY69KaAAABmEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDY69KaAAABmEH.jpg",
+					"url": "https://t.co/RsZUoTow97",
+					"display_url": "pic.twitter.com/RsZUoTow97",
+					"expanded_url": "https://twitter.com/adoyband/status/1544973189154947074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544973179550302200,
+					"id_str": "1544973179550302208",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDY69KaAAABmEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDY69KaAAABmEH.jpg",
+					"url": "https://t.co/RsZUoTow97",
+					"display_url": "pic.twitter.com/RsZUoTow97",
+					"expanded_url": "https://twitter.com/adoyband/status/1544973189154947074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5131,
+			"friends_count": 489,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노을진 한강🌆 돌아온 웃음😊 네온빛 음악✨\n2022 스마일러브위크엔드 In 노들섬!\n[ADOY]가 함께합니다!\n\n📌 오프라인 티켓 예매처 : 멜론티켓, 예스24 티켓, 네이버 예약, 인터파크\n📌 예매 사이트 링크 모음 : https://t.co/FBPbZmQd3J\n📌 온라인 티켓 예매처 : 라이브앳 (https://t.co/xZ5zuTyZqR https://t.co/RsZUoTow97"
+	},
+	{
 		"created_at": "Thu Jul 07 08:29:39 +0000 2022",
 		"id": 1544960335677132800,
 		"id_str": "1544961831126663168",
