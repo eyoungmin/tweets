@@ -1,6 +1,1814 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 06:54:20 +0000 2022",
+		"id": 1544931722147627000,
+		"id_str": "1544937843314683905",
+		"full_text": "[#NEWS] [투데이TV]'징크스의 연인' 서현X나인우, 적신호 켜진 애정전선 '관계 위기'\n▶ https://t.co/I7UHn2CZbS\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/4YRJUwgsHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7UHn2CZbS",
+					"expanded_url": "http://naver.me/52MfdV5e",
+					"display_url": "naver.me/52MfdV5e",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544926569084309500,
+					"id_str": "1544926569084309504",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544926569084309500,
+					"id_str": "1544926569084309504",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544926569176584200,
+					"id_str": "1544926569176584192",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3_VUAA_oy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3_VUAA_oy-.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61097,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] [투데이TV]'징크스의 연인' 서현X나인우, 적신호 켜진 애정전선 '관계 위기'\n▶ https://t.co/I7UHn2CZbS\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/4YRJUwgsHk"
+	},
+	{
+		"created_at": "Thu Jul 07 06:45:39 +0000 2022",
+		"id": 1544924177211084800,
+		"id_str": "1544935658086891520",
+		"full_text": "TODAY's LINEUP💗\nGolden Child, AB6IX, DAY6, LOONA/yyxy, Lovelyz, Apink, THE BOYZ, SF9, PENTAGON, OH MY GIRL, ASTRO, BamBam, JO YURI, WJSN, ATEEZ, ENHYPEN, TOMORROW X TOGETHER, Red Velvet, NCT 127, NCT DREAM, Seventeen, TWICE, BTS https://t.co/f0FuQC9sbb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f0FuQC9sbb",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872059033223168",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126402,
+			"friends_count": 346,
+			"listed_count": 397,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544872059033223200,
+		"quoted_status_id_str": "1544872059033223168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f0FuQC9sbb",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1544872059033223168",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 02:32:55 +0000 2022",
+			"id": 1544872059033223200,
+			"id_str": "1544872059033223168",
+			"full_text": "Today's K-Bop Playlist👋\n⏰PM 16:00~17:30\n\nChocolate Day! 🍫\nHere's a free sweet chocolate song!🍯\n\n▶ https://t.co/fuFIXR15gU\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/mkXfZrDBSI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fuFIXR15gU",
+						"expanded_url": "https://youtu.be/YNklJ_gasFk",
+						"display_url": "youtu.be/YNklJ_gasFk",
+						"indices": [
+							98,
+							121
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1544872024895799300,
+						"id_str": "1544872024895799296",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FXB86-taQAAId0_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXB86-taQAAId0_.jpg",
+						"url": "https://t.co/mkXfZrDBSI",
+						"display_url": "pic.twitter.com/mkXfZrDBSI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872059033223168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544872024895799300,
+						"id_str": "1544872024895799296",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FXB86-taQAAId0_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXB86-taQAAId0_.jpg",
+						"url": "https://t.co/mkXfZrDBSI",
+						"display_url": "pic.twitter.com/mkXfZrDBSI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872059033223168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1544872053786157000,
+			"in_reply_to_status_id_str": "1544872053786157057",
+			"in_reply_to_user_id": 744928926,
+			"in_reply_to_user_id_str": "744928926",
+			"in_reply_to_screen_name": "ALLTHEKPOP",
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126402,
+				"friends_count": 346,
+				"listed_count": 397,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9380,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY's LINEUP💗\nGolden Child, AB6IX, DAY6, LOONA/yyxy, Lovelyz, Apink, THE BOYZ, SF9, PENTAGON, OH MY GIRL, ASTRO, BamBam, JO YURI, WJSN, ATEEZ, ENHYPEN, TOMORROW X TOGETHER, Red Velvet, NCT 127, NCT DREAM, Seventeen, TWICE, BTS https://t.co/f0FuQC9sbb"
+	},
+	{
+		"created_at": "Thu Jul 07 06:45:36 +0000 2022",
+		"id": 1544924175571202000,
+		"id_str": "1544935648813252609",
+		"full_text": "오늘의 라인업💗\n골든차일드, 에이비식스, 데이식스, 이달의 소녀 와이와이바이와이, 러블리즈, 에이핑크, 더보이즈, 에스에프나인, 펜타곤, 오마이걸, 아스트로, 뱀뱀, 조유리, 우주소녀, 에이티즈, 엔하이픈, 투모로우바이투게더, 레드벨벳, 엔시티 127, 엔시티 드림, 세븐틴, 트와이스, 방탄소년단 https://t.co/PiLc4ywhfm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PiLc4ywhfm",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872053786157057",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126402,
+			"friends_count": 346,
+			"listed_count": 397,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544872053786157000,
+		"quoted_status_id_str": "1544872053786157057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PiLc4ywhfm",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1544872053786157057",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 07 02:32:54 +0000 2022",
+			"id": 1544872053786157000,
+			"id_str": "1544872053786157057",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 16:00~17:30\n\n나른한 오후, 무료로 당🍯 충전해드립니다!\n세계 초콜릿의 날 맞이 초콜릿만큼 달달한 노래 함께 들어요 (=•ω＜=)💕 \n\n▶ https://t.co/fuFIXR15gU\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/qXn9gVwboB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fuFIXR15gU",
+						"expanded_url": "https://youtu.be/YNklJ_gasFk",
+						"display_url": "youtu.be/YNklJ_gasFk",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1544871988623474700,
+						"id_str": "1544871988623474693",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FXB843lagAUQUCx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXB843lagAUQUCx.jpg",
+						"url": "https://t.co/qXn9gVwboB",
+						"display_url": "pic.twitter.com/qXn9gVwboB",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872053786157057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544871988623474700,
+						"id_str": "1544871988623474693",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/FXB843lagAUQUCx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXB843lagAUQUCx.jpg",
+						"url": "https://t.co/qXn9gVwboB",
+						"display_url": "pic.twitter.com/qXn9gVwboB",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1544872053786157057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126402,
+				"friends_count": 346,
+				"listed_count": 397,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7847,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9380,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1656897639",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n골든차일드, 에이비식스, 데이식스, 이달의 소녀 와이와이바이와이, 러블리즈, 에이핑크, 더보이즈, 에스에프나인, 펜타곤, 오마이걸, 아스트로, 뱀뱀, 조유리, 우주소녀, 에이티즈, 엔하이픈, 투모로우바이투게더, 레드벨벳, 엔시티 127, 엔시티 드림, 세븐틴, 트와이스, 방탄소년단 https://t.co/PiLc4ywhfm"
+	},
+	{
+		"created_at": "Thu Jul 07 06:40:09 +0000 2022",
+		"id": 1544929681765310500,
+		"id_str": "1544934277816537092",
+		"full_text": "[#하슬 / #HaSeul] 플립댓 비하인드 (인기가요)\n\n#이달의소녀 #LOONA https://t.co/w9cWfyv6vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544929669262512000,
+					"id_str": "1544929669262512133",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCxWUtakAU5d6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCxWUtakAU5d6l.jpg",
+					"url": "https://t.co/w9cWfyv6vd",
+					"display_url": "pic.twitter.com/w9cWfyv6vd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1544929681765310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544929669262512000,
+					"id_str": "1544929669262512133",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCxWUtakAU5d6l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCxWUtakAU5d6l.jpg",
+					"url": "https://t.co/w9cWfyv6vd",
+					"display_url": "pic.twitter.com/w9cWfyv6vd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1544929681765310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544929669249892400,
+					"id_str": "1544929669249892352",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCxWUqaAAAIb41.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCxWUqaAAAIb41.jpg",
+					"url": "https://t.co/w9cWfyv6vd",
+					"display_url": "pic.twitter.com/w9cWfyv6vd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1544929681765310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544929669241540600,
+					"id_str": "1544929669241540609",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCxWUoakAEjGmK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCxWUoakAEjGmK.jpg",
+					"url": "https://t.co/w9cWfyv6vd",
+					"display_url": "pic.twitter.com/w9cWfyv6vd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1544929681765310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544929670139097000,
+					"id_str": "1544929670139097088",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCxWX-aMAAfGpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCxWX-aMAAfGpJ.jpg",
+					"url": "https://t.co/w9cWfyv6vd",
+					"display_url": "pic.twitter.com/w9cWfyv6vd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1544929681765310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 951340,
+			"friends_count": 2,
+			"listed_count": 8816,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1999,
+		"favorite_count": 6506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하슬 / #HaSeul] 플립댓 비하인드 (인기가요)\n\n#이달의소녀 #LOONA https://t.co/w9cWfyv6vd"
+	},
+	{
+		"created_at": "Thu Jul 07 06:29:56 +0000 2022",
+		"id": 1544926049674449000,
+		"id_str": "1544931703931965441",
+		"full_text": "슬비 X 정비서, 미묘한 분위기 속 만남 포착!\n단둘이 마주한 사연은?👀\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/xXwydDEbkh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544925800348020700,
+					"id_str": "1544925800348020736",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCt1H4UcAAQ9sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCt1H4UcAAQ9sD.jpg",
+					"url": "https://t.co/xXwydDEbkh",
+					"display_url": "pic.twitter.com/xXwydDEbkh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544926049674448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544925800348020700,
+					"id_str": "1544925800348020736",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCt1H4UcAAQ9sD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCt1H4UcAAQ9sD.jpg",
+					"url": "https://t.co/xXwydDEbkh",
+					"display_url": "pic.twitter.com/xXwydDEbkh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544926049674448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925829632708600,
+					"id_str": "1544925829632708609",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCt20-VUAE_REM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCt20-VUAE_REM.jpg",
+					"url": "https://t.co/xXwydDEbkh",
+					"display_url": "pic.twitter.com/xXwydDEbkh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544926049674448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925849891192800,
+					"id_str": "1544925849891192833",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCt4AcVQAEOBrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCt4AcVQAEOBrw.jpg",
+					"url": "https://t.co/xXwydDEbkh",
+					"display_url": "pic.twitter.com/xXwydDEbkh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544926049674448896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106237,
+			"friends_count": 56806,
+			"listed_count": 2127,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657068747",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬비 X 정비서, 미묘한 분위기 속 만남 포착!\n단둘이 마주한 사연은?👀\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/xXwydDEbkh"
+	},
+	{
+		"created_at": "Thu Jul 07 06:29:47 +0000 2022",
+		"id": 1544925672719536000,
+		"id_str": "1544931665369526272",
+		"full_text": "수비 커플에게 찾아온 시련꒦ິȏ꒦ິ\n\n수광에게 진실을 털어놓은 슬비와\n그 진실 때문에 혼란스러워하는 수광😢\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/kghgaaHTm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544925571410407400,
+					"id_str": "1544925571410407424",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544925571410407400,
+					"id_str": "1544925571410407424",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925591689777200,
+					"id_str": "1544925591689777153",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCto-kUUAE83z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCto-kUUAE83z7.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925611725992000,
+					"id_str": "1544925611725991936",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtqJNUsAA0NBE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtqJNUsAA0NBE.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925627945390000,
+					"id_str": "1544925627945390081",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtrFoVEAEMOGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtrFoVEAEMOGH.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106237,
+			"friends_count": 56806,
+			"listed_count": 2127,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657068747",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수비 커플에게 찾아온 시련꒦ິȏ꒦ິ\n\n수광에게 진실을 털어놓은 슬비와\n그 진실 때문에 혼란스러워하는 수광😢\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/kghgaaHTm2"
+	},
+	{
 		"created_at": "Thu Jul 07 05:40:35 +0000 2022",
 		"id": 1544697401188880400,
 		"id_str": "1544919285453185025",
