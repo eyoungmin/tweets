@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 15:14:29 +0000 2022",
+		"id": 1545060446549422000,
+		"id_str": "1545063710602825728",
+		"full_text": "CHUNG HA 청하 'Sparkling' M/V Teaser #1\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 5:00AM (EST)\n\n🔎 https://t.co/mTM9ygbRKV\n\n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "Bare",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "2nd",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "Album",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "Part1",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mTM9ygbRKV",
+					"expanded_url": "https://youtu.be/zODUY6NG10A",
+					"display_url": "youtu.be/zODUY6NG10A",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/ul2Z0qlgiq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ul2Z0qlgiq",
+							"expanded_url": "https://chungha.lnk.to/KillingMe",
+							"display_url": "chungha.lnk.to/KillingMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350872,
+			"friends_count": 1,
+			"listed_count": 2164,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1092,
+		"favorite_count": 1910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA 청하 'Sparkling' M/V Teaser #1\n\n2022.07.11. 6:00PM (KST)\n\n2022.07.11. 5:00AM (EST)\n\n🔎 https://t.co/mTM9ygbRKV\n\n#청하 #CHUNGHA #Bare #Sparkling #2nd #Album #Part1"
+	},
+	{
 		"created_at": "Thu Jul 07 11:40:34 +0000 2022",
 		"id": 1545005369520525300,
 		"id_str": "1545009878204301312",
