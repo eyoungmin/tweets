@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 02:40:09 +0000 2022",
+		"id": 1544872854331998200,
+		"id_str": "1544873879289700353",
+		"full_text": "에스파의 눈부신 성장史, 이젠 광야 넘어 글로벌로 ‘어나더 레벨’!\n\naespa continues to grow beyond KWANGYA and into global success on ‘another level’! \n\nhttps://t.co/g76P7XYjgF\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/xwJ4VFSUI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						174,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g76P7XYjgF",
+					"expanded_url": "https://bit.ly/3uu3mAe",
+					"display_url": "bit.ly/3uu3mAe",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544872827375206400,
+					"id_str": "1544872827375206401",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXB9psLaQAEGh-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXB9psLaQAEGh-L.jpg",
+					"url": "https://t.co/xwJ4VFSUI0",
+					"display_url": "pic.twitter.com/xwJ4VFSUI0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544872854331998208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544872827375206400,
+					"id_str": "1544872827375206401",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXB9psLaQAEGh-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXB9psLaQAEGh-L.jpg",
+					"url": "https://t.co/xwJ4VFSUI0",
+					"display_url": "pic.twitter.com/xwJ4VFSUI0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544872854331998208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544872827379392500,
+					"id_str": "1544872827379392513",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXB9psMaIAEy7Ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXB9psMaIAEy7Ed.jpg",
+					"url": "https://t.co/xwJ4VFSUI0",
+					"display_url": "pic.twitter.com/xwJ4VFSUI0",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544872854331998208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2883991,
+			"friends_count": 2,
+			"listed_count": 8902,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3660,
+		"favorite_count": 11681,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파의 눈부신 성장史, 이젠 광야 넘어 글로벌로 ‘어나더 레벨’!\n\naespa continues to grow beyond KWANGYA and into global success on ‘another level’! \n\nhttps://t.co/g76P7XYjgF\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/xwJ4VFSUI0"
+	},
+	{
 		"created_at": "Thu Jul 07 01:40:10 +0000 2022",
 		"id": 1544848677092569000,
 		"id_str": "1544858780826992640",
