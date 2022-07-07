@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 11:40:34 +0000 2022",
+		"id": 1545005369520525300,
+		"id_str": "1545009878204301312",
+		"full_text": "D-1 until aespa's comeback! Their 2nd mini album title track 'Girls' MV teaser has become a hot topic! \nThe MV features a fierce battle with Black Mamba and wraps up the aespa SMCU Season 1 story! \n\nhttps://t.co/QgVyvdtvF3 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						232,
+						237
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						244,
+						250
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						251,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgVyvdtvF3",
+					"expanded_url": "https://bit.ly/3ypkys4",
+					"display_url": "bit.ly/3ypkys4",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1545005367427489800,
+		"in_reply_to_status_id_str": "1545005367427489793",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2887302,
+			"friends_count": 2,
+			"listed_count": 8913,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1402,
+		"favorite_count": 4879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "D-1 until aespa's comeback! Their 2nd mini album title track 'Girls' MV teaser has become a hot topic! \nThe MV features a fierce battle with Black Mamba and wraps up the aespa SMCU Season 1 story! \n\nhttps://t.co/QgVyvdtvF3 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Thu Jul 07 11:40:25 +0000 2022",
+		"id": 1545005367427489800,
+		"id_str": "1545009839461613574",
+		"full_text": "‘컴백 D-1’ 에스파, 두 번째 미니앨범 ‘Girls’ MV 티저 공개 화제\n블랙맘바와 본격 전투 예고! SMCU 에스파 세계관 시즌1 마지막 스토리 기대 UP!\n\nhttps://t.co/QgVyvdtvF3 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/c68bukkQfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgVyvdtvF3",
+					"expanded_url": "https://bit.ly/3ypkys4",
+					"display_url": "bit.ly/3ypkys4",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545005363958775800,
+					"id_str": "1545005363958775808",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FXD2MVbWAAAlVOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXD2MVbWAAAlVOz.jpg",
+					"url": "https://t.co/c68bukkQfe",
+					"display_url": "pic.twitter.com/c68bukkQfe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545005367427489793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545005363958775800,
+					"id_str": "1545005363958775808",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FXD2MVbWAAAlVOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXD2MVbWAAAlVOz.jpg",
+					"url": "https://t.co/c68bukkQfe",
+					"display_url": "pic.twitter.com/c68bukkQfe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545005367427489793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 1292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2887302,
+			"friends_count": 2,
+			"listed_count": 8913,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4853,
+		"favorite_count": 15691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백 D-1’ 에스파, 두 번째 미니앨범 ‘Girls’ MV 티저 공개 화제\n블랙맘바와 본격 전투 예고! SMCU 에스파 세계관 시즌1 마지막 스토리 기대 UP!\n\nhttps://t.co/QgVyvdtvF3 \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/c68bukkQfe"
+	},
+	{
+		"created_at": "Thu Jul 07 11:40:10 +0000 2022",
+		"id": 1544999838718328800,
+		"id_str": "1545009775771107328",
+		"full_text": "와 이거 진짜같다👀 æspa에게 세계관 방탈출을 선물한 과몰입 제작진 [광야탈출 넘버원] EP.0\n\nhttps://t.co/WAjm9lZAJd\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls\n#광야탈출넘버원 https://t.co/wdC6CgDwAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "광야탈출넘버원",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WAjm9lZAJd",
+					"expanded_url": "https://youtu.be/fKVnMssiDlg",
+					"display_url": "youtu.be/fKVnMssiDlg",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544999834855383000,
+					"id_str": "1544999834855383040",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDxKf6XoAAdu1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDxKf6XoAAdu1q.jpg",
+					"url": "https://t.co/wdC6CgDwAl",
+					"display_url": "pic.twitter.com/wdC6CgDwAl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544999838718328833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544999834855383000,
+					"id_str": "1544999834855383040",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDxKf6XoAAdu1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDxKf6XoAAdu1q.jpg",
+					"url": "https://t.co/wdC6CgDwAl",
+					"display_url": "pic.twitter.com/wdC6CgDwAl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1544999838718328833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2887302,
+			"friends_count": 2,
+			"listed_count": 8913,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6986,
+		"favorite_count": 16929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 이거 진짜같다👀 æspa에게 세계관 방탈출을 선물한 과몰입 제작진 [광야탈출 넘버원] EP.0\n\nhttps://t.co/WAjm9lZAJd\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls\n#광야탈출넘버원 https://t.co/wdC6CgDwAl"
+	},
+	{
 		"created_at": "Thu Jul 07 10:40:09 +0000 2022",
 		"id": 1544992256326652000,
 		"id_str": "1544994675240615937",
