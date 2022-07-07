@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 15:40:15 +0000 2022",
+		"id": 1544667227730878500,
+		"id_str": "1545070198226558977",
+		"full_text": "The premiere of #AudacyCheckIn with @aespa_official, hosted by @theradiohag, is happening now!\n\nWatch the full video 💖 https://t.co/mnfxcL5cs7 💖 https://t.co/qpwEC9yEQF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AudacyCheckIn",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "theradiohag",
+					"name": "julia",
+					"id": 115699045,
+					"id_str": "115699045",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mnfxcL5cs7",
+					"expanded_url": "http://auda.cy/aespa",
+					"display_url": "auda.cy/aespa",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544666380687081500,
+					"id_str": "1544666380687081478",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_CU0XWQAMlpr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_CU0XWQAMlpr0.jpg",
+					"url": "https://t.co/qpwEC9yEQF",
+					"display_url": "pic.twitter.com/qpwEC9yEQF",
+					"expanded_url": "https://twitter.com/Audacy/status/1544667227730878464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544666380687081500,
+					"id_str": "1544666380687081478",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FW_CU0XWQAMlpr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW_CU0XWQAMlpr0.jpg",
+					"url": "https://t.co/qpwEC9yEQF",
+					"display_url": "pic.twitter.com/qpwEC9yEQF",
+					"expanded_url": "https://twitter.com/Audacy/status/1544667227730878464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544666380687081478/pl/jqoL-Wjmjh-JSHSY.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544666380687081478/vid/480x270/eh25cIYS8NLnpfpY.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544666380687081478/vid/1280x720/xeIUEEf9oLjFKyGD.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544666380687081478/vid/640x360/Lf8q-9ARUp6-CQJh.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 140131880,
+			"id_str": "140131880",
+			"name": "Audacy",
+			"screen_name": "Audacy",
+			"location": "",
+			"description": "Your new audio home for all the music, news, sports, and podcasts that matter to you. Live and on-demand. It’s all here. | Support: @AudacyHelp",
+			"url": "https://t.co/vHI0mTs694",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vHI0mTs694",
+							"expanded_url": "https://www.audacy.com",
+							"display_url": "audacy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84237,
+			"friends_count": 1843,
+			"listed_count": 445,
+			"created_at": "Tue May 04 17:38:56 +0000 2010",
+			"favourites_count": 21909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542858609767358465/WGuS6FeI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542858609767358465/WGuS6FeI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/140131880/1638977363",
+			"profile_link_color": "02569B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2564,
+		"favorite_count": 6737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The premiere of #AudacyCheckIn with @aespa_official, hosted by @theradiohag, is happening now!\n\nWatch the full video 💖 https://t.co/mnfxcL5cs7 💖 https://t.co/qpwEC9yEQF"
+	},
+	{
 		"created_at": "Thu Jul 07 15:14:29 +0000 2022",
 		"id": 1545060446549422000,
 		"id_str": "1545063710602825728",
