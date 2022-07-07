@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 08:29:39 +0000 2022",
+		"id": 1544960335677132800,
+		"id_str": "1544961831126663168",
+		"full_text": "[#NEWS] 서현, 이훈과 서먹한 만남…20년 만에 밝힌 사실에 '충격' ('징크스의 연인')\n▶ https://t.co/0zUKtr7mwP\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ZAbTygLdSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0zUKtr7mwP",
+					"expanded_url": "http://naver.me/FaZ70ltH",
+					"display_url": "naver.me/FaZ70ltH",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544960318056857600,
+					"id_str": "1544960318056857601",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDNOUXagAEE5-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDNOUXagAEE5-C.jpg",
+					"url": "https://t.co/ZAbTygLdSU",
+					"display_url": "pic.twitter.com/ZAbTygLdSU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544960335677132801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544960318056857600,
+					"id_str": "1544960318056857601",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXDNOUXagAEE5-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXDNOUXagAEE5-C.jpg",
+					"url": "https://t.co/ZAbTygLdSU",
+					"display_url": "pic.twitter.com/ZAbTygLdSU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544960335677132801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61105,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 이훈과 서먹한 만남…20년 만에 밝힌 사실에 '충격' ('징크스의 연인')\n▶ https://t.co/0zUKtr7mwP\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ZAbTygLdSU"
+	},
+	{
+		"created_at": "Thu Jul 07 08:21:26 +0000 2022",
+		"id": 1544951173576151000,
+		"id_str": "1544959764689350657",
+		"full_text": "여자들의 평생고민! 흑발👩🏻 VS 금발👩🏼\n\n#흑발 #흑발아이돌 #금발 #금발아이돌 #아이린 #나연 #트와이스 #레드벨벳 #르세라핌 #홍은채 #에스파 #윈터 #있지 #유나 \n\nhttps://t.co/oZlK4uZ6dK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "흑발",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "흑발아이돌",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "금발",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "금발아이돌",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "르세라핌",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "홍은채",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "유나",
+					"indices": [
+						92,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oZlK4uZ6dK",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/67829",
+					"display_url": "cosmopolitan.co.kr/article/67829",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89577,
+			"friends_count": 4,
+			"listed_count": 408,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여자들의 평생고민! 흑발👩🏻 VS 금발👩🏼\n\n#흑발 #흑발아이돌 #금발 #금발아이돌 #아이린 #나연 #트와이스 #레드벨벳 #르세라핌 #홍은채 #에스파 #윈터 #있지 #유나 \n\nhttps://t.co/oZlK4uZ6dK"
+	},
+	{
 		"created_at": "Thu Jul 07 07:28:00 +0000 2022",
 		"id": 1544939273438146600,
 		"id_str": "1544946317394251777",
