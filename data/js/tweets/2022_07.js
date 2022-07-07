@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 04:40:16 +0000 2022",
+		"id": 1544894000079184000,
+		"id_str": "1544904104526372865",
+		"full_text": "▷ SMTOWN &amp;STORE\n \nMOBILE\nKOR : https://t.co/xA4dtuJkFM \nEN : https://t.co/wdPJSALGOT \nJP : https://t.co/39MZ5sLh2z \nCN : https://t.co/QJ7NzZhc9U https://t.co/aSdCu3yNcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xA4dtuJkFM",
+					"expanded_url": "https://bit.ly/3HLyT6k",
+					"display_url": "bit.ly/3HLyT6k",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/wdPJSALGOT",
+					"expanded_url": "https://bit.ly/3HLMwST",
+					"display_url": "bit.ly/3HLMwST",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/39MZ5sLh2z",
+					"expanded_url": "https://bit.ly/3xQ1fYu",
+					"display_url": "bit.ly/3xQ1fYu",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/QJ7NzZhc9U",
+					"expanded_url": "https://bit.ly/3OEZ1lL",
+					"display_url": "bit.ly/3OEZ1lL",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544893404429320200,
+					"id_str": "1544893404429320192",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQXbragAA_6JY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQXbragAA_6JY.jpg",
+					"url": "https://t.co/aSdCu3yNcS",
+					"display_url": "pic.twitter.com/aSdCu3yNcS",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1544894000079183873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544893404429320200,
+					"id_str": "1544893404429320192",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCQXbragAA_6JY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCQXbragAA_6JY.jpg",
+					"url": "https://t.co/aSdCu3yNcS",
+					"display_url": "pic.twitter.com/aSdCu3yNcS",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1544894000079183873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544893989631172600,
+		"in_reply_to_status_id_str": "1544893989631172608",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72862,
+			"friends_count": 1,
+			"listed_count": 292,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "▷ SMTOWN &amp;STORE\n \nMOBILE\nKOR : https://t.co/xA4dtuJkFM \nEN : https://t.co/wdPJSALGOT \nJP : https://t.co/39MZ5sLh2z \nCN : https://t.co/QJ7NzZhc9U https://t.co/aSdCu3yNcS"
+	},
+	{
 		"created_at": "Thu Jul 07 03:40:09 +0000 2022",
 		"id": 1544878873950634000,
 		"id_str": "1544888978633105409",
