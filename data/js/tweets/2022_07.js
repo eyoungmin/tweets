@@ -1,6 +1,1169 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 04:40:44 +0000 2022",
+		"id": 1545263910726602800,
+		"id_str": "1545266609463463937",
+		"full_text": "Listen to our lead single 'Girls' on the @AppleMusic \"A-List: K-Pop\" playlist! Link below 💜\n\n🔗 https://t.co/lHLcxDw5jC\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/6xDsmdvD99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lHLcxDw5jC",
+					"expanded_url": "http://apple.co/alistkpop",
+					"display_url": "apple.co/alistkpop",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545146254543429600,
+					"id_str": "1545146254543429637",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FXF2VPwWIAU7yOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXF2VPwWIAU7yOl.jpg",
+					"url": "https://t.co/6xDsmdvD99",
+					"display_url": "pic.twitter.com/6xDsmdvD99",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545263910726602754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545146254543429600,
+					"id_str": "1545146254543429637",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FXF2VPwWIAU7yOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXF2VPwWIAU7yOl.jpg",
+					"url": "https://t.co/6xDsmdvD99",
+					"display_url": "pic.twitter.com/6xDsmdvD99",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545263910726602754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2892443,
+			"friends_count": 2,
+			"listed_count": 8931,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3705,
+		"favorite_count": 10470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to our lead single 'Girls' on the @AppleMusic \"A-List: K-Pop\" playlist! Link below 💜\n\n🔗 https://t.co/lHLcxDw5jC\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/6xDsmdvD99"
+	},
+	{
+		"created_at": "Fri Jul 08 04:40:36 +0000 2022",
+		"id": 1545079917561319400,
+		"id_str": "1545266579587448833",
+		"full_text": "#이달의소녀 단독 팅터뷰 🎤\n\n멤버별(희진/현진/하슬/여진/비비/김립/진솔/최리/이브/츄/고원/Olivia Hye)로 궁금했던 궁금증을 하나둘씩 풀어 보아요!\n#kpop #kpopidol \n\n요즘 즐겨듣고 있는 중국노래?! 모였더라…..🙄귀여운 비비 🤭\n\nhttps://t.co/Gck4xCDL9I\n\n#loonavivi #이달소 #loona https://t.co/abFaO4livQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "kpopidol",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "loonavivi",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "loona",
+					"indices": [
+						184,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gck4xCDL9I",
+					"expanded_url": "https://youtu.be/aCNs-c_RC_M",
+					"display_url": "youtu.be/aCNs-c_RC_M",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545079859830874000,
+					"id_str": "1545079859830874112",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545079859830874112/pu/img/7y0ucrr23yD-yLrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545079859830874112/pu/img/7y0ucrr23yD-yLrf.jpg",
+					"url": "https://t.co/abFaO4livQ",
+					"display_url": "pic.twitter.com/abFaO4livQ",
+					"expanded_url": "https://twitter.com/tingground/status/1545079917561319424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545079859830874000,
+					"id_str": "1545079859830874112",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545079859830874112/pu/img/7y0ucrr23yD-yLrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545079859830874112/pu/img/7y0ucrr23yD-yLrf.jpg",
+					"url": "https://t.co/abFaO4livQ",
+					"display_url": "pic.twitter.com/abFaO4livQ",
+					"expanded_url": "https://twitter.com/tingground/status/1545079917561319424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1545079859830874112/pu/pl/TGIN3q93m2zDOrJH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545079859830874112/pu/vid/480x270/Jm8Exzl5_yXVulNK.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545079859830874112/pu/vid/640x360/t-lq3K8W0IQ6rDMr.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545079859830874112/pu/vid/1280x720/beed_9N4J0cvu2hP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1462662516065112000,
+			"id_str": "1462662516065112070",
+			"name": "TingGround",
+			"screen_name": "tingground",
+			"location": "",
+			"description": "Just feel it\n\nTingground\n매 주 새로운 아티스트의 멋진 퍼포먼스를 기대해주세요 :)",
+			"url": "https://t.co/o9sQTxuLCM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9sQTxuLCM",
+							"expanded_url": "https://www.youtube.com/channel/UC89Op413hem8jnWEjgVilWw",
+							"display_url": "youtube.com/channel/UC89Op…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Nov 22 06:01:52 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544945760470331393/VrPEz01o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544945760470331393/VrPEz01o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1462662516065112070/1637565356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 1288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 단독 팅터뷰 🎤\n\n멤버별(희진/현진/하슬/여진/비비/김립/진솔/최리/이브/츄/고원/Olivia Hye)로 궁금했던 궁금증을 하나둘씩 풀어 보아요!\n#kpop #kpopidol \n\n요즘 즐겨듣고 있는 중국노래?! 모였더라…..🙄귀여운 비비 🤭\n\nhttps://t.co/Gck4xCDL9I\n\n#loonavivi #이달소 #loona https://t.co/abFaO4livQ"
+	},
+	{
+		"created_at": "Fri Jul 08 04:40:27 +0000 2022",
+		"id": 1544973135438499800,
+		"id_str": "1545266541364658176",
+		"full_text": "이달의소녀_팅터뷰🎤 \n\n츄의 #깨물하트 ❤️\n보러 와주실꺼죠~~~~~~ \nClick\n🔻🔻🔻🔻🔻🔻🔻🔻🔻\nhttps://t.co/Gck4xCDL9I\n\n#이달소 #이달의소녀 #Loona #Loonachuu #이달의소녀츄 #kpop #kpopidol #loonachuu #kpopgirlgroup #kpopgirlgroup #kpopfff #FlipThat https://t.co/GiEFXcOAow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "깨물하트",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Loona",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "Loonachuu",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "이달의소녀츄",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "kpopidol",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "loonachuu",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "kpopgirlgroup",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "kpopgirlgroup",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "kpopfff",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gck4xCDL9I",
+					"expanded_url": "https://youtu.be/aCNs-c_RC_M",
+					"display_url": "youtu.be/aCNs-c_RC_M",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544973107361767400,
+					"id_str": "1544973107361767424",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544973107361767424/pu/img/uXGW3qVX6Gkq_mMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544973107361767424/pu/img/uXGW3qVX6Gkq_mMZ.jpg",
+					"url": "https://t.co/GiEFXcOAow",
+					"display_url": "pic.twitter.com/GiEFXcOAow",
+					"expanded_url": "https://twitter.com/tingground/status/1544973135438499840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544973107361767400,
+					"id_str": "1544973107361767424",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1544973107361767424/pu/img/uXGW3qVX6Gkq_mMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1544973107361767424/pu/img/uXGW3qVX6Gkq_mMZ.jpg",
+					"url": "https://t.co/GiEFXcOAow",
+					"display_url": "pic.twitter.com/GiEFXcOAow",
+					"expanded_url": "https://twitter.com/tingground/status/1544973135438499840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3900,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544973107361767424/pu/vid/1280x720/JYwo_7LOzeF94gxz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1544973107361767424/pu/pl/tKlG9FARfrmNwmmm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544973107361767424/pu/vid/480x270/Ku580nDECu98eDgm.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1544973107361767424/pu/vid/640x360/qiglCKbkgt1rVKch.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1462662516065112000,
+			"id_str": "1462662516065112070",
+			"name": "TingGround",
+			"screen_name": "tingground",
+			"location": "",
+			"description": "Just feel it\n\nTingground\n매 주 새로운 아티스트의 멋진 퍼포먼스를 기대해주세요 :)",
+			"url": "https://t.co/o9sQTxuLCM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9sQTxuLCM",
+							"expanded_url": "https://www.youtube.com/channel/UC89Op413hem8jnWEjgVilWw",
+							"display_url": "youtube.com/channel/UC89Op…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Nov 22 06:01:52 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544945760470331393/VrPEz01o_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544945760470331393/VrPEz01o_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1462662516065112070/1637565356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 1400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀_팅터뷰🎤 \n\n츄의 #깨물하트 ❤️\n보러 와주실꺼죠~~~~~~ \nClick\n🔻🔻🔻🔻🔻🔻🔻🔻🔻\nhttps://t.co/Gck4xCDL9I\n\n#이달소 #이달의소녀 #Loona #Loonachuu #이달의소녀츄 #kpop #kpopidol #loonachuu #kpopgirlgroup #kpopgirlgroup #kpopfff #FlipThat https://t.co/GiEFXcOAow"
+	},
+	{
+		"created_at": "Fri Jul 08 04:40:25 +0000 2022",
+		"id": 1545260134577815600,
+		"id_str": "1545266532502179845",
+		"full_text": "따라와❗️ 지켜봐❗️ 미니 2집 \"Girls\"로 돌아온 aespa\n\nhttps://t.co/JIVyGaJiMN\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/lIowNzbFnb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIVyGaJiMN",
+					"expanded_url": "http://naver.me/x3bMz84Q",
+					"display_url": "naver.me/x3bMz84Q",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545062020000653300,
+					"id_str": "1545062020000653312",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEpuJoWIAAzYP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEpuJoWIAAzYP5.jpg",
+					"url": "https://t.co/lIowNzbFnb",
+					"display_url": "pic.twitter.com/lIowNzbFnb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545260134577815552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545062020000653300,
+					"id_str": "1545062020000653312",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FXEpuJoWIAAzYP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXEpuJoWIAAzYP5.jpg",
+					"url": "https://t.co/lIowNzbFnb",
+					"display_url": "pic.twitter.com/lIowNzbFnb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545260134577815552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2892443,
+			"friends_count": 2,
+			"listed_count": 8931,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6637,
+		"favorite_count": 21938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "따라와❗️ 지켜봐❗️ 미니 2집 \"Girls\"로 돌아온 aespa\n\nhttps://t.co/JIVyGaJiMN\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/lIowNzbFnb"
+	},
+	{
+		"created_at": "Fri Jul 08 04:40:18 +0000 2022",
+		"id": 1545259087872630800,
+		"id_str": "1545266502710038528",
+		"full_text": "aespa 에스파 The 2nd Mini Album 〖Girls〗\n\nListen now on your favorite platform \n🎧 https://t.co/gHB4W0qbCW  \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gHB4W0qbCW",
+					"expanded_url": "http://aespa.lnk.to/GirlsEP",
+					"display_url": "aespa.lnk.to/GirlsEP",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2892443,
+			"friends_count": 2,
+			"listed_count": 8931,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5049,
+		"favorite_count": 13443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 The 2nd Mini Album 〖Girls〗\n\nListen now on your favorite platform \n🎧 https://t.co/gHB4W0qbCW  \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls"
+	},
+	{
 		"created_at": "Fri Jul 08 03:40:22 +0000 2022",
 		"id": 1545250827320799200,
 		"id_str": "1545251419061686272",
