@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 13:40:18 +0000 2022",
+		"id": 1545392265912324000,
+		"id_str": "1545402397291433984",
+		"full_text": "[#비주얼캠] \n미모로 온 세상을 뒤집는 사람들이 있다?\n그게 바로 짱달소예요…😭\n이젠 짱달소 예쁘다고 말하기도 지쳐요 (아님 1분 1초도 쉬지 않고 말할 수 있음)\n✨https://t.co/0DGz6cZ7NT\n\n#VISUALCAM #이달의소녀 #LOONA \n#FlipThat @loonatheworld https://t.co/UL0JoRZyZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비주얼캠",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "VISUALCAM",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0DGz6cZ7NT",
+					"expanded_url": "https://youtu.be/a7ISVp3Ah-k",
+					"display_url": "youtu.be/a7ISVp3Ah-k",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545317314014285800,
+					"id_str": "1545317314014285824",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIR6N8VEAAZVxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIR6N8VEAAZVxy.jpg",
+					"url": "https://t.co/UL0JoRZyZS",
+					"display_url": "pic.twitter.com/UL0JoRZyZS",
+					"expanded_url": "https://twitter.com/MnetKR/status/1545392265912324098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545317314014285800,
+					"id_str": "1545317314014285824",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIR6N8VEAAZVxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIR6N8VEAAZVxy.jpg",
+					"url": "https://t.co/UL0JoRZyZS",
+					"display_url": "pic.twitter.com/UL0JoRZyZS",
+					"expanded_url": "https://twitter.com/MnetKR/status/1545392265912324098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066541,
+			"friends_count": 20903,
+			"listed_count": 3036,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 1768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#비주얼캠] \n미모로 온 세상을 뒤집는 사람들이 있다?\n그게 바로 짱달소예요…😭\n이젠 짱달소 예쁘다고 말하기도 지쳐요 (아님 1분 1초도 쉬지 않고 말할 수 있음)\n✨https://t.co/0DGz6cZ7NT\n\n#VISUALCAM #이달의소녀 #LOONA \n#FlipThat @loonatheworld https://t.co/UL0JoRZyZS"
+	},
+	{
 		"created_at": "Fri Jul 08 12:40:30 +0000 2022",
 		"id": 1545377640617431000,
 		"id_str": "1545387348128661504",
