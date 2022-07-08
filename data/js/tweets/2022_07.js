@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 16:40:26 +0000 2022",
+		"id": 1545441719013245000,
+		"id_str": "1545447729958363136",
+		"full_text": "aespa performs 'Girls’ in Central Park🫡🌳\n\n🔗 https://t.co/ILrpskQziS\n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "aespaOnGMA",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						99,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ILrpskQziS",
+					"expanded_url": "https://abcn.ws/3nNGqsb",
+					"display_url": "abcn.ws/3nNGqsb",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2897420,
+			"friends_count": 2,
+			"listed_count": 8943,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3141,
+		"favorite_count": 8533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa performs 'Girls’ in Central Park🫡🌳\n\n🔗 https://t.co/ILrpskQziS\n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA"
+	},
+	{
+		"created_at": "Fri Jul 08 16:40:22 +0000 2022",
+		"id": 1545387759166177300,
+		"id_str": "1545447712417615874",
+		"full_text": "Welcome to New York, @aespa_official — we love you more! ❤️\n\n#aespaOnGMA\nhttps://t.co/Vq02wGm6Js https://t.co/4N0R26BkYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespaOnGMA",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vq02wGm6Js",
+					"expanded_url": "https://gma.abc/3bZvWmW",
+					"display_url": "gma.abc/3bZvWmW",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545387540194156500,
+					"id_str": "1545387540194156544",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJR2KMXkAEAYya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJR2KMXkAEAYya.jpg",
+					"url": "https://t.co/4N0R26BkYG",
+					"display_url": "pic.twitter.com/4N0R26BkYG",
+					"expanded_url": "https://twitter.com/GMA/status/1545387759166177281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545387540194156500,
+					"id_str": "1545387540194156544",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJR2KMXkAEAYya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJR2KMXkAEAYya.jpg",
+					"url": "https://t.co/4N0R26BkYG",
+					"display_url": "pic.twitter.com/4N0R26BkYG",
+					"expanded_url": "https://twitter.com/GMA/status/1545387759166177281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 155556,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545387540194156544/vid/640x360/T_6tP8SNKpMYD6Dh.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545387540194156544/pl/oVV_at7uUmSFaQDa.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545387540194156544/vid/480x270/pyXS89390LMOyvj8.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545387540194156544/vid/1280x720/Le-EmkKwLD0xNrI5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22650211,
+			"id_str": "22650211",
+			"name": "Good Morning America",
+			"screen_name": "GMA",
+			"location": "New York, NY",
+			"description": "Put some GOOD in your morning! Watch @GMA at 7am and around the clock at https://t.co/9MTJvPi246!",
+			"url": "https://t.co/rshRna9QeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rshRna9QeG",
+							"expanded_url": "https://gma.abc/3x6FxNJ",
+							"display_url": "gma.abc/3x6FxNJ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9MTJvPi246",
+							"expanded_url": "http://GoodMorningAmerica.com",
+							"display_url": "GoodMorningAmerica.com",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3787719,
+			"friends_count": 2431,
+			"listed_count": 15289,
+			"created_at": "Tue Mar 03 17:40:29 +0000 2009",
+			"favourites_count": 6948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 297066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAB81E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1519639342410612739/Yhdhv4aW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519639342410612739/Yhdhv4aW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22650211/1548688818",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4817,
+		"favorite_count": 11092,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to New York, @aespa_official — we love you more! ❤️\n\n#aespaOnGMA\nhttps://t.co/Vq02wGm6Js https://t.co/4N0R26BkYG"
+	},
+	{
+		"created_at": "Fri Jul 08 16:40:16 +0000 2022",
+		"id": 1545394277131473000,
+		"id_str": "1545447686668697601",
+		"full_text": ".@aespa_official performs #LifesTooShort at our @GMA Summer Concert Series sponsored by @MassageEnvy! https://t.co/wkx1lyyLwy #aespaOnGMA https://t.co/bLWYuaCSJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"text": "aespaOnGMA",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"screen_name": "MassageEnvy",
+					"name": "Massage Envy",
+					"id": 270067038,
+					"id_str": "270067038",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wkx1lyyLwy",
+					"expanded_url": "https://gma.abc/3P9kgwJ",
+					"display_url": "gma.abc/3P9kgwJ",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545393084908830700,
+					"id_str": "1545393084908830720",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1545393084908830720/img/PuE45wiZslhssJHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1545393084908830720/img/PuE45wiZslhssJHY.jpg",
+					"url": "https://t.co/bLWYuaCSJE",
+					"display_url": "pic.twitter.com/bLWYuaCSJE",
+					"expanded_url": "https://twitter.com/GMA/status/1545394277131472896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545393084908830700,
+					"id_str": "1545393084908830720",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1545393084908830720/img/PuE45wiZslhssJHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1545393084908830720/img/PuE45wiZslhssJHY.jpg",
+					"url": "https://t.co/bLWYuaCSJE",
+					"display_url": "pic.twitter.com/bLWYuaCSJE",
+					"expanded_url": "https://twitter.com/GMA/status/1545394277131472896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33881,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545393084908830720/vid/480x270/8q_WH_Hle6l-FBBv.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545393084908830720/vid/1280x720/csMR-BOMIPLX8CK5.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545393084908830720/pl/XFoQfZKD0vKFgbI3.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545393084908830720/vid/640x360/MgwXQDP3b4Guvybm.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22650211,
+			"id_str": "22650211",
+			"name": "Good Morning America",
+			"screen_name": "GMA",
+			"location": "New York, NY",
+			"description": "Put some GOOD in your morning! Watch @GMA at 7am and around the clock at https://t.co/9MTJvPi246!",
+			"url": "https://t.co/rshRna9QeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rshRna9QeG",
+							"expanded_url": "https://gma.abc/3x6FxNJ",
+							"display_url": "gma.abc/3x6FxNJ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9MTJvPi246",
+							"expanded_url": "http://GoodMorningAmerica.com",
+							"display_url": "GoodMorningAmerica.com",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3787719,
+			"friends_count": 2431,
+			"listed_count": 15289,
+			"created_at": "Tue Mar 03 17:40:29 +0000 2009",
+			"favourites_count": 6948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 297066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAB81E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1519639342410612739/Yhdhv4aW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1519639342410612739/Yhdhv4aW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22650211/1548688818",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2933,
+		"favorite_count": 7364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official performs #LifesTooShort at our @GMA Summer Concert Series sponsored by @MassageEnvy! https://t.co/wkx1lyyLwy #aespaOnGMA https://t.co/bLWYuaCSJE"
+	},
+	{
 		"created_at": "Fri Jul 08 15:14:42 +0000 2022",
 		"id": 1545422565467832300,
 		"id_str": "1545426155183820801",
