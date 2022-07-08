@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 03:40:22 +0000 2022",
+		"id": 1545250827320799200,
+		"id_str": "1545251419061686272",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 신곡 '스파클링' MV 1차 티저 공개…서머퀸의 귀환\n\n🔎 https://t.co/CJrMBhnjrz\n\n#청하 #CHUNGHA\n#컴백 #BareRare #MV #Teaser #Sparkling #공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CJrMBhnjrz",
+					"expanded_url": "http://naver.me/GWoXtVfR",
+					"display_url": "naver.me/GWoXtVfR",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30756,
+			"friends_count": 7,
+			"listed_count": 315,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 신곡 '스파클링' MV 1차 티저 공개…서머퀸의 귀환\n\n🔎 https://t.co/CJrMBhnjrz\n\n#청하 #CHUNGHA\n#컴백 #BareRare #MV #Teaser #Sparkling #공개"
+	},
+	{
+		"created_at": "Fri Jul 08 03:40:13 +0000 2022",
+		"id": 1545155967645393000,
+		"id_str": "1545251380620918787",
+		"full_text": ".@aespa_official talks to @itstetrisbish about their new EP 'Girls', performing in front of their fans, wanting to collab with Harry Styles and more! #BillboardNews https://t.co/rYohpbbdwj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillboardNews",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "itstetrisbish",
+					"name": "TETRIS",
+					"id": 25962116,
+					"id_str": "25962116",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545131661867851800,
+					"id_str": "1545131661867851777",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFtzjwX0AApJme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFtzjwX0AApJme.jpg",
+					"url": "https://t.co/rYohpbbdwj",
+					"display_url": "pic.twitter.com/rYohpbbdwj",
+					"expanded_url": "https://twitter.com/billboard/status/1545155967645392896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545131661867851800,
+					"id_str": "1545131661867851777",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFtzjwX0AApJme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFtzjwX0AApJme.jpg",
+					"url": "https://t.co/rYohpbbdwj",
+					"display_url": "pic.twitter.com/rYohpbbdwj",
+					"expanded_url": "https://twitter.com/billboard/status/1545155967645392896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 457623,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545131661867851777/vid/480x270/nm2-ftDgbRVuOnvx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545131661867851777/pl/YQuZqxijgzS-xoyx.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545131661867851777/vid/640x360/SXuaJliEjqtGuDqB.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545131661867851777/vid/1280x720/EelxoiZNzoZ-3sTp.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardpro",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13826181,
+			"friends_count": 3481,
+			"listed_count": 21660,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 299477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1655993087",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4753,
+		"favorite_count": 10767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@aespa_official talks to @itstetrisbish about their new EP 'Girls', performing in front of their fans, wanting to collab with Harry Styles and more! #BillboardNews https://t.co/rYohpbbdwj"
+	},
+	{
 		"created_at": "Fri Jul 08 02:44:55 +0000 2022",
 		"id": 1545232381526753300,
 		"id_str": "1545237466231123968",
