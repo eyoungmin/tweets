@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 10:45:36 +0000 2022",
+		"id": 1545347009539846100,
+		"id_str": "1545358434823962625",
+		"full_text": "[짜릿한인터뷰] 이달의 소녀 LOONAㅣ??? : 아 제가 공주여가지구^^💖 자기애가 넘치는 짱달소의 킹.받.는 인터뷰🔥\n\n오빛들 가려운 곳만 쏙쏙 긁어드리는🙌 달소 맞춤형 인터뷰 드려요🔥 \n\n(@loonatheworld)\n#이달의소녀 #LOONA\n\n▶ https://t.co/LQLg3FMZR7 https://t.co/Lwmv5nxnNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LQLg3FMZR7",
+					"expanded_url": "https://youtu.be/zIzRATzdSIc",
+					"display_url": "youtu.be/zIzRATzdSIc",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545346995929305000,
+					"id_str": "1545346995929305093",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIs57sVUAURjsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIs57sVUAURjsF.jpg",
+					"url": "https://t.co/Lwmv5nxnNU",
+					"display_url": "pic.twitter.com/Lwmv5nxnNU",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1545347009539846144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545346995929305000,
+					"id_str": "1545346995929305093",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIs57sVUAURjsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIs57sVUAURjsF.jpg",
+					"url": "https://t.co/Lwmv5nxnNU",
+					"display_url": "pic.twitter.com/Lwmv5nxnNU",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1545347009539846144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6594,
+			"friends_count": 11,
+			"listed_count": 25,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[짜릿한인터뷰] 이달의 소녀 LOONAㅣ??? : 아 제가 공주여가지구^^💖 자기애가 넘치는 짱달소의 킹.받.는 인터뷰🔥\n\n오빛들 가려운 곳만 쏙쏙 긁어드리는🙌 달소 맞춤형 인터뷰 드려요🔥 \n\n(@loonatheworld)\n#이달의소녀 #LOONA\n\n▶ https://t.co/LQLg3FMZR7 https://t.co/Lwmv5nxnNU"
+	},
+	{
+		"created_at": "Fri Jul 08 10:40:23 +0000 2022",
+		"id": 1545332084201648000,
+		"id_str": "1545357119200821249",
+		"full_text": "📍광야 대스타💫 짱스파💕 K-POP 스퀘어에 등장✨\naespa의 두 번째 미니앨범💥 &lt;Girls&gt; 발매 기념💿\n🍈멜론에서만 만나볼 수 있는 독점 콘텐츠😍\n\n지금 멜론에서 만나보세요❗\n👉🏻https://t.co/8aWFZ3ltnx\n\n#멜론 #Melon #멜론스포트라이트 #스포트라이트 #aespa #에스파\n#Girls @aespa_official https://t.co/yDx8D3cySy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "멜론스포트라이트",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "스포트라이트",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						183,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8aWFZ3ltnx",
+					"expanded_url": "http://kko.to/Y7P22mfOW",
+					"display_url": "kko.to/Y7P22mfOW",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545328596180701200,
+					"id_str": "1545328596180701185",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545328596180701185/pu/img/TsDNxgNNffsKJS2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545328596180701185/pu/img/TsDNxgNNffsKJS2R.jpg",
+					"url": "https://t.co/yDx8D3cySy",
+					"display_url": "pic.twitter.com/yDx8D3cySy",
+					"expanded_url": "https://twitter.com/melon/status/1545332084201648128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545328596180701200,
+					"id_str": "1545328596180701185",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545328596180701185/pu/img/TsDNxgNNffsKJS2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545328596180701185/pu/img/TsDNxgNNffsKJS2R.jpg",
+					"url": "https://t.co/yDx8D3cySy",
+					"display_url": "pic.twitter.com/yDx8D3cySy",
+					"expanded_url": "https://twitter.com/melon/status/1545332084201648128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21800,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545328596180701185/pu/vid/720x720/uE0CBJchrjZoA4Of.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545328596180701185/pu/vid/320x320/qUQX2cbZBuFAERtr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545328596180701185/pu/vid/540x540/zEkVJ9gM8GRmjk1S.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1545328596180701185/pu/pl/twQoHMWnBS4yfAdh.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187297,
+			"friends_count": 70,
+			"listed_count": 677,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1784,
+		"favorite_count": 5273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍광야 대스타💫 짱스파💕 K-POP 스퀘어에 등장✨\naespa의 두 번째 미니앨범💥 &lt;Girls&gt; 발매 기념💿\n🍈멜론에서만 만나볼 수 있는 독점 콘텐츠😍\n\n지금 멜론에서 만나보세요❗\n👉🏻https://t.co/8aWFZ3ltnx\n\n#멜론 #Melon #멜론스포트라이트 #스포트라이트 #aespa #에스파\n#Girls @aespa_official https://t.co/yDx8D3cySy"
+	},
+	{
+		"created_at": "Fri Jul 08 10:40:14 +0000 2022",
+		"id": 1545258788130738200,
+		"id_str": "1545357080789409792",
+		"full_text": "광야 규칙✅\n광야의 것 탐내지 않기, 절대로 뒤를 돌아보지 않기\n💕평생 aespa 사랑하기💕\n블랙맘바를 부셔 깨고 나아갈🔥\naespa 두 번째 미니앨범 &lt;Girls&gt; 발매💿❗\n\n지금 멜론에서 만나보세요🍈\n👉🏻https://t.co/8aWFZ33k9p\n\n#멜론 #Melon #멜론스포트라이트 #aespa #에스파\n#Girls @aespa_official https://t.co/8qKsFRIl6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "멜론스포트라이트",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						187,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8aWFZ33k9p",
+					"expanded_url": "http://kko.to/Y7P22mfOW",
+					"display_url": "kko.to/Y7P22mfOW",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545249186508972000,
+					"id_str": "1545249186508972034",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545249186508972034/pu/img/xQrxIXq5CsqeHiHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545249186508972034/pu/img/xQrxIXq5CsqeHiHS.jpg",
+					"url": "https://t.co/8qKsFRIl6s",
+					"display_url": "pic.twitter.com/8qKsFRIl6s",
+					"expanded_url": "https://twitter.com/melon/status/1545258788130738177/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545249186508972000,
+					"id_str": "1545249186508972034",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545249186508972034/pu/img/xQrxIXq5CsqeHiHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545249186508972034/pu/img/xQrxIXq5CsqeHiHS.jpg",
+					"url": "https://t.co/8qKsFRIl6s",
+					"display_url": "pic.twitter.com/8qKsFRIl6s",
+					"expanded_url": "https://twitter.com/melon/status/1545258788130738177/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46964,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545249186508972034/pu/vid/720x720/BACqOufW51xkJ0sh.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545249186508972034/pu/vid/320x320/lDPEd6w--ZCSQzii.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545249186508972034/pu/vid/540x540/-z8QfEO8euV6AFyN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1545249186508972034/pu/pl/tfFI8o1GmqFbitmw.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187297,
+			"friends_count": 70,
+			"listed_count": 677,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1974,
+		"favorite_count": 5821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "광야 규칙✅\n광야의 것 탐내지 않기, 절대로 뒤를 돌아보지 않기\n💕평생 aespa 사랑하기💕\n블랙맘바를 부셔 깨고 나아갈🔥\naespa 두 번째 미니앨범 &lt;Girls&gt; 발매💿❗\n\n지금 멜론에서 만나보세요🍈\n👉🏻https://t.co/8aWFZ33k9p\n\n#멜론 #Melon #멜론스포트라이트 #aespa #에스파\n#Girls @aespa_official https://t.co/8qKsFRIl6s"
+	},
+	{
 		"created_at": "Fri Jul 08 09:45:36 +0000 2022",
 		"id": 1545332454772584400,
 		"id_str": "1545343335698767873",
