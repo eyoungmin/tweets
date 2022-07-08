@@ -1,6 +1,1035 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 02:44:55 +0000 2022",
+		"id": 1545232381526753300,
+		"id_str": "1545237466231123968",
+		"full_text": "#aespa’s comeback D-DAY is today! Their 2nd mini album ‘Girls’ exceeded 1.61M preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album &amp; the MV for the title track #Girls will drop at 1PM today (KST)!\n\nhttps://t.co/mgPekLTem3 https://t.co/gTAW825PG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						223,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mgPekLTem3",
+					"expanded_url": "https://bit.ly/3NPSNP8",
+					"display_url": "bit.ly/3NPSNP8",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545232370327924700,
+					"id_str": "1545232370327924736",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545232370327924700,
+					"id_str": "1545232370327924736",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2DUsAAi05n.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545232370332094500,
+					"id_str": "1545232370332094464",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHEp2EUUAA8QLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHEp2EUUAA8QLO.jpg",
+					"url": "https://t.co/gTAW825PG3",
+					"display_url": "pic.twitter.com/gTAW825PG3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1545232381526753280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10983699,
+			"friends_count": 56,
+			"listed_count": 12399,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2205,
+		"favorite_count": 5335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa’s comeback D-DAY is today! Their 2nd mini album ‘Girls’ exceeded 1.61M preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album &amp; the MV for the title track #Girls will drop at 1PM today (KST)!\n\nhttps://t.co/mgPekLTem3 https://t.co/gTAW825PG3"
+	},
+	{
+		"created_at": "Fri Jul 08 02:40:17 +0000 2022",
+		"id": 1545234104576270300,
+		"id_str": "1545236298629369856",
+		"full_text": "#aespa’s comeback D-DAY is today! Their second mini album ‘#Girls’ exceeded 1.61 million preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album along with the MV for the title track, ‘Girls’, will drop at 1PM today (KST)!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545234101229199400,
+		"in_reply_to_status_id_str": "1545234101229199362",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2891056,
+			"friends_count": 2,
+			"listed_count": 8924,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2274,
+		"favorite_count": 6344,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa’s comeback D-DAY is today! Their second mini album ‘#Girls’ exceeded 1.61 million preorders, setting a new record for the highest number of preorders recorded for a K-pop girl group! \nThe album along with the MV for the title track, ‘Girls’, will drop at 1PM today (KST)!"
+	},
+	{
+		"created_at": "Fri Jul 08 02:40:12 +0000 2022",
+		"id": 1545234101229199400,
+		"id_str": "1545236277204815873",
+		"full_text": "‘컴백 D-DAY’ 에스파, 두 번째 미니앨범 ‘Girls’ 선주문 무려 161만 장 돌파!\nK팝 걸그룹 선주문 최고 기록! 초동 신기록 초읽기!\n오늘 오후 1시 전곡 음원+타이틀 곡 ‘Girls’ MV 공개!\n\nhttps://t.co/MJDHHhiWhm\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/mpaoCAQkbW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						170,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJDHHhiWhm",
+					"expanded_url": "https://bit.ly/3NPSNP8",
+					"display_url": "bit.ly/3NPSNP8",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545234069570691000,
+					"id_str": "1545234069570691076",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHGMwOXoAQnXAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHGMwOXoAQnXAT.jpg",
+					"url": "https://t.co/mpaoCAQkbW",
+					"display_url": "pic.twitter.com/mpaoCAQkbW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545234101229199362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545234069570691000,
+					"id_str": "1545234069570691076",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHGMwOXoAQnXAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHGMwOXoAQnXAT.jpg",
+					"url": "https://t.co/mpaoCAQkbW",
+					"display_url": "pic.twitter.com/mpaoCAQkbW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545234101229199362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545234069570687000,
+					"id_str": "1545234069570686976",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHGMwOXkAAxShT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHGMwOXkAAxShT.jpg",
+					"url": "https://t.co/mpaoCAQkbW",
+					"display_url": "pic.twitter.com/mpaoCAQkbW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545234101229199362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Life's Too Short (English Ver.)",
+			"url": "https://t.co/jVIzGoOMgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jVIzGoOMgm",
+							"expanded_url": "http://youtu.be/z2ZjutyxmjA",
+							"display_url": "youtu.be/z2ZjutyxmjA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2891056,
+			"friends_count": 2,
+			"listed_count": 8924,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5083,
+		"favorite_count": 14148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백 D-DAY’ 에스파, 두 번째 미니앨범 ‘Girls’ 선주문 무려 161만 장 돌파!\nK팝 걸그룹 선주문 최고 기록! 초동 신기록 초읽기!\n오늘 오후 1시 전곡 음원+타이틀 곡 ‘Girls’ MV 공개!\n\nhttps://t.co/MJDHHhiWhm\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/mpaoCAQkbW"
+	},
+	{
+		"created_at": "Fri Jul 08 02:40:10 +0000 2022",
+		"id": 1545216258148569000,
+		"id_str": "1545236268275171329",
+		"full_text": "#WhosfanCafe ☕\n\nWHOSFAN CLUB X LOONA\n💚 Evento Temático Oficial «Flip That» 💜\n✨Anuncio de evento\n\n📍 Lugar: DICO Store, Chile🇨🇱\n📆15.7 ~ 17.7\n\n🔗https://t.co/fy4sbgKuyM\n\n@loonatheworld #이달의소녀 #FlipThat https://t.co/fYt7NGug3J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosfanCafe",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						166,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fy4sbgKuyM",
+					"expanded_url": "https://bit.ly/3ysq2SD",
+					"display_url": "bit.ly/3ysq2SD",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545216176703164400,
+					"id_str": "1545216176703164416",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FXG17QGUUAAgdB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXG17QGUUAAgdB3.jpg",
+					"url": "https://t.co/fYt7NGug3J",
+					"display_url": "pic.twitter.com/fYt7NGug3J",
+					"expanded_url": "https://twitter.com/WhosfanCafe/status/1545216258148569088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545216176703164400,
+					"id_str": "1545216176703164416",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FXG17QGUUAAgdB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXG17QGUUAAgdB3.jpg",
+					"url": "https://t.co/fYt7NGug3J",
+					"display_url": "pic.twitter.com/fYt7NGug3J",
+					"expanded_url": "https://twitter.com/WhosfanCafe/status/1545216258148569088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1490870017331589000,
+			"id_str": "1490870017331589120",
+			"name": "Whosfan Cafe 후즈팬 카페",
+			"screen_name": "WhosfanCafe",
+			"location": "",
+			"description": "Whosfan Cafe Official Account #WhosfanCafe #후즈팬카페",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1336,
+			"friends_count": 2,
+			"listed_count": 8,
+			"created_at": "Tue Feb 08 02:09:14 +0000 2022",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490872076005109761/5S30leTB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490870017331589120/1644287145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 1412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "#WhosfanCafe ☕\n\nWHOSFAN CLUB X LOONA\n💚 Evento Temático Oficial «Flip That» 💜\n✨Anuncio de evento\n\n📍 Lugar: DICO Store, Chile🇨🇱\n📆15.7 ~ 17.7\n\n🔗https://t.co/fy4sbgKuyM\n\n@loonatheworld #이달의소녀 #FlipThat https://t.co/fYt7NGug3J"
+	},
+	{
+		"created_at": "Fri Jul 08 02:29:46 +0000 2022",
+		"id": 1545231948515352600,
+		"id_str": "1545233651125964800",
+		"full_text": "[#NEWS] 서현, 러블리 끝판왕→짠내 유발러까지…다채로운 매력 선사 ('징크스의 연인')\n▶ https://t.co/56hNmXRjCv\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/y5aVpx2ZqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/56hNmXRjCv",
+					"expanded_url": "http://naver.me/Gz2yp4dk",
+					"display_url": "naver.me/Gz2yp4dk",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545229645981061000,
+					"id_str": "1545229645981061120",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHCLREakAAdBAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHCLREakAAdBAo.jpg",
+					"url": "https://t.co/y5aVpx2ZqQ",
+					"display_url": "pic.twitter.com/y5aVpx2ZqQ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1545231948515352576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1997,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545229645981061000,
+					"id_str": "1545229645981061120",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHCLREakAAdBAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHCLREakAAdBAo.jpg",
+					"url": "https://t.co/y5aVpx2ZqQ",
+					"display_url": "pic.twitter.com/y5aVpx2ZqQ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1545231948515352576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1997,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61142,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 러블리 끝판왕→짠내 유발러까지…다채로운 매력 선사 ('징크스의 연인')\n▶ https://t.co/56hNmXRjCv\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/y5aVpx2ZqQ"
+	},
+	{
 		"created_at": "Fri Jul 08 01:44:55 +0000 2022",
 		"id": 1545219159805476900,
 		"id_str": "1545222364954169345",
