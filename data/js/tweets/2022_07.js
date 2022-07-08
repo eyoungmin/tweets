@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 06:40:30 +0000 2022",
+		"id": 1545290551284895700,
+		"id_str": "1545296750629486595",
+		"full_text": "날카로운 더위와 현생의 번뇌를 극복하고 공연에 와 주신 #자우림자몽 들 새삼 고맙고 사랑한다!! #우림이 들은 잠깐 야외에서 사진 찍고 🥵🥵🥵 이렇게 됐었어.  모두 건강한 여름 보내길 바람미다!! 💜💜💜💜💜💜💜💜💜💜 https://t.co/jINkaHJzDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림자몽",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "우림이",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545290538118946800,
+					"id_str": "1545290538118946816",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXH5jp9aIAAQP8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXH5jp9aIAAQP8y.jpg",
+					"url": "https://t.co/jINkaHJzDu",
+					"display_url": "pic.twitter.com/jINkaHJzDu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1545290551284895745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545290538118946800,
+					"id_str": "1545290538118946816",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXH5jp9aIAAQP8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXH5jp9aIAAQP8y.jpg",
+					"url": "https://t.co/jINkaHJzDu",
+					"display_url": "pic.twitter.com/jINkaHJzDu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1545290551284895745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1497,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545290538093789200,
+					"id_str": "1545290538093789184",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXH5jp3aQAAcgOp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXH5jp3aQAAcgOp.jpg",
+					"url": "https://t.co/jINkaHJzDu",
+					"display_url": "pic.twitter.com/jINkaHJzDu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1545290551284895745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1497,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274942,
+			"friends_count": 580,
+			"listed_count": 2773,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "날카로운 더위와 현생의 번뇌를 극복하고 공연에 와 주신 #자우림자몽 들 새삼 고맙고 사랑한다!! #우림이 들은 잠깐 야외에서 사진 찍고 🥵🥵🥵 이렇게 됐었어.  모두 건강한 여름 보내길 바람미다!! 💜💜💜💜💜💜💜💜💜💜 https://t.co/jINkaHJzDu"
+	},
+	{
+		"created_at": "Fri Jul 08 06:40:27 +0000 2022",
+		"id": 1545288634781294600,
+		"id_str": "1545296737560137729",
+		"full_text": "- PC\n \nKOR) https://t.co/cj9SJ2TkbF \nEN) https://t.co/Mr8Fw5EtPU \nJP) https://t.co/9V4FkyzhoS \nCN) https://t.co/znZlQgr0im",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cj9SJ2TkbF",
+					"expanded_url": "https://bit.ly/3InRtSk",
+					"display_url": "bit.ly/3InRtSk",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/Mr8Fw5EtPU",
+					"expanded_url": "https://bit.ly/3RiSLCc",
+					"display_url": "bit.ly/3RiSLCc",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/9V4FkyzhoS",
+					"expanded_url": "https://bit.ly/3RlSazu",
+					"display_url": "bit.ly/3RlSazu",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/znZlQgr0im",
+					"expanded_url": "https://bit.ly/3yQWcJh",
+					"display_url": "bit.ly/3yQWcJh",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545288630394142700,
+		"in_reply_to_status_id_str": "1545288630394142721",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893542,
+			"friends_count": 2,
+			"listed_count": 8928,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 1268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "- PC\n \nKOR) https://t.co/cj9SJ2TkbF \nEN) https://t.co/Mr8Fw5EtPU \nJP) https://t.co/9V4FkyzhoS \nCN) https://t.co/znZlQgr0im"
+	},
+	{
+		"created_at": "Fri Jul 08 06:40:17 +0000 2022",
+		"id": 1545288630394142700,
+		"id_str": "1545296699312177152",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtAzbM \nEN) https://t.co/dwLTkEvd2n \nJP) https://t.co/7TaHP1x4Rn\nCN) https://t.co/EmAXGqNqXc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtAzbM",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvd2n",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1x4Rn",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNqXc",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545286693129015300,
+		"in_reply_to_status_id_str": "1545286693129015298",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893542,
+			"friends_count": 2,
+			"listed_count": 8928,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 1520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtAzbM \nEN) https://t.co/dwLTkEvd2n \nJP) https://t.co/7TaHP1x4Rn\nCN) https://t.co/EmAXGqNqXc"
+	},
+	{
 		"created_at": "Fri Jul 08 05:40:18 +0000 2022",
 		"id": 1545264132328370200,
 		"id_str": "1545281601327828992",
