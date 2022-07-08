@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 14:40:32 +0000 2022",
+		"id": 1545414799743500300,
+		"id_str": "1545417555774513152",
+		"full_text": "Here are the times for tonight’s sold out show at @PGENarodowy. #ColdplayWarsaw https://t.co/m9SFInfnC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWarsaw",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PGENarodowy",
+					"name": "PGE Narodowy",
+					"id": 2613856284,
+					"id_str": "2613856284",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545414794961879000,
+					"id_str": "1545414794961879041",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJqkWxWAAEZkOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJqkWxWAAEZkOs.jpg",
+					"url": "https://t.co/m9SFInfnC3",
+					"display_url": "pic.twitter.com/m9SFInfnC3",
+					"expanded_url": "https://twitter.com/coldplay/status/1545414799743500289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545414794961879000,
+					"id_str": "1545414794961879041",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FXJqkWxWAAEZkOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXJqkWxWAAEZkOs.jpg",
+					"url": "https://t.co/m9SFInfnC3",
+					"display_url": "pic.twitter.com/m9SFInfnC3",
+					"expanded_url": "https://twitter.com/coldplay/status/1545414799743500289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Calypso",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600206,
+			"friends_count": 776,
+			"listed_count": 42476,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are the times for tonight’s sold out show at @PGENarodowy. #ColdplayWarsaw https://t.co/m9SFInfnC3"
+	},
+	{
+		"created_at": "Fri Jul 08 14:40:25 +0000 2022",
+		"id": 1545301659063947300,
+		"id_str": "1545417525835563008",
+		"full_text": "닝닝이 생각하는 \n이번 타이틀 곡의 포인트 동작은?\n\n파워풀한 모습으로 돌아온 aespa의 [Girls]를\n지금 #스포티파이 에서 들어보세요!💚\nhttps://t.co/wI3Sy69S4f \n\n인용RT로 에스파에게 💚를 남겨주시면, \n곧 MY를 위한 선물이 찾아옵니다!\n\n@aespa_official #aespa \n#에스파 #Girls https://t.co/gU4sFyW99F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						151,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wI3Sy69S4f",
+					"expanded_url": "http://spotify.link/7y0nfsGfurb",
+					"display_url": "spotify.link/7y0nfsGfurb",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545275089834324000,
+					"id_str": "1545275089834323968",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545275089834323968/pu/img/VSaAc0qqmktw4678.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545275089834323968/pu/img/VSaAc0qqmktw4678.jpg",
+					"url": "https://t.co/gU4sFyW99F",
+					"display_url": "pic.twitter.com/gU4sFyW99F",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1545301659063947264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545275089834324000,
+					"id_str": "1545275089834323968",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545275089834323968/pu/img/VSaAc0qqmktw4678.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545275089834323968/pu/img/VSaAc0qqmktw4678.jpg",
+					"url": "https://t.co/gU4sFyW99F",
+					"display_url": "pic.twitter.com/gU4sFyW99F",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1545301659063947264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75175,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545275089834323968/pu/vid/480x270/4suGSTXN1c-kCuf1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545275089834323968/pu/vid/1280x720/b2tK-jM65FGkn5FS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1545275089834323968/pu/vid/640x360/XLjuA7cbh8LINtqj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1545275089834323968/pu/pl/DtOXK2AeXF2UErQC.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/3A5aX8S14h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3A5aX8S14h",
+							"expanded_url": "https://spotify.link/AI7hay2nQqb",
+							"display_url": "spotify.link/AI7hay2nQqb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122441,
+			"friends_count": 0,
+			"listed_count": 86,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2453,
+		"favorite_count": 7483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "닝닝이 생각하는 \n이번 타이틀 곡의 포인트 동작은?\n\n파워풀한 모습으로 돌아온 aespa의 [Girls]를\n지금 #스포티파이 에서 들어보세요!💚\nhttps://t.co/wI3Sy69S4f \n\n인용RT로 에스파에게 💚를 남겨주시면, \n곧 MY를 위한 선물이 찾아옵니다!\n\n@aespa_official #aespa \n#에스파 #Girls https://t.co/gU4sFyW99F"
+	},
+	{
 		"created_at": "Fri Jul 08 13:40:18 +0000 2022",
 		"id": 1545392265912324000,
 		"id_str": "1545402397291433984",
