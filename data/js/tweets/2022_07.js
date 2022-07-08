@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 09:45:36 +0000 2022",
+		"id": 1545332454772584400,
+		"id_str": "1545343335698767873",
+		"full_text": "#쇼챔직찍 [220629]\n이달의 소녀(LOONA) - Flip That\n.\n1위🥇 가수 짱달소는, 오빛 마음❤ 뒤집어,\n더위🔥도 뒤집어, 쇼챔🎙도 뒤집어❗\nMore Pics📷 : https://t.co/ld42Gf9g5i\n@loonatheworld\n.\n_____\n#쇼챔피언 #쇼챔\n#SHOWCHAMPION\n#이달의소녀 #플립댓\n#LOONA #FlipThat https://t.co/kxmk5geNE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔직찍",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "쇼챔",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "플립댓",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ld42Gf9g5i",
+					"expanded_url": "https://bit.ly/3c1zGUI",
+					"display_url": "bit.ly/3c1zGUI",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545332425311817700,
+					"id_str": "1545332425311817728",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIfpz6akAAaXnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIfpz6akAAaXnc.jpg",
+					"url": "https://t.co/kxmk5geNE4",
+					"display_url": "pic.twitter.com/kxmk5geNE4",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1545332454772584449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545332425311817700,
+					"id_str": "1545332425311817728",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIfpz6akAAaXnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIfpz6akAAaXnc.jpg",
+					"url": "https://t.co/kxmk5geNE4",
+					"display_url": "pic.twitter.com/kxmk5geNE4",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1545332454772584449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545332425332764700,
+					"id_str": "1545332425332764672",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIfpz_aMAAt3TZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIfpz_aMAAt3TZ.jpg",
+					"url": "https://t.co/kxmk5geNE4",
+					"display_url": "pic.twitter.com/kxmk5geNE4",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1545332454772584449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545332425336963000,
+					"id_str": "1545332425336963072",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIfp0AaQAAmEPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIfp0AaQAAmEPz.jpg",
+					"url": "https://t.co/kxmk5geNE4",
+					"display_url": "pic.twitter.com/kxmk5geNE4",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1545332454772584449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545332425315975200,
+					"id_str": "1545332425315975168",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIfpz7aAAAkLdJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIfpz7aAAAkLdJ.jpg",
+					"url": "https://t.co/kxmk5geNE4",
+					"display_url": "pic.twitter.com/kxmk5geNE4",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1545332454772584449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 447600838,
+			"id_str": "447600838",
+			"name": "MBC M",
+			"screen_name": "mbcplusm",
+			"location": "일산 MBC드림센터",
+			"description": "MBC M 공식 트위터입니다.",
+			"url": "https://t.co/CNaCbZTOqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CNaCbZTOqc",
+							"expanded_url": "http://www.instagram.com/mbcplus_m",
+							"display_url": "instagram.com/mbcplus_m",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189855,
+			"friends_count": 11,
+			"listed_count": 391,
+			"created_at": "Tue Dec 27 02:37:54 +0000 2011",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/447600838/1644198695",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼챔직찍 [220629]\n이달의 소녀(LOONA) - Flip That\n.\n1위🥇 가수 짱달소는, 오빛 마음❤ 뒤집어,\n더위🔥도 뒤집어, 쇼챔🎙도 뒤집어❗\nMore Pics📷 : https://t.co/ld42Gf9g5i\n@loonatheworld\n.\n_____\n#쇼챔피언 #쇼챔\n#SHOWCHAMPION\n#이달의소녀 #플립댓\n#LOONA #FlipThat https://t.co/kxmk5geNE4"
+	},
+	{
+		"created_at": "Fri Jul 08 09:40:23 +0000 2022",
+		"id": 1545339803826151400,
+		"id_str": "1545342020557873152",
+		"full_text": "안녕하세요. 블록베리크리에이티브입니다.\n멤버 여진이 금일 예정된 팬사인회에 건강상의 문제로 불참하게 되었습니다. 다시 한번 이런 소식을 전하게 되어 팬분들께 죄송하다는 말씀드립니다. 아티스트의 건강을 최우선으로 고려한 결정인 만큼 팬분들의 너른 양해 부탁드립니다. 감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 952042,
+			"friends_count": 2,
+			"listed_count": 8833,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 3037,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요. 블록베리크리에이티브입니다.\n멤버 여진이 금일 예정된 팬사인회에 건강상의 문제로 불참하게 되었습니다. 다시 한번 이런 소식을 전하게 되어 팬분들께 죄송하다는 말씀드립니다. 아티스트의 건강을 최우선으로 고려한 결정인 만큼 팬분들의 너른 양해 부탁드립니다. 감사합니다."
+	},
+	{
+		"created_at": "Fri Jul 08 09:35:33 +0000 2022",
+		"id": 1545338198825451500,
+		"id_str": "1545340803253293059",
+		"full_text": "설인아(Seorina) ‘MARHEN.J : SUSTAIN’ Released!!\n❤️ https://t.co/b3xsQjVbfm https://t.co/3KcIAweDoy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b3xsQjVbfm",
+					"expanded_url": "https://www.instagram.com/p/Cfvv_RCMETl/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cfvv_RCMETl/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545338189379825700,
+					"id_str": "1545338189379825664",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIk5UvUcAA8DGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIk5UvUcAA8DGj.jpg",
+					"url": "https://t.co/3KcIAweDoy",
+					"display_url": "pic.twitter.com/3KcIAweDoy",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1545338198825451520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545338189379825700,
+					"id_str": "1545338189379825664",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIk5UvUcAA8DGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIk5UvUcAA8DGj.jpg",
+					"url": "https://t.co/3KcIAweDoy",
+					"display_url": "pic.twitter.com/3KcIAweDoy",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1545338198825451520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7366,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "설인아(Seorina) ‘MARHEN.J : SUSTAIN’ Released!!\n❤️ https://t.co/b3xsQjVbfm https://t.co/3KcIAweDoy"
+	},
+	{
+		"created_at": "Fri Jul 08 09:35:26 +0000 2022",
+		"id": 1545332025133269000,
+		"id_str": "1545340775495479296",
+		"full_text": "'BROKER' Japan Stage Greetings Behind Film\n일본에서도 뜨거웠던 유애나의 사랑💚\n&lt;브로커&gt; 일본 무대인사 비하인드🚐\n\n🎞 https://t.co/KqqAUSMJ8O\n\n#아이유 #IU\n#이지은 #LeeJiEun\n#브로커 #Broker https://t.co/wSzSU3vqlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "LeeJiEun",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "브로커",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "Broker",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KqqAUSMJ8O",
+					"expanded_url": "https://youtu.be/kPy4uv_DIIw",
+					"display_url": "youtu.be/kPy4uv_DIIw",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545330205526753300,
+					"id_str": "1545330205526753280",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIdomkagAA4YfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIdomkagAA4YfW.jpg",
+					"url": "https://t.co/wSzSU3vqlc",
+					"display_url": "pic.twitter.com/wSzSU3vqlc",
+					"expanded_url": "https://twitter.com/edam_ent/status/1545332025133268992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545330205526753300,
+					"id_str": "1545330205526753280",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FXIdomkagAA4YfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXIdomkagAA4YfW.jpg",
+					"url": "https://t.co/wSzSU3vqlc",
+					"display_url": "pic.twitter.com/wSzSU3vqlc",
+					"expanded_url": "https://twitter.com/edam_ent/status/1545332025133268992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64503,
+			"friends_count": 2,
+			"listed_count": 231,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1285,
+		"favorite_count": 3105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'BROKER' Japan Stage Greetings Behind Film\n일본에서도 뜨거웠던 유애나의 사랑💚\n&lt;브로커&gt; 일본 무대인사 비하인드🚐\n\n🎞 https://t.co/KqqAUSMJ8O\n\n#아이유 #IU\n#이지은 #LeeJiEun\n#브로커 #Broker https://t.co/wSzSU3vqlc"
+	},
+	{
 		"created_at": "Fri Jul 08 08:40:26 +0000 2022",
 		"id": 1545320428637659100,
 		"id_str": "1545326933239644161",
