@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 17:40:20 +0000 2022",
+		"id": 1545457355907014700,
+		"id_str": "1545462803737329664",
+		"full_text": "So touching to hear you singing all together🫶 @gma https://t.co/NWMabwgJ4f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NWMabwgJ4f",
+					"expanded_url": "https://twitter.com/starshapedgummy/status/1545408979198742532",
+					"display_url": "twitter.com/starshapedgumm…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2897719,
+			"friends_count": 2,
+			"listed_count": 8949,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545408979198742500,
+		"quoted_status_id_str": "1545408979198742532",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NWMabwgJ4f",
+			"expanded": "https://twitter.com/starshapedgummy/status/1545408979198742532",
+			"display": "twitter.com/starshapedgumm…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 08 14:06:27 +0000 2022",
+			"id": 1545408979198742500,
+			"id_str": "1545408979198742532",
+			"full_text": "Aespa performing Next Level on GMA (1)\n\n@aespa_official #aespa #æspa #에스파 #aespaOnGMA https://t.co/1DkHV85Hps",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aespa",
+						"indices": [
+							56,
+							62
+						]
+					},
+					{
+						"text": "æspa",
+						"indices": [
+							63,
+							68
+						]
+					},
+					{
+						"text": "에스파",
+						"indices": [
+							69,
+							73
+						]
+					},
+					{
+						"text": "aespaOnGMA",
+						"indices": [
+							74,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aespa_official",
+						"name": "aespa",
+						"id": 1277453652924366800,
+						"id_str": "1277453652924366848",
+						"indices": [
+							40,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1545408854158180400,
+						"id_str": "1545408854158180353",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545408854158180353/pu/img/n4zWanppb7pOcXQF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545408854158180353/pu/img/n4zWanppb7pOcXQF.jpg",
+						"url": "https://t.co/1DkHV85Hps",
+						"display_url": "pic.twitter.com/1DkHV85Hps",
+						"expanded_url": "https://twitter.com/Starshapedgummy/status/1545408979198742532/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1545408854158180400,
+						"id_str": "1545408854158180353",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545408854158180353/pu/img/n4zWanppb7pOcXQF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545408854158180353/pu/img/n4zWanppb7pOcXQF.jpg",
+						"url": "https://t.co/1DkHV85Hps",
+						"display_url": "pic.twitter.com/1DkHV85Hps",
+						"expanded_url": "https://twitter.com/Starshapedgummy/status/1545408979198742532/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140013,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545408854158180353/pu/vid/640x360/QwmLJuswN1lsl5yQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545408854158180353/pu/vid/1280x720/SkpEVx89d6lkWOmK.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1545408854158180353/pu/pl/vCMcG5gGYxdcaI65.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545408854158180353/pu/vid/480x270/8svJqYYt-y6Xxxrd.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 308705381,
+				"id_str": "308705381",
+				"name": "anDrew",
+				"screen_name": "Starshapedgummy",
+				"location": "New York, NY",
+				"description": "I'm in a 🗽 state of mind ☆ #RepBX ☆ #TogetherBlue ☆ Saga #60 ➡️ 07/06",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 704,
+				"friends_count": 274,
+				"listed_count": 2,
+				"created_at": "Tue May 31 21:21:58 +0000 2011",
+				"favourites_count": 47404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69722,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1543864666581090305/CXvpFS1b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543864666581090305/CXvpFS1b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/308705381/1657293310",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 404,
+			"favorite_count": 1355,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2022,
+		"favorite_count": 7001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So touching to hear you singing all together🫶 @gma https://t.co/NWMabwgJ4f"
+	},
+	{
+		"created_at": "Fri Jul 08 17:40:15 +0000 2022",
+		"id": 1545457300068266000,
+		"id_str": "1545462782056964099",
+		"full_text": "Thank you MYs 🌳💖 @GMA https://t.co/xVQ7lJMot1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xVQ7lJMot1",
+					"expanded_url": "https://twitter.com/wen_junehui/status/1545403970646073350",
+					"display_url": "twitter.com/wen_junehui/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2897719,
+			"friends_count": 2,
+			"listed_count": 8949,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545403970646073300,
+		"quoted_status_id_str": "1545403970646073350",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xVQ7lJMot1",
+			"expanded": "https://twitter.com/wen_junehui/status/1545403970646073350",
+			"display": "twitter.com/wen_junehui/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 08 13:46:33 +0000 2022",
+			"id": 1545403970646073300,
+			"id_str": "1545403970646073350",
+			"full_text": "AESPA ON THE NEXT LEVEL AAAAA THEY WERE SO GOOD AND SO PRETTY IN PERSON 😭😭😭💖💖💖💖 #aespaOnGMA https://t.co/YK4sYnXK0p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aespaOnGMA",
+						"indices": [
+							80,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1545403795273924600,
+						"id_str": "1545403795273924610",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545403795273924610/pu/img/hQml_qtl7732AMvn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545403795273924610/pu/img/hQml_qtl7732AMvn.jpg",
+						"url": "https://t.co/YK4sYnXK0p",
+						"display_url": "pic.twitter.com/YK4sYnXK0p",
+						"expanded_url": "https://twitter.com/wen_junehui/status/1545403970646073350/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1545403795273924600,
+						"id_str": "1545403795273924610",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545403795273924610/pu/img/hQml_qtl7732AMvn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545403795273924610/pu/img/hQml_qtl7732AMvn.jpg",
+						"url": "https://t.co/YK4sYnXK0p",
+						"display_url": "pic.twitter.com/YK4sYnXK0p",
+						"expanded_url": "https://twitter.com/wen_junehui/status/1545403970646073350/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 44999,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545403795273924610/pu/vid/720x1280/vW_t3-_zg3js0fhV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1545403795273924610/pu/pl/IIyzpx3V27lZye4G.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545403795273924610/pu/vid/480x852/tzXMIsUmQ0jSuRXg.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545403795273924610/pu/vid/320x568/AkVlh40spskSPpy2.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 746552678986190800,
+				"id_str": "746552678986190848",
+				"name": "kris ✨ // drop it like HOT 🔥",
+				"screen_name": "wen_junehui",
+				"location": "svt • bts • itzy",
+				"description": "☼ Leo | ☾ Scorpio | ↑ Libra  // she/her \nCDC 🧡 @cantdancecrew  //  danced with hoshi ♡ 20.01.10 // header by @sugarmintdreams",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 207,
+				"listed_count": 2,
+				"created_at": "Sat Jun 25 03:56:43 +0000 2016",
+				"favourites_count": 23379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445756474785820686/Woj_NibY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445756474785820686/Woj_NibY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/746552678986190848/1608929203",
+				"profile_link_color": "F7CAC9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 446,
+			"favorite_count": 1901,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2665,
+		"favorite_count": 10963,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you MYs 🌳💖 @GMA https://t.co/xVQ7lJMot1"
+	},
+	{
 		"created_at": "Fri Jul 08 16:40:26 +0000 2022",
 		"id": 1545441719013245000,
 		"id_str": "1545447729958363136",
