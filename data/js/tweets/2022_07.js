@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 11:35:45 +0000 2022",
+		"id": 1545732954315321300,
+		"id_str": "1545733441429245952",
+		"full_text": "그 이름에 걸맞는 존재가 되기 위해 \n저도 언제나 언제나, 늘 곁에 있겠습니다. \n아무도 없는 방 캄캄하고 긴긴 밤에도, \n곁을 지키겠습니다. \n룸메이트Room mate니까요.\n.\n#룸메이트 #심규선 #루시아 #세번째 #지하철광고 #홍대입구역 #8번출구 #해피규데이 #감사합니다 #고맙습니다 #사랑합니다 https://t.co/csw378Z0V7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "룸메이트",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "세번째",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "지하철광고",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "홍대입구역",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "8번출구",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "해피규데이",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "감사합니다",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "고맙습니다",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "사랑합니다",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545732946849439700,
+					"id_str": "1545732946849439746",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOL7O6UIAIefFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOL7O6UIAIefFA.jpg",
+					"url": "https://t.co/csw378Z0V7",
+					"display_url": "pic.twitter.com/csw378Z0V7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1545732954315321345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545732946849439700,
+					"id_str": "1545732946849439746",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOL7O6UIAIefFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOL7O6UIAIefFA.jpg",
+					"url": "https://t.co/csw378Z0V7",
+					"display_url": "pic.twitter.com/csw378Z0V7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1545732954315321345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545732951580692500,
+					"id_str": "1545732951580692480",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXOL7giVUAA2L_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXOL7giVUAA2L_h.jpg",
+					"url": "https://t.co/csw378Z0V7",
+					"display_url": "pic.twitter.com/csw378Z0V7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1545732954315321345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1545732720726200300,
+		"in_reply_to_status_id_str": "1545732720726200320",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10896,
+			"friends_count": 0,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 이름에 걸맞는 존재가 되기 위해 \n저도 언제나 언제나, 늘 곁에 있겠습니다. \n아무도 없는 방 캄캄하고 긴긴 밤에도, \n곁을 지키겠습니다. \n룸메이트Room mate니까요.\n.\n#룸메이트 #심규선 #루시아 #세번째 #지하철광고 #홍대입구역 #8번출구 #해피규데이 #감사합니다 #고맙습니다 #사랑합니다 https://t.co/csw378Z0V7"
+	},
+	{
 		"created_at": "Sat Jul 09 10:40:09 +0000 2022",
 		"id": 1545712077670875100,
 		"id_str": "1545719451194380288",
