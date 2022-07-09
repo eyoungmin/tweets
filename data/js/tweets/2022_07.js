@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 16:40:10 +0000 2022",
+		"id": 1545799751664386000,
+		"id_str": "1545810048684740609",
+		"full_text": "Energy from MYs singing all together🔥\n\nFull performance available on GMA YouTube channel \n\nhttps://t.co/taBY2NAvE5 \n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "aespaOnGMA",
+					"indices": [
+						135,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/taBY2NAvE5",
+					"expanded_url": "https://www.instagram.com/reel/CfzBaVNF7aV/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/reel/CfzBaVNF7…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2904853,
+			"friends_count": 2,
+			"listed_count": 8958,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2345,
+		"favorite_count": 7109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Energy from MYs singing all together🔥\n\nFull performance available on GMA YouTube channel \n\nhttps://t.co/taBY2NAvE5 \n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA"
+	},
+	{
 		"created_at": "Sat Jul 09 15:17:42 +0000 2022",
 		"id": 1545784949978062800,
 		"id_str": "1545789298170925057",
