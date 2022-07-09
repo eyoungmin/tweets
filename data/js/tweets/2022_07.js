@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 03:40:23 +0000 2022",
+		"id": 1545603985683382300,
+		"id_str": "1545613810299437057",
+		"full_text": "Experience “Girls - The 2nd Mini Album” all around in #SpatialAudio with #DolbyAtmos @AppleMusic 🎧💜\n\n🔗 https://t.co/XJUEGz8L8q\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/D0T8JHUZMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "DolbyAtmos",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XJUEGz8L8q",
+					"expanded_url": "http://apple.co/aespa",
+					"display_url": "apple.co/aespa",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545603642266361900,
+					"id_str": "1545603642266361858",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1545603642266361858/img/xiLk30kNbbggHgD1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1545603642266361858/img/xiLk30kNbbggHgD1.jpg",
+					"url": "https://t.co/D0T8JHUZMv",
+					"display_url": "pic.twitter.com/D0T8JHUZMv",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545603985683382273/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545603642266361900,
+					"id_str": "1545603642266361858",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1545603642266361858/img/xiLk30kNbbggHgD1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1545603642266361858/img/xiLk30kNbbggHgD1.jpg",
+					"url": "https://t.co/D0T8JHUZMv",
+					"display_url": "pic.twitter.com/D0T8JHUZMv",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545603985683382273/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6083,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545603642266361858/vid/480x270/kMSLks7jWrtAanKv.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545603642266361858/vid/640x360/kqJXjmQV2fz4SznG.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545603642266361858/pl/-8Gn6OffUrOMIq8c.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545603642266361858/vid/1280x720/IA1RNRWeJFw12lcm.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2900168,
+			"friends_count": 2,
+			"listed_count": 8947,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2404,
+		"favorite_count": 8545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Experience “Girls - The 2nd Mini Album” all around in #SpatialAudio with #DolbyAtmos @AppleMusic 🎧💜\n\n🔗 https://t.co/XJUEGz8L8q\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/D0T8JHUZMv"
+	},
+	{
+		"created_at": "Sat Jul 09 03:17:37 +0000 2022",
+		"id": 1545603650017366000,
+		"id_str": "1545608081228214272",
+		"full_text": "[달의 일기 #17] KCON 2022 Premiere 서울 BEHIND❣️\n\n마치 놀이공원🎡 같았던 케이콘 대기실 현장✨\n장난기 넘치는 이달의 소녀의 모습을 지금 바로 확인하세요!\n\n▶️ https://t.co/hgHTYvNO37\n\n#이달의소녀 #달의일기 #LOONA #LOONANOTE https://t.co/imIFUvTjCA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "달의일기",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "LOONANOTE",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hgHTYvNO37",
+					"expanded_url": "https://youtu.be/CWnhum9CkFQ",
+					"display_url": "youtu.be/CWnhum9CkFQ",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544626180610896000,
+					"id_str": "1544626180610895873",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-dU9YUsAEk6YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-dU9YUsAEk6YI.jpg",
+					"url": "https://t.co/imIFUvTjCA",
+					"display_url": "pic.twitter.com/imIFUvTjCA",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1545603650017366016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544626180610896000,
+					"id_str": "1544626180610895873",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FW-dU9YUsAEk6YI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW-dU9YUsAEk6YI.jpg",
+					"url": "https://t.co/imIFUvTjCA",
+					"display_url": "pic.twitter.com/imIFUvTjCA",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1545603650017366016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 952562,
+			"friends_count": 2,
+			"listed_count": 8826,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1005,
+		"favorite_count": 3324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[달의 일기 #17] KCON 2022 Premiere 서울 BEHIND❣️\n\n마치 놀이공원🎡 같았던 케이콘 대기실 현장✨\n장난기 넘치는 이달의 소녀의 모습을 지금 바로 확인하세요!\n\n▶️ https://t.co/hgHTYvNO37\n\n#이달의소녀 #달의일기 #LOONA #LOONANOTE https://t.co/imIFUvTjCA"
+	},
+	{
 		"created_at": "Sat Jul 09 02:40:45 +0000 2022",
 		"id": 1545590793498673200,
 		"id_str": "1545598805890023424",
