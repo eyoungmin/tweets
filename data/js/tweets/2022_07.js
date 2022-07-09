@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 04:40:10 +0000 2022",
+		"id": 1545622229026832400,
+		"id_str": "1545628855205068805",
+		"full_text": "Thank you @Spotify! Check out our new album \"Girls - The 2nd Mini Album\" now on Spotify 🗽\n \n🔗 https://t.co/3uLvw55B4a\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls\n@SpotifyKR @SpotifyKpop https://t.co/KGTebD0M4J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3uLvw55B4a",
+					"expanded_url": "http://spoti.fi/3yu4gOs",
+					"display_url": "spoti.fi/3yu4gOs",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545621950181040000,
+					"id_str": "1545621950181040128",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXMm-YGWYAAfvgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXMm-YGWYAAfvgR.jpg",
+					"url": "https://t.co/KGTebD0M4J",
+					"display_url": "pic.twitter.com/KGTebD0M4J",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545622229026832384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545621950181040000,
+					"id_str": "1545621950181040128",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXMm-YGWYAAfvgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXMm-YGWYAAfvgR.jpg",
+					"url": "https://t.co/KGTebD0M4J",
+					"display_url": "pic.twitter.com/KGTebD0M4J",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545622229026832384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2900499,
+			"friends_count": 2,
+			"listed_count": 8950,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2313,
+		"favorite_count": 7771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @Spotify! Check out our new album \"Girls - The 2nd Mini Album\" now on Spotify 🗽\n \n🔗 https://t.co/3uLvw55B4a\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls\n@SpotifyKR @SpotifyKpop https://t.co/KGTebD0M4J"
+	},
+	{
 		"created_at": "Sat Jul 09 03:40:23 +0000 2022",
 		"id": 1545603985683382300,
 		"id_str": "1545613810299437057",
