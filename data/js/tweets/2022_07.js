@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 01:40:25 +0000 2022",
+		"id": 1545580252688109600,
+		"id_str": "1545583620718477314",
+		"full_text": "[#CHUNGHA NEWS]\n\n'컴백' 청하, 신곡 'Sparkling' MV 2차 티저 공개..컬러풀 비주얼\n\n🔎 https://t.co/3kxoVdbMsX\n\n#청하 #CHUNGHA\n#컴백 #BareRare #MV #Teaser2 #Sparkling #공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "Teaser2",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						141,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3kxoVdbMsX",
+					"expanded_url": "http://naver.me/xPQfp8KC",
+					"display_url": "naver.me/xPQfp8KC",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30757,
+			"friends_count": 7,
+			"listed_count": 316,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n'컴백' 청하, 신곡 'Sparkling' MV 2차 티저 공개..컬러풀 비주얼\n\n🔎 https://t.co/3kxoVdbMsX\n\n#청하 #CHUNGHA\n#컴백 #BareRare #MV #Teaser2 #Sparkling #공개"
+	},
+	{
+		"created_at": "Sat Jul 09 01:40:18 +0000 2022",
+		"id": 1545577846336258000,
+		"id_str": "1545583590838239235",
+		"full_text": "We Them Girls🫡\n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA https://t.co/OURYZHp7IM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "aespaOnGMA",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMA",
+					"name": "Good Morning America",
+					"id": 22650211,
+					"id_str": "22650211",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545577828892217300,
+					"id_str": "1545577828892217353",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FXL-2LfXEAkKdJz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXL-2LfXEAkKdJz.jpg",
+					"url": "https://t.co/OURYZHp7IM",
+					"display_url": "pic.twitter.com/OURYZHp7IM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545577846336258048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545577828892217300,
+					"id_str": "1545577828892217353",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FXL-2LfXEAkKdJz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXL-2LfXEAkKdJz.jpg",
+					"url": "https://t.co/OURYZHp7IM",
+					"display_url": "pic.twitter.com/OURYZHp7IM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1545577846336258048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/2aTPkf0eR0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aTPkf0eR0",
+							"expanded_url": "https://youtu.be/dYRITmpFbJ4",
+							"display_url": "youtu.be/dYRITmpFbJ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2899437,
+			"friends_count": 2,
+			"listed_count": 8942,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6925,
+		"favorite_count": 21417,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We Them Girls🫡\n\n#aespa #æspa #에스파\n#aespaOnGMA @GMA https://t.co/OURYZHp7IM"
+	},
+	{
 		"created_at": "Fri Jul 08 23:40:19 +0000 2022",
 		"id": 1545544800174108700,
 		"id_str": "1545553395578277889",
