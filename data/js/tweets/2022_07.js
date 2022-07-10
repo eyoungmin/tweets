@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 10 07:40:10 +0000 2022",
+		"id": 1546032617354854400,
+		"id_str": "1546036541180502016",
+		"full_text": "@sjwjffxlql @shezum666 아닙미다 저는 마라탕먹기 천재이죠",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sjwjffxlql",
+					"name": "수저",
+					"id": 1500697214372307000,
+					"id_str": "1500697214372306945",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "shezum666",
+					"name": "시줌",
+					"id": 1479797998653968400,
+					"id_str": "1479797998653968386",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546001132719202300,
+		"in_reply_to_status_id_str": "1546001132719202305",
+		"in_reply_to_user_id": 1500697214372307000,
+		"in_reply_to_user_id_str": "1500697214372306945",
+		"in_reply_to_screen_name": "sjwjffxlql",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63738,
+			"friends_count": 3,
+			"listed_count": 168,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@sjwjffxlql @shezum666 아닙미다 저는 마라탕먹기 천재이죠"
+	},
+	{
 		"created_at": "Sun Jul 10 05:17:49 +0000 2022",
 		"id": 1545996492153843700,
 		"id_str": "1546000719257280513",
