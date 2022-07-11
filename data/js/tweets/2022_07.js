@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 03:40:19 +0000 2022",
+		"id": 1546324434587615200,
+		"id_str": "1546338568997638144",
+		"full_text": "aespa’s performance stage video of their new song ‘Girls’ will be released today at 7PM (KST)! \nThe video consists of a dynamic, powerful stage connected to the music video storyline. aespa will also hold a comeback live to talk with fans today at 8PM (KST)!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546324431655796700,
+		"in_reply_to_status_id_str": "1546324431655796737",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2912037,
+			"friends_count": 2,
+			"listed_count": 8959,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1666,
+		"favorite_count": 5776,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "aespa’s performance stage video of their new song ‘Girls’ will be released today at 7PM (KST)! \nThe video consists of a dynamic, powerful stage connected to the music video storyline. aespa will also hold a comeback live to talk with fans today at 8PM (KST)!"
+	},
+	{
+		"created_at": "Mon Jul 11 03:40:09 +0000 2022",
+		"id": 1546324431655796700,
+		"id_str": "1546338530586234882",
+		"full_text": "에스파, 신곡 ‘Girls’ 퍼포먼스 스테이지 영상 오늘 오후 7시 공개!\n뮤직비디오 스토리텔링과 연결된 다이내믹 무대 펼친다!\n오후 8시 컴백 라이브로 팬들과 소통 예고!\n\nhttps://t.co/sz0Rre2OPQ \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/aTv4OWWtwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sz0Rre2OPQ",
+					"expanded_url": "https://bit.ly/3AFVxf1",
+					"display_url": "bit.ly/3AFVxf1",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546324421086163000,
+					"id_str": "1546324421086162944",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXWl3kJaMAAC2j6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXWl3kJaMAAC2j6.jpg",
+					"url": "https://t.co/aTv4OWWtwl",
+					"display_url": "pic.twitter.com/aTv4OWWtwl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546324431655796737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546324421086163000,
+					"id_str": "1546324421086162944",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXWl3kJaMAAC2j6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXWl3kJaMAAC2j6.jpg",
+					"url": "https://t.co/aTv4OWWtwl",
+					"display_url": "pic.twitter.com/aTv4OWWtwl",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546324431655796737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2912037,
+			"friends_count": 2,
+			"listed_count": 8959,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3432,
+		"favorite_count": 13181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 신곡 ‘Girls’ 퍼포먼스 스테이지 영상 오늘 오후 7시 공개!\n뮤직비디오 스토리텔링과 연결된 다이내믹 무대 펼친다!\n오후 8시 컴백 라이브로 팬들과 소통 예고!\n\nhttps://t.co/sz0Rre2OPQ \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/aTv4OWWtwl"
+	},
+	{
 		"created_at": "Mon Jul 11 02:40:10 +0000 2022",
 		"id": 1545422455115759600,
 		"id_str": "1546323431515381760",
