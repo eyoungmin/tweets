@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 00:40:09 +0000 2022",
+		"id": 1546284995731370000,
+		"id_str": "1546293232048406536",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 11일 전곡 프로듀싱 새 정규앨범 발매\n\n🔎 https://t.co/FQWa9jvJta\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Pt1 #MV #음원 #Sparkling #공개",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "Pt1",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "음원",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "공개",
+					"indices": [
+						122,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQWa9jvJta",
+					"expanded_url": "https://entertain.naver.com/read?oid=018&aid=0005264134",
+					"display_url": "entertain.naver.com/read?oid=018&a…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30767,
+			"friends_count": 7,
+			"listed_count": 316,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 11일 전곡 프로듀싱 새 정규앨범 발매\n\n🔎 https://t.co/FQWa9jvJta\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Pt1 #MV #음원 #Sparkling #공개"
+	},
+	{
 		"created_at": "Sun Jul 10 22:40:09 +0000 2022",
 		"id": 1546257060655992800,
 		"id_str": "1546263032753520641",
