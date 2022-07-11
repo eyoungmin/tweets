@@ -1,6 +1,855 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 08:40:20 +0000 2022",
+		"id": 1546413571466154000,
+		"id_str": "1546414071729332225",
+		"full_text": "정말 좋은 사람들을 알고 싶다고 생각하신다면\n지금 당장 룸메이트에 가입하세요👉🙌\n('심규선 좋아해' 단톡방도 있어요)\n모두의 기쁨을 위해 밤잠 줄이며 수고해주신 \n이벤트 운영진과 @lucia_birthday \n도움 주신 모든 분들께 감사드립니다.\n💙💦폭포수 같은 칭찬 세례 퍼부어 주세요🥰 https://t.co/nqg7lYYoqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546413549739593700,
+					"id_str": "1546413549739593728",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX27iQUUAAFkjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX27iQUUAAFkjl.jpg",
+					"url": "https://t.co/nqg7lYYoqT",
+					"display_url": "pic.twitter.com/nqg7lYYoqT",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413571466153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546413549739593700,
+					"id_str": "1546413549739593728",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX27iQUUAAFkjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX27iQUUAAFkjl.jpg",
+					"url": "https://t.co/nqg7lYYoqT",
+					"display_url": "pic.twitter.com/nqg7lYYoqT",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413571466153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413555905224700,
+					"id_str": "1546413555905224704",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX275OUYAAzZpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX275OUYAAzZpE.jpg",
+					"url": "https://t.co/nqg7lYYoqT",
+					"display_url": "pic.twitter.com/nqg7lYYoqT",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413571466153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413562519703600,
+					"id_str": "1546413562519703553",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX28R3VUAEXHTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX28R3VUAEXHTR.jpg",
+					"url": "https://t.co/nqg7lYYoqT",
+					"display_url": "pic.twitter.com/nqg7lYYoqT",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413571466153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413568240693200,
+					"id_str": "1546413568240693248",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX28nLUsAAP0C7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX28nLUsAAP0C7.jpg",
+					"url": "https://t.co/nqg7lYYoqT",
+					"display_url": "pic.twitter.com/nqg7lYYoqT",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413571466153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1546413311310237700,
+		"in_reply_to_status_id_str": "1546413311310237696",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10903,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정말 좋은 사람들을 알고 싶다고 생각하신다면\n지금 당장 룸메이트에 가입하세요👉🙌\n('심규선 좋아해' 단톡방도 있어요)\n모두의 기쁨을 위해 밤잠 줄이며 수고해주신 \n이벤트 운영진과 @lucia_birthday \n도움 주신 모든 분들께 감사드립니다.\n💙💦폭포수 같은 칭찬 세례 퍼부어 주세요🥰 https://t.co/nqg7lYYoqT"
+	},
+	{
+		"created_at": "Mon Jul 11 08:40:18 +0000 2022",
+		"id": 1546413311310237700,
+		"id_str": "1546414062761922560",
+		"full_text": "저희도 협찬에 참여 하지 않을 수 없었습니다...🥺💜\n과연 우리나라에서 상위 5% 수준으로\n다정하고 배려심 깊으며\n재능이 출중하고 출구없이 선하고\n사랑(+정)이 많은 사람들만 모여있다는 \n예술적 급진 단체🫂👬👭🫂\n&lt;&lt;&lt;룸메이트&gt;&gt;&gt;의 위력이 느껴지는 이벤트입니다!!😱😫😭 https://t.co/9RNGB5fZJu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546413291177619500,
+					"id_str": "1546413291177619456",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2sfCVsAAWO2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2sfCVsAAWO2Z.jpg",
+					"url": "https://t.co/9RNGB5fZJu",
+					"display_url": "pic.twitter.com/9RNGB5fZJu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413311310237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546413291177619500,
+					"id_str": "1546413291177619456",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2sfCVsAAWO2Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2sfCVsAAWO2Z.jpg",
+					"url": "https://t.co/9RNGB5fZJu",
+					"display_url": "pic.twitter.com/9RNGB5fZJu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413311310237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413296571412500,
+					"id_str": "1546413296571412480",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2szIUcAAAYIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2szIUcAAAYIQ.jpg",
+					"url": "https://t.co/9RNGB5fZJu",
+					"display_url": "pic.twitter.com/9RNGB5fZJu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413311310237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413302921588700,
+					"id_str": "1546413302921588737",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2tKyUcAEhCPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2tKyUcAEhCPW.jpg",
+					"url": "https://t.co/9RNGB5fZJu",
+					"display_url": "pic.twitter.com/9RNGB5fZJu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413311310237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413307845681200,
+					"id_str": "1546413307845681152",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2tdIUIAAQabt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2tdIUIAAQabt.jpg",
+					"url": "https://t.co/9RNGB5fZJu",
+					"display_url": "pic.twitter.com/9RNGB5fZJu",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413311310237696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1546413037833228300,
+		"in_reply_to_status_id_str": "1546413037833228288",
+		"in_reply_to_user_id": 183427484,
+		"in_reply_to_user_id_str": "183427484",
+		"in_reply_to_screen_name": "ROXIEEEEEEEE",
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10903,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희도 협찬에 참여 하지 않을 수 없었습니다...🥺💜\n과연 우리나라에서 상위 5% 수준으로\n다정하고 배려심 깊으며\n재능이 출중하고 출구없이 선하고\n사랑(+정)이 많은 사람들만 모여있다는 \n예술적 급진 단체🫂👬👭🫂\n&lt;&lt;&lt;룸메이트&gt;&gt;&gt;의 위력이 느껴지는 이벤트입니다!!😱😫😭 https://t.co/9RNGB5fZJu"
+	},
+	{
+		"created_at": "Mon Jul 11 08:40:13 +0000 2022",
+		"id": 1546413037833228300,
+		"id_str": "1546414041320591361",
+		"full_text": "🎉✅생일 카페 이벤트 공지✅🎉\n룸메 분들께서 다가오는 제 생일을 맞아 \n카페 이벤트를 준비 해주셨어요!\n이렇게 물 샐 틈 없는 생일 카페라니....🌷\n얼마나 많은 시간 정성을 쏟아 주셨을까요?🥲\n뿐만 아니라 룸메 분들의 자발적 협찬으로 마련된\n경품 대잔치(?)를 보고 https://t.co/kkaAV1BFoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546413016186359800,
+					"id_str": "1546413016186359808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2cenUEAAjFtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2cenUEAAjFtj.jpg",
+					"url": "https://t.co/kkaAV1BFoL",
+					"display_url": "pic.twitter.com/kkaAV1BFoL",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413037833228288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546413016186359800,
+					"id_str": "1546413016186359808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2cenUEAAjFtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2cenUEAAjFtj.jpg",
+					"url": "https://t.co/kkaAV1BFoL",
+					"display_url": "pic.twitter.com/kkaAV1BFoL",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413037833228288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413021798420500,
+					"id_str": "1546413021798420481",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2czhVUAEFezz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2czhVUAEFezz.jpg",
+					"url": "https://t.co/kkaAV1BFoL",
+					"display_url": "pic.twitter.com/kkaAV1BFoL",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413037833228288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413028609888300,
+					"id_str": "1546413028609888256",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2dM5UEAAWclL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2dM5UEAAWclL.jpg",
+					"url": "https://t.co/kkaAV1BFoL",
+					"display_url": "pic.twitter.com/kkaAV1BFoL",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413037833228288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546413034679128000,
+					"id_str": "1546413034679128064",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX2djgVUAArOp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX2djgVUAArOp8.jpg",
+					"url": "https://t.co/kkaAV1BFoL",
+					"display_url": "pic.twitter.com/kkaAV1BFoL",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1546413037833228288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌'밤의 끝을 알리는' 출간",
+			"url": "https://t.co/q8Ffafe0hm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8Ffafe0hm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10903,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1634802165",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉✅생일 카페 이벤트 공지✅🎉\n룸메 분들께서 다가오는 제 생일을 맞아 \n카페 이벤트를 준비 해주셨어요!\n이렇게 물 샐 틈 없는 생일 카페라니....🌷\n얼마나 많은 시간 정성을 쏟아 주셨을까요?🥲\n뿐만 아니라 룸메 분들의 자발적 협찬으로 마련된\n경품 대잔치(?)를 보고 https://t.co/kkaAV1BFoL"
+	},
+	{
 		"created_at": "Mon Jul 11 07:40:18 +0000 2022",
 		"id": 1546390723326460000,
 		"id_str": "1546398962806054913",
