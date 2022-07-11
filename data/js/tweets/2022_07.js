@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 13:40:16 +0000 2022",
+		"id": 1546480306357964800,
+		"id_str": "1546489551513960448",
+		"full_text": "【aespa “Mnet 엠카운트다운 7/13(수) ‘Girls’, 7/14(목) ’도깨비불(Illusion)’ 사전녹화” 팬클럽 참여 안내】\n \naespa 컴백 첫 방송인 ‘Mnet 엠카운트다운’ 사전녹화 신청 및 현장 참여 공지가 KWANGYA CLUB 내 “MY 커뮤니티” Notice 게시판에 안내되었으니 확인해주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2916239,
+			"friends_count": 2,
+			"listed_count": 8971,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3632,
+		"favorite_count": 11408,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "【aespa “Mnet 엠카운트다운 7/13(수) ‘Girls’, 7/14(목) ’도깨비불(Illusion)’ 사전녹화” 팬클럽 참여 안내】\n \naespa 컴백 첫 방송인 ‘Mnet 엠카운트다운’ 사전녹화 신청 및 현장 참여 공지가 KWANGYA CLUB 내 “MY 커뮤니티” Notice 게시판에 안내되었으니 확인해주시기 바랍니다."
+	},
+	{
 		"created_at": "Mon Jul 11 11:40:33 +0000 2022",
 		"id": 1546457696576372700,
 		"id_str": "1546459426231574528",
