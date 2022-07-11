@@ -1,6 +1,934 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 11 09:40:33 +0000 2022",
+		"id": 1546420707495555000,
+		"id_str": "1546429225988661250",
+		"full_text": "오늘부터 진짜 여름🌞이라면서요..? 청하가 컴백했으니까..✨\n톡💕 쏘는 상큼 청량으로🍋 돌아온 🔥여름청하🔥\n#청하 의 정규 2집 &lt;Bare&amp;Rare Pt.1&gt; 발매💿💫\n\n지금 바로 멜론에서 만나보세요🍈\n👉🏻https://t.co/gBhsHNno5Z\n\n#멜론 #Melon #스포트라이트 #CHUNGHA #BareRare #Sparkling @CHUNGHA_MNHent https://t.co/VLNNC3NPmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "스포트라이트",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						199,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gBhsHNno5Z",
+					"expanded_url": "http://kko.to/aFK-SOtiY",
+					"display_url": "kko.to/aFK-SOtiY",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546418293644279800,
+					"id_str": "1546418293644279808",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546418293644279808/pu/img/U_TytklNq7QQ4WuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546418293644279808/pu/img/U_TytklNq7QQ4WuS.jpg",
+					"url": "https://t.co/VLNNC3NPmk",
+					"display_url": "pic.twitter.com/VLNNC3NPmk",
+					"expanded_url": "https://twitter.com/melon/status/1546420707495555072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546418293644279800,
+					"id_str": "1546418293644279808",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546418293644279808/pu/img/U_TytklNq7QQ4WuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546418293644279808/pu/img/U_TytklNq7QQ4WuS.jpg",
+					"url": "https://t.co/VLNNC3NPmk",
+					"display_url": "pic.twitter.com/VLNNC3NPmk",
+					"expanded_url": "https://twitter.com/melon/status/1546420707495555072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26126,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546418293644279808/pu/vid/320x320/_bfIQN1EK0dPVNXI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546418293644279808/pu/pl/S-CyEwZzrbMMr2JW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546418293644279808/pu/vid/720x720/hcbxunKWzSqYisTe.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546418293644279808/pu/vid/540x540/nQWTyTi3rBwIytq4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189107,
+			"friends_count": 70,
+			"listed_count": 677,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부터 진짜 여름🌞이라면서요..? 청하가 컴백했으니까..✨\n톡💕 쏘는 상큼 청량으로🍋 돌아온 🔥여름청하🔥\n#청하 의 정규 2집 &lt;Bare&amp;Rare Pt.1&gt; 발매💿💫\n\n지금 바로 멜론에서 만나보세요🍈\n👉🏻https://t.co/gBhsHNno5Z\n\n#멜론 #Melon #스포트라이트 #CHUNGHA #BareRare #Sparkling @CHUNGHA_MNHent https://t.co/VLNNC3NPmk"
+	},
+	{
+		"created_at": "Mon Jul 11 09:40:16 +0000 2022",
+		"id": 1546419413095592000,
+		"id_str": "1546429153523777536",
+		"full_text": "'New Plant' Music Video Teaser\n⠀\n🌳 The Volunteers New Single\n[New Plant] 2022.7.12 6PM (KST)\n⠀\nhttps://t.co/sMUSaEAf8W \n⠀\n#tvt #thevolunteers #release https://t.co/d9BOma7pmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvt",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "thevolunteers",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sMUSaEAf8W",
+					"expanded_url": "https://youtu.be/krJP3-plkZc",
+					"display_url": "youtu.be/krJP3-plkZc",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546419291377270800,
+					"id_str": "1546419291377270784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546419291377270784/pu/img/RFMogICAiTfvAKDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546419291377270784/pu/img/RFMogICAiTfvAKDv.jpg",
+					"url": "https://t.co/d9BOma7pmI",
+					"display_url": "pic.twitter.com/d9BOma7pmI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546419413095591942/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546419291377270800,
+					"id_str": "1546419291377270784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546419291377270784/pu/img/RFMogICAiTfvAKDv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546419291377270784/pu/img/RFMogICAiTfvAKDv.jpg",
+					"url": "https://t.co/d9BOma7pmI",
+					"display_url": "pic.twitter.com/d9BOma7pmI",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546419413095591942/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 43084,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546419291377270784/pu/vid/360x270/SyoodQDofBe0Oqsz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546419291377270784/pu/vid/960x720/tvrFSwkudMrtVVek.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546419291377270784/pu/vid/480x360/kg8A5WBykyewpK8K.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546419291377270784/pu/pl/WkrLbZpyzGVCEVoh.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7601,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'New Plant' Music Video Teaser\n⠀\n🌳 The Volunteers New Single\n[New Plant] 2022.7.12 6PM (KST)\n⠀\nhttps://t.co/sMUSaEAf8W \n⠀\n#tvt #thevolunteers #release https://t.co/d9BOma7pmI"
+	},
+	{
+		"created_at": "Mon Jul 11 09:36:05 +0000 2022",
+		"id": 1546427241696874500,
+		"id_str": "1546428103102042113",
+		"full_text": "jun p ‘1/2’ Released!!\n💜 https://t.co/0uETSYqoDX https://t.co/lg6iPQHE0U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0uETSYqoDX",
+					"expanded_url": "https://www.instagram.com/p/Cf3fFtBvOY3/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cf3fFtBvOY3/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546427236449788000,
+					"id_str": "1546427236449787905",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXYDYNOUIAENN9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXYDYNOUIAENN9C.jpg",
+					"url": "https://t.co/lg6iPQHE0U",
+					"display_url": "pic.twitter.com/lg6iPQHE0U",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1546427241696874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546427236449788000,
+					"id_str": "1546427236449787905",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXYDYNOUIAENN9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXYDYNOUIAENN9C.jpg",
+					"url": "https://t.co/lg6iPQHE0U",
+					"display_url": "pic.twitter.com/lg6iPQHE0U",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1546427241696874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7368,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "jun p ‘1/2’ Released!!\n💜 https://t.co/0uETSYqoDX https://t.co/lg6iPQHE0U"
+	},
+	{
+		"created_at": "Mon Jul 11 09:15:20 +0000 2022",
+		"id": 1546419143829688300,
+		"id_str": "1546422881973809152",
+		"full_text": "CHUNG HA\n\nThe 2nd Studio Album\nBare&amp;Rare Pt.1\n\n‘Sparkling’ MV\n\n▶https://t.co/8VgUyjElTG\n\n#청하 #CHUNGHA\n\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/CDDZvDQyVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						128,
+						145
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						146,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8VgUyjElTG",
+					"expanded_url": "https://youtu.be/lDV5cM9YE4g",
+					"display_url": "youtu.be/lDV5cM9YE4g",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546419132953833500,
+					"id_str": "1546419132953833472",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX8AhWUsAA6u07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX8AhWUsAA6u07.jpg",
+					"url": "https://t.co/CDDZvDQyVI",
+					"display_url": "pic.twitter.com/CDDZvDQyVI",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1546419143829688320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546419132953833500,
+					"id_str": "1546419132953833472",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FXX8AhWUsAA6u07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXX8AhWUsAA6u07.jpg",
+					"url": "https://t.co/CDDZvDQyVI",
+					"display_url": "pic.twitter.com/CDDZvDQyVI",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1546419143829688320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 351676,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2505,
+		"favorite_count": 3484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\n\nThe 2nd Studio Album\nBare&amp;Rare Pt.1\n\n‘Sparkling’ MV\n\n▶https://t.co/8VgUyjElTG\n\n#청하 #CHUNGHA\n\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/CDDZvDQyVI"
+	},
+	{
 		"created_at": "Mon Jul 11 08:40:20 +0000 2022",
 		"id": 1546413571466154000,
 		"id_str": "1546414071729332225",
