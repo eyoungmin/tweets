@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 22:40:18 +0000 2022",
+		"id": 1546984126565187600,
+		"id_str": "1546987845314805761",
+		"full_text": "Never forget that you ARE a sky full of stars. The same stuff that makes these heavenly views lives in you. #UnfoldTheUniverse https://t.co/n0ppbFo0pj https://t.co/uEXxBvysiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnfoldTheUniverse",
+					"indices": [
+						108,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n0ppbFo0pj",
+					"expanded_url": "https://nasa.tumblr.com/post/688583969233682432/you-are-made-of-stardust",
+					"display_url": "nasa.tumblr.com/post/688583969…",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/uEXxBvysiX",
+					"expanded_url": "https://twitter.com/coldplay/status/1546977576786214912",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11348282,
+			"id_str": "11348282",
+			"name": "NASA",
+			"screen_name": "NASA",
+			"location": "Pale Blue Dot",
+			"description": "There's space for everybody. ✨",
+			"url": "https://t.co/HASAog5R4t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HASAog5R4t",
+							"expanded_url": "http://www.nasa.gov/webbfirstimages",
+							"display_url": "nasa.gov/webbfirstimages",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59755133,
+			"friends_count": 182,
+			"listed_count": 98860,
+			"created_at": "Wed Dec 19 20:20:32 +0000 2007",
+			"favourites_count": 13937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 68251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321163587679784960/0ZxKlEKB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1657643116",
+			"profile_link_color": "205BA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F2F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546977576786215000,
+		"quoted_status_id_str": "1546977576786214912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uEXxBvysiX",
+			"expanded": "https://twitter.com/coldplay/status/1546977576786214912",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 12 21:59:30 +0000 2022",
+			"id": 1546977576786215000,
+			"id_str": "1546977576786214912",
+			"full_text": "Such heavenly views ✨ @NASA #JamesWebbSpaceTelescope #ColdplayBerlin 🤍 https://t.co/lJhBmBRB4z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JamesWebbSpaceTelescope",
+						"indices": [
+							28,
+							52
+						]
+					},
+					{
+						"text": "ColdplayBerlin",
+						"indices": [
+							53,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASA",
+						"name": "NASA",
+						"id": 11348282,
+						"id_str": "11348282",
+						"indices": [
+							22,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1546976309406048300,
+						"id_str": "1546976309406048256",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/FXf3vnyWIAA9m5C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXf3vnyWIAA9m5C.jpg",
+						"url": "https://t.co/lJhBmBRB4z",
+						"display_url": "pic.twitter.com/lJhBmBRB4z",
+						"expanded_url": "https://twitter.com/coldplay/status/1546977576786214912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546976309406048300,
+						"id_str": "1546976309406048256",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/FXf3vnyWIAA9m5C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXf3vnyWIAA9m5C.jpg",
+						"url": "https://t.co/lJhBmBRB4z",
+						"display_url": "pic.twitter.com/lJhBmBRB4z",
+						"expanded_url": "https://twitter.com/coldplay/status/1546977576786214912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 51989,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1546976309406048256/pl/ZdJxEF34Jqb65Ipg.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1546976309406048256/vid/480x270/dcXqRneC3hB7SL7f.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1546976309406048256/vid/640x360/59uAE_aNwSVQbiWc.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1546976309406048256/vid/1280x720/jiXuEKIVoTCg6ubt.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Floris",
+				"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23600684,
+				"friends_count": 777,
+				"listed_count": 42472,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9269,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 888,
+			"favorite_count": 4386,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 671,
+		"favorite_count": 2942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never forget that you ARE a sky full of stars. The same stuff that makes these heavenly views lives in you. #UnfoldTheUniverse https://t.co/n0ppbFo0pj https://t.co/uEXxBvysiX"
+	},
+	{
+		"created_at": "Tue Jul 12 22:40:12 +0000 2022",
+		"id": 1546978954896199700,
+		"id_str": "1546987819662548992",
+		"full_text": "Berlin round 2 ☑️ https://t.co/xRUPARvwx4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546978891914526700,
+					"id_str": "1546978891914526722",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546978891914526722/pu/img/x8P2dWzNlL7KX4yG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546978891914526722/pu/img/x8P2dWzNlL7KX4yG.jpg",
+					"url": "https://t.co/xRUPARvwx4",
+					"display_url": "pic.twitter.com/xRUPARvwx4",
+					"expanded_url": "https://twitter.com/coldplay/status/1546978954896199685/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546978891914526700,
+					"id_str": "1546978891914526722",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546978891914526722/pu/img/x8P2dWzNlL7KX4yG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546978891914526722/pu/img/x8P2dWzNlL7KX4yG.jpg",
+					"url": "https://t.co/xRUPARvwx4",
+					"display_url": "pic.twitter.com/xRUPARvwx4",
+					"expanded_url": "https://twitter.com/coldplay/status/1546978954896199685/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11465,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546978891914526722/pu/vid/480x852/B2Odhc5ofzr4xWyP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546978891914526722/pu/pl/ap1KVJh4ackrs2lm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546978891914526722/pu/vid/720x1280/6znLNcPs2mNzhlAK.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546978891914526722/pu/vid/320x568/uHrxOJJJcL_zKdTk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600684,
+			"friends_count": 777,
+			"listed_count": 42472,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 1524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Berlin round 2 ☑️ https://t.co/xRUPARvwx4"
+	},
+	{
 		"created_at": "Tue Jul 12 19:40:14 +0000 2022",
 		"id": 1546938638298222600,
 		"id_str": "1546942529530101760",
