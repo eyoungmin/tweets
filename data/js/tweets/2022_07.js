@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 00:40:10 +0000 2022",
+		"id": 1546646597320298500,
+		"id_str": "1546655620870324225",
+		"full_text": "'BLACKPINK X PUBG MOBILE 2022 IN-GAME CONCERT: [THE VIRTUAL]' Coming soon!\n\nNorth &amp; South America:22nd-23rd and 29th-30th July\nRest of the World:  23rd-24th and 30th-31st July \n\n#BLACKPINKxPUBGM #BLACKPINK #PUBGMOBILE #THEVIRTUAL #INGAMECONCERT @BLACKPINK https://t.co/anHLiGioVy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxPUBGM",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "PUBGMOBILE",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"text": "THEVIRTUAL",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"text": "INGAMECONCERT",
+					"indices": [
+						234,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546646590181544000,
+					"id_str": "1546646590181543936",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FXbK4RjXEAA7gXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXbK4RjXEAA7gXV.jpg",
+					"url": "https://t.co/anHLiGioVy",
+					"display_url": "pic.twitter.com/anHLiGioVy",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1546646597320298496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546646590181544000,
+					"id_str": "1546646590181543936",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FXbK4RjXEAA7gXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXbK4RjXEAA7gXV.jpg",
+					"url": "https://t.co/anHLiGioVy",
+					"display_url": "pic.twitter.com/anHLiGioVy",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1546646597320298496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes #pubgmobile - the original Battle Royale game is now available on your device! https://t.co/BvTjoDr2sW\n\nGet UC: https://t.co/IDVZFOdZF8",
+			"url": "https://t.co/XvQWtPk3vQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XvQWtPk3vQ",
+							"expanded_url": "https://pubgmobile.live/apk",
+							"display_url": "pubgmobile.live/apk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BvTjoDr2sW",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								114,
+								137
+							]
+						},
+						{
+							"url": "https://t.co/IDVZFOdZF8",
+							"expanded_url": "http://pubgmobile.live/uc",
+							"display_url": "pubgmobile.live/uc",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1476778,
+			"friends_count": 190,
+			"listed_count": 737,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 5522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544394320026820613/OYeQXNnj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544394320026820613/OYeQXNnj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1657047274",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10129,
+		"favorite_count": 23988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'BLACKPINK X PUBG MOBILE 2022 IN-GAME CONCERT: [THE VIRTUAL]' Coming soon!\n\nNorth &amp; South America:22nd-23rd and 29th-30th July\nRest of the World:  23rd-24th and 30th-31st July \n\n#BLACKPINKxPUBGM #BLACKPINK #PUBGMOBILE #THEVIRTUAL #INGAMECONCERT @BLACKPINK https://t.co/anHLiGioVy"
+	},
+	{
 		"created_at": "Mon Jul 11 15:40:48 +0000 2022",
 		"id": 1546518460968353800,
 		"id_str": "1546519886893137920",
