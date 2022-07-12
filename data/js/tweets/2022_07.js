@@ -1,6 +1,1082 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 07:40:31 +0000 2022",
+		"id": 1546759881101025300,
+		"id_str": "1546761408767037440",
+		"full_text": "- PC\nKOR) https://t.co/cj9SJ2TS1d \nEN) https://t.co/Mr8Fw5F1Fs \nJP) https://t.co/9V4FkyzPeq \nCN) https://t.co/znZlQgry7U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cj9SJ2TS1d",
+					"expanded_url": "https://bit.ly/3InRtSk",
+					"display_url": "bit.ly/3InRtSk",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/Mr8Fw5F1Fs",
+					"expanded_url": "https://bit.ly/3RiSLCc",
+					"display_url": "bit.ly/3RiSLCc",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/9V4FkyzPeq",
+					"expanded_url": "https://bit.ly/3RlSazu",
+					"display_url": "bit.ly/3RlSazu",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/znZlQgry7U",
+					"expanded_url": "https://bit.ly/3yQWcJh",
+					"display_url": "bit.ly/3yQWcJh",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546759878362173400,
+		"in_reply_to_status_id_str": "1546759878362173440",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "- PC\nKOR) https://t.co/cj9SJ2TS1d \nEN) https://t.co/Mr8Fw5F1Fs \nJP) https://t.co/9V4FkyzPeq \nCN) https://t.co/znZlQgry7U"
+	},
+	{
+		"created_at": "Tue Jul 12 07:40:26 +0000 2022",
+		"id": 1546759878362173400,
+		"id_str": "1546761387262853121",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtB71k",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvKRV",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1xCGV",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNYMK",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546759765916885000,
+		"in_reply_to_status_id_str": "1546759765916884997",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK"
+	},
+	{
+		"created_at": "Tue Jul 12 07:40:21 +0000 2022",
+		"id": 1546759765916885000,
+		"id_str": "1546761365892759552",
+		"full_text": "[JP] Beyond LIVE - 2022 aespa FAN MEETING “MY SYNK. aespa” : Invitation 💌\n \n📆 7/30 (SAT) 6PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🔗 https://t.co/MHtPquGf5F \n \n#aespa #에스파\n#MYSYNK_aespa #FANMEETING #비욘드라이브 https://t.co/zfcIx4w4iO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "MYSYNK_aespa",
+					"indices": [
+						189,
+						202
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						215,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHtPquGf5F",
+					"expanded_url": "https://beyondlive.com/contents/138",
+					"display_url": "beyondlive.com/contents/138",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546750686595272700,
+					"id_str": "1546750686595272704",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcs9AUaMAAdZy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcs9AUaMAAdZy7.jpg",
+					"url": "https://t.co/zfcIx4w4iO",
+					"display_url": "pic.twitter.com/zfcIx4w4iO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546759765916884997/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546750686595272700,
+					"id_str": "1546750686595272704",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcs9AUaMAAdZy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcs9AUaMAAdZy7.jpg",
+					"url": "https://t.co/zfcIx4w4iO",
+					"display_url": "pic.twitter.com/zfcIx4w4iO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546759765916884997/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28987,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686595272704/vid/480x270/NBwCs5tZh0DYz8s3.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686595272704/vid/1280x720/BnINAWfru7foUot9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1546750686595272704/pl/NGZxRgXsL5F9yLum.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686595272704/vid/640x360/eQpKnaTowYfhBlTB.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1566,
+		"favorite_count": 4902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[JP] Beyond LIVE - 2022 aespa FAN MEETING “MY SYNK. aespa” : Invitation 💌\n \n📆 7/30 (SAT) 6PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🔗 https://t.co/MHtPquGf5F \n \n#aespa #에스파\n#MYSYNK_aespa #FANMEETING #비욘드라이브 https://t.co/zfcIx4w4iO"
+	},
+	{
+		"created_at": "Tue Jul 12 07:40:17 +0000 2022",
+		"id": 1546759623147135000,
+		"id_str": "1546761347903496193",
+		"full_text": "- PC\nKOR) https://t.co/cj9SJ2TS1d \nEN) https://t.co/Mr8Fw5F1Fs \nJP) https://t.co/9V4FkyzPeq \nCN) https://t.co/znZlQgry7U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cj9SJ2TS1d",
+					"expanded_url": "https://bit.ly/3InRtSk",
+					"display_url": "bit.ly/3InRtSk",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/Mr8Fw5F1Fs",
+					"expanded_url": "https://bit.ly/3RiSLCc",
+					"display_url": "bit.ly/3RiSLCc",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/9V4FkyzPeq",
+					"expanded_url": "https://bit.ly/3RlSazu",
+					"display_url": "bit.ly/3RlSazu",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/znZlQgry7U",
+					"expanded_url": "https://bit.ly/3yQWcJh",
+					"display_url": "bit.ly/3yQWcJh",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546759620274028500,
+		"in_reply_to_status_id_str": "1546759620274028544",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "- PC\nKOR) https://t.co/cj9SJ2TS1d \nEN) https://t.co/Mr8Fw5F1Fs \nJP) https://t.co/9V4FkyzPeq \nCN) https://t.co/znZlQgry7U"
+	},
+	{
+		"created_at": "Tue Jul 12 07:40:12 +0000 2022",
+		"id": 1546759620274028500,
+		"id_str": "1546761326453735425",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtB71k",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvKRV",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1xCGV",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNYMK",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546759514078253000,
+		"in_reply_to_status_id_str": "1546759514078253056",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🎁 Ticket+MD sales : 7/21 (THU) 3PM KST\n \n- Mobile\nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK"
+	},
+	{
+		"created_at": "Tue Jul 12 07:40:10 +0000 2022",
+		"id": 1546759514078253000,
+		"id_str": "1546761317654183936",
+		"full_text": "[CN(繁)] Beyond LIVE - 2022 aespa FAN MEETING “MY SYNK. aespa” : Invitation 💌\n \n📆 7/30 (SAT) 6PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🔗 https://t.co/MHtPquGf5F \n \n#aespa #에스파\n#MYSYNK_aespa #FANMEETING #비욘드라이브 https://t.co/vg5wYqRhvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "MYSYNK_aespa",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						218,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHtPquGf5F",
+					"expanded_url": "https://beyondlive.com/contents/138",
+					"display_url": "beyondlive.com/contents/138",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546750686704316400,
+					"id_str": "1546750686704316416",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcrurracAAkGRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcrurracAAkGRg.jpg",
+					"url": "https://t.co/vg5wYqRhvb",
+					"display_url": "pic.twitter.com/vg5wYqRhvb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546759514078253056/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546750686704316400,
+					"id_str": "1546750686704316416",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcrurracAAkGRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcrurracAAkGRg.jpg",
+					"url": "https://t.co/vg5wYqRhvb",
+					"display_url": "pic.twitter.com/vg5wYqRhvb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546759514078253056/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27902,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686704316416/vid/1280x720/8WPT0BJ3Xxn_6DkI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686704316416/vid/640x360/EShwI4dA2vMDbR9s.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1546750686704316416/pl/kK40ycMtBsBkhToT.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546750686704316416/vid/480x270/EvcEdsOoGOWpeP4E.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921024,
+			"friends_count": 2,
+			"listed_count": 8983,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1129,
+		"favorite_count": 3780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[CN(繁)] Beyond LIVE - 2022 aespa FAN MEETING “MY SYNK. aespa” : Invitation 💌\n \n📆 7/30 (SAT) 6PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 7/12 (TUE) 3PM KST\n🔗 https://t.co/MHtPquGf5F \n \n#aespa #에스파\n#MYSYNK_aespa #FANMEETING #비욘드라이브 https://t.co/vg5wYqRhvb"
+	},
+	{
 		"created_at": "Tue Jul 12 06:40:39 +0000 2022",
 		"id": 1546742095569834000,
 		"id_str": "1546746342604771328",
