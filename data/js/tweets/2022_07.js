@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 19:40:14 +0000 2022",
+		"id": 1546938638298222600,
+		"id_str": "1546942529530101760",
+		"full_text": "The one and only Mat Whitecross on @coldplyxtralive Wednesday at 6pm UK. A visionary film-maker and biutyful human being.♥️🐒🐘✨ https://t.co/TrYHOfmhz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplyxtralive",
+					"name": "ColdplayXtra LIVE 👾",
+					"id": 1661014825,
+					"id_str": "1661014825",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TrYHOfmhz8",
+					"expanded_url": "https://twitter.com/matwhitecross/status/1546931415383670794",
+					"display_url": "twitter.com/matwhitecross/…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600587,
+			"friends_count": 777,
+			"listed_count": 42471,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546931415383670800,
+		"quoted_status_id_str": "1546931415383670794",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TrYHOfmhz8",
+			"expanded": "https://twitter.com/matwhitecross/status/1546931415383670794",
+			"display": "twitter.com/matwhitecross/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 12 18:56:04 +0000 2022",
+			"id": 1546931415383670800,
+			"id_str": "1546931415383670794",
+			"full_text": "Really looking forward to chatting to @coldplyxtralive tomorrow about the #Weirdos video for @coldplay #Biutyful. Tune in at 6pm UK/ 1pm ET / 10am PT https://t.co/N4mEREIPM0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Weirdos",
+						"indices": [
+							74,
+							82
+						]
+					},
+					{
+						"text": "Biutyful",
+						"indices": [
+							103,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplyxtralive",
+						"name": "ColdplayXtra LIVE 👾",
+						"id": 1661014825,
+						"id_str": "1661014825",
+						"indices": [
+							38,
+							54
+						]
+					},
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1546931409885044700,
+						"id_str": "1546931409885044736",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/FXfN69oXoAAvNep.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXfN69oXoAAvNep.jpg",
+						"url": "https://t.co/N4mEREIPM0",
+						"display_url": "pic.twitter.com/N4mEREIPM0",
+						"expanded_url": "https://twitter.com/MatWhitecross/status/1546931415383670794/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546931409885044700,
+						"id_str": "1546931409885044736",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/FXfN69oXoAAvNep.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXfN69oXoAAvNep.jpg",
+						"url": "https://t.co/N4mEREIPM0",
+						"display_url": "pic.twitter.com/N4mEREIPM0",
+						"expanded_url": "https://twitter.com/MatWhitecross/status/1546931415383670794/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1455537739,
+				"id_str": "1455537739",
+				"name": "Mat Whitecross 🇺🇦💙💛",
+				"screen_name": "MatWhitecross",
+				"location": "London, England",
+				"description": "Road to Guantanamo, Shock Doctrine, Moving to Mars, Sex&Drugs, Ashes, Spike Island, Fleming, Supersonic, Vic&Bob, Coldplay, The Kings, Road2Tokyo, Sound of 007",
+				"url": "https://t.co/zOGD2BwT2Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zOGD2BwT2Z",
+								"expanded_url": "http://mint-pictures.com",
+								"display_url": "mint-pictures.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10233,
+				"friends_count": 2954,
+				"listed_count": 41,
+				"created_at": "Fri May 24 23:33:40 +0000 2013",
+				"favourites_count": 109508,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DB1515",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1535531487717691392/gJ10Lc_V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535531487717691392/gJ10Lc_V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1455537739/1654934221",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 62,
+		"favorite_count": 650,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The one and only Mat Whitecross on @coldplyxtralive Wednesday at 6pm UK. A visionary film-maker and biutyful human being.♥️🐒🐘✨ https://t.co/TrYHOfmhz8"
+	},
+	{
+		"created_at": "Tue Jul 12 19:40:12 +0000 2022",
+		"id": 1546936842611736600,
+		"id_str": "1546942520617324546",
+		"full_text": "@coldplayeko No shadow of a doubt. PH",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplayeko",
+					"name": "Martina",
+					"id": 1337464395832696800,
+					"id_str": "1337464395832696839",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546934907586445300,
+		"in_reply_to_status_id_str": "1546934907586445313",
+		"in_reply_to_user_id": 1337464395832696800,
+		"in_reply_to_user_id_str": "1337464395832696839",
+		"in_reply_to_screen_name": "coldplayeko",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600587,
+			"friends_count": 777,
+			"listed_count": 42471,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@coldplayeko No shadow of a doubt. PH"
+	},
+	{
 		"created_at": "Tue Jul 12 18:40:10 +0000 2022",
 		"id": 1546913413204529200,
 		"id_str": "1546927412381990917",
