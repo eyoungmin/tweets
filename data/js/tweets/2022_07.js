@@ -1,6 +1,1153 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 11:40:29 +0000 2022",
+		"id": 1546818318295859200,
+		"id_str": "1546821797751971840",
+		"full_text": "Excited to have DHL @DeutschepostDHL as official logistics partner for #MusicOfTheSpheresWorldTour. Their expertise in sustainable freight will be a big help in reducing the tour’s carbon footprint. https://t.co/LlgP3r7XcW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						71,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeutschePostDHL",
+					"name": "DPDHL News",
+					"id": 197352549,
+					"id_str": "197352549",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LlgP3r7XcW",
+					"expanded_url": "https://twitter.com/deutschepostdhl/status/1546800946113658880",
+					"display_url": "twitter.com/deutschepostdh…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23600544,
+			"friends_count": 777,
+			"listed_count": 42472,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546800946113659000,
+		"quoted_status_id_str": "1546800946113658880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LlgP3r7XcW",
+			"expanded": "https://twitter.com/deutschepostdhl/status/1546800946113658880",
+			"display": "twitter.com/deutschepostdh…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 12 10:17:38 +0000 2022",
+			"id": 1546800946113659000,
+			"id_str": "1546800946113658880",
+			"full_text": "DHL is the official logistics partner of @coldplay Music Of The Spheres World Tour and will support the band in minimizing the tour’s carbon footprint. Read the full story here https://t.co/RA2dWkWg7X https://t.co/h8jTRyUdGs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							41,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RA2dWkWg7X",
+						"expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2022/dhl-teams-up-with-coldplay-to-make-their-tour-as-sustainable-as-possible.html",
+						"display_url": "dpdhl.com/en/media-relat…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1546800941801902000,
+						"id_str": "1546800941801902082",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/FXdXQuJXkAIMdGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXdXQuJXkAIMdGk.jpg",
+						"url": "https://t.co/h8jTRyUdGs",
+						"display_url": "pic.twitter.com/h8jTRyUdGs",
+						"expanded_url": "https://twitter.com/DeutschePostDHL/status/1546800946113658880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546800941801902000,
+						"id_str": "1546800941801902082",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/FXdXQuJXkAIMdGk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXdXQuJXkAIMdGk.jpg",
+						"url": "https://t.co/h8jTRyUdGs",
+						"display_url": "pic.twitter.com/h8jTRyUdGs",
+						"expanded_url": "https://twitter.com/DeutschePostDHL/status/1546800946113658880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://app.scompler.com/\" rel=\"nofollow\">Scompler</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197352549,
+				"id_str": "197352549",
+				"name": "DPDHL News",
+				"screen_name": "DeutschePostDHL",
+				"location": "Bonn",
+				"description": "The official account of Deutsche Post DHL Group. Keep up with the latest #logistics news. Imprint: https://t.co/3UzkQUSsUw",
+				"url": "https://t.co/Y4qrezOMca",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y4qrezOMca",
+								"expanded_url": "http://www.dpdhl.com",
+								"display_url": "dpdhl.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3UzkQUSsUw",
+								"expanded_url": "http://dpdhl.com/legal-notice",
+								"display_url": "dpdhl.com/legal-notice",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44411,
+				"friends_count": 1370,
+				"listed_count": 501,
+				"created_at": "Fri Oct 01 08:10:52 +0000 2010",
+				"favourites_count": 8055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13976,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E9E9E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1526138655294758912/a2JDNods_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526138655294758912/a2JDNods_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197352549/1582042744",
+				"profile_link_color": "D40501",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFCC00",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to have DHL @DeutschepostDHL as official logistics partner for #MusicOfTheSpheresWorldTour. Their expertise in sustainable freight will be a big help in reducing the tour’s carbon footprint. https://t.co/LlgP3r7XcW"
+	},
+	{
+		"created_at": "Tue Jul 12 11:40:24 +0000 2022",
+		"id": 1546772603024679000,
+		"id_str": "1546821775987712000",
+		"full_text": "Weekend plans? Now you do. 🎧 https://t.co/kMR12Eq2Bo https://t.co/NyPPLM79q3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMR12Eq2Bo",
+					"expanded_url": "https://sap.to/6011zqFqX",
+					"display_url": "sap.to/6011zqFqX",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/NyPPLM79q3",
+					"expanded_url": "https://twitter.com/coldplay/status/1544335490698059776",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76117579,
+			"id_str": "76117579",
+			"name": "SAP",
+			"screen_name": "SAP",
+			"location": "Global",
+			"description": "SAP is helping the best-run businesses make the world run better. #TheBestRun | SAP privacy statement for followers: https://t.co/aceUYWmeNP",
+			"url": "https://t.co/5RZqNr7ach",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5RZqNr7ach",
+							"expanded_url": "http://sap.com",
+							"display_url": "sap.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aceUYWmeNP",
+							"expanded_url": "http://sap.com/sps",
+							"display_url": "sap.com/sps",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298192,
+			"friends_count": 134,
+			"listed_count": 3612,
+			"created_at": "Mon Sep 21 19:31:15 +0000 2009",
+			"favourites_count": 7964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542921878964031489/EhvfyYGT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542921878964031489/EhvfyYGT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76117579/1656695684",
+			"profile_link_color": "F0AB00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "5591C4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544335490698059800,
+		"quoted_status_id_str": "1544335490698059776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NyPPLM79q3",
+			"expanded": "https://twitter.com/coldplay/status/1544335490698059776",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 05 15:00:48 +0000 2022",
+			"id": 1544335490698059800,
+			"id_str": "1544335490698059776",
+			"full_text": "📣 LIVE AUDIO STREAM FROM PARIS\n\nOn Sunday 17 July, you can hear the band's full Paris Stade de France show for free through the official #MusicOfTheSpheresWorldTour app, presented by @sap. \n\n📱 Download the app now at https://t.co/qEL4DB53RK https://t.co/vvQUE1Iijz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MusicOfTheSpheresWorldTour",
+						"indices": [
+							137,
+							164
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SAP",
+						"name": "SAP",
+						"id": 76117579,
+						"id_str": "76117579",
+						"indices": [
+							183,
+							187
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qEL4DB53RK",
+						"expanded_url": "http://coldplay.com/app",
+						"display_url": "coldplay.com/app",
+						"indices": [
+							217,
+							240
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1544333089190678500,
+						"id_str": "1544333089190678528",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+						"url": "https://t.co/vvQUE1Iijz",
+						"display_url": "pic.twitter.com/vvQUE1Iijz",
+						"expanded_url": "https://twitter.com/coldplay/status/1544335490698059776/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544333089190678500,
+						"id_str": "1544333089190678528",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW6S95sXoAMBfD4.jpg",
+						"url": "https://t.co/vvQUE1Iijz",
+						"display_url": "pic.twitter.com/vvQUE1Iijz",
+						"expanded_url": "https://twitter.com/coldplay/status/1544335490698059776/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 20020,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/540x540/KSiAuZ_685zenapW.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1544333089190678528/pl/PCjrUQ-UWRXVfqJl.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/720x720/iusw-1D_rQGAhWW-.mp4?tag=14"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1544333089190678528/vid/320x320/9w-ZgRX3k5t2TpxH.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://coldplay.com/app"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Floris",
+				"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23600544,
+				"friends_count": 777,
+				"listed_count": 42472,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9261,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 524,
+			"favorite_count": 3538,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 37,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weekend plans? Now you do. 🎧 https://t.co/kMR12Eq2Bo https://t.co/NyPPLM79q3"
+	},
+	{
+		"created_at": "Tue Jul 12 11:40:10 +0000 2022",
+		"id": 1546811707028226000,
+		"id_str": "1546821715480698881",
+		"full_text": "선예(SUNYE)\n1st Solo Album Trailer Photo\n\nLead Single “Glass Heart” \n2022.07.19 6PM (KST) Release\n-\n1st Solo Album [GENUINE]\n2022.07.26 6PM (KST) Release \n\n#선예 #SunYe #GENUINE #GlassHeart https://t.co/5DnWv2EjjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "SunYe",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546811704277082000,
+					"id_str": "1546811704277082112",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdhDLfaIAAMLmY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdhDLfaIAAMLmY.jpg",
+					"url": "https://t.co/5DnWv2EjjM",
+					"display_url": "pic.twitter.com/5DnWv2EjjM",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1546811707028226050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546811704277082000,
+					"id_str": "1546811704277082112",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdhDLfaIAAMLmY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdhDLfaIAAMLmY.jpg",
+					"url": "https://t.co/5DnWv2EjjM",
+					"display_url": "pic.twitter.com/5DnWv2EjjM",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1546811707028226050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17366,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 2211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album Trailer Photo\n\nLead Single “Glass Heart” \n2022.07.19 6PM (KST) Release\n-\n1st Solo Album [GENUINE]\n2022.07.26 6PM (KST) Release \n\n#선예 #SunYe #GENUINE #GlassHeart https://t.co/5DnWv2EjjM"
+	},
+	{
+		"created_at": "Tue Jul 12 11:39:39 +0000 2022",
+		"id": 1546811831234470000,
+		"id_str": "1546821587034288129",
+		"full_text": "'New Plant' Full Album Lyric Video\n\n'New Plant'의 곡별 리릭비디오가 공개되었습니다. 지금 바로 더 발룬티어스의 유튜브 채널에서 감상하세요.\n\nCheck out the Lyric Video for 'New Plant' on The Volunteers' Youtube channel right now!🌳\nhttps://t.co/OFsGaTP136\n\n#thevolunteers #newplant https://t.co/06FiWRJzcz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"text": "newplant",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OFsGaTP136",
+					"expanded_url": "https://youtu.be/bn_l7PTuSH0",
+					"display_url": "youtu.be/bn_l7PTuSH0",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546811763681030100,
+					"id_str": "1546811763681030144",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546811763681030144/pu/img/QOgCVgk-3slaqWhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546811763681030144/pu/img/QOgCVgk-3slaqWhj.jpg",
+					"url": "https://t.co/06FiWRJzcz",
+					"display_url": "pic.twitter.com/06FiWRJzcz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546811831234469888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546811763681030100,
+					"id_str": "1546811763681030144",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546811763681030144/pu/img/QOgCVgk-3slaqWhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546811763681030144/pu/img/QOgCVgk-3slaqWhj.jpg",
+					"url": "https://t.co/06FiWRJzcz",
+					"display_url": "pic.twitter.com/06FiWRJzcz",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546811831234469888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24025,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546811763681030144/pu/vid/1280x720/KNbeoUXumFrTD7m4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546811763681030144/pu/pl/r0bpzeKns0D41QVf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546811763681030144/pu/vid/480x270/qiyIJAgbCKvPSA7P.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546811763681030144/pu/vid/640x360/aS0UfeOB5ctVxzE1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7663,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'New Plant' Full Album Lyric Video\n\n'New Plant'의 곡별 리릭비디오가 공개되었습니다. 지금 바로 더 발룬티어스의 유튜브 채널에서 감상하세요.\n\nCheck out the Lyric Video for 'New Plant' on The Volunteers' Youtube channel right now!🌳\nhttps://t.co/OFsGaTP136\n\n#thevolunteers #newplant https://t.co/06FiWRJzcz"
+	},
+	{
 		"created_at": "Tue Jul 12 10:40:27 +0000 2022",
 		"id": 1546799625692221400,
 		"id_str": "1546806689277640704",
@@ -117,7 +1264,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
@@ -225,7 +1372,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
