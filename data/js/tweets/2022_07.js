@@ -1,6 +1,830 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 06:40:39 +0000 2022",
+		"id": 1546742095569834000,
+		"id_str": "1546746342604771328",
+		"full_text": "CHUNG HA 청하 \nThe 2nd Studio Album 'Bare&amp;Rare Pt.1' #Bare Ver. 대면 팬사인회 상세 안내는 공식 팬카페를 통해 확인하실 수 있습니다.\n\n☕️ https://t.co/oQzkDADGyy\n\n#CHUNGHA #청하 #BareRare #대면 #팬사인회",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bare",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "대면",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "팬사인회",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQzkDADGyy",
+					"expanded_url": "https://url.kr/ivazde",
+					"display_url": "url.kr/ivazde",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352169,
+			"friends_count": 1,
+			"listed_count": 2170,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA 청하 \nThe 2nd Studio Album 'Bare&amp;Rare Pt.1' #Bare Ver. 대면 팬사인회 상세 안내는 공식 팬카페를 통해 확인하실 수 있습니다.\n\n☕️ https://t.co/oQzkDADGyy\n\n#CHUNGHA #청하 #BareRare #대면 #팬사인회"
+	},
+	{
+		"created_at": "Tue Jul 12 06:40:36 +0000 2022",
+		"id": 1546736114534256600,
+		"id_str": "1546746329463930880",
+		"full_text": "#청하 #CHUNGHA\n2nd Studio Album [Bare&amp;Rare Pt.1]\n대면 팬사인회 이벤트💫\n\n💖 응모 기간\n7/12(화) PM 03:00 ~ 7/14(목) PM 11:59\n\n💖 진행 일시\n7/23(토) PM 07:00\n\n✨ 미공개 포토카드 4종 중 1종 랜덤 증정\n\n🔗https://t.co/LGV7a6Ogkv https://t.co/okU9wR9XDh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGV7a6Ogkv",
+					"expanded_url": "https://bit.ly/3uERZ8V",
+					"display_url": "bit.ly/3uERZ8V",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546721435229769700,
+					"id_str": "1546721435229769728",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcO81FaUAASZ1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcO81FaUAASZ1_.jpg",
+					"url": "https://t.co/okU9wR9XDh",
+					"display_url": "pic.twitter.com/okU9wR9XDh",
+					"expanded_url": "https://twitter.com/m_applemusic/status/1546736114534256640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546721435229769700,
+					"id_str": "1546721435229769728",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcO81FaUAASZ1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcO81FaUAASZ1_.jpg",
+					"url": "https://t.co/okU9wR9XDh",
+					"display_url": "pic.twitter.com/okU9wR9XDh",
+					"expanded_url": "https://twitter.com/m_applemusic/status/1546736114534256640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1546721435246542800,
+					"id_str": "1546721435246542849",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FXcO81JaQAERD6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXcO81JaQAERD6G.jpg",
+					"url": "https://t.co/okU9wR9XDh",
+					"display_url": "pic.twitter.com/okU9wR9XDh",
+					"expanded_url": "https://twitter.com/m_applemusic/status/1546736114534256640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780965243056889900,
+			"id_str": "780965243056889856",
+			"name": "애플뮤직 APPLE MUSIC",
+			"screen_name": "m_applemusic",
+			"location": "",
+			"description": "음반 쇼핑몰 애플뮤직 공식 트위터입니다. \nAppleMusic Official Twitter Account",
+			"url": "https://t.co/AeH35SPaBq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AeH35SPaBq",
+							"expanded_url": "http://applemusic.co.kr",
+							"display_url": "applemusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9335,
+			"friends_count": 0,
+			"listed_count": 52,
+			"created_at": "Wed Sep 28 02:59:58 +0000 2016",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431086485705424900/rh_NAYxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431086485705424900/rh_NAYxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780965243056889856/1630032582",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n2nd Studio Album [Bare&amp;Rare Pt.1]\n대면 팬사인회 이벤트💫\n\n💖 응모 기간\n7/12(화) PM 03:00 ~ 7/14(목) PM 11:59\n\n💖 진행 일시\n7/23(토) PM 07:00\n\n✨ 미공개 포토카드 4종 중 1종 랜덤 증정\n\n🔗https://t.co/LGV7a6Ogkv https://t.co/okU9wR9XDh"
+	},
+	{
+		"created_at": "Tue Jul 12 06:40:29 +0000 2022",
+		"id": 1546739850812215300,
+		"id_str": "1546746299634143234",
+		"full_text": "Click on the below link to purchase to album and a special message from KARINA, GISELLE, WINTER, or NINGNING 💌\n\n💙 https://t.co/vz4dRi4uwq\n🌙 https://t.co/4sw3ntwjWK \n⭐️ https://t.co/GDpVmZNJ24 \n🦋 https://t.co/HIhVbB6y4u\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						233,
+						237
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						245,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vz4dRi4uwq",
+					"expanded_url": "https://aespa.lnk.to/KARINASVER",
+					"display_url": "aespa.lnk.to/KARINASVER",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/4sw3ntwjWK",
+					"expanded_url": "https://aespa.lnk.to/GISELLESVER",
+					"display_url": "aespa.lnk.to/GISELLESVER",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/GDpVmZNJ24",
+					"expanded_url": "https://aespa.lnk.to/WINTERSVER",
+					"display_url": "aespa.lnk.to/WINTERSVER",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/HIhVbB6y4u",
+					"expanded_url": "https://aespa.lnk.to/NINGNINGSVER",
+					"display_url": "aespa.lnk.to/NINGNINGSVER",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2920711,
+			"friends_count": 2,
+			"listed_count": 8985,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1437,
+		"favorite_count": 5124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Click on the below link to purchase to album and a special message from KARINA, GISELLE, WINTER, or NINGNING 💌\n\n💙 https://t.co/vz4dRi4uwq\n🌙 https://t.co/4sw3ntwjWK \n⭐️ https://t.co/GDpVmZNJ24 \n🦋 https://t.co/HIhVbB6y4u\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Tue Jul 12 06:40:21 +0000 2022",
+		"id": 1546736731919364000,
+		"id_str": "1546746265572196352",
+		"full_text": "✅ SMTOWN &amp;STORE\n-MO\nKO: https://t.co/s0jybrMuRc\nEN: https://t.co/pRWiNpy7DZ\nJP: https://t.co/FRuKdQXrwX\nCN: https://t.co/y7MvreRfxd\n \n🎫 Single Ticket Sales Open\n- Sales Period: From July 12, 2022 (Tue) 15:00 to July 30, 2022 (Sat) 18:00 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s0jybrMuRc",
+					"expanded_url": "https://bit.ly/3c71jfq",
+					"display_url": "bit.ly/3c71jfq",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/pRWiNpy7DZ",
+					"expanded_url": "https://bit.ly/3ACaWNn",
+					"display_url": "bit.ly/3ACaWNn",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/FRuKdQXrwX",
+					"expanded_url": "https://bit.ly/3yWuiLZ",
+					"display_url": "bit.ly/3yWuiLZ",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/y7MvreRfxd",
+					"expanded_url": "https://bit.ly/3as6SEL",
+					"display_url": "bit.ly/3as6SEL",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546736730505900000,
+		"in_reply_to_status_id_str": "1546736730505900038",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2920711,
+			"friends_count": 2,
+			"listed_count": 8985,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 1234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ SMTOWN &amp;STORE\n-MO\nKO: https://t.co/s0jybrMuRc\nEN: https://t.co/pRWiNpy7DZ\nJP: https://t.co/FRuKdQXrwX\nCN: https://t.co/y7MvreRfxd\n \n🎫 Single Ticket Sales Open\n- Sales Period: From July 12, 2022 (Tue) 15:00 to July 30, 2022 (Sat) 18:00 (KST)"
+	},
+	{
+		"created_at": "Tue Jul 12 06:40:12 +0000 2022",
+		"id": 1546736730505900000,
+		"id_str": "1546746227362070528",
+		"full_text": "✅ SMTOWN &amp;STORE\n-PC\nKO: https://t.co/jalI27UTNx  \nEN: https://t.co/giy1FzgYSq  \nJP: https://t.co/z06Sdbi1lE  \nCN: https://t.co/iBD2PzmrsI  \n \n🎫 Single Ticket Sales Open\n- Sales Period: From July 12, 2022 (Tue) 15:00 to July 30, 2022 (Sat) 18:00 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jalI27UTNx",
+					"expanded_url": "https://bit.ly/3It3JRu",
+					"display_url": "bit.ly/3It3JRu",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/giy1FzgYSq",
+					"expanded_url": "https://bit.ly/3IwG034",
+					"display_url": "bit.ly/3IwG034",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/z06Sdbi1lE",
+					"expanded_url": "https://bit.ly/3IqaG5X",
+					"display_url": "bit.ly/3IqaG5X",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/iBD2PzmrsI",
+					"expanded_url": "https://bit.ly/3yVXlPD",
+					"display_url": "bit.ly/3yVXlPD",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546736728907858000,
+		"in_reply_to_status_id_str": "1546736728907857920",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2920711,
+			"friends_count": 2,
+			"listed_count": 8985,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 1323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ SMTOWN &amp;STORE\n-PC\nKO: https://t.co/jalI27UTNx  \nEN: https://t.co/giy1FzgYSq  \nJP: https://t.co/z06Sdbi1lE  \nCN: https://t.co/iBD2PzmrsI  \n \n🎫 Single Ticket Sales Open\n- Sales Period: From July 12, 2022 (Tue) 15:00 to July 30, 2022 (Sat) 18:00 (KST)"
+	},
+	{
 		"created_at": "Tue Jul 12 03:40:10 +0000 2022",
 		"id": 1546700238433697800,
 		"id_str": "1546700918888038401",
