@@ -1,6 +1,1058 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 09:40:40 +0000 2022",
+		"id": 1546789030553038800,
+		"id_str": "1546791644296519680",
+		"full_text": "(ENG) 💙aespa 에스파 컴백 홍보 의뢰왔다 짱이지 💜이 영상을 봐 대박임 [만나달라] Ep.7\n\nhttps://t.co/Wft6OT9HVp\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#만나달라 #달라스튜디오 https://t.co/GIHKXo0P2F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "만나달라",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "달라스튜디오",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wft6OT9HVp",
+					"expanded_url": "https://youtu.be/hPmZZP9eKuk",
+					"display_url": "youtu.be/hPmZZP9eKuk",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546789021774672000,
+					"id_str": "1546789021774671872",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdMa4lacAAC0RT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdMa4lacAAC0RT.jpg",
+					"url": "https://t.co/GIHKXo0P2F",
+					"display_url": "pic.twitter.com/GIHKXo0P2F",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546789030553038849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546789021774672000,
+					"id_str": "1546789021774671872",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdMa4lacAAC0RT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdMa4lacAAC0RT.jpg",
+					"url": "https://t.co/GIHKXo0P2F",
+					"display_url": "pic.twitter.com/GIHKXo0P2F",
+					"expanded_url": "https://twitter.com/aespa_official/status/1546789030553038849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921615,
+			"friends_count": 2,
+			"listed_count": 8981,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3568,
+		"favorite_count": 8244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 💙aespa 에스파 컴백 홍보 의뢰왔다 짱이지 💜이 영상을 봐 대박임 [만나달라] Ep.7\n\nhttps://t.co/Wft6OT9HVp\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#만나달라 #달라스튜디오 https://t.co/GIHKXo0P2F"
+	},
+	{
+		"created_at": "Tue Jul 12 09:40:25 +0000 2022",
+		"id": 1546781460082081800,
+		"id_str": "1546791580522225664",
+		"full_text": "사랑💛하면 닮는다고 하던데,,,\n킁카👃 냄새부터 맡고 보는\n사랑스러운 진사누나🐶\n러블리하고 사랑스러운 \n쓱블리💛의 쓱크립트🎬\n\n📝 https://t.co/lanbCwihyp\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/OlwvLbGi23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lanbCwihyp",
+					"expanded_url": "https://youtu.be/6LQmXb7WD08",
+					"display_url": "youtu.be/6LQmXb7WD08",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546780469177761800,
+					"id_str": "1546780469177761794",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdEpDraQAIGZSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdEpDraQAIGZSR.jpg",
+					"url": "https://t.co/OlwvLbGi23",
+					"display_url": "pic.twitter.com/OlwvLbGi23",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1546781460082081793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546780469177761800,
+					"id_str": "1546780469177761794",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdEpDraQAIGZSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdEpDraQAIGZSR.jpg",
+					"url": "https://t.co/OlwvLbGi23",
+					"display_url": "pic.twitter.com/OlwvLbGi23",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1546781460082081793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4466,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑💛하면 닮는다고 하던데,,,\n킁카👃 냄새부터 맡고 보는\n사랑스러운 진사누나🐶\n러블리하고 사랑스러운 \n쓱블리💛의 쓱크립트🎬\n\n📝 https://t.co/lanbCwihyp\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/OlwvLbGi23"
+	},
+	{
+		"created_at": "Tue Jul 12 09:39:38 +0000 2022",
+		"id": 1546781873182888000,
+		"id_str": "1546791383398096896",
+		"full_text": "M/V Directed by 방재엽 @BANGJAEYEOB FILM\nPhotography by 이혜인\nCover Artwork by Rosa Sawyers\nAlbum Design by 정다혜 \nStyling by 곽하늘, 고지혁\nHair by 오지혜\nMakeup by 문지원\n\n#thevolunteers #newplant #tvt #release",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "newplant",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bangjaeyeob",
+					"name": "bangjaeyeob",
+					"id": 1384791267041628200,
+					"id_str": "1384791267041628162",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546781871098380300,
+		"in_reply_to_status_id_str": "1546781871098380288",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7645,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "M/V Directed by 방재엽 @BANGJAEYEOB FILM\nPhotography by 이혜인\nCover Artwork by Rosa Sawyers\nAlbum Design by 정다혜 \nStyling by 곽하늘, 고지혁\nHair by 오지혜\nMakeup by 문지원\n\n#thevolunteers #newplant #tvt #release"
+	},
+	{
+		"created_at": "Tue Jul 12 09:39:38 +0000 2022",
+		"id": 1546781871098380300,
+		"id_str": "1546791383343673344",
+		"full_text": "&lt;Credits&gt;\nAll songs produced by The Volunteers\nAll songs recorded by 구름 @TVT CLUB\nAll songs mixed by 구름\nAll songs mastered by 신재민 @Philo’s Planet\nAll songs copyedited by Dawn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tvt",
+					"name": "ㅤ",
+					"id": 14838457,
+					"id_str": "14838457",
+					"indices": [
+						78,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1546781867860340700,
+		"in_reply_to_status_id_str": "1546781867860340736",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7645,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "&lt;Credits&gt;\nAll songs produced by The Volunteers\nAll songs recorded by 구름 @TVT CLUB\nAll songs mixed by 구름\nAll songs mastered by 신재민 @Philo’s Planet\nAll songs copyedited by Dawn"
+	},
+	{
+		"created_at": "Tue Jul 12 09:39:38 +0000 2022",
+		"id": 1546781867860340700,
+		"id_str": "1546791383343648768",
+		"full_text": "[Release]\nThe Volunteers 싱글 &lt;New Plant&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n⠀\n01. New Plant (Title)\n02. Hypocreep\n⠀ https://t.co/g5Fra12J5L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546781861435043800,
+					"id_str": "1546781861435043840",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdF6GPacAApAvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdF6GPacAApAvD.jpg",
+					"url": "https://t.co/g5Fra12J5L",
+					"display_url": "pic.twitter.com/g5Fra12J5L",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546781867860340736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546781861435043800,
+					"id_str": "1546781861435043840",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdF6GPacAApAvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdF6GPacAApAvD.jpg",
+					"url": "https://t.co/g5Fra12J5L",
+					"display_url": "pic.twitter.com/g5Fra12J5L",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1546781867860340736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7645,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\nThe Volunteers 싱글 &lt;New Plant&gt;가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n⠀\n01. New Plant (Title)\n02. Hypocreep\n⠀ https://t.co/g5Fra12J5L"
+	},
+	{
+		"created_at": "Tue Jul 12 09:36:15 +0000 2022",
+		"id": 1546787609447305200,
+		"id_str": "1546790533539934210",
+		"full_text": "⠀\nApink 초봄(에이핑크 초봄) ‘Copycat’ Released!!\n🤍 https://t.co/mF2umBrCO7 https://t.co/03QQZ0DoGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mF2umBrCO7",
+					"expanded_url": "https://www.instagram.com/p/Cf6DKseNUaV/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cf6DKseNUaV/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546787604925780000,
+					"id_str": "1546787604925779968",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdLIaaUEAAL8Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdLIaaUEAAL8Ji.jpg",
+					"url": "https://t.co/03QQZ0DoGU",
+					"display_url": "pic.twitter.com/03QQZ0DoGU",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1546787609447305216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546787604925780000,
+					"id_str": "1546787604925779968",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FXdLIaaUEAAL8Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXdLIaaUEAAL8Ji.jpg",
+					"url": "https://t.co/03QQZ0DoGU",
+					"display_url": "pic.twitter.com/03QQZ0DoGU",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1546787609447305216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7378,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nApink 초봄(에이핑크 초봄) ‘Copycat’ Released!!\n🤍 https://t.co/mF2umBrCO7 https://t.co/03QQZ0DoGU"
+	},
+	{
 		"created_at": "Tue Jul 12 07:40:31 +0000 2022",
 		"id": 1546759881101025300,
 		"id_str": "1546761408767037440",
