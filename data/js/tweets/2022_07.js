@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 14:40:10 +0000 2022",
+		"id": 1547219307423158300,
+		"id_str": "1547229401997352967",
+		"full_text": "그 누구보다 톡톡 튀는 퀸청하의 귀환💙 더 짜릿한 게 필요할 땐 역시 스춤이지✨ BE ORIGINAL 'CHUNG HA' COMING SOON #BE_ORIGINAL #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM\n\n▶ https://t.co/f5AR17AOH9 https://t.co/91iPLbUpIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f5AR17AOH9",
+					"expanded_url": "https://youtu.be/lzHMXt8BNhQ",
+					"display_url": "youtu.be/lzHMXt8BNhQ",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547182127049220000,
+					"id_str": "1547182127049220096",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FXix8n2aIAAIT6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXix8n2aIAAIT6X.jpg",
+					"url": "https://t.co/91iPLbUpIy",
+					"display_url": "pic.twitter.com/91iPLbUpIy",
+					"expanded_url": "https://twitter.com/M2MPD/status/1547219307423158272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547182127049220000,
+					"id_str": "1547182127049220096",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FXix8n2aIAAIT6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXix8n2aIAAIT6X.jpg",
+					"url": "https://t.co/91iPLbUpIy",
+					"display_url": "pic.twitter.com/91iPLbUpIy",
+					"expanded_url": "https://twitter.com/M2MPD/status/1547219307423158272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256361,
+			"friends_count": 463,
+			"listed_count": 1572,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 407,
+		"favorite_count": 938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 누구보다 톡톡 튀는 퀸청하의 귀환💙 더 짜릿한 게 필요할 땐 역시 스춤이지✨ BE ORIGINAL 'CHUNG HA' COMING SOON #BE_ORIGINAL #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM\n\n▶ https://t.co/f5AR17AOH9 https://t.co/91iPLbUpIy"
+	},
+	{
 		"created_at": "Wed Jul 13 13:15:54 +0000 2022",
 		"id": 1547204371414655000,
 		"id_str": "1547208195533197312",
