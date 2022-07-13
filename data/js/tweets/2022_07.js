@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 11:40:13 +0000 2022",
+		"id": 1547174006498943000,
+		"id_str": "1547184115681837056",
+		"full_text": "SM 막내인데 광야 탈출해도 되는 거임? 에스파도? [광야탈출 넘버원] EP.1\n\nhttps://t.co/pIogTDwppr\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls\n#광야탈출넘버원 https://t.co/QMs9hIbeJe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "광야탈출넘버원",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pIogTDwppr",
+					"expanded_url": "https://youtu.be/j1utzMIFl8Y",
+					"display_url": "youtu.be/j1utzMIFl8Y",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547104250161152000,
+					"id_str": "1547104250161152000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhrHl1aQAABcyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhrHl1aQAABcyE.jpg",
+					"url": "https://t.co/QMs9hIbeJe",
+					"display_url": "pic.twitter.com/QMs9hIbeJe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547174006498942976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547104250161152000,
+					"id_str": "1547104250161152000",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhrHl1aQAABcyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhrHl1aQAABcyE.jpg",
+					"url": "https://t.co/QMs9hIbeJe",
+					"display_url": "pic.twitter.com/QMs9hIbeJe",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547174006498942976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2928003,
+			"friends_count": 2,
+			"listed_count": 8995,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5013,
+		"favorite_count": 11959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM 막내인데 광야 탈출해도 되는 거임? 에스파도? [광야탈출 넘버원] EP.1\n\nhttps://t.co/pIogTDwppr\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls\n#광야탈출넘버원 https://t.co/QMs9hIbeJe"
+	},
+	{
+		"created_at": "Wed Jul 13 11:40:10 +0000 2022",
+		"id": 1547174002996772900,
+		"id_str": "1547184102587203590",
+		"full_text": "선예(SUNYE)\n1st Solo Album Concept Photo #1\n\nLead Single “Glass Heart” \n2022.07.19 6PM (KST) Release\n-\n1st Solo Album [GENUINE]\n2022.07.26 6PM (KST) Release \n\n#선예 #SunYe #GENUINE #GlassHeart https://t.co/EQ9rPuJ3Ye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "SunYe",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						177,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547148868172648400,
+					"id_str": "1547148868172648448",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiTss4UEAA18HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiTss4UEAA18HF.jpg",
+					"url": "https://t.co/EQ9rPuJ3Ye",
+					"display_url": "pic.twitter.com/EQ9rPuJ3Ye",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547174002996772865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547148868172648400,
+					"id_str": "1547148868172648448",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiTss4UEAA18HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiTss4UEAA18HF.jpg",
+					"url": "https://t.co/EQ9rPuJ3Ye",
+					"display_url": "pic.twitter.com/EQ9rPuJ3Ye",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547174002996772865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547148913978667000,
+					"id_str": "1547148913978667008",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiTvXhUcAAAWHo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiTvXhUcAAAWHo.jpg",
+					"url": "https://t.co/EQ9rPuJ3Ye",
+					"display_url": "pic.twitter.com/EQ9rPuJ3Ye",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547174002996772865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547148928763605000,
+					"id_str": "1547148928763604992",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiTwOmUsAAGaYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiTwOmUsAAGaYk.jpg",
+					"url": "https://t.co/EQ9rPuJ3Ye",
+					"display_url": "pic.twitter.com/EQ9rPuJ3Ye",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547174002996772865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17760,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 388,
+		"favorite_count": 955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album Concept Photo #1\n\nLead Single “Glass Heart” \n2022.07.19 6PM (KST) Release\n-\n1st Solo Album [GENUINE]\n2022.07.26 6PM (KST) Release \n\n#선예 #SunYe #GENUINE #GlassHeart https://t.co/EQ9rPuJ3Ye"
+	},
+	{
+		"created_at": "Wed Jul 13 11:38:26 +0000 2022",
+		"id": 1547180166748614700,
+		"id_str": "1547183670426886149",
+		"full_text": "부끄럽지만....\n오늘은 제가 둘이네요 😆\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/N2NLHrv64w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						79,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547180146750214100,
+					"id_str": "1547180146750214144",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiwJWqVUAAM8pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiwJWqVUAAM8pc.jpg",
+					"url": "https://t.co/N2NLHrv64w",
+					"display_url": "pic.twitter.com/N2NLHrv64w",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547180166748614658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547180146750214100,
+					"id_str": "1547180146750214144",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiwJWqVUAAM8pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiwJWqVUAAM8pc.jpg",
+					"url": "https://t.co/N2NLHrv64w",
+					"display_url": "pic.twitter.com/N2NLHrv64w",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547180166748614658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547180160360652800,
+					"id_str": "1547180160360652800",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FXiwKJXUIAA3T1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXiwKJXUIAA3T1d.jpg",
+					"url": "https://t.co/N2NLHrv64w",
+					"display_url": "pic.twitter.com/N2NLHrv64w",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547180166748614658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5487404,
+			"friends_count": 2,
+			"listed_count": 11135,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2479,
+		"favorite_count": 7930,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부끄럽지만....\n오늘은 제가 둘이네요 😆\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/N2NLHrv64w"
+	},
+	{
 		"created_at": "Wed Jul 13 10:40:27 +0000 2022",
 		"id": 1547162296463540200,
 		"id_str": "1547169075259908096",
