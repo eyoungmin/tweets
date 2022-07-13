@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 18:40:10 +0000 2022",
+		"id": 1547279692977213400,
+		"id_str": "1547289799555530756",
+		"full_text": "Pick up your copy of 'Girls - The 2nd Mini Album' at your local Barnes &amp; Noble 💞\n\nhttps://t.co/FS8KIPyVQG\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/73x4V1Mhdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FS8KIPyVQG",
+					"expanded_url": "https://aespa.lnk.to/GirlsEP/barnesnoble",
+					"display_url": "aespa.lnk.to/GirlsEP/barnes…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547092631821631500,
+					"id_str": "1547092631821631488",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhgjUJaQAA4sGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhgjUJaQAA4sGY.jpg",
+					"url": "https://t.co/73x4V1Mhdh",
+					"display_url": "pic.twitter.com/73x4V1Mhdh",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547279692977213440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547092631821631500,
+					"id_str": "1547092631821631488",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhgjUJaQAA4sGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhgjUJaQAA4sGY.jpg",
+					"url": "https://t.co/73x4V1Mhdh",
+					"display_url": "pic.twitter.com/73x4V1Mhdh",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547279692977213440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2930113,
+			"friends_count": 2,
+			"listed_count": 8993,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 892,
+		"favorite_count": 4089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pick up your copy of 'Girls - The 2nd Mini Album' at your local Barnes &amp; Noble 💞\n\nhttps://t.co/FS8KIPyVQG\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/73x4V1Mhdh"
+	},
+	{
 		"created_at": "Wed Jul 13 17:40:17 +0000 2022",
 		"id": 1547272287287640000,
 		"id_str": "1547274730562109448",
@@ -39,7 +260,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out July 22nd! ❤️‍🔥",
+			"description": "New album \"22 Make\" out July 22nd! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -249,7 +470,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out July 22nd! ❤️‍🔥",
+			"description": "New album \"22 Make\" out July 22nd! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
