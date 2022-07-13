@@ -1,6 +1,1165 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 04:40:35 +0000 2022",
+		"id": 1547075243478360000,
+		"id_str": "1547078512959422471",
+		"full_text": "썸머퀸 💜#청하💜 친친에 강림!\n여름 케이팝 기강을 잡으시러 온(?) 청하의\n스테이지 8! 많관부!💨\n\n7/14(THU) 8pm(KST), CHUNG HA will appear on MBC radio Live streaming!\n\n📻#GOT7영재의친한친구\n✔7월 14일 목요일 저녁 8시부터\n✔봉춘라디오 채널에서 스트리밍됩니다!\n\n@CHUNGHA_MNHent https://t.co/WHMFKS3eyz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "GOT7영재의친한친구",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						185,
+						200
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547075114184781800,
+					"id_str": "1547075114184781825",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhQnp3UsAEdSkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhQnp3UsAEdSkC.jpg",
+					"url": "https://t.co/WHMFKS3eyz",
+					"display_url": "pic.twitter.com/WHMFKS3eyz",
+					"expanded_url": "https://twitter.com/radiombc/status/1547075243478360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547075114184781800,
+					"id_str": "1547075114184781825",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhQnp3UsAEdSkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhQnp3UsAEdSkC.jpg",
+					"url": "https://t.co/WHMFKS3eyz",
+					"display_url": "pic.twitter.com/WHMFKS3eyz",
+					"expanded_url": "https://twitter.com/radiombc/status/1547075243478360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80215,
+			"friends_count": 43,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "썸머퀸 💜#청하💜 친친에 강림!\n여름 케이팝 기강을 잡으시러 온(?) 청하의\n스테이지 8! 많관부!💨\n\n7/14(THU) 8pm(KST), CHUNG HA will appear on MBC radio Live streaming!\n\n📻#GOT7영재의친한친구\n✔7월 14일 목요일 저녁 8시부터\n✔봉춘라디오 채널에서 스트리밍됩니다!\n\n@CHUNGHA_MNHent https://t.co/WHMFKS3eyz"
+	},
+	{
+		"created_at": "Wed Jul 13 04:40:32 +0000 2022",
+		"id": 1547056091846287400,
+		"id_str": "1547078499890085889",
+		"full_text": "【#aespa】\n💙⭐新特典付きで販売決定🌙🦋\nThe 2nd Mini Album 『Girls』 \n\n🎁mu-mo SHOP限定新特典🎁\nオリジナルトレカB ＆ 選べる抽選特典メンバー別サイン入りチェキorメンバー別VIDEO CALL EVENT！\nトレカBは新たなセルフィ―絵柄です🙌\n\n🛒https://t.co/7d0vkTSqmm\n\n#æspa #에스파 #エスパ #Girls https://t.co/vmN3kxZQ8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7d0vkTSqmm",
+					"expanded_url": "https://shop.mu-mo.net/avx/sv/list1?jsiteid=mumo&artist_id=AESPA&utm_source=twitter&utm_medium=social&utm_content=mumo_tweet&utm_campaign=20220713_AESPA",
+					"display_url": "shop.mu-mo.net/avx/sv/list1?j…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547055773951623200,
+					"id_str": "1547055773951623169",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FXg_B54agAExzJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXg_B54agAExzJe.jpg",
+					"url": "https://t.co/vmN3kxZQ8x",
+					"display_url": "pic.twitter.com/vmN3kxZQ8x",
+					"expanded_url": "https://twitter.com/mumo__shop/status/1547056091846287360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547055773951623200,
+					"id_str": "1547055773951623169",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FXg_B54agAExzJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXg_B54agAExzJe.jpg",
+					"url": "https://t.co/vmN3kxZQ8x",
+					"display_url": "pic.twitter.com/vmN3kxZQ8x",
+					"expanded_url": "https://twitter.com/mumo__shop/status/1547056091846287360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153292780,
+			"id_str": "153292780",
+			"name": "mu-mo SHOP（mu-moショップ）",
+			"screen_name": "mumo__shop",
+			"location": "TOKYO,JAPAN",
+			"description": "mu-mo SHOP(ミュゥモショップ/뮤모샵)Officialアカウント♫ 最新のアーティストオフィシャルグッズ、CD・DVD/Blu-ray商品や特典情報をお届けします!! 限定商品・オリジナル特典付き商品など盛りだくさん✨",
+			"url": "https://t.co/I4mTrccNmu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I4mTrccNmu",
+							"expanded_url": "https://shop.mu-mo.net/",
+							"display_url": "shop.mu-mo.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29444,
+			"friends_count": 14615,
+			"listed_count": 181,
+			"created_at": "Tue Jun 08 04:54:32 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333579062069977089/YMUjdDYe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333579062069977089/YMUjdDYe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153292780/1606785000",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FF5890",
+			"profile_sidebar_fill_color": "FFE4EC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 324,
+		"favorite_count": 1049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#aespa】\n💙⭐新特典付きで販売決定🌙🦋\nThe 2nd Mini Album 『Girls』 \n\n🎁mu-mo SHOP限定新特典🎁\nオリジナルトレカB ＆ 選べる抽選特典メンバー別サイン入りチェキorメンバー別VIDEO CALL EVENT！\nトレカBは新たなセルフィ―絵柄です🙌\n\n🛒https://t.co/7d0vkTSqmm\n\n#æspa #에스파 #エスパ #Girls https://t.co/vmN3kxZQ8x"
+	},
+	{
+		"created_at": "Wed Jul 13 04:40:28 +0000 2022",
+		"id": 1545612569419083800,
+		"id_str": "1547078482647289856",
+		"full_text": "💙#aespa🦋\n\n2ndミニアルバム\n『#Girls』でカムバック！⛰🦩🌷\n\nパワフルなタイトル曲をはじめ、\n多彩なジャンルの全9曲が収録！🎧\n\nさらに、#LINEMUSIC 限定\nオリジナルクリアファイルセットが当たるよ❣️\n🔗https://t.co/p6hfQgu94p\n\n@aespaJPofficial @aespa_official\n#æspa #エスパ #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "LINEMUSIC",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespaJPofficial",
+					"name": "aespa JAPAN OFFICIAL",
+					"id": 1518523440814198800,
+					"id_str": "1518523440814198785",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						158,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p6hfQgu94p",
+					"expanded_url": "https://lin.ee/Eeu5HQH/lnms",
+					"display_url": "lin.ee/Eeu5HQH/lnms",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "音楽ストリーミングサービス #LINEMUSIC💚音楽も対象LINEスタンプも聴き放題&使い放題！まずは無料体験📱👉https://t.co/iCSxGie9i0",
+			"url": "https://t.co/enu5XQ5HD0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/enu5XQ5HD0",
+							"expanded_url": "https://music.line.me/about/",
+							"display_url": "music.line.me/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iCSxGie9i0",
+							"expanded_url": "https://lin.ee/fZE43sF/lnms",
+							"display_url": "lin.ee/fZE43sF/lnms",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262920,
+			"friends_count": 194,
+			"listed_count": 484,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 3577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1652432407",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💙#aespa🦋\n\n2ndミニアルバム\n『#Girls』でカムバック！⛰🦩🌷\n\nパワフルなタイトル曲をはじめ、\n多彩なジャンルの全9曲が収録！🎧\n\nさらに、#LINEMUSIC 限定\nオリジナルクリアファイルセットが当たるよ❣️\n🔗https://t.co/p6hfQgu94p\n\n@aespaJPofficial @aespa_official\n#æspa #エスパ #aespa_Girls"
+	},
+	{
+		"created_at": "Wed Jul 13 04:40:23 +0000 2022",
+		"id": 1545256364741640200,
+		"id_str": "1547078461055025152",
+		"full_text": "#aespa The 2nd Mini Album『#Girls』配信開始🦋🪐🌟\n\n初の英語シングルを含む豪華な最新ミニアルバム💙🌙\n流行を生み出し続ける彼女たちの新しい活躍がより一層楽しみになる作品です🥺🎀💗\n\nAWAに届いた可愛いコメントも必見😍💖\n#æspa #에스파 #エスパ @aespaJPofficial\n🎧https://t.co/wsHbFxKHSR https://t.co/WKahO1w9XM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespaJPofficial",
+					"name": "aespa JAPAN OFFICIAL",
+					"id": 1518523440814198800,
+					"id_str": "1518523440814198785",
+					"indices": [
+						143,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wsHbFxKHSR",
+					"expanded_url": "https://mf.awa.fm/3NLt8qN",
+					"display_url": "mf.awa.fm/3NLt8qN",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544581377794113500,
+					"id_str": "1544581377794113537",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHO3rMUIAAZ2qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHO3rMUIAAZ2qf.jpg",
+					"url": "https://t.co/WKahO1w9XM",
+					"display_url": "pic.twitter.com/WKahO1w9XM",
+					"expanded_url": "https://twitter.com/AWA_official/status/1545256364741640192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544581377794113500,
+					"id_str": "1544581377794113537",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHO3rMUIAAZ2qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHO3rMUIAAZ2qf.jpg",
+					"url": "https://t.co/WKahO1w9XM",
+					"display_url": "pic.twitter.com/WKahO1w9XM",
+					"expanded_url": "https://twitter.com/AWA_official/status/1545256364741640192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28278,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544581377794113537/vid/480x270/kGA-T7LUemqArmMK.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544581377794113537/vid/1280x720/Ar-FbWoBLRKycMow.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544581377794113537/pl/Vf7kTAY6urJnOlXx.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544581377794113537/vid/640x360/PpqzRwSzA8k9_D1U.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "aespa『Girls - The 2nd Mini Album』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/3NLt8qN"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195773,
+			"friends_count": 365,
+			"listed_count": 462,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 172483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 1257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#aespa The 2nd Mini Album『#Girls』配信開始🦋🪐🌟\n\n初の英語シングルを含む豪華な最新ミニアルバム💙🌙\n流行を生み出し続ける彼女たちの新しい活躍がより一層楽しみになる作品です🥺🎀💗\n\nAWAに届いた可愛いコメントも必見😍💖\n#æspa #에스파 #エスパ @aespaJPofficial\n🎧https://t.co/wsHbFxKHSR https://t.co/WKahO1w9XM"
+	},
+	{
+		"created_at": "Wed Jul 13 04:40:13 +0000 2022",
+		"id": 1545258806443384800,
+		"id_str": "1547078422731661312",
+		"full_text": "⋱💙⭐️#aespa🌙🦋⋰\n2ndミニアルバム『#Girls』配信開始✨\n🎧https://t.co/rnPXchcntT\n\nプレイリスト #KPOPNOW には #KARINA からのボイスコメントも！▶️https://t.co/J23aQyTCBk\n\nBlack Mambaに立ち向かうためKWANGYAに集った4人🐍闘いの行く末とは...🤔(?)\n#æspa @aespa_official @aespaJPofficial https://t.co/iSYtn7tsL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "KPOPNOW",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						184,
+						199
+					]
+				},
+				{
+					"screen_name": "aespaJPofficial",
+					"name": "aespa JAPAN OFFICIAL",
+					"id": 1518523440814198800,
+					"id_str": "1518523440814198785",
+					"indices": [
+						200,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rnPXchcntT",
+					"expanded_url": "https://amzn.to/3aiWv6d",
+					"display_url": "amzn.to/3aiWv6d",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/J23aQyTCBk",
+					"expanded_url": "https://amzn.to/3ut2DQ3",
+					"display_url": "amzn.to/3ut2DQ3",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1545256937310527500,
+					"id_str": "1545256937310527490",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHcwU3agAE40pN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHcwU3agAE40pN.jpg",
+					"url": "https://t.co/iSYtn7tsL2",
+					"display_url": "pic.twitter.com/iSYtn7tsL2",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1545258806443384832/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545256937310527500,
+					"id_str": "1545256937310527490",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FXHcwU3agAE40pN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXHcwU3agAE40pN.jpg",
+					"url": "https://t.co/iSYtn7tsL2",
+					"display_url": "pic.twitter.com/iSYtn7tsL2",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1545258806443384832/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27293,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545256937310527490/vid/640x360/cDp_TGzSZZX26v8j.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545256937310527490/vid/480x270/x5UatATahcJnH41_.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1545256937310527490/vid/1280x720/HVLO973VVd7jNSOu.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1545256937310527490/pl/aBix1fyEz8Vx2ync.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/7OrQKXIK8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7OrQKXIK8g",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172319,
+			"friends_count": 2332,
+			"listed_count": 535,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1634720558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 577,
+		"favorite_count": 1614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "⋱💙⭐️#aespa🌙🦋⋰\n2ndミニアルバム『#Girls』配信開始✨\n🎧https://t.co/rnPXchcntT\n\nプレイリスト #KPOPNOW には #KARINA からのボイスコメントも！▶️https://t.co/J23aQyTCBk\n\nBlack Mambaに立ち向かうためKWANGYAに集った4人🐍闘いの行く末とは...🤔(?)\n#æspa @aespa_official @aespaJPofficial https://t.co/iSYtn7tsL2"
+	},
+	{
 		"created_at": "Wed Jul 13 03:40:18 +0000 2022",
 		"id": 1547060420011167700,
 		"id_str": "1547063343042760706",
