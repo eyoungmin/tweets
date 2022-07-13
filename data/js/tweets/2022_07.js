@@ -1,6 +1,771 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 20:40:30 +0000 2022",
+		"id": 1547310645795700700,
+		"id_str": "1547320085383200769",
+		"full_text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from NINGNING🦋\n\nhttps://t.co/HIhVbBnB6u \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/qdbQgxojmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HIhVbBnB6u",
+					"expanded_url": "https://aespa.lnk.to/NINGNINGSVER",
+					"display_url": "aespa.lnk.to/NINGNINGSVER",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547092948223168500,
+					"id_str": "1547092948223168512",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpZYqakAE8zVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpZYqakAE8zVJ.jpg",
+					"url": "https://t.co/qdbQgxojmg",
+					"display_url": "pic.twitter.com/qdbQgxojmg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310645795700736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547092948223168500,
+					"id_str": "1547092948223168512",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpZYqakAE8zVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpZYqakAE8zVJ.jpg",
+					"url": "https://t.co/qdbQgxojmg",
+					"display_url": "pic.twitter.com/qdbQgxojmg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310645795700736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18666,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092948223168512/vid/540x540/NJrozDohIKkNTQ34.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092948223168512/vid/720x720/Bd-XN7ihCzs8HcsL.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547092948223168512/pl/NfDZl-sGwGh29G-G.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092948223168512/vid/320x320/9JjiVDYwbOi4qGw_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2930327,
+			"friends_count": 2,
+			"listed_count": 8991,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 728,
+		"favorite_count": 3005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from NINGNING🦋\n\nhttps://t.co/HIhVbBnB6u \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/qdbQgxojmg"
+	},
+	{
+		"created_at": "Wed Jul 13 20:40:23 +0000 2022",
+		"id": 1547310394317738000,
+		"id_str": "1547320055494582273",
+		"full_text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from WINTER⭐️\n\nhttps://t.co/GDpVmZvzNW \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/QWAXqywqSg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GDpVmZvzNW",
+					"expanded_url": "https://aespa.lnk.to/WINTERSVER",
+					"display_url": "aespa.lnk.to/WINTERSVER",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547092930359603200,
+					"id_str": "1547092930359603201",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpclWagAIg-6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpclWagAIg-6x.jpg",
+					"url": "https://t.co/QWAXqywqSg",
+					"display_url": "pic.twitter.com/QWAXqywqSg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310394317737984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547092930359603200,
+					"id_str": "1547092930359603201",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpclWagAIg-6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpclWagAIg-6x.jpg",
+					"url": "https://t.co/QWAXqywqSg",
+					"display_url": "pic.twitter.com/QWAXqywqSg",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310394317737984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18666,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092930359603201/vid/720x720/zEgNf1LIib8trpI6.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092930359603201/vid/540x540/vZW0p5QOwuYkMpOo.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092930359603201/vid/320x320/CUwCP2QIXGL553Sd.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547092930359603201/pl/Nrszj-EqHhaEIQi6.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2930327,
+			"friends_count": 2,
+			"listed_count": 8991,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 2774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from WINTER⭐️\n\nhttps://t.co/GDpVmZvzNW \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/QWAXqywqSg"
+	},
+	{
+		"created_at": "Wed Jul 13 20:40:14 +0000 2022",
+		"id": 1547310142634565600,
+		"id_str": "1547320017213079556",
+		"full_text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from GISELLE🌙\n\nhttps://t.co/4sw3ntvM7c \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/FVcUrDvgDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4sw3ntvM7c",
+					"expanded_url": "https://aespa.lnk.to/GISELLESVER",
+					"display_url": "aespa.lnk.to/GISELLESVER",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547092909602009000,
+					"id_str": "1547092909602009091",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpfSSacAAYY9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpfSSacAAYY9v.jpg",
+					"url": "https://t.co/FVcUrDvgDd",
+					"display_url": "pic.twitter.com/FVcUrDvgDd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310142634565632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547092909602009000,
+					"id_str": "1547092909602009091",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FXhpfSSacAAYY9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXhpfSSacAAYY9v.jpg",
+					"url": "https://t.co/FVcUrDvgDd",
+					"display_url": "pic.twitter.com/FVcUrDvgDd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547310142634565632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18666,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092909602009091/vid/320x320/XWx6MMhZ_y6EPm5j.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547092909602009091/pl/zJF9Wj-Jyj17ASgC.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092909602009091/vid/720x720/S3PzFalnLuV8Z2PY.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547092909602009091/vid/540x540/DcZB68I1eWik4dGo.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2930327,
+			"friends_count": 2,
+			"listed_count": 8991,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 671,
+		"favorite_count": 2584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special versions of 'Girls - The 2nd Mini' album are now available, featuring a message from GISELLE🌙\n\nhttps://t.co/4sw3ntvM7c \n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/FVcUrDvgDd"
+	},
+	{
 		"created_at": "Wed Jul 13 18:40:10 +0000 2022",
 		"id": 1547279692977213400,
 		"id_str": "1547289799555530756",
