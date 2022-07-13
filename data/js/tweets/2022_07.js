@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 07:55:28 +0000 2022",
+		"id": 1547121252330274800,
+		"id_str": "1547127557878730752",
+		"full_text": "[#NEWS] '징크스의 연인' 서현X나인우, 불편한 만남→날 선 대치\n▶ https://t.co/r0SwG1lmCV\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/Ig04VDn58p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r0SwG1lmCV",
+					"expanded_url": "https://naver.me/x9LlUoup",
+					"display_url": "naver.me/x9LlUoup",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547121243429937200,
+					"id_str": "1547121243429937158",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh6kusaIAYEc2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh6kusaIAYEc2Y.jpg",
+					"url": "https://t.co/Ig04VDn58p",
+					"display_url": "pic.twitter.com/Ig04VDn58p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547121252330274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547121243429937200,
+					"id_str": "1547121243429937158",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh6kusaIAYEc2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh6kusaIAYEc2Y.jpg",
+					"url": "https://t.co/Ig04VDn58p",
+					"display_url": "pic.twitter.com/Ig04VDn58p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547121252330274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547121243434139600,
+					"id_str": "1547121243434139650",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh6kutaQAIVYMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh6kutaQAIVYMk.jpg",
+					"url": "https://t.co/Ig04VDn58p",
+					"display_url": "pic.twitter.com/Ig04VDn58p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547121252330274816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61390,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현X나인우, 불편한 만남→날 선 대치\n▶ https://t.co/r0SwG1lmCV\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/Ig04VDn58p"
+	},
+	{
+		"created_at": "Wed Jul 13 07:39:49 +0000 2022",
+		"id": 1547117897796857900,
+		"id_str": "1547123617212686336",
+		"full_text": "New Plant Behind💥\n⠀\nThe Volunteers의 'New Plant' 비하인드가 블루바이닐 네이버포스트에 공개되었습니다. 곡의 스토리와 미공개컷들을 지금 바로 확인하세요! \n⠀\nhttps://t.co/YDzw528AYk\n⠀\n#thevolunteers #tvt #newplant https://t.co/w5DD6e8hpV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "newplant",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDzw528AYk",
+					"expanded_url": "https://naver.me/GC6jDf2X",
+					"display_url": "naver.me/GC6jDf2X",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547117890595614700,
+					"id_str": "1547117890595614720",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh3hkaacAAv_vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh3hkaacAAv_vh.jpg",
+					"url": "https://t.co/w5DD6e8hpV",
+					"display_url": "pic.twitter.com/w5DD6e8hpV",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1547117897796857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547117890595614700,
+					"id_str": "1547117890595614720",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh3hkaacAAv_vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh3hkaacAAv_vh.jpg",
+					"url": "https://t.co/w5DD6e8hpV",
+					"display_url": "pic.twitter.com/w5DD6e8hpV",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1547117897796857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547117891149267000,
+					"id_str": "1547117891149266945",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh3hmeagAE-fsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh3hmeagAE-fsr.jpg",
+					"url": "https://t.co/w5DD6e8hpV",
+					"display_url": "pic.twitter.com/w5DD6e8hpV",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1547117897796857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547117891879075800,
+					"id_str": "1547117891879075840",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh3hpMagAASFkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh3hpMagAASFkU.jpg",
+					"url": "https://t.co/w5DD6e8hpV",
+					"display_url": "pic.twitter.com/w5DD6e8hpV",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1547117897796857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547117892348821500,
+					"id_str": "1547117892348821504",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXh3hq8aQAAhZM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXh3hq8aQAAhZM3.jpg",
+					"url": "https://t.co/w5DD6e8hpV",
+					"display_url": "pic.twitter.com/w5DD6e8hpV",
+					"expanded_url": "https://twitter.com/_bvofficial/status/1547117897796857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1363697702358319000,
+			"id_str": "1363697702358319104",
+			"name": "Blue Vinyl",
+			"screen_name": "_bvofficial",
+			"location": "",
+			"description": "#BlueVinyl Official Twitter",
+			"url": "https://t.co/4lUZ4D6lPo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lUZ4D6lPo",
+							"expanded_url": "http://www.instagram.com/bluevinyl.official",
+							"display_url": "instagram.com/bluevinyl.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4970,
+			"friends_count": 2,
+			"listed_count": 34,
+			"created_at": "Mon Feb 22 03:51:40 +0000 2021",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363698403293626368/ifRpWMAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1363697702358319104/1613966193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "New Plant Behind💥\n⠀\nThe Volunteers의 'New Plant' 비하인드가 블루바이닐 네이버포스트에 공개되었습니다. 곡의 스토리와 미공개컷들을 지금 바로 확인하세요! \n⠀\nhttps://t.co/YDzw528AYk\n⠀\n#thevolunteers #tvt #newplant https://t.co/w5DD6e8hpV"
+	},
+	{
 		"created_at": "Wed Jul 13 05:40:14 +0000 2022",
 		"id": 1547082314685247500,
 		"id_str": "1547093523492634624",
