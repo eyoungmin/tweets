@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 10:40:27 +0000 2022",
+		"id": 1547162296463540200,
+		"id_str": "1547169075259908096",
+		"full_text": "Tune in! We're going live on @BBCRadio2 with @thisissigrid at Maida Vale Studios for a brand new Piano Room session 🤩 https://t.co/xYwq734N15",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCRadio2",
+					"name": "BBC Radio 2",
+					"id": 798277,
+					"id_str": "798277",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xYwq734N15",
+					"expanded_url": "https://twitter.com/BBCRadio2/status/1547145631277502464",
+					"display_url": "twitter.com/BBCRadio2/stat…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137637703,
+			"id_str": "137637703",
+			"name": "BBC Concert Orchestra",
+			"screen_name": "BBCCO",
+			"location": "London, UK",
+			"description": "BBC Concert Orchestra: serious musicians with a sense of humour.",
+			"url": "https://t.co/ISA0l8b0YI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ISA0l8b0YI",
+							"expanded_url": "https://www.bbc.co.uk/concertorchestra",
+							"display_url": "bbc.co.uk/concertorchest…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40996,
+			"friends_count": 724,
+			"listed_count": 507,
+			"created_at": "Tue Apr 27 09:10:09 +0000 2010",
+			"favourites_count": 4120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075706562025533441/B1Okzfge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075706562025533441/B1Okzfge_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137637703/1545302937",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547145631277502500,
+		"quoted_status_id_str": "1547145631277502464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xYwq734N15",
+			"expanded": "https://twitter.com/BBCRadio2/status/1547145631277502464",
+			"display": "twitter.com/BBCRadio2/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 13 09:07:17 +0000 2022",
+			"id": 1547145631277502500,
+			"id_str": "1547145631277502464",
+			"full_text": "🧡 @RealKenBruce is live from the legendary Maida Vale studios today for @thisissigrid in the piano room! \n\nListen live 🎧 https://t.co/eNy7OlPr6D https://t.co/7Vy8DZEo2E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RealKenBruce",
+						"name": "Ken Bruce",
+						"id": 425860297,
+						"id_str": "425860297",
+						"indices": [
+							2,
+							15
+						]
+					},
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							72,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eNy7OlPr6D",
+						"expanded_url": "http://bbc.in/2FaLzXW",
+						"display_url": "bbc.in/2FaLzXW",
+						"indices": [
+							121,
+							144
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1547145257602744300,
+						"id_str": "1547145257602744321",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/FXiQaidXgAEFZkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXiQaidXgAEFZkR.jpg",
+						"url": "https://t.co/7Vy8DZEo2E",
+						"display_url": "pic.twitter.com/7Vy8DZEo2E",
+						"expanded_url": "https://twitter.com/BBCRadio2/status/1547145631277502464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547145257602744300,
+						"id_str": "1547145257602744321",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/FXiQaidXgAEFZkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXiQaidXgAEFZkR.jpg",
+						"url": "https://t.co/7Vy8DZEo2E",
+						"display_url": "pic.twitter.com/7Vy8DZEo2E",
+						"expanded_url": "https://twitter.com/BBCRadio2/status/1547145631277502464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798277,
+				"id_str": "798277",
+				"name": "BBC Radio 2",
+				"screen_name": "BBCRadio2",
+				"location": "Across the UK",
+				"description": "✨ The world’s biggest stars on the UK's most listened to radio station\n\n🔊 Listen on @bbcsounds",
+				"url": "https://t.co/fy74iLTZmg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fy74iLTZmg",
+								"expanded_url": "http://www.bbc.co.uk/radio2",
+								"display_url": "bbc.co.uk/radio2",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738040,
+				"friends_count": 7605,
+				"listed_count": 2647,
+				"created_at": "Tue Feb 27 15:02:10 +0000 2007",
+				"favourites_count": 37075,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85521,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E69F12",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1503846380204347404/q8IOVYCv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503846380204347404/q8IOVYCv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798277/1647364742",
+				"profile_link_color": "EC7A08",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFC294",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tune in! We're going live on @BBCRadio2 with @thisissigrid at Maida Vale Studios for a brand new Piano Room session 🤩 https://t.co/xYwq734N15"
+	},
+	{
+		"created_at": "Wed Jul 13 10:40:19 +0000 2022",
+		"id": 1547164298308333600,
+		"id_str": "1547169041093197824",
+		"full_text": "UN 🇺🇳\n\n#aespa #HLPF #SDGs #GlobalGoals\n@UNECOSOC https://t.co/Nfuou4D7NI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "HLPF",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "SDGs",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNECOSOC",
+					"name": "UN ECOSOC President",
+					"id": 504914052,
+					"id_str": "504914052",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547164278029189000,
+					"id_str": "1547164278029189122",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXihtrEagAIXf-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXihtrEagAIXf-W.jpg",
+					"url": "https://t.co/Nfuou4D7NI",
+					"display_url": "pic.twitter.com/Nfuou4D7NI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547164298308333568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547164278029189000,
+					"id_str": "1547164278029189122",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FXihtrEagAIXf-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXihtrEagAIXf-W.jpg",
+					"url": "https://t.co/Nfuou4D7NI",
+					"display_url": "pic.twitter.com/Nfuou4D7NI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547164298308333568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2927625,
+			"friends_count": 2,
+			"listed_count": 8989,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6876,
+		"favorite_count": 20860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "UN 🇺🇳\n\n#aespa #HLPF #SDGs #GlobalGoals\n@UNECOSOC https://t.co/Nfuou4D7NI"
+	},
+	{
+		"created_at": "Wed Jul 13 10:40:15 +0000 2022",
+		"id": 1547164069299249200,
+		"id_str": "1547169028069883904",
+		"full_text": "[당첨확인] 7/14일 CHUNG HA 청하 엠카운트다운 생방송 당첨자 안내\n\n자세한 내용은 청하 공식 팬카페에서 확인 부탁드립니다.\n\n감사합니다.\n\n☕️ https://t.co/Asg8A6B0Et\n\n#청하 #CHUNGHA\n#CHUNGHA_BareRare #CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						125,
+						142
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						143,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Asg8A6B0Et",
+					"expanded_url": "http://asq.kr/YVZOQOfk8U",
+					"display_url": "asq.kr/YVZOQOfk8U",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352314,
+			"friends_count": 1,
+			"listed_count": 2166,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[당첨확인] 7/14일 CHUNG HA 청하 엠카운트다운 생방송 당첨자 안내\n\n자세한 내용은 청하 공식 팬카페에서 확인 부탁드립니다.\n\n감사합니다.\n\n☕️ https://t.co/Asg8A6B0Et\n\n#청하 #CHUNGHA\n#CHUNGHA_BareRare #CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Wed Jul 13 10:40:12 +0000 2022",
+		"id": 1547163547288752000,
+		"id_str": "1547169015000403969",
+		"full_text": "[당첨확인] 7/14일 CHUNG HA 청하 엠카운트다운 사전녹화 당첨자 안내\n\n자세한 내용은 청하 공식 팬카페에서 확인 부탁드립니다.\n\n감사합니다.\n\n☕️ https://t.co/rFPV24gsYX\n\n#청하 #CHUNGHA\n#CHUNGHA_BareRare #CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						126,
+						143
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						144,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rFPV24gsYX",
+					"expanded_url": "http://asq.kr/ZRX3nDI2o",
+					"display_url": "asq.kr/ZRX3nDI2o",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352314,
+			"friends_count": 1,
+			"listed_count": 2166,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[당첨확인] 7/14일 CHUNG HA 청하 엠카운트다운 사전녹화 당첨자 안내\n\n자세한 내용은 청하 공식 팬카페에서 확인 부탁드립니다.\n\n감사합니다.\n\n☕️ https://t.co/rFPV24gsYX\n\n#청하 #CHUNGHA\n#CHUNGHA_BareRare #CHUNGHA_Sparkling"
+	},
+	{
 		"created_at": "Wed Jul 13 09:40:40 +0000 2022",
 		"id": 1547150718653845500,
 		"id_str": "1547154033047134209",
@@ -1197,7 +2024,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Wed Jul 13 09:29:38 +0000 2022",
 		"id": 1547143809288482800,
 		"id_str": "1547151256136912897",
-		"full_text": "천재 사기꾼🙅‍ 얼굴 천재🙆‍\n하루아침에 누명을 뒤집어쓴 박창호😮\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/CkqME55ahS",
+		"full_text": "천재 사기꾼🙅 얼굴 천재🙆\n하루아침에 누명을 뒤집어쓴 박창호😮\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/CkqME55ahS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1524,7 +2351,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "천재 사기꾼🙅‍ 얼굴 천재🙆‍\n하루아침에 누명을 뒤집어쓴 박창호😮\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/CkqME55ahS"
+		"text": "천재 사기꾼🙅 얼굴 천재🙆\n하루아침에 누명을 뒤집어쓴 박창호😮\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/CkqME55ahS"
 	},
 	{
 		"created_at": "Wed Jul 13 09:18:27 +0000 2022",
