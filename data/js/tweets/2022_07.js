@@ -1,10 +1,407 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 13:40:24 +0000 2022",
+		"id": 1547575059060953000,
+		"id_str": "1547576749692633088",
+		"full_text": "방탄소년단 본 썰 푼다 https://t.co/oogCkuMh8a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547575051213762600,
+					"id_str": "1547575051213762560",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FXoXT0bacAASbLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXoXT0bacAASbLP.jpg",
+					"url": "https://t.co/oogCkuMh8a",
+					"display_url": "pic.twitter.com/oogCkuMh8a",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1547575059060953089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547575051213762600,
+					"id_str": "1547575051213762560",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FXoXT0bacAASbLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXoXT0bacAASbLP.jpg",
+					"url": "https://t.co/oogCkuMh8a",
+					"display_url": "pic.twitter.com/oogCkuMh8a",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1547575059060953089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66963,
+			"friends_count": 3,
+			"listed_count": 173,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37180,
+		"favorite_count": 79460,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단 본 썰 푼다 https://t.co/oogCkuMh8a"
+	},
+	{
+		"created_at": "Thu Jul 14 13:40:19 +0000 2022",
+		"id": 1547566818390249500,
+		"id_str": "1547576727857115138",
+		"full_text": "aespa 에스파 'Girls' Jacket Behind The Scenes\n\nhttps://t.co/3ime9Wkm2V\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Jacket #Behind https://t.co/IVF1namC3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ime9Wkm2V",
+					"expanded_url": "https://youtu.be/zfmtaMvbgvA",
+					"display_url": "youtu.be/zfmtaMvbgvA",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547566811310620700,
+					"id_str": "1547566811310620672",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FXoP0MZagAAEPRY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXoP0MZagAAEPRY.jpg",
+					"url": "https://t.co/IVF1namC3P",
+					"display_url": "pic.twitter.com/IVF1namC3P",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547566818390249474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547566811310620700,
+					"id_str": "1547566811310620672",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FXoP0MZagAAEPRY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXoP0MZagAAEPRY.jpg",
+					"url": "https://t.co/IVF1namC3P",
+					"display_url": "pic.twitter.com/IVF1namC3P",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547566818390249474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2934607,
+			"friends_count": 2,
+			"listed_count": 8999,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6033,
+		"favorite_count": 17266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Girls' Jacket Behind The Scenes\n\nhttps://t.co/3ime9Wkm2V\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Jacket #Behind https://t.co/IVF1namC3P"
+	},
+	{
 		"created_at": "Thu Jul 14 11:40:23 +0000 2022",
 		"id": 1547526325262753800,
 		"id_str": "1547546545553375236",
-		"full_text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇‍♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf",
+		"full_text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -161,7 +558,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇‍♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf"
+		"text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf"
 	},
 	{
 		"created_at": "Thu Jul 14 11:40:20 +0000 2022",
