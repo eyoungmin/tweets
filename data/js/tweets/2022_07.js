@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 01:29:44 +0000 2022",
+		"id": 1547392090195513300,
+		"id_str": "1547392870646222848",
+		"full_text": "The Cover for 2022 August Issue of &lt;DAZED&gt; KOREA\n\n지코 #Zico\nIn #TiffanyAndCo #TiffanyHardWear #JeanSchlumberger #협찬\nWith #Dazedkorea \n\n#데이즈드 #지코 #티파니\n\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/APVUYpoQYD)를 통해서 구입이 가능합니다. https://t.co/I4UYHM5vCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Zico",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "TiffanyHardWear",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"text": "JeanSchlumberger",
+					"indices": [
+						99,
+						116
+					]
+				},
+				{
+					"text": "협찬",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "Dazedkorea",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						150,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/APVUYpoQYD",
+					"expanded_url": "http://dazedkorea.com",
+					"display_url": "dazedkorea.com",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547392084717731800,
+					"id_str": "1547392084717731846",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlw5xHaAAYhGKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlw5xHaAAYhGKp.jpg",
+					"url": "https://t.co/I4UYHM5vCu",
+					"display_url": "pic.twitter.com/I4UYHM5vCu",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1547392090195513344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547392084717731800,
+					"id_str": "1547392084717731846",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlw5xHaAAYhGKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlw5xHaAAYhGKp.jpg",
+					"url": "https://t.co/I4UYHM5vCu",
+					"display_url": "pic.twitter.com/I4UYHM5vCu",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1547392090195513344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167336,
+			"friends_count": 0,
+			"listed_count": 331,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1657180475",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The Cover for 2022 August Issue of &lt;DAZED&gt; KOREA\n\n지코 #Zico\nIn #TiffanyAndCo #TiffanyHardWear #JeanSchlumberger #협찬\nWith #Dazedkorea \n\n#데이즈드 #지코 #티파니\n\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/APVUYpoQYD)를 통해서 구입이 가능합니다. https://t.co/I4UYHM5vCu"
+	},
+	{
+		"created_at": "Thu Jul 14 01:29:41 +0000 2022",
+		"id": 1547387146658451500,
+		"id_str": "1547392857593581568",
+		"full_text": "떡진 머리+심드렁한 표정!😏\n\n환자의 마지막 소원을 들어주는\n‘팀 지니’의 리더 강태식으로 변신!✨\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/N7mxhNhfvG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						174,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547387076257017900,
+					"id_str": "1547387076257017856",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlsWPJUcAARcuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlsWPJUcAARcuW.jpg",
+					"url": "https://t.co/N7mxhNhfvG",
+					"display_url": "pic.twitter.com/N7mxhNhfvG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547387146658451456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547387076257017900,
+					"id_str": "1547387076257017856",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlsWPJUcAARcuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlsWPJUcAARcuW.jpg",
+					"url": "https://t.co/N7mxhNhfvG",
+					"display_url": "pic.twitter.com/N7mxhNhfvG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547387146658451456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547387092463849500,
+					"id_str": "1547387092463849472",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlsXLhVEAAhPqD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlsXLhVEAAhPqD.jpg",
+					"url": "https://t.co/N7mxhNhfvG",
+					"display_url": "pic.twitter.com/N7mxhNhfvG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547387146658451456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547387106271449000,
+					"id_str": "1547387106271449089",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlsX-9UUAE6mWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlsX-9UUAE6mWs.jpg",
+					"url": "https://t.co/N7mxhNhfvG",
+					"display_url": "pic.twitter.com/N7mxhNhfvG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547387146658451456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106293,
+			"friends_count": 56793,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "떡진 머리+심드렁한 표정!😏\n\n환자의 마지막 소원을 들어주는\n‘팀 지니’의 리더 강태식으로 변신!✨\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/N7mxhNhfvG"
+	},
+	{
 		"created_at": "Thu Jul 14 00:40:10 +0000 2022",
 		"id": 1547357355968319500,
 		"id_str": "1547380397134303232",
