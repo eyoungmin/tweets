@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 21:40:17 +0000 2022",
+		"id": 1547695722501247000,
+		"id_str": "1547697517218779136",
+		"full_text": "📣 #CHUNGHA #청하\n\n220715 KBS 뮤직뱅크 인증 완료 되신 사전녹화참여자 분들은 이 곳으로 아래 시간까지 모여주시기 바랍니다. 시간 변동 체크 바랍니다.\n\n✔️ 입장시간 : 6:35 AM 예정\n✔️ 사전녹화 : 7AM\n\n#뮤뱅 #뮤직뱅크 #KBS\n#BareRare #Sparkling https://t.co/SvdIkjclZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "뮤뱅",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547695705862467600,
+					"id_str": "1547695705862467585",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FXqFC2BUcAEkauW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXqFC2BUcAEkauW.jpg",
+					"url": "https://t.co/SvdIkjclZk",
+					"display_url": "pic.twitter.com/SvdIkjclZk",
+					"expanded_url": "https://twitter.com/MNH_STAFF/status/1547695722501246977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1784,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547695705862467600,
+					"id_str": "1547695705862467585",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FXqFC2BUcAEkauW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXqFC2BUcAEkauW.jpg",
+					"url": "https://t.co/SvdIkjclZk",
+					"display_url": "pic.twitter.com/SvdIkjclZk",
+					"expanded_url": "https://twitter.com/MNH_STAFF/status/1547695722501246977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1784,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831061786191360000,
+			"id_str": "831061786191360002",
+			"name": "MNH_STAFF",
+			"screen_name": "MNH_STAFF",
+			"location": "",
+			"description": "MNH entertainment official FAN STAFF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 1,
+			"listed_count": 35,
+			"created_at": "Mon Feb 13 08:45:45 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 #CHUNGHA #청하\n\n220715 KBS 뮤직뱅크 인증 완료 되신 사전녹화참여자 분들은 이 곳으로 아래 시간까지 모여주시기 바랍니다. 시간 변동 체크 바랍니다.\n\n✔️ 입장시간 : 6:35 AM 예정\n✔️ 사전녹화 : 7AM\n\n#뮤뱅 #뮤직뱅크 #KBS\n#BareRare #Sparkling https://t.co/SvdIkjclZk"
+	},
+	{
 		"created_at": "Thu Jul 14 18:40:10 +0000 2022",
 		"id": 1547640722467172400,
 		"id_str": "1547652188599566336",
