@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 03:40:24 +0000 2022",
+		"id": 1547415762201383000,
+		"id_str": "1547425753805070337",
+		"full_text": "aespa’s ‘Girls’ ranks first in K-pop girl group album first week sales! In the first week, they sold 1.42M album copies, becoming a ‘million seller’ and setting the first and highest daily record!\n\nhttps://t.co/aHDdfeqAqB\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						236,
+						240
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						249,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aHDdfeqAqB",
+					"expanded_url": "https://bit.ly/3Ry4EUL",
+					"display_url": "bit.ly/3Ry4EUL",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1547415759160512500,
+		"in_reply_to_status_id_str": "1547415759160512512",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2931396,
+			"friends_count": 2,
+			"listed_count": 8993,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1734,
+		"favorite_count": 5189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa’s ‘Girls’ ranks first in K-pop girl group album first week sales! In the first week, they sold 1.42M album copies, becoming a ‘million seller’ and setting the first and highest daily record!\n\nhttps://t.co/aHDdfeqAqB\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Thu Jul 14 03:40:20 +0000 2022",
+		"id": 1547415759160512500,
+		"id_str": "1547425736549666822",
+		"full_text": "에스파 ‘Girls’, 역대 걸그룹 초동 1위 기염!\n발매 첫 주 음반 판매량 142만 장 돌파+밀리언셀러 등극! 최초→최고 연일 기록 행진!\n\nhttps://t.co/aHDdfeqAqB\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/YHeTnMgyPb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aHDdfeqAqB",
+					"expanded_url": "https://bit.ly/3Ry4EUL",
+					"display_url": "bit.ly/3Ry4EUL",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547415735638855700,
+					"id_str": "1547415735638855680",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmGabqakAAhJb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmGabqakAAhJb_.jpg",
+					"url": "https://t.co/YHeTnMgyPb",
+					"display_url": "pic.twitter.com/YHeTnMgyPb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547415759160512512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547415735638855700,
+					"id_str": "1547415735638855680",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FXmGabqakAAhJb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXmGabqakAAhJb_.jpg",
+					"url": "https://t.co/YHeTnMgyPb",
+					"display_url": "pic.twitter.com/YHeTnMgyPb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547415759160512512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2931396,
+			"friends_count": 2,
+			"listed_count": 8993,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3672,
+		"favorite_count": 13306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 ‘Girls’, 역대 걸그룹 초동 1위 기염!\n발매 첫 주 음반 판매량 142만 장 돌파+밀리언셀러 등극! 최초→최고 연일 기록 행진!\n\nhttps://t.co/aHDdfeqAqB\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/YHeTnMgyPb"
+	},
+	{
+		"created_at": "Thu Jul 14 03:40:15 +0000 2022",
+		"id": 1547415592298242000,
+		"id_str": "1547425719281766402",
+		"full_text": "[🎉]\n\naespaの日本公式LINEがオープンしました🤩🍀\n\nオープンを記念し、友達追加をした方対象に明日15日の18:00より『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が決定😽🎉\n\nぜひチェックしてくださいね🤍💫\n\nお友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/43HsW4UPLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ocf7Q7HstC",
+					"expanded_url": "https://lin.ee/l1ZqcDx",
+					"display_url": "lin.ee/l1ZqcDx",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547393448457543700,
+					"id_str": "1547393448457543681",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlyJJcUIAEyO8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlyJJcUIAEyO8u.jpg",
+					"url": "https://t.co/43HsW4UPLw",
+					"display_url": "pic.twitter.com/43HsW4UPLw",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547415592298242050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547393448457543700,
+					"id_str": "1547393448457543681",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlyJJcUIAEyO8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlyJJcUIAEyO8u.jpg",
+					"url": "https://t.co/43HsW4UPLw",
+					"display_url": "pic.twitter.com/43HsW4UPLw",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547415592298242050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169268,
+			"friends_count": 1,
+			"listed_count": 375,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 878,
+		"favorite_count": 3840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[🎉]\n\naespaの日本公式LINEがオープンしました🤩🍀\n\nオープンを記念し、友達追加をした方対象に明日15日の18:00より『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が決定😽🎉\n\nぜひチェックしてくださいね🤍💫\n\nお友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/43HsW4UPLw"
+	},
+	{
 		"created_at": "Thu Jul 14 02:40:10 +0000 2022",
 		"id": 1547310662698897400,
 		"id_str": "1547410595800137729",
