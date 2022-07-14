@@ -1,6 +1,807 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 08:40:29 +0000 2022",
+		"id": 1547498636560330800,
+		"id_str": "1547501273951490048",
+		"full_text": "[📺] @MnetMcountdown\nMnet '#엠카운트다운'에\n청하가 출연합니다!💚\n\n✔ PM 6:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						94,
+						111
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						112,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetMcountdown",
+					"name": "M COUNTDOWN",
+					"id": 128479879,
+					"id_str": "128479879",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352440,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] @MnetMcountdown\nMnet '#엠카운트다운'에\n청하가 출연합니다!💚\n\n✔ PM 6:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Thu Jul 14 08:40:24 +0000 2022",
+		"id": 1547493173055828000,
+		"id_str": "1547501252560523265",
+		"full_text": "aespa Takes The BFF Test\n\nhttps://t.co/VoazZFeLXQ\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#BFFTest https://t.co/5w6YUPZbHz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "BFFTest",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VoazZFeLXQ",
+					"expanded_url": "https://youtu.be/zgPkoFf3OCw",
+					"display_url": "youtu.be/zgPkoFf3OCw",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547493104436908000,
+					"id_str": "1547493104436908032",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnMx45UEAAMB3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnMx45UEAAMB3L.jpg",
+					"url": "https://t.co/5w6YUPZbHz",
+					"display_url": "pic.twitter.com/5w6YUPZbHz",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547493173055827969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547493104436908000,
+					"id_str": "1547493104436908032",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnMx45UEAAMB3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnMx45UEAAMB3L.jpg",
+					"url": "https://t.co/5w6YUPZbHz",
+					"display_url": "pic.twitter.com/5w6YUPZbHz",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547493173055827969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2932822,
+			"friends_count": 2,
+			"listed_count": 8994,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3486,
+		"favorite_count": 9994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa Takes The BFF Test\n\nhttps://t.co/VoazZFeLXQ\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#BFFTest https://t.co/5w6YUPZbHz"
+	},
+	{
+		"created_at": "Thu Jul 14 08:40:17 +0000 2022",
+		"id": 1547487524469506000,
+		"id_str": "1547501222734794753",
+		"full_text": "우리 #김앙드레\n똑똑하고 자기가 \n사람 막내인 줄 아는 응석대장. 엄마가 🤍 영원히 영원히 🤍 \n사랑해 털뭉치야. \n오래 살자 김 앙드레!! 🤍🤍🤍\n\n#앙마뻬 https://t.co/iiXpa94UB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김앙드레",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "앙마뻬",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547487511643312000,
+					"id_str": "1547487511643312128",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnHsWHaUAARhug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnHsWHaUAARhug.jpg",
+					"url": "https://t.co/iiXpa94UB3",
+					"display_url": "pic.twitter.com/iiXpa94UB3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1547487524469506048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547487511643312000,
+					"id_str": "1547487511643312128",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnHsWHaUAARhug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnHsWHaUAARhug.jpg",
+					"url": "https://t.co/iiXpa94UB3",
+					"display_url": "pic.twitter.com/iiXpa94UB3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1547487524469506048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274944,
+			"friends_count": 580,
+			"listed_count": 2772,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 #김앙드레\n똑똑하고 자기가 \n사람 막내인 줄 아는 응석대장. 엄마가 🤍 영원히 영원히 🤍 \n사랑해 털뭉치야. \n오래 살자 김 앙드레!! 🤍🤍🤍\n\n#앙마뻬 https://t.co/iiXpa94UB3"
+	},
+	{
+		"created_at": "Thu Jul 14 08:40:10 +0000 2022",
+		"id": 1547473203559223300,
+		"id_str": "1547501192879775744",
+		"full_text": "써머퀸 청하 여왕님,,👑 아니 그냥 청하가 여름이고 여름이 청하잖아,, 뉴스에서 올청하 무더위가 예상 된다고 하는 거 다들 들으셨져❔곧 청하방학도 오는데 Sparkling 들으면서 보냅시당✨🥤#청하 #Sparkling https://t.co/BCXy7xmqxd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547473188283891700,
+					"id_str": "1547473188283891712",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXm6qncaQAA_IBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXm6qncaQAA_IBU.jpg",
+					"url": "https://t.co/BCXy7xmqxd",
+					"display_url": "pic.twitter.com/BCXy7xmqxd",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1547473203559223297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547473188283891700,
+					"id_str": "1547473188283891712",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXm6qncaQAA_IBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXm6qncaQAA_IBU.jpg",
+					"url": "https://t.co/BCXy7xmqxd",
+					"display_url": "pic.twitter.com/BCXy7xmqxd",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1547473203559223297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547473188267131000,
+					"id_str": "1547473188267130881",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FXm6qnYagAE4ddE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXm6qnYagAE4ddE.jpg",
+					"url": "https://t.co/BCXy7xmqxd",
+					"display_url": "pic.twitter.com/BCXy7xmqxd",
+					"expanded_url": "https://twitter.com/MnetMcountdown/status/1547473203559223297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/gKJd4srK5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gKJd4srK5X",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3822755,
+			"friends_count": 0,
+			"listed_count": 4664,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1649328771",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 1403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "써머퀸 청하 여왕님,,👑 아니 그냥 청하가 여름이고 여름이 청하잖아,, 뉴스에서 올청하 무더위가 예상 된다고 하는 거 다들 들으셨져❔곧 청하방학도 오는데 Sparkling 들으면서 보냅시당✨🥤#청하 #Sparkling https://t.co/BCXy7xmqxd"
+	},
+	{
 		"created_at": "Thu Jul 14 07:55:39 +0000 2022",
 		"id": 1547486051429535700,
 		"id_str": "1547489992154365952",
