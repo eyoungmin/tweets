@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 09:40:25 +0000 2022",
+		"id": 1547513734574313500,
+		"id_str": "1547516356337324032",
+		"full_text": "[🎉]\n\nThank you so much!!\nAmazon Music💜\n \nShibuya💙🌙 Girls⭐️🦋\n〜7/19🏢\n \n@amazonmusicjp\n🎧https://t.co/MNoEEKuTmf\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/jFPM2GMlOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusicjp",
+					"name": "Amazon Music JP",
+					"id": 910751840492412900,
+					"id_str": "910751840492412928",
+					"indices": [
+						69,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNoEEKuTmf",
+					"expanded_url": "https://amzn.to/3yDSQsH",
+					"display_url": "amzn.to/3yDSQsH",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547497708541268000,
+					"id_str": "1547497708541267968",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547497708541267968/pu/img/9PmZO1XMd2ODKVuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547497708541267968/pu/img/9PmZO1XMd2ODKVuY.jpg",
+					"url": "https://t.co/jFPM2GMlOH",
+					"display_url": "pic.twitter.com/jFPM2GMlOH",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547513734574313472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547497708541268000,
+					"id_str": "1547497708541267968",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547497708541267968/pu/img/9PmZO1XMd2ODKVuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547497708541267968/pu/img/9PmZO1XMd2ODKVuY.jpg",
+					"url": "https://t.co/jFPM2GMlOH",
+					"display_url": "pic.twitter.com/jFPM2GMlOH",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547513734574313472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17851,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547497708541267968/pu/vid/480x270/e_tNnb_gXDftv0HD.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547497708541267968/pu/vid/640x360/Cr29NBgvBEJllfp_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547497708541267968/pu/pl/sz3mCp9Jz7Lu_rV7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547497708541267968/pu/vid/1280x720/4HerxgElTeK6MfOZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169566,
+			"friends_count": 1,
+			"listed_count": 377,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 751,
+		"favorite_count": 2873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[🎉]\n\nThank you so much!!\nAmazon Music💜\n \nShibuya💙🌙 Girls⭐️🦋\n〜7/19🏢\n \n@amazonmusicjp\n🎧https://t.co/MNoEEKuTmf\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/jFPM2GMlOH"
+	},
+	{
+		"created_at": "Thu Jul 14 09:40:17 +0000 2022",
+		"id": 1547513450972192800,
+		"id_str": "1547516322283749376",
+		"full_text": "Fix You by @HERMusicx, backstage in Berlin. We’re so lucky to hear these voices every night on tour. 💛❤️🖤 https://t.co/s1t21SI74A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HERMusicx",
+					"name": "H.E.R.",
+					"id": 774357990711316500,
+					"id_str": "774357990711316481",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547510484970225700,
+					"id_str": "1547510484970225664",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnfAykXwAAzj3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnfAykXwAAzj3C.jpg",
+					"url": "https://t.co/s1t21SI74A",
+					"display_url": "pic.twitter.com/s1t21SI74A",
+					"expanded_url": "https://twitter.com/coldplay/status/1547513450972192769/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547510484970225700,
+					"id_str": "1547510484970225664",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnfAykXwAAzj3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnfAykXwAAzj3C.jpg",
+					"url": "https://t.co/s1t21SI74A",
+					"display_url": "pic.twitter.com/s1t21SI74A",
+					"expanded_url": "https://twitter.com/coldplay/status/1547513450972192769/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 86305,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547510484970225664/vid/480x270/255NVGSb-kB8m-YB.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547510484970225664/pl/0yMz0tmd0n-L5kvA.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547510484970225664/vid/1280x720/Xa0jxJ74Ghkx2Cza.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547510484970225664/vid/640x360/CephbhXASeMsCZ2A.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602298,
+			"friends_count": 777,
+			"listed_count": 42468,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fix You by @HERMusicx, backstage in Berlin. We’re so lucky to hear these voices every night on tour. 💛❤️🖤 https://t.co/s1t21SI74A"
+	},
+	{
 		"created_at": "Thu Jul 14 08:40:29 +0000 2022",
 		"id": 1547498636560330800,
 		"id_str": "1547501273951490048",
