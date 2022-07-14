@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 00:40:10 +0000 2022",
+		"id": 1547357355968319500,
+		"id_str": "1547380397134303232",
+		"full_text": "📣 #CHUNGHA #청하\n\n220714 Mnet 엠카운트다운 사전녹화 참여자 분들은 입구 앞에서 사전 배부한 순서대로 입장 준비 해 주시기 바랍니다.\n\n✔️ 인원체크 8:20 AM\n\n#엠카 #엠카운트다운\n#BareRare #Sparkling https://t.co/HBC09PANpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547357344836624400,
+					"id_str": "1547357344836624384",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlRTo-UIAADjJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlRTo-UIAADjJ5.jpg",
+					"url": "https://t.co/HBC09PANpm",
+					"display_url": "pic.twitter.com/HBC09PANpm",
+					"expanded_url": "https://twitter.com/MNH_STAFF/status/1547357355968319488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547357344836624400,
+					"id_str": "1547357344836624384",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlRTo-UIAADjJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlRTo-UIAADjJ5.jpg",
+					"url": "https://t.co/HBC09PANpm",
+					"display_url": "pic.twitter.com/HBC09PANpm",
+					"expanded_url": "https://twitter.com/MNH_STAFF/status/1547357355968319488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831061786191360000,
+			"id_str": "831061786191360002",
+			"name": "MNH_STAFF",
+			"screen_name": "MNH_STAFF",
+			"location": "",
+			"description": "MNH entertainment official FAN STAFF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4026,
+			"friends_count": 1,
+			"listed_count": 35,
+			"created_at": "Mon Feb 13 08:45:45 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 #CHUNGHA #청하\n\n220714 Mnet 엠카운트다운 사전녹화 참여자 분들은 입구 앞에서 사전 배부한 순서대로 입장 준비 해 주시기 바랍니다.\n\n✔️ 인원체크 8:20 AM\n\n#엠카 #엠카운트다운\n#BareRare #Sparkling https://t.co/HBC09PANpm"
+	},
+	{
 		"created_at": "Wed Jul 13 21:40:23 +0000 2022",
 		"id": 1547332847073099800,
 		"id_str": "1547335153860632578",
@@ -39,7 +243,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out July 22nd! ❤️‍🔥",
+			"description": "New album \"22 Make\" out July 22nd! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
