@@ -1,6 +1,1245 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 11:40:23 +0000 2022",
+		"id": 1547526325262753800,
+		"id_str": "1547546545553375236",
+		"full_text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇‍♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kY8JnCqysl",
+					"expanded_url": "https://youtu.be/0-VNUFN0-Ak",
+					"display_url": "youtu.be/0-VNUFN0-Ak",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/o6hLXjSPJf",
+					"expanded_url": "https://youtu.be/PXQ-b-u7yJU",
+					"display_url": "youtu.be/PXQ-b-u7yJU",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256456,
+			"friends_count": 463,
+			"listed_count": 1572,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "글리터의 신 청하가 엠카에 강림하사 Sparkling으로 컴백 하셨나이다🙇‍♀️ #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/kY8JnCqysl\nVertical Ver. ▶ https://t.co/o6hLXjSPJf"
+	},
+	{
+		"created_at": "Thu Jul 14 11:40:20 +0000 2022",
+		"id": 1547536486161338400,
+		"id_str": "1547546532471361542",
+		"full_text": "선예(SUNYE)\n1st Solo Album [GENUINE] Track List\n2022.07.26 6PM (KST) Release\n\n01. Genuine\n02. Just A Dancer\n03. Glass Heart\n04. Now I Fly\n05. Best Thing\n\n#선예 #Sunye #GENUINE \n#GlassHeart #JustADancer https://t.co/x1Zhl2KyOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547536482722025500,
+					"id_str": "1547536482722025472",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn0O1makAAtcGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn0O1makAAtcGR.jpg",
+					"url": "https://t.co/x1Zhl2KyOs",
+					"display_url": "pic.twitter.com/x1Zhl2KyOs",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547536486161338368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1496,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547536482722025500,
+					"id_str": "1547536482722025472",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn0O1makAAtcGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn0O1makAAtcGR.jpg",
+					"url": "https://t.co/x1Zhl2KyOs",
+					"display_url": "pic.twitter.com/x1Zhl2KyOs",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547536486161338368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1496,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17907,
+			"friends_count": 2,
+			"listed_count": 61,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album [GENUINE] Track List\n2022.07.26 6PM (KST) Release\n\n01. Genuine\n02. Just A Dancer\n03. Glass Heart\n04. Now I Fly\n05. Best Thing\n\n#선예 #Sunye #GENUINE \n#GlassHeart #JustADancer https://t.co/x1Zhl2KyOs"
+	},
+	{
+		"created_at": "Thu Jul 14 11:40:15 +0000 2022",
+		"id": 1547536442263408600,
+		"id_str": "1547546515169746944",
+		"full_text": "안녕 마이들 ~~걸스 무대 보셨나용?😈마이들 대면으로 볼 수 있어서 너무너무 행복해용~~~🫶🏻🫶🏻다들 재밌게 보셨나용?~~또 봐용 사랑행 \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/4LikTBSzJw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547536431505088500,
+					"id_str": "1547536431505088512",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn0L2zWIAALdlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn0L2zWIAALdlv.jpg",
+					"url": "https://t.co/4LikTBSzJw",
+					"display_url": "pic.twitter.com/4LikTBSzJw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547536442263408640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1372,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547536431505088500,
+					"id_str": "1547536431505088512",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn0L2zWIAALdlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn0L2zWIAALdlv.jpg",
+					"url": "https://t.co/4LikTBSzJw",
+					"display_url": "pic.twitter.com/4LikTBSzJw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547536442263408640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1372,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547536431500886000,
+					"id_str": "1547536431500886016",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn0L2yWAAAIDpE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn0L2yWAAAIDpE.jpg",
+					"url": "https://t.co/4LikTBSzJw",
+					"display_url": "pic.twitter.com/4LikTBSzJw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547536442263408640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2933938,
+			"friends_count": 2,
+			"listed_count": 9000,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10560,
+		"favorite_count": 30775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕 마이들 ~~걸스 무대 보셨나용?😈마이들 대면으로 볼 수 있어서 너무너무 행복해용~~~🫶🏻🫶🏻다들 재밌게 보셨나용?~~또 봐용 사랑행 \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/4LikTBSzJw"
+	},
+	{
+		"created_at": "Thu Jul 14 11:38:44 +0000 2022",
+		"id": 1547541174642249700,
+		"id_str": "1547546130292039682",
+		"full_text": "💐Thank you 💙\n✨️😄✨️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/bx670Y1LaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547541155394769000,
+					"id_str": "1547541155394768898",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn4e0qaUAI1mDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn4e0qaUAI1mDx.jpg",
+					"url": "https://t.co/bx670Y1LaS",
+					"display_url": "pic.twitter.com/bx670Y1LaS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547541174642249729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547541155394769000,
+					"id_str": "1547541155394768898",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn4e0qaUAI1mDx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn4e0qaUAI1mDx.jpg",
+					"url": "https://t.co/bx670Y1LaS",
+					"display_url": "pic.twitter.com/bx670Y1LaS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547541174642249729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547541168569065500,
+					"id_str": "1547541168569065472",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn4flvaIAAzb48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn4flvaIAAzb48.jpg",
+					"url": "https://t.co/bx670Y1LaS",
+					"display_url": "pic.twitter.com/bx670Y1LaS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1547541174642249729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5490698,
+			"friends_count": 2,
+			"listed_count": 11141,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3092,
+		"favorite_count": 9857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💐Thank you 💙\n✨️😄✨️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/bx670Y1LaS"
+	},
+	{
+		"created_at": "Thu Jul 14 11:36:41 +0000 2022",
+		"id": 1547535309197525000,
+		"id_str": "1547545617542418432",
+		"full_text": "Billlie(빌리), 윤종신 ‘track by YOON: 팥빙수’ Released!!\n💙 https://t.co/Tf7HQBSW38 https://t.co/slBw6P0fX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tf7HQBSW38",
+					"expanded_url": "https://www.instagram.com/p/Cf_W_r6AYYG/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cf_W_r6AYYG/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547535297327800300,
+					"id_str": "1547535297327800321",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnzJ1qaIAE7ZxX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnzJ1qaIAE7ZxX.jpg",
+					"url": "https://t.co/slBw6P0fX0",
+					"display_url": "pic.twitter.com/slBw6P0fX0",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1547535309197524992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547535297327800300,
+					"id_str": "1547535297327800321",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FXnzJ1qaIAE7ZxX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXnzJ1qaIAE7ZxX.jpg",
+					"url": "https://t.co/slBw6P0fX0",
+					"display_url": "pic.twitter.com/slBw6P0fX0",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1547535309197524992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7377,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Billlie(빌리), 윤종신 ‘track by YOON: 팥빙수’ Released!!\n💙 https://t.co/Tf7HQBSW38 https://t.co/slBw6P0fX0"
+	},
+	{
+		"created_at": "Thu Jul 14 11:16:04 +0000 2022",
+		"id": 1547534085551054800,
+		"id_str": "1547540427028529154",
+		"full_text": "[💡] 청하 공개방송 안내✨\n\n220716 음중공지 ▶ https://t.co/2iWA7bJHb9\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						126,
+						143
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						144,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2iWA7bJHb9",
+					"expanded_url": "https://bit.ly/3O1jro1",
+					"display_url": "bit.ly/3O1jro1",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/quuwSX004w",
+					"expanded_url": "https://bit.ly/3uJj8Y6",
+					"display_url": "bit.ly/3uJj8Y6",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352465,
+			"friends_count": 1,
+			"listed_count": 2170,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 안내✨\n\n220716 음중공지 ▶ https://t.co/2iWA7bJHb9\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
 		"created_at": "Thu Jul 14 10:40:16 +0000 2022",
 		"id": 1547531350152028200,
 		"id_str": "1547531418057822208",
