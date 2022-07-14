@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 10:40:16 +0000 2022",
+		"id": 1547531350152028200,
+		"id_str": "1547531418057822208",
+		"full_text": "[📻] @mbcbf_ever @radiombc\nMBC FM4U '#GOT7영재의친한친구'에\n청하가 출연합니다!✨\n\n✔ PM 8:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT7영재의친한친구",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						109,
+						126
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						127,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbcbf_ever",
+					"name": "GOT7 영재의 친한친구",
+					"id": 1505186939242434600,
+					"id_str": "1505186939242434563",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"screen_name": "radiombc",
+					"name": "MBC RADIO 봉춘라디오",
+					"id": 145925496,
+					"id_str": "145925496",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352460,
+			"friends_count": 1,
+			"listed_count": 2172,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] @mbcbf_ever @radiombc\nMBC FM4U '#GOT7영재의친한친구'에\n청하가 출연합니다!✨\n\n✔ PM 8:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Thu Jul 14 10:40:14 +0000 2022",
+		"id": 1547531113505050600,
+		"id_str": "1547531409165848578",
+		"full_text": "#MCOUNTDOWN \n\nGirls ➫ https://t.co/p6MQwNMDBs\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#엠카운트다운",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p6MQwNMDBs",
+					"expanded_url": "https://tv.naver.com/v/27947983",
+					"display_url": "tv.naver.com/v/27947983",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2933547,
+			"friends_count": 2,
+			"listed_count": 8997,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2862,
+		"favorite_count": 7219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MCOUNTDOWN \n\nGirls ➫ https://t.co/p6MQwNMDBs\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#엠카운트다운"
+	},
+	{
 		"created_at": "Thu Jul 14 09:40:25 +0000 2022",
 		"id": 1547513734574313500,
 		"id_str": "1547516356337324032",
