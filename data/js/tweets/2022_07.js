@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 02:40:10 +0000 2022",
+		"id": 1547310662698897400,
+		"id_str": "1547410595800137729",
+		"full_text": "When aespa said they were on the “next level,\" they really meant it.\n\nWe caught up with KARINA, WINTER, GISELLE, and NINGNING to discuss Girls - The 2nd Mini-Album, recharging, deepening their team dynamic, and what’s next: https://t.co/ZlhAUIpH02\n\n#aespa #aespa_Girls #에스파 https://t.co/s1TCsxo3N2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						249,
+						255
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						256,
+						268
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZlhAUIpH02",
+					"expanded_url": "http://cos.lv/qPb650JVhbT",
+					"display_url": "cos.lv/qPb650JVhbT",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547303728801251300,
+					"id_str": "1547303728801251329",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FXkgixrWAAEGkRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXkgixrWAAEGkRe.jpg",
+					"url": "https://t.co/s1TCsxo3N2",
+					"display_url": "pic.twitter.com/s1TCsxo3N2",
+					"expanded_url": "https://twitter.com/consequence/status/1547310662698897408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547303728801251300,
+					"id_str": "1547303728801251329",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FXkgixrWAAEGkRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXkgixrWAAEGkRe.jpg",
+					"url": "https://t.co/s1TCsxo3N2",
+					"display_url": "pic.twitter.com/s1TCsxo3N2",
+					"expanded_url": "https://twitter.com/consequence/status/1547310662698897408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15553222,
+			"id_str": "15553222",
+			"name": "Consequence",
+			"screen_name": "consequence",
+			"location": "New York",
+			"description": "Music, Movies, TV and Pop Culture News for the Mainstream and Underground. \nGet merch ➡ @consequenceshop",
+			"url": "https://t.co/D7zVyfT1Vs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7zVyfT1Vs",
+							"expanded_url": "https://consequence.net/",
+							"display_url": "consequence.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254176,
+			"friends_count": 2574,
+			"listed_count": 5150,
+			"created_at": "Wed Jul 23 02:17:36 +0000 2008",
+			"favourites_count": 15038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 194268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379621661104869376/O7pQDCB__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379621661104869376/O7pQDCB__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15553222/1617764336",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "07647E",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 989,
+		"favorite_count": 3756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When aespa said they were on the “next level,\" they really meant it.\n\nWe caught up with KARINA, WINTER, GISELLE, and NINGNING to discuss Girls - The 2nd Mini-Album, recharging, deepening their team dynamic, and what’s next: https://t.co/ZlhAUIpH02\n\n#aespa #aespa_Girls #에스파 https://t.co/s1TCsxo3N2"
+	},
+	{
+		"created_at": "Thu Jul 14 02:29:53 +0000 2022",
+		"id": 1547405520880935000,
+		"id_str": "1547408010116481025",
+		"full_text": "[#NEWS] '징크스의 연인' 서현 나인우, 안타까운 엇갈림\n▶ https://t.co/xmnbm8FfF1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/49D53iJ9sk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmnbm8FfF1",
+					"expanded_url": "https://naver.me/5AqIJRN7",
+					"display_url": "naver.me/5AqIJRN7",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547403361783148500,
+					"id_str": "1547403361783148545",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FXl7KLdUcAEYPhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXl7KLdUcAEYPhK.jpg",
+					"url": "https://t.co/49D53iJ9sk",
+					"display_url": "pic.twitter.com/49D53iJ9sk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547405520880934913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 703,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 332,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547403361783148500,
+					"id_str": "1547403361783148545",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FXl7KLdUcAEYPhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXl7KLdUcAEYPhK.jpg",
+					"url": "https://t.co/49D53iJ9sk",
+					"display_url": "pic.twitter.com/49D53iJ9sk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547405520880934913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 703,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 332,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61429,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현 나인우, 안타까운 엇갈림\n▶ https://t.co/xmnbm8FfF1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/49D53iJ9sk"
+	},
+	{
+		"created_at": "Thu Jul 14 02:29:44 +0000 2022",
+		"id": 1547392957283987500,
+		"id_str": "1547407971927433216",
+		"full_text": "The Cover for 2022 August Issue of &lt;DAZED&gt; KOREA\n\n지코 #Zico\nIn #TiffanyAndCo #TiffanyT #협찬\nWith #Dazedkorea \n\n#데이즈드 #지코 #티파니\n\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/APVUYpoQYD)를 통해서 구입이 가능합니다. https://t.co/IBhysatmyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Zico",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "TiffanyT",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "협찬",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "Dazedkorea",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "데이즈드",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/APVUYpoQYD",
+					"expanded_url": "http://dazedkorea.com",
+					"display_url": "dazedkorea.com",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547392950799581200,
+					"id_str": "1547392950799581184",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlxsLhaQAALBdO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlxsLhaQAALBdO.jpg",
+					"url": "https://t.co/IBhysatmyC",
+					"display_url": "pic.twitter.com/IBhysatmyC",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1547392957283987457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547392950799581200,
+					"id_str": "1547392950799581184",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FXlxsLhaQAALBdO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXlxsLhaQAALBdO.jpg",
+					"url": "https://t.co/IBhysatmyC",
+					"display_url": "pic.twitter.com/IBhysatmyC",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1547392957283987457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9LshhmAaM",
+			"url": "https://t.co/0p0y3FGmKw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3FGmKw",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9LshhmAaM",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167337,
+			"friends_count": 0,
+			"listed_count": 331,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1657180475",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The Cover for 2022 August Issue of &lt;DAZED&gt; KOREA\n\n지코 #Zico\nIn #TiffanyAndCo #TiffanyT #협찬\nWith #Dazedkorea \n\n#데이즈드 #지코 #티파니\n\n&lt;데이즈드&gt;는 전 세계 어디에서나 홈페이지(https://t.co/APVUYpoQYD)를 통해서 구입이 가능합니다. https://t.co/IBhysatmyC"
+	},
+	{
 		"created_at": "Thu Jul 14 01:29:44 +0000 2022",
 		"id": 1547392090195513300,
 		"id_str": "1547392870646222848",
