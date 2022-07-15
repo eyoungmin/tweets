@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 10:40:19 +0000 2022",
+		"id": 1547883883491823600,
+		"id_str": "1547893819756068865",
+		"full_text": "'Bare &amp; Rare, Pt. 1' truly shines when Chung Ha slips into a moodier, more mature persona. Read the NME review of @CHUNGHA_MNHent's second album https://t.co/CtFuU0pdVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CtFuU0pdVB",
+					"expanded_url": "http://ow.ly/Utg250JWyv1",
+					"display_url": "ow.ly/Utg250JWyv1",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/a7G6JSlxbf",
+			"url": "https://t.co/1gVTfX2DhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gVTfX2DhO",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/a7G6JSlxbf",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 907223,
+			"friends_count": 3386,
+			"listed_count": 14285,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 4216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 258567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1657872054",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Bare &amp; Rare, Pt. 1' truly shines when Chung Ha slips into a moodier, more mature persona. Read the NME review of @CHUNGHA_MNHent's second album https://t.co/CtFuU0pdVB"
+	},
+	{
+		"created_at": "Fri Jul 15 10:40:16 +0000 2022",
+		"id": 1547883990144925700,
+		"id_str": "1547893806439116802",
+		"full_text": "aespa 에스파 'Girls' The Performance Stage #2\n\nhttps://t.co/aaEXI2iKQ7\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/wuBdw22fr1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aaEXI2iKQ7",
+					"expanded_url": "https://youtu.be/i5X2g9mYtoo",
+					"display_url": "youtu.be/i5X2g9mYtoo",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547608755235598300,
+					"id_str": "1547608755235598337",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FXo19psaMAEgOH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXo19psaMAEgOH_.jpg",
+					"url": "https://t.co/wuBdw22fr1",
+					"display_url": "pic.twitter.com/wuBdw22fr1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547883990144925696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547608755235598300,
+					"id_str": "1547608755235598337",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FXo19psaMAEgOH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXo19psaMAEgOH_.jpg",
+					"url": "https://t.co/wuBdw22fr1",
+					"display_url": "pic.twitter.com/wuBdw22fr1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547883990144925696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2939245,
+			"friends_count": 2,
+			"listed_count": 9019,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6395,
+		"favorite_count": 16429,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Girls' The Performance Stage #2\n\nhttps://t.co/aaEXI2iKQ7\n\n#aespa #æspa #에스파 \n#Girls #aespa_Girls https://t.co/wuBdw22fr1"
+	},
+	{
+		"created_at": "Fri Jul 15 10:40:14 +0000 2022",
+		"id": 1547869881236082700,
+		"id_str": "1547893797274587136",
+		"full_text": "[🖥/#K_Choreo8K]\n8K Full 직캠을 지금 바로 확인하세요!\n\n청하 &lt;Sparkling&gt;\n▶︎https://t.co/TsEqnzQfEr\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling\n@CHUNGHA_MNHent https://t.co/1thoDOzY9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "K_Choreo8K",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "StudioK",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "8K",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "8K풀직캠",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						151,
+						168
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						169,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						188,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TsEqnzQfEr",
+					"expanded_url": "https://youtu.be/5g-HTIBVKfo",
+					"display_url": "youtu.be/5g-HTIBVKfo",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547869853809537000,
+					"id_str": "1547869853809537024",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FXsjblracAAm1ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXsjblracAAm1ts.jpg",
+					"url": "https://t.co/1thoDOzY9P",
+					"display_url": "pic.twitter.com/1thoDOzY9P",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1547869881236082688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547869853809537000,
+					"id_str": "1547869853809537024",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FXsjblracAAm1ts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXsjblracAAm1ts.jpg",
+					"url": "https://t.co/1thoDOzY9P",
+					"display_url": "pic.twitter.com/1thoDOzY9P",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1547869881236082688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "KBS KPOP",
+			"screen_name": "StudioK_twt",
+			"location": "",
+			"description": "💙KBS KPOP💚Official Twitter💛공식 트위터 오픈💚KBS 음악방송과 예능 콘텐츠 소식들로 매일 찾아올게요💙😜 \n#뮤직뱅크 #아이돌인간극장 #리무진서비스 #매점터는아이돌 & so much more by StudioK",
+			"url": "https://t.co/zq35Rwet13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq35Rwet13",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88351,
+			"friends_count": 8,
+			"listed_count": 185,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1657877487",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🖥/#K_Choreo8K]\n8K Full 직캠을 지금 바로 확인하세요!\n\n청하 &lt;Sparkling&gt;\n▶︎https://t.co/TsEqnzQfEr\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling\n@CHUNGHA_MNHent https://t.co/1thoDOzY9P"
+	},
+	{
 		"created_at": "Fri Jul 15 09:46:19 +0000 2022",
 		"id": 1547868576266289200,
 		"id_str": "1547880228873064450",
@@ -399,7 +1022,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Fri Jul 15 09:40:10 +0000 2022",
 		"id": 1547872873762541600,
 		"id_str": "1547878681762152448",
-		"full_text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚‍♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6",
+		"full_text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -868,7 +1491,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚‍♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6"
+		"text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6"
 	},
 	{
 		"created_at": "Fri Jul 15 09:36:53 +0000 2022",
