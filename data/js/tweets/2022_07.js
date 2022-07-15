@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 02:55:49 +0000 2022",
+		"id": 1547774200164896800,
+		"id_str": "1547776922704236544",
+		"full_text": "[#NEWS] 서현, 운명 스스로 개척…나인우 사랑 깨달았다 (‘징크스의 연인’)[TV종합]\n▶ https://t.co/J8t3ki6EIp\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/47BX83OTmF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J8t3ki6EIp",
+					"expanded_url": "https://naver.me/xueJW4Hs",
+					"display_url": "naver.me/xueJW4Hs",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547769615761420300,
+					"id_str": "1547769615761420290",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrIQ92aMAItZKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrIQ92aMAItZKL.jpg",
+					"url": "https://t.co/47BX83OTmF",
+					"display_url": "pic.twitter.com/47BX83OTmF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547774200164896768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1092,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547769615761420300,
+					"id_str": "1547769615761420290",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrIQ92aMAItZKL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrIQ92aMAItZKL.jpg",
+					"url": "https://t.co/47BX83OTmF",
+					"display_url": "pic.twitter.com/47BX83OTmF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547774200164896768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1092,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61521,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 운명 스스로 개척…나인우 사랑 깨달았다 (‘징크스의 연인’)[TV종합]\n▶ https://t.co/J8t3ki6EIp\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/47BX83OTmF"
+	},
+	{
+		"created_at": "Fri Jul 15 02:40:22 +0000 2022",
+		"id": 1546433380115439600,
+		"id_str": "1547773036840886282",
+		"full_text": "The vocals on @aespa_official's latest single \"Girls\" are 🔥 🔥 🔥 🔥 \nCheck out your new favourite song on our K-Pop Now playlist!\n\n❤️ https://t.co/EDaPJe1MmF https://t.co/8CGaboApR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EDaPJe1MmF",
+					"expanded_url": "https://amzn.to/3Rd6XwB",
+					"display_url": "amzn.to/3Rd6XwB",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546433331142738000,
+					"id_str": "1546433331142737923",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1546433331142737923/img/2J_hzpx2gHbhPHI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1546433331142737923/img/2J_hzpx2gHbhPHI7.jpg",
+					"url": "https://t.co/8CGaboApR3",
+					"display_url": "pic.twitter.com/8CGaboApR3",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1546433380115439616/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546433331142738000,
+					"id_str": "1546433331142737923",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1546433331142737923/img/2J_hzpx2gHbhPHI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1546433331142737923/img/2J_hzpx2gHbhPHI7.jpg",
+					"url": "https://t.co/8CGaboApR3",
+					"display_url": "pic.twitter.com/8CGaboApR3",
+					"expanded_url": "https://twitter.com/AmazonMusicUK/status/1546433380115439616/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 12500,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546433331142737923/vid/320x400/BfBtAULvHYJKXzGh.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546433331142737923/vid/720x900/y-LAcveX7Ez22pJN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1546433331142737923/pl/0nX9LLEGd7lhRonU.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1546433331142737923/vid/480x600/mXYYuckpaAsLINdU.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28377083,
+			"id_str": "28377083",
+			"name": "Amazon Music UK",
+			"screen_name": "AmazonMusicUK",
+			"location": "",
+			"description": "Unlimited access to 90 million songs | Now in HD + Ultra HD For All Listeners | Podcasts and Livestreams. Tweet @AmazonHelp for customer support.",
+			"url": "https://t.co/0bLmdA51Cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0bLmdA51Cm",
+							"expanded_url": "http://amzn.to/PDConcertuk",
+							"display_url": "amzn.to/PDConcertuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132867,
+			"friends_count": 2096,
+			"listed_count": 444,
+			"created_at": "Thu Apr 02 17:17:19 +0000 2009",
+			"favourites_count": 2550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478305428249497615/ExeghSZM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28377083/1641290455",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 941,
+		"favorite_count": 4678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The vocals on @aespa_official's latest single \"Girls\" are 🔥 🔥 🔥 🔥 \nCheck out your new favourite song on our K-Pop Now playlist!\n\n❤️ https://t.co/EDaPJe1MmF https://t.co/8CGaboApR3"
+	},
+	{
+		"created_at": "Fri Jul 15 02:40:13 +0000 2022",
+		"id": 1547763129311867000,
+		"id_str": "1547772997796110336",
+		"full_text": "What do you think of our bandana? 💝\n\n💿Pick up your Deluxe Box versions HERE👇\nhttps://t.co/tVQMemKWwT\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/3Ds0oFSpr3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tVQMemKWwT",
+					"expanded_url": "https://aespa.lnk.to/officialstore",
+					"display_url": "aespa.lnk.to/officialstore",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547763118084092000,
+					"id_str": "1547763118084091905",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrCWwHacAEjrro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrCWwHacAEjrro.jpg",
+					"url": "https://t.co/3Ds0oFSpr3",
+					"display_url": "pic.twitter.com/3Ds0oFSpr3",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547763129311866880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547763118084092000,
+					"id_str": "1547763118084091905",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrCWwHacAEjrro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrCWwHacAEjrro.jpg",
+					"url": "https://t.co/3Ds0oFSpr3",
+					"display_url": "pic.twitter.com/3Ds0oFSpr3",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547763129311866880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2937165,
+			"friends_count": 2,
+			"listed_count": 9015,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3183,
+		"favorite_count": 12882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do you think of our bandana? 💝\n\n💿Pick up your Deluxe Box versions HERE👇\nhttps://t.co/tVQMemKWwT\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/3Ds0oFSpr3"
+	},
+	{
 		"created_at": "Fri Jul 15 01:46:15 +0000 2022",
 		"id": 1547748265541587000,
 		"id_str": "1547759415138193410",
