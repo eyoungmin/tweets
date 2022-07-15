@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 03:40:28 +0000 2022",
+		"id": 1547778061655244800,
+		"id_str": "1547788161303973890",
+		"full_text": "GLOBAL 🔗 https://t.co/94HgEgh3vP\nCN 🔗 https://t.co/CTUvR2FgSn\n JP 🔗 https://t.co/brEM9vM61N\n\n#청하 #CHUNGHA\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/bk0tnvJ3W4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "뮤직앤드라마",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "뮤앤드",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "뮤드",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "MUSICNDRAMA",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/94HgEgh3vP",
+					"expanded_url": "https://bit.ly/3zgKkAx",
+					"display_url": "bit.ly/3zgKkAx",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/CTUvR2FgSn",
+					"expanded_url": "https://bit.ly/3P7WFw8",
+					"display_url": "bit.ly/3P7WFw8",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/brEM9vM61N",
+					"expanded_url": "https://bit.ly/3IU1Q0F",
+					"display_url": "bit.ly/3IU1Q0F",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547777992881229800,
+					"id_str": "1547777992881229824",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrP4lDaUAAuFgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrP4lDaUAAuFgd.jpg",
+					"url": "https://t.co/bk0tnvJ3W4",
+					"display_url": "pic.twitter.com/bk0tnvJ3W4",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1547778061655244800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547777992881229800,
+					"id_str": "1547777992881229824",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrP4lDaUAAuFgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrP4lDaUAAuFgd.jpg",
+					"url": "https://t.co/bk0tnvJ3W4",
+					"display_url": "pic.twitter.com/bk0tnvJ3W4",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1547778061655244800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1547778055405699000,
+		"in_reply_to_status_id_str": "1547778055405699072",
+		"in_reply_to_user_id": 1410783363007336400,
+		"in_reply_to_user_id_str": "1410783363007336449",
+		"in_reply_to_screen_name": "m_MUSICNDRAMA",
+		"user": {
+			"id": 1410783363007336400,
+			"id_str": "1410783363007336449",
+			"name": "뮤직앤드라마 MUSIC&DRAMA",
+			"screen_name": "m_MUSICNDRAMA",
+			"location": "",
+			"description": "음반&영상물 전문 쇼핑몰 뮤직앤드라마 공식 트위터입니다. \nMusic&Drama Official Twitter Account",
+			"url": "https://t.co/aqXDVVbTz1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aqXDVVbTz1",
+							"expanded_url": "https://www.musicndrama.com/",
+							"display_url": "musicndrama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jul 02 02:12:26 +0000 2021",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410783363007336449/1625466984",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "GLOBAL 🔗 https://t.co/94HgEgh3vP\nCN 🔗 https://t.co/CTUvR2FgSn\n JP 🔗 https://t.co/brEM9vM61N\n\n#청하 #CHUNGHA\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/bk0tnvJ3W4"
+	},
+	{
+		"created_at": "Fri Jul 15 03:40:19 +0000 2022",
+		"id": 1547778055405699000,
+		"id_str": "1547788122800345088",
+		"full_text": "청하 (CHUNG HA) - 정규 2집 【Bare&amp;Rare Pt.1】 국내 활동 마지막 대면 사인회\n\n• 당첨: 50명\n• EVENT TIME: 2022.07.24 19:00PM(KST)\n• PERIOD: 7/15 12:00 ~7/17 18:00PM\n\n🔗 https://t.co/NMINjhgxHN\n\n#청하 #CHUNGHA\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/86xnD0MLqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "뮤직앤드라마",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"text": "뮤앤드",
+					"indices": [
+						214,
+						218
+					]
+				},
+				{
+					"text": "뮤드",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "MUSICNDRAMA",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMINjhgxHN",
+					"expanded_url": "https://bit.ly/3yNHi5k",
+					"display_url": "bit.ly/3yNHi5k",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547777819287384000,
+					"id_str": "1547777819287384064",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrPueXacAAP6nx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrPueXacAAP6nx.jpg",
+					"url": "https://t.co/86xnD0MLqm",
+					"display_url": "pic.twitter.com/86xnD0MLqm",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1547778055405699072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547777819287384000,
+					"id_str": "1547777819287384064",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrPueXacAAP6nx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrPueXacAAP6nx.jpg",
+					"url": "https://t.co/86xnD0MLqm",
+					"display_url": "pic.twitter.com/86xnD0MLqm",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1547778055405699072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547777819283181600,
+					"id_str": "1547777819283181568",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrPueWaUAAXeFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrPueWaUAAXeFG.jpg",
+					"url": "https://t.co/86xnD0MLqm",
+					"display_url": "pic.twitter.com/86xnD0MLqm",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1547778055405699072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 983,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1410783363007336400,
+			"id_str": "1410783363007336449",
+			"name": "뮤직앤드라마 MUSIC&DRAMA",
+			"screen_name": "m_MUSICNDRAMA",
+			"location": "",
+			"description": "음반&영상물 전문 쇼핑몰 뮤직앤드라마 공식 트위터입니다. \nMusic&Drama Official Twitter Account",
+			"url": "https://t.co/aqXDVVbTz1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aqXDVVbTz1",
+							"expanded_url": "https://www.musicndrama.com/",
+							"display_url": "musicndrama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jul 02 02:12:26 +0000 2021",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410783363007336449/1625466984",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 (CHUNG HA) - 정규 2집 【Bare&amp;Rare Pt.1】 국내 활동 마지막 대면 사인회\n\n• 당첨: 50명\n• EVENT TIME: 2022.07.24 19:00PM(KST)\n• PERIOD: 7/15 12:00 ~7/17 18:00PM\n\n🔗 https://t.co/NMINjhgxHN\n\n#청하 #CHUNGHA\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/86xnD0MLqm"
+	},
+	{
 		"created_at": "Fri Jul 15 02:55:49 +0000 2022",
 		"id": 1547774200164896800,
 		"id_str": "1547776922704236544",
