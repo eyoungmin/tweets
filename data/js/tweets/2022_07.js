@@ -1,6 +1,1324 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 05:40:30 +0000 2022",
+		"id": 1546585116503224300,
+		"id_str": "1547818365829337094",
+		"full_text": "CHUNG HA @CHUNGHA_MNHent \n\nThe 2nd Studio Album\nBare&amp;Rare Pt.1\n\nOUT NOW ON ALL PLATFORMS ✨\nhttps://t.co/iMPtKqq2Bk\n\n#청하 #CHUNGHA\n\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/X98A3WKFdX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						155,
+						172
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						173,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						9,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iMPtKqq2Bk",
+					"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+					"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1546578025927454700,
+					"id_str": "1546578025927454721",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+					"url": "https://t.co/X98A3WKFdX",
+					"display_url": "pic.twitter.com/X98A3WKFdX",
+					"expanded_url": "https://twitter.com/88rising/status/1546585116503224323/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546578025927454700,
+					"id_str": "1546578025927454721",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+					"url": "https://t.co/X98A3WKFdX",
+					"display_url": "pic.twitter.com/X98A3WKFdX",
+					"expanded_url": "https://twitter.com/88rising/status/1546585116503224323/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11933,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/720x720/G3TP7E_h4WJ1PmKc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/540x540/xCeYGJli-7iJ8gGJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/320x320/i_8F-cwI-QpIpp0V.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/pl/FCx-kSs8dSo6o08W.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Oceans & Engines\" out now.\nHead In The Clouds Festival August 20-21",
+			"url": "https://t.co/UW91LRQbEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UW91LRQbEl",
+							"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+							"display_url": "joji.lnk.to/GlimpseofUs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628511,
+			"friends_count": 306,
+			"listed_count": 583,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 1028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA @CHUNGHA_MNHent \n\nThe 2nd Studio Album\nBare&amp;Rare Pt.1\n\nOUT NOW ON ALL PLATFORMS ✨\nhttps://t.co/iMPtKqq2Bk\n\n#청하 #CHUNGHA\n\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/X98A3WKFdX"
+	},
+	{
+		"created_at": "Fri Jul 15 05:40:26 +0000 2022",
+		"id": 1546601088601600000,
+		"id_str": "1547818352311029760",
+		"full_text": "CHUNGHA IS BARE &amp; RARE \n\n#SPARKLINGforCHUNGHA\n#청하 #CHUNGHA\n@CHUNGHA_MNHent https://t.co/sQQXVuHcWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPARKLINGforCHUNGHA",
+					"indices": [
+						29,
+						49
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sQQXVuHcWg",
+					"expanded_url": "https://twitter.com/88rising/status/1546585116503224323",
+					"display_url": "twitter.com/88rising/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Oceans & Engines\" out now.\nHead In The Clouds Festival August 20-21",
+			"url": "https://t.co/UW91LRQbEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UW91LRQbEl",
+							"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+							"display_url": "joji.lnk.to/GlimpseofUs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628511,
+			"friends_count": 306,
+			"listed_count": 583,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1546585116503224300,
+		"quoted_status_id_str": "1546585116503224323",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sQQXVuHcWg",
+			"expanded": "https://twitter.com/88rising/status/1546585116503224323",
+			"display": "twitter.com/88rising/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 11 20:00:00 +0000 2022",
+			"id": 1546585116503224300,
+			"id_str": "1546585116503224323",
+			"full_text": "CHUNG HA @CHUNGHA_MNHent \n\nThe 2nd Studio Album\nBare&amp;Rare Pt.1\n\nOUT NOW ON ALL PLATFORMS ✨\nhttps://t.co/iMPtKqq2Bk\n\n#청하 #CHUNGHA\n\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/X98A3WKFdX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							120,
+							123
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							124,
+							132
+						]
+					},
+					{
+						"text": "BareRare",
+						"indices": [
+							134,
+							143
+						]
+					},
+					{
+						"text": "Sparkling",
+						"indices": [
+							144,
+							154
+						]
+					},
+					{
+						"text": "CHUNGHA_BareRare",
+						"indices": [
+							155,
+							172
+						]
+					},
+					{
+						"text": "CHUNGHA_Sparkling",
+						"indices": [
+							173,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CHUNGHA_MNHent",
+						"name": "CHUNG HA",
+						"id": 1097557125742489600,
+						"id_str": "1097557125742489600",
+						"indices": [
+							9,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iMPtKqq2Bk",
+						"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+						"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+						"indices": [
+							95,
+							118
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1546578025927454700,
+						"id_str": "1546578025927454721",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+						"url": "https://t.co/X98A3WKFdX",
+						"display_url": "pic.twitter.com/X98A3WKFdX",
+						"expanded_url": "https://twitter.com/88rising/status/1546585116503224323/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1546578025927454700,
+						"id_str": "1546578025927454721",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1546578025927454721/pu/img/qD_2b0yRtSzA2GUN.jpg",
+						"url": "https://t.co/X98A3WKFdX",
+						"display_url": "pic.twitter.com/X98A3WKFdX",
+						"expanded_url": "https://twitter.com/88rising/status/1546585116503224323/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11933,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/720x720/G3TP7E_h4WJ1PmKc.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/540x540/xCeYGJli-7iJ8gGJ.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/vid/320x320/i_8F-cwI-QpIpp0V.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1546578025927454721/pu/pl/FCx-kSs8dSo6o08W.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 710838951989346300,
+				"id_str": "710838951989346304",
+				"name": "88rising",
+				"screen_name": "88rising",
+				"location": "",
+				"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Oceans & Engines\" out now.\nHead In The Clouds Festival August 20-21",
+				"url": "https://t.co/UW91LRQbEl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UW91LRQbEl",
+								"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+								"display_url": "joji.lnk.to/GlimpseofUs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 628511,
+				"friends_count": 306,
+				"listed_count": 583,
+				"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+				"favourites_count": 15522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10083,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 331,
+			"favorite_count": 1028,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 109,
+		"favorite_count": 482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "CHUNGHA IS BARE &amp; RARE \n\n#SPARKLINGforCHUNGHA\n#청하 #CHUNGHA\n@CHUNGHA_MNHent https://t.co/sQQXVuHcWg"
+	},
+	{
+		"created_at": "Fri Jul 15 05:40:24 +0000 2022",
+		"id": 1547642206286057500,
+		"id_str": "1547818342890684416",
+		"full_text": "✨ sparkling \n#SPARKLEforCHUNGHA @CHUNGHA_MNHent \n \nhttps://t.co/iMPtKqq2Bk @WarnerMusicPH https://t.co/PaqtMrKc5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPARKLEforCHUNGHA",
+					"indices": [
+						13,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "WarnerMusicPH",
+					"name": "ae Warner Music Philippines 🫡",
+					"id": 361747306,
+					"id_str": "361747306",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iMPtKqq2Bk",
+					"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+					"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/PaqtMrKc5A",
+					"expanded_url": "https://twitter.com/WarnerMusicPH/status/1547495416048291842",
+					"display_url": "twitter.com/WarnerMusicPH/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Oceans & Engines\" out now.\nHead In The Clouds Festival August 20-21",
+			"url": "https://t.co/UW91LRQbEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UW91LRQbEl",
+							"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+							"display_url": "joji.lnk.to/GlimpseofUs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628511,
+			"friends_count": 306,
+			"listed_count": 583,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547495416048291800,
+		"quoted_status_id_str": "1547495416048291842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PaqtMrKc5A",
+			"expanded": "https://twitter.com/WarnerMusicPH/status/1547495416048291842",
+			"display": "twitter.com/WarnerMusicPH/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 14 08:17:12 +0000 2022",
+			"id": 1547495416048291800,
+			"id_str": "1547495416048291842",
+			"full_text": "I will stan CHUNG HA ~and this album~ forever 💞\n\n'Bare&amp;Rare Pt.1' | 'Sparkling'\n✨https://t.co/4HLZS7In4s✨\n\n#CHUNGHA #청하 #CHUNGHA_Sparkling @CHUNGHA_MNHent @88rising https://t.co/mQa5Fq3M7H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							111,
+							119
+						]
+					},
+					{
+						"text": "청하",
+						"indices": [
+							120,
+							123
+						]
+					},
+					{
+						"text": "CHUNGHA_Sparkling",
+						"indices": [
+							124,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CHUNGHA_MNHent",
+						"name": "CHUNG HA",
+						"id": 1097557125742489600,
+						"id_str": "1097557125742489600",
+						"indices": [
+							143,
+							158
+						]
+					},
+					{
+						"screen_name": "88rising",
+						"name": "88rising",
+						"id": 710838951989346300,
+						"id_str": "710838951989346304",
+						"indices": [
+							159,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4HLZS7In4s",
+						"expanded_url": "http://wmp.lnk.to/chungha_sparkling",
+						"display_url": "wmp.lnk.to/chungha_sparkl…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1547495224649580500,
+						"id_str": "1547495224649580544",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547495224649580544/pu/img/f1Xe8X8YiaBj72_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547495224649580544/pu/img/f1Xe8X8YiaBj72_u.jpg",
+						"url": "https://t.co/mQa5Fq3M7H",
+						"display_url": "pic.twitter.com/mQa5Fq3M7H",
+						"expanded_url": "https://twitter.com/WarnerMusicPH/status/1547495416048291842/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547495224649580500,
+						"id_str": "1547495224649580544",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547495224649580544/pu/img/f1Xe8X8YiaBj72_u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547495224649580544/pu/img/f1Xe8X8YiaBj72_u.jpg",
+						"url": "https://t.co/mQa5Fq3M7H",
+						"display_url": "pic.twitter.com/mQa5Fq3M7H",
+						"expanded_url": "https://twitter.com/WarnerMusicPH/status/1547495416048291842/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 26603,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547495224649580544/pu/vid/480x600/ted-4dq5GILLuDG7.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547495224649580544/pu/vid/720x900/3Ui7-0s1nO4ABm8t.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1547495224649580544/pu/pl/1ilFb6jHagWGThMv.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547495224649580544/pu/vid/320x400/jtD_ShV8k8t6lTGU.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 361747306,
+				"id_str": "361747306",
+				"name": "ae Warner Music Philippines 🫡",
+				"screen_name": "WarnerMusicPH",
+				"location": "✨KWANGYA✨",
+				"description": "Don’t minds us, just @charlieputh and jungkook taking every corner of our minds 🫠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25853,
+				"friends_count": 608,
+				"listed_count": 56,
+				"created_at": "Thu Aug 25 08:08:54 +0000 2011",
+				"favourites_count": 4051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1538863539003486210/XCkjV8E__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538863539003486210/XCkjV8E__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/361747306/1656043217",
+				"profile_link_color": "0C49FF",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 234,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 86,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "✨ sparkling \n#SPARKLEforCHUNGHA @CHUNGHA_MNHent \n \nhttps://t.co/iMPtKqq2Bk @WarnerMusicPH https://t.co/PaqtMrKc5A"
+	},
+	{
+		"created_at": "Fri Jul 15 05:40:16 +0000 2022",
+		"id": 1547684951981564000,
+		"id_str": "1547818308501528576",
+		"full_text": "CHUNG HA's 2nd Studio Album Bare&amp;Rare Pt.1 is out now ✨ @CHUNGHA_MNHent #CHUNGHA \n\nListen to it now on 88rising Radio (Ch 305 @SIRIUSXM) https://t.co/ZA2ro929pn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "SIRIUSXM",
+					"name": "SiriusXM",
+					"id": 189258194,
+					"id_str": "189258194",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547683650673594400,
+					"id_str": "1547683650673594369",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547683650673594369/pu/img/Lu04OkDkvo_XHeC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547683650673594369/pu/img/Lu04OkDkvo_XHeC4.jpg",
+					"url": "https://t.co/ZA2ro929pn",
+					"display_url": "pic.twitter.com/ZA2ro929pn",
+					"expanded_url": "https://twitter.com/88risingRadio/status/1547684951981563906/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547683650673594400,
+					"id_str": "1547683650673594369",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547683650673594369/pu/img/Lu04OkDkvo_XHeC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547683650673594369/pu/img/Lu04OkDkvo_XHeC4.jpg",
+					"url": "https://t.co/ZA2ro929pn",
+					"display_url": "pic.twitter.com/ZA2ro929pn",
+					"expanded_url": "https://twitter.com/88risingRadio/status/1547684951981563906/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21438,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547683650673594369/pu/pl/G1Tqo2bsLnhyCkaP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547683650673594369/pu/vid/320x320/jYhYaRBEq10y-hyg.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547683650673594369/pu/vid/720x720/Qh_-rhlh0itNOYgB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547683650673594369/pu/vid/540x540/_VZV0mxR3p1XH-CV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1329563770138611700,
+			"id_str": "1329563770138611714",
+			"name": "88rising Radio",
+			"screen_name": "88risingRadio",
+			"location": "",
+			"description": "The first 24/7 radio channel in North America dedicated to showcasing Asian artists from around the world. @SiriusXM @pandora.",
+			"url": "https://t.co/yDvf50Hme1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDvf50Hme1",
+							"expanded_url": "http://siriusxm.com/88rising",
+							"display_url": "siriusxm.com/88rising",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25050,
+			"friends_count": 78,
+			"listed_count": 27,
+			"created_at": "Thu Nov 19 23:14:46 +0000 2020",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387940331388239875/IiI7RtaK_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387940331388239875/IiI7RtaK_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1329563770138611714/1620959945",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA's 2nd Studio Album Bare&amp;Rare Pt.1 is out now ✨ @CHUNGHA_MNHent #CHUNGHA \n\nListen to it now on 88rising Radio (Ch 305 @SIRIUSXM) https://t.co/ZA2ro929pn"
+	},
+	{
 		"created_at": "Fri Jul 15 04:40:18 +0000 2022",
 		"id": 1547799131585859600,
 		"id_str": "1547803217504768000",
