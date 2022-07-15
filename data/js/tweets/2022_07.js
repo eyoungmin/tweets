@@ -1,6 +1,1113 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 09:46:19 +0000 2022",
+		"id": 1547868576266289200,
+		"id_str": "1547880228873064450",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\naespa Comment ➤\n \n#aespa #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/wV9Sooq4ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						124,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547488938671378400,
+					"id_str": "1547488938671378433",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+					"url": "https://t.co/wV9Sooq4ae",
+					"display_url": "pic.twitter.com/wV9Sooq4ae",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547488938671378400,
+					"id_str": "1547488938671378433",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+					"url": "https://t.co/wV9Sooq4ae",
+					"display_url": "pic.twitter.com/wV9Sooq4ae",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1154,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48063,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/480x270/YURQjZhM_jYfIyUK.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/640x360/aYJUxVVn8OQxZxo-.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/1280x720/LAE7iQNdUtRvE9Vv.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547488938671378433/pl/DwJICFLQ-AutheW7.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11013833,
+			"friends_count": 56,
+			"listed_count": 12433,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1715,
+		"favorite_count": 4871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\naespa Comment ➤\n \n#aespa #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/wV9Sooq4ae"
+	},
+	{
+		"created_at": "Fri Jul 15 09:40:19 +0000 2022",
+		"id": 1547876122507059200,
+		"id_str": "1547878717266862083",
+		"full_text": "[📻] @kr_now\n잠시후 #네이버NOW '#댸니쇼'에 \n청하가 출연합니다✨\n\n✔️ PM 7:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버NOW",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "댸니쇼",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						109,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352404,
+			"friends_count": 1,
+			"listed_count": 2173,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] @kr_now\n잠시후 #네이버NOW '#댸니쇼'에 \n청하가 출연합니다✨\n\n✔️ PM 7:00\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Fri Jul 15 09:40:10 +0000 2022",
+		"id": 1547872873762541600,
+		"id_str": "1547878681762152448",
+		"full_text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚‍♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						131,
+						143
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						144,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lof1exlBw4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152",
+					"display_url": "twitter.com/SMTOWNGLOBAL/s…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547872622964134000,
+					"id_str": "1547872622964133889",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547872622964133889/pu/img/kwwjdoOy7ddVOqDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547872622964133889/pu/img/kwwjdoOy7ddVOqDA.jpg",
+					"url": "https://t.co/kek1tjNCu6",
+					"display_url": "pic.twitter.com/kek1tjNCu6",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547872873762541568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547872622964134000,
+					"id_str": "1547872622964133889",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547872622964133889/pu/img/kwwjdoOy7ddVOqDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547872622964133889/pu/img/kwwjdoOy7ddVOqDA.jpg",
+					"url": "https://t.co/kek1tjNCu6",
+					"display_url": "pic.twitter.com/kek1tjNCu6",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547872873762541568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48048,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547872622964133889/pu/pl/yV2dKoCAFaZUV4mt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547872622964133889/pu/vid/480x270/Xy1mkqpk-Cv3iKmB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547872622964133889/pu/vid/640x360/HnytgdtOcqHfXA2p.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547872622964133889/pu/vid/1280x720/U1JGDVLUwDXt-P_N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170254,
+			"friends_count": 1,
+			"listed_count": 380,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547868576266289200,
+		"quoted_status_id_str": "1547868576266289152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lof1exlBw4",
+			"expanded": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152",
+			"display": "twitter.com/SMTOWNGLOBAL/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 15 09:00:01 +0000 2022",
+			"id": 1547868576266289200,
+			"id_str": "1547868576266289152",
+			"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27~28 Sold out\n2022.8.29 ☆New\nTOKYO DOME\naespa Comment ➤\n \n#aespa #SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/wV9Sooq4ae",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aespa",
+						"indices": [
+							104,
+							110
+						]
+					},
+					{
+						"text": "SMTOWN_LIVE",
+						"indices": [
+							111,
+							123
+						]
+					},
+					{
+						"text": "SMCU_EXPRESS_TOKYO",
+						"indices": [
+							124,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1547488938671378400,
+						"id_str": "1547488938671378433",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+						"url": "https://t.co/wV9Sooq4ae",
+						"display_url": "pic.twitter.com/wV9Sooq4ae",
+						"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1154,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547488938671378400,
+						"id_str": "1547488938671378433",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXn7cHOWIAEVDTs.jpg",
+						"url": "https://t.co/wV9Sooq4ae",
+						"display_url": "pic.twitter.com/wV9Sooq4ae",
+						"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1547868576266289152/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1154,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 48063,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/480x270/YURQjZhM_jYfIyUK.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/640x360/aYJUxVVn8OQxZxo-.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1547488938671378433/vid/1280x720/LAE7iQNdUtRvE9Vv.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1547488938671378433/pl/DwJICFLQ-AutheW7.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 884378714,
+				"id_str": "884378714",
+				"name": "SMTOWN",
+				"screen_name": "SMTOWNGLOBAL",
+				"location": "",
+				"description": "SMEntertainment Group Official Twitter",
+				"url": "https://t.co/zjb7YW3ApX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zjb7YW3ApX",
+								"expanded_url": "http://www.smtown.com",
+								"display_url": "smtown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11013833,
+				"friends_count": 56,
+				"listed_count": 12433,
+				"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+				"favourites_count": 2026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12504,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F08BA0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1715,
+			"favorite_count": 4871,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1000,
+		"favorite_count": 3632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO\n2022.8.27-28 Sold out\n2022.8.29 ☆追加公演!!\nTOKYO DOME\n➤aespaのメンバーからコメントが届きました🧚‍♂️\n \n#aespa\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO https://t.co/lof1exlBw4 https://t.co/kek1tjNCu6"
+	},
+	{
+		"created_at": "Fri Jul 15 09:36:53 +0000 2022",
+		"id": 1547869336122957800,
+		"id_str": "1547877855899447297",
+		"full_text": "my song ‘Quietly Yours’ from the @NetflixFilm  ‘Persuasion’ is out now 💛 https://t.co/ylzziTLyw7 https://t.co/JCyEo3CqDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NetflixFilm",
+					"name": "NetflixFilm",
+					"id": 976604963743842300,
+					"id_str": "976604963743842304",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ylzziTLyw7",
+					"expanded_url": "https://netflixmusic.ffm.to/persausion",
+					"display_url": "netflixmusic.ffm.to/persausion",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547866148749791200,
+					"id_str": "1547866148749791233",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547866148749791233/pu/img/gFG9GWsZtoOgN0d7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547866148749791233/pu/img/gFG9GWsZtoOgN0d7.jpg",
+					"url": "https://t.co/JCyEo3CqDf",
+					"display_url": "pic.twitter.com/JCyEo3CqDf",
+					"expanded_url": "https://twitter.com/birdy/status/1547869336122957827/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547866148749791200,
+					"id_str": "1547866148749791233",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547866148749791233/pu/img/gFG9GWsZtoOgN0d7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547866148749791233/pu/img/gFG9GWsZtoOgN0d7.jpg",
+					"url": "https://t.co/JCyEo3CqDf",
+					"display_url": "pic.twitter.com/JCyEo3CqDf",
+					"expanded_url": "https://twitter.com/birdy/status/1547869336122957827/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24767,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547866148749791233/pu/vid/320x320/U9U4zFOPyOPHON31.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547866148749791233/pu/vid/720x720/lw2QjSJKB3HfiAOl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547866148749791233/pu/pl/sY3QWbaLMl6PR-3F.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547866148749791233/pu/vid/540x540/aPbIcZbTtxzKd-u9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "my song Quietly Yours is out now ✨\ntickets to my 2023 european tour are on sale  \nhttps://t.co/AOWSyIrkQ2",
+			"url": "https://t.co/AOWSyIrkQ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310611,
+			"friends_count": 177,
+			"listed_count": 1178,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my song ‘Quietly Yours’ from the @NetflixFilm  ‘Persuasion’ is out now 💛 https://t.co/ylzziTLyw7 https://t.co/JCyEo3CqDf"
+	},
+	{
 		"created_at": "Fri Jul 15 08:40:20 +0000 2022",
 		"id": 1547861092424364000,
 		"id_str": "1547863624479191045",
@@ -232,7 +1339,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Fri Jul 15 08:40:13 +0000 2022",
 		"id": 1547853479095386000,
 		"id_str": "1547863594242478080",
-		"full_text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚‍♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ",
+		"full_text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -362,7 +1469,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚‍♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ"
+		"text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ"
 	},
 	{
 		"created_at": "Fri Jul 15 07:40:15 +0000 2022",
