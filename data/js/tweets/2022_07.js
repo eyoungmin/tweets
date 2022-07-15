@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 23:40:10 +0000 2022",
+		"id": 1547724255697072000,
+		"id_str": "1547727685853401089",
+		"full_text": "[#CHUNGHA NEWS]\n\n청하, 확신의 '서머퀸'('엠카')\n\n🔎 https://t.co/gYYq9ZfjkI\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Pt1 #MV #음악방송 #Sparkling #무대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "Pt1",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "음악방송",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "무대",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gYYq9ZfjkI",
+					"expanded_url": "https://naver.me/5jYrB1t3",
+					"display_url": "naver.me/5jYrB1t3",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/P9q3kf9LFp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P9q3kf9LFp",
+							"expanded_url": "https://orcd.co/honeymilktea",
+							"display_url": "orcd.co/honeymilktea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30792,
+			"friends_count": 7,
+			"listed_count": 317,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CHUNGHA NEWS]\n\n청하, 확신의 '서머퀸'('엠카')\n\n🔎 https://t.co/gYYq9ZfjkI\n\n#청하 #CHUNGHA\n#컴백 #BareRare #Pt1 #MV #음악방송 #Sparkling #무대"
+	},
+	{
 		"created_at": "Thu Jul 14 21:40:17 +0000 2022",
 		"id": 1547695722501247000,
 		"id_str": "1547697517218779136",
