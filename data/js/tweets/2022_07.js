@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 04:40:18 +0000 2022",
+		"id": 1547799131585859600,
+		"id_str": "1547803217504768000",
+		"full_text": "[NEWS] \n선예, 첫 솔로앨범으로 컴백 예정…“가장 나다운 춤” 예고\n\n▶️https://t.co/cuASlv70xC\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cuASlv70xC",
+					"expanded_url": "https://n.news.naver.com/entertain/article/021/0002522274",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17967,
+			"friends_count": 2,
+			"listed_count": 63,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n선예, 첫 솔로앨범으로 컴백 예정…“가장 나다운 춤” 예고\n\n▶️https://t.co/cuASlv70xC\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer"
+	},
+	{
+		"created_at": "Fri Jul 15 04:40:15 +0000 2022",
+		"id": 1547798702521065500,
+		"id_str": "1547803204229873665",
+		"full_text": "[NEWS] \n선예, 첫 솔로 트랙리스트…\"타이틀곡은, Just a dancer\"\n\n▶️https://t.co/dyBkNjJ7Gq\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyBkNjJ7Gq",
+					"expanded_url": "https://n.news.naver.com/entertain/article/433/0000083693",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17967,
+			"friends_count": 2,
+			"listed_count": 63,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n선예, 첫 솔로 트랙리스트…\"타이틀곡은, Just a dancer\"\n\n▶️https://t.co/dyBkNjJ7Gq\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer"
+	},
+	{
+		"created_at": "Fri Jul 15 04:40:13 +0000 2022",
+		"id": 1547792325908107300,
+		"id_str": "1547803194570379266",
+		"full_text": "MCOUNTDOWN🫡💖\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/nNvt3FDgP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547792320913088500,
+					"id_str": "1547792320913088512",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrc6lIaIAAWq86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrc6lIaIAAWq86.jpg",
+					"url": "https://t.co/nNvt3FDgP7",
+					"display_url": "pic.twitter.com/nNvt3FDgP7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547792325908107266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 893,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547792320913088500,
+					"id_str": "1547792320913088512",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrc6lIaIAAWq86.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrc6lIaIAAWq86.jpg",
+					"url": "https://t.co/nNvt3FDgP7",
+					"display_url": "pic.twitter.com/nNvt3FDgP7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547792325908107266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 893,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 744,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547792320908902400,
+					"id_str": "1547792320908902400",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrc6lHaQAAAVrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrc6lHaQAAAVrp.jpg",
+					"url": "https://t.co/nNvt3FDgP7",
+					"display_url": "pic.twitter.com/nNvt3FDgP7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547792325908107266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 833,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547792320934088700,
+					"id_str": "1547792320934088705",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FXrc6lNakAELMhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXrc6lNakAELMhC.jpg",
+					"url": "https://t.co/nNvt3FDgP7",
+					"display_url": "pic.twitter.com/nNvt3FDgP7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547792325908107266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 843,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1547792317062398000,
+		"in_reply_to_status_id_str": "1547792317062397952",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2937664,
+			"friends_count": 2,
+			"listed_count": 9021,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4384,
+		"favorite_count": 15561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MCOUNTDOWN🫡💖\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/nNvt3FDgP7"
+	},
+	{
 		"created_at": "Fri Jul 15 03:40:28 +0000 2022",
 		"id": 1547778061655244800,
 		"id_str": "1547788161303973890",
