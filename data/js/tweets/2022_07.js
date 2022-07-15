@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 14:40:16 +0000 2022",
+		"id": 1547948291723505700,
+		"id_str": "1547954203192045571",
+		"full_text": "This is TVT Club 1회차💥\n⠀\nTVT 단독공연 1회차 공연을 함께해주신 모든 분들 감사합니다! 오랜만에 많은 관객분들의 에너지로 정말 즐거운 시간이었습니다. 내일 또 만나요!!💘\n\n#thevolunteers #tvt #thisistvtclub https://t.co/azzp6YqH65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						128,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547948285247488000,
+					"id_str": "1547948285247488001",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXtqw5jaAAEMJmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXtqw5jaAAEMJmX.jpg",
+					"url": "https://t.co/azzp6YqH65",
+					"display_url": "pic.twitter.com/azzp6YqH65",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1547948291723505665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547948285247488000,
+					"id_str": "1547948285247488001",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXtqw5jaAAEMJmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXtqw5jaAAEMJmX.jpg",
+					"url": "https://t.co/azzp6YqH65",
+					"display_url": "pic.twitter.com/azzp6YqH65",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1547948291723505665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7873,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club 1회차💥\n⠀\nTVT 단독공연 1회차 공연을 함께해주신 모든 분들 감사합니다! 오랜만에 많은 관객분들의 에너지로 정말 즐거운 시간이었습니다. 내일 또 만나요!!💘\n\n#thevolunteers #tvt #thisistvtclub https://t.co/azzp6YqH65"
+	},
+	{
+		"created_at": "Fri Jul 15 14:40:13 +0000 2022",
+		"id": 1547944321416106000,
+		"id_str": "1547954190793641984",
+		"full_text": "The 2nd Mini Album \"#Girls\" International Ver. 💘\n\n💿Pick up your copy at your local Barnes &amp; Noble!\n💿Find the international version HERE👇\nhttps://t.co/iMhcMqNcSo \n\nAlso, digital version albums are now available, featuring a message from #aespa 💌\nhttps://t.co/zNY6W8xlAr https://t.co/oYR1AIFuwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Girls",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						240,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iMhcMqNcSo",
+					"expanded_url": "https://bit.ly/3RvR30h",
+					"display_url": "bit.ly/3RvR30h",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/zNY6W8xlAr",
+					"expanded_url": "https://aespa.lnk.to/GirlsEP",
+					"display_url": "aespa.lnk.to/GirlsEP",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547916855582412800,
+					"id_str": "1547916855582412800",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FXtOLc7UUAAXNP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXtOLc7UUAAXNP7.jpg",
+					"url": "https://t.co/oYR1AIFuwJ",
+					"display_url": "pic.twitter.com/oYR1AIFuwJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547944321416105984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547916855582412800,
+					"id_str": "1547916855582412800",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FXtOLc7UUAAXNP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXtOLc7UUAAXNP7.jpg",
+					"url": "https://t.co/oYR1AIFuwJ",
+					"display_url": "pic.twitter.com/oYR1AIFuwJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547944321416105984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547916855582396400,
+					"id_str": "1547916855582396419",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FXtOLc7UEAM9EY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXtOLc7UEAM9EY2.jpg",
+					"url": "https://t.co/oYR1AIFuwJ",
+					"display_url": "pic.twitter.com/oYR1AIFuwJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547944321416105984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2940551,
+			"friends_count": 2,
+			"listed_count": 9027,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4525,
+		"favorite_count": 15802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2nd Mini Album \"#Girls\" International Ver. 💘\n\n💿Pick up your copy at your local Barnes &amp; Noble!\n💿Find the international version HERE👇\nhttps://t.co/iMhcMqNcSo \n\nAlso, digital version albums are now available, featuring a message from #aespa 💌\nhttps://t.co/zNY6W8xlAr https://t.co/oYR1AIFuwJ"
+	},
+	{
 		"created_at": "Fri Jul 15 13:40:18 +0000 2022",
 		"id": 1547898775737208800,
 		"id_str": "1547939114275594240",
