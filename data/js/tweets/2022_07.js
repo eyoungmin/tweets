@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 11:45:37 +0000 2022",
+		"id": 1547899170752630800,
+		"id_str": "1547910252682571776",
+		"full_text": "지금 보건실 생방송으로 열렸다! \n오늘 방문학생은 귀여움 한도 초과 #츄 #츠키💓\n\n어서 들어오라구💊 https://t.co/HnZvpVHzsd\n#주우재 #김용명 #보건교사아는형 #이달의소녀 #빌리 https://t.co/t4hPY0h4oO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						38,
+						40
+					]
+				},
+				{
+					"text": "츠키",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "주우재",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "김용명",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "보건교사아는형",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						107,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HnZvpVHzsd",
+					"expanded_url": "https://now.naver.com/l/1733211",
+					"display_url": "now.naver.com/l/1733211",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547898874043412500,
+					"id_str": "1547898874043412480",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs90yeVsAAcloe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs90yeVsAAcloe.jpg",
+					"url": "https://t.co/t4hPY0h4oO",
+					"display_url": "pic.twitter.com/t4hPY0h4oO",
+					"expanded_url": "https://twitter.com/kr_now/status/1547899170752630791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1108,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547898874043412500,
+					"id_str": "1547898874043412480",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs90yeVsAAcloe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs90yeVsAAcloe.jpg",
+					"url": "https://t.co/t4hPY0h4oO",
+					"display_url": "pic.twitter.com/t4hPY0h4oO",
+					"expanded_url": "https://twitter.com/kr_now/status/1547899170752630791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1108,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196012,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1230,
+		"favorite_count": 3524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 보건실 생방송으로 열렸다! \n오늘 방문학생은 귀여움 한도 초과 #츄 #츠키💓\n\n어서 들어오라구💊 https://t.co/HnZvpVHzsd\n#주우재 #김용명 #보건교사아는형 #이달의소녀 #빌리 https://t.co/t4hPY0h4oO"
+	},
+	{
+		"created_at": "Fri Jul 15 11:40:23 +0000 2022",
+		"id": 1547907579249979400,
+		"id_str": "1547908935482413060",
+		"full_text": "[📸]\n\n昨日のMCOUNTDOWNの現場より🫡💖\n始まったばかりのGirls活動、たくさんご期待ください🙌\n\n#aespa #æspa #에스파 #エスパ\n#Girls #aespa_Girls https://t.co/h427I3cGLV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547895815603007500,
+					"id_str": "1547895815603007494",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs7Cw5UsAYbob-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs7Cw5UsAYbob-.jpg",
+					"url": "https://t.co/h427I3cGLV",
+					"display_url": "pic.twitter.com/h427I3cGLV",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547907579249979392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547895815603007500,
+					"id_str": "1547895815603007494",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs7Cw5UsAYbob-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs7Cw5UsAYbob-.jpg",
+					"url": "https://t.co/h427I3cGLV",
+					"display_url": "pic.twitter.com/h427I3cGLV",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1547907579249979392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170378,
+			"friends_count": 1,
+			"listed_count": 381,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1457,
+		"favorite_count": 5602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📸]\n\n昨日のMCOUNTDOWNの現場より🫡💖\n始まったばかりのGirls活動、たくさんご期待ください🙌\n\n#aespa #æspa #에스파 #エスパ\n#Girls #aespa_Girls https://t.co/h427I3cGLV"
+	},
+	{
+		"created_at": "Fri Jul 15 11:40:19 +0000 2022",
+		"id": 1547898813934841900,
+		"id_str": "1547908917941792775",
+		"full_text": "선예(SUNYE)\n1st Solo Album Concept Photo #2\n\n2022.07.19 Lead Single “Glass Heart”\n-\n2022.07.26 1st Solo Album [GENUINE]\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer https://t.co/f2Uqmvjapx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						151,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547898802446962700,
+					"id_str": "1547898802446962690",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs9wnwakAIs3pH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs9wnwakAIs3pH.jpg",
+					"url": "https://t.co/f2Uqmvjapx",
+					"display_url": "pic.twitter.com/f2Uqmvjapx",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547898813934841862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 666,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 666,
+							"h": 994,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547898802446962700,
+					"id_str": "1547898802446962690",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs9wnwakAIs3pH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs9wnwakAIs3pH.jpg",
+					"url": "https://t.co/f2Uqmvjapx",
+					"display_url": "pic.twitter.com/f2Uqmvjapx",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547898813934841862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 666,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 666,
+							"h": 994,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547898802446942200,
+					"id_str": "1547898802446942213",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs9wnwaQAU37aQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs9wnwaQAU37aQ.jpg",
+					"url": "https://t.co/f2Uqmvjapx",
+					"display_url": "pic.twitter.com/f2Uqmvjapx",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547898813934841862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547898802480480300,
+					"id_str": "1547898802480480260",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FXs9wn4aAAQM1sV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXs9wn4aAAQM1sV.jpg",
+					"url": "https://t.co/f2Uqmvjapx",
+					"display_url": "pic.twitter.com/f2Uqmvjapx",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1547898813934841862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 667,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17983,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album Concept Photo #2\n\n2022.07.19 Lead Single “Glass Heart”\n-\n2022.07.26 1st Solo Album [GENUINE]\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer https://t.co/f2Uqmvjapx"
+	},
+	{
 		"created_at": "Fri Jul 15 10:40:19 +0000 2022",
 		"id": 1547883883491823600,
 		"id_str": "1547893819756068865",
