@@ -1,10 +1,374 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 08:40:20 +0000 2022",
+		"id": 1547861092424364000,
+		"id_str": "1547863624479191045",
+		"full_text": "에스파 혼돈의 세계관에 멘탈붕괴 온 명자 '아... 얘네 이상해 에스파 되기 쉽지 않네'ㅣ할명수 ep.8\n\nhttps://t.co/CGNFEfd8wg\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#할명수 https://t.co/3isabTQurh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"text": "할명수",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CGNFEfd8wg",
+					"expanded_url": "https://youtu.be/TFKs0BKc20U",
+					"display_url": "youtu.be/TFKs0BKc20U",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547861079967301600,
+					"id_str": "1547861079967301633",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FXsbc4kagAEP0Vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXsbc4kagAEP0Vd.jpg",
+					"url": "https://t.co/3isabTQurh",
+					"display_url": "pic.twitter.com/3isabTQurh",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547861092424364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547861079967301600,
+					"id_str": "1547861079967301633",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FXsbc4kagAEP0Vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXsbc4kagAEP0Vd.jpg",
+					"url": "https://t.co/3isabTQurh",
+					"display_url": "pic.twitter.com/3isabTQurh",
+					"expanded_url": "https://twitter.com/aespa_official/status/1547861092424364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2938853,
+			"friends_count": 2,
+			"listed_count": 9021,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3294,
+		"favorite_count": 8392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 혼돈의 세계관에 멘탈붕괴 온 명자 '아... 얘네 이상해 에스파 되기 쉽지 않네'ㅣ할명수 ep.8\n\nhttps://t.co/CGNFEfd8wg\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#할명수 https://t.co/3isabTQurh"
+	},
+	{
+		"created_at": "Fri Jul 15 08:40:13 +0000 2022",
+		"id": 1547853479095386000,
+		"id_str": "1547863594242478080",
+		"full_text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚‍♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s5Nbr0Ut7V",
+					"expanded_url": "https://aespa-official.jp/news/synk_lineofficial/",
+					"display_url": "aespa-official.jp/news/synk_line…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170186,
+			"friends_count": 1,
+			"listed_count": 382,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 540,
+		"favorite_count": 2438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\nLINEお友だち限定👭💕\n初来日イベント『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』のLINE先行受付が本日18時よりスタート‼️\n\nぜひ私たちとお友達になって会いに来てください💙⭐️🌙🦋\n\n詳細はこちら🧚‍♂️\n☑️https://t.co/s5Nbr0Ut7V\n\n#aespa #æspa #에스파 #エスパ"
+	},
+	{
 		"created_at": "Fri Jul 15 07:40:15 +0000 2022",
 		"id": 1547844413019197400,
 		"id_str": "1547848503321186305",
-		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました💙\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/C2U7kKDwDa",
+		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました💙\n\n☑️お友達登録はこちら🧚♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/C2U7kKDwDa",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +547,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました💙\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/C2U7kKDwDa"
+		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました💙\n\n☑️お友達登録はこちら🧚♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/C2U7kKDwDa"
 	},
 	{
 		"created_at": "Fri Jul 15 07:18:49 +0000 2022",
