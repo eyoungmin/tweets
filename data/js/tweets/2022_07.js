@@ -1,10 +1,471 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 14:40:23 +0000 2022",
+		"id": 1548308251485171700,
+		"id_str": "1548316619796987907",
+		"full_text": "[#BE_ORIGINAL 시청인증이벤트] 청하의 'BE ORIGINAL'을 시청한 후 가장 청량한 퍼포먼스를 캡쳐해 #BEORIGINAL_청하 해시태그와 함께 멘션을 보내주세요! 추첨을 통해 청하의 싸인 폴라로이드를 드립니다.  #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM https://t.co/YXImShJmXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "BEORIGINAL_청하",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						152,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548308244782649300,
+					"id_str": "1548308244782649345",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyyJTUUEAEmmSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyyJTUUEAEmmSc.jpg",
+					"url": "https://t.co/YXImShJmXF",
+					"display_url": "pic.twitter.com/YXImShJmXF",
+					"expanded_url": "https://twitter.com/M2MPD/status/1548308251485171712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548308244782649300,
+					"id_str": "1548308244782649345",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyyJTUUEAEmmSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyyJTUUEAEmmSc.jpg",
+					"url": "https://t.co/YXImShJmXF",
+					"display_url": "pic.twitter.com/YXImShJmXF",
+					"expanded_url": "https://twitter.com/M2MPD/status/1548308251485171712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1548306468822204400,
+		"in_reply_to_status_id_str": "1548306468822204416",
+		"in_reply_to_user_id": 589808615,
+		"in_reply_to_user_id_str": "589808615",
+		"in_reply_to_screen_name": "M2MPD",
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256393,
+			"friends_count": 463,
+			"listed_count": 1572,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#BE_ORIGINAL 시청인증이벤트] 청하의 'BE ORIGINAL'을 시청한 후 가장 청량한 퍼포먼스를 캡쳐해 #BEORIGINAL_청하 해시태그와 함께 멘션을 보내주세요! 추첨을 통해 청하의 싸인 폴라로이드를 드립니다.  #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM https://t.co/YXImShJmXF"
+	},
+	{
+		"created_at": "Sat Jul 16 14:40:11 +0000 2022",
+		"id": 1548306468822204400,
+		"id_str": "1548316572225134595",
+		"full_text": "이름은 청하요 호는 써머퀸이로다! 이 여름을 지배할 써머퀸 청하의 스춤 왔스파클✨ #BE_ORIGINAL #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM\n\n▶ https://t.co/ySgI3MZtMA https://t.co/jaRbSDLjTO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ySgI3MZtMA",
+					"expanded_url": "https://youtu.be/IIP_kibV7cw",
+					"display_url": "youtu.be/IIP_kibV7cw",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548185401193406500,
+					"id_str": "1548185401193406466",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxCa3SUIAIwefP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxCa3SUIAIwefP.jpg",
+					"url": "https://t.co/jaRbSDLjTO",
+					"display_url": "pic.twitter.com/jaRbSDLjTO",
+					"expanded_url": "https://twitter.com/M2MPD/status/1548306468822204416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548185401193406500,
+					"id_str": "1548185401193406466",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxCa3SUIAIwefP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxCa3SUIAIwefP.jpg",
+					"url": "https://t.co/jaRbSDLjTO",
+					"display_url": "pic.twitter.com/jaRbSDLjTO",
+					"expanded_url": "https://twitter.com/M2MPD/status/1548306468822204416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256393,
+			"friends_count": 463,
+			"listed_count": 1572,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이름은 청하요 호는 써머퀸이로다! 이 여름을 지배할 써머퀸 청하의 스춤 왔스파클✨ #BE_ORIGINAL #청하 #Sparkling #CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM\n\n▶ https://t.co/ySgI3MZtMA https://t.co/jaRbSDLjTO"
+	},
+	{
 		"created_at": "Sat Jul 16 13:40:46 +0000 2022",
 		"id": 1548293625712300000,
 		"id_str": "1548301617547489287",
-		"full_text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚‍♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC",
+		"full_text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -223,7 +684,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚‍♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC"
+		"text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC"
 	},
 	{
 		"created_at": "Sat Jul 16 13:40:24 +0000 2022",
