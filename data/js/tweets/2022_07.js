@@ -1,6 +1,769 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 13:40:46 +0000 2022",
+		"id": 1548293625712300000,
+		"id_str": "1548301617547489287",
+		"full_text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚‍♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "Illusion",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "aespa_illusion",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548293604543631400,
+					"id_str": "1548293604543631365",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyk1ILVEAUKCFs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyk1ILVEAUKCFs.jpg",
+					"url": "https://t.co/TNNO9wjysC",
+					"display_url": "pic.twitter.com/TNNO9wjysC",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548293625712300037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548293604543631400,
+					"id_str": "1548293604543631365",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyk1ILVEAUKCFs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyk1ILVEAUKCFs.jpg",
+					"url": "https://t.co/TNNO9wjysC",
+					"display_url": "pic.twitter.com/TNNO9wjysC",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548293625712300037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171405,
+			"friends_count": 1,
+			"listed_count": 391,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1794,
+		"favorite_count": 7325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📸]\n\nショー！音楽中心の現場よりIllusionのステージ衣装の写真が届きました🫡💙⭐️🌙🦋\n\nGirlsとIllusionの2曲で披露されたaespaの魅力、たくさん感じてくださっていたら嬉しいです🙌\n来週の活躍もお楽しみに🧚‍♂️✨\n\n#aespa #æspa #에스파 #エスパ\n#Girls #Illusion #aespa_illusion https://t.co/TNNO9wjysC"
+	},
+	{
+		"created_at": "Sat Jul 16 13:40:24 +0000 2022",
+		"id": 1548292618656059400,
+		"id_str": "1548301527038562306",
+		"full_text": "The Volunteers 'This is TVT Club' Day 2💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/sQgWhZe2yN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548292612196810800,
+					"id_str": "1548292612196810752",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj7XZaQAAz-eh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj7XZaQAAz-eh.jpg",
+					"url": "https://t.co/sQgWhZe2yN",
+					"display_url": "pic.twitter.com/sQgWhZe2yN",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292618656059392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548292612196810800,
+					"id_str": "1548292612196810752",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj7XZaQAAz-eh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj7XZaQAAz-eh.jpg",
+					"url": "https://t.co/sQgWhZe2yN",
+					"display_url": "pic.twitter.com/sQgWhZe2yN",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292618656059392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548292612184232000,
+					"id_str": "1548292612184231939",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj7XWaUAMOls8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj7XWaUAMOls8.jpg",
+					"url": "https://t.co/sQgWhZe2yN",
+					"display_url": "pic.twitter.com/sQgWhZe2yN",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292618656059392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548292612167471000,
+					"id_str": "1548292612167471105",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj7XSakAEes2T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj7XSakAEes2T.jpg",
+					"url": "https://t.co/sQgWhZe2yN",
+					"display_url": "pic.twitter.com/sQgWhZe2yN",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292618656059392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548292612192620500,
+					"id_str": "1548292612192620544",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj7XYaUAA9cpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj7XYaUAA9cpg.jpg",
+					"url": "https://t.co/sQgWhZe2yN",
+					"display_url": "pic.twitter.com/sQgWhZe2yN",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292618656059392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7979,
+			"friends_count": 2,
+			"listed_count": 57,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Volunteers 'This is TVT Club' Day 2💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/sQgWhZe2yN"
+	},
+	{
+		"created_at": "Sat Jul 16 13:40:16 +0000 2022",
+		"id": 1548292658996871200,
+		"id_str": "1548301492703989761",
+		"full_text": "The Volunteers 'This is TVT Club' Day 2💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/dea8S4evgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548292654144041000,
+					"id_str": "1548292654144040960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj9zqaMAAwTll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj9zqaMAAwTll.jpg",
+					"url": "https://t.co/dea8S4evgR",
+					"display_url": "pic.twitter.com/dea8S4evgR",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292658996871171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548292654144041000,
+					"id_str": "1548292654144040960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj9zqaMAAwTll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj9zqaMAAwTll.jpg",
+					"url": "https://t.co/dea8S4evgR",
+					"display_url": "pic.twitter.com/dea8S4evgR",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292658996871171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548292654160826400,
+					"id_str": "1548292654160826369",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FXyj9zuaUAEk4sf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXyj9zuaUAEk4sf.jpg",
+					"url": "https://t.co/dea8S4evgR",
+					"display_url": "pic.twitter.com/dea8S4evgR",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548292658996871171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7979,
+			"friends_count": 2,
+			"listed_count": 57,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Volunteers 'This is TVT Club' Day 2💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/dea8S4evgR"
+	},
+	{
 		"created_at": "Sat Jul 16 12:40:10 +0000 2022",
 		"id": 1548285870649720800,
 		"id_str": "1548286366953250817",
