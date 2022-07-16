@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 07:40:17 +0000 2022",
+		"id": 1548202943643791400,
+		"id_str": "1548210901152440325",
+		"full_text": "#쇼음악중심\n\nGirls ➫ https://t.co/uFvAOehX0z \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						67,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uFvAOehX0z",
+					"expanded_url": "https://tv.naver.com/v/27981645",
+					"display_url": "tv.naver.com/v/27981645",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2943920,
+			"friends_count": 2,
+			"listed_count": 9036,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3431,
+		"favorite_count": 10304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#쇼음악중심\n\nGirls ➫ https://t.co/uFvAOehX0z \n\n#aespa #æspa #에스파\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Sat Jul 16 07:40:15 +0000 2022",
+		"id": 1548202582535176200,
+		"id_str": "1548210892080181249",
+		"full_text": "#쇼음악중심\n\n도깨비불 (Illusion) ➫ https://t.co/Qy9VPVhGLv\n\n#aespa #æspa #에스파\n#aespa_도깨비불 #aespa_Illusion \n#도깨비불 #Illusion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "aespa_도깨비불",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "aespa_Illusion",
+					"indices": [
+						81,
+						96
+					]
+				},
+				{
+					"text": "도깨비불",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Illusion",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qy9VPVhGLv",
+					"expanded_url": "https://tv.naver.com/v/27981600",
+					"display_url": "tv.naver.com/v/27981600",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2943920,
+			"friends_count": 2,
+			"listed_count": 9036,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3333,
+		"favorite_count": 9649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼음악중심\n\n도깨비불 (Illusion) ➫ https://t.co/Qy9VPVhGLv\n\n#aespa #æspa #에스파\n#aespa_도깨비불 #aespa_Illusion \n#도깨비불 #Illusion"
+	},
+	{
 		"created_at": "Sat Jul 16 06:16:27 +0000 2022",
 		"id": 1548183144683016200,
 		"id_str": "1548189801794285568",
