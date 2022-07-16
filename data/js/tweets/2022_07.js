@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 03:40:31 +0000 2022",
+		"id": 1548142625521164300,
+		"id_str": "1548150558405451776",
+		"full_text": "이벤트 시간 변경 확인하기\n\n👇👇👇👇👇 https://t.co/BiySjKUVQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BiySjKUVQj",
+					"expanded_url": "https://twitter.com/m_musicndrama/status/1548141655152152576",
+					"display_url": "twitter.com/m_musicndrama/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1547778055405699000,
+		"in_reply_to_status_id_str": "1547778055405699072",
+		"in_reply_to_user_id": 1410783363007336400,
+		"in_reply_to_user_id_str": "1410783363007336449",
+		"in_reply_to_screen_name": "m_MUSICNDRAMA",
+		"user": {
+			"id": 1410783363007336400,
+			"id_str": "1410783363007336449",
+			"name": "뮤직앤드라마 MUSIC&DRAMA",
+			"screen_name": "m_MUSICNDRAMA",
+			"location": "",
+			"description": "음반&영상물 전문 쇼핑몰 뮤직앤드라마 공식 트위터입니다. \nMusic&Drama Official Twitter Account",
+			"url": "https://t.co/aqXDVVbTz1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aqXDVVbTz1",
+							"expanded_url": "https://www.musicndrama.com/",
+							"display_url": "musicndrama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jul 02 02:12:26 +0000 2021",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410783363007336449/1625466984",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548141655152152600,
+		"quoted_status_id_str": "1548141655152152576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BiySjKUVQj",
+			"expanded": "https://twitter.com/m_musicndrama/status/1548141655152152576",
+			"display": "twitter.com/m_musicndrama/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 16 03:05:08 +0000 2022",
+			"id": 1548141655152152600,
+			"id_str": "1548141655152152576",
+			"full_text": "#청하 (#CHUNGHA) - 정규 2집 【Bare&amp;Rare Pt.1】 국내 활동 마지막 대면 사인회 \n\n❗️이벤트 시간 변경❗️\n\n• 당첨: 50명\n• EVENT TIME: 2022.07.24 18:00PM(KST)\n• PERIOD: 7/15 12:00 ~7/17 18:00PM\n\n🔗 https://t.co/9yUiNPS9Bj\n\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/wvM8B8eXar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							0,
+							3
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							5,
+							13
+						]
+					},
+					{
+						"text": "BareRare",
+						"indices": [
+							189,
+							198
+						]
+					},
+					{
+						"text": "Sparkling",
+						"indices": [
+							199,
+							209
+						]
+					},
+					{
+						"text": "뮤직앤드라마",
+						"indices": [
+							210,
+							217
+						]
+					},
+					{
+						"text": "뮤앤드",
+						"indices": [
+							218,
+							222
+						]
+					},
+					{
+						"text": "뮤드",
+						"indices": [
+							223,
+							226
+						]
+					},
+					{
+						"text": "MUSICNDRAMA",
+						"indices": [
+							227,
+							239
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9yUiNPS9Bj",
+						"expanded_url": "http://bit.ly/3yNHi5k",
+						"display_url": "bit.ly/3yNHi5k",
+						"indices": [
+							164,
+							187
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1548141648047067100,
+						"id_str": "1548141648047067139",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+						"url": "https://t.co/wvM8B8eXar",
+						"display_url": "pic.twitter.com/wvM8B8eXar",
+						"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 326,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 982,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548141648047067100,
+						"id_str": "1548141648047067139",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+						"url": "https://t.co/wvM8B8eXar",
+						"display_url": "pic.twitter.com/wvM8B8eXar",
+						"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 326,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 982,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1548141648051196000,
+						"id_str": "1548141648051195906",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/FXwaoGIUUAIB507.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXwaoGIUUAIB507.jpg",
+						"url": "https://t.co/wvM8B8eXar",
+						"display_url": "pic.twitter.com/wvM8B8eXar",
+						"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 575,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 982,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 326,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1410783363007336400,
+				"id_str": "1410783363007336449",
+				"name": "뮤직앤드라마 MUSIC&DRAMA",
+				"screen_name": "m_MUSICNDRAMA",
+				"location": "",
+				"description": "음반&영상물 전문 쇼핑몰 뮤직앤드라마 공식 트위터입니다. \nMusic&Drama Official Twitter Account",
+				"url": "https://t.co/aqXDVVbTz1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aqXDVVbTz1",
+								"expanded_url": "https://www.musicndrama.com/",
+								"display_url": "musicndrama.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 358,
+				"friends_count": 0,
+				"listed_count": 3,
+				"created_at": "Fri Jul 02 02:12:26 +0000 2021",
+				"favourites_count": 11,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410783363007336449/1625466984",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 23,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이벤트 시간 변경 확인하기\n\n👇👇👇👇👇 https://t.co/BiySjKUVQj"
+	},
+	{
+		"created_at": "Sat Jul 16 03:40:22 +0000 2022",
+		"id": 1548141655152152600,
+		"id_str": "1548150524049928195",
+		"full_text": "#청하 (#CHUNGHA) - 정규 2집 【Bare&amp;Rare Pt.1】 국내 활동 마지막 대면 사인회 \n\n❗️이벤트 시간 변경❗️\n\n• 당첨: 50명\n• EVENT TIME: 2022.07.24 18:00PM(KST)\n• PERIOD: 7/15 12:00 ~7/17 18:00PM\n\n🔗 https://t.co/9yUiNPS9Bj\n\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/wvM8B8eXar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "뮤직앤드라마",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "뮤앤드",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "뮤드",
+					"indices": [
+						223,
+						226
+					]
+				},
+				{
+					"text": "MUSICNDRAMA",
+					"indices": [
+						227,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9yUiNPS9Bj",
+					"expanded_url": "http://bit.ly/3yNHi5k",
+					"display_url": "bit.ly/3yNHi5k",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548141648047067100,
+					"id_str": "1548141648047067139",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+					"url": "https://t.co/wvM8B8eXar",
+					"display_url": "pic.twitter.com/wvM8B8eXar",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548141648047067100,
+					"id_str": "1548141648047067139",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXwaoGHVUAMv9rs.jpg",
+					"url": "https://t.co/wvM8B8eXar",
+					"display_url": "pic.twitter.com/wvM8B8eXar",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548141648051196000,
+					"id_str": "1548141648051195906",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FXwaoGIUUAIB507.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXwaoGIUUAIB507.jpg",
+					"url": "https://t.co/wvM8B8eXar",
+					"display_url": "pic.twitter.com/wvM8B8eXar",
+					"expanded_url": "https://twitter.com/m_MUSICNDRAMA/status/1548141655152152576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1410783363007336400,
+			"id_str": "1410783363007336449",
+			"name": "뮤직앤드라마 MUSIC&DRAMA",
+			"screen_name": "m_MUSICNDRAMA",
+			"location": "",
+			"description": "음반&영상물 전문 쇼핑몰 뮤직앤드라마 공식 트위터입니다. \nMusic&Drama Official Twitter Account",
+			"url": "https://t.co/aqXDVVbTz1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aqXDVVbTz1",
+							"expanded_url": "https://www.musicndrama.com/",
+							"display_url": "musicndrama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Fri Jul 02 02:12:26 +0000 2021",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410783525037506564/wUbmB89P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1410783363007336449/1625466984",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 (#CHUNGHA) - 정규 2집 【Bare&amp;Rare Pt.1】 국내 활동 마지막 대면 사인회 \n\n❗️이벤트 시간 변경❗️\n\n• 당첨: 50명\n• EVENT TIME: 2022.07.24 18:00PM(KST)\n• PERIOD: 7/15 12:00 ~7/17 18:00PM\n\n🔗 https://t.co/9yUiNPS9Bj\n\n#BareRare #Sparkling #뮤직앤드라마 #뮤앤드 #뮤드 #MUSICNDRAMA https://t.co/wvM8B8eXar"
+	},
+	{
+		"created_at": "Sat Jul 16 03:40:15 +0000 2022",
+		"id": 1548140397222047700,
+		"id_str": "1548150493834141701",
+		"full_text": "Lead Single “Glass Heart”의 발매 일정이\n2022.07.19 12PM (KST)로 변경되었습니다.\n\n19일날 공개되는 선예 Glass Heart 많은 관심과 사랑 부탁드립니다. https://t.co/mzJE0TE0nW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548140390519558100,
+					"id_str": "1548140390519558145",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FXwZe5daUAEfnhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXwZe5daUAEfnhX.jpg",
+					"url": "https://t.co/mzJE0TE0nW",
+					"display_url": "pic.twitter.com/mzJE0TE0nW",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1548140397222047744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548140390519558100,
+					"id_str": "1548140390519558145",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FXwZe5daUAEfnhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXwZe5daUAEfnhX.jpg",
+					"url": "https://t.co/mzJE0TE0nW",
+					"display_url": "pic.twitter.com/mzJE0TE0nW",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1548140397222047744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18067,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Lead Single “Glass Heart”의 발매 일정이\n2022.07.19 12PM (KST)로 변경되었습니다.\n\n19일날 공개되는 선예 Glass Heart 많은 관심과 사랑 부탁드립니다. https://t.co/mzJE0TE0nW"
+	},
+	{
 		"created_at": "Sat Jul 16 02:40:18 +0000 2022",
 		"id": 1548132692377473000,
 		"id_str": "1548135407568576513",
