@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 09:40:23 +0000 2022",
+		"id": 1548593353129861000,
+		"id_str": "1548603511759405057",
+		"full_text": "📢 청량뿜뿜! 💗CHUNGHA #왕크왕캠💗\n썸머퀸! 갓청하! 빛청하!의 Sparkling 왕캠!\n별하랑 회원님들... 오셔서 꼭 꼭 봐야함!!\n\n💗the Bigger the Better Cam💗🌟CHUNGHA🌟\nCheck below link to watch it!\n▶️https://t.co/57XWx5ESsF\n\n#청하 #CHUNGHA #Sparkling\n@CHUNGHA_MNHent https://t.co/2a7vcCScjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왕크왕캠",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						199,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/57XWx5ESsF",
+					"expanded_url": "https://youtu.be/6A-6Nc4I8Y0",
+					"display_url": "youtu.be/6A-6Nc4I8Y0",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548574985786011600,
+					"id_str": "1548574985786011648",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548574985786011648/pu/img/ZxznZD5ity-_RcyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548574985786011648/pu/img/ZxznZD5ity-_RcyM.jpg",
+					"url": "https://t.co/2a7vcCScjX",
+					"display_url": "pic.twitter.com/2a7vcCScjX",
+					"expanded_url": "https://twitter.com/radiombc/status/1548593353129861120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548574985786011600,
+					"id_str": "1548574985786011648",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548574985786011648/pu/img/ZxznZD5ity-_RcyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548574985786011648/pu/img/ZxznZD5ity-_RcyM.jpg",
+					"url": "https://t.co/2a7vcCScjX",
+					"display_url": "pic.twitter.com/2a7vcCScjX",
+					"expanded_url": "https://twitter.com/radiombc/status/1548593353129861120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25925,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548574985786011648/pu/pl/YRypddY_VChXYUqI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548574985786011648/pu/vid/640x360/y0_tzlejllmllzqO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548574985786011648/pu/vid/480x270/DKJNqHX29rWzZe9n.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548574985786011648/pu/vid/1280x720/RC6CVxYRzpol3ieT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/3bHlpZUg3l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3bHlpZUg3l",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80333,
+			"friends_count": 43,
+			"listed_count": 601,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 청량뿜뿜! 💗CHUNGHA #왕크왕캠💗\n썸머퀸! 갓청하! 빛청하!의 Sparkling 왕캠!\n별하랑 회원님들... 오셔서 꼭 꼭 봐야함!!\n\n💗the Bigger the Better Cam💗🌟CHUNGHA🌟\nCheck below link to watch it!\n▶️https://t.co/57XWx5ESsF\n\n#청하 #CHUNGHA #Sparkling\n@CHUNGHA_MNHent https://t.co/2a7vcCScjX"
+	},
+	{
+		"created_at": "Sun Jul 17 09:40:10 +0000 2022",
+		"id": 1548589066278641700,
+		"id_str": "1548603456470110213",
+		"full_text": "My Universe \nStade de France, Paris\n16 July 2022\n#ColdplayParis #BTS 💜 https://t.co/DmaHykkSqI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayParis",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						64,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548588970174472200,
+					"id_str": "1548588970174472195",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548588970174472195/pu/img/bKIoq4QKApMyNmMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548588970174472195/pu/img/bKIoq4QKApMyNmMg.jpg",
+					"url": "https://t.co/DmaHykkSqI",
+					"display_url": "pic.twitter.com/DmaHykkSqI",
+					"expanded_url": "https://twitter.com/coldplay/status/1548589066278641672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548588970174472200,
+					"id_str": "1548588970174472195",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548588970174472195/pu/img/bKIoq4QKApMyNmMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548588970174472195/pu/img/bKIoq4QKApMyNmMg.jpg",
+					"url": "https://t.co/DmaHykkSqI",
+					"display_url": "pic.twitter.com/DmaHykkSqI",
+					"expanded_url": "https://twitter.com/coldplay/status/1548589066278641672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18935,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548588970174472195/pu/vid/640x360/_6Gae7y2ucp0uM7a.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548588970174472195/pu/vid/480x270/8JS7jKeEyLbbELX3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548588970174472195/pu/vid/1280x720/p9puM78Afr8sxJg5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548588970174472195/pu/pl/Szddh6W7L7HcxSzA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602066,
+			"friends_count": 776,
+			"listed_count": 42468,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7258,
+		"favorite_count": 22815,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My Universe \nStade de France, Paris\n16 July 2022\n#ColdplayParis #BTS 💜 https://t.co/DmaHykkSqI"
+	},
+	{
 		"created_at": "Sun Jul 17 08:40:26 +0000 2022",
 		"id": 1548522244309405700,
 		"id_str": "1548588424344621062",
