@@ -1,10 +1,177 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 06:40:10 +0000 2022",
+		"id": 1548555599784329200,
+		"id_str": "1548558157538070529",
+		"full_text": "[📺] @sbsnoriter @SBSNOW\n잠시 후, SBS ‘#인기가요’에\n청하가 출연합니다!💙\n\n✔️ PM 3:50\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						104,
+						121
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						122,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbsnoriter",
+					"name": "SBS인기가요 (SBS Inkigayo)",
+					"id": 1130755875210088400,
+					"id_str": "1130755875210088448",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"screen_name": "SBSNOW",
+					"name": "SBS",
+					"id": 113259902,
+					"id_str": "113259902",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352579,
+			"friends_count": 1,
+			"listed_count": 2170,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] @sbsnoriter @SBSNOW\n잠시 후, SBS ‘#인기가요’에\n청하가 출연합니다!💙\n\n✔️ PM 3:50\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
 		"created_at": "Sun Jul 17 05:40:10 +0000 2022",
 		"id": 1548533453129490400,
 		"id_str": "1548543057573863426",
-		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました🦋\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/rQSuLulScH",
+		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました🦋\n\n☑️お友達登録はこちら🧚♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/rQSuLulScH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +350,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました🦋\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/rQSuLulScH"
+		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました🦋\n\n☑️お友達登録はこちら🧚♂️\nhttps://t.co/Ocf7Q7HstC https://t.co/rQSuLulScH"
 	},
 	{
 		"created_at": "Sun Jul 17 04:40:12 +0000 2022",
