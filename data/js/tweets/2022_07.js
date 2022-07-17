@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 12:40:12 +0000 2022",
+		"id": 1548643679455260700,
+		"id_str": "1548648762565955590",
+		"full_text": "[💡] 청하 공개방송 안내✨\n\n220719 더쇼 사녹 ▶ https://t.co/fph1D80Vqu\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						127,
+						144
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						145,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fph1D80Vqu",
+					"expanded_url": "https://bit.ly/3oanRP4",
+					"display_url": "bit.ly/3oanRP4",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/quuwSX004w",
+					"expanded_url": "https://bit.ly/3uJj8Y6",
+					"display_url": "bit.ly/3uJj8Y6",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352646,
+			"friends_count": 1,
+			"listed_count": 2172,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 안내✨\n\n220719 더쇼 사녹 ▶ https://t.co/fph1D80Vqu\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Sun Jul 17 12:40:10 +0000 2022",
+		"id": 1548595293851197400,
+		"id_str": "1548648753539817472",
+		"full_text": "Retrouvez nos conseils concernant le concert de Coldplay d'aujourd'hui ⬇\n\nSachez que des points d'eau sont disponibles gratuitement tout autour du parvis du stade et en pelouse.\n\nDes ventilateurs sont également disposés dans les entrées aux différents coins de la fosse.\n\nEnjoy! https://t.co/HLcs96xEiG https://t.co/KB26E8VF3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			302
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HLcs96xEiG",
+					"expanded_url": "https://twitter.com/StadeFrance/status/1547916614812594180",
+					"display_url": "twitter.com/StadeFrance/st…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548594875095982000,
+					"id_str": "1548594875095982080",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/media/FX221YcWIAAsaUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX221YcWIAAsaUM.jpg",
+					"url": "https://t.co/KB26E8VF3P",
+					"display_url": "pic.twitter.com/KB26E8VF3P",
+					"expanded_url": "https://twitter.com/StadeFrance/status/1548595293851197440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548594875095982000,
+					"id_str": "1548594875095982080",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/media/FX221YcWIAAsaUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX221YcWIAAsaUM.jpg",
+					"url": "https://t.co/KB26E8VF3P",
+					"display_url": "pic.twitter.com/KB26E8VF3P",
+					"expanded_url": "https://twitter.com/StadeFrance/status/1548595293851197440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548594909682319400,
+					"id_str": "1548594909682319360",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/media/FX223ZSXwAALLTJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX223ZSXwAALLTJ.jpg",
+					"url": "https://t.co/KB26E8VF3P",
+					"display_url": "pic.twitter.com/KB26E8VF3P",
+					"expanded_url": "https://twitter.com/StadeFrance/status/1548595293851197440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88690419,
+			"id_str": "88690419",
+			"name": "Stade de France",
+			"screen_name": "StadeFrance",
+			"location": "La Plaine-Saint-Denis, France",
+			"description": "Vivez les plus grands événements et partagez des émotions exceptionnelles avec nous ! Entrez dans la team #StadedeFrance (oui, venez !)",
+			"url": "https://t.co/Mf3BTATFr6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mf3BTATFr6",
+							"expanded_url": "http://www.stadefrance.com",
+							"display_url": "stadefrance.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71718,
+			"friends_count": 301,
+			"listed_count": 265,
+			"created_at": "Mon Nov 09 15:42:16 +0000 2009",
+			"favourites_count": 17518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481316064457809927/OT9-gXh0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481316064457809927/OT9-gXh0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88690419/1642495305",
+			"profile_link_color": "F50C0C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547916614812594200,
+		"quoted_status_id_str": "1547916614812594180",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HLcs96xEiG",
+			"expanded": "https://twitter.com/StadeFrance/status/1547916614812594180",
+			"display": "twitter.com/StadeFrance/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 15 12:10:54 +0000 2022",
+			"id": 1547916614812594200,
+			"id_str": "1547916614812594180",
+			"full_text": "⚠️ THREAD ⚠️\n\n👉 INFO COLDPLAY \n\nAfin de préparer au mieux votre venue, voici les informations et conseils pour que le concert se passe dans les meilleures conditions possibles :\n\n[1/6]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88690419,
+				"id_str": "88690419",
+				"name": "Stade de France",
+				"screen_name": "StadeFrance",
+				"location": "La Plaine-Saint-Denis, France",
+				"description": "Vivez les plus grands événements et partagez des émotions exceptionnelles avec nous ! Entrez dans la team #StadedeFrance (oui, venez !)",
+				"url": "https://t.co/Mf3BTATFr6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mf3BTATFr6",
+								"expanded_url": "http://www.stadefrance.com",
+								"display_url": "stadefrance.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71718,
+				"friends_count": 301,
+				"listed_count": 265,
+				"created_at": "Mon Nov 09 15:42:16 +0000 2009",
+				"favourites_count": 17518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91900,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1481316064457809927/OT9-gXh0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481316064457809927/OT9-gXh0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88690419/1642495305",
+				"profile_link_color": "F50C0C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 230,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "fr"
+		},
+		"retweet_count": 33,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Retrouvez nos conseils concernant le concert de Coldplay d'aujourd'hui ⬇\n\nSachez que des points d'eau sont disponibles gratuitement tout autour du parvis du stade et en pelouse.\n\nDes ventilateurs sont également disposés dans les entrées aux différents coins de la fosse.\n\nEnjoy! https://t.co/HLcs96xEiG https://t.co/KB26E8VF3P"
+	},
+	{
 		"created_at": "Sun Jul 17 11:40:37 +0000 2022",
 		"id": 1548631606163677200,
 		"id_str": "1548633770835730435",
