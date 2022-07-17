@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 02:40:14 +0000 2022",
+		"id": 1548487657843572700,
+		"id_str": "1548497776236830720",
+		"full_text": "Look how the \"Girls\" decorated each other's faces...🤭 Fan Art Museum with aespa will finally be out on https://t.co/cG1brDeLea tomorrow! \n\nBe the first to watch \n⏰ 7/18 @ 11AM KST\n📍 https://t.co/Fsewc8Dy6o\n\n@aespa_official \n#aespa #hello82 #FanArtMuseum_aespa #aespaxhello82 https://t.co/cU9eHh8npF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "hello82",
+					"indices": [
+						231,
+						239
+					]
+				},
+				{
+					"text": "FanArtMuseum_aespa",
+					"indices": [
+						240,
+						259
+					]
+				},
+				{
+					"text": "aespaxhello82",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						207,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cG1brDeLea",
+					"expanded_url": "http://hello82.tv",
+					"display_url": "hello82.tv",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/Fsewc8Dy6o",
+					"expanded_url": "https://hello82.tv/live/165",
+					"display_url": "hello82.tv/live/165",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548301504213160000,
+					"id_str": "1548301504213159939",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548301504213159939/pu/img/BrIX-Zh1S6wmjpaK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548301504213159939/pu/img/BrIX-Zh1S6wmjpaK.jpg",
+					"url": "https://t.co/cU9eHh8npF",
+					"display_url": "pic.twitter.com/cU9eHh8npF",
+					"expanded_url": "https://twitter.com/hello82official/status/1548487657843572738/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548301504213160000,
+					"id_str": "1548301504213159939",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548301504213159939/pu/img/BrIX-Zh1S6wmjpaK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548301504213159939/pu/img/BrIX-Zh1S6wmjpaK.jpg",
+					"url": "https://t.co/cU9eHh8npF",
+					"display_url": "pic.twitter.com/cU9eHh8npF",
+					"expanded_url": "https://twitter.com/hello82official/status/1548487657843572738/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 86592,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548301504213159939/pu/vid/720x1280/fOPSM2gXTqdoDqMp.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548301504213159939/pu/vid/480x852/JQ1MOwKIm3eZ0Fko.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548301504213159939/pu/vid/320x568/vDu59jyGTvgjM_Rb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548301504213159939/pu/pl/H1O3FxPXpDYsW6Q0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "wherever you are :)",
+			"description": "Bringing exclusive K-pop content for global fans 🎥 \nFamily: @hello82shop 🛒 | @82inthebox 🎁",
+			"url": "https://t.co/babwxBu229",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/babwxBu229",
+							"expanded_url": "http://hello82.shop",
+							"display_url": "hello82.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130720,
+			"friends_count": 7,
+			"listed_count": 132,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3519,
+		"favorite_count": 8682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look how the \"Girls\" decorated each other's faces...🤭 Fan Art Museum with aespa will finally be out on https://t.co/cG1brDeLea tomorrow! \n\nBe the first to watch \n⏰ 7/18 @ 11AM KST\n📍 https://t.co/Fsewc8Dy6o\n\n@aespa_official \n#aespa #hello82 #FanArtMuseum_aespa #aespaxhello82 https://t.co/cU9eHh8npF"
+	},
+	{
 		"created_at": "Sat Jul 16 21:40:13 +0000 2022",
 		"id": 1548419169229500400,
 		"id_str": "1548422277347258374",
