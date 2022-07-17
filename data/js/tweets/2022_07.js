@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 20:40:18 +0000 2022",
+		"id": 1548762869965230000,
+		"id_str": "1548769583930253312",
+		"full_text": "🎶 Here’s the control centre behind the stage for tonight’s #ColdplayParis audio stream. \n\nListen to the show on the free Coldplay app: https://t.co/FUiwo3ZB4M (find it in the app’s Universe tab under Videos). https://t.co/rVP6c3ieXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayParis",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUiwo3ZB4M",
+					"expanded_url": "http://cldp.ly/app",
+					"display_url": "cldp.ly/app",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548762788343996400,
+					"id_str": "1548762788343996423",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548762788343996423/pu/img/aCx46KRMNpptNUvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548762788343996423/pu/img/aCx46KRMNpptNUvU.jpg",
+					"url": "https://t.co/rVP6c3ieXS",
+					"display_url": "pic.twitter.com/rVP6c3ieXS",
+					"expanded_url": "https://twitter.com/coldplay/status/1548762869965230082/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548762788343996400,
+					"id_str": "1548762788343996423",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548762788343996423/pu/img/aCx46KRMNpptNUvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548762788343996423/pu/img/aCx46KRMNpptNUvU.jpg",
+					"url": "https://t.co/rVP6c3ieXS",
+					"display_url": "pic.twitter.com/rVP6c3ieXS",
+					"expanded_url": "https://twitter.com/coldplay/status/1548762869965230082/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 13800,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548762788343996423/pu/vid/480x852/7OZlPwHHy7QjHZ3-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548762788343996423/pu/pl/eR_6sN437G_6YzoG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548762788343996423/pu/vid/320x568/qnT3no9O8swKq4ST.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548762788343996423/pu/vid/720x1280/CFM1vyvXkP7CaWdL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23603302,
+			"friends_count": 776,
+			"listed_count": 42468,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 1220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎶 Here’s the control centre behind the stage for tonight’s #ColdplayParis audio stream. \n\nListen to the show on the free Coldplay app: https://t.co/FUiwo3ZB4M (find it in the app’s Universe tab under Videos). https://t.co/rVP6c3ieXS"
+	},
+	{
 		"created_at": "Sun Jul 17 19:40:16 +0000 2022",
 		"id": 1548753566399189000,
 		"id_str": "1548754476860850176",
