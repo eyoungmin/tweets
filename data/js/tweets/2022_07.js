@@ -1,6 +1,1049 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 11:40:37 +0000 2022",
+		"id": 1548631606163677200,
+		"id_str": "1548633770835730435",
+		"full_text": "CHUNG HA #청하 &amp; 문세윤이 함께한 #SparklingChallenge 💖\n\n🔎 https://t.co/TfCG8rzBsW\n\n#문세윤 #CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						28,
+						47
+					]
+				},
+				{
+					"text": "문세윤",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "challenge",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "스파클링챌린지",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "시작하기",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TfCG8rzBsW",
+					"expanded_url": "https://youtube.com/shorts/-shwikdY2FM?feature=share",
+					"display_url": "youtube.com/shorts/-shwikd…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352620,
+			"friends_count": 1,
+			"listed_count": 2169,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA #청하 &amp; 문세윤이 함께한 #SparklingChallenge 💖\n\n🔎 https://t.co/TfCG8rzBsW\n\n#문세윤 #CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기"
+	},
+	{
+		"created_at": "Sun Jul 17 11:40:32 +0000 2022",
+		"id": 1548631190516535300,
+		"id_str": "1548633749360984065",
+		"full_text": "CHUNG HA #청하 와 만난 놀라운 듀오💖\n태연&amp;키가 함께한 #SparklingChallenge\n\n🔎 https://t.co/P0XvApFLnJ\n\n#태연 #키 #CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						40,
+						59
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						92,
+						94
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "challenge",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "스파클링챌린지",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "시작하기",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P0XvApFLnJ",
+					"expanded_url": "https://youtube.com/shorts/ar2nnmelkZw?feature=share",
+					"display_url": "youtube.com/shorts/ar2nnme…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352620,
+			"friends_count": 1,
+			"listed_count": 2169,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA #청하 와 만난 놀라운 듀오💖\n태연&amp;키가 함께한 #SparklingChallenge\n\n🔎 https://t.co/P0XvApFLnJ\n\n#태연 #키 #CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기"
+	},
+	{
+		"created_at": "Sun Jul 17 11:40:20 +0000 2022",
+		"id": 1548630995959554000,
+		"id_str": "1548633698152714243",
+		"full_text": "This is TVT Club 막공까지 함께 달려주셔서 감사합니다!!!💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/iqcXi1eMkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548630989492322300,
+					"id_str": "1548630989492322304",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3XrhDaAAAZdWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3XrhDaAAAZdWj.jpg",
+					"url": "https://t.co/iqcXi1eMkd",
+					"display_url": "pic.twitter.com/iqcXi1eMkd",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548630995959554048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548630989492322300,
+					"id_str": "1548630989492322304",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3XrhDaAAAZdWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3XrhDaAAAZdWj.jpg",
+					"url": "https://t.co/iqcXi1eMkd",
+					"display_url": "pic.twitter.com/iqcXi1eMkd",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548630995959554048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548630989488164900,
+					"id_str": "1548630989488164865",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3XrhCakAEKoJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3XrhCakAEKoJX.jpg",
+					"url": "https://t.co/iqcXi1eMkd",
+					"display_url": "pic.twitter.com/iqcXi1eMkd",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1548630995959554048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1151,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8043,
+			"friends_count": 2,
+			"listed_count": 57,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club 막공까지 함께 달려주셔서 감사합니다!!!💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥\n\n#thevolunteers #tvt #thisistvtclub https://t.co/iqcXi1eMkd"
+	},
+	{
+		"created_at": "Sun Jul 17 11:40:12 +0000 2022",
+		"id": 1548630459524845600,
+		"id_str": "1548633664115941378",
+		"full_text": "CHUNG HA #청하 X meenoie #미노이 \n요리조리 통통튀는 #SparklingChallenge✨\n\n🔎 https://t.co/9S1L1WsslA\n\n#CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "미노이",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						39,
+						58
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "challenge",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "스파클링챌린지",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "시작하기",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9S1L1WsslA",
+					"expanded_url": "https://youtube.com/shorts/iwVly9S0g0Q?feature=share",
+					"display_url": "youtube.com/shorts/iwVly9S…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352620,
+			"friends_count": 1,
+			"listed_count": 2169,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA #청하 X meenoie #미노이 \n요리조리 통통튀는 #SparklingChallenge✨\n\n🔎 https://t.co/9S1L1WsslA\n\n#CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기"
+	},
+	{
+		"created_at": "Sun Jul 17 11:40:10 +0000 2022",
+		"id": 1548629602620215300,
+		"id_str": "1548633655228207108",
+		"full_text": "CHUNG HA #청하\n당신의 스파클링한 순간! #YouTubeShorts 로 보여주세요💖 \n#청하 와 함께 #SparklingChallenge\n\n🔎 https://t.co/Q7EsYKjeyv\n\n#CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						61,
+						80
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "challenge",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "스파클링챌린지",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "시작하기",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q7EsYKjeyv",
+					"expanded_url": "https://youtube.com/shorts/iwTC7e9gGqA?feature=share",
+					"display_url": "youtube.com/shorts/iwTC7e9…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352620,
+			"friends_count": 1,
+			"listed_count": 2169,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA #청하\n당신의 스파클링한 순간! #YouTubeShorts 로 보여주세요💖 \n#청하 와 함께 #SparklingChallenge\n\n🔎 https://t.co/Q7EsYKjeyv\n\n#CHUNGHA #chungha #Sparkling #challenge #youtube #shorts #유튜브 #쇼츠 #스파클링챌린지 #시작하기"
+	},
+	{
 		"created_at": "Sun Jul 17 10:40:17 +0000 2022",
 		"id": 1548600898301005800,
 		"id_str": "1548618585878274048",
