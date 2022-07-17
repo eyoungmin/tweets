@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 04:40:12 +0000 2022",
+		"id": 1548527916484464600,
+		"id_str": "1548527967596322816",
+		"full_text": "[📻] #컬투쇼 @SBSNOW\nSBS 파워FM ‘#두시탈출컬투쇼’에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 2:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "컬투쇼",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "두시탈출컬투쇼",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						119,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSNOW",
+					"name": "SBS",
+					"id": 113259902,
+					"id_str": "113259902",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352552,
+			"friends_count": 1,
+			"listed_count": 2172,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] #컬투쇼 @SBSNOW\nSBS 파워FM ‘#두시탈출컬투쇼’에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 2:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
 		"created_at": "Sun Jul 17 03:40:09 +0000 2022",
 		"id": 1548503842274558000,
 		"id_str": "1548512857704259589",
