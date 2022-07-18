@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 13:40:10 +0000 2022",
+		"id": 1549001038379724800,
+		"id_str": "1549026241902104584",
+		"full_text": "[UNFILTERED CAM] 청하(CHUNG HA) - Sparkling\n\n▶ https://t.co/37UU07dhHu\n\n#BE_ORIGINAL #청하 #Sparkling\n#CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM https://t.co/issn4otwhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/37UU07dhHu",
+					"expanded_url": "https://youtu.be/Mz9QSLiRFvA",
+					"display_url": "youtu.be/Mz9QSLiRFvA",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548846821728219100,
+					"id_str": "1548846821728219136",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6b-myacAA5epe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6b-myacAA5epe.jpg",
+					"url": "https://t.co/issn4otwhH",
+					"display_url": "pic.twitter.com/issn4otwhH",
+					"expanded_url": "https://twitter.com/M2MPD/status/1549001038379724801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548846821728219100,
+					"id_str": "1548846821728219136",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6b-myacAA5epe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6b-myacAA5epe.jpg",
+					"url": "https://t.co/issn4otwhH",
+					"display_url": "pic.twitter.com/issn4otwhH",
+					"expanded_url": "https://twitter.com/M2MPD/status/1549001038379724801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256512,
+			"friends_count": 463,
+			"listed_count": 1576,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[UNFILTERED CAM] 청하(CHUNG HA) - Sparkling\n\n▶ https://t.co/37UU07dhHu\n\n#BE_ORIGINAL #청하 #Sparkling\n#CHUNGHA @CHUNGHA_MNHent #STUDIOCHOOM https://t.co/issn4otwhH"
+	},
+	{
 		"created_at": "Mon Jul 18 12:16:53 +0000 2022",
 		"id": 1549005190711222300,
 		"id_str": "1549005286077128705",
