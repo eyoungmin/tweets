@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 12:16:53 +0000 2022",
+		"id": 1549005190711222300,
+		"id_str": "1549005286077128705",
+		"full_text": "[💡] 청하 공개방송 이벤트 안내✨\n\n220719 더쇼 &amp; 220720 쇼챔피언\n사전녹화 관련 이벤트\n▶ https://t.co/l1OceDkr2X\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						139,
+						156
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						157,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1OceDkr2X",
+					"expanded_url": "https://bit.ly/3PeW7Vi",
+					"display_url": "bit.ly/3PeW7Vi",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352938,
+			"friends_count": 1,
+			"listed_count": 2170,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 이벤트 안내✨\n\n220719 더쇼 &amp; 220720 쇼챔피언\n사전녹화 관련 이벤트\n▶ https://t.co/l1OceDkr2X\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
 		"created_at": "Mon Jul 18 11:40:13 +0000 2022",
 		"id": 1548956994740027400,
 		"id_str": "1548996055836106752",
