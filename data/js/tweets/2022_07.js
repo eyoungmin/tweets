@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 05:40:10 +0000 2022",
+		"id": 1548890570809938000,
+		"id_str": "1548905445796253697",
+		"full_text": "[📢]\n\nAmazon Musicで『Girls - The 2nd Mini Album』配信中❗️\n現在渋谷・心斎橋の大型ビジョンに登場しています🥳🙌\n\nぜひチェックしてください！💜\n \n@amazonmusicjp\n🎧https://t.co/MNoEEKdhXF\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/MsbCLNGkpl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusicjp",
+					"name": "Amazon Music JP",
+					"id": 910751840492412900,
+					"id_str": "910751840492412928",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNoEEKdhXF",
+					"expanded_url": "https://amzn.to/3yDSQsH",
+					"display_url": "amzn.to/3yDSQsH",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548890316744192000,
+					"id_str": "1548890316744192000",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548890316744192000/pu/img/cQ8vs2mMmTIbpWwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548890316744192000/pu/img/cQ8vs2mMmTIbpWwp.jpg",
+					"url": "https://t.co/MsbCLNGkpl",
+					"display_url": "pic.twitter.com/MsbCLNGkpl",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548890570809937922/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548890316744192000,
+					"id_str": "1548890316744192000",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548890316744192000/pu/img/cQ8vs2mMmTIbpWwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548890316744192000/pu/img/cQ8vs2mMmTIbpWwp.jpg",
+					"url": "https://t.co/MsbCLNGkpl",
+					"display_url": "pic.twitter.com/MsbCLNGkpl",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548890570809937922/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548890316744192000/pu/vid/1280x720/XY_M_gPQjqIBDLAB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548890316744192000/pu/pl/LEmZCbR7OhgKKqg8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548890316744192000/pu/vid/480x270/b1-w7zuyToAx_eVp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548890316744192000/pu/vid/640x360/R9SADumnEU09bt47.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172304,
+			"friends_count": 1,
+			"listed_count": 392,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 2070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\nAmazon Musicで『Girls - The 2nd Mini Album』配信中❗️\n現在渋谷・心斎橋の大型ビジョンに登場しています🥳🙌\n\nぜひチェックしてください！💜\n \n@amazonmusicjp\n🎧https://t.co/MNoEEKdhXF\n \n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/MsbCLNGkpl"
+	},
+	{
 		"created_at": "Mon Jul 18 04:45:45 +0000 2022",
 		"id": 1548889781618507800,
 		"id_str": "1548891752727207936",
