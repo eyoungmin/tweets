@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 06:40:16 +0000 2022",
+		"id": 1548918289841066000,
+		"id_str": "1548920572033126400",
+		"full_text": "[💡] 청하 공개방송 안내✨\n220719 더쇼 사전녹화 신청이 오후 4시부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 사녹 : 220718 (월) 4:00 PM ~ 5:00 PM\n▶ https://t.co/WoZiVKKiCJ https://t.co/pePhrMQTbH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WoZiVKKiCJ",
+					"expanded_url": "https://bit.ly/3IM5nOb",
+					"display_url": "bit.ly/3IM5nOb",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/pePhrMQTbH",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1548643679455260672",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352854,
+			"friends_count": 1,
+			"listed_count": 2170,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548643679455260700,
+		"quoted_status_id_str": "1548643679455260672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pePhrMQTbH",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1548643679455260672",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 17 12:20:00 +0000 2022",
+			"id": 1548643679455260700,
+			"id_str": "1548643679455260672",
+			"full_text": "[💡] 청하 공개방송 안내✨\n\n220719 더쇼 사녹 ▶ https://t.co/fph1D80Vqu\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							93,
+							96
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "BareRare",
+						"indices": [
+							106,
+							115
+						]
+					},
+					{
+						"text": "Sparkling",
+						"indices": [
+							116,
+							126
+						]
+					},
+					{
+						"text": "CHUNGHA_BareRare",
+						"indices": [
+							127,
+							144
+						]
+					},
+					{
+						"text": "CHUNGHA_Sparkling",
+						"indices": [
+							145,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fph1D80Vqu",
+						"expanded_url": "https://bit.ly/3oanRP4",
+						"display_url": "bit.ly/3oanRP4",
+						"indices": [
+							32,
+							55
+						]
+					},
+					{
+						"url": "https://t.co/quuwSX004w",
+						"expanded_url": "https://bit.ly/3uJj8Y6",
+						"display_url": "bit.ly/3uJj8Y6",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter",
+				"url": "https://t.co/r3B14nlZdd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r3B14nlZdd",
+								"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+								"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 352854,
+				"friends_count": 1,
+				"listed_count": 2170,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 547,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 25,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 안내✨\n220719 더쇼 사전녹화 신청이 오후 4시부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 사녹 : 220718 (월) 4:00 PM ~ 5:00 PM\n▶ https://t.co/WoZiVKKiCJ https://t.co/pePhrMQTbH"
+	},
+	{
+		"created_at": "Mon Jul 18 06:40:12 +0000 2022",
+		"id": 1548912953830781000,
+		"id_str": "1548920554597412864",
+		"full_text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/I98ojmgNPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ocf7Q7pR52",
+					"expanded_url": "https://lin.ee/l1ZqcDx",
+					"display_url": "lin.ee/l1ZqcDx",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548691864756166700,
+					"id_str": "1548691864756166656",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FX4PC7FUIAA0ZLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX4PC7FUIAA0ZLW.jpg",
+					"url": "https://t.co/I98ojmgNPr",
+					"display_url": "pic.twitter.com/I98ojmgNPr",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548912953830780928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548691864756166700,
+					"id_str": "1548691864756166656",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FX4PC7FUIAA0ZLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX4PC7FUIAA0ZLW.jpg",
+					"url": "https://t.co/I98ojmgNPr",
+					"display_url": "pic.twitter.com/I98ojmgNPr",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1548912953830780928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172325,
+			"friends_count": 1,
+			"listed_count": 395,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 326,
+		"favorite_count": 1546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💚📲]\n\nLINE公式アカウントにメッセージが届きました⭐️\n\n☑️お友達登録はこちら🧚‍♂️\nhttps://t.co/Ocf7Q7pR52 https://t.co/I98ojmgNPr"
+	},
+	{
 		"created_at": "Mon Jul 18 05:40:10 +0000 2022",
 		"id": 1548890570809938000,
 		"id_str": "1548905445796253697",
