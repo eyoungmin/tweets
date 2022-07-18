@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 10:40:14 +0000 2022",
+		"id": 1548970842691735600,
+		"id_str": "1548980959709732864",
+		"full_text": "[🎥#페이스캠] 청하 - Sparkling\n\n#인기가요 #청하 #CHUNGHA #Sparkling @CHUNGHA_MNHent\n\n📌https://t.co/OkThoZiyQE https://t.co/5EHF7zppzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이스캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						55,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OkThoZiyQE",
+					"expanded_url": "https://youtu.be/vzVxQyXrVRA",
+					"display_url": "youtu.be/vzVxQyXrVRA",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548957248952893400,
+					"id_str": "1548957248952893441",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8AaUQagAEQ2_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8AaUQagAEQ2_f.jpg",
+					"url": "https://t.co/5EHF7zppzj",
+					"display_url": "pic.twitter.com/5EHF7zppzj",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1548970842691735556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548957248952893400,
+					"id_str": "1548957248952893441",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FX8AaUQagAEQ2_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX8AaUQagAEQ2_f.jpg",
+					"url": "https://t.co/5EHF7zppzj",
+					"display_url": "pic.twitter.com/5EHF7zppzj",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1548970842691735556/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsG17u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsG17u",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711967,
+			"friends_count": 79,
+			"listed_count": 807,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 5858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1658027657",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#페이스캠] 청하 - Sparkling\n\n#인기가요 #청하 #CHUNGHA #Sparkling @CHUNGHA_MNHent\n\n📌https://t.co/OkThoZiyQE https://t.co/5EHF7zppzj"
+	},
+	{
 		"created_at": "Mon Jul 18 09:45:36 +0000 2022",
 		"id": 1548955735932817400,
 		"id_str": "1548967214430228480",
