@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 03:40:40 +0000 2022",
+		"id": 1548869497859489800,
+		"id_str": "1548875375886868481",
+		"full_text": "BoA X XIN 'Better (对峙)'\n\n🎧Listen now on your favorite platform!\n➫ https://t.co/JZ3YOxsC4K \n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "XIN",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "류위신",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "刘雨昕",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JZ3YOxsC4K",
+					"expanded_url": "https://lnk.to/BoA_XIN_Better",
+					"display_url": "lnk.to/BoA_XIN_Better",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73657,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA X XIN 'Better (对峙)'\n\n🎧Listen now on your favorite platform!\n➫ https://t.co/JZ3YOxsC4K \n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better"
+	},
+	{
+		"created_at": "Mon Jul 18 03:40:32 +0000 2022",
+		"id": 1548865791269159000,
+		"id_str": "1548875341887840256",
+		"full_text": "BoA X XIN 'Better (对峙)'\n\n🎧Melon ➫ https://t.co/y4EVX3LSjv \n🎧FLO ➫ https://t.co/nn4uo7qj9C \n🎧Genie ➫ https://t.co/zV4eA317ic \n🎧Bugs ➫ https://t.co/gHIsuJiRsk \n🎧VIBE ➫ https://t.co/XxBvokusUo \n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "XIN",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "류위신",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "刘雨昕",
+					"indices": [
+						211,
+						215
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						216,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y4EVX3LSjv",
+					"expanded_url": "https://bit.ly/3zcVciw",
+					"display_url": "bit.ly/3zcVciw",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/nn4uo7qj9C",
+					"expanded_url": "https://bit.ly/3B2qHxn",
+					"display_url": "bit.ly/3B2qHxn",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/zV4eA317ic",
+					"expanded_url": "https://bit.ly/3RRWffk",
+					"display_url": "bit.ly/3RRWffk",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/gHIsuJiRsk",
+					"expanded_url": "https://bit.ly/3cmdyoz",
+					"display_url": "bit.ly/3cmdyoz",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/XxBvokusUo",
+					"expanded_url": "https://bit.ly/3OfqUjq",
+					"display_url": "bit.ly/3OfqUjq",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73657,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "BoA X XIN 'Better (对峙)'\n\n🎧Melon ➫ https://t.co/y4EVX3LSjv \n🎧FLO ➫ https://t.co/nn4uo7qj9C \n🎧Genie ➫ https://t.co/zV4eA317ic \n🎧Bugs ➫ https://t.co/gHIsuJiRsk \n🎧VIBE ➫ https://t.co/XxBvokusUo \n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better"
+	},
+	{
+		"created_at": "Mon Jul 18 03:40:27 +0000 2022",
+		"id": 1548865390456868900,
+		"id_str": "1548875320425578496",
+		"full_text": "【日本国内居住者限定】\nLOONA OFFICIAL FANCLUB “ORBIT JAPAN”更新特典のお届け＆会員番号復活キャンペーンの実施が決定いたしました！ \n\n会員番号を復活された会員様も更新特典をお受け取りいただけますので、この機会をお見逃しなく✨\n▶️https://t.co/jmTJr6UU6R\n\n#ORBITJAPAN\n#LOONA \n#今月の少女",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jmTJr6UU6R",
+					"expanded_url": "https://loonatheworld.jp/2022/07/18/620/",
+					"display_url": "loonatheworld.jp/2022/07/18/620/",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10108,
+			"friends_count": 2,
+			"listed_count": 99,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【日本国内居住者限定】\nLOONA OFFICIAL FANCLUB “ORBIT JAPAN”更新特典のお届け＆会員番号復活キャンペーンの実施が決定いたしました！ \n\n会員番号を復活された会員様も更新特典をお受け取りいただけますので、この機会をお見逃しなく✨\n▶️https://t.co/jmTJr6UU6R\n\n#ORBITJAPAN\n#LOONA \n#今月の少女"
+	},
+	{
+		"created_at": "Mon Jul 18 03:40:21 +0000 2022",
+		"id": 1548865146495312000,
+		"id_str": "1548875294731296768",
+		"full_text": "Japan First concert\"LOONA 1st Live LOONA THE WORLD IN TOKYO\"will be held  &amp; Japan 2nd single \"LUMINOUS\" will be released!\n\nPlease click here for more details👀\n▶️https://t.co/F7Ye11zJSv\n\n#ORBITJAPAN\n#LOONA \n#今月の少女 https://t.co/Ss2MVCehH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						210,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F7Ye11zJSv",
+					"expanded_url": "https://loonatheworld.jp/2022/07/18/618/",
+					"display_url": "loonatheworld.jp/2022/07/18/618/",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548592691080208400,
+					"id_str": "1548592691080208384",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FX202QWaIAAsXy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX202QWaIAAsXy1.jpg",
+					"url": "https://t.co/Ss2MVCehH9",
+					"display_url": "pic.twitter.com/Ss2MVCehH9",
+					"expanded_url": "https://twitter.com/orbitjapan_jp/status/1548865146495311872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548592691080208400,
+					"id_str": "1548592691080208384",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FX202QWaIAAsXy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX202QWaIAAsXy1.jpg",
+					"url": "https://t.co/Ss2MVCehH9",
+					"display_url": "pic.twitter.com/Ss2MVCehH9",
+					"expanded_url": "https://twitter.com/orbitjapan_jp/status/1548865146495311872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10108,
+			"friends_count": 2,
+			"listed_count": 99,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1259,
+		"favorite_count": 3098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Japan First concert\"LOONA 1st Live LOONA THE WORLD IN TOKYO\"will be held  &amp; Japan 2nd single \"LUMINOUS\" will be released!\n\nPlease click here for more details👀\n▶️https://t.co/F7Ye11zJSv\n\n#ORBITJAPAN\n#LOONA \n#今月の少女 https://t.co/Ss2MVCehH9"
+	},
+	{
+		"created_at": "Mon Jul 18 03:40:10 +0000 2022",
+		"id": 1548865152292110300,
+		"id_str": "1548875247851634688",
+		"full_text": "📣\n9/28(水)JAPAN 2nd SINGLE「LUMINOUS 」リリース決定👏\n\n詳細は後日発表しますので、お楽しみに✨\n\n#LOONA \n#JAPAN_2nd_SINGLE\n#LUMINOUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "JAPAN_2nd_SINGLE",
+					"indices": [
+						74,
+						91
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1548865149381267500,
+		"in_reply_to_status_id_str": "1548865149381267458",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93098,
+			"friends_count": 2,
+			"listed_count": 720,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1008,
+		"favorite_count": 2536,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "📣\n9/28(水)JAPAN 2nd SINGLE「LUMINOUS 」リリース決定👏\n\n詳細は後日発表しますので、お楽しみに✨\n\n#LOONA \n#JAPAN_2nd_SINGLE\n#LUMINOUS"
+	},
+	{
+		"created_at": "Mon Jul 18 03:37:20 +0000 2022",
+		"id": 1548865262572560400,
+		"id_str": "1548874534308028422",
+		"full_text": "[유애나공지] 유애나 5기 \nOFFICIAL FANCLUB KIT 관련 배송지 수정 안내\n\n▶ https://t.co/PAqQY6AXMm \n\n#아이유 #IU\n#유애나 #UAENA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PAqQY6AXMm",
+					"expanded_url": "https://cafe.daum.net/IU/S0OE/11",
+					"display_url": "cafe.daum.net/IU/S0OE/11",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1353202,
+			"friends_count": 0,
+			"listed_count": 2286,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 2406,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지] 유애나 5기 \nOFFICIAL FANCLUB KIT 관련 배송지 수정 안내\n\n▶ https://t.co/PAqQY6AXMm \n\n#아이유 #IU\n#유애나 #UAENA"
+	},
+	{
 		"created_at": "Mon Jul 18 02:40:43 +0000 2022",
 		"id": 1548860105474510800,
 		"id_str": "1548860287549411334",
