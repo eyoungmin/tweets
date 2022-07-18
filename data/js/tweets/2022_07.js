@@ -1,6 +1,952 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 02:40:43 +0000 2022",
+		"id": 1548860105474510800,
+		"id_str": "1548860287549411334",
+		"full_text": "[📻] #정오의희망곡 @radiombc\nMBC FM4U '정오의 희망곡 김신영입니다'에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 12:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						113,
+						130
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						131,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "radiombc",
+					"name": "MBC RADIO 봉춘라디오",
+					"id": 145925496,
+					"id_str": "145925496",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352849,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] #정오의희망곡 @radiombc\nMBC FM4U '정오의 희망곡 김신영입니다'에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 12:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Mon Jul 18 02:40:36 +0000 2022",
+		"id": 1548859767820808200,
+		"id_str": "1548860257769848833",
+		"full_text": "보아 X 류위신 ‘Better’ 중국어 버전 오늘 공개! 낮 12시 음원 -&gt; 6시 MV 공개!\n\nBoA X XIN LIU’s Chinese version of ‘Better’ is out today at 12PM (KST) with the MV dropping at 6PM!\n\nhttps://t.co/xGRI6yImHW\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "XIN",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "류위신",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "刘雨昕",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						208,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xGRI6yImHW",
+					"expanded_url": "https://bit.ly/3PwjZDC",
+					"display_url": "bit.ly/3PwjZDC",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73648,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아 X 류위신 ‘Better’ 중국어 버전 오늘 공개! 낮 12시 음원 -&gt; 6시 MV 공개!\n\nBoA X XIN LIU’s Chinese version of ‘Better’ is out today at 12PM (KST) with the MV dropping at 6PM!\n\nhttps://t.co/xGRI6yImHW\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better"
+	},
+	{
+		"created_at": "Mon Jul 18 02:40:27 +0000 2022",
+		"id": 1548857563256848400,
+		"id_str": "1548860219429507072",
+		"full_text": "'First week million seller' aespa enters the Billboard 200 chart at #3, setting the best K-pop girl group record for the year and another career high achievement for the group!\n\nhttps://t.co/gB6w9PAsck\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Billboard200",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"text": "Billboard200",
+					"indices": [
+						241,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gB6w9PAsck",
+					"expanded_url": "https://bit.ly/3yK2pFz",
+					"display_url": "bit.ly/3yK2pFz",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1548857559507161000,
+		"in_reply_to_status_id_str": "1548857559507161088",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954300,
+			"friends_count": 2,
+			"listed_count": 9051,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1163,
+		"favorite_count": 3692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'First week million seller' aespa enters the Billboard 200 chart at #3, setting the best K-pop girl group record for the year and another career high achievement for the group!\n\nhttps://t.co/gB6w9PAsck\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Billboard200"
+	},
+	{
+		"created_at": "Mon Jul 18 02:40:18 +0000 2022",
+		"id": 1548857559507161000,
+		"id_str": "1548860180900810755",
+		"full_text": "‘역대급 초동 밀리언셀러’ 에스파, 美 빌보드 200 3위로 진입!\n올해 K팝 걸그룹 최고 순위! 연이은 커리어 하이 달성!\n\nhttps://t.co/gB6w9PAsck\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#Billboard200 https://t.co/Y09Ro03aRc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "Billboard200",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gB6w9PAsck",
+					"expanded_url": "https://bit.ly/3yK2pFz",
+					"display_url": "bit.ly/3yK2pFz",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548857349863264300,
+					"id_str": "1548857349863264257",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6ljbJaUAEEWpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6ljbJaUAEEWpm.jpg",
+					"url": "https://t.co/Y09Ro03aRc",
+					"display_url": "pic.twitter.com/Y09Ro03aRc",
+					"expanded_url": "https://twitter.com/aespa_official/status/1548857559507161088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548857349863264300,
+					"id_str": "1548857349863264257",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6ljbJaUAEEWpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6ljbJaUAEEWpm.jpg",
+					"url": "https://t.co/Y09Ro03aRc",
+					"display_url": "pic.twitter.com/Y09Ro03aRc",
+					"expanded_url": "https://twitter.com/aespa_official/status/1548857559507161088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954300,
+			"friends_count": 2,
+			"listed_count": 9051,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2375,
+		"favorite_count": 8708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘역대급 초동 밀리언셀러’ 에스파, 美 빌보드 200 3위로 진입!\n올해 K팝 걸그룹 최고 순위! 연이은 커리어 하이 달성!\n\nhttps://t.co/gB6w9PAsck\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#Billboard200 https://t.co/Y09Ro03aRc"
+	},
+	{
+		"created_at": "Mon Jul 18 02:40:10 +0000 2022",
+		"id": 1548850043087634400,
+		"id_str": "1548860146692014081",
+		"full_text": "💜nævis, calling: Watch Fan Art Museum with aespa on https://t.co/cG1brDeLea!\n\nWatch now!\n⏰7/18 @ 11AM KST\n📍 https://t.co/Fsewc8Dy6o\n\nCheck out MY fan art on 82edition!\n📍https://t.co/2hE51O4DmH\n📅7/18~8/8 KST\n\n@aespa_official\n#aespa #hello82 #FanArtMuseum_aespa #aespaxhello82 https://t.co/FcqXzw3oAx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "hello82",
+					"indices": [
+						231,
+						239
+					]
+				},
+				{
+					"text": "FanArtMuseum_aespa",
+					"indices": [
+						240,
+						259
+					]
+				},
+				{
+					"text": "aespaxhello82",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						208,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cG1brDeLea",
+					"expanded_url": "http://hello82.tv",
+					"display_url": "hello82.tv",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/Fsewc8Dy6o",
+					"expanded_url": "https://hello82.tv/live/165",
+					"display_url": "hello82.tv/live/165",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/2hE51O4DmH",
+					"expanded_url": "http://hello82.tv/event/79",
+					"display_url": "hello82.tv/event/79",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548849817891119000,
+					"id_str": "1548849817891119104",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548849817891119104/pu/img/sJ1PdgrUMvezGnh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548849817891119104/pu/img/sJ1PdgrUMvezGnh8.jpg",
+					"url": "https://t.co/FcqXzw3oAx",
+					"display_url": "pic.twitter.com/FcqXzw3oAx",
+					"expanded_url": "https://twitter.com/hello82official/status/1548850043087634434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548849817891119000,
+					"id_str": "1548849817891119104",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548849817891119104/pu/img/sJ1PdgrUMvezGnh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548849817891119104/pu/img/sJ1PdgrUMvezGnh8.jpg",
+					"url": "https://t.co/FcqXzw3oAx",
+					"display_url": "pic.twitter.com/FcqXzw3oAx",
+					"expanded_url": "https://twitter.com/hello82official/status/1548850043087634434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21824,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548849817891119104/pu/vid/480x270/GHu2e_AlBMe5yhKh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548849817891119104/pu/vid/640x360/uafZwgYCA_mcIf1u.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1548849817891119104/pu/pl/MW-DudM1K3vQxUGX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1548849817891119104/pu/vid/1280x720/c6_6-Bc93ooGzaw8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "wherever you are :)",
+			"description": "Bringing exclusive K-pop content for global fans 🎥 \nFamily: @hello82shop 🛒 | @82inthebox 🎁",
+			"url": "https://t.co/babwxBu229",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/babwxBu229",
+							"expanded_url": "http://hello82.shop",
+							"display_url": "hello82.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130862,
+			"friends_count": 7,
+			"listed_count": 133,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510075652975693829/3932Dp80_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2614,
+		"favorite_count": 6748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💜nævis, calling: Watch Fan Art Museum with aespa on https://t.co/cG1brDeLea!\n\nWatch now!\n⏰7/18 @ 11AM KST\n📍 https://t.co/Fsewc8Dy6o\n\nCheck out MY fan art on 82edition!\n📍https://t.co/2hE51O4DmH\n📅7/18~8/8 KST\n\n@aespa_official\n#aespa #hello82 #FanArtMuseum_aespa #aespaxhello82 https://t.co/FcqXzw3oAx"
+	},
+	{
 		"created_at": "Sun Jul 17 22:40:10 +0000 2022",
 		"id": 1548796839830454300,
 		"id_str": "1548799748844535813",
