@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 03:40:09 +0000 2022",
+		"id": 1549229156571160600,
+		"id_str": "1549237633339080704",
+		"full_text": "#선예 (SUNYE) 1st Solo Album [GENUINE] Lead Single \"Glass Heart\"가 발매되었습니다🎧\n\n멜론 : https://t.co/VNSFMxJiTs\n지니 : https://t.co/ynRceh0EjB\n벅스 : https://t.co/Rj7lrqliZW\n바이브 : https://t.co/Ho3EvxRwra\n플로 : https://t.co/4WmxvNmmgS\n\n#Sunye #Genuine #GlassHeart https://t.co/vrXm9rZf9l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						228,
+						236
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						237,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VNSFMxJiTs",
+					"expanded_url": "https://c11.kr/11c37",
+					"display_url": "c11.kr/11c37",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/ynRceh0EjB",
+					"expanded_url": "https://c11.kr/11c3a",
+					"display_url": "c11.kr/11c3a",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/Rj7lrqliZW",
+					"expanded_url": "https://c11.kr/11c3c",
+					"display_url": "c11.kr/11c3c",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/Ho3EvxRwra",
+					"expanded_url": "https://naver.me/5BxNPTni",
+					"display_url": "naver.me/5BxNPTni",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/4WmxvNmmgS",
+					"expanded_url": "https://c11.kr/11c3o",
+					"display_url": "c11.kr/11c3o",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549229137550012400,
+					"id_str": "1549229137550012416",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_3sUNacAAXii6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_3sUNacAAXii6.jpg",
+					"url": "https://t.co/vrXm9rZf9l",
+					"display_url": "pic.twitter.com/vrXm9rZf9l",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1549229156571160576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549229137550012400,
+					"id_str": "1549229137550012416",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_3sUNacAAXii6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_3sUNacAAXii6.jpg",
+					"url": "https://t.co/vrXm9rZf9l",
+					"display_url": "pic.twitter.com/vrXm9rZf9l",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1549229156571160576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18227,
+			"friends_count": 2,
+			"listed_count": 61,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선예 (SUNYE) 1st Solo Album [GENUINE] Lead Single \"Glass Heart\"가 발매되었습니다🎧\n\n멜론 : https://t.co/VNSFMxJiTs\n지니 : https://t.co/ynRceh0EjB\n벅스 : https://t.co/Rj7lrqliZW\n바이브 : https://t.co/Ho3EvxRwra\n플로 : https://t.co/4WmxvNmmgS\n\n#Sunye #Genuine #GlassHeart https://t.co/vrXm9rZf9l"
+	},
+	{
 		"created_at": "Tue Jul 19 02:56:35 +0000 2022",
 		"id": 1549220983373934600,
 		"id_str": "1549226668245405696",
@@ -1041,7 +1290,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Tue Jul 19 02:40:10 +0000 2022",
 		"id": 1549214412455956500,
 		"id_str": "1549222534603841538",
-		"full_text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤‍🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw",
+		"full_text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1266,7 +1515,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤‍🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw"
+		"text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw"
 	},
 	{
 		"created_at": "Tue Jul 19 02:29:39 +0000 2022",
