@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 00:45:36 +0000 2022",
+		"id": 1549188209049235500,
+		"id_str": "1549193706695163904",
+		"full_text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; '이달의소녀(고원·희진·진솔)'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 진솔 네컷 원본 드려요🐯💞) https://t.co/4ExqdGMSpQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549188192620146700,
+					"id_str": "1549188192620146688",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_SdAdacAAebOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_SdAdacAAebOY.jpg",
+					"url": "https://t.co/4ExqdGMSpQ",
+					"display_url": "pic.twitter.com/4ExqdGMSpQ",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1549188209049235457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549188192620146700,
+					"id_str": "1549188192620146688",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_SdAdacAAebOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_SdAdacAAebOY.jpg",
+					"url": "https://t.co/4ExqdGMSpQ",
+					"display_url": "pic.twitter.com/4ExqdGMSpQ",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1549188209049235457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549188192716595200,
+					"id_str": "1549188192716595200",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_SdA0aIAAOeKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_SdA0aIAAOeKf.jpg",
+					"url": "https://t.co/4ExqdGMSpQ",
+					"display_url": "pic.twitter.com/4ExqdGMSpQ",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1549188209049235457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6723,
+			"friends_count": 11,
+			"listed_count": 25,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; '이달의소녀(고원·희진·진솔)'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 진솔 네컷 원본 드려요🐯💞) https://t.co/4ExqdGMSpQ"
+	},
+	{
 		"created_at": "Mon Jul 18 23:40:10 +0000 2022",
 		"id": 1549165456597995500,
 		"id_str": "1549177236200333313",
