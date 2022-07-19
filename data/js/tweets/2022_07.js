@@ -1,6 +1,1253 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 08:45:37 +0000 2022",
+		"id": 1549313090180857900,
+		"id_str": "1549314502826541057",
+		"full_text": "[#아이돌챔프_투표]\n\n8월에 데뷔한 아이돌은 누가 있을까⁉\n\n어느새 N주년을 맞이한 내 최애🥰\n📣3일동안📣 영등포 타임스퀘에서‼️\n더 크게 광고할 수 있는 CHANCE!❤️\n\n✨NOMINEE✨\n#LOONA\n#ONF\n#BLACKPINK\n#RedVelvet\n#LABOUM\n#WINNER\n#GoldenChild\n•\n•\n•\nVote here ➡ https://t.co/TLmIjO8kQq https://t.co/ACnZS3hno5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "LABOUM",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "WINNER",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLmIjO8kQq",
+					"expanded_url": "https://bit.ly/3OjAzp8",
+					"display_url": "bit.ly/3OjAzp8",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549308215631835100,
+					"id_str": "1549308215631835138",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FYA_nRBUcAIYFJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYA_nRBUcAIYFJq.jpg",
+					"url": "https://t.co/ACnZS3hno5",
+					"display_url": "pic.twitter.com/ACnZS3hno5",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1549313090180857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549308215631835100,
+					"id_str": "1549308215631835138",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FYA_nRBUcAIYFJq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYA_nRBUcAIYFJq.jpg",
+					"url": "https://t.co/ACnZS3hno5",
+					"display_url": "pic.twitter.com/ACnZS3hno5",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1549313090180857856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98852,
+			"friends_count": 109,
+			"listed_count": 260,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1658218643",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n\n8월에 데뷔한 아이돌은 누가 있을까⁉\n\n어느새 N주년을 맞이한 내 최애🥰\n📣3일동안📣 영등포 타임스퀘에서‼️\n더 크게 광고할 수 있는 CHANCE!❤️\n\n✨NOMINEE✨\n#LOONA\n#ONF\n#BLACKPINK\n#RedVelvet\n#LABOUM\n#WINNER\n#GoldenChild\n•\n•\n•\nVote here ➡ https://t.co/TLmIjO8kQq https://t.co/ACnZS3hno5"
+	},
+	{
+		"created_at": "Tue Jul 19 08:40:24 +0000 2022",
+		"id": 1549303616296861700,
+		"id_str": "1549313191389417472",
+		"full_text": "@CHUNGHA_MNHent [#Mwave shop] #CHUNGHA が '[Bare&amp;Rare Pt.1]’ にサインをする光景💿\n\nCHUNGHA がMwaveのお客様のためにアルバムにサインをしています！❣️\n\n➡今すぐ購入(8月7日まで❗️) : https://t.co/9U1bfi8IeP\n\n@CHUNGHA_MNHent\n#CHUNGHA #청하 #BareRare https://t.co/NczQot7YiC",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mwave",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						161,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9U1bfi8IeP",
+					"expanded_url": "http://bit.ly/CHUNG_HA_BareRare",
+					"display_url": "bit.ly/CHUNG_HA_BareR…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549303082072551400,
+					"id_str": "1549303082072551425",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549303082072551425/pu/img/49PnlmZzJWCHbkNh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549303082072551425/pu/img/49PnlmZzJWCHbkNh.jpg",
+					"url": "https://t.co/NczQot7YiC",
+					"display_url": "pic.twitter.com/NczQot7YiC",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1549303616296861696/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549303082072551400,
+					"id_str": "1549303082072551425",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549303082072551425/pu/img/49PnlmZzJWCHbkNh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549303082072551425/pu/img/49PnlmZzJWCHbkNh.jpg",
+					"url": "https://t.co/NczQot7YiC",
+					"display_url": "pic.twitter.com/NczQot7YiC",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1549303616296861696/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31398,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549303082072551425/pu/vid/640x360/Yhn25i_bz4uKMM21.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549303082072551425/pu/vid/1280x720/jbVwqmXTI9iNzlEF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549303082072551425/pu/pl/mrJbLem2MGus_m7J.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549303082072551425/pu/vid/480x270/FgPHJcnrOoyQg7vn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1549303030058721300,
+		"in_reply_to_status_id_str": "1549303030058721282",
+		"in_reply_to_user_id": 369934613,
+		"in_reply_to_user_id_str": "369934613",
+		"in_reply_to_screen_name": "OfficialMwave",
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1927840,
+			"friends_count": 330,
+			"listed_count": 1990,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@CHUNGHA_MNHent [#Mwave shop] #CHUNGHA が '[Bare&amp;Rare Pt.1]’ にサインをする光景💿\n\nCHUNGHA がMwaveのお客様のためにアルバムにサインをしています！❣️\n\n➡今すぐ購入(8月7日まで❗️) : https://t.co/9U1bfi8IeP\n\n@CHUNGHA_MNHent\n#CHUNGHA #청하 #BareRare https://t.co/NczQot7YiC"
+	},
+	{
+		"created_at": "Tue Jul 19 08:40:18 +0000 2022",
+		"id": 1549303030058721300,
+		"id_str": "1549313165707583490",
+		"full_text": "[#Mwave shop] This is how #CHUNGHA Signed ‘[Bare&amp;Rare Pt.1]' albums 💿\n\nCHUNG HA is signing the album for Mwave customers! ❣️\n\n➡Shop Now (only until Aug 7❗️) : https://t.co/9U1bfi8aph\n\n@CHUNGHA_MNHent\n#CHUNGHA #청하 #BareRare https://t.co/Bm2E1x47l4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mwave",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						188,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9U1bfi8aph",
+					"expanded_url": "http://bit.ly/CHUNG_HA_BareRare",
+					"display_url": "bit.ly/CHUNG_HA_BareR…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549295513362890800,
+					"id_str": "1549295513362890752",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549295513362890752/pu/img/DI6UIxnp35RnkQXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549295513362890752/pu/img/DI6UIxnp35RnkQXm.jpg",
+					"url": "https://t.co/Bm2E1x47l4",
+					"display_url": "pic.twitter.com/Bm2E1x47l4",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1549303030058721282/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549295513362890800,
+					"id_str": "1549295513362890752",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549295513362890752/pu/img/DI6UIxnp35RnkQXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549295513362890752/pu/img/DI6UIxnp35RnkQXm.jpg",
+					"url": "https://t.co/Bm2E1x47l4",
+					"display_url": "pic.twitter.com/Bm2E1x47l4",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1549303030058721282/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31398,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549295513362890752/pu/pl/KMLeBIqpY-jz8xTN.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549295513362890752/pu/vid/640x360/Kq-zunw-dmHhqbJ5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549295513362890752/pu/vid/1280x720/nrWGuyG2h5DcpM2K.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549295513362890752/pu/vid/480x270/6An5k8KM2SAzI3Vg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1927840,
+			"friends_count": 330,
+			"listed_count": 1990,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Mwave shop] This is how #CHUNGHA Signed ‘[Bare&amp;Rare Pt.1]' albums 💿\n\nCHUNG HA is signing the album for Mwave customers! ❣️\n\n➡Shop Now (only until Aug 7❗️) : https://t.co/9U1bfi8aph\n\n@CHUNGHA_MNHent\n#CHUNGHA #청하 #BareRare https://t.co/Bm2E1x47l4"
+	},
+	{
+		"created_at": "Tue Jul 19 08:40:12 +0000 2022",
+		"id": 1549310575540412400,
+		"id_str": "1549313140143390721",
+		"full_text": "[📺] #THESHOW @sbsmtvtheshow\n잠시 후, SBS MTV, SBS FiL '#더쇼'에\n청하가 출연합니다!💚💙💜\n\n✔ PM 6:00\n\n#청하 #CHUNGHA✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						119,
+						136
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						137,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbsmtvtheshow",
+					"name": "THE SHOW",
+					"id": 517295819,
+					"id_str": "517295819",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353067,
+			"friends_count": 1,
+			"listed_count": 2169,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] #THESHOW @sbsmtvtheshow\n잠시 후, SBS MTV, SBS FiL '#더쇼'에\n청하가 출연합니다!💚💙💜\n\n✔ PM 6:00\n\n#청하 #CHUNGHA✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Tue Jul 19 08:40:09 +0000 2022",
+		"id": 1549308151589228500,
+		"id_str": "1549313131083595777",
+		"full_text": "💓 PH https://t.co/BRwLKL2JYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRwLKL2JYZ",
+					"expanded_url": "https://twitter.com/laura_twl/status/1548741671231315968",
+					"display_url": "twitter.com/laura_twl/stat…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23604475,
+			"friends_count": 776,
+			"listed_count": 42469,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548741671231316000,
+		"quoted_status_id_str": "1548741671231315968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BRwLKL2JYZ",
+			"expanded": "https://twitter.com/laura_twl/status/1548741671231315968",
+			"display": "twitter.com/laura_twl/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 17 18:49:23 +0000 2022",
+			"id": 1548741671231316000,
+			"id_str": "1548741671231315968",
+			"full_text": "Sharing this pic from yesterday ❤️ @coldplay #ColdplayParis #Coldplay #stadedefrance @StadeFrance https://t.co/hYViKYX4PM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ColdplayParis",
+						"indices": [
+							45,
+							59
+						]
+					},
+					{
+						"text": "Coldplay",
+						"indices": [
+							60,
+							69
+						]
+					},
+					{
+						"text": "stadedefrance",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							35,
+							44
+						]
+					},
+					{
+						"screen_name": "StadeFrance",
+						"name": "Stade de France",
+						"id": 88690419,
+						"id_str": "88690419",
+						"indices": [
+							85,
+							97
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1548741656794521600,
+						"id_str": "1548741656794521600",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/FX48VM4WYAAonoj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FX48VM4WYAAonoj.jpg",
+						"url": "https://t.co/hYViKYX4PM",
+						"display_url": "pic.twitter.com/hYViKYX4PM",
+						"expanded_url": "https://twitter.com/Laura_twl/status/1548741671231315968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548741656794521600,
+						"id_str": "1548741656794521600",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/FX48VM4WYAAonoj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FX48VM4WYAAonoj.jpg",
+						"url": "https://t.co/hYViKYX4PM",
+						"display_url": "pic.twitter.com/hYViKYX4PM",
+						"expanded_url": "https://twitter.com/Laura_twl/status/1548741671231315968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1248283227682455600,
+				"id_str": "1248283227682455553",
+				"name": "⸱.LAURA.⸱║ 🏠🍂",
+				"screen_name": "Laura_twl",
+				"location": "France",
+				"description": "Seems like the world is going crazy...                        (she/her) ⸱ Fan account ⸱ Love always C, A, L, M.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 932,
+				"friends_count": 1407,
+				"listed_count": 21,
+				"created_at": "Thu Apr 09 16:15:48 +0000 2020",
+				"favourites_count": 35645,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1522905801261826049/8OoGd-GP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522905801261826049/8OoGd-GP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248283227682455553/1651924011",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 103,
+			"favorite_count": 812,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 105,
+		"favorite_count": 1314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qst",
+		"text": "💓 PH https://t.co/BRwLKL2JYZ"
+	},
+	{
 		"created_at": "Tue Jul 19 07:40:16 +0000 2022",
 		"id": 1549293036005634000,
 		"id_str": "1549298057069662210",
