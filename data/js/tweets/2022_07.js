@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 07:40:16 +0000 2022",
+		"id": 1549293036005634000,
+		"id_str": "1549298057069662210",
+		"full_text": "220716🔍[예능연구소 4K #최애직캠]\n\n‘청하 – Sparkling’\n▶ https://t.co/idaXrt6pfT\n\n#쇼음악중심 #음중 #청하 #CHUNGHA #스파클링 #Sparkling @CHUNGHA_MNHent\n\n✨MBC KPOP 채널 1000만 기원 이벤트✨\n▶https://t.co/xlCvkaqG4g https://t.co/AIPhZz1RuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최애직캠",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "스파클링",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						110,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/idaXrt6pfT",
+					"expanded_url": "https://youtu.be/OnpzAaXt3iQ",
+					"display_url": "youtu.be/OnpzAaXt3iQ",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/xlCvkaqG4g",
+					"expanded_url": "http://asq.kr/XpNhPD9kg",
+					"display_url": "asq.kr/XpNhPD9kg",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549292925921931300,
+					"id_str": "1549292925921931270",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FYAxtSaaMAY_6sa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYAxtSaaMAY_6sa.jpg",
+					"url": "https://t.co/AIPhZz1RuW",
+					"display_url": "pic.twitter.com/AIPhZz1RuW",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549293036005634048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549292925921931300,
+					"id_str": "1549292925921931270",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FYAxtSaaMAY_6sa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYAxtSaaMAY_6sa.jpg",
+					"url": "https://t.co/AIPhZz1RuW",
+					"display_url": "pic.twitter.com/AIPhZz1RuW",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549293036005634048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945214,
+			"friends_count": 5,
+			"listed_count": 1041,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "220716🔍[예능연구소 4K #최애직캠]\n\n‘청하 – Sparkling’\n▶ https://t.co/idaXrt6pfT\n\n#쇼음악중심 #음중 #청하 #CHUNGHA #스파클링 #Sparkling @CHUNGHA_MNHent\n\n✨MBC KPOP 채널 1000만 기원 이벤트✨\n▶https://t.co/xlCvkaqG4g https://t.co/AIPhZz1RuW"
+	},
+	{
 		"created_at": "Tue Jul 19 06:40:28 +0000 2022",
 		"id": 1549281314980782000,
 		"id_str": "1549283010398363648",
