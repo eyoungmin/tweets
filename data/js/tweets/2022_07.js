@@ -1,6 +1,1520 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 02:56:35 +0000 2022",
+		"id": 1549220983373934600,
+		"id_str": "1549226668245405696",
+		"full_text": "[#NEWS] 소녀시대, 막내 서현 합류→'찐' 완전체 케미 예고 (소시탐탐)\n▶ https://t.co/BfK4llMLxO\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/HWgUHgqGhJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BfK4llMLxO",
+					"expanded_url": "https://naver.me/G6ir8RPL",
+					"display_url": "naver.me/G6ir8RPL",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549210467998269400,
+					"id_str": "1549210467998269441",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_mtmtagAEuLnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_mtmtagAEuLnq.jpg",
+					"url": "https://t.co/HWgUHgqGhJ",
+					"display_url": "pic.twitter.com/HWgUHgqGhJ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549220983373934592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549210467998269400,
+					"id_str": "1549210467998269441",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_mtmtagAEuLnq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_mtmtagAEuLnq.jpg",
+					"url": "https://t.co/HWgUHgqGhJ",
+					"display_url": "pic.twitter.com/HWgUHgqGhJ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549220983373934592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549210497324839000,
+					"id_str": "1549210497324838912",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_mvT9acAAgcDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_mvT9acAAgcDW.jpg",
+					"url": "https://t.co/HWgUHgqGhJ",
+					"display_url": "pic.twitter.com/HWgUHgqGhJ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549220983373934592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 1233,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61662,
+			"friends_count": 12,
+			"listed_count": 276,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 소녀시대, 막내 서현 합류→'찐' 완전체 케미 예고 (소시탐탐)\n▶ https://t.co/BfK4llMLxO\n\n#서현 #소시탐탐 #SEOHYUN https://t.co/HWgUHgqGhJ"
+	},
+	{
+		"created_at": "Tue Jul 19 02:40:37 +0000 2022",
+		"id": 1549222493122166800,
+		"id_str": "1549222650177888258",
+		"full_text": "[📻] #이기광의가요광장 @kbs_gkgayo\nKBS Cool FM '이기광의 가요광장'에에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 12:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이기광의가요광장",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						116,
+						133
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						134,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kbs_gkgayo",
+					"name": "이기광의 가요광장",
+					"id": 1503015407455973400,
+					"id_str": "1503015407455973383",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353050,
+			"friends_count": 1,
+			"listed_count": 2168,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📻] #이기광의가요광장 @kbs_gkgayo\nKBS Cool FM '이기광의 가요광장'에에\n청하가 출연합니다!💚💙💜\n\n✔️ PM 12:00\n\n#청하 #CHUNGHA ✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Tue Jul 19 02:40:28 +0000 2022",
+		"id": 1549221783035068400,
+		"id_str": "1549222611942531073",
+		"full_text": "‘First week million seller’ aespa will be releasing a camerawork guide video for their new track, ‘Girls’, at 7 PM (KST) today! \nThe video features SM’s CT producing know-hows and a strong, bold performance! \n\nhttps://t.co/FFIAwAfj0U\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						248,
+						252
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						253,
+						259
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						260,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FFIAwAfj0U",
+					"expanded_url": "https://bit.ly/3aUkqZH",
+					"display_url": "bit.ly/3aUkqZH",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549221780078084000,
+		"in_reply_to_status_id_str": "1549221780078084096",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2958870,
+			"friends_count": 2,
+			"listed_count": 9061,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 660,
+		"favorite_count": 2324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘First week million seller’ aespa will be releasing a camerawork guide video for their new track, ‘Girls’, at 7 PM (KST) today! \nThe video features SM’s CT producing know-hows and a strong, bold performance! \n\nhttps://t.co/FFIAwAfj0U\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls"
+	},
+	{
+		"created_at": "Tue Jul 19 02:40:23 +0000 2022",
+		"id": 1549221780078084000,
+		"id_str": "1549222590522302465",
+		"full_text": "‘초동 밀리언셀러’ 에스파, 신곡 ‘Girls’ 카메라워크 가이드 영상 오늘 오후 7시 공개!\nSM의 CT 프로듀싱 노하우 담았다! 강렬한 퍼포먼스 선사 예고!\n\nhttps://t.co/FFIAwAfj0U\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/qhqNBnw6jV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FFIAwAfj0U",
+					"expanded_url": "https://bit.ly/3aUkqZH",
+					"display_url": "bit.ly/3aUkqZH",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549221769407758300,
+					"id_str": "1549221769407758336",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_w_bvaAAAYspi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_w_bvaAAAYspi.jpg",
+					"url": "https://t.co/qhqNBnw6jV",
+					"display_url": "pic.twitter.com/qhqNBnw6jV",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549221780078084096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549221769407758300,
+					"id_str": "1549221769407758336",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_w_bvaAAAYspi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_w_bvaAAAYspi.jpg",
+					"url": "https://t.co/qhqNBnw6jV",
+					"display_url": "pic.twitter.com/qhqNBnw6jV",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549221780078084096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2958870,
+			"friends_count": 2,
+			"listed_count": 9061,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1619,
+		"favorite_count": 6761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘초동 밀리언셀러’ 에스파, 신곡 ‘Girls’ 카메라워크 가이드 영상 오늘 오후 7시 공개!\nSM의 CT 프로듀싱 노하우 담았다! 강렬한 퍼포먼스 선사 예고!\n\nhttps://t.co/FFIAwAfj0U\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls https://t.co/qhqNBnw6jV"
+	},
+	{
+		"created_at": "Tue Jul 19 02:40:17 +0000 2022",
+		"id": 1549217221313970200,
+		"id_str": "1549222564484026373",
+		"full_text": "Players and BLINKS! Show @BLACKPINK your support to get exclusive rewards and unlock exclusive promotion resources.\n\nDownload Link: \nhttps://t.co/L5IS34kizu\n\n#BLACKPINKxPUBGM #BLACKPINK #PUBGMOBILE #THEVIRTUAL #INGAMECONCERT #PUBGM https://t.co/Kv9T01cDOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKxPUBGM",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "PUBGMOBILE",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "THEVIRTUAL",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"text": "INGAMECONCERT",
+					"indices": [
+						210,
+						224
+					]
+				},
+				{
+					"text": "PUBGM",
+					"indices": [
+						225,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L5IS34kizu",
+					"expanded_url": "https://pubgmobile.live/BLACKPINK2022",
+					"display_url": "pubgmobile.live/BLACKPINK2022",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549217215098110000,
+					"id_str": "1549217215098109952",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_s2VnXwAA6ahI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_s2VnXwAA6ahI.jpg",
+					"url": "https://t.co/Kv9T01cDOG",
+					"display_url": "pic.twitter.com/Kv9T01cDOG",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1549217221313970176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549217215098110000,
+					"id_str": "1549217215098109952",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_s2VnXwAA6ahI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_s2VnXwAA6ahI.jpg",
+					"url": "https://t.co/Kv9T01cDOG",
+					"display_url": "pic.twitter.com/Kv9T01cDOG",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1549217221313970176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2024,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PUBG goes #PUBGMOBILE. The original Battle Royale is now on mobile!\n\nhttps://t.co/BvTjoDr2sW x https://t.co/VlKykqFbsM\n\nGet UC: https://t.co/IDVZFOdZF8",
+			"url": "https://t.co/XvQWtPk3vQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XvQWtPk3vQ",
+							"expanded_url": "https://pubgmobile.live/apk",
+							"display_url": "pubgmobile.live/apk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BvTjoDr2sW",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								69,
+								92
+							]
+						},
+						{
+							"url": "https://t.co/VlKykqFbsM",
+							"expanded_url": "http://discord.gg/blackpink",
+							"display_url": "discord.gg/blackpink",
+							"indices": [
+								95,
+								118
+							]
+						},
+						{
+							"url": "https://t.co/IDVZFOdZF8",
+							"expanded_url": "http://pubgmobile.live/uc",
+							"display_url": "pubgmobile.live/uc",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1485568,
+			"friends_count": 203,
+			"listed_count": 742,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 5729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1547620661031362560/9pBEqSE8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547620661031362560/9pBEqSE8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1657816494",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4824,
+		"favorite_count": 13717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Players and BLINKS! Show @BLACKPINK your support to get exclusive rewards and unlock exclusive promotion resources.\n\nDownload Link: \nhttps://t.co/L5IS34kizu\n\n#BLACKPINKxPUBGM #BLACKPINK #PUBGMOBILE #THEVIRTUAL #INGAMECONCERT #PUBGM https://t.co/Kv9T01cDOG"
+	},
+	{
+		"created_at": "Tue Jul 19 02:40:10 +0000 2022",
+		"id": 1549214412455956500,
+		"id_str": "1549222534603841538",
+		"full_text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤‍🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더쇼",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						164,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549214404612587500,
+					"id_str": "1549214404612587520",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_qSvvaAAAxWfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_qSvvaAAAxWfb.jpg",
+					"url": "https://t.co/qsQX3yUeYw",
+					"display_url": "pic.twitter.com/qsQX3yUeYw",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549214412455956480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549214404612587500,
+					"id_str": "1549214404612587520",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_qSvvaAAAxWfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_qSvvaAAAxWfb.jpg",
+					"url": "https://t.co/qsQX3yUeYw",
+					"display_url": "pic.twitter.com/qsQX3yUeYw",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549214412455956480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549214404616790000,
+					"id_str": "1549214404616790017",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_qSvwaIAErVMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_qSvwaIAErVMv.jpg",
+					"url": "https://t.co/qsQX3yUeYw",
+					"display_url": "pic.twitter.com/qsQX3yUeYw",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549214412455956480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1492,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060930,
+			"friends_count": 127,
+			"listed_count": 1805,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더쇼 가 올여름 가장 큰 걱정이 생겼어요💦 \n초콜릿 같은 달콤한 것들은 더우면 녹잖아요? 그럼 세상에서 젤 스윗한 #청하 목소리는..⁉\n\n근데 생각해보니 갓청하 성대는 \n꿀 뚝뚝 떨어지는 꿀성대인데 \n꿀은 이미 액체라 문제 없겠네요❤‍🔥\n녹는 건 우리 고막 뿐,,👂🏻💕\n\n#Sparkling @CHUNGHA_MNHent https://t.co/qsQX3yUeYw"
+	},
+	{
+		"created_at": "Tue Jul 19 02:29:39 +0000 2022",
+		"id": 1549212629066924000,
+		"id_str": "1549219890581700608",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 3인 포스터 공개!✨\n\n지창욱X성동일X최수영, 벅차오르는 감정!\n“마지막 순간, 반짝일 수 있도록”\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/3W17iTu1NJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549212546019643400,
+					"id_str": "1549212546019643394",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"url": "https://t.co/3W17iTu1NJ",
+					"display_url": "pic.twitter.com/3W17iTu1NJ",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549212629066924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549212546019643400,
+					"id_str": "1549212546019643394",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"url": "https://t.co/3W17iTu1NJ",
+					"display_url": "pic.twitter.com/3W17iTu1NJ",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549212629066924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106178,
+			"friends_count": 56784,
+			"listed_count": 2123,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 3인 포스터 공개!✨\n\n지창욱X성동일X최수영, 벅차오르는 감정!\n“마지막 순간, 반짝일 수 있도록”\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/3W17iTu1NJ"
+	},
+	{
 		"created_at": "Tue Jul 19 00:45:36 +0000 2022",
 		"id": 1549188209049235500,
 		"id_str": "1549193706695163904",
