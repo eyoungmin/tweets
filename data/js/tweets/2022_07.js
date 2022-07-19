@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 06:40:28 +0000 2022",
+		"id": 1549281314980782000,
+		"id_str": "1549283010398363648",
+		"full_text": "[💡] 청하 공개방송 안내✨\n220720 쇼챔 사전녹화 신청이 오후 4시부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 사녹 : 220719 (화) 4:00 PM ~ 5:00 PM\n▶ https://t.co/R9NWDEABmc https://t.co/ovvquoJAMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9NWDEABmc",
+					"expanded_url": "https://bit.ly/3aLxaSo",
+					"display_url": "bit.ly/3aLxaSo",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/ovvquoJAMF",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1549182479994585096",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353062,
+			"friends_count": 1,
+			"listed_count": 2168,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549182479994585000,
+		"quoted_status_id_str": "1549182479994585096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ovvquoJAMF",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1549182479994585096",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 19 00:01:00 +0000 2022",
+			"id": 1549182479994585000,
+			"id_str": "1549182479994585096",
+			"full_text": "[💡] 청하 공개방송 안내✨\n\n220720 쇼챔 사녹 ▶ https://t.co/oMNkgvsuPy\n공개방송 통합공지 ▶ https://t.co/quuwSXhBt6\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							93,
+							96
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "BareRare",
+						"indices": [
+							106,
+							115
+						]
+					},
+					{
+						"text": "Sparkling",
+						"indices": [
+							116,
+							126
+						]
+					},
+					{
+						"text": "CHUNGHA_BareRare",
+						"indices": [
+							127,
+							144
+						]
+					},
+					{
+						"text": "CHUNGHA_Sparkling",
+						"indices": [
+							145,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oMNkgvsuPy",
+						"expanded_url": "https://bit.ly/3PltjdS",
+						"display_url": "bit.ly/3PltjdS",
+						"indices": [
+							32,
+							55
+						]
+					},
+					{
+						"url": "https://t.co/quuwSXhBt6",
+						"expanded_url": "https://bit.ly/3uJj8Y6",
+						"display_url": "bit.ly/3uJj8Y6",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter",
+				"url": "https://t.co/r3B14nlZdd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r3B14nlZdd",
+								"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+								"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 353062,
+				"friends_count": 1,
+				"listed_count": 2168,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2387,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 471,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 21,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 안내✨\n220720 쇼챔 사전녹화 신청이 오후 4시부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 사녹 : 220719 (화) 4:00 PM ~ 5:00 PM\n▶ https://t.co/R9NWDEABmc https://t.co/ovvquoJAMF"
+	},
+	{
+		"created_at": "Tue Jul 19 06:40:23 +0000 2022",
+		"id": 1549273014411624400,
+		"id_str": "1549282988927717377",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtB71k",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvKRV",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1xCGV",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNYMK",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549272864284876800,
+		"in_reply_to_status_id_str": "1549272864284876800",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2959710,
+			"friends_count": 2,
+			"listed_count": 9067,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 1326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK"
+	},
+	{
+		"created_at": "Tue Jul 19 06:40:20 +0000 2022",
+		"id": 1549272864284876800,
+		"id_str": "1549282975870816257",
+		"full_text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHtPquGMVd",
+					"expanded_url": "https://beyondlive.com/contents/138",
+					"display_url": "beyondlive.com/contents/138",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549272830897819600,
+		"in_reply_to_status_id_str": "1549272830897819648",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2959710,
+			"friends_count": 2,
+			"listed_count": 9067,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 1761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd"
+	},
+	{
+		"created_at": "Tue Jul 19 06:40:18 +0000 2022",
+		"id": 1549272830897819600,
+		"id_str": "1549282966932799488",
+		"full_text": "✨2022 aespa FAN MEETING “MY SYNK. aespa”✨\n\nKARINA와 SYNK 하시겠습니까~?❤️\nMY SYNK. aespa에서 함께해요!!\n\n📆 7/30 (SAT) 6PM KST\n\n#aespa #æspa #에스파 #KARINA\n#MYSYNK_aespa #FANMEETING https://t.co/D18WryULD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "MYSYNK_aespa",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548935017338130400,
+					"id_str": "1548935017338130432",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FX7sMRCaUAA1K78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX7sMRCaUAA1K78.jpg",
+					"url": "https://t.co/D18WryULD7",
+					"display_url": "pic.twitter.com/D18WryULD7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549272830897819648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 1445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548935017338130400,
+					"id_str": "1548935017338130432",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FX7sMRCaUAA1K78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX7sMRCaUAA1K78.jpg",
+					"url": "https://t.co/D18WryULD7",
+					"display_url": "pic.twitter.com/D18WryULD7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549272830897819648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 1445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2959710,
+			"friends_count": 2,
+			"listed_count": 9067,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2694,
+		"favorite_count": 9064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨2022 aespa FAN MEETING “MY SYNK. aespa”✨\n\nKARINA와 SYNK 하시겠습니까~?❤️\nMY SYNK. aespa에서 함께해요!!\n\n📆 7/30 (SAT) 6PM KST\n\n#aespa #æspa #에스파 #KARINA\n#MYSYNK_aespa #FANMEETING https://t.co/D18WryULD7"
+	},
+	{
 		"created_at": "Tue Jul 19 03:40:09 +0000 2022",
 		"id": 1549229156571160600,
 		"id_str": "1549237633339080704",
