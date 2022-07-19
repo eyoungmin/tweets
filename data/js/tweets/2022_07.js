@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 10:40:29 +0000 2022",
+		"id": 1549341181167173600,
+		"id_str": "1549343412108894209",
+		"full_text": "And &lt;THE SHOW&gt; Choice for July 19th is… #CHUNGHA ’s #Sparkling ! Congratulations #THESHOW @CHUNGHA_MNHent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061064,
+			"friends_count": 129,
+			"listed_count": 1804,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 666,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "And &lt;THE SHOW&gt; Choice for July 19th is… #CHUNGHA ’s #Sparkling ! Congratulations #THESHOW @CHUNGHA_MNHent"
+	},
+	{
+		"created_at": "Tue Jul 19 10:40:23 +0000 2022",
+		"id": 1549341152104841200,
+		"id_str": "1549343386410393600",
+		"full_text": "7월 19일 더쇼초이스 주인공은? #청하 의 #Sparkling 입니다! 더쇼초이스의 수상을 축하합니다! #더쇼 #THESHOW @CHUNGHA_MNHent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061064,
+			"friends_count": 129,
+			"listed_count": 1804,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 315,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "7월 19일 더쇼초이스 주인공은? #청하 의 #Sparkling 입니다! 더쇼초이스의 수상을 축하합니다! #더쇼 #THESHOW @CHUNGHA_MNHent"
+	},
+	{
+		"created_at": "Tue Jul 19 10:40:15 +0000 2022",
+		"id": 1549339253833928700,
+		"id_str": "1549343352272945153",
+		"full_text": "☀️ #ColdplayParis heat advice / forte chaleur @StadeFrance https://t.co/izHDbV7op8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayParis",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StadeFrance",
+					"name": "Stade de France",
+					"id": 88690419,
+					"id_str": "88690419",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549339231176237000,
+					"id_str": "1549339231176237058",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBb0m7WIAI-Edz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBb0m7WIAI-Edz.jpg",
+					"url": "https://t.co/izHDbV7op8",
+					"display_url": "pic.twitter.com/izHDbV7op8",
+					"expanded_url": "https://twitter.com/coldplay/status/1549339253833928706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549339231176237000,
+					"id_str": "1549339231176237058",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBb0m7WIAI-Edz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBb0m7WIAI-Edz.jpg",
+					"url": "https://t.co/izHDbV7op8",
+					"display_url": "pic.twitter.com/izHDbV7op8",
+					"expanded_url": "https://twitter.com/coldplay/status/1549339253833928706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549339231184617500,
+					"id_str": "1549339231184617472",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBb0m9WAAApAAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBb0m9WAAApAAg.jpg",
+					"url": "https://t.co/izHDbV7op8",
+					"display_url": "pic.twitter.com/izHDbV7op8",
+					"expanded_url": "https://twitter.com/coldplay/status/1549339253833928706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23604500,
+			"friends_count": 776,
+			"listed_count": 42467,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "☀️ #ColdplayParis heat advice / forte chaleur @StadeFrance https://t.co/izHDbV7op8"
+	},
+	{
 		"created_at": "Tue Jul 19 09:40:30 +0000 2022",
 		"id": 1549325675705901000,
 		"id_str": "1549328317865771008",
