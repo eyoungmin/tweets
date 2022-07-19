@@ -1,6 +1,1474 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 09:40:30 +0000 2022",
+		"id": 1549325675705901000,
+		"id_str": "1549328317865771008",
+		"full_text": "(ENG) 추가홍보 걸고 게임하다가 🔥 혼돈 속에서 피어난 에스파 aespa 🔥 [만나달라] Ep.8\n\nhttps://t.co/9iiTijxcbD\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#만나달라_에스파\n#만나달라 #달라스튜디오 https://t.co/Q9svVTUuAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "만나달라_에스파",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "만나달라",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "달라스튜디오",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9iiTijxcbD",
+					"expanded_url": "https://youtu.be/MbBy4r3JHwo",
+					"display_url": "youtu.be/MbBy4r3JHwo",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549316676709417000,
+					"id_str": "1549316676709416960",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBHTw_agAA5EpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBHTw_agAA5EpV.jpg",
+					"url": "https://t.co/Q9svVTUuAi",
+					"display_url": "pic.twitter.com/Q9svVTUuAi",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549325675705901056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549316676709417000,
+					"id_str": "1549316676709416960",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBHTw_agAA5EpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBHTw_agAA5EpV.jpg",
+					"url": "https://t.co/Q9svVTUuAi",
+					"display_url": "pic.twitter.com/Q9svVTUuAi",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549325675705901056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2960428,
+			"friends_count": 2,
+			"listed_count": 9066,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2745,
+		"favorite_count": 6624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 추가홍보 걸고 게임하다가 🔥 혼돈 속에서 피어난 에스파 aespa 🔥 [만나달라] Ep.8\n\nhttps://t.co/9iiTijxcbD\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#만나달라_에스파\n#만나달라 #달라스튜디오 https://t.co/Q9svVTUuAi"
+	},
+	{
+		"created_at": "Tue Jul 19 09:40:20 +0000 2022",
+		"id": 1549319740606525400,
+		"id_str": "1549328275104825344",
+		"full_text": "[★EP. 303 THE SHOW CHOICE NOMINEE③]\nPerformance Sparking••• Visual Sparkling••••\nThanks to CHUNG HA, THE SHOW is 960209 times more Sparkling than ever🌟\n\n#THESHOW #CHUNGHA #Sparkling @CHUNGHA_MNHent https://t.co/0ojsW3gaoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						171,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						182,
+						197
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549319733652365300,
+					"id_str": "1549319733652365312",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBKFs_aIAAgFp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBKFs_aIAAgFp4.jpg",
+					"url": "https://t.co/0ojsW3gaoH",
+					"display_url": "pic.twitter.com/0ojsW3gaoH",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549319740606525440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549319733652365300,
+					"id_str": "1549319733652365312",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBKFs_aIAAgFp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBKFs_aIAAgFp4.jpg",
+					"url": "https://t.co/0ojsW3gaoH",
+					"display_url": "pic.twitter.com/0ojsW3gaoH",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549319740606525440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061054,
+			"friends_count": 129,
+			"listed_count": 1803,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[★EP. 303 THE SHOW CHOICE NOMINEE③]\nPerformance Sparking••• Visual Sparkling••••\nThanks to CHUNG HA, THE SHOW is 960209 times more Sparkling than ever🌟\n\n#THESHOW #CHUNGHA #Sparkling @CHUNGHA_MNHent https://t.co/0ojsW3gaoH"
+	},
+	{
+		"created_at": "Tue Jul 19 09:40:14 +0000 2022",
+		"id": 1549319697765929000,
+		"id_str": "1549328249272299524",
+		"full_text": "[★303회 더쇼초이스 후보③]\n무대 맛집••• 얼굴 맛집••••\n이곳이 바로 더슐랭 960209스타🌟\n\n#더쇼 #THESHOW #청하 #Sparkling @CHUNGHA_MNHent https://t.co/54ezDIUKgZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더쇼",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549319690484588500,
+					"id_str": "1549319690484588544",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBKDMLaIAADvh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBKDMLaIAADvh8.jpg",
+					"url": "https://t.co/54ezDIUKgZ",
+					"display_url": "pic.twitter.com/54ezDIUKgZ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549319697765928960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549319690484588500,
+					"id_str": "1549319690484588544",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBKDMLaIAADvh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBKDMLaIAADvh8.jpg",
+					"url": "https://t.co/54ezDIUKgZ",
+					"display_url": "pic.twitter.com/54ezDIUKgZ",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1549319697765928960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061054,
+			"friends_count": 129,
+			"listed_count": 1803,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[★303회 더쇼초이스 후보③]\n무대 맛집••• 얼굴 맛집••••\n이곳이 바로 더슐랭 960209스타🌟\n\n#더쇼 #THESHOW #청하 #Sparkling @CHUNGHA_MNHent https://t.co/54ezDIUKgZ"
+	},
+	{
+		"created_at": "Tue Jul 19 09:40:10 +0000 2022",
+		"id": 1549319396241608700,
+		"id_str": "1549328231593136128",
+		"full_text": "★EP. 303 THE SHOW Choice Nominees ★\n①Apink CHOBOM ②SF9 ③CHUNG HA #THESHOW real-time voting only through #STARPLANET app! Participate in voting after downloading #STARPLANET app^_^! THE SHOW Play~!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "STARPLANET",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "STARPLANET",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061054,
+			"friends_count": 129,
+			"listed_count": 1803,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 333,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "★EP. 303 THE SHOW Choice Nominees ★\n①Apink CHOBOM ②SF9 ③CHUNG HA #THESHOW real-time voting only through #STARPLANET app! Participate in voting after downloading #STARPLANET app^_^! THE SHOW Play~!"
+	},
+	{
+		"created_at": "Tue Jul 19 09:37:34 +0000 2022",
+		"id": 1549314070477545500,
+		"id_str": "1549327577298247681",
+		"full_text": "[우리은행X아이유 우리WON 대개봉]\n\n캠페인 본편 영상을 활용한 진짜 같은 영화 포스터\n그런데, 정말로 아이유가 나오는 우리은행 영상을\n가까운 CGV 영화관에서 만나볼 수 있다?!\n\nhttps://t.co/n2PDMRJXWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n2PDMRJXWR",
+					"expanded_url": "https://www.instagram.com/p/CgL7jpzp-K6/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CgL7jpzp-K6/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1354616,
+			"friends_count": 0,
+			"listed_count": 2285,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 2529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우리은행X아이유 우리WON 대개봉]\n\n캠페인 본편 영상을 활용한 진짜 같은 영화 포스터\n그런데, 정말로 아이유가 나오는 우리은행 영상을\n가까운 CGV 영화관에서 만나볼 수 있다?!\n\nhttps://t.co/n2PDMRJXWR"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:42 +0000 2022",
+		"id": 1549320918278996000,
+		"id_str": "1549325598283255810",
+		"full_text": "[#DRAMA] [메이킹] 알콩달콩 케미 폭발 서현과 나인우의 드로잉 인터뷰 l #징크스의연인 #KBS2TV #수목드라마\n▶ https://t.co/JJdrtMe7EA\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "KBS2TV",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JJdrtMe7EA",
+					"expanded_url": "https://youtu.be/V91X6n9lpbE",
+					"display_url": "youtu.be/V91X6n9lpbE",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61690,
+			"friends_count": 12,
+			"listed_count": 275,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] [메이킹] 알콩달콩 케미 폭발 서현과 나인우의 드로잉 인터뷰 l #징크스의연인 #KBS2TV #수목드라마\n▶ https://t.co/JJdrtMe7EA\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst"
+	},
+	{
+		"created_at": "Tue Jul 19 09:29:39 +0000 2022",
+		"id": 1549314255572254700,
+		"id_str": "1549325585184444417",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 기획의도📝\n\n삶의 끝 위태로운 청년이 생의 끝에 있는 사람들의\n마지막 소원을 들어주는 힐링 드라마\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 https://t.co/Abj5sCchrU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549313823965753300,
+					"id_str": "1549313823965753344",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBEttsUsAAXbHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBEttsUsAAXbHa.jpg",
+					"url": "https://t.co/Abj5sCchrU",
+					"display_url": "pic.twitter.com/Abj5sCchrU",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549314255572254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549313823965753300,
+					"id_str": "1549313823965753344",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBEttsUsAAXbHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBEttsUsAAXbHa.jpg",
+					"url": "https://t.co/Abj5sCchrU",
+					"display_url": "pic.twitter.com/Abj5sCchrU",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549314255572254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549313823978311700,
+					"id_str": "1549313823978311681",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBEttvUUAENHpQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBEttvUUAENHpQ.jpg",
+					"url": "https://t.co/Abj5sCchrU",
+					"display_url": "pic.twitter.com/Abj5sCchrU",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549314255572254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549313823978311700,
+					"id_str": "1549313823978311683",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FYBEttvUUAMADre.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYBEttvUUAMADre.jpg",
+					"url": "https://t.co/Abj5sCchrU",
+					"display_url": "pic.twitter.com/Abj5sCchrU",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549314255572254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106079,
+			"friends_count": 56779,
+			"listed_count": 2122,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 기획의도📝\n\n삶의 끝 위태로운 청년이 생의 끝에 있는 사람들의\n마지막 소원을 들어주는 힐링 드라마\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 https://t.co/Abj5sCchrU"
+	},
+	{
+		"created_at": "Tue Jul 19 09:17:05 +0000 2022",
+		"id": 1549319908248260600,
+		"id_str": "1549322424927133697",
+		"full_text": "청하 X Jay Park #SparklingChallenge 💖\n\n이보다 HIP 할 수 없다!\n\n오직 #YouTubeShorts 에서만!\n\n🔎 https://t.co/OzN2poAQFp\n\n#SparklingChallenge #YouTubeShorts #박재범",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						14,
+						33
+					]
+				},
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						105,
+						124
+					]
+				},
+				{
+					"text": "YouTubeShorts",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "박재범",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OzN2poAQFp",
+					"expanded_url": "https://youtube.com/shorts/kP_dl7YEqJk?feature=share",
+					"display_url": "youtube.com/shorts/kP_dl7Y…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353061,
+			"friends_count": 1,
+			"listed_count": 2168,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청하 X Jay Park #SparklingChallenge 💖\n\n이보다 HIP 할 수 없다!\n\n오직 #YouTubeShorts 에서만!\n\n🔎 https://t.co/OzN2poAQFp\n\n#SparklingChallenge #YouTubeShorts #박재범"
+	},
+	{
 		"created_at": "Tue Jul 19 08:45:37 +0000 2022",
 		"id": 1549313090180857900,
 		"id_str": "1549314502826541057",
