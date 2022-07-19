@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 12:40:20 +0000 2022",
+		"id": 1549369229387997200,
+		"id_str": "1549373572623253506",
+		"full_text": "⏰ Here are the set times for the final two #ColdplayParis @StadeFrance shows. \n\n☀️ Heat advice / forte chaleur: https://t.co/kjImIS8vV8 https://t.co/4XrRTBQHM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayParis",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StadeFrance",
+					"name": "Stade de France",
+					"id": 88690419,
+					"id_str": "88690419",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kjImIS8vV8",
+					"expanded_url": "https://coldplay.com/paris-heat-advice-forte-chaleur/",
+					"display_url": "coldplay.com/paris-heat-adv…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549369225550217200,
+					"id_str": "1549369225550217218",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB3GgrXwAIBV-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB3GgrXwAIBV-W.jpg",
+					"url": "https://t.co/4XrRTBQHM9",
+					"display_url": "pic.twitter.com/4XrRTBQHM9",
+					"expanded_url": "https://twitter.com/coldplay/status/1549369229387997184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549369225550217200,
+					"id_str": "1549369225550217218",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB3GgrXwAIBV-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB3GgrXwAIBV-W.jpg",
+					"url": "https://t.co/4XrRTBQHM9",
+					"display_url": "pic.twitter.com/4XrRTBQHM9",
+					"expanded_url": "https://twitter.com/coldplay/status/1549369229387997184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23604536,
+			"friends_count": 776,
+			"listed_count": 42469,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⏰ Here are the set times for the final two #ColdplayParis @StadeFrance shows. \n\n☀️ Heat advice / forte chaleur: https://t.co/kjImIS8vV8 https://t.co/4XrRTBQHM9"
+	},
+	{
+		"created_at": "Tue Jul 19 12:40:17 +0000 2022",
+		"id": 1549368993110057000,
+		"id_str": "1549373559595827200",
+		"full_text": "[#청하] 별하랑! 오늘 1위 감사해요ㅠㅠ\n별하랑 덕분에 Sparkling이 반짝반짝 빛나요!!\n함께 축하하고 싶었는데 너무 아쉽지만 남은 활동 더 좋은 추억 많이 쌓아요! 정말 감사합니다! 별랑해💚💙💜\nyou make me sparkle✨\n\n#CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/fZOon26Syh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						166,
+						183
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						184,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549368957521473500,
+					"id_str": "1549368957521473537",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB226MVsAEvPGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB226MVsAEvPGZ.jpg",
+					"url": "https://t.co/fZOon26Syh",
+					"display_url": "pic.twitter.com/fZOon26Syh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549368993110056961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549368957521473500,
+					"id_str": "1549368957521473537",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB226MVsAEvPGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB226MVsAEvPGZ.jpg",
+					"url": "https://t.co/fZOon26Syh",
+					"display_url": "pic.twitter.com/fZOon26Syh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549368993110056961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549368957462651000,
+					"id_str": "1549368957462650880",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB225-UIAABh7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB225-UIAABh7L.jpg",
+					"url": "https://t.co/fZOon26Syh",
+					"display_url": "pic.twitter.com/fZOon26Syh",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549368993110056961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353113,
+			"friends_count": 1,
+			"listed_count": 2168,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 482,
+		"favorite_count": 1240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청하] 별하랑! 오늘 1위 감사해요ㅠㅠ\n별하랑 덕분에 Sparkling이 반짝반짝 빛나요!!\n함께 축하하고 싶었는데 너무 아쉽지만 남은 활동 더 좋은 추억 많이 쌓아요! 정말 감사합니다! 별랑해💚💙💜\nyou make me sparkle✨\n\n#CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/fZOon26Syh"
+	},
+	{
 		"created_at": "Tue Jul 19 11:39:59 +0000 2022",
 		"id": 1549353794906951700,
 		"id_str": "1549358383777492992",
