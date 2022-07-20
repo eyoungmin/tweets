@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 03:29:39 +0000 2022",
+		"id": 1549591704923017200,
+		"id_str": "1549597375777443842",
+		"full_text": "#LIMYOONA hosts the first ‘#BlueDragonSeriesAwards’ and is a hot topic with her visuals and hosting skills! The multitalented star’s second half of the year is packed with a #GirlsGeneration comeback and upcoming lead roles in a TV show and a movie! \n\nhttps://t.co/JJWrJ3ZCtN https://t.co/7aMfiyr5Sz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "BlueDragonSeriesAwards",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JJWrJ3ZCtN",
+					"expanded_url": "https://bit.ly/3yWKk70",
+					"display_url": "bit.ly/3yWKk70",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549591694206652400,
+					"id_str": "1549591694206652416",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFBb5AVUAA1bBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFBb5AVUAA1bBQ.jpg",
+					"url": "https://t.co/7aMfiyr5Sz",
+					"display_url": "pic.twitter.com/7aMfiyr5Sz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1549591704923017216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549591694206652400,
+					"id_str": "1549591694206652416",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFBb5AVUAA1bBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFBb5AVUAA1bBQ.jpg",
+					"url": "https://t.co/7aMfiyr5Sz",
+					"display_url": "pic.twitter.com/7aMfiyr5Sz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1549591704923017216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549591694181511200,
+					"id_str": "1549591694181511169",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFBb46VsAEBA0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFBb46VsAEBA0t.jpg",
+					"url": "https://t.co/7aMfiyr5Sz",
+					"display_url": "pic.twitter.com/7aMfiyr5Sz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1549591704923017216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11029908,
+			"friends_count": 56,
+			"listed_count": 12462,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1518,
+		"favorite_count": 4366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LIMYOONA hosts the first ‘#BlueDragonSeriesAwards’ and is a hot topic with her visuals and hosting skills! The multitalented star’s second half of the year is packed with a #GirlsGeneration comeback and upcoming lead roles in a TV show and a movie! \n\nhttps://t.co/JJWrJ3ZCtN https://t.co/7aMfiyr5Sz"
+	},
+	{
 		"created_at": "Wed Jul 20 02:40:15 +0000 2022",
 		"id": 1549583255552544800,
 		"id_str": "1549584944279785473",
