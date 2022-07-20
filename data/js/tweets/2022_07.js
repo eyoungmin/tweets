@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 05:40:35 +0000 2022",
+		"id": 1549629824154550300,
+		"id_str": "1549630326305132545",
+		"full_text": "신비로운 자연 속에서 펼쳐지는\n배우 신세경과 타사키의 꿈같은 이야기.✨ \n타사키의 데인저 컬렉션과 함께 \n우아하면서도 대담한 모습으로 \n변신한 신세경을 만나보세요.\n \nhttps://t.co/PMrnkNkobk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PMrnkNkobk",
+					"expanded_url": "https://www.instagram.com/p/CgN8uqxNGXC/",
+					"display_url": "instagram.com/p/CgN8uqxNGXC/",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신비로운 자연 속에서 펼쳐지는\n배우 신세경과 타사키의 꿈같은 이야기.✨ \n타사키의 데인저 컬렉션과 함께 \n우아하면서도 대담한 모습으로 \n변신한 신세경을 만나보세요.\n \nhttps://t.co/PMrnkNkobk"
+	},
+	{
+		"created_at": "Wed Jul 20 05:40:31 +0000 2022",
+		"id": 1549628395625279500,
+		"id_str": "1549630309070737408",
+		"full_text": "BoA x XIN LIU's 'Better' Chinese version planned and produced by executive producer LEE SOOMAN tops the Chinese music and MV charts and proves a hot local interest!\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "XIN",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "류위신",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "刘雨昕",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549628394039840800,
+		"in_reply_to_status_id_str": "1549628394039840768",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73779,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 612,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BoA x XIN LIU's 'Better' Chinese version planned and produced by executive producer LEE SOOMAN tops the Chinese music and MV charts and proves a hot local interest!\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better"
+	},
+	{
+		"created_at": "Wed Jul 20 05:40:25 +0000 2022",
+		"id": 1549628394039840800,
+		"id_str": "1549630287654666240",
+		"full_text": "이수만 총괄 프로듀서가 기획·프로듀싱한 ‘보아X류위신’ 컬래버레이션 화제!\n‘Better’ 중국어 버전, 中 음악 및 MV 차트 1위! 높은 현지 인기!\n\nhttps://t.co/sa8Od29u5S\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "XIN",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "류위신",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "刘雨昕",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sa8Od29u5S",
+					"expanded_url": "https://bit.ly/3OewFhu",
+					"display_url": "bit.ly/3OewFhu",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73779,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이수만 총괄 프로듀서가 기획·프로듀싱한 ‘보아X류위신’ 컬래버레이션 화제!\n‘Better’ 중국어 버전, 中 음악 및 MV 차트 1위! 높은 현지 인기!\n\nhttps://t.co/sa8Od29u5S\n\n#BoA #보아\n#XIN #류위신 #刘雨昕\n#Better"
+	},
+	{
+		"created_at": "Wed Jul 20 05:40:17 +0000 2022",
+		"id": 1549627673822933000,
+		"id_str": "1549630253697572865",
+		"full_text": "[NEWS] \n선예, 'Glass Heart' 라이브 클립 공개..데뷔 첫 솔로 향한 기대\n\n▶️ https://t.co/4I2UxffRVH\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4I2UxffRVH",
+					"expanded_url": "https://naver.me/GoBABRgt",
+					"display_url": "naver.me/GoBABRgt",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18263,
+			"friends_count": 2,
+			"listed_count": 61,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n선예, 'Glass Heart' 라이브 클립 공개..데뷔 첫 솔로 향한 기대\n\n▶️ https://t.co/4I2UxffRVH\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer"
+	},
+	{
+		"created_at": "Wed Jul 20 05:40:12 +0000 2022",
+		"id": 1549627233953845200,
+		"id_str": "1549630232331706370",
+		"full_text": "[NEWS] \n선예, 리드 싱글 'Glass Heart' 라이브 클립 공개..명불허전 가창\n\n▶️ https://t.co/an4bMDwVpK\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "GENUINE",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "GlassHeart",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/an4bMDwVpK",
+					"expanded_url": "https://naver.me/5hgDgwQy",
+					"display_url": "naver.me/5hgDgwQy",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예",
+			"url": "https://t.co/bt27T8GawB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bt27T8GawB",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18263,
+			"friends_count": 2,
+			"listed_count": 61,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \n선예, 리드 싱글 'Glass Heart' 라이브 클립 공개..명불허전 가창\n\n▶️ https://t.co/an4bMDwVpK\n\n#선예 #Sunye #GENUINE #GlassHeart #JustADancer"
+	},
+	{
 		"created_at": "Wed Jul 20 04:40:29 +0000 2022",
 		"id": 1549608788881285000,
 		"id_str": "1549615203951714304",
@@ -719,7 +1373,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Wed Jul 20 04:40:12 +0000 2022",
 		"id": 1549605015496626200,
 		"id_str": "1549615130543067137",
-		"full_text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚‍♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ",
+		"full_text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -927,7 +1581,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚‍♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ"
+		"text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ"
 	},
 	{
 		"created_at": "Wed Jul 20 03:29:39 +0000 2022",
