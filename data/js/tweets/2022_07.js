@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 06:40:33 +0000 2022",
+		"id": 1549641908720668700,
+		"id_str": "1549645416827916288",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtB71k",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvKRV",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1xCGV",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNYMK",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549641906199863300,
+		"in_reply_to_status_id_str": "1549641906199863298",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2964005,
+			"friends_count": 2,
+			"listed_count": 9074,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK"
+	},
+	{
+		"created_at": "Wed Jul 20 06:40:30 +0000 2022",
+		"id": 1549641906199863300,
+		"id_str": "1549645407894081536",
+		"full_text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHtPquGMVd",
+					"expanded_url": "https://beyondlive.com/contents/138",
+					"display_url": "beyondlive.com/contents/138",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549635217664512000,
+		"in_reply_to_status_id_str": "1549635217664512000",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2964005,
+			"friends_count": 2,
+			"listed_count": 9074,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd"
+	},
+	{
+		"created_at": "Wed Jul 20 06:40:21 +0000 2022",
+		"id": 1549493202633105400,
+		"id_str": "1549645369579126784",
+		"full_text": "Thank you @Spotify for having @CHUNGHA_MNHent featured on the GIRL KRUSH and NEW MUSIC K-POP playlists! #SPARKLINGforCHUNGHA \n\nListen here: https://t.co/UfMNphyyD0 https://t.co/CAljN4XWl0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPARKLINGforCHUNGHA",
+					"indices": [
+						104,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UfMNphyyD0",
+					"expanded_url": "http://chungha.lnk.to/BareRarePt1",
+					"display_url": "chungha.lnk.to/BareRarePt1",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549489759352864800,
+					"id_str": "1549489759352864768",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FYDkugFVQAAjXsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYDkugFVQAAjXsj.jpg",
+					"url": "https://t.co/CAljN4XWl0",
+					"display_url": "pic.twitter.com/CAljN4XWl0",
+					"expanded_url": "https://twitter.com/88rising/status/1549493202633105408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549489759352864800,
+					"id_str": "1549489759352864768",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FYDkugFVQAAjXsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYDkugFVQAAjXsj.jpg",
+					"url": "https://t.co/CAljN4XWl0",
+					"display_url": "pic.twitter.com/CAljN4XWl0",
+					"expanded_url": "https://twitter.com/88rising/status/1549493202633105408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549489759210205200,
+					"id_str": "1549489759210205185",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FYDkufjUcAEiaDt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYDkufjUcAEiaDt.jpg",
+					"url": "https://t.co/CAljN4XWl0",
+					"display_url": "pic.twitter.com/CAljN4XWl0",
+					"expanded_url": "https://twitter.com/88rising/status/1549493202633105408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@sushitrash \"Glimpse of Us\" out now.\n@nikizefanya \"Oceans & Engines\" out now.\nHead In The Clouds Festival August 20-21",
+			"url": "https://t.co/UW91LRQbEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UW91LRQbEl",
+							"expanded_url": "https://joji.lnk.to/GlimpseofUs",
+							"display_url": "joji.lnk.to/GlimpseofUs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628497,
+			"friends_count": 306,
+			"listed_count": 584,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1653332461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 513,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @Spotify for having @CHUNGHA_MNHent featured on the GIRL KRUSH and NEW MUSIC K-POP playlists! #SPARKLINGforCHUNGHA \n\nListen here: https://t.co/UfMNphyyD0 https://t.co/CAljN4XWl0"
+	},
+	{
+		"created_at": "Wed Jul 20 06:40:19 +0000 2022",
+		"id": 1549620117243400200,
+		"id_str": "1549645360611692544",
+		"full_text": "💋SPECIAL MESSAGE💋\n\n9月3日（土）さいたまスーパアリーナで開催\n#マイナビTGC 2022 A/Wへの出演が決定した\n#aespa （@aespaJPofficial）からメッセージが到着！💕\n\nチケット先行販売中！💌\nスペシャルライブをお楽しみに！✨\n\n最新情報はこちらから👇\nhttps://t.co/h34K3r5RaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "マイナビTGC",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespaJPofficial",
+					"name": "aespa JAPAN OFFICIAL",
+					"id": 1518523440814198800,
+					"id_str": "1518523440814198785",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h34K3r5RaR",
+					"expanded_url": "https://tgc.girlswalker.com/22aw/",
+					"display_url": "tgc.girlswalker.com/22aw/",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90318695,
+			"id_str": "90318695",
+			"name": "東京ガールズコレクション（TGC）",
+			"screen_name": "TGCnews",
+			"location": "TOKYO",
+			"description": "2022年9月3日（土）さいたまスーパーアリーナにて『#マイナビTGC 2022 A/W』開催決定！出演者も続々決定🥰TGC公式LINE先行販売は7月22日（金）まで✨",
+			"url": "https://t.co/eWRDEQ0A8D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eWRDEQ0A8D",
+							"expanded_url": "https://tgc.girlswalker.com/22aw/",
+							"display_url": "tgc.girlswalker.com/22aw/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327348,
+			"friends_count": 22034,
+			"listed_count": 989,
+			"created_at": "Mon Nov 16 03:56:33 +0000 2009",
+			"favourites_count": 515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166562660999020544/xv-4EQfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166562660999020544/xv-4EQfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90318695/1513239234",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9AD4DE",
+			"profile_text_color": "787878",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1032,
+		"favorite_count": 2554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💋SPECIAL MESSAGE💋\n\n9月3日（土）さいたまスーパアリーナで開催\n#マイナビTGC 2022 A/Wへの出演が決定した\n#aespa （@aespaJPofficial）からメッセージが到着！💕\n\nチケット先行販売中！💌\nスペシャルライブをお楽しみに！✨\n\n最新情報はこちらから👇\nhttps://t.co/h34K3r5RaR"
+	},
+	{
 		"created_at": "Wed Jul 20 05:40:35 +0000 2022",
 		"id": 1549629824154550300,
 		"id_str": "1549630326305132545",
