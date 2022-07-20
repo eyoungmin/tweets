@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 01:47:18 +0000 2022",
+		"id": 1549569564249555000,
+		"id_str": "1549571620896854017",
+		"full_text": "MBC's new Friday, Saturday drama ‘The Big Mouth’'s special character poster for LIM YOONA's role '고미호' has been released!\n📺 To be premiered on 7/29 (Fri) at 9:50 PM KST!\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/MOfZFXBqGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						212,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549566141592649700,
+					"id_str": "1549566141592649729",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEqMiGaQAEsc24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEqMiGaQAEsc24.jpg",
+					"url": "https://t.co/MOfZFXBqGs",
+					"display_url": "pic.twitter.com/MOfZFXBqGs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1549569564249554944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549566141592649700,
+					"id_str": "1549566141592649729",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEqMiGaQAEsc24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEqMiGaQAEsc24.jpg",
+					"url": "https://t.co/MOfZFXBqGs",
+					"display_url": "pic.twitter.com/MOfZFXBqGs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1549569564249554944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11029559,
+			"friends_count": 56,
+			"listed_count": 12456,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 1932,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MBC's new Friday, Saturday drama ‘The Big Mouth’'s special character poster for LIM YOONA's role '고미호' has been released!\n📺 To be premiered on 7/29 (Fri) at 9:50 PM KST!\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/MOfZFXBqGs"
+	},
+	{
+		"created_at": "Wed Jul 20 01:29:54 +0000 2022",
+		"id": 1549560306153984000,
+		"id_str": "1549567240030371842",
+		"full_text": "[#VIDEO] 소시탐탐 4회 예고편 - 15년 전 '룸메이트'와 숙소 생활 START↗\n▶ https://t.co/7P2CDpNJSk\n\n#서현 #소시탐탐 #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7P2CDpNJSk",
+					"expanded_url": "https://youtu.be/tHOMgfR5BgQ",
+					"display_url": "youtu.be/tHOMgfR5BgQ",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61703,
+			"friends_count": 12,
+			"listed_count": 275,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 소시탐탐 4회 예고편 - 15년 전 '룸메이트'와 숙소 생활 START↗\n▶ https://t.co/7P2CDpNJSk\n\n#서현 #소시탐탐 #SEOHYUN"
+	},
+	{
+		"created_at": "Wed Jul 20 01:29:47 +0000 2022",
+		"id": 1549559877995237400,
+		"id_str": "1549567210200465408",
+		"full_text": "ZICO ON HIS VOCATION #협찬\n\n쏟아지는 시의 신랄함과 티파니의 말쑥함. 그러니까 지코와 티파니의 소명.\n\n#Zico #지코 #TiffanyAndCo #TiffanyHardWear #JeanSchlumberger #TiffanyT #티파니\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 8월호에서 만나볼 수 있습니다. https://t.co/AI4C57Dreg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "Zico",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "TiffanyHardWear",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"text": "JeanSchlumberger",
+					"indices": [
+						109,
+						126
+					]
+				},
+				{
+					"text": "TiffanyT",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549559864485367800,
+					"id_str": "1549559864485367811",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEkfKDaUAMCleM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEkfKDaUAMCleM.jpg",
+					"url": "https://t.co/AI4C57Dreg",
+					"display_url": "pic.twitter.com/AI4C57Dreg",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1549559877995237376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1606,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549559864485367800,
+					"id_str": "1549559864485367811",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEkfKDaUAMCleM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEkfKDaUAMCleM.jpg",
+					"url": "https://t.co/AI4C57Dreg",
+					"display_url": "pic.twitter.com/AI4C57Dreg",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1549559877995237376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1606,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549559865227772000,
+					"id_str": "1549559865227771904",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEkfM0agAAZT3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEkfM0agAAZT3M.jpg",
+					"url": "https://t.co/AI4C57Dreg",
+					"display_url": "pic.twitter.com/AI4C57Dreg",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1549559877995237376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1606,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549559864464375800,
+					"id_str": "1549559864464375808",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FYEkfJ-aAAAfWsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYEkfJ-aAAAfWsS.jpg",
+					"url": "https://t.co/AI4C57Dreg",
+					"display_url": "pic.twitter.com/AI4C57Dreg",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1549559877995237376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1606,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167234,
+			"friends_count": 0,
+			"listed_count": 331,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1657772122",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ZICO ON HIS VOCATION #협찬\n\n쏟아지는 시의 신랄함과 티파니의 말쑥함. 그러니까 지코와 티파니의 소명.\n\n#Zico #지코 #TiffanyAndCo #TiffanyHardWear #JeanSchlumberger #TiffanyT #티파니\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 8월호에서 만나볼 수 있습니다. https://t.co/AI4C57Dreg"
+	},
+	{
 		"created_at": "Wed Jul 20 00:40:12 +0000 2022",
 		"id": 1549552417280102400,
 		"id_str": "1549554734327074818",
