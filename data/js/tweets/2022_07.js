@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 07:30:25 +0000 2022",
+		"id": 1549651333170376700,
+		"id_str": "1549657966235660289",
+		"full_text": "휴가철 필수템! 라피아 해트 패션 대.방.출 👒\n\n#라피아해트 #셀럽 #셀럽패션 #라피아해트스타일링 #태연 #산다라박 #아이린 #기은세 \n\nhttps://t.co/QEZxy08hpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라피아해트",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "셀럽",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "셀럽패션",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "라피아해트스타일링",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "기은세",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QEZxy08hpK",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/68129",
+					"display_url": "cosmopolitan.co.kr/article/68129",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89561,
+			"friends_count": 4,
+			"listed_count": 408,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "휴가철 필수템! 라피아 해트 패션 대.방.출 👒\n\n#라피아해트 #셀럽 #셀럽패션 #라피아해트스타일링 #태연 #산다라박 #아이린 #기은세 \n\nhttps://t.co/QEZxy08hpK"
+	},
+	{
+		"created_at": "Wed Jul 20 07:17:16 +0000 2022",
+		"id": 1549652305808527400,
+		"id_str": "1549654656871149568",
+		"full_text": "CHUNG HA 청하\n🌟Sparkling🌟한 퀸청하 \n널리 알아줘💖\n@SpotifyKR \n\n#CHUNGHA #청하 #Sparkling #spotify #spotifykr #스포티파이 #스포티파이코리아 https://t.co/RIBfUbVnF2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "spotify",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "spotifykr",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "스포티파이코리아",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549652293703716900,
+					"id_str": "1549652293703716864",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FYF4jPuUUAA8fsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYF4jPuUUAA8fsD.jpg",
+					"url": "https://t.co/RIBfUbVnF2",
+					"display_url": "pic.twitter.com/RIBfUbVnF2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549652305808527360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549652293703716900,
+					"id_str": "1549652293703716864",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FYF4jPuUUAA8fsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYF4jPuUUAA8fsD.jpg",
+					"url": "https://t.co/RIBfUbVnF2",
+					"display_url": "pic.twitter.com/RIBfUbVnF2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549652305808527360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549652293703704600,
+					"id_str": "1549652293703704576",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FYF4jPuUIAA3Qpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYF4jPuUIAA3Qpo.jpg",
+					"url": "https://t.co/RIBfUbVnF2",
+					"display_url": "pic.twitter.com/RIBfUbVnF2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549652305808527360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353281,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA 청하\n🌟Sparkling🌟한 퀸청하 \n널리 알아줘💖\n@SpotifyKR \n\n#CHUNGHA #청하 #Sparkling #spotify #spotifykr #스포티파이 #스포티파이코리아 https://t.co/RIBfUbVnF2"
+	},
+	{
+		"created_at": "Wed Jul 20 07:17:16 +0000 2022",
+		"id": 1549650365791973400,
+		"id_str": "1549654656824983552",
+		"full_text": "[💡] 청하 공개방송 안내✨\n220721 엠카 생방 신청이 오후 4시 30분부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 생방 : 220720 (수) 4:30 PM ~ 5:00 PM\n▶ https://t.co/hdxq8CqGnA https://t.co/Mo4giV3Xtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hdxq8CqGnA",
+					"expanded_url": "https://bit.ly/3RQwbkv",
+					"display_url": "bit.ly/3RQwbkv",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/Mo4giV3Xtl",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1549552417280102401",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353281,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549552417280102400,
+		"quoted_status_id_str": "1549552417280102401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mo4giV3Xtl",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1549552417280102401",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 20 00:31:00 +0000 2022",
+			"id": 1549552417280102400,
+			"id_str": "1549552417280102401",
+			"full_text": "[💡] 청하 공개방송 안내✨\n\n220721 엠카 생방 ▶ https://t.co/7w6g2PtGsz\n공개방송 통합공지 ▶ https://t.co/quuwSX004w\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							93,
+							96
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "BareRare",
+						"indices": [
+							106,
+							115
+						]
+					},
+					{
+						"text": "Sparkling",
+						"indices": [
+							116,
+							126
+						]
+					},
+					{
+						"text": "CHUNGHA_BareRare",
+						"indices": [
+							127,
+							144
+						]
+					},
+					{
+						"text": "CHUNGHA_Sparkling",
+						"indices": [
+							145,
+							163
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7w6g2PtGsz",
+						"expanded_url": "https://bit.ly/3ofj0fG",
+						"display_url": "bit.ly/3ofj0fG",
+						"indices": [
+							32,
+							55
+						]
+					},
+					{
+						"url": "https://t.co/quuwSX004w",
+						"expanded_url": "https://bit.ly/3uJj8Y6",
+						"display_url": "bit.ly/3uJj8Y6",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter",
+				"url": "https://t.co/r3B14nlZdd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r3B14nlZdd",
+								"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+								"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 353281,
+				"friends_count": 1,
+				"listed_count": 2171,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2409,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 496,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 20,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💡] 청하 공개방송 안내✨\n220721 엠카 생방 신청이 오후 4시 30분부터 시작됩니다!\n별하랑 여러분들의 많은 참여 부탁드립니다!💚💙💜\n\n 📍 명단 신청 시간\n✔ 생방 : 220720 (수) 4:30 PM ~ 5:00 PM\n▶ https://t.co/hdxq8CqGnA https://t.co/Mo4giV3Xtl"
+	},
+	{
+		"created_at": "Wed Jul 20 07:16:34 +0000 2022",
+		"id": 1549651078156669000,
+		"id_str": "1549654483306573826",
+		"full_text": "제니가 여배우로 데뷔한다고?!🫢\n\n#블랙핑크 #제니 #블랙핑크제니 #블핑제니 #제니드라마 #blackpink #JENNY #THEidol #HBO #actress \n\nhttps://t.co/zQhU7zKBOQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "블랙핑크제니",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "블핑제니",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "제니드라마",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "blackpink",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "JENNY",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "THEidol",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "HBO",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "actress",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQhU7zKBOQ",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/68084",
+					"display_url": "cosmopolitan.co.kr/article/68084",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89561,
+			"friends_count": 4,
+			"listed_count": 408,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니가 여배우로 데뷔한다고?!🫢\n\n#블랙핑크 #제니 #블랙핑크제니 #블핑제니 #제니드라마 #blackpink #JENNY #THEidol #HBO #actress \n\nhttps://t.co/zQhU7zKBOQ"
+	},
+	{
 		"created_at": "Wed Jul 20 06:40:33 +0000 2022",
 		"id": 1549641908720668700,
 		"id_str": "1549645416827916288",
