@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 22:40:19 +0000 2022",
+		"id": 1549886643112480800,
+		"id_str": "1549886952056438784",
+		"full_text": "Fourth and final walk to stage at Stade de France 🇫🇷 https://t.co/jlniKq7Nrw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549886483758211000,
+					"id_str": "1549886483758211073",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549886483758211073/pu/img/8Nar8O5aFAlWGVZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549886483758211073/pu/img/8Nar8O5aFAlWGVZv.jpg",
+					"url": "https://t.co/jlniKq7Nrw",
+					"display_url": "pic.twitter.com/jlniKq7Nrw",
+					"expanded_url": "https://twitter.com/coldplay/status/1549886643112480769/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549886483758211000,
+					"id_str": "1549886483758211073",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549886483758211073/pu/img/8Nar8O5aFAlWGVZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549886483758211073/pu/img/8Nar8O5aFAlWGVZv.jpg",
+					"url": "https://t.co/jlniKq7Nrw",
+					"display_url": "pic.twitter.com/jlniKq7Nrw",
+					"expanded_url": "https://twitter.com/coldplay/status/1549886643112480769/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6656,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549886483758211073/pu/vid/320x568/cVQLa4bsuqTaDI1E.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549886483758211073/pu/vid/720x1280/DU5Ah_vvVpX3blJd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549886483758211073/pu/pl/v-t5Zd-x4qqBsIdt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549886483758211073/pu/vid/480x852/PK3wnlbB_Rp97oFx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23604658,
+			"friends_count": 777,
+			"listed_count": 42471,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 1428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fourth and final walk to stage at Stade de France 🇫🇷 https://t.co/jlniKq7Nrw"
+	},
+	{
 		"created_at": "Wed Jul 20 21:40:17 +0000 2022",
 		"id": 1549871499313561600,
 		"id_str": "1549871843477266432",
