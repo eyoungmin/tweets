@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 08:40:28 +0000 2022",
+		"id": 1549675478365008000,
+		"id_str": "1549675597357514754",
+		"full_text": "[📺] #쇼챔 @showchampion1\n잠시 후, MBC M '#쇼챔피언'에\n청하가 출연합니다!💚💙💜\n\n✔ PM 6:00\n\n#청하 #CHUNGHA✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						105,
+						122
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						123,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "showchampion1",
+					"name": "SHOWCHAMPION",
+					"id": 480220551,
+					"id_str": "480220551",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353279,
+			"friends_count": 1,
+			"listed_count": 2171,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] #쇼챔 @showchampion1\n잠시 후, MBC M '#쇼챔피언'에\n청하가 출연합니다!💚💙💜\n\n✔ PM 6:00\n\n#청하 #CHUNGHA✨\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling"
+	},
+	{
+		"created_at": "Wed Jul 20 08:40:23 +0000 2022",
+		"id": 1549363434117947400,
+		"id_str": "1549675575824056321",
+		"full_text": "\"Old man look at my life, I'm a lot like you were...\" ❤️\n\n@thisissigrid's cover of @NeilYoung's 'Old Man' with @BBCCO is so beautiful ✨\n\n@BBCRadio2's Piano Room | Listen on BBC Sounds 🎧 https://t.co/hhHLGnMgDp https://t.co/4qhlYRxDL3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"screen_name": "Neilyoung",
+					"name": "Neil Young",
+					"id": 26763420,
+					"id_str": "26763420",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "BBCCO",
+					"name": "BBC Concert Orchestra",
+					"id": 137637703,
+					"id_str": "137637703",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"screen_name": "BBCRadio2",
+					"name": "BBC Radio 2",
+					"id": 798277,
+					"id_str": "798277",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hhHLGnMgDp",
+					"expanded_url": "https://bbc.in/3obgLtA",
+					"display_url": "bbc.in/3obgLtA",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549051593047396400,
+					"id_str": "1549051593047396355",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1549051593047396355/img/ubVD-XCpoCOjmKO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1549051593047396355/img/ubVD-XCpoCOjmKO2.jpg",
+					"url": "https://t.co/4qhlYRxDL3",
+					"display_url": "pic.twitter.com/4qhlYRxDL3",
+					"expanded_url": "https://twitter.com/BBCSounds/status/1549363434117947392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 798277,
+					"source_user_id_str": "798277"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549051593047396400,
+					"id_str": "1549051593047396355",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1549051593047396355/img/ubVD-XCpoCOjmKO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1549051593047396355/img/ubVD-XCpoCOjmKO2.jpg",
+					"url": "https://t.co/4qhlYRxDL3",
+					"display_url": "pic.twitter.com/4qhlYRxDL3",
+					"expanded_url": "https://twitter.com/BBCSounds/status/1549363434117947392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 798277,
+					"source_user_id_str": "798277",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 25640,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549051593047396355/vid/320x400/1NCKFsHjU5d26TJN.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549051593047396355/vid/480x600/Nf3irQ4XWERof83d.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1549051593047396355/vid/720x900/9HmtWIJ39W3Kerjx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1549051593047396355/pl/LGfJ6pl5jajtKTkA.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 798277,
+							"id_str": "798277",
+							"name": "BBC Radio 2",
+							"screen_name": "BBCRadio2",
+							"location": "Across the UK",
+							"description": "✨ The world’s biggest stars on the UK's most listened to radio station\n\n🔊 Listen on @bbcsounds",
+							"url": "https://t.co/fy74iLTZmg",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/fy74iLTZmg",
+											"expanded_url": "http://www.bbc.co.uk/radio2",
+											"display_url": "bbc.co.uk/radio2",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 738240,
+							"friends_count": 7603,
+							"listed_count": 2646,
+							"created_at": "Tue Feb 27 15:02:10 +0000 2007",
+							"favourites_count": 37079,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 85574,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "E69F12",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1503846380204347404/q8IOVYCv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503846380204347404/q8IOVYCv_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/798277/1647364742",
+							"profile_link_color": "EC7A08",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFC294",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20518298,
+			"id_str": "20518298",
+			"name": "BBC Sounds",
+			"screen_name": "BBCSounds",
+			"location": "",
+			"description": "Music. 🎵 Radio. 📻 Podcasts. 🎧 \nDownload the free BBC Sounds app now.",
+			"url": "https://t.co/Houx3CBKlO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Houx3CBKlO",
+							"expanded_url": "http://bbc.co.uk/sounds",
+							"display_url": "bbc.co.uk/sounds",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258025,
+			"friends_count": 1468,
+			"listed_count": 1570,
+			"created_at": "Tue Feb 10 15:06:09 +0000 2009",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501240779423035398/whQ612iR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501240779423035398/whQ612iR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20518298/1646758669",
+			"profile_link_color": "FF4900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "141F29",
+			"profile_text_color": "CCCCCC",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Old man look at my life, I'm a lot like you were...\" ❤️\n\n@thisissigrid's cover of @NeilYoung's 'Old Man' with @BBCCO is so beautiful ✨\n\n@BBCRadio2's Piano Room | Listen on BBC Sounds 🎧 https://t.co/hhHLGnMgDp https://t.co/4qhlYRxDL3"
+	},
+	{
+		"created_at": "Wed Jul 20 08:40:17 +0000 2022",
+		"id": 1549663308294238200,
+		"id_str": "1549675550117138433",
+		"full_text": "#청하 🎶 톡톡톡‼️ \n리얼 청하가 #Sparkling 속으로! \n날도 더운데〰️ 시원한 청량 음료 어때요? 🍹💛 \n\n스파클링가서 #쇼챔피언 한 잔? https://t.co/71jeJE2W0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549663294276771800,
+					"id_str": "1549663294276771840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGCjkDUIAAp3pD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGCjkDUIAAp3pD.jpg",
+					"url": "https://t.co/71jeJE2W0N",
+					"display_url": "pic.twitter.com/71jeJE2W0N",
+					"expanded_url": "https://twitter.com/showchampion1/status/1549663308294238210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549663294276771800,
+					"id_str": "1549663294276771840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGCjkDUIAAp3pD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGCjkDUIAAp3pD.jpg",
+					"url": "https://t.co/71jeJE2W0N",
+					"display_url": "pic.twitter.com/71jeJE2W0N",
+					"expanded_url": "https://twitter.com/showchampion1/status/1549663308294238210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549663294272655400,
+					"id_str": "1549663294272655360",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGCjkCVUAAgZd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGCjkCVUAAgZd9.jpg",
+					"url": "https://t.co/71jeJE2W0N",
+					"display_url": "pic.twitter.com/71jeJE2W0N",
+					"expanded_url": "https://twitter.com/showchampion1/status/1549663308294238210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXG31o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXG31o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190369,
+			"friends_count": 220,
+			"listed_count": 2173,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 🎶 톡톡톡‼️ \n리얼 청하가 #Sparkling 속으로! \n날도 더운데〰️ 시원한 청량 음료 어때요? 🍹💛 \n\n스파클링가서 #쇼챔피언 한 잔? https://t.co/71jeJE2W0N"
+	},
+	{
 		"created_at": "Wed Jul 20 07:30:25 +0000 2022",
 		"id": 1549651333170376700,
 		"id_str": "1549657966235660289",
