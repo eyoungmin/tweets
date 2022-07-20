@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 02:40:15 +0000 2022",
+		"id": 1549583255552544800,
+		"id_str": "1549584944279785473",
+		"full_text": "#aespa’s second mini album ‘#Girls’ charts Billboard’s ‘#Artist100’ at #3 along with ranking on the ‘Billboard 200’ chart! \nThe album tops three charts, including Top Album Sales and World Album, putting its name on a total of 10 Billboard charts and starting a global syndrome!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "Artist100",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549583252335501300,
+		"in_reply_to_status_id_str": "1549583252335501312",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2963130,
+			"friends_count": 2,
+			"listed_count": 9075,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 908,
+		"favorite_count": 3248,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#aespa’s second mini album ‘#Girls’ charts Billboard’s ‘#Artist100’ at #3 along with ranking on the ‘Billboard 200’ chart! \nThe album tops three charts, including Top Album Sales and World Album, putting its name on a total of 10 Billboard charts and starting a global syndrome!"
+	},
+	{
+		"created_at": "Wed Jul 20 02:40:13 +0000 2022",
+		"id": 1549583252335501300,
+		"id_str": "1549584935434027009",
+		"full_text": "에스파 두 번째 미니앨범 ‘Girls’, 美 빌보드 메인 차트 ‘빌보드 200’ 이어 ‘아티스트 100’도 3위 등극!\n톱 앨범 세일즈∙월드 앨범 등 3개 차트 1위! 빌보드 총 10개 차트 입성!\n글로벌 신드롬 Start!\n\nhttps://t.co/dyK6M2NtBI\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Artist100 https://t.co/IzZcjsCBBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "Artist100",
+					"indices": [
+						190,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyK6M2NtBI",
+					"expanded_url": "https://bit.ly/3cl22cN",
+					"display_url": "bit.ly/3cl22cN",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549582972902584300,
+					"id_str": "1549582972902584320",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FYE5gPnaMAAwriO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYE5gPnaMAAwriO.jpg",
+					"url": "https://t.co/IzZcjsCBBO",
+					"display_url": "pic.twitter.com/IzZcjsCBBO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549583252335501312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549582972902584300,
+					"id_str": "1549582972902584320",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FYE5gPnaMAAwriO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYE5gPnaMAAwriO.jpg",
+					"url": "https://t.co/IzZcjsCBBO",
+					"display_url": "pic.twitter.com/IzZcjsCBBO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549583252335501312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2963130,
+			"friends_count": 2,
+			"listed_count": 9075,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1771,
+		"favorite_count": 6878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 두 번째 미니앨범 ‘Girls’, 美 빌보드 메인 차트 ‘빌보드 200’ 이어 ‘아티스트 100’도 3위 등극!\n톱 앨범 세일즈∙월드 앨범 등 3개 차트 1위! 빌보드 총 10개 차트 입성!\n글로벌 신드롬 Start!\n\nhttps://t.co/dyK6M2NtBI\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls\n#Artist100 https://t.co/IzZcjsCBBO"
+	},
+	{
+		"created_at": "Wed Jul 20 02:29:55 +0000 2022",
+		"id": 1549576828058222600,
+		"id_str": "1549582344989937665",
+		"full_text": "[#NEWS] '징크스의 연인' 서현, 전광렬 태도 돌변에 당황…달라진 관계 [포인트:컷]\n▶ https://t.co/pi0XSDhRQ7\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/kiIUr6TeuU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pi0XSDhRQ7",
+					"expanded_url": "https://naver.me/Gv9nkUoy",
+					"display_url": "naver.me/Gv9nkUoy",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549574355226861600,
+					"id_str": "1549574355226861568",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FYExqoRaIAAWQce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYExqoRaIAAWQce.jpg",
+					"url": "https://t.co/kiIUr6TeuU",
+					"display_url": "pic.twitter.com/kiIUr6TeuU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549576828058222593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549574355226861600,
+					"id_str": "1549574355226861568",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FYExqoRaIAAWQce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYExqoRaIAAWQce.jpg",
+					"url": "https://t.co/kiIUr6TeuU",
+					"display_url": "pic.twitter.com/kiIUr6TeuU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549576828058222593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61709,
+			"friends_count": 12,
+			"listed_count": 275,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현, 전광렬 태도 돌변에 당황…달라진 관계 [포인트:컷]\n▶ https://t.co/pi0XSDhRQ7\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/kiIUr6TeuU"
+	},
+	{
 		"created_at": "Wed Jul 20 01:47:18 +0000 2022",
 		"id": 1549569564249555000,
 		"id_str": "1549571620896854017",
