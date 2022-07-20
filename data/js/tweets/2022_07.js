@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 04:40:29 +0000 2022",
+		"id": 1549608788881285000,
+		"id_str": "1549615203951714304",
+		"full_text": "＼出演者第4弾発表🎉／\n\n9月3日（土）開催\n#マイナビTGC 2022 A/W\n\n#aespa（@aespaJPofficial）出演決定💗\nスペシャルライブを披露！\n\n#aespaTGC\nで聴きたい曲を教えてね💌\n\nTGC公式LINE先行は7月22日（金）まで！\n一緒に会場で盛り上がろう🥰🙌\n\n最新情報はHPで👇\nhttps://t.co/h34K3r6p0p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "マイナビTGC",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "aespaTGC",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespaJPofficial",
+					"name": "aespa JAPAN OFFICIAL",
+					"id": 1518523440814198800,
+					"id_str": "1518523440814198785",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h34K3r6p0p",
+					"expanded_url": "https://tgc.girlswalker.com/22aw/",
+					"display_url": "tgc.girlswalker.com/22aw/",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90318695,
+			"id_str": "90318695",
+			"name": "東京ガールズコレクション（TGC）",
+			"screen_name": "TGCnews",
+			"location": "TOKYO",
+			"description": "2022年9月3日（土）さいたまスーパーアリーナにて『#マイナビTGC 2022 A/W』開催決定！出演者も続々決定🥰TGC公式LINE先行販売は7月22日（金）まで✨",
+			"url": "https://t.co/eWRDEQ0A8D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eWRDEQ0A8D",
+							"expanded_url": "https://tgc.girlswalker.com/22aw/",
+							"display_url": "tgc.girlswalker.com/22aw/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327316,
+			"friends_count": 22033,
+			"listed_count": 0,
+			"created_at": "Mon Nov 16 03:56:33 +0000 2009",
+			"favourites_count": 515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166562660999020544/xv-4EQfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166562660999020544/xv-4EQfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90318695/1513239234",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9AD4DE",
+			"profile_text_color": "787878",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 714,
+		"favorite_count": 1926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＼出演者第4弾発表🎉／\n\n9月3日（土）開催\n#マイナビTGC 2022 A/W\n\n#aespa（@aespaJPofficial）出演決定💗\nスペシャルライブを披露！\n\n#aespaTGC\nで聴きたい曲を教えてね💌\n\nTGC公式LINE先行は7月22日（金）まで！\n一緒に会場で盛り上がろう🥰🙌\n\n最新情報はHPで👇\nhttps://t.co/h34K3r6p0p"
+	},
+	{
+		"created_at": "Wed Jul 20 04:40:22 +0000 2022",
+		"id": 1549605538077347800,
+		"id_str": "1549615174096658432",
+		"full_text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD 1st LINE UP ONLINE SALES NOTICE\n \n▶ Sales Day\n2022. 07. 21 (THU) 15:00 ~ 2022. 07. 31 (SUN) 23:59 [KST] \n\n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/bF7LHXgGmX https://t.co/qWoF7q9umw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bF7LHXgGmX",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549605523951333400,
+					"id_str": "1549605523951333376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFOA40aMAAs1Zj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFOA40aMAAs1Zj.jpg",
+					"url": "https://t.co/qWoF7q9umw",
+					"display_url": "pic.twitter.com/qWoF7q9umw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605538077347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 397,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 225,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549605523951333400,
+					"id_str": "1549605523951333376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFOA40aMAAs1Zj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFOA40aMAAs1Zj.jpg",
+					"url": "https://t.co/qWoF7q9umw",
+					"display_url": "pic.twitter.com/qWoF7q9umw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605538077347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 397,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 225,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549605523934556200,
+					"id_str": "1549605523934556160",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFOA4waMAAgpek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFOA4waMAAgpek.jpg",
+					"url": "https://t.co/qWoF7q9umw",
+					"display_url": "pic.twitter.com/qWoF7q9umw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605538077347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 176,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 311,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549605523930357800,
+					"id_str": "1549605523930357760",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFOA4vaIAAtMsx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFOA4vaIAAtMsx.jpg",
+					"url": "https://t.co/qWoF7q9umw",
+					"display_url": "pic.twitter.com/qWoF7q9umw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605538077347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 238,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549605523947135000,
+					"id_str": "1549605523947134978",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFOA4zaIAIE-Zd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFOA4zaIAIE-Zd.jpg",
+					"url": "https://t.co/qWoF7q9umw",
+					"display_url": "pic.twitter.com/qWoF7q9umw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605538077347840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 210,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 370,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2963569,
+			"friends_count": 2,
+			"listed_count": 9076,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2206,
+		"favorite_count": 6923,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD 1st LINE UP ONLINE SALES NOTICE\n \n▶ Sales Day\n2022. 07. 21 (THU) 15:00 ~ 2022. 07. 31 (SUN) 23:59 [KST] \n\n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/bF7LHXgGmX https://t.co/qWoF7q9umw"
+	},
+	{
+		"created_at": "Wed Jul 20 04:40:19 +0000 2022",
+		"id": 1549605214747263000,
+		"id_str": "1549615160981069824",
+		"full_text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD ONLINE SALES NOTICE  \n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/bF7LHXyPB5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bF7LHXyPB5",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549605136288616400,
+		"in_reply_to_status_id_str": "1549605136288616448",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2963569,
+			"friends_count": 2,
+			"listed_count": 9076,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 1203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD ONLINE SALES NOTICE  \n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/bF7LHXyPB5"
+	},
+	{
+		"created_at": "Wed Jul 20 04:40:17 +0000 2022",
+		"id": 1549605136288616400,
+		"id_str": "1549615152072384513",
+		"full_text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD ONLINE SALES NOTICE  \n \nMD 1st LINE UP\nSALES PERIOD : 2022. 07. 21 (THU) 15:00 ~ 2022. 07. 31 (SUN) 23:59 [KST] \n\nMD 2nd LINE UP\nSALES PERIOD : 2022. 08. 01 (MON) 15:00 ~ 2022. 08. 08 (MON) 23:59 [KST] https://t.co/YfHcz7oPDH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548199327247790000,
+					"id_str": "1548199327247790080",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxPFd4acAARrKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxPFd4acAARrKo.jpg",
+					"url": "https://t.co/YfHcz7oPDH",
+					"display_url": "pic.twitter.com/YfHcz7oPDH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605136288616448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 149,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 264,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548199327247790000,
+					"id_str": "1548199327247790080",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FXxPFd4acAARrKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXxPFd4acAARrKo.jpg",
+					"url": "https://t.co/YfHcz7oPDH",
+					"display_url": "pic.twitter.com/YfHcz7oPDH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549605136288616448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 149,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 264,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2963569,
+			"friends_count": 2,
+			"listed_count": 9076,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1440,
+		"favorite_count": 5051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 aespa FAN MEETING “MY SYNK. aespa”\nOFFICIAL MD ONLINE SALES NOTICE  \n \nMD 1st LINE UP\nSALES PERIOD : 2022. 07. 21 (THU) 15:00 ~ 2022. 07. 31 (SUN) 23:59 [KST] \n\nMD 2nd LINE UP\nSALES PERIOD : 2022. 08. 01 (MON) 15:00 ~ 2022. 08. 08 (MON) 23:59 [KST] https://t.co/YfHcz7oPDH"
+	},
+	{
+		"created_at": "Wed Jul 20 04:40:12 +0000 2022",
+		"id": 1549605015496626200,
+		"id_str": "1549615130543067137",
+		"full_text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚‍♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChtSiP9HA3",
+					"expanded_url": "https://aespa-official.jp/news/tgc2022/",
+					"display_url": "aespa-official.jp/news/tgc2022/",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549591817661821000,
+					"id_str": "1549591817661820928",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFBjE6VsAATVAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFBjE6VsAATVAB.jpg",
+					"url": "https://t.co/RJI8KsZ8uJ",
+					"display_url": "pic.twitter.com/RJI8KsZ8uJ",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1549605015496626176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549591817661821000,
+					"id_str": "1549591817661820928",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFBjE6VsAATVAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFBjE6VsAATVAB.jpg",
+					"url": "https://t.co/RJI8KsZ8uJ",
+					"display_url": "pic.twitter.com/RJI8KsZ8uJ",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1549605015496626176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173085,
+			"friends_count": 1,
+			"listed_count": 392,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1710,
+		"favorite_count": 5831,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "\\💙⭐お知らせ️🌙🦋/\n\n9/3（土）に開催される「第35回 マイナビ 東京ガールズコレクション 2022 AUTUMN/WINTER」にaespaの出演が決定しました❣️\n\nMYの皆さんもぜひ遊びにきてくださいね🎶\n\n☑️詳細はこちら🧚‍♂️\nhttps://t.co/ChtSiP9HA3\n\n#aespa #æspa #에스파 #エスパ https://t.co/RJI8KsZ8uJ"
+	},
+	{
 		"created_at": "Wed Jul 20 03:29:39 +0000 2022",
 		"id": 1549591704923017200,
 		"id_str": "1549597375777443842",
