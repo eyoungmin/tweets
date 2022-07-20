@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 09:40:30 +0000 2022",
+		"id": 1549680578349305900,
+		"id_str": "1549690705538416640",
+		"full_text": "TikTok Stage ON AIR \n지젤과 전소미, VIVIZ 엄지와 함께하는 #틱톡스테이지온에어\n➫오늘 저녁 7시 2022.7.20 7PM (KST)\n\n🔴https://t.co/kq9fmiFupy\n\n#aespa #GISELLE https://t.co/NobcGA392B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡스테이지온에어",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kq9fmiFupy",
+					"expanded_url": "https://www.tiktok.com/live/event/7120049182936662018",
+					"display_url": "tiktok.com/live/event/712…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549679324004987000,
+					"id_str": "1549679324004986882",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGRIncVsAI_SQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGRIncVsAI_SQR.jpg",
+					"url": "https://t.co/NobcGA392B",
+					"display_url": "pic.twitter.com/NobcGA392B",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549680578349305856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549679324004987000,
+					"id_str": "1549679324004986882",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGRIncVsAI_SQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGRIncVsAI_SQR.jpg",
+					"url": "https://t.co/NobcGA392B",
+					"display_url": "pic.twitter.com/NobcGA392B",
+					"expanded_url": "https://twitter.com/aespa_official/status/1549680578349305856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2964754,
+			"friends_count": 2,
+			"listed_count": 9080,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2896,
+		"favorite_count": 8901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TikTok Stage ON AIR \n지젤과 전소미, VIVIZ 엄지와 함께하는 #틱톡스테이지온에어\n➫오늘 저녁 7시 2022.7.20 7PM (KST)\n\n🔴https://t.co/kq9fmiFupy\n\n#aespa #GISELLE https://t.co/NobcGA392B"
+	},
+	{
+		"created_at": "Wed Jul 20 09:40:21 +0000 2022",
+		"id": 1549680537836855300,
+		"id_str": "1549690667080843264",
+		"full_text": "• Ticket starts from 1,800 baht\n• Pre-Sale tickets on 25 July registration for pre-sale 🔗 https://t.co/uDimymed8E\n• Public sale on 26 July at 🔗https://t.co/kzFl9UJ5y6 or call (0 2262 3838)\n\n#YerinBaek #PiscesLiveinBangkok2022 #YerinBaekBKK22 #백예린",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "PiscesLiveinBangkok2022",
+					"indices": [
+						201,
+						225
+					]
+				},
+				{
+					"text": "YerinBaekBKK22",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						242,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uDimymed8E",
+					"expanded_url": "http://livenation.co.th/register",
+					"display_url": "livenation.co.th/register",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/kzFl9UJ5y6",
+					"expanded_url": "http://livenation.co.th",
+					"display_url": "livenation.co.th",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549680536129794000,
+		"in_reply_to_status_id_str": "1549680536129794049",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45811,
+			"friends_count": 2,
+			"listed_count": 220,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "• Ticket starts from 1,800 baht\n• Pre-Sale tickets on 25 July registration for pre-sale 🔗 https://t.co/uDimymed8E\n• Public sale on 26 July at 🔗https://t.co/kzFl9UJ5y6 or call (0 2262 3838)\n\n#YerinBaek #PiscesLiveinBangkok2022 #YerinBaekBKK22 #백예린"
+	},
+	{
+		"created_at": "Wed Jul 20 09:40:13 +0000 2022",
+		"id": 1549680536129794000,
+		"id_str": "1549690633098502144",
+		"full_text": "The stars have aligned and 𝒀𝒆𝒓𝒊𝒏 𝑩𝒂𝒆𝒌 is coming to Thailand with her [Pisces] Live in Bangkok 2022 tour Sep 23, 2022 at CentralWorld Live, CentralWorld 8th floor.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549680532124213200,
+		"in_reply_to_status_id_str": "1549680532124213248",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45811,
+			"friends_count": 2,
+			"listed_count": 220,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The stars have aligned and 𝒀𝒆𝒓𝒊𝒏 𝑩𝒂𝒆𝒌 is coming to Thailand with her [Pisces] Live in Bangkok 2022 tour Sep 23, 2022 at CentralWorld Live, CentralWorld 8th floor."
+	},
+	{
+		"created_at": "Wed Jul 20 09:40:10 +0000 2022",
+		"id": 1549680532124213200,
+		"id_str": "1549690620029059074",
+		"full_text": "[Yerin Baek Live in Bangkok 2022]\n⠀\n백예린이 9월 23일, 태국에서 첫 해외 단독 공연을 갖습니다. 7월 25일부터 라이브네이션 사이트에서 예매하실 수 있습니다💥 https://t.co/qcCaHkJrqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549680525237186600,
+					"id_str": "1549680525237186560",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGSOiYacAA_CH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGSOiYacAA_CH8.jpg",
+					"url": "https://t.co/qcCaHkJrqs",
+					"display_url": "pic.twitter.com/qcCaHkJrqs",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1549680532124213248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549680525237186600,
+					"id_str": "1549680525237186560",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGSOiYacAA_CH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGSOiYacAA_CH8.jpg",
+					"url": "https://t.co/qcCaHkJrqs",
+					"display_url": "pic.twitter.com/qcCaHkJrqs",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1549680532124213248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45811,
+			"friends_count": 2,
+			"listed_count": 220,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2966,
+		"favorite_count": 1635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Yerin Baek Live in Bangkok 2022]\n⠀\n백예린이 9월 23일, 태국에서 첫 해외 단독 공연을 갖습니다. 7월 25일부터 라이브네이션 사이트에서 예매하실 수 있습니다💥 https://t.co/qcCaHkJrqs"
+	},
+	{
+		"created_at": "Wed Jul 20 09:29:39 +0000 2022",
+		"id": 1549680519553552400,
+		"id_str": "1549687972412510209",
+		"full_text": "🔥‘구천시’에 모인 다섯 캐릭터🔥\nMBC금토드라마 &lt;빅마우스&gt; 스페셜포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/HqtgqVcQ12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549672472811028500,
+					"id_str": "1549672472811028481",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGK50waQAE-l24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGK50waQAE-l24.jpg",
+					"url": "https://t.co/HqtgqVcQ12",
+					"display_url": "pic.twitter.com/HqtgqVcQ12",
+					"expanded_url": "https://twitter.com/withMBC/status/1549680519553552384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549672472811028500,
+					"id_str": "1549672472811028481",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGK50waQAE-l24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGK50waQAE-l24.jpg",
+					"url": "https://t.co/HqtgqVcQ12",
+					"display_url": "pic.twitter.com/HqtgqVcQ12",
+					"expanded_url": "https://twitter.com/withMBC/status/1549680519553552384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549672472806846500,
+					"id_str": "1549672472806846465",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGK50vacAEocQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGK50vacAEocQf.jpg",
+					"url": "https://t.co/HqtgqVcQ12",
+					"display_url": "pic.twitter.com/HqtgqVcQ12",
+					"expanded_url": "https://twitter.com/withMBC/status/1549680519553552384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006507,
+			"friends_count": 9867,
+			"listed_count": 4211,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥‘구천시’에 모인 다섯 캐릭터🔥\nMBC금토드라마 &lt;빅마우스&gt; 스페셜포스터 공개🙌\n\n&lt;#빅마우스&gt; 2022년 7월 29일(금) 밤 9시 50분 첫방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연 https://t.co/HqtgqVcQ12"
+	},
+	{
 		"created_at": "Wed Jul 20 08:40:28 +0000 2022",
 		"id": 1549675478365008000,
 		"id_str": "1549675597357514754",
