@@ -1,6 +1,678 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 06:40:28 +0000 2022",
+		"id": 1550004215590043600,
+		"id_str": "1550007785429114880",
+		"full_text": "📣 #CHUNGHA #청하\n\n220721 #엠카운트다운 생방송 출석 체크 시간 변동 안내\n\n[ 4:00 PM -&gt; 4:15 PM ]\n\n출석체크 시간 변경 안내드리오니 참고 부탁드립니다!\n \n#엠카",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831061786191360000,
+			"id_str": "831061786191360002",
+			"name": "MNH_STAFF",
+			"screen_name": "MNH_STAFF",
+			"location": "",
+			"description": "MNH entertainment official FAN STAFF",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4068,
+			"friends_count": 1,
+			"listed_count": 36,
+			"created_at": "Mon Feb 13 08:45:45 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839373782175240194/vxpeF5Pm_normal.jpg",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣 #CHUNGHA #청하\n\n220721 #엠카운트다운 생방송 출석 체크 시간 변동 안내\n\n[ 4:00 PM -&gt; 4:15 PM ]\n\n출석체크 시간 변경 안내드리오니 참고 부탁드립니다!\n \n#엠카"
+	},
+	{
+		"created_at": "Thu Jul 21 06:40:20 +0000 2022",
+		"id": 1549984766048469000,
+		"id_str": "1550007751337705473",
+		"full_text": ".•♡무더위 이겨내는 방법♡•.\n남극가기❄️｡｡｡ 2억 9천\n썸머퀸 청하 Sparkling 듣기｡｡｡무료💛\n \n📷 ☞ https://t.co/JsWaKwvhWA\n\n220716 #쇼음악중심 #음중 #청하 #CHUNG_HA #Sparkling @CHUNGHA_MNHent https://t.co/6jkvnUotMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "CHUNG_HA",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						134,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JsWaKwvhWA",
+					"expanded_url": "https://naver.me/xTlJbsNq",
+					"display_url": "naver.me/xTlJbsNq",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549665245236719600,
+					"id_str": "1549665245236719616",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGEVH8acAACb24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGEVH8acAACb24.jpg",
+					"url": "https://t.co/6jkvnUotMt",
+					"display_url": "pic.twitter.com/6jkvnUotMt",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549984766048468992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549665245236719600,
+					"id_str": "1549665245236719616",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGEVH8acAACb24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGEVH8acAACb24.jpg",
+					"url": "https://t.co/6jkvnUotMt",
+					"display_url": "pic.twitter.com/6jkvnUotMt",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549984766048468992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549665245379326000,
+					"id_str": "1549665245379325952",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGEVIeacAAtD-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGEVIeacAAtD-x.jpg",
+					"url": "https://t.co/6jkvnUotMt",
+					"display_url": "pic.twitter.com/6jkvnUotMt",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549984766048468992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549665245505159200,
+					"id_str": "1549665245505159170",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGEVI8agAIHN_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGEVI8agAIHN_v.jpg",
+					"url": "https://t.co/6jkvnUotMt",
+					"display_url": "pic.twitter.com/6jkvnUotMt",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1549984766048468992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945226,
+			"friends_count": 5,
+			"listed_count": 1041,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": ".•♡무더위 이겨내는 방법♡•.\n남극가기❄️｡｡｡ 2억 9천\n썸머퀸 청하 Sparkling 듣기｡｡｡무료💛\n \n📷 ☞ https://t.co/JsWaKwvhWA\n\n220716 #쇼음악중심 #음중 #청하 #CHUNG_HA #Sparkling @CHUNGHA_MNHent https://t.co/6jkvnUotMt"
+	},
+	{
+		"created_at": "Thu Jul 21 06:40:15 +0000 2022",
+		"id": 1549997762359754800,
+		"id_str": "1550007729904910340",
+		"full_text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bo9uKtB71k",
+					"expanded_url": "https://bit.ly/3Ir7Ttk",
+					"display_url": "bit.ly/3Ir7Ttk",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/dwLTkEvKRV",
+					"expanded_url": "https://bit.ly/3c3GlOA",
+					"display_url": "bit.ly/3c3GlOA",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/7TaHP1xCGV",
+					"expanded_url": "https://bit.ly/3IksZJL",
+					"display_url": "bit.ly/3IksZJL",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/EmAXGqNYMK",
+					"expanded_url": "https://bit.ly/3c1ACJ3",
+					"display_url": "bit.ly/3c1ACJ3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549997655329489000,
+		"in_reply_to_status_id_str": "1549997655329488898",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2968113,
+			"friends_count": 2,
+			"listed_count": 9090,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 1074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #SMTOWN_&amp;STORE\n🎫 Ticket sales close : ~ 7/30 (SAT) 6PM KST\n🎁 Ticket+MD sales :  7/21 (THU) 3PM KST\n \nKOR) https://t.co/bo9uKtB71k \nEN) https://t.co/dwLTkEvKRV \nJP) https://t.co/7TaHP1xCGV\nCN) https://t.co/EmAXGqNYMK"
+	},
+	{
+		"created_at": "Thu Jul 21 06:40:13 +0000 2022",
+		"id": 1549997655329489000,
+		"id_str": "1550007721092694017",
+		"full_text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MHtPquGMVd",
+					"expanded_url": "https://beyondlive.com/contents/138",
+					"display_url": "beyondlive.com/contents/138",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549997602078281700,
+		"in_reply_to_status_id_str": "1549997602078281728",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2968113,
+			"friends_count": 2,
+			"listed_count": 9090,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 631,
+		"favorite_count": 3530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 #Beyond_LIVE\n🎫 Ticket sales close : ~ 7/30 (SAT) 7PM KST\n🔗 https://t.co/MHtPquGMVd"
+	},
+	{
 		"created_at": "Thu Jul 21 05:45:40 +0000 2022",
 		"id": 1549990051781628000,
 		"id_str": "1549993993743880192",
