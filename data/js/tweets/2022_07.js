@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 02:40:09 +0000 2022",
+		"id": 1549861564622278700,
+		"id_str": "1549947309806477312",
+		"full_text": "BIBI &amp; JoJo Wright Try One Of Her Favorite Korean Dishes 'Tteok-bokki' https://t.co/kEy0496le0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEy0496le0",
+					"expanded_url": "http://ihe.art/ECrHUUW",
+					"display_url": "ihe.art/ECrHUUW",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19046392,
+			"id_str": "19046392",
+			"name": "102.7 KIIS FM",
+			"screen_name": "1027KIISFM",
+			"location": "Los Angeles",
+			"description": "LA's #1 Hit Music Station! Follow us: Instagram 📸 | @1027KIISFM TikTok 📹 | @1027kiisfm Snapchat 🤳 | kiis_fm",
+			"url": "https://t.co/1uDH45VrAS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1uDH45VrAS",
+							"expanded_url": "http://kiisfm.com/listen",
+							"display_url": "kiisfm.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349202,
+			"friends_count": 977,
+			"listed_count": 1718,
+			"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+			"favourites_count": 24611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544689912963682304/T9jVN7LN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544689912963682304/T9jVN7LN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1656778698",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI &amp; JoJo Wright Try One Of Her Favorite Korean Dishes 'Tteok-bokki' https://t.co/kEy0496le0"
+	},
+	{
 		"created_at": "Thu Jul 21 01:45:37 +0000 2022",
 		"id": 1549921453004542000,
 		"id_str": "1549933584349364225",
