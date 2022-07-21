@@ -1,6 +1,1525 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 03:40:24 +0000 2022",
+		"id": 1549923456564621300,
+		"id_str": "1549962470441230336",
+		"full_text": "💙KCON 2022 LA DAILY LINEUP ANNOUNCEMENT💚\n\nAre you ready to have fun at KCON 2022 LA?! \nLet's KCON! 🥳\nKCON 2022 LA를 즐길 준비 되셨나요?\n그렇다면 Let's KCON!🥳\n\n*All dates below are based on local time.\n*기재된 날짜는 모두 현지시간 기준입니다.\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Vpz83Ps0ET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549923451099496400,
+					"id_str": "1549923451099496452",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"url": "https://t.co/Vpz83Ps0ET",
+					"display_url": "pic.twitter.com/Vpz83Ps0ET",
+					"expanded_url": "https://twitter.com/KCON_official/status/1549923456564621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549923451099496400,
+					"id_str": "1549923451099496452",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYJvKrvVQAQ--6I.jpg",
+					"url": "https://t.co/Vpz83Ps0ET",
+					"display_url": "pic.twitter.com/Vpz83Ps0ET",
+					"expanded_url": "https://twitter.com/KCON_official/status/1549923456564621312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER / KCON 2022 LA AUG 19-21",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 449025,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 876,
+		"favorite_count": 2854,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙KCON 2022 LA DAILY LINEUP ANNOUNCEMENT💚\n\nAre you ready to have fun at KCON 2022 LA?! \nLet's KCON! 🥳\nKCON 2022 LA를 즐길 준비 되셨나요?\n그렇다면 Let's KCON!🥳\n\n*All dates below are based on local time.\n*기재된 날짜는 모두 현지시간 기준입니다.\n\n#KCON #KCONUSA #KCON2022LA https://t.co/Vpz83Ps0ET"
+	},
+	{
+		"created_at": "Thu Jul 21 03:40:13 +0000 2022",
+		"id": 1549740913303228400,
+		"id_str": "1549962423431565312",
+		"full_text": "[쇼챔직캠 4K] CHUNG HA - Sparkling (청하 - 스파클링)\n\n풀캠 https://t.co/9mVG7neIeJ\n세로캠 https://t.co/9o2FkLxuXt\n원픽캠 https://t.co/j0d79tMlr8\n\n#SHOWCHAMPION #쇼챔피언 #CHUNGHA #청하 #Sparkling @CHUNGHA_MNHent https://t.co/tlOwpphf7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						172,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9mVG7neIeJ",
+					"expanded_url": "https://youtu.be/ObBwhKsbVu8",
+					"display_url": "youtu.be/ObBwhKsbVu8",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/9o2FkLxuXt",
+					"expanded_url": "https://youtu.be/eJctSkQrd4I",
+					"display_url": "youtu.be/eJctSkQrd4I",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/j0d79tMlr8",
+					"expanded_url": "https://youtu.be/gOUAMUBs3So",
+					"display_url": "youtu.be/gOUAMUBs3So",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549695490630901800,
+					"id_str": "1549695490630901760",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGf1o0UYAASvBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGf1o0UYAASvBv.jpg",
+					"url": "https://t.co/tlOwpphf7H",
+					"display_url": "pic.twitter.com/tlOwpphf7H",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1549740913303228416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549695490630901800,
+					"id_str": "1549695490630901760",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGf1o0UYAASvBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGf1o0UYAASvBv.jpg",
+					"url": "https://t.co/tlOwpphf7H",
+					"display_url": "pic.twitter.com/tlOwpphf7H",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1549740913303228416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127765,
+			"friends_count": 347,
+			"listed_count": 401,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1658107731",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔직캠 4K] CHUNG HA - Sparkling (청하 - 스파클링)\n\n풀캠 https://t.co/9mVG7neIeJ\n세로캠 https://t.co/9o2FkLxuXt\n원픽캠 https://t.co/j0d79tMlr8\n\n#SHOWCHAMPION #쇼챔피언 #CHUNGHA #청하 #Sparkling @CHUNGHA_MNHent https://t.co/tlOwpphf7H"
+	},
+	{
+		"created_at": "Thu Jul 21 03:29:53 +0000 2022",
+		"id": 1549954818864582700,
+		"id_str": "1549959823109898241",
+		"full_text": "[#NEWS] 서현이 달라졌다…차광수와 날 선 신경전 (징크스의 연인)\n▶ https://t.co/B8L01ieAB9\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/gRLmLddBU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B8L01ieAB9",
+					"expanded_url": "https://naver.me/xUELGql7",
+					"display_url": "naver.me/xUELGql7",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549952438840410000,
+					"id_str": "1549952438840410112",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJh_fVQAAK7z3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJh_fVQAAK7z3.jpg",
+					"url": "https://t.co/gRLmLddBU6",
+					"display_url": "pic.twitter.com/gRLmLddBU6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549954818864582657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549952438840410000,
+					"id_str": "1549952438840410112",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJh_fVQAAK7z3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJh_fVQAAK7z3.jpg",
+					"url": "https://t.co/gRLmLddBU6",
+					"display_url": "pic.twitter.com/gRLmLddBU6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549954818864582657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549952438815191000,
+					"id_str": "1549952438815191040",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJh_ZUcAAreKx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJh_ZUcAAreKx.jpg",
+					"url": "https://t.co/gRLmLddBU6",
+					"display_url": "pic.twitter.com/gRLmLddBU6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549954818864582657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61756,
+			"friends_count": 12,
+			"listed_count": 276,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현이 달라졌다…차광수와 날 선 신경전 (징크스의 연인)\n▶ https://t.co/B8L01ieAB9\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/gRLmLddBU6"
+	},
+	{
+		"created_at": "Thu Jul 21 03:29:44 +0000 2022",
+		"id": 1549952338365845500,
+		"id_str": "1549959784778137602",
+		"full_text": "[#NEWS] '징크스의 연인' 서현, '친부=전광렬'..나인우와 운명적 필연 [종합]\n▶ https://t.co/pfNx3yMuT1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/SE2sXaL0WJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pfNx3yMuT1",
+					"expanded_url": "https://naver.me/5LAb54Nb",
+					"display_url": "naver.me/5LAb54Nb",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549952328870277000,
+					"id_str": "1549952328870277121",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJbl0aMAEs5Dd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJbl0aMAEs5Dd.jpg",
+					"url": "https://t.co/SE2sXaL0WJ",
+					"display_url": "pic.twitter.com/SE2sXaL0WJ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549952338365845505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 377,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549952328870277000,
+					"id_str": "1549952328870277121",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJbl0aMAEs5Dd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJbl0aMAEs5Dd.jpg",
+					"url": "https://t.co/SE2sXaL0WJ",
+					"display_url": "pic.twitter.com/SE2sXaL0WJ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1549952338365845505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 377,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61756,
+			"friends_count": 12,
+			"listed_count": 276,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현, '친부=전광렬'..나인우와 운명적 필연 [종합]\n▶ https://t.co/pfNx3yMuT1\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/SE2sXaL0WJ"
+	},
+	{
+		"created_at": "Thu Jul 21 03:29:39 +0000 2022",
+		"id": 1549945010782478300,
+		"id_str": "1549959762992824320",
+		"full_text": "[12회 예고]\n너한테 아무것도 해줄 수 없는 내가… 너무 미웠어\n\n판타지 희망 로맨스 #징크스의연인\n매주 수목 밤 9시 50분 (KBS20220721방송)\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/Tuo7TQr9V0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549944935834480600,
+					"id_str": "1549944935834480641",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549944935834480641/pu/img/VgCHjfwm6Fn51tpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549944935834480641/pu/img/VgCHjfwm6Fn51tpO.jpg",
+					"url": "https://t.co/Tuo7TQr9V0",
+					"display_url": "pic.twitter.com/Tuo7TQr9V0",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549945010782478336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549944935834480600,
+					"id_str": "1549944935834480641",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549944935834480641/pu/img/VgCHjfwm6Fn51tpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549944935834480641/pu/img/VgCHjfwm6Fn51tpO.jpg",
+					"url": "https://t.co/Tuo7TQr9V0",
+					"display_url": "pic.twitter.com/Tuo7TQr9V0",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549945010782478336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30037,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549944935834480641/pu/vid/640x360/qNUnIAW1sfipMF0F.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549944935834480641/pu/vid/1280x720/0g7RJTiaqO7q_JDk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549944935834480641/pu/pl/2pSdqsKsk-aZa4sR.m3u8?tag=12&container=fmp4&v=b62"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549944935834480641/pu/vid/480x270/O5XESkjiY9rP3RAe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106066,
+			"friends_count": 56774,
+			"listed_count": 2123,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[12회 예고]\n너한테 아무것도 해줄 수 없는 내가… 너무 미웠어\n\n판타지 희망 로맨스 #징크스의연인\n매주 수목 밤 9시 50분 (KBS20220721방송)\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/Tuo7TQr9V0"
+	},
+	{
+		"created_at": "Thu Jul 21 03:17:25 +0000 2022",
+		"id": 1549952543001784300,
+		"id_str": "1549956685959032833",
+		"full_text": "[📸] 220720 #쇼챔피언\n\n🎀I'll be your sparkle🎀\n✨Sparkling✨\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/46hD94a6Wb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						88,
+						105
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						106,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549952406774894600,
+					"id_str": "1549952406774894598",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJgICUUAYeHPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJgICUUAYeHPD.jpg",
+					"url": "https://t.co/46hD94a6Wb",
+					"display_url": "pic.twitter.com/46hD94a6Wb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549952543001784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549952406774894600,
+					"id_str": "1549952406774894598",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJgICUUAYeHPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJgICUUAYeHPD.jpg",
+					"url": "https://t.co/46hD94a6Wb",
+					"display_url": "pic.twitter.com/46hD94a6Wb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549952543001784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549952406787461000,
+					"id_str": "1549952406787461120",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJgIFUEAApdr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJgIFUEAApdr4.jpg",
+					"url": "https://t.co/46hD94a6Wb",
+					"display_url": "pic.twitter.com/46hD94a6Wb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549952543001784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549952406770765800,
+					"id_str": "1549952406770765824",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJgIBVUAAXuId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJgIBVUAAXuId.jpg",
+					"url": "https://t.co/46hD94a6Wb",
+					"display_url": "pic.twitter.com/46hD94a6Wb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549952543001784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549952406779076600,
+					"id_str": "1549952406779076613",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FYKJgIDUIAUmjQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYKJgIDUIAUmjQf.jpg",
+					"url": "https://t.co/46hD94a6Wb",
+					"display_url": "pic.twitter.com/46hD94a6Wb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1549952543001784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353483,
+			"friends_count": 1,
+			"listed_count": 2172,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 1461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 220720 #쇼챔피언\n\n🎀I'll be your sparkle🎀\n✨Sparkling✨\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/46hD94a6Wb"
+	},
+	{
 		"created_at": "Thu Jul 21 02:40:09 +0000 2022",
 		"id": 1549861564622278700,
 		"id_str": "1549947309806477312",
