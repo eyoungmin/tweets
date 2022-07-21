@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 01:45:37 +0000 2022",
+		"id": 1549921453004542000,
+		"id_str": "1549933584349364225",
+		"full_text": "Stray Kids and P1Harmony join the previously announced K-pop acts like ATEEZ, ITZY, ENHYPEN, NCT DREAM, LOONA and more all performing in Los Angeles.\n\nhttps://t.co/an8bOkSOfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/an8bOkSOfY",
+					"expanded_url": "http://blbrd.cm/1iTw4CX",
+					"display_url": "blbrd.cm/1iTw4CX",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardpro",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13858676,
+			"friends_count": 3480,
+			"listed_count": 21683,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 300243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1655993087",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 339,
+		"favorite_count": 1240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stray Kids and P1Harmony join the previously announced K-pop acts like ATEEZ, ITZY, ENHYPEN, NCT DREAM, LOONA and more all performing in Los Angeles.\n\nhttps://t.co/an8bOkSOfY"
+	},
+	{
 		"created_at": "Thu Jul 21 00:17:23 +0000 2022",
 		"id": 1549907536442458000,
 		"id_str": "1549911381129904130",
