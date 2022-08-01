@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 10:40:12 +0000 2022",
+		"id": 1554044268515319800,
+		"id_str": "1554054382949470209",
+		"full_text": "[📸]\n\n今日から4日間、Girls活動記と題して音楽番組出演中にメンバーから届いたセルフィーをお届けします😚🤳\n\n最初はWINTER！🫡⭐️🤍\n\n#aespa #aespa #에스파 #エスパ\n#WINTER #ウィンター\n#Girls #aespa_Girls\n#Girls活動記 https://t.co/TXZxIUXBZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "ウィンター",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "Girls活動記",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553956355140382700,
+					"id_str": "1553956355140382721",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDDEmCacAE-p4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDDEmCacAE-p4z.jpg",
+					"url": "https://t.co/TXZxIUXBZg",
+					"display_url": "pic.twitter.com/TXZxIUXBZg",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554044268515319809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553956355140382700,
+					"id_str": "1553956355140382721",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDDEmCacAE-p4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDDEmCacAE-p4z.jpg",
+					"url": "https://t.co/TXZxIUXBZg",
+					"display_url": "pic.twitter.com/TXZxIUXBZg",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554044268515319809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553956896260124700,
+					"id_str": "1553956896260124672",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDDkF3acAAH6A5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDDkF3acAAH6A5.jpg",
+					"url": "https://t.co/TXZxIUXBZg",
+					"display_url": "pic.twitter.com/TXZxIUXBZg",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554044268515319809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553956950677024800,
+					"id_str": "1553956950677024768",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDDnQlacAALQhI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDDnQlacAALQhI.jpg",
+					"url": "https://t.co/TXZxIUXBZg",
+					"display_url": "pic.twitter.com/TXZxIUXBZg",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554044268515319809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553957064921460700,
+					"id_str": "1553957064921460736",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDDt6LaMAAgCLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDDt6LaMAAgCLS.jpg",
+					"url": "https://t.co/TXZxIUXBZg",
+					"display_url": "pic.twitter.com/TXZxIUXBZg",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554044268515319809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 181717,
+			"friends_count": 1,
+			"listed_count": 441,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3336,
+		"favorite_count": 11233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📸]\n\n今日から4日間、Girls活動記と題して音楽番組出演中にメンバーから届いたセルフィーをお届けします😚🤳\n\n最初はWINTER！🫡⭐️🤍\n\n#aespa #aespa #에스파 #エスパ\n#WINTER #ウィンター\n#Girls #aespa_Girls\n#Girls活動記 https://t.co/TXZxIUXBZg"
+	},
+	{
+		"created_at": "Mon Aug 01 10:40:10 +0000 2022",
+		"id": 1554029170459644000,
+		"id_str": "1554054373944299520",
+		"full_text": "˗ˏˋ K-POPライブが一挙配信開始 ˎˊ˗\n\n  ～ 𝑳𝑰𝑵𝑬𝑼𝑷 ～\n🤍#SUPERJUNIOR\n🤍#少女時代\n🤍#SHINee\n🤍#TAEMIN\n🤍#EXO\n🤍#EXOCBX\n\n～dTVで配信中のK-POPライブ100作品突破🙌～\nみなさんの推しを #dTV でぜひ見つけてくださいね！\n\n一覧⏩https://t.co/yRdgL89NY6\n\n#推しを拝もう\n#dTVで推し活を https://t.co/XzjLsvycxS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "EXOCBX",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "dTV",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "推しを拝もう",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "dTVで推し活を",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yRdgL89NY6",
+					"expanded_url": "https://bit.ly/3b14RiU",
+					"display_url": "bit.ly/3b14RiU",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554013426950623200,
+					"id_str": "1554013426950623232",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD2-nGUUAALEET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD2-nGUUAALEET.jpg",
+					"url": "https://t.co/XzjLsvycxS",
+					"display_url": "pic.twitter.com/XzjLsvycxS",
+					"expanded_url": "https://twitter.com/dTV_PR/status/1554029170459643905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1475,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554013426950623200,
+					"id_str": "1554013426950623232",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD2-nGUUAALEET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD2-nGUUAALEET.jpg",
+					"url": "https://t.co/XzjLsvycxS",
+					"display_url": "pic.twitter.com/XzjLsvycxS",
+					"expanded_url": "https://twitter.com/dTV_PR/status/1554029170459643905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1475,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554013477433315300,
+					"id_str": "1554013477433315328",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD3BjKVEAAePLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD3BjKVEAAePLj.jpg",
+					"url": "https://t.co/XzjLsvycxS",
+					"display_url": "pic.twitter.com/XzjLsvycxS",
+					"expanded_url": "https://twitter.com/dTV_PR/status/1554029170459643905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554013650540646400,
+					"id_str": "1554013650540646400",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD3LoCVUAAm0-O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD3LoCVUAAm0-O.jpg",
+					"url": "https://t.co/XzjLsvycxS",
+					"display_url": "pic.twitter.com/XzjLsvycxS",
+					"expanded_url": "https://twitter.com/dTV_PR/status/1554029170459643905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1438,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554013669104554000,
+					"id_str": "1554013669104553984",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZD3MtMUEAA3bhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZD3MtMUEAA3bhR.jpg",
+					"url": "https://t.co/XzjLsvycxS",
+					"display_url": "pic.twitter.com/XzjLsvycxS",
+					"expanded_url": "https://twitter.com/dTV_PR/status/1554029170459643905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2251903524,
+			"id_str": "2251903524",
+			"name": "dTV",
+			"screen_name": "dTV_PR",
+			"location": "",
+			"description": "【ライブも見るならdTV／音楽ライブ作品数No.1】\n人気の映画、ドラマはもちろん、K-POPをはじめ、話題の音楽ライブをゾクゾク追加中！月額550円で見放題！さらに、最新のオンラインライブも毎月配信！\nお問い合わせ https://t.co/koum7kDC2o dTV公式Youtube https://t.co/0O2cIdHLau #dTV",
+			"url": "https://t.co/tX0OCE3lEM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tX0OCE3lEM",
+							"expanded_url": "https://bit.ly/2UitgSY",
+							"display_url": "bit.ly/2UitgSY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/koum7kDC2o",
+							"expanded_url": "http://bit.ly/2yjpB1H",
+							"display_url": "bit.ly/2yjpB1H",
+							"indices": [
+								109,
+								132
+							]
+						},
+						{
+							"url": "https://t.co/0O2cIdHLau",
+							"expanded_url": "http://bit.ly/2NkRlaE",
+							"display_url": "bit.ly/2NkRlaE",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 120160,
+			"friends_count": 2476,
+			"listed_count": 401,
+			"created_at": "Wed Dec 18 12:16:51 +0000 2013",
+			"favourites_count": 43315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 106533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265191451119378433/wzYsgER3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265191451119378433/wzYsgER3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2251903524/1629948625",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 2523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "˗ˏˋ K-POPライブが一挙配信開始 ˎˊ˗\n\n  ～ 𝑳𝑰𝑵𝑬𝑼𝑷 ～\n🤍#SUPERJUNIOR\n🤍#少女時代\n🤍#SHINee\n🤍#TAEMIN\n🤍#EXO\n🤍#EXOCBX\n\n～dTVで配信中のK-POPライブ100作品突破🙌～\nみなさんの推しを #dTV でぜひ見つけてくださいね！\n\n一覧⏩https://t.co/yRdgL89NY6\n\n#推しを拝もう\n#dTVで推し活を https://t.co/XzjLsvycxS"
+	},
+	{
 		"created_at": "Mon Aug 01 09:40:44 +0000 2022",
 		"id": 1554033246689964000,
 		"id_str": "1554039416846536704",
@@ -368,7 +1091,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Mon Aug 01 09:40:09 +0000 2022",
 		"id": 1554029417965359000,
 		"id_str": "1554039272155521024",
-		"full_text": "♥220731 #인기가요 PD노트\n\n케이팝 기강 잡으러 온 선예 옹니❤️‍🔥\n이번 PD노트 넘 레전드셔...✨\n\n🔗https://t.co/tAXlmApiFC\n\n#인기가요 #Inkigayo #선예 #SUNYE #JustADancer @BBC_blockberry https://t.co/h0vp9BTL9E",
+		"full_text": "♥220731 #인기가요 PD노트\n\n케이팝 기강 잡으러 온 선예 옹니❤️🔥\n이번 PD노트 넘 레전드셔...✨\n\n🔗https://t.co/tAXlmApiFC\n\n#인기가요 #Inkigayo #선예 #SUNYE #JustADancer @BBC_blockberry https://t.co/h0vp9BTL9E",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -637,7 +1360,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "♥220731 #인기가요 PD노트\n\n케이팝 기강 잡으러 온 선예 옹니❤️‍🔥\n이번 PD노트 넘 레전드셔...✨\n\n🔗https://t.co/tAXlmApiFC\n\n#인기가요 #Inkigayo #선예 #SUNYE #JustADancer @BBC_blockberry https://t.co/h0vp9BTL9E"
+		"text": "♥220731 #인기가요 PD노트\n\n케이팝 기강 잡으러 온 선예 옹니❤️🔥\n이번 PD노트 넘 레전드셔...✨\n\n🔗https://t.co/tAXlmApiFC\n\n#인기가요 #Inkigayo #선예 #SUNYE #JustADancer @BBC_blockberry https://t.co/h0vp9BTL9E"
 	},
 	{
 		"created_at": "Mon Aug 01 09:22:20 +0000 2022",
