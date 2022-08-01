@@ -1,10 +1,359 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 14:40:21 +0000 2022",
+		"id": 1554104676320129000,
+		"id_str": "1554114820236091392",
+		"full_text": "모두 Attention! 역대급 신인 뉴진스가 데뷔와 함께 스춤에 찾아왔으니🐰💕 BE ORIGINAL 'NewJeans' COMING SOON #BE_ORIGINAL #NewJeans #Attention! #뉴진스 @NewJeans_ADOR #STUDIOCHOOM\n\n▶ https://t.co/OpgvSdh6lS https://t.co/yWTpkYFJzD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OpgvSdh6lS",
+					"expanded_url": "https://youtu.be/1X0Jqvwugc4",
+					"display_url": "youtu.be/1X0Jqvwugc4",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554045514080850000,
+					"id_str": "1554045514080849921",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEUKU-UEAE9Jqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEUKU-UEAE9Jqd.jpg",
+					"url": "https://t.co/yWTpkYFJzD",
+					"display_url": "pic.twitter.com/yWTpkYFJzD",
+					"expanded_url": "https://twitter.com/M2MPD/status/1554104676320129026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554045514080850000,
+					"id_str": "1554045514080849921",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEUKU-UEAE9Jqd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEUKU-UEAE9Jqd.jpg",
+					"url": "https://t.co/yWTpkYFJzD",
+					"display_url": "pic.twitter.com/yWTpkYFJzD",
+					"expanded_url": "https://twitter.com/M2MPD/status/1554104676320129026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258396,
+			"friends_count": 469,
+			"listed_count": 1579,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3530,
+		"favorite_count": 5827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모두 Attention! 역대급 신인 뉴진스가 데뷔와 함께 스춤에 찾아왔으니🐰💕 BE ORIGINAL 'NewJeans' COMING SOON #BE_ORIGINAL #NewJeans #Attention! #뉴진스 @NewJeans_ADOR #STUDIOCHOOM\n\n▶ https://t.co/OpgvSdh6lS https://t.co/yWTpkYFJzD"
+	},
+	{
+		"created_at": "Mon Aug 01 14:40:14 +0000 2022",
+		"id": 1554105138989748200,
+		"id_str": "1554114787654737921",
+		"full_text": "thank you bbc, an honour!💘 you can listen back on @bbcsounds @bbcworldservice ☺️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCSounds",
+					"name": "BBC Sounds",
+					"id": 20518298,
+					"id_str": "20518298",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "bbcworldservice",
+					"name": "BBC World Service",
+					"id": 786764,
+					"id_str": "786764",
+					"indices": [
+						61,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1554104958793941000,
+		"in_reply_to_status_id_str": "1554104958793940992",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89217,
+			"friends_count": 270,
+			"listed_count": 335,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "thank you bbc, an honour!💘 you can listen back on @bbcsounds @bbcworldservice ☺️"
+	},
+	{
 		"created_at": "Mon Aug 01 13:40:23 +0000 2022",
 		"id": 1553995280562864000,
 		"id_str": "1554099729554116610",
-		"full_text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤‍🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm",
+		"full_text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -254,7 +603,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤‍🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm"
+		"text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm"
 	},
 	{
 		"created_at": "Mon Aug 01 13:40:18 +0000 2022",
