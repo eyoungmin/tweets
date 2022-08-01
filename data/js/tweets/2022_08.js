@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 03:40:10 +0000 2022",
+		"id": 1553938631802654700,
+		"id_str": "1553948677907120131",
+		"full_text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" Performance Video✨\n\n▶️ https://t.co/FTlbpXy3o5\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/NBtVtT4ous",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FTlbpXy3o5",
+					"expanded_url": "https://youtu.be/n_VT0HVkWuc",
+					"display_url": "youtu.be/n_VT0HVkWuc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553938621769875500,
+					"id_str": "1553938621769875456",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FZCy8YFagAAtdOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZCy8YFagAAtdOY.jpg",
+					"url": "https://t.co/NBtVtT4ous",
+					"display_url": "pic.twitter.com/NBtVtT4ous",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1553938631802654725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553938621769875500,
+					"id_str": "1553938621769875456",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FZCy8YFagAAtdOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZCy8YFagAAtdOY.jpg",
+					"url": "https://t.co/NBtVtT4ous",
+					"display_url": "pic.twitter.com/NBtVtT4ous",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1553938631802654725/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18628,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" Performance Video✨\n\n▶️ https://t.co/FTlbpXy3o5\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/NBtVtT4ous"
+	},
+	{
 		"created_at": "Mon Aug 01 02:45:37 +0000 2022",
 		"id": 1553931035473129500,
 		"id_str": "1553934948343611392",
