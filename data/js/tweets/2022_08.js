@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 13:40:23 +0000 2022",
+		"id": 1553995280562864000,
+		"id_str": "1554099729554116610",
+		"full_text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤‍🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "니콜",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "퍼플키스",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553994787610538000,
+					"id_str": "1553994787610537986",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553994787610537986/pu/img/-fJDEv0_COAFI12S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553994787610537986/pu/img/-fJDEv0_COAFI12S.jpg",
+					"url": "https://t.co/SVHDDzs4rm",
+					"display_url": "pic.twitter.com/SVHDDzs4rm",
+					"expanded_url": "https://twitter.com/showchampion1/status/1553995280562864128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553994787610538000,
+					"id_str": "1553994787610537986",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1553994787610537986/pu/img/-fJDEv0_COAFI12S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1553994787610537986/pu/img/-fJDEv0_COAFI12S.jpg",
+					"url": "https://t.co/SVHDDzs4rm",
+					"display_url": "pic.twitter.com/SVHDDzs4rm",
+					"expanded_url": "https://twitter.com/showchampion1/status/1553995280562864128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34459,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553994787610537986/pu/vid/640x360/93njTugBeXRGONo-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553994787610537986/pu/vid/480x270/s4B0TZTpfCXmjLun.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1553994787610537986/pu/pl/R6Auevbc6YDMDSU0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1553994787610537986/pu/vid/1280x720/BDXvtTWuOHqPEHzn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXG31o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXG31o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191219,
+			"friends_count": 220,
+			"listed_count": 2180,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 3일 (수) 오후 6시 #쇼챔피언\nK-POP 컴백 대잔치 🎉 역대급 퍼포먼스 #ATEEZ ❤‍🔥 고혹적 솔로퀸 #선예 💃 몽환적 서머송 #니콜 🛸 귀여운 악동 #TO1 💘 힙 에너지 #P1Harmony 💫 괴짜 마녀 #퍼플키스 🧹 오후 6시 쇼챔피언 컴백 파티 참석하SHOW 🧡 https://t.co/SVHDDzs4rm"
+	},
+	{
+		"created_at": "Mon Aug 01 13:40:18 +0000 2022",
+		"id": 1554044271627567000,
+		"id_str": "1554099707844116480",
+		"full_text": "[🎥#안방1열직캠] 선예 - Just A Dancer \n\n#인기가요 #선예 #SUNYE #JustADancer @BBC_blockberry\n\n📌https://t.co/Rn8WnMqvdu https://t.co/sWYQZLDg4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rn8WnMqvdu",
+					"expanded_url": "https://youtu.be/Ao_5bds_Puc",
+					"display_url": "youtu.be/Ao_5bds_Puc",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554028804926230500,
+					"id_str": "1554028804926230529",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEE9uhaUAEpyIF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEE9uhaUAEpyIF.jpg",
+					"url": "https://t.co/sWYQZLDg4n",
+					"display_url": "pic.twitter.com/sWYQZLDg4n",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1554044271627567105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554028804926230500,
+					"id_str": "1554028804926230529",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZEE9uhaUAEpyIF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZEE9uhaUAEpyIF.jpg",
+					"url": "https://t.co/sWYQZLDg4n",
+					"display_url": "pic.twitter.com/sWYQZLDg4n",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1554044271627567105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsnRTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsnRTm",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718081,
+			"friends_count": 79,
+			"listed_count": 820,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 5981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1659241856",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 선예 - Just A Dancer \n\n#인기가요 #선예 #SUNYE #JustADancer @BBC_blockberry\n\n📌https://t.co/Rn8WnMqvdu https://t.co/sWYQZLDg4n"
+	},
+	{
+		"created_at": "Mon Aug 01 13:40:13 +0000 2022",
+		"id": 1553659589970632700,
+		"id_str": "1554099686344114176",
+		"full_text": "[📽#안방1열직캠] 선예 - Just A Dancer \n\n#인기가요 #선예 #SUNYE #JustADancer @BBC_blockberry\n\n📌https://t.co/O4epO13unt https://t.co/bO3dNjgl4l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O4epO13unt",
+					"expanded_url": "https://youtu.be/RsO2xEYm0xU",
+					"display_url": "youtu.be/RsO2xEYm0xU",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553659574187884500,
+					"id_str": "1553659574187884545",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FY-1Jq1agAETWag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY-1Jq1agAETWag.jpg",
+					"url": "https://t.co/bO3dNjgl4l",
+					"display_url": "pic.twitter.com/bO3dNjgl4l",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1553659589970632704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553659574187884500,
+					"id_str": "1553659574187884545",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FY-1Jq1agAETWag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY-1Jq1agAETWag.jpg",
+					"url": "https://t.co/bO3dNjgl4l",
+					"display_url": "pic.twitter.com/bO3dNjgl4l",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1553659589970632704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsnRTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsnRTm",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718081,
+			"friends_count": 79,
+			"listed_count": 820,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 5981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1659241856",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽#안방1열직캠] 선예 - Just A Dancer \n\n#인기가요 #선예 #SUNYE #JustADancer @BBC_blockberry\n\n📌https://t.co/O4epO13unt https://t.co/bO3dNjgl4l"
+	},
+	{
 		"created_at": "Mon Aug 01 10:40:12 +0000 2022",
 		"id": 1554044268515319800,
 		"id_str": "1554054382949470209",
