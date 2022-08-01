@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 04:29:39 +0000 2022",
+		"id": 1553954175574487000,
+		"id_str": "1553961130380464129",
+		"full_text": "Girls’ Generation Perdengarkan Harmonisasi Vokal lewat Lagu ‘Lucky Like That’ dan ‘You Better Run’\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/Qs3yEBzy9m\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/k8R4J0KTED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						225,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qs3yEBzy9m",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid0PxUmPgFcf75PNL54gAodF9SCCe52bs1Q8rx8HoG695pyojza66QBwHsVxhUQJ4o6l",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553954155701899300,
+					"id_str": "1553954155701899264",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDBEkfakAAIlPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDBEkfakAAIlPk.jpg",
+					"url": "https://t.co/k8R4J0KTED",
+					"display_url": "pic.twitter.com/k8R4J0KTED",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1553954175574487040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553954155701899300,
+					"id_str": "1553954155701899264",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDBEkfakAAIlPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDBEkfakAAIlPk.jpg",
+					"url": "https://t.co/k8R4J0KTED",
+					"display_url": "pic.twitter.com/k8R4J0KTED",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1553954175574487040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553954155701895200,
+					"id_str": "1553954155701895168",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDBEkfagAA_hva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDBEkfagAA_hva.jpg",
+					"url": "https://t.co/k8R4J0KTED",
+					"display_url": "pic.twitter.com/k8R4J0KTED",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1553954175574487040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553954155869651000,
+					"id_str": "1553954155869650949",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDBElHaQAU1x2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDBElHaQAU1x2Q.jpg",
+					"url": "https://t.co/k8R4J0KTED",
+					"display_url": "pic.twitter.com/k8R4J0KTED",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1553954175574487040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1078119,
+			"friends_count": 37,
+			"listed_count": 658,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Girls’ Generation Perdengarkan Harmonisasi Vokal lewat Lagu ‘Lucky Like That’ dan ‘You Better Run’\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/Qs3yEBzy9m\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/k8R4J0KTED"
+	},
+	{
+		"created_at": "Mon Aug 01 04:19:06 +0000 2022",
+		"id": 1553953108337733600,
+		"id_str": "1553958477147475969",
+		"full_text": "블랙핑크가 9월 발매되는 정규 신곡을 이번 달에 선 공개할 예정이다.\n#블랙핑크 #BLACKPINK #BLACKPINKCOMEBACK #KPOP \nhttps://t.co/YWaZWcFArU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "BLACKPINKCOMEBACK",
+					"indices": [
+						56,
+						74
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YWaZWcFArU",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/08/01/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-9%EC%9B%94-%EC%A0%95%EA%B7%9C-2%EC%A7%91-10%EC%9B%94%EB%B6%80%ED%84%B0-%EC%9B%94%EB%93%9C%ED%88%AC%EC%96%B4/?ddw=118080&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/08/01/%EB…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142672,
+			"friends_count": 0,
+			"listed_count": 220,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1656323299",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크가 9월 발매되는 정규 신곡을 이번 달에 선 공개할 예정이다.\n#블랙핑크 #BLACKPINK #BLACKPINKCOMEBACK #KPOP \nhttps://t.co/YWaZWcFArU"
+	},
+	{
 		"created_at": "Mon Aug 01 03:40:10 +0000 2022",
 		"id": 1553938631802654700,
 		"id_str": "1553948677907120131",
