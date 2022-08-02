@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 03:40:15 +0000 2022",
+		"id": 1554300963032207400,
+		"id_str": "1554311085519421441",
+		"full_text": "[#선예] 220808 잇츠라이브 the Fillin' Live 사녹 참여 안내\n자세한 공지는 폼을 확인해 주세요✨\n\n📌신청 기간 : 2022년 8월 2일 (화) 6PM ~ 2022년 8월 5일 (금) 6PM\n\n※신청 기간 내에 제출된 폼만 인정되오니 착오 없으시길 바랍니다\n\n👉🏻 https://t.co/SEqdiufjpm\n\n#Sunye #Genuine #JustADancer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						199,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SEqdiufjpm",
+					"expanded_url": "https://forms.gle/Yzqpu7SoEceixNoc6",
+					"display_url": "forms.gle/Yzqpu7SoEceixN…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18653,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예] 220808 잇츠라이브 the Fillin' Live 사녹 참여 안내\n자세한 공지는 폼을 확인해 주세요✨\n\n📌신청 기간 : 2022년 8월 2일 (화) 6PM ~ 2022년 8월 5일 (금) 6PM\n\n※신청 기간 내에 제출된 폼만 인정되오니 착오 없으시길 바랍니다\n\n👉🏻 https://t.co/SEqdiufjpm\n\n#Sunye #Genuine #JustADancer"
+	},
+	{
+		"created_at": "Tue Aug 02 03:40:10 +0000 2022",
+		"id": 1554300958905073700,
+		"id_str": "1554311064052957184",
+		"full_text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』開催記念限定特典付きCD販売のご案内🎉\n対象商品1枚ご購入でオリジナルトレカ1枚プレゼント🎁\n\n詳細はこちら🧚\n☑https://t.co/jHwkE481fO\n\n#aespa #æspa #에스파 #エスパ https://t.co/mHakfLxtWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jHwkE481fO",
+					"expanded_url": "https://aespa-official.jp/news/tradingcards/",
+					"display_url": "aespa-official.jp/news/tradingca…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554286471468953600,
+					"id_str": "1554286471468953602",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FZHvT5MaMAIB9d1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZHvT5MaMAIB9d1.jpg",
+					"url": "https://t.co/mHakfLxtWo",
+					"display_url": "pic.twitter.com/mHakfLxtWo",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554300958905073668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554286471468953600,
+					"id_str": "1554286471468953602",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FZHvT5MaMAIB9d1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZHvT5MaMAIB9d1.jpg",
+					"url": "https://t.co/mHakfLxtWo",
+					"display_url": "pic.twitter.com/mHakfLxtWo",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554300958905073668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 182878,
+			"friends_count": 1,
+			"listed_count": 444,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1054,
+		"favorite_count": 4277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜』開催記念限定特典付きCD販売のご案内🎉\n対象商品1枚ご購入でオリジナルトレカ1枚プレゼント🎁\n\n詳細はこちら🧚\n☑https://t.co/jHwkE481fO\n\n#aespa #æspa #에스파 #エスパ https://t.co/mHakfLxtWo"
+	},
+	{
 		"created_at": "Tue Aug 02 02:45:37 +0000 2022",
 		"id": 1554293425037398000,
 		"id_str": "1554297339220746241",
