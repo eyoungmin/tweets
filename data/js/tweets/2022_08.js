@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 05:29:51 +0000 2022",
+		"id": 1554330858890612700,
+		"id_str": "1554338668088856576",
+		"full_text": "Girls’ Generation Berikan Dukungan lewat Lagu ‘Mood Lamp’ dan ‘Paper Plane’ \n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/7bRjoTneeh\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/v4VHolUkYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						203,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						169,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7bRjoTneeh",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid02df6J5Y5qiv5hjYJfMParCDvmTGfEeAGwFD9jpZfNAd7XPY7G7w6HUKKN3Cc5ca8Rl",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554330802129084400,
+					"id_str": "1554330802129084416",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FZIXoRxaIAA_sYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZIXoRxaIAA_sYx.jpg",
+					"url": "https://t.co/v4VHolUkYb",
+					"display_url": "pic.twitter.com/v4VHolUkYb",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1554330858890612737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554330802129084400,
+					"id_str": "1554330802129084416",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FZIXoRxaIAA_sYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZIXoRxaIAA_sYx.jpg",
+					"url": "https://t.co/v4VHolUkYb",
+					"display_url": "pic.twitter.com/v4VHolUkYb",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1554330858890612737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554330802313654300,
+					"id_str": "1554330802313654273",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FZIXoSdacAEejYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZIXoSdacAEejYk.jpg",
+					"url": "https://t.co/v4VHolUkYb",
+					"display_url": "pic.twitter.com/v4VHolUkYb",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1554330858890612737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554330839013814300,
+					"id_str": "1554330839013814272",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FZIXqbLacAAC_T3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZIXqbLacAAC_T3.jpg",
+					"url": "https://t.co/v4VHolUkYb",
+					"display_url": "pic.twitter.com/v4VHolUkYb",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1554330858890612737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554330839215128600,
+					"id_str": "1554330839215128576",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FZIXqb7aQAAum50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZIXqb7aQAAum50.jpg",
+					"url": "https://t.co/v4VHolUkYb",
+					"display_url": "pic.twitter.com/v4VHolUkYb",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1554330858890612737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1078770,
+			"friends_count": 37,
+			"listed_count": 657,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Girls’ Generation Berikan Dukungan lewat Lagu ‘Mood Lamp’ dan ‘Paper Plane’ \n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/7bRjoTneeh\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/v4VHolUkYb"
+	},
+	{
 		"created_at": "Tue Aug 02 04:40:10 +0000 2022",
 		"id": 1554324262315470800,
 		"id_str": "1554326165095157761",
