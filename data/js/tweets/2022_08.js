@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 13:40:18 +0000 2022",
+		"id": 1554445157109342200,
+		"id_str": "1554462093092560896",
+		"full_text": "[#TikTok]\n선예 선배님과 Drummin'🥁\n\n📍 https://t.co/3qTmHeC68m\n\n#TO1 #티오원 \n#WHY_NOT #Drummin'🥁 \n#JAEYUN #재윤 #YEOJEONG #여정 \n#Drummin_Challenge \n#선예 #Sunye \n@BBC_blockberry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "WHY_NOT",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "Drummin",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "JAEYUN",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "재윤",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "YEOJEONG",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "Drummin_Challenge",
+					"indices": [
+						115,
+						133
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3qTmHeC68m",
+					"expanded_url": "http://vt.tiktok.com/ZSRjDW6jg",
+					"display_url": "vt.tiktok.com/ZSRjDW6jg",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1120217350848958500,
+			"id_str": "1120217350848958465",
+			"name": "TO1",
+			"screen_name": "TO1_offcl",
+			"location": "",
+			"description": "Official Twitter for #TO1",
+			"url": "https://t.co/2G7zRywhGJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2G7zRywhGJ",
+							"expanded_url": "https://linktr.ee/TO1_offcl",
+							"display_url": "linktr.ee/TO1_offcl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220482,
+			"friends_count": 20,
+			"listed_count": 1579,
+			"created_at": "Mon Apr 22 06:46:43 +0000 2019",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1552828341912080384/Mf2MD9Gp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552828341912080384/Mf2MD9Gp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1120217350848958465/1659020623",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TikTok]\n선예 선배님과 Drummin'🥁\n\n📍 https://t.co/3qTmHeC68m\n\n#TO1 #티오원 \n#WHY_NOT #Drummin'🥁 \n#JAEYUN #재윤 #YEOJEONG #여정 \n#Drummin_Challenge \n#선예 #Sunye \n@BBC_blockberry"
+	},
+	{
 		"created_at": "Tue Aug 02 12:40:29 +0000 2022",
 		"id": 1554444593457799200,
 		"id_str": "1554447042226921472",
@@ -98,7 +301,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Tue Aug 02 12:40:26 +0000 2022",
 		"id": 1554437044939550700,
 		"id_str": "1554447029111345152",
-		"full_text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤‍🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L",
+		"full_text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -295,7 +498,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤‍🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L"
+		"text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L"
 	},
 	{
 		"created_at": "Tue Aug 02 12:40:19 +0000 2022",
