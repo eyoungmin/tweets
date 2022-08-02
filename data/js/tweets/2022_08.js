@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 16:40:18 +0000 2022",
+		"id": 1554492800866979800,
+		"id_str": "1554507394482421761",
+		"full_text": "fo sho im already working on it💫\nlook forward for drama/movie too https://t.co/Pl0YpbTjIG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pl0YpbTjIG",
+					"expanded_url": "https://twitter.com/19youth_k/status/1554445734556188674",
+					"display_url": "twitter.com/19youth_k/stat…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81619,
+			"friends_count": 4,
+			"listed_count": 188,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554445734556188700,
+		"quoted_status_id_str": "1554445734556188674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pl0YpbTjIG",
+			"expanded": "https://twitter.com/19youth_k/status/1554445734556188674",
+			"display": "twitter.com/19youth_k/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 02 12:35:17 +0000 2022",
+			"id": 1554445734556188700,
+			"id_str": "1554445734556188674",
+			"full_text": "@nakedbibi @nakedbi_bing will we ever get the sequel of the girl from \"binu\"? or from \"the manual for people who want to love\"?",
+			"truncated": false,
+			"display_text_range": [
+				25,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "nakedbi_bing",
+						"name": "빙빙:",
+						"id": 1373120381888782300,
+						"id_str": "1373120381888782336",
+						"indices": [
+							11,
+							24
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1554444593457799200,
+			"in_reply_to_status_id_str": "1554444593457799174",
+			"in_reply_to_user_id": 1448497121867436000,
+			"in_reply_to_user_id_str": "1448497121867436037",
+			"in_reply_to_screen_name": "nakedbibi",
+			"user": {
+				"id": 1069140847403458600,
+				"id_str": "1069140847403458560",
+				"name": "санико 🇰🇿💙💛 #славаукраине #путинқотағымдыжемеш",
+				"screen_name": "19YOUTH_K",
+				"location": "kz / she+her / libra / enfp",
+				"description": "DAY6 🍋⁵ JAMIE 💚 BIBI 🧼 HANI 🍯 NEWJEANS 👖 5SOS 🎸",
+				"url": "https://t.co/Ab8dqnOJlB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ab8dqnOJlB",
+								"expanded_url": "https://youngtothek.carrd.co/",
+								"display_url": "youngtothek.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256,
+				"friends_count": 515,
+				"listed_count": 14,
+				"created_at": "Sun Dec 02 08:06:56 +0000 2018",
+				"favourites_count": 108488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1553837343576100869/l3JzgqlV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1553837343576100869/l3JzgqlV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069140847403458560/1659298666",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 50,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fo sho im already working on it💫\nlook forward for drama/movie too https://t.co/Pl0YpbTjIG"
+	},
+	{
 		"created_at": "Tue Aug 02 15:29:39 +0000 2022",
 		"id": 1554482164674318300,
 		"id_str": "1554489611266801671",
