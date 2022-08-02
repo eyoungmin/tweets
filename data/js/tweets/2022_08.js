@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 12:40:29 +0000 2022",
+		"id": 1554444593457799200,
+		"id_str": "1554447042226921472",
+		"full_text": "@nakedbi_bing 아니쥐 사도박이 하류인생공주님의 프리퀄이쥐",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbi_bing",
+					"name": "빙빙:",
+					"id": 1373120381888782300,
+					"id_str": "1373120381888782336",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540728298509983700,
+		"in_reply_to_status_id_str": "1540728298509983744",
+		"in_reply_to_user_id": 1373120381888782300,
+		"in_reply_to_user_id_str": "1373120381888782336",
+		"in_reply_to_screen_name": "nakedbi_bing",
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81592,
+			"friends_count": 4,
+			"listed_count": 187,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nakedbi_bing 아니쥐 사도박이 하류인생공주님의 프리퀄이쥐"
+	},
+	{
+		"created_at": "Tue Aug 02 12:40:26 +0000 2022",
+		"id": 1554437044939550700,
+		"id_str": "1554447029111345152",
+		"full_text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤‍🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554437038287380500,
+					"id_str": "1554437038287380480",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJ4QCTUYAAkwpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJ4QCTUYAAkwpx.jpg",
+					"url": "https://t.co/fdsfhwZ59L",
+					"display_url": "pic.twitter.com/fdsfhwZ59L",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1554437044939550721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554437038287380500,
+					"id_str": "1554437038287380480",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZJ4QCTUYAAkwpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZJ4QCTUYAAkwpx.jpg",
+					"url": "https://t.co/fdsfhwZ59L",
+					"display_url": "pic.twitter.com/fdsfhwZ59L",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1554437044939550721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18655,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예 / #Sunye]\n네이버 NOW. \"아이키의 떰즈업\" 9PM (KST) 📻\n\n언니들 조합 기다린 분들 \n손가락 발가락 모두 다 떰즈업~!!👍🏻👍🏻\n火요일에도 우리 마음에 불 지르러 온 선예와 내적댄스 유발하러 가보자고요❤‍🔥\n\n#Genuine #JustADancer https://t.co/fdsfhwZ59L"
+	},
+	{
+		"created_at": "Tue Aug 02 12:40:19 +0000 2022",
+		"id": 1554339849469325300,
+		"id_str": "1554446999138754562",
+		"full_text": "220728 #MCOUNTDOWN 현장포토\n#블리처스/#첫사랑(#CSR)/#ATBO/#TRENDZ(#트렌드지)/#Hezz(#홍의진)/#TAN/#MCND/#P1Harmony/#STAYC(#스테이씨)/#MCMINZY(with #은지(#브레이브걸스))/#니콜/#선예 \n\n▶️ More Photos\nhttps://t.co/pxG5oDz1xp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "블리처스",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "첫사랑",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "CSR",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "ATBO",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "TRENDZ",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "트렌드지",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "Hezz",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "홍의진",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "TAN",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "MCND",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "MCMINZY",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "은지",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "니콜",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						142,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxG5oDz1xp",
+					"expanded_url": "https://naver.me/G0IGQCvn",
+					"display_url": "naver.me/G0IGQCvn",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/gKJd4srK5X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gKJd4srK5X",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3820770,
+			"friends_count": 0,
+			"listed_count": 4667,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1649328771",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "220728 #MCOUNTDOWN 현장포토\n#블리처스/#첫사랑(#CSR)/#ATBO/#TRENDZ(#트렌드지)/#Hezz(#홍의진)/#TAN/#MCND/#P1Harmony/#STAYC(#스테이씨)/#MCMINZY(with #은지(#브레이브걸스))/#니콜/#선예 \n\n▶️ More Photos\nhttps://t.co/pxG5oDz1xp"
+	},
+	{
 		"created_at": "Tue Aug 02 10:40:21 +0000 2022",
 		"id": 1554410177452839000,
 		"id_str": "1554416809603960832",
