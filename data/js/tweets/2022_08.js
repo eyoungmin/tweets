@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 01 23:29:39 +0000 2022",
+		"id": 1554240567743332400,
+		"id_str": "1554248022799826944",
+		"full_text": "#공조2 와 함께 엘리트 북한 형사 #림철령 이즈 백!💥\n더 업그레이드된 #현빈 에게 위기란 오직 분위기뿐...😉🔥!\n\n#유해진 #임윤아 #다니엘헤니 #진선규\n#이석훈감독 #공조2_인터내셔날 #9월대개봉 https://t.co/KprFuFUi1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "림철령",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554150465797238800,
+					"id_str": "1554150465797238784",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FZFznUlaMAAZ8Aw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZFznUlaMAAZ8Aw.jpg",
+					"url": "https://t.co/KprFuFUi1L",
+					"display_url": "pic.twitter.com/KprFuFUi1L",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554240567743332352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554150465797238800,
+					"id_str": "1554150465797238784",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FZFznUlaMAAZ8Aw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZFznUlaMAAZ8Aw.jpg",
+					"url": "https://t.co/KprFuFUi1L",
+					"display_url": "pic.twitter.com/KprFuFUi1L",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554240567743332352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554150465801429000,
+					"id_str": "1554150465801428992",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FZFznUmaIAA8Anw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZFznUmaIAA8Anw.jpg",
+					"url": "https://t.co/KprFuFUi1L",
+					"display_url": "pic.twitter.com/KprFuFUi1L",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554240567743332352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331692,
+			"friends_count": 10670,
+			"listed_count": 258,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1658279103",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#공조2 와 함께 엘리트 북한 형사 #림철령 이즈 백!💥\n더 업그레이드된 #현빈 에게 위기란 오직 분위기뿐...😉🔥!\n\n#유해진 #임윤아 #다니엘헤니 #진선규\n#이석훈감독 #공조2_인터내셔날 #9월대개봉 https://t.co/KprFuFUi1L"
+	},
+	{
 		"created_at": "Mon Aug 01 19:40:16 +0000 2022",
 		"id": 1554189972479123500,
 		"id_str": "1554190293976506369",
