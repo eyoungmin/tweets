@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 14:40:10 +0000 2022",
+		"id": 1554457565303812000,
+		"id_str": "1554477161146454017",
+		"full_text": "케이팝의 새 시대를 열어갈 핫 루키 뉴진스🆕👖 갓기 토깽이들의 첫 스춤 보러 놀러와🐰 잠시 후 11시 최초공개! #BE_ORIGINAL #NewJeans #Attention! #뉴진스 @NewJeans_ADOR #STUDIOCHOOM\n\n▶ https://t.co/3WK4TPbC5L https://t.co/vVJxjl3MyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3WK4TPbC5L",
+					"expanded_url": "https://youtu.be/lgfXrQUx4go",
+					"display_url": "youtu.be/lgfXrQUx4go",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554457274982486000,
+					"id_str": "1554457274982486017",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKKp93aUAEJYJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKKp93aUAEJYJS.jpg",
+					"url": "https://t.co/vVJxjl3MyS",
+					"display_url": "pic.twitter.com/vVJxjl3MyS",
+					"expanded_url": "https://twitter.com/M2MPD/status/1554457565303812096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554457274982486000,
+					"id_str": "1554457274982486017",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKKp93aUAEJYJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKKp93aUAEJYJS.jpg",
+					"url": "https://t.co/vVJxjl3MyS",
+					"display_url": "pic.twitter.com/vVJxjl3MyS",
+					"expanded_url": "https://twitter.com/M2MPD/status/1554457565303812096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258499,
+			"friends_count": 469,
+			"listed_count": 1578,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3408,
+		"favorite_count": 4966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케이팝의 새 시대를 열어갈 핫 루키 뉴진스🆕👖 갓기 토깽이들의 첫 스춤 보러 놀러와🐰 잠시 후 11시 최초공개! #BE_ORIGINAL #NewJeans #Attention! #뉴진스 @NewJeans_ADOR #STUDIOCHOOM\n\n▶ https://t.co/3WK4TPbC5L https://t.co/vVJxjl3MyS"
+	},
+	{
 		"created_at": "Tue Aug 02 13:40:18 +0000 2022",
 		"id": 1554445157109342200,
 		"id_str": "1554462093092560896",
