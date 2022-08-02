@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 17:40:28 +0000 2022",
+		"id": 1554511961257279500,
+		"id_str": "1554522533411532800",
+		"full_text": "so excited for you to hear what my friend @Mattryder___ and I have been working on over the past few months, it's coming very soon! ✨ here’s a little clip of us making it in studio and having a nice guinness break 🍻 https://t.co/zOlxvCsDgG https://t.co/UgfAveVpOi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mattryder___",
+					"name": "Matt Ryder",
+					"id": 1186989865717641200,
+					"id_str": "1186989865717641216",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOlxvCsDgG",
+					"expanded_url": "https://birdy.lnk.to/riverbed",
+					"display_url": "birdy.lnk.to/riverbed",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554508896064209000,
+					"id_str": "1554508896064208896",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554508896064208896/img/vVS8wYMEvlPfosOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554508896064208896/img/vVS8wYMEvlPfosOi.jpg",
+					"url": "https://t.co/UgfAveVpOi",
+					"display_url": "pic.twitter.com/UgfAveVpOi",
+					"expanded_url": "https://twitter.com/birdy/status/1554511961257279489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554508896064209000,
+					"id_str": "1554508896064208896",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554508896064208896/img/vVS8wYMEvlPfosOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554508896064208896/img/vVS8wYMEvlPfosOi.jpg",
+					"url": "https://t.co/UgfAveVpOi",
+					"display_url": "pic.twitter.com/UgfAveVpOi",
+					"expanded_url": "https://twitter.com/birdy/status/1554511961257279489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11348,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554508896064208896/vid/320x568/brEHM4jOyKtIck5x.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554508896064208896/vid/720x1280/HIqaoSE2LJOWdB6C.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554508896064208896/vid/480x852/0RsgdP82ebCDdgce.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1554508896064208896/pl/7c_wno8_riexI7Bm.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "my song Quietly Yours is out now ✨\ntickets to my 2023 european tour are on sale  \nhttps://t.co/AOWSyIrkQ2",
+			"url": "https://t.co/AOWSyIrkQ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310522,
+			"friends_count": 177,
+			"listed_count": 1180,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "so excited for you to hear what my friend @Mattryder___ and I have been working on over the past few months, it's coming very soon! ✨ here’s a little clip of us making it in studio and having a nice guinness break 🍻 https://t.co/zOlxvCsDgG https://t.co/UgfAveVpOi"
+	},
+	{
 		"created_at": "Tue Aug 02 16:40:18 +0000 2022",
 		"id": 1554492800866979800,
 		"id_str": "1554507394482421761",
