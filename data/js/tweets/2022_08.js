@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 09:40:20 +0000 2022",
+		"id": 1554397282778644500,
+		"id_str": "1554401702853459970",
+		"full_text": "📣\n\nMBS/TBSドラマイズム「生き残った6人によると」の予告動画公開👀\n\nhttps://t.co/zO45FITPMZ\n\nエンディング主題歌\nLOONA「SICK LOVE Performed by LOONA ODD EYE CIRCLE⁺」\nを少しだけ聴けます🎧\n\n#LOONA \n#今月の少女\n#生き残った6人によると",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "生き残った6人によると",
+					"indices": [
+						153,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zO45FITPMZ",
+					"expanded_url": "https://youtu.be/KpruJ4zuUMI",
+					"display_url": "youtu.be/KpruJ4zuUMI",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94925,
+			"friends_count": 2,
+			"listed_count": 719,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 1799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📣\n\nMBS/TBSドラマイズム「生き残った6人によると」の予告動画公開👀\n\nhttps://t.co/zO45FITPMZ\n\nエンディング主題歌\nLOONA「SICK LOVE Performed by LOONA ODD EYE CIRCLE⁺」\nを少しだけ聴けます🎧\n\n#LOONA \n#今月の少女\n#生き残った6人によると"
+	},
+	{
+		"created_at": "Tue Aug 02 09:40:10 +0000 2022",
+		"id": 1554346601749000200,
+		"id_str": "1554401664458801153",
+		"full_text": "[쇼챔피언 444회(0803) 생방송 출연진]\nATEEZ / STAYC / 선예 / 니콜 / TO1 / P1Harmony / 퍼플키스(PURPLE KISS) / MC.MINZY with 은지(브레이브걸스) / Xdinary Heroes / YOUNITE / TAN / ATBO / 멋진녀석들 / TRENDZ(트렌드지) / 블리처스(BLITZERS) / 첫사랑(CSR)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXG31o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXG31o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191235,
+			"friends_count": 220,
+			"listed_count": 2180,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 1058,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 444회(0803) 생방송 출연진]\nATEEZ / STAYC / 선예 / 니콜 / TO1 / P1Harmony / 퍼플키스(PURPLE KISS) / MC.MINZY with 은지(브레이브걸스) / Xdinary Heroes / YOUNITE / TAN / ATBO / 멋진녀석들 / TRENDZ(트렌드지) / 블리처스(BLITZERS) / 첫사랑(CSR)"
+	},
+	{
+		"created_at": "Tue Aug 02 09:33:05 +0000 2022",
+		"id": 1554398789112250400,
+		"id_str": "1554399880751132672",
+		"full_text": "소녀시대 전 멤버 제시카가 중국에서 걸그룹으로 데뷔한다.\n#제시카 #승풍파랑 #Jessica #JessicaJung #乘风破浪3 \nhttps://t.co/kkX4OjTRyg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제시카",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "승풍파랑",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "Jessica",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "JessicaJung",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"text": "乘风破浪3",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kkX4OjTRyg",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/08/02/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80-%EC%B6%9C%EC%8B%A0-%EC%A0%9C%EC%8B%9C%EC%B9%B4-%EC%A4%91%EA%B5%AD%EC%97%90%EC%84%9C-%EA%B1%B8%EA%B7%B8%EB%A3%B9-%EB%8D%B0%EB%B7%94/?ddw=118259&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/08/02/%EC…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142660,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1656323299",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 전 멤버 제시카가 중국에서 걸그룹으로 데뷔한다.\n#제시카 #승풍파랑 #Jessica #JessicaJung #乘风破浪3 \nhttps://t.co/kkX4OjTRyg"
+	},
+	{
 		"created_at": "Tue Aug 02 08:40:21 +0000 2022",
 		"id": 1554383551277445000,
 		"id_str": "1554386611617538049",
