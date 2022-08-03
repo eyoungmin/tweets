@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 11:40:16 +0000 2022",
+		"id": 1554792773764518000,
+		"id_str": "1554794276109914112",
+		"full_text": "[#선예 / #Sunye] 220803 MBC M 쇼챔피언✨\n\nJust A Dancer - 선예\n\n▶️ https://t.co/LU7JZF20Do\n\n#Genuine #JustADancer \n#MBCM #쇼챔피언 #SHOWCHAMPION",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "MBCM",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LU7JZF20Do",
+					"expanded_url": "http://naver.me/FZquMAV5",
+					"display_url": "naver.me/FZquMAV5",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18658,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예 / #Sunye] 220803 MBC M 쇼챔피언✨\n\nJust A Dancer - 선예\n\n▶️ https://t.co/LU7JZF20Do\n\n#Genuine #JustADancer \n#MBCM #쇼챔피언 #SHOWCHAMPION"
+	},
+	{
 		"created_at": "Wed Aug 03 10:40:12 +0000 2022",
 		"id": 1554769046901469200,
 		"id_str": "1554779158282207235",
