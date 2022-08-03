@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 07:40:17 +0000 2022",
+		"id": 1554733175871418400,
+		"id_str": "1554733879432445953",
+		"full_text": "Girls’ Generation 소녀시대 ‘FOREVER 1’ Countdown Live\n2022.8.5(FRI) 4:30PM (KST)\n\n💖 https://t.co/SYBymoxDxR \n💖 https://t.co/5yyBRffcdd\n\n#GirlsGeneration #소녀시대 #FOREVER1 https://t.co/ZdEeuVaVBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SYBymoxDxR",
+					"expanded_url": "https://youtu.be/0qmjFQOin8w",
+					"display_url": "youtu.be/0qmjFQOin8w",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/5yyBRffcdd",
+					"expanded_url": "https://www.tiktok.com/@girlsgeneration.official",
+					"display_url": "tiktok.com/@girlsgenerati…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554733157718429700,
+					"id_str": "1554733157718429701",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOFkdJUEAUVIFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOFkdJUEAUVIFw.jpg",
+					"url": "https://t.co/ZdEeuVaVBN",
+					"display_url": "pic.twitter.com/ZdEeuVaVBN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554733175871418368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554733157718429700,
+					"id_str": "1554733157718429701",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOFkdJUEAUVIFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOFkdJUEAUVIFw.jpg",
+					"url": "https://t.co/ZdEeuVaVBN",
+					"display_url": "pic.twitter.com/ZdEeuVaVBN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554733175871418368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845170,
+			"friends_count": 5,
+			"listed_count": 6090,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2938,
+		"favorite_count": 4524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation 소녀시대 ‘FOREVER 1’ Countdown Live\n2022.8.5(FRI) 4:30PM (KST)\n\n💖 https://t.co/SYBymoxDxR \n💖 https://t.co/5yyBRffcdd\n\n#GirlsGeneration #소녀시대 #FOREVER1 https://t.co/ZdEeuVaVBN"
+	},
+	{
+		"created_at": "Wed Aug 03 07:40:09 +0000 2022",
+		"id": 1554703838279393300,
+		"id_str": "1554733849531355136",
+		"full_text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️‍🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554703824484307000,
+					"id_str": "1554703824484306945",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNq5CVUEAEvptq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNq5CVUEAEvptq.jpg",
+					"url": "https://t.co/OGQzW8GCp4",
+					"display_url": "pic.twitter.com/OGQzW8GCp4",
+					"expanded_url": "https://twitter.com/showchampion1/status/1554703838279393280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554703824484307000,
+					"id_str": "1554703824484306945",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNq5CVUEAEvptq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNq5CVUEAEvptq.jpg",
+					"url": "https://t.co/OGQzW8GCp4",
+					"display_url": "pic.twitter.com/OGQzW8GCp4",
+					"expanded_url": "https://twitter.com/showchampion1/status/1554703838279393280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554703824555630600,
+					"id_str": "1554703824555630592",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNq5CmUYAA4ko9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNq5CmUYAA4ko9.jpg",
+					"url": "https://t.co/OGQzW8GCp4",
+					"display_url": "pic.twitter.com/OGQzW8GCp4",
+					"expanded_url": "https://twitter.com/showchampion1/status/1554703838279393280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/7GtjyXG31o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7GtjyXG31o",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1191376,
+			"friends_count": 220,
+			"listed_count": 2179,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️‍🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4"
+	},
+	{
 		"created_at": "Wed Aug 03 05:40:10 +0000 2022",
 		"id": 1554693567880507400,
 		"id_str": "1554703654690689024",
