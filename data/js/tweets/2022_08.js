@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 08:40:12 +0000 2022",
+		"id": 1554748854423105500,
+		"id_str": "1554748959368925185",
+		"full_text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵‍💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻‍♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TO1",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "재윤",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"text": "후크선장_댄스",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "YEOJEONG",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "JAEYUN",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "제뉴인",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "저스트어댄서_챌린지",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"text": "JustADancer_Challenge",
+					"indices": [
+						184,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rHF8TLD0fv",
+					"expanded_url": "https://www.tiktok.com/@sunye.m/video/7127563904187649282?_t=8UWKNO7J61K&_r=1",
+					"display_url": "tiktok.com/@sunye.m/video…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18657,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵‍💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻‍♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge"
+	},
+	{
 		"created_at": "Wed Aug 03 07:40:17 +0000 2022",
 		"id": 1554733175871418400,
 		"id_str": "1554733879432445953",
@@ -220,7 +436,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Wed Aug 03 07:40:09 +0000 2022",
 		"id": 1554703838279393300,
 		"id_str": "1554733849531355136",
-		"full_text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️‍🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4",
+		"full_text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -454,7 +670,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️‍🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4"
+		"text": "꿀 보이스 섹시 솔로 퀸 갓선예 ❤️🔥 #선예 매력에 흠뻑 홀려버려 헤어나올 수 없는데 어떡하죠? 어쩌긴! 춤이나 추자 나답게‼️ just a dance dance〰️💃🏻\n\n#쇼챔피언 #Sunye #JustADancer https://t.co/OGQzW8GCp4"
 	},
 	{
 		"created_at": "Wed Aug 03 05:40:10 +0000 2022",
