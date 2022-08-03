@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 16:40:10 +0000 2022",
+		"id": 1554859535671726000,
+		"id_str": "1554869747237457925",
+		"full_text": "Due to planned industrial action on the London Underground network, Coldplay's Wembley Stadium concert on Friday 19 August 2022 has had to be rescheduled for Sunday 21 August 2022.\n\nFull statement below and at https://t.co/Uog9swBMoB https://t.co/xkDF35p8tF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uog9swBMoB",
+					"expanded_url": "https://www.coldplay.com/19-august-wembley-show-moves-to-21-august/",
+					"display_url": "coldplay.com/19-august-wemb…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554859369405235200,
+					"id_str": "1554859369405235201",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FZP4W8UWQAElE3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZP4W8UWQAElE3p.jpg",
+					"url": "https://t.co/xkDF35p8tF",
+					"display_url": "pic.twitter.com/xkDF35p8tF",
+					"expanded_url": "https://twitter.com/coldplay/status/1554859535671726085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554859369405235200,
+					"id_str": "1554859369405235201",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FZP4W8UWQAElE3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZP4W8UWQAElE3p.jpg",
+					"url": "https://t.co/xkDF35p8tF",
+					"display_url": "pic.twitter.com/xkDF35p8tF",
+					"expanded_url": "https://twitter.com/coldplay/status/1554859535671726085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602966,
+			"friends_count": 777,
+			"listed_count": 42467,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 1087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Due to planned industrial action on the London Underground network, Coldplay's Wembley Stadium concert on Friday 19 August 2022 has had to be rescheduled for Sunday 21 August 2022.\n\nFull statement below and at https://t.co/Uog9swBMoB https://t.co/xkDF35p8tF"
+	},
+	{
 		"created_at": "Wed Aug 03 15:29:39 +0000 2022",
 		"id": 1554844550530797600,
 		"id_str": "1554852002370359298",
