@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 17:40:39 +0000 2022",
+		"id": 1554878037094719500,
+		"id_str": "1554884968949911552",
+		"full_text": "Here’s @Mattryder___ and I playing ‘Riverbed’ which is out on Friday! It’s been so special writing this song together and hearing Matt transform and create a beautiful world around it, I can’t wait for you to hear 💙 https://t.co/zOlxvCsDgG https://t.co/atY6lGs3oS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mattryder___",
+					"name": "Matt Ryder",
+					"id": 1186989865717641200,
+					"id_str": "1186989865717641216",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOlxvCsDgG",
+					"expanded_url": "https://birdy.lnk.to/riverbed",
+					"display_url": "birdy.lnk.to/riverbed",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554877917842346000,
+					"id_str": "1554877917842345984",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554877917842345984/pu/img/737dma-2ocarHTlr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554877917842345984/pu/img/737dma-2ocarHTlr.jpg",
+					"url": "https://t.co/atY6lGs3oS",
+					"display_url": "pic.twitter.com/atY6lGs3oS",
+					"expanded_url": "https://twitter.com/birdy/status/1554878037094719489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554877917842346000,
+					"id_str": "1554877917842345984",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554877917842345984/pu/img/737dma-2ocarHTlr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554877917842345984/pu/img/737dma-2ocarHTlr.jpg",
+					"url": "https://t.co/atY6lGs3oS",
+					"display_url": "pic.twitter.com/atY6lGs3oS",
+					"expanded_url": "https://twitter.com/birdy/status/1554878037094719489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36760,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554877917842345984/pu/vid/540x540/RsGOsild9qHmo2YU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1554877917842345984/pu/pl/lNhx2TX6TCseg0OD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554877917842345984/pu/vid/320x320/SnOMKi_lpdiMLVv2.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554877917842345984/pu/vid/720x720/I9yylYVP0kCyxQO8.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "my song Quietly Yours is out now ✨\ntickets to my 2023 european tour are on sale  \nhttps://t.co/AOWSyIrkQ2",
+			"url": "https://t.co/AOWSyIrkQ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyIrkQ2",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310508,
+			"friends_count": 177,
+			"listed_count": 1180,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s @Mattryder___ and I playing ‘Riverbed’ which is out on Friday! It’s been so special writing this song together and hearing Matt transform and create a beautiful world around it, I can’t wait for you to hear 💙 https://t.co/zOlxvCsDgG https://t.co/atY6lGs3oS"
+	},
+	{
 		"created_at": "Wed Aug 03 16:40:10 +0000 2022",
 		"id": 1554859535671726000,
 		"id_str": "1554869747237457925",
