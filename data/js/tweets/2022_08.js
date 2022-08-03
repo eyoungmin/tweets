@@ -1,6 +1,1222 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 01:40:35 +0000 2022",
+		"id": 1554635212273127400,
+		"id_str": "1554643361230999553",
+		"full_text": "aespa’s ‘Girls’ charts on the ‘Billboard 200’ and ‘Artist 100’ charts for three weeks in a row! \nThey have held places on 7 Billboard charts for three weeks, proving their long-run global popularity! \n\nhttps://t.co/G2GyWc4sxw\n\n#aespa \n#Girls #aespa_Girls \n#Billboard200 #Artist100",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						242,
+						254
+					]
+				},
+				{
+					"text": "Billboard200",
+					"indices": [
+						256,
+						269
+					]
+				},
+				{
+					"text": "Artist100",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G2GyWc4sxw",
+					"expanded_url": "https://bit.ly/3Qbvhhz",
+					"display_url": "bit.ly/3Qbvhhz",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1554635209467101200,
+		"in_reply_to_status_id_str": "1554635209467101185",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3026987,
+			"friends_count": 2,
+			"listed_count": 9213,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 2987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa’s ‘Girls’ charts on the ‘Billboard 200’ and ‘Artist 100’ charts for three weeks in a row! \nThey have held places on 7 Billboard charts for three weeks, proving their long-run global popularity! \n\nhttps://t.co/G2GyWc4sxw\n\n#aespa \n#Girls #aespa_Girls \n#Billboard200 #Artist100"
+	},
+	{
+		"created_at": "Wed Aug 03 01:40:28 +0000 2022",
+		"id": 1554635209467101200,
+		"id_str": "1554643331350777857",
+		"full_text": "에스파 ‘Girls’, 美 ‘빌보드 200’-‘아티스트 100’ 3주 연속 차트인!\n빌보드 7개 차트 3주 연속 진입! 롱런 인기 행진!\n\nhttps://t.co/G2GyWc4sxw\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#Billboard200 #Artist100 https://t.co/IVcYC4FHdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "Billboard200",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "Artist100",
+					"indices": [
+						156,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G2GyWc4sxw",
+					"expanded_url": "https://bit.ly/3Qbvhhz",
+					"display_url": "bit.ly/3Qbvhhz",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554635200449368000,
+					"id_str": "1554635200449368064",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMsel4aUAA7CPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMsel4aUAA7CPx.jpg",
+					"url": "https://t.co/IVcYC4FHdP",
+					"display_url": "pic.twitter.com/IVcYC4FHdP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1554635209467101185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554635200449368000,
+					"id_str": "1554635200449368064",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMsel4aUAA7CPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMsel4aUAA7CPx.jpg",
+					"url": "https://t.co/IVcYC4FHdP",
+					"display_url": "pic.twitter.com/IVcYC4FHdP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1554635209467101185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3026987,
+			"friends_count": 2,
+			"listed_count": 9213,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1952,
+		"favorite_count": 8989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 ‘Girls’, 美 ‘빌보드 200’-‘아티스트 100’ 3주 연속 차트인!\n빌보드 7개 차트 3주 연속 진입! 롱런 인기 행진!\n\nhttps://t.co/G2GyWc4sxw\n\n#aespa #æspa #에스파\n#Girls #aespa_Girls \n#Billboard200 #Artist100 https://t.co/IVcYC4FHdP"
+	},
+	{
+		"created_at": "Wed Aug 03 01:40:24 +0000 2022",
+		"id": 1554633460975009800,
+		"id_str": "1554643313973682185",
+		"full_text": "Girls' Generation’s 7th full length album, ‘FOREVER 1’, has a variety of musical color and is packed full of charm!\nSome B-side tracks include rhythmic song ‘Closer’, dreamy ‘Freedom’, and sweet ‘Summer Night’!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1554633459330859000,
+		"in_reply_to_status_id_str": "1554633459330859008",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3844902,
+			"friends_count": 5,
+			"listed_count": 6088,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1111,
+		"favorite_count": 2742,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls' Generation’s 7th full length album, ‘FOREVER 1’, has a variety of musical color and is packed full of charm!\nSome B-side tracks include rhythmic song ‘Closer’, dreamy ‘Freedom’, and sweet ‘Summer Night’!"
+	},
+	{
+		"created_at": "Wed Aug 03 01:40:10 +0000 2022",
+		"id": 1554629073845948400,
+		"id_str": "1554643254326460417",
+		"full_text": "인원체크 마감하였으며 재모임시간은 10시 30분입니다! 동일한 장소에서 모여주세요. https://t.co/oyaV6zlxrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oyaV6zlxrN",
+					"expanded_url": "https://twitter.com/bbc_blockberry/status/1554621428707708928",
+					"display_url": "twitter.com/bbc_blockberry…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18656,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554621428707709000,
+		"quoted_status_id_str": "1554621428707708928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oyaV6zlxrN",
+			"expanded": "https://twitter.com/bbc_blockberry/status/1554621428707708928",
+			"display": "twitter.com/bbc_blockberry…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 03 00:13:26 +0000 2022",
+			"id": 1554621428707709000,
+			"id_str": "1554621428707708928",
+			"full_text": "[#선예]\n2022.08.03 (수) 쇼챔피언 사전녹화 인원체크 안내📣\n\n✔️줄 서는 시간 9:20AM \n✔️번호 배부 시간 9:30AM \n\n사진 속 장소에서 10분 전까지 번호대로 줄을 서주시기 바랍니다.\n\n#Sunye https://t.co/agP8CTAM6e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "선예",
+						"indices": [
+							1,
+							4
+						]
+					},
+					{
+						"text": "Sunye",
+						"indices": [
+							117,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1554621420717584400,
+						"id_str": "1554621420717584385",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/FZMf8gYVsAEXWrA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZMf8gYVsAEXWrA.jpg",
+						"url": "https://t.co/agP8CTAM6e",
+						"display_url": "pic.twitter.com/agP8CTAM6e",
+						"expanded_url": "https://twitter.com/BBC_blockberry/status/1554621428707708928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1554621420717584400,
+						"id_str": "1554621420717584385",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/FZMf8gYVsAEXWrA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZMf8gYVsAEXWrA.jpg",
+						"url": "https://t.co/agP8CTAM6e",
+						"display_url": "pic.twitter.com/agP8CTAM6e",
+						"expanded_url": "https://twitter.com/BBC_blockberry/status/1554621428707708928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1496008272398418000,
+				"id_str": "1496008272398417930",
+				"name": "BlockBerryCreative",
+				"screen_name": "BBC_blockberry",
+				"location": "",
+				"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+				"url": "https://t.co/zoTXadc3lA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zoTXadc3lA",
+								"expanded_url": "http://blockberrycreative.com",
+								"display_url": "blockberrycreative.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18656,
+				"friends_count": 2,
+				"listed_count": 64,
+				"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 122,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인원체크 마감하였으며 재모임시간은 10시 30분입니다! 동일한 장소에서 모여주세요. https://t.co/oyaV6zlxrN"
+	},
+	{
+		"created_at": "Wed Aug 03 01:29:48 +0000 2022",
+		"id": 1554638843751542800,
+		"id_str": "1554640645830201345",
+		"full_text": "[종합예고]\n\n소원계의 어벤져스??👀\n8월 10일(수) 밤 9시 50분 첫방송!\n여러분을 초대합니다✨️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/d4CrrkZ6OM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						175,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554638707570851800,
+					"id_str": "1554638707570851842",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554638707570851842/pu/img/-U3HS2Nwz1RZ327-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554638707570851842/pu/img/-U3HS2Nwz1RZ327-.jpg",
+					"url": "https://t.co/d4CrrkZ6OM",
+					"display_url": "pic.twitter.com/d4CrrkZ6OM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1554638843751542784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554638707570851800,
+					"id_str": "1554638707570851842",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554638707570851842/pu/img/-U3HS2Nwz1RZ327-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554638707570851842/pu/img/-U3HS2Nwz1RZ327-.jpg",
+					"url": "https://t.co/d4CrrkZ6OM",
+					"display_url": "pic.twitter.com/d4CrrkZ6OM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1554638843751542784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41408,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554638707570851842/pu/vid/640x360/F3p0Vzi4HP2Og8VD.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554638707570851842/pu/vid/480x270/r_t3pDVxP4CsHnpR.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554638707570851842/pu/vid/1280x720/FgI6CDlqPED_1nmN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1554638707570851842/pu/pl/fwGC89hKLZ5tkOB3.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105744,
+			"friends_count": 56732,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[종합예고]\n\n소원계의 어벤져스??👀\n8월 10일(수) 밤 9시 50분 첫방송!\n여러분을 초대합니다✨️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/d4CrrkZ6OM"
+	},
+	{
+		"created_at": "Wed Aug 03 01:29:42 +0000 2022",
+		"id": 1554633459330859000,
+		"id_str": "1554640619871633414",
+		"full_text": "소녀시대 정규 7집 ‘FOREVER 1’ 다채로운 음악 색깔로 매력 UP!\n리드미컬한 ‘Closer’, 몽환적인 ‘Freedom’, 스윗한 ‘완벽한 장면’ 수록!\n\nhttps://t.co/lVmQDzLFnI\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#Closer \n#Freedom  \n#완벽한장면 #SummerNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "Freedom",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "완벽한장면",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						177,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lVmQDzLFnI",
+					"expanded_url": "https://bit.ly/3Qc5bdN",
+					"display_url": "bit.ly/3Qc5bdN",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3844902,
+			"friends_count": 5,
+			"listed_count": 6088,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1234,
+		"favorite_count": 3010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 정규 7집 ‘FOREVER 1’ 다채로운 음악 색깔로 매력 UP!\n리드미컬한 ‘Closer’, 몽환적인 ‘Freedom’, 스윗한 ‘완벽한 장면’ 수록!\n\nhttps://t.co/lVmQDzLFnI\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#Closer \n#Freedom  \n#완벽한장면 #SummerNight"
+	},
+	{
 		"created_at": "Wed Aug 03 00:40:33 +0000 2022",
 		"id": 1554620562743459800,
 		"id_str": "1554628250323759104",
@@ -435,7 +1651,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Wed Aug 03 00:40:21 +0000 2022",
 		"id": 1554618046832005000,
 		"id_str": "1554628202861142020",
-		"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw",
+		"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃♀️🏃♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -671,7 +1887,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw"
+		"text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃♀️🏃♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw"
 	},
 	{
 		"created_at": "Wed Aug 03 00:40:12 +0000 2022",
