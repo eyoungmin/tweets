@@ -1,10 +1,593 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 03:40:29 +0000 2022",
+		"id": 1554670889551024000,
+		"id_str": "1554673533803978757",
+		"full_text": "💗Countdown To Girls' Generation's 15th Anniversary!💗\n\n#GirlsGeneration left special messages for S♡NE! Follow [This Is Girls' Generation] playlist for more updates!\n\nhttps://t.co/3GmjalrcDY \nhttps://t.co/19pKXRMFOn\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n@SpotifyKpop @SpotifyKR https://t.co/6ePh44DjJv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						233,
+						238
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						263,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3GmjalrcDY",
+					"expanded_url": "https://spoti.fi/3Jqmk0Z",
+					"display_url": "spoti.fi/3Jqmk0Z",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/19pKXRMFOn",
+					"expanded_url": "https://spoti.fi/3SqeUPp",
+					"display_url": "spoti.fi/3SqeUPp",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554670481478787000,
+					"id_str": "1554670481478787072",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNMkN9UIAA5VoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNMkN9UIAA5VoF.jpg",
+					"url": "https://t.co/6ePh44DjJv",
+					"display_url": "pic.twitter.com/6ePh44DjJv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554670889551024129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554670481478787000,
+					"id_str": "1554670481478787072",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNMkN9UIAA5VoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNMkN9UIAA5VoF.jpg",
+					"url": "https://t.co/6ePh44DjJv",
+					"display_url": "pic.twitter.com/6ePh44DjJv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554670889551024129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845001,
+			"friends_count": 5,
+			"listed_count": 6087,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3129,
+		"favorite_count": 5461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗Countdown To Girls' Generation's 15th Anniversary!💗\n\n#GirlsGeneration left special messages for S♡NE! Follow [This Is Girls' Generation] playlist for more updates!\n\nhttps://t.co/3GmjalrcDY \nhttps://t.co/19pKXRMFOn\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n@SpotifyKpop @SpotifyKR https://t.co/6ePh44DjJv"
+	},
+	{
+		"created_at": "Wed Aug 03 03:40:12 +0000 2022",
+		"id": 1554660358232604700,
+		"id_str": "1554673464128192512",
+		"full_text": "[#선예]\n2022.08.03 (수) 쇼챔피언 생방송 인원체크 안내📣\n\n✔시간 4:40PM\n✔ 장소 : 일산 MBC 드림센터 1층 로비 \n✔️참여 인원 : 금일 배부받은 스티커 번호 순 5명\n\n본방송 입장 인원은 현장 상황에 따라 변동될 수 있습니다❗\n*카메라 소지 금지\n\n#Sunye https://t.co/ZZaNhT94Wo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554660345469251600,
+					"id_str": "1554660345469251584",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNDWOYUsAAO04j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNDWOYUsAAO04j.jpg",
+					"url": "https://t.co/ZZaNhT94Wo",
+					"display_url": "pic.twitter.com/ZZaNhT94Wo",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1554660358232604675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554660345469251600,
+					"id_str": "1554660345469251584",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNDWOYUsAAO04j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZNDWOYUsAAO04j.jpg",
+					"url": "https://t.co/ZZaNhT94Wo",
+					"display_url": "pic.twitter.com/ZZaNhT94Wo",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1554660358232604675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18656,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예]\n2022.08.03 (수) 쇼챔피언 생방송 인원체크 안내📣\n\n✔시간 4:40PM\n✔ 장소 : 일산 MBC 드림센터 1층 로비 \n✔️참여 인원 : 금일 배부받은 스티커 번호 순 5명\n\n본방송 입장 인원은 현장 상황에 따라 변동될 수 있습니다❗\n*카메라 소지 금지\n\n#Sunye https://t.co/ZZaNhT94Wo"
+	},
+	{
+		"created_at": "Wed Aug 03 03:29:39 +0000 2022",
+		"id": 1554664052030201900,
+		"id_str": "1554670805384060928",
+		"full_text": "[임윤아] 생활력 만렙 간호사! 내가 고미호다!\n\n포스트 보러 가기 👉🏻 https://t.co/IHCK7el1UI\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						106,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IHCK7el1UI",
+					"expanded_url": "https://naver.me/5MDgMwCH",
+					"display_url": "naver.me/5MDgMwCH",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061073,
+			"friends_count": 56,
+			"listed_count": 12487,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 752,
+		"favorite_count": 2219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[임윤아] 생활력 만렙 간호사! 내가 고미호다!\n\n포스트 보러 가기 👉🏻 https://t.co/IHCK7el1UI\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Aug 03 02:45:40 +0000 2022",
 		"id": 1554648245296681000,
 		"id_str": "1554659739438616576",
-		"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs",
+		"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃♀️🏃♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -143,7 +726,7 @@ Grailbird.data.tweets_2022_08 =
 			"created_at": "Wed Aug 03 00:00:00 +0000 2022",
 			"id": 1554618046832005000,
 			"id_str": "1554618046832005120",
-			"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw",
+			"full_text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 for ORBIT to keep cool in the summer\nㄴFlip that, that, that, that, that, that, that~\nFlip the summer upside down 🏃♀️🏃♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/LCRufBITUw",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -386,7 +969,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃‍♀️🏃‍♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs"
+		"text": "[LOONA CHECK IN]\n𝐋𝐎𝐎𝐍𝐀 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 이달소 여름엔 더위는 안왔으면 좋겠어\nㄴ플립댓 댓댓댓댓댓~ 더위 대신 오빛 거의 도착함요🏃♀️🏃♂️\n\n#KCON #KCONUSA #KCON2022LA @loonatheworld https://t.co/QspCMsJXgs"
 	},
 	{
 		"created_at": "Wed Aug 03 02:40:17 +0000 2022",
