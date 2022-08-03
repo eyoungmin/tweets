@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 23:29:39 +0000 2022",
+		"id": 1554602950990827500,
+		"id_str": "1554610408480292867",
+		"full_text": "아직도 짠내 나는 남한 형사 #강진태 이즈 백!😎\n웃음과 액션 풀 무장 완료! #공조2 로 제대~로 모시겠습니다!🔥\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #9월대개봉 https://t.co/tF8CKz5E3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강진태",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554496772743241700,
+					"id_str": "1554496772743241728",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKulCfaIAA1-hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKulCfaIAA1-hj.jpg",
+					"url": "https://t.co/tF8CKz5E3C",
+					"display_url": "pic.twitter.com/tF8CKz5E3C",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554602950990827522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554496772743241700,
+					"id_str": "1554496772743241728",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKulCfaIAA1-hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKulCfaIAA1-hj.jpg",
+					"url": "https://t.co/tF8CKz5E3C",
+					"display_url": "pic.twitter.com/tF8CKz5E3C",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554602950990827522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554496772760027100,
+					"id_str": "1554496772760027136",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKulCjaQAAMpMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKulCjaQAAMpMD.jpg",
+					"url": "https://t.co/tF8CKz5E3C",
+					"display_url": "pic.twitter.com/tF8CKz5E3C",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554602950990827522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331721,
+			"friends_count": 10669,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1658279103",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아직도 짠내 나는 남한 형사 #강진태 이즈 백!😎\n웃음과 액션 풀 무장 완료! #공조2 로 제대~로 모시겠습니다!🔥\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #9월대개봉 https://t.co/tF8CKz5E3C"
+	},
+	{
 		"created_at": "Tue Aug 02 21:45:37 +0000 2022",
 		"id": 1554573425657712600,
 		"id_str": "1554584228268068865",
