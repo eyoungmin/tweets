@@ -1,10 +1,341 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 09:40:10 +0000 2022",
+		"id": 1554753954206072800,
+		"id_str": "1554764049002496000",
+		"full_text": "💾2022년 08월 인가 월간 하드털이\n\n월간 하드털이 쿨타임 찼다. 이번엔 이달의 소녀다🌙\nㄴ 맨날 쿨타임 핑계로 미공개 포토 푸는 인가..\n\n🔗https://t.co/G7HVAhewc4\n\n#인기가요 #inkigayo #인가하드털이 #이달의소녀 #LOONA #FlipThat @loonatheworld @loonaStaff @loonaJPofficial https://t.co/EIp2W5lr7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "인가하드털이",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "FlipThat",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"screen_name": "loonaStaff",
+					"name": "이달의 소녀 Staff",
+					"id": 773078392660856800,
+					"id_str": "773078392660856832",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G7HVAhewc4",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboards/71199?cmd=list&board_prev_module=write",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554717271935045600,
+					"id_str": "1554717271935045632",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FZN3Hx_aUAAeWdZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZN3Hx_aUAAeWdZ.jpg",
+					"url": "https://t.co/EIp2W5lr7S",
+					"display_url": "pic.twitter.com/EIp2W5lr7S",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1554753954206072833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554717271935045600,
+					"id_str": "1554717271935045632",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FZN3Hx_aUAAeWdZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZN3Hx_aUAAeWdZ.jpg",
+					"url": "https://t.co/EIp2W5lr7S",
+					"display_url": "pic.twitter.com/EIp2W5lr7S",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1554753954206072833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554716391760347100,
+					"id_str": "1554716391760347136",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FZN2UjFaQAAEdke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZN2UjFaQAAEdke.jpg",
+					"url": "https://t.co/EIp2W5lr7S",
+					"display_url": "pic.twitter.com/EIp2W5lr7S",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1554753954206072833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554716477475143700,
+					"id_str": "1554716477475143686",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FZN2ZiZaQAYtlX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZN2ZiZaQAYtlX4.jpg",
+					"url": "https://t.co/EIp2W5lr7S",
+					"display_url": "pic.twitter.com/EIp2W5lr7S",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1554753954206072833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS 인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "",
+			"description": "인기가요 공식 트위터 (SBS Inkigayo Official Twitter) \n📸 인가 홈마 상시 대기 중 \n#PD노트 #하드털이 #엔딩맛집",
+			"url": "https://t.co/XOLUHL4yNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOLUHL4yNY",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo",
+							"display_url": "programs.sbs.co.kr/enter/gayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186881,
+			"friends_count": 65,
+			"listed_count": 560,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1657180917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 1786,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💾2022년 08월 인가 월간 하드털이\n\n월간 하드털이 쿨타임 찼다. 이번엔 이달의 소녀다🌙\nㄴ 맨날 쿨타임 핑계로 미공개 포토 푸는 인가..\n\n🔗https://t.co/G7HVAhewc4\n\n#인기가요 #inkigayo #인가하드털이 #이달의소녀 #LOONA #FlipThat @loonatheworld @loonaStaff @loonaJPofficial https://t.co/EIp2W5lr7S"
+	},
+	{
 		"created_at": "Wed Aug 03 08:40:12 +0000 2022",
 		"id": 1554748854423105500,
 		"id_str": "1554748959368925185",
-		"full_text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵‍💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻‍♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge",
+		"full_text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -214,7 +545,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵‍💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻‍♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge"
+		"text": "그렇게 좀 웃지 마세요 어질 어질 Drummin' 하니까 😵💫\n#TO1 #여정 #재윤 과 함께한 #JustADancer #후크선장_댄스 🧜🏻♀🥁\n\n▶️ https://t.co/rHF8TLD0fv\n\n@TO1_offcl\n#선예 #Sunye #YEOJEONG #JAEYUN #티오원\n#제뉴인 #Genuine \n#저스트어댄서_챌린지 #JustADancer_Challenge"
 	},
 	{
 		"created_at": "Wed Aug 03 07:40:17 +0000 2022",
