@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 10:40:12 +0000 2022",
+		"id": 1554769046901469200,
+		"id_str": "1554779158282207235",
+		"full_text": "[📸]\n\nGirls活動記、3日目はGISELLEの写真をお届け🫡🌙🤍\n\n#aespa #æspa #에스파 #エスパ\n#GISELLE #ジゼル\n#Girls #aespa_Girls\n#Girls活動記 https://t.co/L7nn59AnVG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "ジゼル",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "aespa_Girls",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "Girls活動記",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553963547415433200,
+					"id_str": "1553963547415433216",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDJnPWaUAAnm06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDJnPWaUAAnm06.jpg",
+					"url": "https://t.co/L7nn59AnVG",
+					"display_url": "pic.twitter.com/L7nn59AnVG",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554769046901469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 1434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553963547415433200,
+					"id_str": "1553963547415433216",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDJnPWaUAAnm06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDJnPWaUAAnm06.jpg",
+					"url": "https://t.co/L7nn59AnVG",
+					"display_url": "pic.twitter.com/L7nn59AnVG",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554769046901469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 1434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553963617305116700,
+					"id_str": "1553963617305116673",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDJrTtaQAEBA9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDJrTtaQAEBA9u.jpg",
+					"url": "https://t.co/L7nn59AnVG",
+					"display_url": "pic.twitter.com/L7nn59AnVG",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554769046901469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 947,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553963679666024400,
+					"id_str": "1553963679666024448",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDJu8BaMAAHemu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDJu8BaMAAHemu.jpg",
+					"url": "https://t.co/L7nn59AnVG",
+					"display_url": "pic.twitter.com/L7nn59AnVG",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554769046901469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 955,
+							"h": 1343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553963787405111300,
+					"id_str": "1553963787405111296",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FZDJ1NYaMAAdDM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZDJ1NYaMAAdDM8.jpg",
+					"url": "https://t.co/L7nn59AnVG",
+					"display_url": "pic.twitter.com/L7nn59AnVG",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1554769046901469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1123,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184862,
+			"friends_count": 1,
+			"listed_count": 458,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2886,
+		"favorite_count": 11332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📸]\n\nGirls活動記、3日目はGISELLEの写真をお届け🫡🌙🤍\n\n#aespa #æspa #에스파 #エスパ\n#GISELLE #ジゼル\n#Girls #aespa_Girls\n#Girls活動記 https://t.co/L7nn59AnVG"
+	},
+	{
+		"created_at": "Wed Aug 03 10:21:49 +0000 2022",
+		"id": 1554763405021823000,
+		"id_str": "1554774532149239808",
+		"full_text": "[유라]\n이적 Curated 04 유라 &lt;1&gt;\n\n📌아티스트 유라 (youra)가 첫 번째 단독 콘서트를 진행 합니다!\n\n공연 일시: 2022년 8월 27일(토) 오후 7시, 28일(일) 오후 6시\n공연 장소: 현대카드 언더스테이지\n티켓가격: 88,000원 (현대카드 결제 시 20% 할인, 할인가: 70,400원)\n예매처: 멜론티켓\n\n#유라 https://t.co/mQIojUmsww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						193,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554763378614485000,
+					"id_str": "1554763378614484992",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOhDiwaQAAXc6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOhDiwaQAAXc6t.jpg",
+					"url": "https://t.co/mQIojUmsww",
+					"display_url": "pic.twitter.com/mQIojUmsww",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1554763405021822976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554763378614485000,
+					"id_str": "1554763378614484992",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FZOhDiwaQAAXc6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZOhDiwaQAAXc6t.jpg",
+					"url": "https://t.co/mQIojUmsww",
+					"display_url": "pic.twitter.com/mQIojUmsww",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1554763405021822976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n이적 Curated 04 유라 &lt;1&gt;\n\n📌아티스트 유라 (youra)가 첫 번째 단독 콘서트를 진행 합니다!\n\n공연 일시: 2022년 8월 27일(토) 오후 7시, 28일(일) 오후 6시\n공연 장소: 현대카드 언더스테이지\n티켓가격: 88,000원 (현대카드 결제 시 20% 할인, 할인가: 70,400원)\n예매처: 멜론티켓\n\n#유라 https://t.co/mQIojUmsww"
+	},
+	{
 		"created_at": "Wed Aug 03 09:40:10 +0000 2022",
 		"id": 1554753954206072800,
 		"id_str": "1554764049002496000",
