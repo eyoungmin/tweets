@@ -1,6 +1,1045 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 15:40:38 +0000 2022",
+		"id": 1555179071486689300,
+		"id_str": "1555217151761551362",
+		"full_text": "We've set our sights on the stars! Help us reach our goal of 2500 fans cycling to each @coldplay show in Brussels &amp; you'll receive an exclusive, sustainably produced sticker. Plus, you'll be helping the planet by traveling GREEN. Bike parking locations via https://t.co/391Gr77Onp https://t.co/g5P1YUMbCm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/391Gr77Onp",
+					"expanded_url": "http://nl.livenation.be/en/coldplay",
+					"display_url": "nl.livenation.be/en/coldplay",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555179058698354700,
+					"id_str": "1555179058698354689",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUbHTvXgAEgo7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUbHTvXgAEgo7Q.jpg",
+					"url": "https://t.co/g5P1YUMbCm",
+					"display_url": "pic.twitter.com/g5P1YUMbCm",
+					"expanded_url": "https://twitter.com/LiveNationBE/status/1555179071486689285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555179058698354700,
+					"id_str": "1555179058698354689",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUbHTvXgAEgo7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUbHTvXgAEgo7Q.jpg",
+					"url": "https://t.co/g5P1YUMbCm",
+					"display_url": "pic.twitter.com/g5P1YUMbCm",
+					"expanded_url": "https://twitter.com/LiveNationBE/status/1555179071486689285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109257975,
+			"id_str": "109257975",
+			"name": "Live Nation Belgium",
+			"screen_name": "LiveNationBE",
+			"location": "Belgium",
+			"description": "All the latest concert news and announcements from Live Nation in Belgium!",
+			"url": "https://t.co/CkHkxm17uH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CkHkxm17uH",
+							"expanded_url": "http://www.livenation.be",
+							"display_url": "livenation.be",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18103,
+			"friends_count": 137,
+			"listed_count": 148,
+			"created_at": "Thu Jan 28 13:21:38 +0000 2010",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476422921665060867/4LgPGP7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476422921665060867/4LgPGP7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109257975/1409817500",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've set our sights on the stars! Help us reach our goal of 2500 fans cycling to each @coldplay show in Brussels &amp; you'll receive an exclusive, sustainably produced sticker. Plus, you'll be helping the planet by traveling GREEN. Bike parking locations via https://t.co/391Gr77Onp https://t.co/g5P1YUMbCm"
+	},
+	{
+		"created_at": "Thu Aug 04 15:40:18 +0000 2022",
+		"id": 1555206931005988900,
+		"id_str": "1555217070555635719",
+		"full_text": "[NewJeans Pop-up Store Open] \n🐰 NewJeans' First Pop-up Store\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\nCome and Enjoy! 🐇\n\n#뉴진스 #NewJeans #PopupStore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul #ADOR https://t.co/PU2SCWhqqE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "PopupStore",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						169,
+						185
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						186,
+						202
+					]
+				},
+				{
+					"text": "ADOR",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555198289171337200,
+					"id_str": "1555198289171337218",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUsmq1aUAIQDlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUsmq1aUAIQDlg.jpg",
+					"url": "https://t.co/PU2SCWhqqE",
+					"display_url": "pic.twitter.com/PU2SCWhqqE",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1555206931005988865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555198289171337200,
+					"id_str": "1555198289171337218",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUsmq1aUAIQDlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUsmq1aUAIQDlg.jpg",
+					"url": "https://t.co/PU2SCWhqqE",
+					"display_url": "pic.twitter.com/PU2SCWhqqE",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1555206931005988865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249791,
+			"friends_count": 2,
+			"listed_count": 859,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2040,
+		"favorite_count": 5909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NewJeans Pop-up Store Open] \n🐰 NewJeans' First Pop-up Store\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\nCome and Enjoy! 🐇\n\n#뉴진스 #NewJeans #PopupStore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul #ADOR https://t.co/PU2SCWhqqE"
+	},
+	{
+		"created_at": "Thu Aug 04 15:40:10 +0000 2022",
+		"id": 1555206164731895800,
+		"id_str": "1555217036468436994",
+		"full_text": "bahaha had the best time at the London @FIAFormulaE race 😂 thanks for the ride 🏎 electric cars are fast!! https://t.co/X6uEkyv5N2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FIAFormulaE",
+					"name": "ABB FIA Formula E World Championship",
+					"id": 703581570,
+					"id_str": "703581570",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555206077867761700,
+					"id_str": "1555206077867761664",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555206077867761664/pu/img/42id6SteT5VkEQj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555206077867761664/pu/img/42id6SteT5VkEQj3.jpg",
+					"url": "https://t.co/X6uEkyv5N2",
+					"display_url": "pic.twitter.com/X6uEkyv5N2",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1555206164731895810/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555206077867761700,
+					"id_str": "1555206077867761664",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555206077867761664/pu/img/42id6SteT5VkEQj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555206077867761664/pu/img/42id6SteT5VkEQj3.jpg",
+					"url": "https://t.co/X6uEkyv5N2",
+					"display_url": "pic.twitter.com/X6uEkyv5N2",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1555206164731895810/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 48200,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555206077867761664/pu/vid/480x600/nbWU8XBFklR-tDJC.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555206077867761664/pu/vid/320x400/iOHc3xZFpcpvomqR.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555206077867761664/pu/vid/720x900/l1FZ_2FYuon-_oNF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555206077867761664/pu/pl/c3YER8PbWFFIzOyR.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89201,
+			"friends_count": 270,
+			"listed_count": 336,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "bahaha had the best time at the London @FIAFormulaE race 😂 thanks for the ride 🏎 electric cars are fast!! https://t.co/X6uEkyv5N2"
+	},
+	{
+		"created_at": "Thu Aug 04 15:29:53 +0000 2022",
+		"id": 1555207374998081500,
+		"id_str": "1555214449014968320",
+		"full_text": "Girls’ Generation Debut 15th Anniversary 8.5 Congratulations!\n\n#GirlsGeneration #소녀시대\n#HAPPYGGDAY\n#GG4EVA https://t.co/7izR9L7uQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "HAPPYGGDAY",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555199107463250000,
+					"id_str": "1555199107463249924",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUtWTNaAAQkSKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUtWTNaAAQkSKT.jpg",
+					"url": "https://t.co/7izR9L7uQt",
+					"display_url": "pic.twitter.com/7izR9L7uQt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555207374998081536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555199107463250000,
+					"id_str": "1555199107463249924",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUtWTNaAAQkSKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUtWTNaAAQkSKT.jpg",
+					"url": "https://t.co/7izR9L7uQt",
+					"display_url": "pic.twitter.com/7izR9L7uQt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555207374998081536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3848386,
+			"friends_count": 5,
+			"listed_count": 6101,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21633,
+		"favorite_count": 30878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation Debut 15th Anniversary 8.5 Congratulations!\n\n#GirlsGeneration #소녀시대\n#HAPPYGGDAY\n#GG4EVA https://t.co/7izR9L7uQt"
+	},
+	{
+		"created_at": "Thu Aug 04 15:29:46 +0000 2022",
+		"id": 1555207237135519700,
+		"id_str": "1555214419113689089",
+		"full_text": "New Gee - #GirlsGeneration\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/gm1XX4RziV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555200200020758500,
+					"id_str": "1555200200020758529",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUuV5TakAEEPTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUuV5TakAEEPTq.jpg",
+					"url": "https://t.co/gm1XX4RziV",
+					"display_url": "pic.twitter.com/gm1XX4RziV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555207237135519745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555200200020758500,
+					"id_str": "1555200200020758529",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FZUuV5TakAEEPTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZUuV5TakAEEPTq.jpg",
+					"url": "https://t.co/gm1XX4RziV",
+					"display_url": "pic.twitter.com/gm1XX4RziV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555207237135519745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3848386,
+			"friends_count": 5,
+			"listed_count": 6101,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26945,
+		"favorite_count": 39668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Gee - #GirlsGeneration\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/gm1XX4RziV"
+	},
+	{
 		"created_at": "Thu Aug 04 14:29:39 +0000 2022",
 		"id": 1555194343320825900,
 		"id_str": "1555199288854159366",
