@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 03:40:12 +0000 2022",
+		"id": 1555025942833434600,
+		"id_str": "1555035850559442945",
+		"full_text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" Jacket Making Film✨\n\n▶️ https://t.co/r52qckyQHp\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/8xb5R2WS6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r52qckyQHp",
+					"expanded_url": "https://youtu.be/LnoP4_07gaY",
+					"display_url": "youtu.be/LnoP4_07gaY",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555025940086128600,
+					"id_str": "1555025940086128640",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSP2odaAAAlWew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSP2odaAAAlWew.jpg",
+					"url": "https://t.co/8xb5R2WS6N",
+					"display_url": "pic.twitter.com/8xb5R2WS6N",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1555025942833434624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555025940086128600,
+					"id_str": "1555025940086128640",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSP2odaAAAlWew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSP2odaAAAlWew.jpg",
+					"url": "https://t.co/8xb5R2WS6N",
+					"display_url": "pic.twitter.com/8xb5R2WS6N",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1555025942833434624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18670,
+			"friends_count": 2,
+			"listed_count": 63,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" Jacket Making Film✨\n\n▶️ https://t.co/r52qckyQHp\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/8xb5R2WS6N"
+	},
+	{
+		"created_at": "Thu Aug 04 03:40:10 +0000 2022",
+		"id": 1555025803070816300,
+		"id_str": "1555035841625571328",
+		"full_text": "[유애나공지] 유애나 5기 \nOFFICIAL FANCLUB KIT \n불량 상품 교환 및 누락 접수 안내\n\n▶ https://t.co/3wZ0OXNbMl https://t.co/mykDZu5KSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3wZ0OXNbMl",
+					"expanded_url": "https://cafe.daum.net/IU/S0OE/12",
+					"display_url": "cafe.daum.net/IU/S0OE/12",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555023466344366000,
+					"id_str": "1555023466344366080",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSNmpDaQAAYR6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSNmpDaQAAYR6w.jpg",
+					"url": "https://t.co/mykDZu5KSc",
+					"display_url": "pic.twitter.com/mykDZu5KSc",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1555025803070816257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555023466344366000,
+					"id_str": "1555023466344366080",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSNmpDaQAAYR6w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSNmpDaQAAYR6w.jpg",
+					"url": "https://t.co/mykDZu5KSc",
+					"display_url": "pic.twitter.com/mykDZu5KSc",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1555025803070816257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404512,
+			"friends_count": 0,
+			"listed_count": 2311,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 3129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지] 유애나 5기 \nOFFICIAL FANCLUB KIT \n불량 상품 교환 및 누락 접수 안내\n\n▶ https://t.co/3wZ0OXNbMl https://t.co/mykDZu5KSc"
+	},
+	{
 		"created_at": "Thu Aug 04 02:59:35 +0000 2022",
 		"id": 1555018819344601000,
 		"id_str": "1555025628088283136",
