@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 16:40:15 +0000 2022",
+		"id": 1555220505082605600,
+		"id_str": "1555232157362167810",
+		"full_text": "[📺MPD FanCam] \nNewJeans - Cookie\n@MnetMcountdown\n 2022.8.4\n\n🔗https://t.co/GALHxoGYkQ\n\n#NewJeans #MPD직캠 #MPDFanCam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "MPDFanCam",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetMcountdown",
+					"name": "M COUNTDOWN",
+					"id": 128479879,
+					"id_str": "128479879",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GALHxoGYkQ",
+					"expanded_url": "https://youtu.be/dNayEt_IXog",
+					"display_url": "youtu.be/dNayEt_IXog",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250224,
+			"friends_count": 2,
+			"listed_count": 867,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 1520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📺MPD FanCam] \nNewJeans - Cookie\n@MnetMcountdown\n 2022.8.4\n\n🔗https://t.co/GALHxoGYkQ\n\n#NewJeans #MPD직캠 #MPDFanCam"
+	},
+	{
+		"created_at": "Thu Aug 04 16:40:13 +0000 2022",
+		"id": 1555085473906696200,
+		"id_str": "1555232148357095432",
+		"full_text": "[UNFILTERED CAM] NewJeans (뉴진스) - Attention\n\n#해린 ▶ https://t.co/7ElQvA1Rk6\n#혜인 ▶ https://t.co/itexGAVcQs\n\n#BE_ORIGINAL #NewJeans #Attention\n#뉴진스 @NewJeans_ADOR #STUDIOCHOOM https://t.co/CVesPz9rmD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해린",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						145,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7ElQvA1Rk6",
+					"expanded_url": "https://youtu.be/auZ4GG1CRB4",
+					"display_url": "youtu.be/auZ4GG1CRB4",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/itexGAVcQs",
+					"expanded_url": "https://youtu.be/gwXFWPZAxME",
+					"display_url": "youtu.be/gwXFWPZAxME",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555085462288486400,
+					"id_str": "1555085462288486400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTF_R8UUAAJJqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTF_R8UUAAJJqp.jpg",
+					"url": "https://t.co/CVesPz9rmD",
+					"display_url": "pic.twitter.com/CVesPz9rmD",
+					"expanded_url": "https://twitter.com/M2MPD/status/1555085473906696193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555085462288486400,
+					"id_str": "1555085462288486400",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTF_R8UUAAJJqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTF_R8UUAAJJqp.jpg",
+					"url": "https://t.co/CVesPz9rmD",
+					"display_url": "pic.twitter.com/CVesPz9rmD",
+					"expanded_url": "https://twitter.com/M2MPD/status/1555085473906696193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555071234240499700,
+		"in_reply_to_status_id_str": "1555071234240499712",
+		"in_reply_to_user_id": 589808615,
+		"in_reply_to_user_id_str": "589808615",
+		"in_reply_to_screen_name": "M2MPD",
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258644,
+			"friends_count": 469,
+			"listed_count": 1581,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 597,
+		"favorite_count": 1612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[UNFILTERED CAM] NewJeans (뉴진스) - Attention\n\n#해린 ▶ https://t.co/7ElQvA1Rk6\n#혜인 ▶ https://t.co/itexGAVcQs\n\n#BE_ORIGINAL #NewJeans #Attention\n#뉴진스 @NewJeans_ADOR #STUDIOCHOOM https://t.co/CVesPz9rmD"
+	},
+	{
 		"created_at": "Thu Aug 04 15:40:38 +0000 2022",
 		"id": 1555179071486689300,
 		"id_str": "1555217151761551362",
@@ -569,7 +964,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
