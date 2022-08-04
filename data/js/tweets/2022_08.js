@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 02:59:35 +0000 2022",
+		"id": 1555018819344601000,
+		"id_str": "1555025628088283136",
+		"full_text": "[#NEWS] '징크스의 연인' 서현♥나인우, 깊은 사랑 확인..반전 엔딩 충격\n▶ https://t.co/Lyc0wYDXbm\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ihUtTl5gQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						93,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lyc0wYDXbm",
+					"expanded_url": "http://naver.me/FmOdofKy",
+					"display_url": "naver.me/FmOdofKy",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555018813347082200,
+					"id_str": "1555018813347082241",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSJXzSaMAEqvBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSJXzSaMAEqvBP.jpg",
+					"url": "https://t.co/ihUtTl5gQs",
+					"display_url": "pic.twitter.com/ihUtTl5gQs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555018819344601090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 968,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555018813347082200,
+					"id_str": "1555018813347082241",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSJXzSaMAEqvBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSJXzSaMAEqvBP.jpg",
+					"url": "https://t.co/ihUtTl5gQs",
+					"display_url": "pic.twitter.com/ihUtTl5gQs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555018819344601090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 968,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 968,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62740,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현♥나인우, 깊은 사랑 확인..반전 엔딩 충격\n▶ https://t.co/Lyc0wYDXbm\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/ihUtTl5gQs"
+	},
+	{
+		"created_at": "Thu Aug 04 02:40:10 +0000 2022",
+		"id": 1555010678771323000,
+		"id_str": "1555020742336684032",
+		"full_text": "AUGUST DEBUT ANNIVERSARY🍾\n[#ANNIVERSARY] OFFICIAL MERCH\n\n#WINNER, #BLACKPINK, #TREASURE\n\n8월에 탄생한 세 아티스트의 데뷔일을 공식 상품으로 기념해 보세요.\n\nThese amazing artists all debuted in August! Check out their [ANNIVERSARY] merch.\n\nWeverse Shop ➡ https://t.co/yySi3mETVd https://t.co/4Y7NeyShLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ANNIVERSARY",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"text": "WINNER",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "TREASURE",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yySi3mETVd",
+					"expanded_url": "https://bit.ly/3Jpno5n",
+					"display_url": "bit.ly/3Jpno5n",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555009187813654500,
+					"id_str": "1555009187813654528",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAnhYaAAA3mZA.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAnhYaAAA3mZA.png",
+					"url": "https://t.co/4Y7NeyShLA",
+					"display_url": "pic.twitter.com/4Y7NeyShLA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1555010678771322880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555009187813654500,
+					"id_str": "1555009187813654528",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAnhYaAAA3mZA.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAnhYaAAA3mZA.png",
+					"url": "https://t.co/4Y7NeyShLA",
+					"display_url": "pic.twitter.com/4Y7NeyShLA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1555010678771322880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555009187796897800,
+					"id_str": "1555009187796897792",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAnhUaUAALs-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAnhUaUAALs-L.jpg",
+					"url": "https://t.co/4Y7NeyShLA",
+					"display_url": "pic.twitter.com/4Y7NeyShLA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1555010678771322880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555009187817865200,
+					"id_str": "1555009187817865216",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAnhZaQAAKJ_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAnhZaQAAKJ_k.jpg",
+					"url": "https://t.co/4Y7NeyShLA",
+					"display_url": "pic.twitter.com/4Y7NeyShLA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1555010678771322880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555009187796906000,
+					"id_str": "1555009187796905985",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSAnhUacAEF0h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSAnhUacAEF0h0.jpg",
+					"url": "https://t.co/4Y7NeyShLA",
+					"display_url": "pic.twitter.com/4Y7NeyShLA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1555010678771322880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8793045,
+			"friends_count": 36,
+			"listed_count": 9791,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9053,
+		"favorite_count": 25917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AUGUST DEBUT ANNIVERSARY🍾\n[#ANNIVERSARY] OFFICIAL MERCH\n\n#WINNER, #BLACKPINK, #TREASURE\n\n8월에 탄생한 세 아티스트의 데뷔일을 공식 상품으로 기념해 보세요.\n\nThese amazing artists all debuted in August! Check out their [ANNIVERSARY] merch.\n\nWeverse Shop ➡ https://t.co/yySi3mETVd https://t.co/4Y7NeyShLA"
+	},
+	{
 		"created_at": "Thu Aug 04 01:40:16 +0000 2022",
 		"id": 1555000466463146000,
 		"id_str": "1555005669828448257",
