@@ -1,6 +1,1354 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 04:45:37 +0000 2022",
+		"id": 1555042090379272200,
+		"id_str": "1555052312778969088",
+		"full_text": "💙MEET&amp;GREET KCON-ers PLAYLIST RECOMMENDATION💚\n\n#LOONA is touring 'LA CITY'🤩\nReply to this tweet with your “Summer Playlist”\nyou'd like to recommend LOONA.\nShare the reason of your playlist recommendation\nand it will be delivered to LOONA🎵\n\n#KCON #KCON2022LA https://t.co/Y67VLpsXMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						250,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555027597901238300,
+					"id_str": "1555027597901238272",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSRXITVEAA0Noy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSRXITVEAA0Noy.jpg",
+					"url": "https://t.co/Y67VLpsXMI",
+					"display_url": "pic.twitter.com/Y67VLpsXMI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555042090379272192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555027597901238300,
+					"id_str": "1555027597901238272",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSRXITVEAA0Noy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSRXITVEAA0Noy.jpg",
+					"url": "https://t.co/Y67VLpsXMI",
+					"display_url": "pic.twitter.com/Y67VLpsXMI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555042090379272192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555027597918015500,
+					"id_str": "1555027597918015488",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSRXIXVEAA2udF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSRXIXVEAA2udF.jpg",
+					"url": "https://t.co/Y67VLpsXMI",
+					"display_url": "pic.twitter.com/Y67VLpsXMI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555042090379272192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555027597901213700,
+					"id_str": "1555027597901213697",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSRXITUsAESyRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSRXITUsAESyRD.jpg",
+					"url": "https://t.co/Y67VLpsXMI",
+					"display_url": "pic.twitter.com/Y67VLpsXMI",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555042090379272192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450090,
+			"friends_count": 76,
+			"listed_count": 1120,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💙MEET&amp;GREET KCON-ers PLAYLIST RECOMMENDATION💚\n\n#LOONA is touring 'LA CITY'🤩\nReply to this tweet with your “Summer Playlist”\nyou'd like to recommend LOONA.\nShare the reason of your playlist recommendation\nand it will be delivered to LOONA🎵\n\n#KCON #KCON2022LA https://t.co/Y67VLpsXMI"
+	},
+	{
+		"created_at": "Thu Aug 04 04:40:30 +0000 2022",
+		"id": 1555049800764379100,
+		"id_str": "1555051023206580224",
+		"full_text": "The teaser poster of ‘Confidential Assignment 2’ starring LIM YOONA has been released! \nThe movie will come to theaters this September 2022! \n\n#LIMYOONA #임윤아 \n#GirlsGeneration #소녀시대 \n#공조 #ConfidentialAssignment2 https://t.co/QywVZVRmCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "공조",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "ConfidentialAssignment2",
+					"indices": [
+						187,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555047038571917300,
+					"id_str": "1555047038571917312",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSjCucaMAAd4aZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSjCucaMAAd4aZ.jpg",
+					"url": "https://t.co/QywVZVRmCu",
+					"display_url": "pic.twitter.com/QywVZVRmCu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555049800764379136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555047038571917300,
+					"id_str": "1555047038571917312",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSjCucaMAAd4aZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSjCucaMAAd4aZ.jpg",
+					"url": "https://t.co/QywVZVRmCu",
+					"display_url": "pic.twitter.com/QywVZVRmCu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555049800764379136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062591,
+			"friends_count": 56,
+			"listed_count": 12489,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 674,
+		"favorite_count": 1843,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The teaser poster of ‘Confidential Assignment 2’ starring LIM YOONA has been released! \nThe movie will come to theaters this September 2022! \n\n#LIMYOONA #임윤아 \n#GirlsGeneration #소녀시대 \n#공조 #ConfidentialAssignment2 https://t.co/QywVZVRmCu"
+	},
+	{
+		"created_at": "Thu Aug 04 04:40:23 +0000 2022",
+		"id": 1555040787838402600,
+		"id_str": "1555050996799242242",
+		"full_text": "[공지📢] \n안녕하세요.\n녹화가 지연됨에 따라 스탠바이 시간이 딜레이 되었습니다. 오랜 기다림에 지치신 팬 분들께 양해의 말씀 구하며, 13:40PM에 CJ E&amp;M 센터 광장 앞으로 재모임 부탁드립니다. \n감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 244908,
+			"friends_count": 2,
+			"listed_count": 836,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 1818,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[공지📢] \n안녕하세요.\n녹화가 지연됨에 따라 스탠바이 시간이 딜레이 되었습니다. 오랜 기다림에 지치신 팬 분들께 양해의 말씀 구하며, 13:40PM에 CJ E&amp;M 센터 광장 앞으로 재모임 부탁드립니다. \n감사합니다."
+	},
+	{
+		"created_at": "Thu Aug 04 04:40:16 +0000 2022",
+		"id": 1555039912889442300,
+		"id_str": "1555050966881386496",
+		"full_text": "‘The Big Mouth’ ranks 1st in TV ratings among the shows aired concurrently and 1st on hot topic searches among the Friday-Saturday dramas! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/x11vIG1mIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555039907768180700,
+					"id_str": "1555039907768180738",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555039907768180700,
+					"id_str": "1555039907768180738",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555039907776569300,
+					"id_str": "1555039907776569345",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqKUIAEwnhq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqKUIAEwnhq.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 908,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 301,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1555039730089111600,
+		"in_reply_to_status_id_str": "1555039730089111553",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062591,
+			"friends_count": 56,
+			"listed_count": 12489,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 2308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Big Mouth’ ranks 1st in TV ratings among the shows aired concurrently and 1st on hot topic searches among the Friday-Saturday dramas! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/x11vIG1mIh"
+	},
+	{
+		"created_at": "Thu Aug 04 04:29:48 +0000 2022",
+		"id": 1555039730089111600,
+		"id_str": "1555048331809886208",
+		"full_text": "‘The Big Mouth’ LIM YOONA shows her efforts behind practicing for the marching band scene that captivated the audience with her visuals and acting skills!\n\nhttps://t.co/qCHXN2dcu4\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/G3vGWXg33X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						221,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCHXN2dcu4",
+					"expanded_url": "https://bit.ly/3SruDxA",
+					"display_url": "bit.ly/3SruDxA",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555039724321906700,
+					"id_str": "1555039724321906688",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScY-vUIAA6Rh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScY-vUIAA6Rh4.jpg",
+					"url": "https://t.co/G3vGWXg33X",
+					"display_url": "pic.twitter.com/G3vGWXg33X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039730089111553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555039724321906700,
+					"id_str": "1555039724321906688",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScY-vUIAA6Rh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScY-vUIAA6Rh4.jpg",
+					"url": "https://t.co/G3vGWXg33X",
+					"display_url": "pic.twitter.com/G3vGWXg33X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039730089111553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555039724317728800,
+					"id_str": "1555039724317728768",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScY-uUYAAISUk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScY-uUYAAISUk.jpg",
+					"url": "https://t.co/G3vGWXg33X",
+					"display_url": "pic.twitter.com/G3vGWXg33X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039730089111553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555039724321943600,
+					"id_str": "1555039724321943552",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScY-vUsAA9hq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScY-vUsAA9hq4.jpg",
+					"url": "https://t.co/G3vGWXg33X",
+					"display_url": "pic.twitter.com/G3vGWXg33X",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039730089111553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062591,
+			"friends_count": 56,
+			"listed_count": 12489,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1253,
+		"favorite_count": 3591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Big Mouth’ LIM YOONA shows her efforts behind practicing for the marching band scene that captivated the audience with her visuals and acting skills!\n\nhttps://t.co/qCHXN2dcu4\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/G3vGWXg33X"
+	},
+	{
+		"created_at": "Thu Aug 04 04:29:39 +0000 2022",
+		"id": 1555033811918135300,
+		"id_str": "1555048293595586561",
+		"full_text": "Girls’ Generation Rilis Teaser Video Musik ‘FOREVER 1’\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/1ZCwOPt2CA\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/ZwlLKEEek2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1ZCwOPt2CA",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid02vDABBfEnhUyUCGp7onJco7dxGF28iUGL4oe65wbrfyGfmnNzYCn1LJgR3G6urNF1l",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555033727033819100,
+					"id_str": "1555033727033819136",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSW75GaQAA2DIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSW75GaQAA2DIf.jpg",
+					"url": "https://t.co/ZwlLKEEek2",
+					"display_url": "pic.twitter.com/ZwlLKEEek2",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1555033811918135296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555033727033819100,
+					"id_str": "1555033727033819136",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZSW75GaQAA2DIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZSW75GaQAA2DIf.jpg",
+					"url": "https://t.co/ZwlLKEEek2",
+					"display_url": "pic.twitter.com/ZwlLKEEek2",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1555033811918135296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1079736,
+			"friends_count": 37,
+			"listed_count": 658,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Girls’ Generation Rilis Teaser Video Musik ‘FOREVER 1’\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/1ZCwOPt2CA\n\n@GirlsGeneration\n#GirlsGeneration #FOREVER1 https://t.co/ZwlLKEEek2"
+	},
+	{
 		"created_at": "Thu Aug 04 03:40:12 +0000 2022",
 		"id": 1555025942833434600,
 		"id_str": "1555035850559442945",
