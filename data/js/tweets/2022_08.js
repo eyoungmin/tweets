@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 23:29:49 +0000 2022",
+		"id": 1554967850972024800,
+		"id_str": "1554972838335053824",
+		"full_text": "#현빈 X #유해진 X #임윤아 X #다니엘헤니 X #진선규\n한 장은 아쉽잖아!🥺✨ 더 강력해진 &lt;#공조2_인터내셔날&gt; 티저 포스터 2탄 공개!🌍💥\n⠀\n#이석훈감독 #공조2 #9월대개봉 #공조이즈백 https://t.co/NfRLdzqHum",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현빈",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "공조이즈백",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554858223660073000,
+					"id_str": "1554858223660072960",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FZP3UQFagAApCra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZP3UQFagAApCra.jpg",
+					"url": "https://t.co/NfRLdzqHum",
+					"display_url": "pic.twitter.com/NfRLdzqHum",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554967850972024832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554858223660073000,
+					"id_str": "1554858223660072960",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FZP3UQFagAApCra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZP3UQFagAApCra.jpg",
+					"url": "https://t.co/NfRLdzqHum",
+					"display_url": "pic.twitter.com/NfRLdzqHum",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1554967850972024832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331739,
+			"friends_count": 10669,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1658279103",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#현빈 X #유해진 X #임윤아 X #다니엘헤니 X #진선규\n한 장은 아쉽잖아!🥺✨ 더 강력해진 &lt;#공조2_인터내셔날&gt; 티저 포스터 2탄 공개!🌍💥\n⠀\n#이석훈감독 #공조2 #9월대개봉 #공조이즈백 https://t.co/NfRLdzqHum"
+	},
+	{
 		"created_at": "Wed Aug 03 17:40:39 +0000 2022",
 		"id": 1554878037094719500,
 		"id_str": "1554884968949911552",
