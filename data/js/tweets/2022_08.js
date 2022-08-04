@@ -1,6 +1,1399 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 09:40:20 +0000 2022",
+		"id": 1555120474707079200,
+		"id_str": "1555126480987897856",
+		"full_text": "[#여진 / #YeoJin] LA는 즐거워\n\n#이달의소녀 #LOONA https://t.co/uKt1mj9SDm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555120456654819300,
+					"id_str": "1555120456654819328",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTl0OHakAAdGQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTl0OHakAAdGQ_.jpg",
+					"url": "https://t.co/uKt1mj9SDm",
+					"display_url": "pic.twitter.com/uKt1mj9SDm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120474707079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555120456654819300,
+					"id_str": "1555120456654819328",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTl0OHakAAdGQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTl0OHakAAdGQ_.jpg",
+					"url": "https://t.co/uKt1mj9SDm",
+					"display_url": "pic.twitter.com/uKt1mj9SDm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120474707079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555120464347136000,
+					"id_str": "1555120464347136000",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTl0qxaAAA3MC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTl0qxaAAA3MC6.jpg",
+					"url": "https://t.co/uKt1mj9SDm",
+					"display_url": "pic.twitter.com/uKt1mj9SDm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120474707079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555120471657828400,
+					"id_str": "1555120471657828352",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTl1GAaUAA8p6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTl1GAaUAA8p6D.jpg",
+					"url": "https://t.co/uKt1mj9SDm",
+					"display_url": "pic.twitter.com/uKt1mj9SDm",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120474707079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1555120448899543000,
+		"in_reply_to_status_id_str": "1555120448899543040",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 967695,
+			"friends_count": 3,
+			"listed_count": 8885,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 3067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] LA는 즐거워\n\n#이달의소녀 #LOONA https://t.co/uKt1mj9SDm"
+	},
+	{
+		"created_at": "Thu Aug 04 09:40:16 +0000 2022",
+		"id": 1555116626659668000,
+		"id_str": "1555126463346708480",
+		"full_text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n기부 화환 신청 안내\n\n▶ https://t.co/AyFChYetDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyFChYetDc",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/498",
+					"display_url": "cafe.daum.net/IU/NDuY/498",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404858,
+			"friends_count": 0,
+			"listed_count": 2311,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 860,
+		"favorite_count": 3081,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n기부 화환 신청 안내\n\n▶ https://t.co/AyFChYetDc"
+	},
+	{
+		"created_at": "Thu Aug 04 09:29:39 +0000 2022",
+		"id": 1555119079362789400,
+		"id_str": "1555123790748827650",
+		"full_text": "🚨헉! 다들 괜찮으세요?! 방금 티저 예고편 반응이 폭발해서요;!!\n&lt;#공조2_인터내셔날&gt;을 향한 뜨거운 열기🔥바로 확인 GOGO!\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월대개봉 #공조이즈백 https://t.co/8RxVPhaGfL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "공조이즈백",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555118585290576000,
+					"id_str": "1555118585290575873",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTkjNRaIAEzZey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTkjNRaIAEzZey.jpg",
+					"url": "https://t.co/8RxVPhaGfL",
+					"display_url": "pic.twitter.com/8RxVPhaGfL",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1555119079362789376/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555118585290576000,
+					"id_str": "1555118585290575873",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTkjNRaIAEzZey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTkjNRaIAEzZey.jpg",
+					"url": "https://t.co/8RxVPhaGfL",
+					"display_url": "pic.twitter.com/8RxVPhaGfL",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1555119079362789376/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22272,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555118585290575873/vid/720x720/hEQzXN1nFwS2ohiW.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1555118585290575873/pl/atXzDxn3LeWAcbc8.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555118585290575873/vid/540x540/nHg_vV1LYsdl1LG8.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555118585290575873/vid/320x320/F0et3mlM-qDkZ9sH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1essF3t7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1essF3t7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331750,
+			"friends_count": 10669,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1658279103",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨헉! 다들 괜찮으세요?! 방금 티저 예고편 반응이 폭발해서요;!!\n&lt;#공조2_인터내셔날&gt;을 향한 뜨거운 열기🔥바로 확인 GOGO!\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월대개봉 #공조이즈백 https://t.co/8RxVPhaGfL"
+	},
+	{
+		"created_at": "Thu Aug 04 09:23:00 +0000 2022",
+		"id": 1555120448899543000,
+		"id_str": "1555122117754007553",
+		"full_text": "[#여진 / #YeoJin] LA는 즐거워\n\n#이달의소녀 #LOONA https://t.co/UQIQtNO0Sx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555120428209029000,
+					"id_str": "1555120428209029120",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTlykJaQAAV-Tz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTlykJaQAAV-Tz.jpg",
+					"url": "https://t.co/UQIQtNO0Sx",
+					"display_url": "pic.twitter.com/UQIQtNO0Sx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120448899543040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555120428209029000,
+					"id_str": "1555120428209029120",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTlykJaQAAV-Tz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTlykJaQAAV-Tz.jpg",
+					"url": "https://t.co/UQIQtNO0Sx",
+					"display_url": "pic.twitter.com/UQIQtNO0Sx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120448899543040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555120435733614600,
+					"id_str": "1555120435733614592",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTlzALaUAAH86v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTlzALaUAAH86v.jpg",
+					"url": "https://t.co/UQIQtNO0Sx",
+					"display_url": "pic.twitter.com/UQIQtNO0Sx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120448899543040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555120444554248200,
+					"id_str": "1555120444554248193",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTlzhCagAEM9h1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTlzhCagAEM9h1.jpg",
+					"url": "https://t.co/UQIQtNO0Sx",
+					"display_url": "pic.twitter.com/UQIQtNO0Sx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1555120448899543040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 967695,
+			"friends_count": 3,
+			"listed_count": 8885,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1941,
+		"favorite_count": 6284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#여진 / #YeoJin] LA는 즐거워\n\n#이달의소녀 #LOONA https://t.co/UQIQtNO0Sx"
+	},
+	{
+		"created_at": "Thu Aug 04 09:22:01 +0000 2022",
+		"id": 1555116341996175400,
+		"id_str": "1555121872903188480",
+		"full_text": "[유라]\n싱어송라이터 유라(youra)의 새 싱글 앨범 [Jungle Bike]가 발매되었습니다.\n\n언제나 자신만의 방법으로 위로를 전하는\n싱어송라이터 유라(youra)가 만든\n동그란 숲과 울타리 안에서 쉬었다 가세요.\n\n유라(youra)의 [Jungle Bike]는\n각 온라인 음원사이트를 통해 감상하실 수 있습니다. https://t.co/Mh6IKD3ras",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555111188714758100,
+					"id_str": "1555111188714758147",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTdYwWUIAM7Qo7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTdYwWUIAM7Qo7.jpg",
+					"url": "https://t.co/Mh6IKD3ras",
+					"display_url": "pic.twitter.com/Mh6IKD3ras",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116341996175360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555111188714758100,
+					"id_str": "1555111188714758147",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTdYwWUIAM7Qo7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTdYwWUIAM7Qo7.jpg",
+					"url": "https://t.co/Mh6IKD3ras",
+					"display_url": "pic.twitter.com/Mh6IKD3ras",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116341996175360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n싱어송라이터 유라(youra)의 새 싱글 앨범 [Jungle Bike]가 발매되었습니다.\n\n언제나 자신만의 방법으로 위로를 전하는\n싱어송라이터 유라(youra)가 만든\n동그란 숲과 울타리 안에서 쉬었다 가세요.\n\n유라(youra)의 [Jungle Bike]는\n각 온라인 음원사이트를 통해 감상하실 수 있습니다. https://t.co/Mh6IKD3ras"
+	},
+	{
+		"created_at": "Thu Aug 04 09:22:01 +0000 2022",
+		"id": 1555116581428002800,
+		"id_str": "1555121872672501762",
+		"full_text": "[유라]\n이적 Curated 04 유라(youra) &lt;1&gt;\n\n유라의 첫 단독공연 &lt;1&gt;의 티켓판매가 오픈되었습니다.\n아래 링크를 통해 예매하실 수 있습니다.\n\n✅https://t.co/VMSmWBoNjP\n\n#유라 #1 #공연 #music https://t.co/NMHPg3iOZN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VMSmWBoNjP",
+					"expanded_url": "https://bit.ly/3d5eQV0",
+					"display_url": "bit.ly/3d5eQV0",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555111843454001200,
+					"id_str": "1555111843454001152",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTd-3cUIAAFDrX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTd-3cUIAAFDrX.jpg",
+					"url": "https://t.co/NMHPg3iOZN",
+					"display_url": "pic.twitter.com/NMHPg3iOZN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116581428002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555111843454001200,
+					"id_str": "1555111843454001152",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTd-3cUIAAFDrX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTd-3cUIAAFDrX.jpg",
+					"url": "https://t.co/NMHPg3iOZN",
+					"display_url": "pic.twitter.com/NMHPg3iOZN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116581428002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555111843852456000,
+					"id_str": "1555111843852455937",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTd-47UEAEd2_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTd-47UEAEd2_L.jpg",
+					"url": "https://t.co/NMHPg3iOZN",
+					"display_url": "pic.twitter.com/NMHPg3iOZN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116581428002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1002,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555111844146139100,
+					"id_str": "1555111844146139136",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTd-6BVUAA_jn8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTd-6BVUAA_jn8.jpg",
+					"url": "https://t.co/NMHPg3iOZN",
+					"display_url": "pic.twitter.com/NMHPg3iOZN",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1555116581428002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/허회경/에버루아/",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 8,
+			"listed_count": 19,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527524077572788226/HAmj0Af__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1653271322",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n이적 Curated 04 유라(youra) &lt;1&gt;\n\n유라의 첫 단독공연 &lt;1&gt;의 티켓판매가 오픈되었습니다.\n아래 링크를 통해 예매하실 수 있습니다.\n\n✅https://t.co/VMSmWBoNjP\n\n#유라 #1 #공연 #music https://t.co/NMHPg3iOZN"
+	},
+	{
 		"created_at": "Thu Aug 04 08:29:39 +0000 2022",
 		"id": 1555105007250247700,
 		"id_str": "1555108691912818688",
