@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 11:59:52 +0000 2022",
+		"id": 1555522722305679400,
+		"id_str": "1555523981301522432",
+		"full_text": "[#VIDEO] [선공개] 달라도 달라도 너무 달라 태연과 탱구의 갭차이 🤣#놀라운토요일 | amazingsaturday EP.224\n▶ https://t.co/xWXXNoyky7\n\n#서현 #놀라운토요일 #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWXXNoyky7",
+					"expanded_url": "https://youtu.be/5HU_VEgE3Ps",
+					"display_url": "youtu.be/5HU_VEgE3Ps",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62981,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [선공개] 달라도 달라도 너무 달라 태연과 탱구의 갭차이 🤣#놀라운토요일 | amazingsaturday EP.224\n▶ https://t.co/xWXXNoyky7\n\n#서현 #놀라운토요일 #SEOHYUN"
+	},
+	{
+		"created_at": "Fri Aug 05 11:40:40 +0000 2022",
+		"id": 1555512548861939700,
+		"id_str": "1555519153418665985",
+		"full_text": "날이 더워요 🥵\n에어컨처럼 시원한\n완디 목소리와 함께해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/oIdOeAcDLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555512492717006800,
+					"id_str": "1555512492717006849",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZKXuQUYAES2MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZKXuQUYAES2MB.jpg",
+					"url": "https://t.co/oIdOeAcDLQ",
+					"display_url": "pic.twitter.com/oIdOeAcDLQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1555512548861939713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555512492717006800,
+					"id_str": "1555512492717006849",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZKXuQUYAES2MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZKXuQUYAES2MB.jpg",
+					"url": "https://t.co/oIdOeAcDLQ",
+					"display_url": "pic.twitter.com/oIdOeAcDLQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1555512548861939713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555512521334788000,
+					"id_str": "1555512521334788101",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZKZY3VEAUljSO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZKZY3VEAUljSO.jpg",
+					"url": "https://t.co/oIdOeAcDLQ",
+					"display_url": "pic.twitter.com/oIdOeAcDLQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1555512548861939713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5545746,
+			"friends_count": 2,
+			"listed_count": 11194,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2561,
+		"favorite_count": 8566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "날이 더워요 🥵\n에어컨처럼 시원한\n완디 목소리와 함께해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/oIdOeAcDLQ"
+	},
+	{
+		"created_at": "Fri Aug 05 11:40:35 +0000 2022",
+		"id": 1555512064323465200,
+		"id_str": "1555519131985870849",
+		"full_text": "볼링.. 내가 다 이길꾸야..😒\n\n#aespa #WINTER https://t.co/4mTE9RBIOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555512059345129500,
+					"id_str": "1555512059345129477",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-f0aUAUFuhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-f0aUAUFuhX.jpg",
+					"url": "https://t.co/4mTE9RBIOf",
+					"display_url": "pic.twitter.com/4mTE9RBIOf",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512064323465216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 924,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555512059345129500,
+					"id_str": "1555512059345129477",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-f0aUAUFuhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-f0aUAUFuhX.jpg",
+					"url": "https://t.co/4mTE9RBIOf",
+					"display_url": "pic.twitter.com/4mTE9RBIOf",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512064323465216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 924,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555512059366109200,
+					"id_str": "1555512059366109184",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-f5acAAcbIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-f5acAAcbIi.jpg",
+					"url": "https://t.co/4mTE9RBIOf",
+					"display_url": "pic.twitter.com/4mTE9RBIOf",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512064323465216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1555512056836542500,
+		"in_reply_to_status_id_str": "1555512056836542465",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3035916,
+			"friends_count": 2,
+			"listed_count": 9241,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5158,
+		"favorite_count": 17346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "볼링.. 내가 다 이길꾸야..😒\n\n#aespa #WINTER https://t.co/4mTE9RBIOf"
+	},
+	{
+		"created_at": "Fri Aug 05 11:40:31 +0000 2022",
+		"id": 1555512056836542500,
+		"id_str": "1555519114579685381",
+		"full_text": "볼링.. 내가 다 이길꾸야..😒\n\n#aespa #WINTER https://t.co/uMe10kwMmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555512051774427100,
+					"id_str": "1555512051774427137",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-DnakAELRYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-DnakAELRYr.jpg",
+					"url": "https://t.co/uMe10kwMmx",
+					"display_url": "pic.twitter.com/uMe10kwMmx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512056836542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 616,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1087,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1304,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555512051774427100,
+					"id_str": "1555512051774427137",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-DnakAELRYr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-DnakAELRYr.jpg",
+					"url": "https://t.co/uMe10kwMmx",
+					"display_url": "pic.twitter.com/uMe10kwMmx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512056836542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 616,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1087,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1304,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555512051795361800,
+					"id_str": "1555512051795361792",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-DsaAAAavMr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-DsaAAAavMr.jpg",
+					"url": "https://t.co/uMe10kwMmx",
+					"display_url": "pic.twitter.com/uMe10kwMmx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512056836542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1218,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555512051774390300,
+					"id_str": "1555512051774390274",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-DnaAAIqBSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-DnaAAIqBSh.jpg",
+					"url": "https://t.co/uMe10kwMmx",
+					"display_url": "pic.twitter.com/uMe10kwMmx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512056836542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1160,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555512051795378200,
+					"id_str": "1555512051795378176",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZJ-DsaQAAmc0i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZJ-DsaQAAmc0i.jpg",
+					"url": "https://t.co/uMe10kwMmx",
+					"display_url": "pic.twitter.com/uMe10kwMmx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1555512056836542465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 635,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1345,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3035916,
+			"friends_count": 2,
+			"listed_count": 9241,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10621,
+		"favorite_count": 33384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "볼링.. 내가 다 이길꾸야..😒\n\n#aespa #WINTER https://t.co/uMe10kwMmx"
+	},
+	{
+		"created_at": "Fri Aug 05 11:40:16 +0000 2022",
+		"id": 1555510324761358300,
+		"id_str": "1555519050255683584",
+		"full_text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n부정 티켓 거래 관련 방침 안내\n\n▶ https://t.co/Jnq2jb3Dn5\n\n#아이유 #IU \n#The_Golden_Hour #오렌지_태양_아래 https://t.co/3d3p4qQT48",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jnq2jb3Dn5",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/500",
+					"display_url": "cafe.daum.net/IU/NDuY/500",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555509725055582200,
+					"id_str": "1555509725055582210",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZH2n6agAI1ByH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZH2n6agAI1ByH.jpg",
+					"url": "https://t.co/3d3p4qQT48",
+					"display_url": "pic.twitter.com/3d3p4qQT48",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1555510324761358336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555509725055582200,
+					"id_str": "1555509725055582210",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZH2n6agAI1ByH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZH2n6agAI1ByH.jpg",
+					"url": "https://t.co/3d3p4qQT48",
+					"display_url": "pic.twitter.com/3d3p4qQT48",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1555510324761358336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 204,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1406487,
+			"friends_count": 0,
+			"listed_count": 2314,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1000,
+		"favorite_count": 3312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n부정 티켓 거래 관련 방침 안내\n\n▶ https://t.co/Jnq2jb3Dn5\n\n#아이유 #IU \n#The_Golden_Hour #오렌지_태양_아래 https://t.co/3d3p4qQT48"
+	},
+	{
+		"created_at": "Fri Aug 05 11:40:10 +0000 2022",
+		"id": 1555509450420527000,
+		"id_str": "1555519024263577601",
+		"full_text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공연 예매 및 관람 사전 안내\n\n(KOR)🔗 https://t.co/RW1TA5YuTt\n(GLOBAL)🔗 https://t.co/hqxvvJYc5i\n▶ https://t.co/A6WCmlM694 \n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RW1TA5YuTt",
+					"expanded_url": "https://url.kr/8q5h1n",
+					"display_url": "url.kr/8q5h1n",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/hqxvvJYc5i",
+					"expanded_url": "https://url.kr/ajncf1",
+					"display_url": "url.kr/ajncf1",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/A6WCmlM694",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/499",
+					"display_url": "cafe.daum.net/IU/NDuY/499",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1406487,
+			"friends_count": 0,
+			"listed_count": 2314,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1358,
+		"favorite_count": 3398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공연 예매 및 관람 사전 안내\n\n(KOR)🔗 https://t.co/RW1TA5YuTt\n(GLOBAL)🔗 https://t.co/hqxvvJYc5i\n▶ https://t.co/A6WCmlM694 \n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래"
+	},
+	{
 		"created_at": "Fri Aug 05 10:40:24 +0000 2022",
 		"id": 1555501453795639300,
 		"id_str": "1555503985385250817",
