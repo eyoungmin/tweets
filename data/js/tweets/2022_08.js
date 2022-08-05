@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 10:40:24 +0000 2022",
+		"id": 1555501453795639300,
+		"id_str": "1555503985385250817",
+		"full_text": "#少女時代 ビデオメッセージ。\n\n15周年を祝う🎊 ニューアルバム『FOREVER 1』リリース。\n\n今すぐ聴こう❤️\n\n@gg_official_jp\n#GirlsGeneration \n#FOREVER1\n#AppleMusic\nhttps://t.co/vnLCilD1tu https://t.co/3pIjVGPP4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						61,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vnLCilD1tu",
+					"expanded_url": "https://apple.co/3BJfWQL",
+					"display_url": "apple.co/3BJfWQL",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555501383163453400,
+					"id_str": "1555501383163453441",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1555501383163453441/img/-yHk86g9Vd012Z9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1555501383163453441/img/-yHk86g9Vd012Z9o.jpg",
+					"url": "https://t.co/3pIjVGPP4W",
+					"display_url": "pic.twitter.com/3pIjVGPP4W",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1555501453795639297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555501383163453400,
+					"id_str": "1555501383163453441",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1555501383163453441/img/-yHk86g9Vd012Z9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1555501383163453441/img/-yHk86g9Vd012Z9o.jpg",
+					"url": "https://t.co/3pIjVGPP4W",
+					"display_url": "pic.twitter.com/3pIjVGPP4W",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1555501453795639297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38204,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1555501383163453441/pl/fpJ45TpaICG8Ac4r.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555501383163453441/vid/1280x720/gSNTfElLVBv2BCtf.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555501383163453441/vid/480x270/kY3qAExrf_Um2vil.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555501383163453441/vid/640x360/fuR0oz8JtX-s6EMz.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92507,
+			"friends_count": 14,
+			"listed_count": 736,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 401,
+		"favorite_count": 698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 ビデオメッセージ。\n\n15周年を祝う🎊 ニューアルバム『FOREVER 1』リリース。\n\n今すぐ聴こう❤️\n\n@gg_official_jp\n#GirlsGeneration \n#FOREVER1\n#AppleMusic\nhttps://t.co/vnLCilD1tu https://t.co/3pIjVGPP4W"
+	},
+	{
+		"created_at": "Fri Aug 05 10:40:17 +0000 2022",
+		"id": 1555494059967320000,
+		"id_str": "1555503955345539072",
+		"full_text": "[#선예] 220808 잇츠라이브 the Fillin' Live 사전녹화 참여 확정 명단은 폼에 작성해 주신 메일로 개별 안내드렸으니, 확인하여 주시기 바랍니다.\n\n#Sunye #Genuine #JustADancer https://t.co/OzICdgZX4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OzICdgZX4w",
+					"expanded_url": "https://twitter.com/bbc_blockberry/status/1554300963032207360",
+					"display_url": "twitter.com/bbc_blockberry…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18700,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554300963032207400,
+		"quoted_status_id_str": "1554300963032207360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OzICdgZX4w",
+			"expanded": "https://twitter.com/bbc_blockberry/status/1554300963032207360",
+			"display": "twitter.com/bbc_blockberry…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 02 03:00:01 +0000 2022",
+			"id": 1554300963032207400,
+			"id_str": "1554300963032207360",
+			"full_text": "[#선예] 220808 잇츠라이브 the Fillin' Live 사녹 참여 안내\n자세한 공지는 폼을 확인해 주세요✨\n\n📌신청 기간 : 2022년 8월 2일 (화) 6PM ~ 2022년 8월 5일 (금) 6PM\n\n※신청 기간 내에 제출된 폼만 인정되오니 착오 없으시길 바랍니다\n\n👉🏻 https://t.co/SEqdiufjpm\n\n#Sunye #Genuine #JustADancer",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "선예",
+						"indices": [
+							1,
+							4
+						]
+					},
+					{
+						"text": "Sunye",
+						"indices": [
+							183,
+							189
+						]
+					},
+					{
+						"text": "Genuine",
+						"indices": [
+							190,
+							198
+						]
+					},
+					{
+						"text": "JustADancer",
+						"indices": [
+							199,
+							211
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SEqdiufjpm",
+						"expanded_url": "https://forms.gle/Yzqpu7SoEceixNoc6",
+						"display_url": "forms.gle/Yzqpu7SoEceixN…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1496008272398418000,
+				"id_str": "1496008272398417930",
+				"name": "BlockBerryCreative",
+				"screen_name": "BBC_blockberry",
+				"location": "",
+				"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+				"url": "https://t.co/zoTXadc3lA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zoTXadc3lA",
+								"expanded_url": "http://blockberrycreative.com",
+								"display_url": "blockberrycreative.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18700,
+				"friends_count": 2,
+				"listed_count": 65,
+				"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예] 220808 잇츠라이브 the Fillin' Live 사전녹화 참여 확정 명단은 폼에 작성해 주신 메일로 개별 안내드렸으니, 확인하여 주시기 바랍니다.\n\n#Sunye #Genuine #JustADancer https://t.co/OzICdgZX4w"
+	},
+	{
+		"created_at": "Fri Aug 05 10:40:15 +0000 2022",
+		"id": 1555494038723129300,
+		"id_str": "1555503946453721090",
+		"full_text": "BoA 보아 'Better' Dance Practice\n\nhttps://t.co/MKR17XcMkx \n\n#BoA #보아\n#Better #Dance_Practice https://t.co/zyM0CvhNqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "Dance_Practice",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MKR17XcMkx",
+					"expanded_url": "https://youtu.be/1DhepiUn0L4",
+					"display_url": "youtu.be/1DhepiUn0L4",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555494001293152300,
+					"id_str": "1555494001293152257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FZY5jYVUUAEBVtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZY5jYVUUAEBVtM.jpg",
+					"url": "https://t.co/zyM0CvhNqm",
+					"display_url": "pic.twitter.com/zyM0CvhNqm",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1555494038723129346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555494001293152300,
+					"id_str": "1555494001293152257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FZY5jYVUUAEBVtM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZY5jYVUUAEBVtM.jpg",
+					"url": "https://t.co/zyM0CvhNqm",
+					"display_url": "pic.twitter.com/zyM0CvhNqm",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1555494038723129346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74338,
+			"friends_count": 1,
+			"listed_count": 301,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 'Better' Dance Practice\n\nhttps://t.co/MKR17XcMkx \n\n#BoA #보아\n#Better #Dance_Practice https://t.co/zyM0CvhNqm"
+	},
+	{
 		"created_at": "Fri Aug 05 09:59:51 +0000 2022",
 		"id": 1555480605491466200,
 		"id_str": "1555493778101653506",
