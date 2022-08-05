@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 07:40:10 +0000 2022",
+		"id": 1555448590298153000,
+		"id_str": "1555458626533425152",
+		"full_text": "거울아... 거울아...\n세상에서 가장 빛나는 \n보석이 무엇이니?\n\n💎: 이다미 나라 곤듀님\n         세상의 빛! 세경 웅니!\n\n▶ https://t.co/57ZgyAZpOv \n\n#신세경 #ShinSaeKyeong\n#타사키 #TASAKI https://t.co/ZbW4wkvULd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "타사키",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "TASAKI",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/57ZgyAZpOv",
+					"expanded_url": "https://naver.me/xdVwZqui",
+					"display_url": "naver.me/xdVwZqui",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555447346854785000,
+					"id_str": "1555447346854785024",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYPHvAacAAJYBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYPHvAacAAJYBW.jpg",
+					"url": "https://t.co/ZbW4wkvULd",
+					"display_url": "pic.twitter.com/ZbW4wkvULd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1555448590298152960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555447346854785000,
+					"id_str": "1555447346854785024",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYPHvAacAAJYBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYPHvAacAAJYBW.jpg",
+					"url": "https://t.co/ZbW4wkvULd",
+					"display_url": "pic.twitter.com/ZbW4wkvULd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1555448590298152960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555447388105773000,
+					"id_str": "1555447388105773056",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYPKIrakAAwUUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYPKIrakAAwUUc.jpg",
+					"url": "https://t.co/ZbW4wkvULd",
+					"display_url": "pic.twitter.com/ZbW4wkvULd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1555448590298152960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555447410255884300,
+					"id_str": "1555447410255884288",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYPLbMacAAHPbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYPLbMacAAHPbK.jpg",
+					"url": "https://t.co/ZbW4wkvULd",
+					"display_url": "pic.twitter.com/ZbW4wkvULd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1555448590298152960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555447432913506300,
+					"id_str": "1555447432913506304",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYPMvmaUAA_ICo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYPMvmaUAA_ICo.jpg",
+					"url": "https://t.co/ZbW4wkvULd",
+					"display_url": "pic.twitter.com/ZbW4wkvULd",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1555448590298152960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4670,
+			"friends_count": 0,
+			"listed_count": 11,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거울아... 거울아...\n세상에서 가장 빛나는 \n보석이 무엇이니?\n\n💎: 이다미 나라 곤듀님\n         세상의 빛! 세경 웅니!\n\n▶ https://t.co/57ZgyAZpOv \n\n#신세경 #ShinSaeKyeong\n#타사키 #TASAKI https://t.co/ZbW4wkvULd"
+	},
+	{
+		"created_at": "Fri Aug 05 07:29:54 +0000 2022",
+		"id": 1555443766953070600,
+		"id_str": "1555456044830171139",
+		"full_text": "[🎬Full ver.] #소녀시대 15주년 'FOREVER 1' 발매 쇼케이스 풀영상 GIRLS' GENERATION 15th Anniversary Showcase(@GirlsGeneration )\n\n📸https://t.co/lPmCuW1Par\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#소녀시대와_다시_만난_15번째_여름\n#GG4EVA #HAPPYGGDAY\n#GirlsGeneration_Showcase https://t.co/RuJzM4GnRI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "소녀시대와_다시_만난_15번째_여름",
+					"indices": [
+						171,
+						191
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "HAPPYGGDAY",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "GirlsGeneration_Showcase",
+					"indices": [
+						212,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lPmCuW1Par",
+					"expanded_url": "https://youtu.be/huVh40ggFug",
+					"display_url": "youtu.be/huVh40ggFug",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555443755083190300,
+					"id_str": "1555443755083190272",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYL2qnVUAAwDQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYL2qnVUAAwDQB.jpg",
+					"url": "https://t.co/RuJzM4GnRI",
+					"display_url": "pic.twitter.com/RuJzM4GnRI",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1555443766953070592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555443755083190300,
+					"id_str": "1555443755083190272",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYL2qnVUAAwDQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYL2qnVUAAwDQB.jpg",
+					"url": "https://t.co/RuJzM4GnRI",
+					"display_url": "pic.twitter.com/RuJzM4GnRI",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1555443766953070592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTong_Culture",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨ TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6755,
+			"friends_count": 11,
+			"listed_count": 28,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484007108710641664/X4R-NQgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1655457151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎬Full ver.] #소녀시대 15주년 'FOREVER 1' 발매 쇼케이스 풀영상 GIRLS' GENERATION 15th Anniversary Showcase(@GirlsGeneration )\n\n📸https://t.co/lPmCuW1Par\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#소녀시대와_다시_만난_15번째_여름\n#GG4EVA #HAPPYGGDAY\n#GirlsGeneration_Showcase https://t.co/RuJzM4GnRI"
+	},
+	{
 		"created_at": "Fri Aug 05 06:59:49 +0000 2022",
 		"id": 1555443026180583400,
 		"id_str": "1555448472475615234",
@@ -1909,7 +2471,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Fri Aug 05 06:29:48 +0000 2022",
 		"id": 1555437226816745500,
 		"id_str": "1555440919712866304",
-		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2156,7 +2718,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp"
+		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp"
 	},
 	{
 		"created_at": "Fri Aug 05 05:23:12 +0000 2022",
