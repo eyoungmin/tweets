@@ -1,6 +1,2841 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 09:59:51 +0000 2022",
+		"id": 1555480605491466200,
+		"id_str": "1555493778101653506",
+		"full_text": "[#NOTICE] 서현 소녀시대 The 7th Album〖FOREVER 1〗음원 발매 안내\n\n멜론: https://t.co/f3ER4eZ2sW\n지니: https://t.co/zHevkSHv8Z\nFLO: https://t.co/cYIN67vL8X\nNAVER VIBE: https://t.co/aItfIKWRpt\nApple Music: https://t.co/CEVycwoloN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						231,
+						239
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3ER4eZ2sW",
+					"expanded_url": "http://kko.to/eIR1N54sa",
+					"display_url": "kko.to/eIR1N54sa",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/zHevkSHv8Z",
+					"expanded_url": "http://www.genie.co.kr/47R8H7",
+					"display_url": "genie.co.kr/47R8H7",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/cYIN67vL8X",
+					"expanded_url": "https://bit.ly/3A1gr7G",
+					"display_url": "bit.ly/3A1gr7G",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/aItfIKWRpt",
+					"expanded_url": "https://vibe.naver.com/album/7850774",
+					"display_url": "vibe.naver.com/album/7850774",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/CEVycwoloN",
+					"expanded_url": "https://apple.co/3zCkAx5",
+					"display_url": "apple.co/3zCkAx5",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62970,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NOTICE] 서현 소녀시대 The 7th Album〖FOREVER 1〗음원 발매 안내\n\n멜론: https://t.co/f3ER4eZ2sW\n지니: https://t.co/zHevkSHv8Z\nFLO: https://t.co/cYIN67vL8X\nNAVER VIBE: https://t.co/aItfIKWRpt\nApple Music: https://t.co/CEVycwoloN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Aug 05 09:59:51 +0000 2022",
+		"id": 1555479196620636200,
+		"id_str": "1555493778009403392",
+		"full_text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' MV\n▶ https://t.co/zBNYSSDXwN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "소녀시대_FOREVER1_6PM",
+					"indices": [
+						120,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBNYSSDXwN",
+					"expanded_url": "https://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62970,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' MV\n▶ https://t.co/zBNYSSDXwN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM"
+	},
+	{
+		"created_at": "Fri Aug 05 09:40:39 +0000 2022",
+		"id": 1555481234213462000,
+		"id_str": "1555488949833015299",
+		"full_text": "少女時代(@gg_official_jp)7th Album『FOREVER 1』配信開始🎉🎉\nデビュー15周年を飾るに相応しい、魅力がぎゅっと詰まったアルバム😌💗\n\n▼レコチョク\nhttps://t.co/YrUJbfRr36\n\n▼dヒッツ\nhttps://t.co/eYy7qkIh5q\n\n▼TOWER RECORDS MUSIC\nhttps://t.co/VX0nclA1cb https://t.co/OxwECwq1zf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YrUJbfRr36",
+					"expanded_url": "https://recochoku.jp/album/A2003015471/album",
+					"display_url": "recochoku.jp/album/A2003015…",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/eYy7qkIh5q",
+					"expanded_url": "https://selection.music.dmkt-sp.jp/artist/2000037517",
+					"display_url": "selection.music.dmkt-sp.jp/artist/2000037…",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/VX0nclA1cb",
+					"expanded_url": "https://music.tower.jp/artist/detail/2000037517",
+					"display_url": "music.tower.jp/artist/detail/…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554735301066911700,
+					"id_str": "1554735301066911745",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554735301066911745/img/TdaZ4TGDWXuyEU_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554735301066911745/img/TdaZ4TGDWXuyEU_h.jpg",
+					"url": "https://t.co/OxwECwq1zf",
+					"display_url": "pic.twitter.com/OxwECwq1zf",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1555481234213462018/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554735301066911700,
+					"id_str": "1554735301066911745",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1554735301066911745/img/TdaZ4TGDWXuyEU_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1554735301066911745/img/TdaZ4TGDWXuyEU_h.jpg",
+					"url": "https://t.co/OxwECwq1zf",
+					"display_url": "pic.twitter.com/OxwECwq1zf",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1555481234213462018/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39839,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554735301066911745/vid/640x360/AF4-C9jqdQ_uxPEp.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554735301066911745/vid/480x270/44N4hwyORfmMRR1J.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554735301066911745/vid/1280x720/uFBfflHXsstnKl8f.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1554735301066911745/pl/iuSU27zyeW9lexg2.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131027338,
+			"id_str": "131027338",
+			"name": "レコチョク《コーポレートアカウント》",
+			"screen_name": "recochoku_jp",
+			"location": "東京都渋谷区",
+			"description": "音楽🎧に関する様々なサービスを展開している「株式会社レコチョク」の公式アカウントです🎵サービスに関する情報や、ここでしか知れないアーティストに関する情報をお届け🌟",
+			"url": "https://t.co/OIgnzxMuLp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OIgnzxMuLp",
+							"expanded_url": "https://recochoku.jp/corporate/",
+							"display_url": "recochoku.jp/corporate/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36837,
+			"friends_count": 2259,
+			"listed_count": 329,
+			"created_at": "Fri Apr 09 01:58:56 +0000 2010",
+			"favourites_count": 10055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131027338/1564647528",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAC5EE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "少女時代(@gg_official_jp)7th Album『FOREVER 1』配信開始🎉🎉\nデビュー15周年を飾るに相応しい、魅力がぎゅっと詰まったアルバム😌💗\n\n▼レコチョク\nhttps://t.co/YrUJbfRr36\n\n▼dヒッツ\nhttps://t.co/eYy7qkIh5q\n\n▼TOWER RECORDS MUSIC\nhttps://t.co/VX0nclA1cb https://t.co/OxwECwq1zf"
+	},
+	{
+		"created_at": "Fri Aug 05 09:40:26 +0000 2022",
+		"id": 1555480112573075500,
+		"id_str": "1555488894321410048",
+		"full_text": "👑💗 #少女時代 💗👑\n7thアルバム『#FOREVER1』配信開始🪐\n🎧https://t.co/ZV2q083t3d\n\n私たちのソシが帰ってきた😭💕デビュー15周年おめでとう💘これからも永遠に少女時代🫶✨\n\n8人がカバーに登場！プレイリスト「K-Girls」はこちら▶️https://t.co/EbG5xftymK\n\n@GirlsGeneration @gg_official_jp https://t.co/3SKjr883Xf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						179,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZV2q083t3d",
+					"expanded_url": "https://amzn.to/3daOqBy",
+					"display_url": "amzn.to/3daOqBy",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/EbG5xftymK",
+					"expanded_url": "https://amzn.to/3Qnzb6A",
+					"display_url": "amzn.to/3Qnzb6A",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555478793443483600,
+					"id_str": "1555478793443483648",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYr4l-aIAEk7tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYr4l-aIAEk7tw.jpg",
+					"url": "https://t.co/3SKjr883Xf",
+					"display_url": "pic.twitter.com/3SKjr883Xf",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1555480112573075456/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555478793443483600,
+					"id_str": "1555478793443483648",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYr4l-aIAEk7tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYr4l-aIAEk7tw.jpg",
+					"url": "https://t.co/3SKjr883Xf",
+					"display_url": "pic.twitter.com/3SKjr883Xf",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1555480112573075456/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42242,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555478793443483648/vid/480x270/VIZW59vJoUeRHmyw.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555478793443483648/vid/640x360/6tMPRGbkXmDKwLM9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1555478793443483648/pl/rCtZa6S847c2hpOZ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555478793443483648/vid/1280x720/7zS9FiXWVTVGoeEg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/7OrQKXIK8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7OrQKXIK8g",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171892,
+			"friends_count": 2346,
+			"listed_count": 548,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1634720558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 712,
+		"favorite_count": 1100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "👑💗 #少女時代 💗👑\n7thアルバム『#FOREVER1』配信開始🪐\n🎧https://t.co/ZV2q083t3d\n\n私たちのソシが帰ってきた😭💕デビュー15周年おめでとう💘これからも永遠に少女時代🫶✨\n\n8人がカバーに登場！プレイリスト「K-Girls」はこちら▶️https://t.co/EbG5xftymK\n\n@GirlsGeneration @gg_official_jp https://t.co/3SKjr883Xf"
+	},
+	{
+		"created_at": "Fri Aug 05 09:40:24 +0000 2022",
+		"id": 1555478969868177400,
+		"id_str": "1555488885420982273",
+		"full_text": "#少女時代 ㊗️デビュー15周年🎂💖\nThe 7th Album『FOREVER 1』配信開始👸💗\n\nついにこの時が…😭約5年ぶりのカムバです😭✨\n歌声を聴いただけで感極まります😭✨\n\nS♡NEのみなさん宛に届いた豪華なコメントも必見🥺💍\n@gg_official_jp #GirlsGeneration #소녀시대 #FOREVER1\n🎀https://t.co/Ves4n8bbly https://t.co/Ig1oquwN17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ves4n8bbly",
+					"expanded_url": "https://mf.awa.fm/3Qh0zTA",
+					"display_url": "mf.awa.fm/3Qh0zTA",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1554731894641954800,
+					"id_str": "1554731894641954816",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYVod6UYAA3JOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYVod6UYAA3JOi.jpg",
+					"url": "https://t.co/Ig1oquwN17",
+					"display_url": "pic.twitter.com/Ig1oquwN17",
+					"expanded_url": "https://twitter.com/AWA_official/status/1555478969868177408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554731894641954800,
+					"id_str": "1554731894641954816",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYVod6UYAA3JOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYVod6UYAA3JOi.jpg",
+					"url": "https://t.co/Ig1oquwN17",
+					"display_url": "pic.twitter.com/Ig1oquwN17",
+					"expanded_url": "https://twitter.com/AWA_official/status/1555478969868177408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47047,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554731894641954816/vid/480x270/owOFSNt8UjSAOcbO.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554731894641954816/vid/640x360/y0dGP8lyEUHCImka.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1554731894641954816/pl/Zd94c2SRKWmCvojN.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554731894641954816/vid/1280x720/Kl8TKEm0KDeVF-v6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "少女時代『FOREVER 1』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/3Qh0zTA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195553,
+			"friends_count": 366,
+			"listed_count": 465,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 172700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 635,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 ㊗️デビュー15周年🎂💖\nThe 7th Album『FOREVER 1』配信開始👸💗\n\nついにこの時が…😭約5年ぶりのカムバです😭✨\n歌声を聴いただけで感極まります😭✨\n\nS♡NEのみなさん宛に届いた豪華なコメントも必見🥺💍\n@gg_official_jp #GirlsGeneration #소녀시대 #FOREVER1\n🎀https://t.co/Ves4n8bbly https://t.co/Ig1oquwN17"
+	},
+	{
+		"created_at": "Fri Aug 05 09:40:15 +0000 2022",
+		"id": 1555478933642309600,
+		"id_str": "1555488847131205632",
+		"full_text": "#少女時代 (@GirlsGeneration) が\n\"#FOREVER1\" で \n5年ぶり完全体カムバック🙌\n\nデビュー15周年を記念して\n制作された7thアルバムで\n多彩な全10曲を収録🎶\n\nビデオコメントも到着🎥\n\n#Spotify でたくさん聴いてね🎧\n▶︎https://t.co/FnDqNyZJFY\n\n@gg_official_jp\n#GirlsGeneration https://t.co/a4LX5is5Dz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						7,
+						23
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						158,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FnDqNyZJFY",
+					"expanded_url": "https://spoti.fi/3oTZNQX",
+					"display_url": "spoti.fi/3oTZNQX",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555477872558878700,
+					"id_str": "1555477872558878720",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555477872558878720/pu/img/AYFGd9NskrrCt1tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555477872558878720/pu/img/AYFGd9NskrrCt1tk.jpg",
+					"url": "https://t.co/a4LX5is5Dz",
+					"display_url": "pic.twitter.com/a4LX5is5Dz",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1555478933642309632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555477872558878700,
+					"id_str": "1555477872558878720",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555477872558878720/pu/img/AYFGd9NskrrCt1tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555477872558878720/pu/img/AYFGd9NskrrCt1tk.jpg",
+					"url": "https://t.co/a4LX5is5Dz",
+					"display_url": "pic.twitter.com/a4LX5is5Dz",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1555478933642309632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46546,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555477872558878720/pu/vid/640x360/I2IWEVvgmUVHUWDp.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555477872558878720/pu/vid/1280x720/OybgqzEa1TbPVfzd.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555477872558878720/pu/vid/480x270/LE62NxSonA-hCkjI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555477872558878720/pu/pl/FryB4gh2Jias2vC4.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽からポッドキャストまで。8,200万以上の楽曲と400万番組以上のポッドキャストが楽しめる🎵  4億3,300万人以上のファンに選ばれている、世界最大オーディオ ストリーミングサービスSpotify（スポティファイ）💚 カスタマーサポート👉 @SpotifyCaresJP",
+			"url": "https://t.co/8TdfurAP0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfurAP0w",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226626,
+			"friends_count": 1655,
+			"listed_count": 1131,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 18106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 109872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1654565976",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1071,
+		"favorite_count": 1514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 (@GirlsGeneration) が\n\"#FOREVER1\" で \n5年ぶり完全体カムバック🙌\n\nデビュー15周年を記念して\n制作された7thアルバムで\n多彩な全10曲を収録🎶\n\nビデオコメントも到着🎥\n\n#Spotify でたくさん聴いてね🎧\n▶︎https://t.co/FnDqNyZJFY\n\n@gg_official_jp\n#GirlsGeneration https://t.co/a4LX5is5Dz"
+	},
+	{
+		"created_at": "Fri Aug 05 09:40:10 +0000 2022",
+		"id": 1555478831808610300,
+		"id_str": "1555488825585139712",
+		"full_text": "🔔#少女時代(@gg_official_jp)\n㊗デビュー15周年を記念\n7thフルアルバム『FOREVER 1』配信スタート🎉\n🎧👉https://t.co/Ec5eGlfhJX\n\n6thアルバムから5年ぶり❗\n8人での\"完全体\"カムバック😆\n\n🥳タイトル曲「FOREVER 1」の\n再生数上位10名様に\n✨オリジナルポストカード✨プレゼント🎁 https://t.co/RCE6CtkfAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ec5eGlfhJX",
+					"expanded_url": "https://bit.ly/3OVOoL3",
+					"display_url": "bit.ly/3OVOoL3",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555478778750681000,
+					"id_str": "1555478778750681088",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555478778750681088/pu/img/rophmfyn_in-GrgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555478778750681088/pu/img/rophmfyn_in-GrgR.jpg",
+					"url": "https://t.co/RCE6CtkfAU",
+					"display_url": "pic.twitter.com/RCE6CtkfAU",
+					"expanded_url": "https://twitter.com/rmusic_official/status/1555478831808610305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555478778750681000,
+					"id_str": "1555478778750681088",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555478778750681088/pu/img/rophmfyn_in-GrgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555478778750681088/pu/img/rophmfyn_in-GrgR.jpg",
+					"url": "https://t.co/RCE6CtkfAU",
+					"display_url": "pic.twitter.com/RCE6CtkfAU",
+					"expanded_url": "https://twitter.com/rmusic_official/status/1555478831808610305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39840,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555478778750681088/pu/vid/480x270/f2y9XIVdfAhxFjn0.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555478778750681088/pu/vid/1280x720/w3K_sMoepxhfoKXv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555478778750681088/pu/pl/MttVsf68dAE66hC4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555478778750681088/pu/vid/640x360/r45-EBZVVnuUS_pd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 767621043506729000,
+			"id_str": "767621043506728960",
+			"name": "Rakuten Music / 楽天ミュージック",
+			"screen_name": "rmusic_official",
+			"location": "日本 東京",
+			"description": "音楽聴き放題アプリ♪楽天ミュージック公式Twitterです。 最新音楽・アーティスト情報、お得なキャンペーンを発信していきます！お気軽にフォローをお願いいたします。お問い合わせフォームはこちら https://t.co/PdTjB5Zfnn ※お問い合わせに関するお返事は平日（土日祝除く）のみとなります。",
+			"url": "https://t.co/vkmCp3bktM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkmCp3bktM",
+							"expanded_url": "https://music.rakuten.co.jp/",
+							"display_url": "music.rakuten.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PdTjB5Zfnn",
+							"expanded_url": "https://music.faq.rakuten.net/",
+							"display_url": "music.faq.rakuten.net",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29154,
+			"friends_count": 36,
+			"listed_count": 77,
+			"created_at": "Mon Aug 22 07:14:53 +0000 2016",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075551592403787776/XCR0pmxE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075551592403787776/XCR0pmxE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/767621043506728960/1576563066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 541,
+		"favorite_count": 778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🔔#少女時代(@gg_official_jp)\n㊗デビュー15周年を記念\n7thフルアルバム『FOREVER 1』配信スタート🎉\n🎧👉https://t.co/Ec5eGlfhJX\n\n6thアルバムから5年ぶり❗\n8人での\"完全体\"カムバック😆\n\n🥳タイトル曲「FOREVER 1」の\n再生数上位10名様に\n✨オリジナルポストカード✨プレゼント🎁 https://t.co/RCE6CtkfAU"
+	},
+	{
+		"created_at": "Fri Aug 05 09:30:09 +0000 2022",
+		"id": 1555483974348132400,
+		"id_str": "1555486304653156359",
+		"full_text": "저의 복권💰 당첨보다 더 기다렸습니다...\n소녀시대 정규앨범💗💿\n\n소녀시대 정규 7집 [FOREVER 1]을\n지금 바로 벅스에서 만나보세요\n\n지금은 소녀시대 앞으로도 소녀시대\n영원히 소녀시대~💘\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #HAPPYGGDAY #GG4EVA \n@GirlsGeneration @SMTOWNGLOBAL https://t.co/wHs8d6iMGj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "HAPPYGGDAY",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						165,
+						181
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						182,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555483732387061800,
+					"id_str": "1555483732387061760",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555483732387061760/pu/img/wIq9pGVcbudZ0Xtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555483732387061760/pu/img/wIq9pGVcbudZ0Xtf.jpg",
+					"url": "https://t.co/wHs8d6iMGj",
+					"display_url": "pic.twitter.com/wHs8d6iMGj",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1555483974348132352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555483732387061800,
+					"id_str": "1555483732387061760",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555483732387061760/pu/img/wIq9pGVcbudZ0Xtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555483732387061760/pu/img/wIq9pGVcbudZ0Xtf.jpg",
+					"url": "https://t.co/wHs8d6iMGj",
+					"display_url": "pic.twitter.com/wHs8d6iMGj",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1555483974348132352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 50050,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555483732387061760/pu/vid/720x1280/Av4vdEoAYgQ4psnC.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555483732387061760/pu/vid/480x852/w2zWvoCtdXVTPx53.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555483732387061760/pu/pl/VeRaNXTY8MPzt8v9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555483732387061760/pu/vid/320x568/YhWTeAyIp2uqsIpc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54490933,
+			"id_str": "54490933",
+			"name": "벅스",
+			"screen_name": "Bugs_play",
+			"location": "Bugs.co.kr",
+			"description": "슈퍼사운드, 벅스",
+			"url": "http://t.co/jGYDBIeEWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jGYDBIeEWX",
+							"expanded_url": "http://Bugs.co.kr",
+							"display_url": "Bugs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 8549,
+			"listed_count": 285,
+			"created_at": "Tue Jul 07 08:32:47 +0000 2009",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54490933/1553073696",
+			"profile_link_color": "473209",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAC05",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저의 복권💰 당첨보다 더 기다렸습니다...\n소녀시대 정규앨범💗💿\n\n소녀시대 정규 7집 [FOREVER 1]을\n지금 바로 벅스에서 만나보세요\n\n지금은 소녀시대 앞으로도 소녀시대\n영원히 소녀시대~💘\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #HAPPYGGDAY #GG4EVA \n@GirlsGeneration @SMTOWNGLOBAL https://t.co/wHs8d6iMGj"
+	},
+	{
+		"created_at": "Fri Aug 05 09:30:03 +0000 2022",
+		"id": 1555483574534492200,
+		"id_str": "1555486279030247431",
+		"full_text": "지소💕앞소💕영소💕\n소녀시대 컴백, 이 여섯 글자만 들어도\n가슴이 웅장해지는 소원을 위한\n소녀시대 플레이어 스킨과 라이브 앨범 아트\n오직 벅스에만 있슴(SM)니다\n\n지금 바로 벅스에서 소녀시대 [FOREVER 1]을\n남다르게 즐겨보세요💗🎧\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #HAPPYGGDAY #GG4EVA https://t.co/p88ULdWfts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "HAPPYGGDAY",
+					"indices": [
+						168,
+						179
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555483317092331500,
+					"id_str": "1555483317092331521",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYv1elVsAERAm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYv1elVsAERAm3.jpg",
+					"url": "https://t.co/p88ULdWfts",
+					"display_url": "pic.twitter.com/p88ULdWfts",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1555483574534492161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555483317092331500,
+					"id_str": "1555483317092331521",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYv1elVsAERAm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYv1elVsAERAm3.jpg",
+					"url": "https://t.co/p88ULdWfts",
+					"display_url": "pic.twitter.com/p88ULdWfts",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1555483574534492161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54490933,
+			"id_str": "54490933",
+			"name": "벅스",
+			"screen_name": "Bugs_play",
+			"location": "Bugs.co.kr",
+			"description": "슈퍼사운드, 벅스",
+			"url": "http://t.co/jGYDBIeEWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jGYDBIeEWX",
+							"expanded_url": "http://Bugs.co.kr",
+							"display_url": "Bugs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 8549,
+			"listed_count": 285,
+			"created_at": "Tue Jul 07 08:32:47 +0000 2009",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54490933/1553073696",
+			"profile_link_color": "473209",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAC05",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지소💕앞소💕영소💕\n소녀시대 컴백, 이 여섯 글자만 들어도\n가슴이 웅장해지는 소원을 위한\n소녀시대 플레이어 스킨과 라이브 앨범 아트\n오직 벅스에만 있슴(SM)니다\n\n지금 바로 벅스에서 소녀시대 [FOREVER 1]을\n남다르게 즐겨보세요💗🎧\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #HAPPYGGDAY #GG4EVA https://t.co/p88ULdWfts"
+	},
+	{
+		"created_at": "Fri Aug 05 09:29:57 +0000 2022",
+		"id": 1555482492747915300,
+		"id_str": "1555486257551130624",
+		"full_text": "정규 7집으로 돌아온 소녀시대와 ❤FOREVER 1❤ \n \nhttps://t.co/G7r1eLPWIR\n \n#GirlsGeneration #소녀시대 \n#FOREVER1 https://t.co/R73UYVEsdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G7r1eLPWIR",
+					"expanded_url": "https://naver.me/FMwuCtc7",
+					"display_url": "naver.me/FMwuCtc7",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555404312523575300,
+					"id_str": "1555404312523575297",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXn-zoUEAEKsU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXn-zoUEAEKsU3.jpg",
+					"url": "https://t.co/R73UYVEsdm",
+					"display_url": "pic.twitter.com/R73UYVEsdm",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555482492747915267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1457,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555404312523575300,
+					"id_str": "1555404312523575297",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXn-zoUEAEKsU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXn-zoUEAEKsU3.jpg",
+					"url": "https://t.co/R73UYVEsdm",
+					"display_url": "pic.twitter.com/R73UYVEsdm",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555482492747915267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1457,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3852984,
+			"friends_count": 5,
+			"listed_count": 6100,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7202,
+		"favorite_count": 15449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정규 7집으로 돌아온 소녀시대와 ❤FOREVER 1❤ \n \nhttps://t.co/G7r1eLPWIR\n \n#GirlsGeneration #소녀시대 \n#FOREVER1 https://t.co/R73UYVEsdm"
+	},
+	{
+		"created_at": "Fri Aug 05 09:29:52 +0000 2022",
+		"id": 1555482082050158600,
+		"id_str": "1555486236164374531",
+		"full_text": "Girls’ Generation’s [FOREVER 1] iTunes Booklet is out now! 💗\n\nGet your Digital Booklet with Girls’ Generation’s special hand-written message (SUB EN&amp;JP)!\n\n☑️ https://t.co/HkaQji6HIu\n\n#GirlsGeneration #소녀시대\n#FOREVER1 https://t.co/jN1EoGLcYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HkaQji6HIu",
+					"expanded_url": "https://GirlsGeneration.lnk.to/FOREVER1/itunes",
+					"display_url": "GirlsGeneration.lnk.to/FOREVER1/itunes",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555481957085040600,
+					"id_str": "1555481957085040642",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555481957085040642/pu/img/pCQJe5dt8ad-aRFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555481957085040642/pu/img/pCQJe5dt8ad-aRFe.jpg",
+					"url": "https://t.co/jN1EoGLcYh",
+					"display_url": "pic.twitter.com/jN1EoGLcYh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555482082050158592/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555481957085040600,
+					"id_str": "1555481957085040642",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555481957085040642/pu/img/pCQJe5dt8ad-aRFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555481957085040642/pu/img/pCQJe5dt8ad-aRFe.jpg",
+					"url": "https://t.co/jN1EoGLcYh",
+					"display_url": "pic.twitter.com/jN1EoGLcYh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555482082050158592/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							218,
+							135
+						],
+						"duration_millis": 20920,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555481957085040642/pu/vid/580x360/WLupbSOBovsCgP1A.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555481957085040642/pu/vid/436x270/hYMkU7BXL_mSRiqU.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555481957085040642/pu/vid/1162x720/P7p6BdB969JQi5DT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555481957085040642/pu/pl/tX1gdlumod_bn31a.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3852984,
+			"friends_count": 5,
+			"listed_count": 6100,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4374,
+		"favorite_count": 7897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation’s [FOREVER 1] iTunes Booklet is out now! 💗\n\nGet your Digital Booklet with Girls’ Generation’s special hand-written message (SUB EN&amp;JP)!\n\n☑️ https://t.co/HkaQji6HIu\n\n#GirlsGeneration #소녀시대\n#FOREVER1 https://t.co/jN1EoGLcYh"
+	},
+	{
+		"created_at": "Fri Aug 05 09:29:48 +0000 2022",
+		"id": 1555481720681808000,
+		"id_str": "1555486218959429634",
+		"full_text": "💗🎂 สุขสันต์วันครบรอบเดบิวต์ 15 ปีของ Girls’ Generation 🎂💗\n\nGirls' Generation 소녀시대 'FOREVER 1' MV\nhttps://t.co/FIr0ZRFD5T\n\nรับฟังอัลบั้มเต็มชุดที่ 7 ‘FOREVER 1’ ของ Girls' Generation ได้แล้ววันนี้ 🎧 https://t.co/vUVUfTv4Ax\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 https://t.co/R3ImQxdmfL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						223,
+						239
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FIr0ZRFD5T",
+					"expanded_url": "http://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/vUVUfTv4Ax",
+					"expanded_url": "http://GirlsGeneration.lnk.to/FOREVER1",
+					"display_url": "GirlsGeneration.lnk.to/FOREVER1",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555480964750798800,
+					"id_str": "1555480964750798848",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYtsjbacAAHy__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYtsjbacAAHy__.jpg",
+					"url": "https://t.co/R3ImQxdmfL",
+					"display_url": "pic.twitter.com/R3ImQxdmfL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1555481720681807872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555480964750798800,
+					"id_str": "1555480964750798848",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYtsjbacAAHy__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYtsjbacAAHy__.jpg",
+					"url": "https://t.co/R3ImQxdmfL",
+					"display_url": "pic.twitter.com/R3ImQxdmfL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1555481720681807872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555481023424905200,
+					"id_str": "1555481023424905216",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYtv-AaQAAfl8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYtv-AaQAAfl8v.jpg",
+					"url": "https://t.co/R3ImQxdmfL",
+					"display_url": "pic.twitter.com/R3ImQxdmfL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1555481720681807872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1405,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555481061685366800,
+					"id_str": "1555481061685366784",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYtyMiakAAHZCM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYtyMiakAAHZCM.jpg",
+					"url": "https://t.co/R3ImQxdmfL",
+					"display_url": "pic.twitter.com/R3ImQxdmfL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1555481720681807872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1299,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97205,
+			"friends_count": 51,
+			"listed_count": 151,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 432,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💗🎂 สุขสันต์วันครบรอบเดบิวต์ 15 ปีของ Girls’ Generation 🎂💗\n\nGirls' Generation 소녀시대 'FOREVER 1' MV\nhttps://t.co/FIr0ZRFD5T\n\nรับฟังอัลบั้มเต็มชุดที่ 7 ‘FOREVER 1’ ของ Girls' Generation ได้แล้ววันนี้ 🎧 https://t.co/vUVUfTv4Ax\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 https://t.co/R3ImQxdmfL"
+	},
+	{
 		"created_at": "Fri Aug 05 07:40:10 +0000 2022",
 		"id": 1555448590298153000,
 		"id_str": "1555458626533425152",
