@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 02:59:47 +0000 2022",
+		"id": 1555384848747057200,
+		"id_str": "1555388066574974976",
+		"full_text": "[#NEWS] 서현 '징크스의 연인' “연기에 대한 깊은 고민과 책임감을 배운 의미 있는 작업이었다”\n▶ https://t.co/JdlHQhc0Nw\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/50sWdkKod0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JdlHQhc0Nw",
+					"expanded_url": "http://naver.me/FQ5zQ0WW",
+					"display_url": "naver.me/FQ5zQ0WW",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555382424879501300,
+					"id_str": "1555382424879501312",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXUExzUEAA9SPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXUExzUEAA9SPZ.jpg",
+					"url": "https://t.co/50sWdkKod0",
+					"display_url": "pic.twitter.com/50sWdkKod0",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555384848747057156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555382424879501300,
+					"id_str": "1555382424879501312",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXUExzUEAA9SPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXUExzUEAA9SPZ.jpg",
+					"url": "https://t.co/50sWdkKod0",
+					"display_url": "pic.twitter.com/50sWdkKod0",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555384848747057156/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62915,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현 '징크스의 연인' “연기에 대한 깊은 고민과 책임감을 배운 의미 있는 작업이었다”\n▶ https://t.co/JdlHQhc0Nw\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/50sWdkKod0"
+	},
+	{
+		"created_at": "Fri Aug 05 02:59:47 +0000 2022",
+		"id": 1555382230070882300,
+		"id_str": "1555388066566615040",
+		"full_text": "[#NEWS] 종영 ‘징크스의 연인’ 서현♥나인우, 사랑 결실 해피엔딩 [TV종합]\n▶ https://t.co/keeQf3Qwwa\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/0RJG5ZORHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/keeQf3Qwwa",
+					"expanded_url": "http://naver.me/5YvhDl8b",
+					"display_url": "naver.me/5YvhDl8b",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555382223427498000,
+					"id_str": "1555382223427497986",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXT5DVacAIc0Fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXT5DVacAIc0Fv.jpg",
+					"url": "https://t.co/0RJG5ZORHp",
+					"display_url": "pic.twitter.com/0RJG5ZORHp",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555382230070882305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1075,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555382223427498000,
+					"id_str": "1555382223427497986",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FZXT5DVacAIc0Fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZXT5DVacAIc0Fv.jpg",
+					"url": "https://t.co/0RJG5ZORHp",
+					"display_url": "pic.twitter.com/0RJG5ZORHp",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555382230070882305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1075,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62915,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 종영 ‘징크스의 연인’ 서현♥나인우, 사랑 결실 해피엔딩 [TV종합]\n▶ https://t.co/keeQf3Qwwa\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/0RJG5ZORHp"
+	},
+	{
+		"created_at": "Fri Aug 05 02:40:19 +0000 2022",
+		"id": 1555382677401784300,
+		"id_str": "1555383167757991937",
+		"full_text": "Girls’ Generation is finally having a comeback on their 15th anniversary! Their album ‘FOREVER 1’ is unveiled today with the countdown live at 4:30PM (KST) and the music + MV release at 6PM (KST)! \n\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						222,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555382675262779400,
+		"in_reply_to_status_id_str": "1555382675262779393",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3850181,
+			"friends_count": 5,
+			"listed_count": 6102,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1652,
+		"favorite_count": 3164,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls’ Generation is finally having a comeback on their 15th anniversary! Their album ‘FOREVER 1’ is unveiled today with the countdown live at 4:30PM (KST) and the music + MV release at 6PM (KST)! \n\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
+		"created_at": "Fri Aug 05 02:40:10 +0000 2022",
+		"id": 1555382675262779400,
+		"id_str": "1555383129472376837",
+		"full_text": "‘데뷔 15주년’ 소녀시대 드디어 컴백!\n정규 7집 ‘FOREVER 1’ 오늘 베일 벗는다!\n4시 30분 카운트다운 생방송 -&gt; 6시 음원+MV 공개!\n\nhttps://t.co/1OO3HL5Dzl\n\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1OO3HL5Dzl",
+					"expanded_url": "https://bit.ly/3zSJU2n",
+					"display_url": "bit.ly/3zSJU2n",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3850181,
+			"friends_count": 5,
+			"listed_count": 6102,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1734,
+		"favorite_count": 3326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘데뷔 15주년’ 소녀시대 드디어 컴백!\n정규 7집 ‘FOREVER 1’ 오늘 베일 벗는다!\n4시 30분 카운트다운 생방송 -&gt; 6시 음원+MV 공개!\n\nhttps://t.co/1OO3HL5Dzl\n\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
 		"created_at": "Thu Aug 04 23:40:10 +0000 2022",
 		"id": 1555335302784229400,
 		"id_str": "1555337831085654017",
