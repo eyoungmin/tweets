@@ -1,6 +1,1120 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 04:40:35 +0000 2022",
+		"id": 1555774584414412800,
+		"id_str": "1555775823155789824",
+		"full_text": "[📺KBS 뮤직뱅크 원테이크 4K]\n#NewJeans - Attention\n@KBSMusicBank\n\n🔗https://t.co/KGpsoJXXef\n\n#뉴진스 #NewJeans #Attention #NewJeans_Attention\n#WeAreNewJeans #NewJeans_1st_EP #MusicBank",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						109,
+						128
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KBSMusicBank",
+					"name": "뮤직뱅크 (Music Bank)🏦",
+					"id": 52661072,
+					"id_str": "52661072",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KGpsoJXXef",
+					"expanded_url": "http://youtu.be/CHp0Kaidr14",
+					"display_url": "youtu.be/CHp0Kaidr14",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 262548,
+			"friends_count": 2,
+			"listed_count": 912,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 1070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺KBS 뮤직뱅크 원테이크 4K]\n#NewJeans - Attention\n@KBSMusicBank\n\n🔗https://t.co/KGpsoJXXef\n\n#뉴진스 #NewJeans #Attention #NewJeans_Attention\n#WeAreNewJeans #NewJeans_1st_EP #MusicBank"
+	},
+	{
+		"created_at": "Sat Aug 06 04:40:32 +0000 2022",
+		"id": 1555768877992530000,
+		"id_str": "1555775810082054146",
+		"full_text": "♥ https://t.co/wwlmUqV2f1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555768831565791200,
+					"id_str": "1555768831565791233",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555768831565791233/pu/img/v4YECw-RfHP8eId9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555768831565791233/pu/img/v4YECw-RfHP8eId9.jpg",
+					"url": "https://t.co/wwlmUqV2f1",
+					"display_url": "pic.twitter.com/wwlmUqV2f1",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1555768877992529922/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555768831565791200,
+					"id_str": "1555768831565791233",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555768831565791233/pu/img/v4YECw-RfHP8eId9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555768831565791233/pu/img/v4YECw-RfHP8eId9.jpg",
+					"url": "https://t.co/wwlmUqV2f1",
+					"display_url": "pic.twitter.com/wwlmUqV2f1",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1555768877992529922/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11291,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555768831565791233/pu/pl/B27CMC-LTdxEryyk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555768831565791233/pu/vid/480x852/ls705HYHEYpeYztw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555768831565791233/pu/vid/720x1280/gX2gyN5_3odV4A60.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555768831565791233/pu/vid/320x568/DxeuBXYNbICqRbB_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82535,
+			"friends_count": 4,
+			"listed_count": 190,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 1371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "♥ https://t.co/wwlmUqV2f1"
+	},
+	{
+		"created_at": "Sat Aug 06 04:40:23 +0000 2022",
+		"id": 1555767587119968300,
+		"id_str": "1555775771913879554",
+		"full_text": "으어어텿충워유뉴ㅠㅠㅠ 맴찌저저ㅠㅠㅠ구껄거류ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82535,
+			"friends_count": 4,
+			"listed_count": 190,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "으어어텿충워유뉴ㅠㅠㅠ 맴찌저저ㅠㅠㅠ구껄거류ㅠㅠ"
+	},
+	{
+		"created_at": "Sat Aug 06 04:40:20 +0000 2022",
+		"id": 1555767466969952300,
+		"id_str": "1555775758890590213",
+		"full_text": "앨범에서 부득이하게 한곡 빠졌습니다... 시발... 죄송함미다....ㅠㅠㅠ우ㅡ어엉 노력햇는데애애애ㅠㅠㅜ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82535,
+			"friends_count": 4,
+			"listed_count": 190,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앨범에서 부득이하게 한곡 빠졌습니다... 시발... 죄송함미다....ㅠㅠㅠ우ㅡ어엉 노력햇는데애애애ㅠㅠㅜ"
+	},
+	{
+		"created_at": "Sat Aug 06 04:40:16 +0000 2022",
+		"id": 1555479033374478300,
+		"id_str": "1555775741551321088",
+		"full_text": "[🖥/#K_Choreo8K_HDR]\n8K Full 직캠을 지금 바로 확인하세요!\n\nNewJeans &lt;Attention&gt;\n▶︎https://t.co/HIy7HjNjRz\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#NewJeans #뉴진스 #Attention\n@NewJeans_ADOR https://t.co/eSkwquAZqt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "K_Choreo8K_HDR",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "StudioK",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "8K",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "8K풀직캠",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HIy7HjNjRz",
+					"expanded_url": "https://youtu.be/nI6Zp5P13Ow",
+					"display_url": "youtu.be/nI6Zp5P13Ow",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555479025757618200,
+					"id_str": "1555479025757618177",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYr7sHagAE8tsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYr7sHagAE8tsB.jpg",
+					"url": "https://t.co/eSkwquAZqt",
+					"display_url": "pic.twitter.com/eSkwquAZqt",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1555479033374478338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555479025757618200,
+					"id_str": "1555479025757618177",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYr7sHagAE8tsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYr7sHagAE8tsB.jpg",
+					"url": "https://t.co/eSkwquAZqt",
+					"display_url": "pic.twitter.com/eSkwquAZqt",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1555479033374478338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "KBS Kpop",
+			"screen_name": "StudioK_twt",
+			"location": "",
+			"description": "💙KBS Kpop💚Official Twitter💛공식 트위터 오픈💚KBS 음악방송과 예능 콘텐츠 소식들로 매일 찾아올게요💙😜 #뮤직뱅크 #아이돌인간극장 #리무진서비스 #매점터는아이돌 & so much more by StudioK",
+			"url": "https://t.co/zq35Rwet13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq35Rwet13",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90531,
+			"friends_count": 8,
+			"listed_count": 197,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1659726876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 590,
+		"favorite_count": 1807,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🖥/#K_Choreo8K_HDR]\n8K Full 직캠을 지금 바로 확인하세요!\n\nNewJeans &lt;Attention&gt;\n▶︎https://t.co/HIy7HjNjRz\n\n#뮤직뱅크 #StudioK #8K #8K풀직캠 \n#NewJeans #뉴진스 #Attention\n@NewJeans_ADOR https://t.co/eSkwquAZqt"
+	},
+	{
+		"created_at": "Sat Aug 06 04:40:10 +0000 2022",
+		"id": 1555761211328774100,
+		"id_str": "1555775715945111552",
+		"full_text": "Girls’ Generation’s 7th album ‘FOREVER 1’ tops the streaming charts in Korea, Japan and China and iTunes charts in 31 countries, proving their power for their first comeback in 5 years!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1555761209302913000,
+		"in_reply_to_status_id_str": "1555761209302913026",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3858770,
+			"friends_count": 5,
+			"listed_count": 6106,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2424,
+		"favorite_count": 6588,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls’ Generation’s 7th album ‘FOREVER 1’ tops the streaming charts in Korea, Japan and China and iTunes charts in 31 countries, proving their power for their first comeback in 5 years!"
+	},
+	{
+		"created_at": "Sat Aug 06 04:33:52 +0000 2022",
+		"id": 1555765613074604000,
+		"id_str": "1555774131919941632",
+		"full_text": "&lt;FOREVER 1&gt;정규 7집으로 돌아온 #소녀시대!💞 #마리끌레르 7월호 커버걸 #윤아 와 함께한 밸런스게임을 다시 만나볼까요? 🆚  \n@GirlsGeneration\n👉 https://t.co/5LhIgdY3bU https://t.co/vAXISsy8np",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						52,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5LhIgdY3bU",
+					"expanded_url": "https://www.youtube.com/watch?v=G3DXrpoKXU4",
+					"display_url": "youtube.com/watch?v=G3DXrp…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555470459185283000,
+					"id_str": "1555470459185283074",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZYkJDJaQAIYKVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZYkJDJaQAIYKVb.jpg",
+					"url": "https://t.co/vAXISsy8np",
+					"display_url": "pic.twitter.com/vAXISsy8np",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1555765613074604032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555470459185283000,
+					"id_str": "1555470459185283074",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZYkJDJaQAIYKVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZYkJDJaQAIYKVb.jpg",
+					"url": "https://t.co/vAXISsy8np",
+					"display_url": "pic.twitter.com/vAXISsy8np",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1555765613074604032/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							130,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZYkJDJaQAIYKVb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106472,
+			"friends_count": 1,
+			"listed_count": 333,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1658989752",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;FOREVER 1&gt;정규 7집으로 돌아온 #소녀시대!💞 #마리끌레르 7월호 커버걸 #윤아 와 함께한 밸런스게임을 다시 만나볼까요? 🆚  \n@GirlsGeneration\n👉 https://t.co/5LhIgdY3bU https://t.co/vAXISsy8np"
+	},
+	{
 		"created_at": "Sat Aug 06 03:40:10 +0000 2022",
 		"id": 1555750515413340200,
 		"id_str": "1555760616136220672",
