@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 02:45:39 +0000 2022",
+		"id": 1555736163809300500,
+		"id_str": "1555746897947656194",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\nLOONA를 사랑하는 KCON-ers라면 누구나 신청 가능!\nLOONA와 &lt;PTT (Paint The Town)&gt; 할 KCON-ers를 기다릴게요🤗\n\n*자세한 내용은 이미지를 참고해 주세요.\n\n#KCON #KCON2022LA https://t.co/ZTcWtXIIE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555533621745725400,
+					"id_str": "1555533621745725441",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZdlmBUsAEf6ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZdlmBUsAEf6ue.jpg",
+					"url": "https://t.co/ZTcWtXIIE4",
+					"display_url": "pic.twitter.com/ZTcWtXIIE4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555736163809300480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555533621745725400,
+					"id_str": "1555533621745725441",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZdlmBUsAEf6ue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZdlmBUsAEf6ue.jpg",
+					"url": "https://t.co/ZTcWtXIIE4",
+					"display_url": "pic.twitter.com/ZTcWtXIIE4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555736163809300480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450168,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙LOONA와 함께 한 무대에서 춤출 수 있는 주인공이 되어보세요💚\n\nLOONA를 사랑하는 KCON-ers라면 누구나 신청 가능!\nLOONA와 &lt;PTT (Paint The Town)&gt; 할 KCON-ers를 기다릴게요🤗\n\n*자세한 내용은 이미지를 참고해 주세요.\n\n#KCON #KCON2022LA https://t.co/ZTcWtXIIE4"
+	},
+	{
+		"created_at": "Sat Aug 06 02:45:37 +0000 2022",
+		"id": 1555735912117637000,
+		"id_str": "1555746889097682944",
+		"full_text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nAny KCON-ers who love LOONA can apply!\nWaiting for KCON-ers who will &lt;PTT (Paint The Town)&gt; with LOONA🤗\n\n*Please refer to the image for more details.\n\n#KCON #KCON2022LA https://t.co/I1gNilHYd6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						252,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555533503055286300,
+					"id_str": "1555533503055286272",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZder3UUAAWwlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZder3UUAAWwlH.jpg",
+					"url": "https://t.co/I1gNilHYd6",
+					"display_url": "pic.twitter.com/I1gNilHYd6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555735912117637122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555533503055286300,
+					"id_str": "1555533503055286272",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZder3UUAAWwlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZder3UUAAWwlH.jpg",
+					"url": "https://t.co/I1gNilHYd6",
+					"display_url": "pic.twitter.com/I1gNilHYd6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1555735912117637122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/22(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWoZ59",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWoZ59",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450168,
+			"friends_count": 76,
+			"listed_count": 1123,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON 2022 LA DREAM STAGE with LOONA☁️\n💙Take this opportunity to be on stage with LOONA💚\n\nAny KCON-ers who love LOONA can apply!\nWaiting for KCON-ers who will &lt;PTT (Paint The Town)&gt; with LOONA🤗\n\n*Please refer to the image for more details.\n\n#KCON #KCON2022LA https://t.co/I1gNilHYd6"
+	},
+	{
+		"created_at": "Sat Aug 06 02:40:10 +0000 2022",
+		"id": 1555730335744176000,
+		"id_str": "1555745517233135621",
+		"full_text": "[✨/#뮤스스]\nAttention! #NewJeans is coming! 220805\n\n뉴진스의 의상, 헤어, 메이크업 🎨\n#뮤스스4K HDR로 만나봐 🐇🐇🐇🐇🐇\n\n따끈따끈 티져\n👇🏻👇🏻\n▶︎ https://t.co/FbATlhy1TE\n\n#뮤직뱅크 #StudioK #MusicBankStyleStudio\n#뮤직뱅크스타일스튜디오\n#뉴진스 #Attention\n@NewJeans_ADOR https://t.co/SvGvizdH0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤스스",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "뮤스스4K",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "StudioK",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "MusicBankStyleStudio",
+					"indices": [
+						148,
+						169
+					]
+				},
+				{
+					"text": "뮤직뱅크스타일스튜디오",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						199,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FbATlhy1TE",
+					"expanded_url": "https://youtu.be/DhPbOi9zcPc",
+					"display_url": "youtu.be/DhPbOi9zcPc",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555730330430378000,
+					"id_str": "1555730330430377985",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcQfi-akAExq1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcQfi-akAExq1f.jpg",
+					"url": "https://t.co/SvGvizdH0T",
+					"display_url": "pic.twitter.com/SvGvizdH0T",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1555730335744176129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555730330430378000,
+					"id_str": "1555730330430377985",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FZcQfi-akAExq1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZcQfi-akAExq1f.jpg",
+					"url": "https://t.co/SvGvizdH0T",
+					"display_url": "pic.twitter.com/SvGvizdH0T",
+					"expanded_url": "https://twitter.com/StudioK_twt/status/1555730335744176129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166598765425430500,
+			"id_str": "1166598765425430528",
+			"name": "KBS Kpop",
+			"screen_name": "StudioK_twt",
+			"location": "",
+			"description": "💙KBS Kpop💚Official Twitter💛공식 트위터 오픈💚KBS 음악방송과 예능 콘텐츠 소식들로 매일 찾아올게요💙😜 #뮤직뱅크 #아이돌인간극장 #리무진서비스 #매점터는아이돌 & so much more by StudioK",
+			"url": "https://t.co/zq35Rwet13",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zq35Rwet13",
+							"expanded_url": "https://www.youtube.com/user/KBSKpop",
+							"display_url": "youtube.com/user/KBSKpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90510,
+			"friends_count": 8,
+			"listed_count": 197,
+			"created_at": "Wed Aug 28 06:30:08 +0000 2019",
+			"favourites_count": 793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531171588015812608/6jm_Wut__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166598765425430528/1659726876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 931,
+		"favorite_count": 2187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[✨/#뮤스스]\nAttention! #NewJeans is coming! 220805\n\n뉴진스의 의상, 헤어, 메이크업 🎨\n#뮤스스4K HDR로 만나봐 🐇🐇🐇🐇🐇\n\n따끈따끈 티져\n👇🏻👇🏻\n▶︎ https://t.co/FbATlhy1TE\n\n#뮤직뱅크 #StudioK #MusicBankStyleStudio\n#뮤직뱅크스타일스튜디오\n#뉴진스 #Attention\n@NewJeans_ADOR https://t.co/SvGvizdH0T"
+	},
+	{
 		"created_at": "Sat Aug 06 01:40:16 +0000 2022",
 		"id": 1555728400806883300,
 		"id_str": "1555730443265351680",
