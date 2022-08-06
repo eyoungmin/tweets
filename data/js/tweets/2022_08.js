@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 23:29:41 +0000 2022",
+		"id": 1555696510146211800,
+		"id_str": "1555697583175176200",
+		"full_text": "Girls’ Generation have released their highly anticipated new single ‘FOREVER 1’ 👏🎉 Let us know your favorite part of the MV! 💖✨\n\n🎬 Watch here: https://t.co/JwzUEC75LT\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 @GirlsGeneration https://t.co/QGh1KGubTG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						168,
+						184
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						202,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JwzUEC75LT",
+					"expanded_url": "http://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555695982741885000,
+					"id_str": "1555695982741884928",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555695982741884928/pu/img/JSY863dYzijBAq6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555695982741884928/pu/img/JSY863dYzijBAq6i.jpg",
+					"url": "https://t.co/QGh1KGubTG",
+					"display_url": "pic.twitter.com/QGh1KGubTG",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1555696510146211840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555695982741885000,
+					"id_str": "1555695982741884928",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555695982741884928/pu/img/JSY863dYzijBAq6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555695982741884928/pu/img/JSY863dYzijBAq6i.jpg",
+					"url": "https://t.co/QGh1KGubTG",
+					"display_url": "pic.twitter.com/QGh1KGubTG",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1555696510146211840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39247,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555695982741884928/pu/vid/640x360/bDCDf2oHC4xQoIUK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555695982741884928/pu/vid/480x270/_RcKAFAHqmqa7x0A.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555695982741884928/pu/pl/0H4Zkrf8PpPWVoV2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555695982741884928/pu/vid/1280x720/eyvsXe-byygNVEzT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWN USA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SM USA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126620,
+			"friends_count": 38,
+			"listed_count": 233,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation have released their highly anticipated new single ‘FOREVER 1’ 👏🎉 Let us know your favorite part of the MV! 💖✨\n\n🎬 Watch here: https://t.co/JwzUEC75LT\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 @GirlsGeneration https://t.co/QGh1KGubTG"
+	},
+	{
 		"created_at": "Fri Aug 05 22:40:10 +0000 2022",
 		"id": 1555675711121260500,
 		"id_str": "1555685118194421760",
