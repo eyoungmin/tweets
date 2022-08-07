@@ -1,10 +1,616 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 15:40:19 +0000 2022",
+		"id": 1556292445444325400,
+		"id_str": "1556304235851022337",
+		"full_text": "[TIkTok📹]\n@ENHYPEN #니키 님과 함께한 Hype Boy!\n\n🔗https://t.co/G64DMZQwoN\n\n#NewJeans #NewJeans_HypeBoy #MINJI #HYEIN #ENHYPEN #NI_KI #HypeBoy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "니키",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "NewJeans_HypeBoy",
+					"indices": [
+						77,
+						94
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "ENHYPEN",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "NI_KI",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "HypeBoy",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ENHYPEN",
+					"name": "ENHYPEN OFFICIAL",
+					"id": 1293890751848276000,
+					"id_str": "1293890751848275968",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G64DMZQwoN",
+					"expanded_url": "https://vt.tiktok.com/ZSRMke1a6/?k=1",
+					"display_url": "vt.tiktok.com/ZSRMke1a6/?k=1",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277124,
+			"friends_count": 2,
+			"listed_count": 973,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4185,
+		"favorite_count": 9442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TIkTok📹]\n@ENHYPEN #니키 님과 함께한 Hype Boy!\n\n🔗https://t.co/G64DMZQwoN\n\n#NewJeans #NewJeans_HypeBoy #MINJI #HYEIN #ENHYPEN #NI_KI #HypeBoy"
+	},
+	{
+		"created_at": "Sun Aug 07 15:40:10 +0000 2022",
+		"id": 1556291162507722800,
+		"id_str": "1556304197590650886",
+		"full_text": "[TIkTok📹]\n@TXT_bighit #연준 님과 함께한 Cookie challenge🍪\n\n🔗https://t.co/wm5p5QTBCV\n\n#NewJeans #NewJeans_Cookie #HAERIN #HANNI #DANIELLE #TXT #YEONJUN #Cookie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "연준",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "NewJeans_Cookie",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "YEONJUN",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "Cookie",
+					"indices": [
+						144,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TXT_bighit",
+					"name": "TXT OFFICIAL",
+					"id": 1083198663424237600,
+					"id_str": "1083198663424237569",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wm5p5QTBCV",
+					"expanded_url": "https://vt.tiktok.com/ZSRMkArNj/?k=1",
+					"display_url": "vt.tiktok.com/ZSRMkArNj/?k=1",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277124,
+			"friends_count": 2,
+			"listed_count": 973,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 78,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2945,
+		"favorite_count": 6190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TIkTok📹]\n@TXT_bighit #연준 님과 함께한 Cookie challenge🍪\n\n🔗https://t.co/wm5p5QTBCV\n\n#NewJeans #NewJeans_Cookie #HAERIN #HANNI #DANIELLE #TXT #YEONJUN #Cookie"
+	},
+	{
+		"created_at": "Sun Aug 07 15:27:25 +0000 2022",
+		"id": 1556294409641394200,
+		"id_str": "1556300992659894272",
+		"full_text": "#BLACKPINK - Pre-Release Single ‘Pink Venom’ Release Poster\n\n\"Pink Venom\" is available for Pre-Save now!\n✔ https://t.co/YTie4GKtBQ\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/tzEnE01Qma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						149,
+						166
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						178,
+						195
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						196,
+						212
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTie4GKtBQ",
+					"expanded_url": "http://BLACKPINK.lnk.to/PINKVENOMPreSave",
+					"display_url": "BLACKPINK.lnk.to/PINKVENOMPreSa…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556294236043366400,
+					"id_str": "1556294236043366400",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FZkRXLFaUAAAY9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZkRXLFaUAAAY9h.jpg",
+					"url": "https://t.co/tzEnE01Qma",
+					"display_url": "pic.twitter.com/tzEnE01Qma",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1556294409641394176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556294236043366400,
+					"id_str": "1556294236043366400",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FZkRXLFaUAAAY9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZkRXLFaUAAAY9h.jpg",
+					"url": "https://t.co/tzEnE01Qma",
+					"display_url": "pic.twitter.com/tzEnE01Qma",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1556294409641394176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/XuXLqyKPY2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XuXLqyKPY2",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8324856,
+			"friends_count": 9,
+			"listed_count": 9161,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1659884503",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20791,
+		"favorite_count": 44910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK - Pre-Release Single ‘Pink Venom’ Release Poster\n\n\"Pink Venom\" is available for Pre-Save now!\n✔ https://t.co/YTie4GKtBQ\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/tzEnE01Qma"
+	},
+	{
 		"created_at": "Sun Aug 07 14:40:10 +0000 2022",
 		"id": 1556288042113314800,
 		"id_str": "1556289099002265606",
-		"full_text": "[NewJeans Commentary 👀] \n\nNewJeans 음악방송 첫주 ! 🎶 너무너무 행복하고 신기하고 감사했던 한주였어요!!!😖 아무도 다치지 않고 무사히 마쳐서 다행이죠💟?\n\n다음주엔 더 더 잘해야지ㅎㅎ❤‍🔥❤‍🔥❤‍🔥\n\n#NewJeans #뉴진스 #NewJeans_Attention #NewJeans_HypeBoy #NewJeans_Cookie",
+		"full_text": "[NewJeans Commentary 👀] \n\nNewJeans 음악방송 첫주 ! 🎶 너무너무 행복하고 신기하고 감사했던 한주였어요!!!😖 아무도 다치지 않고 무사히 마쳐서 다행이죠💟?\n\n다음주엔 더 더 잘해야지ㅎㅎ❤🔥❤🔥❤🔥\n\n#NewJeans #뉴진스 #NewJeans_Attention #NewJeans_HypeBoy #NewJeans_Cookie",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -130,7 +736,7 @@ Grailbird.data.tweets_2022_08 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "[NewJeans Commentary 👀] \n\nNewJeans 음악방송 첫주 ! 🎶 너무너무 행복하고 신기하고 감사했던 한주였어요!!!😖 아무도 다치지 않고 무사히 마쳐서 다행이죠💟?\n\n다음주엔 더 더 잘해야지ㅎㅎ❤‍🔥❤‍🔥❤‍🔥\n\n#NewJeans #뉴진스 #NewJeans_Attention #NewJeans_HypeBoy #NewJeans_Cookie"
+		"text": "[NewJeans Commentary 👀] \n\nNewJeans 음악방송 첫주 ! 🎶 너무너무 행복하고 신기하고 감사했던 한주였어요!!!😖 아무도 다치지 않고 무사히 마쳐서 다행이죠💟?\n\n다음주엔 더 더 잘해야지ㅎㅎ❤🔥❤🔥❤🔥\n\n#NewJeans #뉴진스 #NewJeans_Attention #NewJeans_HypeBoy #NewJeans_Cookie"
 	},
 	{
 		"created_at": "Sun Aug 07 13:40:10 +0000 2022",
