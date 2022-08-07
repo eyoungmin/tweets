@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 08:40:30 +0000 2022",
+		"id": 1556195047041040400,
+		"id_str": "1556198586890821632",
+		"full_text": "[📺SBS 인기가요]\n#NewJeans - Cookie\n@kpop_sbs\n\n🔗https://t.co/sLHCp6pwKF\n\n#뉴진스 #NewJeans #Cookie #NewJeans_Cookie\n#WeAreNewJeans #NewJeans_1st_EP #인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "Cookie",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "NewJeans_Cookie",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpop_sbs",
+					"name": "스브스케이팝 X INKIGAYO",
+					"id": 1131475077650772000,
+					"id_str": "1131475077650771968",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sLHCp6pwKF",
+					"expanded_url": "http://tv.naver.com/v/28417767",
+					"display_url": "tv.naver.com/v/28417767",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273067,
+			"friends_count": 2,
+			"listed_count": 936,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 1395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺SBS 인기가요]\n#NewJeans - Cookie\n@kpop_sbs\n\n🔗https://t.co/sLHCp6pwKF\n\n#뉴진스 #NewJeans #Cookie #NewJeans_Cookie\n#WeAreNewJeans #NewJeans_1st_EP #인기가요"
+	},
+	{
+		"created_at": "Sun Aug 07 08:40:23 +0000 2022",
+		"id": 1556194144900776000,
+		"id_str": "1556198557094481920",
+		"full_text": "[📺SBS 인기가요]\n#NewJeans - Attention\n@kpop_sbs\n\n🔗https://t.co/rXabfiIeys\n\n#뉴진스 #NewJeans #Attention #NewJeans_Attention\n#WeAreNewJeans #NewJeans_1st_EP #인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						97,
+						116
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpop_sbs",
+					"name": "스브스케이팝 X INKIGAYO",
+					"id": 1131475077650772000,
+					"id_str": "1131475077650771968",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rXabfiIeys",
+					"expanded_url": "http://tv.naver.com/v/28417726",
+					"display_url": "tv.naver.com/v/28417726",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273067,
+			"friends_count": 2,
+			"listed_count": 936,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 1422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺SBS 인기가요]\n#NewJeans - Attention\n@kpop_sbs\n\n🔗https://t.co/rXabfiIeys\n\n#뉴진스 #NewJeans #Attention #NewJeans_Attention\n#WeAreNewJeans #NewJeans_1st_EP #인기가요"
+	},
+	{
+		"created_at": "Sun Aug 07 08:40:18 +0000 2022",
+		"id": 1556189300966162400,
+		"id_str": "1556198535409934336",
+		"full_text": "[🎥#안방1열직캠] 뉴진스 - Cookie \n\n#인기가요 #뉴진스 #NewJeans #Cookie @NewJeans_ADOR\n\n📌https://t.co/s8Ez9RICD9 https://t.co/MpCot5zZxh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "Cookie",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s8Ez9RICD9",
+					"expanded_url": "https://youtu.be/13aW5zJ832U",
+					"display_url": "youtu.be/13aW5zJ832U",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556189291340255200,
+					"id_str": "1556189291340255233",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FZix6lmaUAENXvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZix6lmaUAENXvb.jpg",
+					"url": "https://t.co/MpCot5zZxh",
+					"display_url": "pic.twitter.com/MpCot5zZxh",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1556189300966162432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556189291340255200,
+					"id_str": "1556189291340255233",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FZix6lmaUAENXvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZix6lmaUAENXvb.jpg",
+					"url": "https://t.co/MpCot5zZxh",
+					"display_url": "pic.twitter.com/MpCot5zZxh",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1556189300966162432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsG17u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsG17u",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719961,
+			"friends_count": 79,
+			"listed_count": 829,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 6011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1659841929",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 833,
+		"favorite_count": 1844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 뉴진스 - Cookie \n\n#인기가요 #뉴진스 #NewJeans #Cookie @NewJeans_ADOR\n\n📌https://t.co/s8Ez9RICD9 https://t.co/MpCot5zZxh"
+	},
+	{
+		"created_at": "Sun Aug 07 08:40:10 +0000 2022",
+		"id": 1556188267963625500,
+		"id_str": "1556198501293473792",
+		"full_text": "[🎥#안방1열직캠] 뉴진스 - Attention\n\n#인기가요 #뉴진스 #NewJeans #Attention @NewJeans_ADOR\n\n📌https://t.co/qqTL9biL36 https://t.co/hwZ5UMxQwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qqTL9biL36",
+					"expanded_url": "https://youtu.be/X5SeR_DVaiw",
+					"display_url": "youtu.be/X5SeR_DVaiw",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556188256160870400,
+					"id_str": "1556188256160870400",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FZiw-VQacAA4HwS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZiw-VQacAA4HwS.jpg",
+					"url": "https://t.co/hwZ5UMxQwx",
+					"display_url": "pic.twitter.com/hwZ5UMxQwx",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1556188267963625474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556188256160870400,
+					"id_str": "1556188256160870400",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FZiw-VQacAA4HwS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZiw-VQacAA4HwS.jpg",
+					"url": "https://t.co/hwZ5UMxQwx",
+					"display_url": "pic.twitter.com/hwZ5UMxQwx",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1556188267963625474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsG17u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsG17u",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719961,
+			"friends_count": 79,
+			"listed_count": 829,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 6011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1659841929",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 776,
+		"favorite_count": 1689,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 뉴진스 - Attention\n\n#인기가요 #뉴진스 #NewJeans #Attention @NewJeans_ADOR\n\n📌https://t.co/qqTL9biL36 https://t.co/hwZ5UMxQwx"
+	},
+	{
+		"created_at": "Sun Aug 07 08:29:44 +0000 2022",
+		"id": 1556188628631847000,
+		"id_str": "1556195876225294336",
+		"full_text": "[GIRLS' GENERATION The 7th Album - FOREVER 1]💕\n\n소녀시대 정규 7집 FOREVER 1 앨범 구매 시 필름포토 증정 이벤트는 오늘까지!💕\n마지막 기회를 놓치지말고, 지금 바로 SMTOWN &amp;STORE에서 만나보세요!\n\nhttps://t.co/hUYwOPB8tX https://t.co/8X3eE7roGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hUYwOPB8tX",
+					"expanded_url": "https://bit.ly/3Qllk0q",
+					"display_url": "bit.ly/3Qllk0q",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556188623686766600,
+					"id_str": "1556188623686766592",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZixTuZakAA9Mk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZixTuZakAA9Mk-.jpg",
+					"url": "https://t.co/8X3eE7roGU",
+					"display_url": "pic.twitter.com/8X3eE7roGU",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556188628631846912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556188623686766600,
+					"id_str": "1556188623686766592",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZixTuZakAA9Mk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZixTuZakAA9Mk-.jpg",
+					"url": "https://t.co/8X3eE7roGU",
+					"display_url": "pic.twitter.com/8X3eE7roGU",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556188628631846912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249043,
+			"friends_count": 0,
+			"listed_count": 406,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GIRLS' GENERATION The 7th Album - FOREVER 1]💕\n\n소녀시대 정규 7집 FOREVER 1 앨범 구매 시 필름포토 증정 이벤트는 오늘까지!💕\n마지막 기회를 놓치지말고, 지금 바로 SMTOWN &amp;STORE에서 만나보세요!\n\nhttps://t.co/hUYwOPB8tX https://t.co/8X3eE7roGU"
+	},
+	{
 		"created_at": "Sun Aug 07 07:23:37 +0000 2022",
 		"id": 1556178246873792500,
 		"id_str": "1556179239031885825",
