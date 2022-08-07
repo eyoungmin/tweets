@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 19:23:43 +0000 2022",
+		"id": 1556357588437962800,
+		"id_str": "1556360456616288257",
+		"full_text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️‍🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556357580619976700,
+					"id_str": "1556357580619976704",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlK-UBXEAAVRIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlK-UBXEAAVRIY.jpg",
+					"url": "https://t.co/w56R1x8uOL",
+					"display_url": "pic.twitter.com/w56R1x8uOL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1556357588437962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556357580619976700,
+					"id_str": "1556357580619976704",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlK-UBXEAAVRIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlK-UBXEAAVRIY.jpg",
+					"url": "https://t.co/w56R1x8uOL",
+					"display_url": "pic.twitter.com/w56R1x8uOL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1556357588437962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556357581198737400,
+					"id_str": "1556357581198737408",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlK-WLWQAAYceC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlK-WLWQAAYceC.jpg",
+					"url": "https://t.co/w56R1x8uOL",
+					"display_url": "pic.twitter.com/w56R1x8uOL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1556357588437962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556357582163435500,
+					"id_str": "1556357582163435520",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlK-ZxWYAA7L5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlK-ZxWYAA7L5d.jpg",
+					"url": "https://t.co/w56R1x8uOL",
+					"display_url": "pic.twitter.com/w56R1x8uOL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1556357588437962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556357583006564400,
+					"id_str": "1556357583006564354",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlK-c6XgAIC_VX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlK-c6XgAIC_VX.jpg",
+					"url": "https://t.co/w56R1x8uOL",
+					"display_url": "pic.twitter.com/w56R1x8uOL",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1556357588437962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1556357576849121300,
+		"in_reply_to_status_id_str": "1556357576849121280",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969156,
+			"friends_count": 3,
+			"listed_count": 8898,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 946,
+		"favorite_count": 4527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️‍🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL"
+	},
+	{
 		"created_at": "Sun Aug 07 16:40:15 +0000 2022",
 		"id": 1556315472143990800,
 		"id_str": "1556319318501199877",
