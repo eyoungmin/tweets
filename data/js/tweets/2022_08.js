@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 13:40:10 +0000 2022",
+		"id": 1556260856526434300,
+		"id_str": "1556273999440650240",
+		"full_text": "[💝]\n\nこんばんは、aespaです💙⭐️🌙🦋\n\n2日間、4回のショーケースを通して私たちに忘れられない思い出をプレゼントしてくれたMYの皆さん！\n本当にありがとうございました🫶\nみんな最高〜🥳またすぐ会いましょうね♥️\n\n#aespa #æspa #에스파 #エスパ \n#MYしか勝たん https://t.co/oQiOFTzpwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "MYしか勝たん",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556260288839958500,
+					"id_str": "1556260288839958528",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjyfL5aQAA3tWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjyfL5aQAA3tWq.jpg",
+					"url": "https://t.co/oQiOFTzpwL",
+					"display_url": "pic.twitter.com/oQiOFTzpwL",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1556260856526434304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556260288839958500,
+					"id_str": "1556260288839958528",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FZjyfL5aQAA3tWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZjyfL5aQAA3tWq.jpg",
+					"url": "https://t.co/oQiOFTzpwL",
+					"display_url": "pic.twitter.com/oQiOFTzpwL",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1556260856526434304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192234,
+			"friends_count": 1,
+			"listed_count": 477,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7468,
+		"favorite_count": 25765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💝]\n\nこんばんは、aespaです💙⭐️🌙🦋\n\n2日間、4回のショーケースを通して私たちに忘れられない思い出をプレゼントしてくれたMYの皆さん！\n本当にありがとうございました🫶\nみんな最高〜🥳またすぐ会いましょうね♥️\n\n#aespa #æspa #에스파 #エスパ \n#MYしか勝たん https://t.co/oQiOFTzpwL"
+	},
+	{
 		"created_at": "Sun Aug 07 10:23:39 +0000 2022",
 		"id": 1556218450946949000,
 		"id_str": "1556224543349305344",
