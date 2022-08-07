@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 02:40:10 +0000 2022",
+		"id": 1556080112562450400,
+		"id_str": "1556107904511533056",
+		"full_text": "뉴진스의 뮤직뱅크 첫 출근 스타일링을\n아래 링크에서 확인해보세요💙 \n\n🔗 https://t.co/3WWG8TTK7h\n\n#뉴진스 #뮤스스\n#NewJeans #MusicbankStyleStudio https://t.co/DpPTxC2Cq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "뮤스스",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "MusicbankStyleStudio",
+					"indices": [
+						86,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WWG8TTK7h",
+					"expanded_url": "https://youtu.be/q5oYGe8oPyQ",
+					"display_url": "youtu.be/q5oYGe8oPyQ",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556080105373732900,
+					"id_str": "1556080105373732864",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FZhOnILakAA1D76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZhOnILakAA1D76.jpg",
+					"url": "https://t.co/DpPTxC2Cq3",
+					"display_url": "pic.twitter.com/DpPTxC2Cq3",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1556080112562450435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556080105373732900,
+					"id_str": "1556080105373732864",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FZhOnILakAA1D76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZhOnILakAA1D76.jpg",
+					"url": "https://t.co/DpPTxC2Cq3",
+					"display_url": "pic.twitter.com/DpPTxC2Cq3",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1556080112562450435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:10 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 142개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095664,
+			"friends_count": 19,
+			"listed_count": 5164,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 577,
+		"favorite_count": 2127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴진스의 뮤직뱅크 첫 출근 스타일링을\n아래 링크에서 확인해보세요💙 \n\n🔗 https://t.co/3WWG8TTK7h\n\n#뉴진스 #뮤스스\n#NewJeans #MusicbankStyleStudio https://t.co/DpPTxC2Cq3"
+	},
+	{
 		"created_at": "Sun Aug 07 02:00:16 +0000 2022",
 		"id": 1556092045881577500,
 		"id_str": "1556097865381920769",
