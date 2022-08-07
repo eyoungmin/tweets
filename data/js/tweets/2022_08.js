@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 04:34:04 +0000 2022",
+		"id": 1556127999694495700,
+		"id_str": "1556136569223856128",
+		"full_text": "데뷔 15주년을 기념하여 정규 7집&lt;FOREVER 1&gt;과 함께 돌아온 소녀시대 💗 21년도 1월, #소녀시대 #수영 과 함께한 #마리끌레르 팝퀴즈를 다시 만나보세요 🎈\n@GirlsGeneration\n👉 https://t.co/lcvNg6aqIu https://t.co/dWRW3CSXFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lcvNg6aqIu",
+					"expanded_url": "https://www.youtube.com/watch?v=jzd2moqMcSI",
+					"display_url": "youtube.com/watch?v=jzd2mo…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555470552890249200,
+					"id_str": "1555470552890249221",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZYkOgOakAUdcus.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZYkOgOakAUdcus.jpg",
+					"url": "https://t.co/dWRW3CSXFX",
+					"display_url": "pic.twitter.com/dWRW3CSXFX",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1556127999694495744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555470552890249200,
+					"id_str": "1555470552890249221",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZYkOgOakAUdcus.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZYkOgOakAUdcus.jpg",
+					"url": "https://t.co/dWRW3CSXFX",
+					"display_url": "pic.twitter.com/dWRW3CSXFX",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1556127999694495744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 292,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							130,
+							73
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZYkOgOakAUdcus.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106470,
+			"friends_count": 1,
+			"listed_count": 333,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1658989752",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데뷔 15주년을 기념하여 정규 7집&lt;FOREVER 1&gt;과 함께 돌아온 소녀시대 💗 21년도 1월, #소녀시대 #수영 과 함께한 #마리끌레르 팝퀴즈를 다시 만나보세요 🎈\n@GirlsGeneration\n👉 https://t.co/lcvNg6aqIu https://t.co/dWRW3CSXFX"
+	},
+	{
 		"created_at": "Sun Aug 07 03:50:59 +0000 2022",
 		"id": 1556125307303653400,
 		"id_str": "1556125726893494272",
