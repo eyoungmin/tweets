@@ -1,10 +1,200 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 20:45:36 +0000 2022",
+		"id": 1556377399562059800,
+		"id_str": "1556381065757032449",
+		"full_text": "[LOONATHEWORLD] Meet &amp; Greet Event🇺🇸\n\n🎨[Kansas City, MO (8.8)]🎨\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Kansas City(8.8), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/FoNwmfIoq2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556376031229055000,
+					"id_str": "1556376031229054977",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlbwR5XEAEoBck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlbwR5XEAEoBck.jpg",
+					"url": "https://t.co/FoNwmfIoq2",
+					"display_url": "pic.twitter.com/FoNwmfIoq2",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1556377399562059777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556376031229055000,
+					"id_str": "1556376031229054977",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FZlbwR5XEAEoBck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZlbwR5XEAEoBck.jpg",
+					"url": "https://t.co/FoNwmfIoq2",
+					"display_url": "pic.twitter.com/FoNwmfIoq2",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1556377399562059777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149450,
+			"friends_count": 104,
+			"listed_count": 320,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] Meet &amp; Greet Event🇺🇸\n\n🎨[Kansas City, MO (8.8)]🎨\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Kansas City(8.8), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/FoNwmfIoq2"
+	},
+	{
 		"created_at": "Sun Aug 07 19:23:43 +0000 2022",
 		"id": 1556357588437962800,
 		"id_str": "1556360456616288257",
-		"full_text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️‍🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL",
+		"full_text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -310,7 +500,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "da",
-		"text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️‍🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL"
+		"text": "[#진솔 / #JinSoul] San Francisco and Denver ❤️🔥\n#이달의소녀 #LOONA https://t.co/w56R1x8uOL"
 	},
 	{
 		"created_at": "Sun Aug 07 16:40:15 +0000 2022",
