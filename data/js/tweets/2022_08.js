@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 07:40:12 +0000 2022",
+		"id": 1556544818834051000,
+		"id_str": "1556545799244349440",
+		"full_text": "✨𝟮𝟬𝟮𝟮 𝗠𝗘𝗚𝗔𝗙𝗜𝗘𝗟𝗗 𝗠𝗨𝗦𝗜𝗖 𝗙𝗘𝗦𝗧𝗜𝗩𝗔𝗟✨\n\n자우림은 9월 4일(일) 공연에 함께합니다🔥\n\n💥2022 메가필드 뮤직페스티벌💥\n📣일시: 2022년 9월 3일(토), 4일(일)\n📣장소: 연세대학교 노천극장\n\n#자우림 #JAURIM \n#MEGAROCKINPLAY #메가필드뮤직페스티벌 #MEGAFIELDMUSICFESTIVAL https://t.co/FTMxMYF6l2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "MEGAROCKINPLAY",
+					"indices": [
+						136,
+						151
+					]
+				},
+				{
+					"text": "메가필드뮤직페스티벌",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "MEGAFIELDMUSICFESTIVAL",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556544807048122400,
+					"id_str": "1556544807048122368",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn1QU0VEAAI2Dc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn1QU0VEAAI2Dc.jpg",
+					"url": "https://t.co/FTMxMYF6l2",
+					"display_url": "pic.twitter.com/FTMxMYF6l2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1556544818834051072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556544807048122400,
+					"id_str": "1556544807048122368",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn1QU0VEAAI2Dc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn1QU0VEAAI2Dc.jpg",
+					"url": "https://t.co/FTMxMYF6l2",
+					"display_url": "pic.twitter.com/FTMxMYF6l2",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1556544818834051072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣMD 온라인 판매 링크",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3940,
+			"friends_count": 5,
+			"listed_count": 23,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨𝟮𝟬𝟮𝟮 𝗠𝗘𝗚𝗔𝗙𝗜𝗘𝗟𝗗 𝗠𝗨𝗦𝗜𝗖 𝗙𝗘𝗦𝗧𝗜𝗩𝗔𝗟✨\n\n자우림은 9월 4일(일) 공연에 함께합니다🔥\n\n💥2022 메가필드 뮤직페스티벌💥\n📣일시: 2022년 9월 3일(토), 4일(일)\n📣장소: 연세대학교 노천극장\n\n#자우림 #JAURIM \n#MEGAROCKINPLAY #메가필드뮤직페스티벌 #MEGAFIELDMUSICFESTIVAL https://t.co/FTMxMYF6l2"
+	},
+	{
+		"created_at": "Mon Aug 08 07:40:10 +0000 2022",
+		"id": 1556540629697458200,
+		"id_str": "1556545790276997122",
+		"full_text": "[#선예]\n2022.08.08 (월) 잇츠라이브 사전녹화 인원체크 안내📣\n\n✔ 장소 : 상암 MBC 신사옥 공개홀 1층 로비 \n(돔 맞은 편 건물)\n✔️줄 서는 시간 4:20PM \n✔️번호 배부 시간 4:30PM \n\n사진 속 장소에서 10분 전까지 번호대로 줄을 서주시기 바랍니다.\n\n#Sunye https://t.co/C7dHhNyzIm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556540622432919600,
+					"id_str": "1556540622432919553",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnxcv6UYAEwZjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnxcv6UYAEwZjV.jpg",
+					"url": "https://t.co/C7dHhNyzIm",
+					"display_url": "pic.twitter.com/C7dHhNyzIm",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1556540629697458176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556540622432919600,
+					"id_str": "1556540622432919553",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnxcv6UYAEwZjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnxcv6UYAEwZjV.jpg",
+					"url": "https://t.co/C7dHhNyzIm",
+					"display_url": "pic.twitter.com/C7dHhNyzIm",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1556540629697458176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18747,
+			"friends_count": 2,
+			"listed_count": 65,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예]\n2022.08.08 (월) 잇츠라이브 사전녹화 인원체크 안내📣\n\n✔ 장소 : 상암 MBC 신사옥 공개홀 1층 로비 \n(돔 맞은 편 건물)\n✔️줄 서는 시간 4:20PM \n✔️번호 배부 시간 4:30PM \n\n사진 속 장소에서 10분 전까지 번호대로 줄을 서주시기 바랍니다.\n\n#Sunye https://t.co/C7dHhNyzIm"
+	},
+	{
+		"created_at": "Mon Aug 08 07:29:38 +0000 2022",
+		"id": 1556535685921644500,
+		"id_str": "1556543142291275776",
+		"full_text": "[배신엔딩] 엄마를 부탁한다던 사이코패스 사형수의 배신 💔\n궁지에 몰린 창호는 무사히 살아남을 수 있을까? 😨\n\n&lt;#빅마우스&gt; 매주 금·토 밤 9시 50분 방송✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\nMBC220805방송 https://t.co/kGDgeNRvAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556517755842486300,
+					"id_str": "1556517755842486274",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnc0-_VQAA3beb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnc0-_VQAA3beb.jpg",
+					"url": "https://t.co/kGDgeNRvAf",
+					"display_url": "pic.twitter.com/kGDgeNRvAf",
+					"expanded_url": "https://twitter.com/withMBC/status/1556535685921644544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556517755842486300,
+					"id_str": "1556517755842486274",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnc0-_VQAA3beb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnc0-_VQAA3beb.jpg",
+					"url": "https://t.co/kGDgeNRvAf",
+					"display_url": "pic.twitter.com/kGDgeNRvAf",
+					"expanded_url": "https://twitter.com/withMBC/status/1556535685921644544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556517755842486274/vid/480x600/gyv4D8rxbjxCNVQb.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1556517755842486274/pl/jzLAal0d2PVIaruD.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556517755842486274/vid/320x400/qTSwYJG-rC5D86O_.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556517755842486274/vid/720x900/1iBGpKSI-EDPYE_j.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005645,
+			"friends_count": 9850,
+			"listed_count": 4210,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[배신엔딩] 엄마를 부탁한다던 사이코패스 사형수의 배신 💔\n궁지에 몰린 창호는 무사히 살아남을 수 있을까? 😨\n\n&lt;#빅마우스&gt; 매주 금·토 밤 9시 50분 방송✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\nMBC220805방송 https://t.co/kGDgeNRvAf"
+	},
+	{
 		"created_at": "Mon Aug 08 06:29:39 +0000 2022",
 		"id": 1556522319115260000,
 		"id_str": "1556528044109664257",
