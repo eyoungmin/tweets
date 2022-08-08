@@ -1,6 +1,1704 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 04:45:46 +0000 2022",
+		"id": 1556497933985583000,
+		"id_str": "1556501900589256704",
+		"full_text": "오늘의 라인업💗\n아이칠린, 시그니처, 버가부, 카드, 라붐, 라잇썸, 우아!, 로켓펀치, 모모랜드, 김세정, 스테이씨, 위키미키, 에버글로우, 에프엑스, 에이핑크, 소녀시대, 시크릿넘버, 드림캐쳐, 이달의 소녀, (여자)아이들, 예린, 비비지, 우주소녀, 르세라핌, 케플러, 아이브 https://t.co/wkzLCMtyY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkzLCMtyY9",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455275821170689",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129022,
+			"friends_count": 347,
+			"listed_count": 402,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556455275821170700,
+		"quoted_status_id_str": "1556455275821170689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wkzLCMtyY9",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1556455275821170689",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 08 01:40:29 +0000 2022",
+			"id": 1556455275821170700,
+			"id_str": "1556455275821170689",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 14:00~15:30\n\n한 번 보면 자꾸 생각나고💭\n두 번 보면 헤어나올 수 없는😍\n매력으로 똘똘 뭉친 8월생 여자아이돌과 함께 해요 ╚(•⌂•)╝🎉   \n\n▶ https://t.co/Tz66eAHxYA\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/FPL81hdiVP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Tz66eAHxYA",
+						"expanded_url": "https://youtu.be/5z6vIoNpAtc",
+						"display_url": "youtu.be/5z6vIoNpAtc",
+						"indices": [
+							106,
+							129
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1556455240811298800,
+						"id_str": "1556455240811298817",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/FZmjy4laQAEQwMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZmjy4laQAEQwMw.jpg",
+						"url": "https://t.co/FPL81hdiVP",
+						"display_url": "pic.twitter.com/FPL81hdiVP",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455275821170689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556455240811298800,
+						"id_str": "1556455240811298817",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/FZmjy4laQAEQwMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZmjy4laQAEQwMw.jpg",
+						"url": "https://t.co/FPL81hdiVP",
+						"display_url": "pic.twitter.com/FPL81hdiVP",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455275821170689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129022,
+				"friends_count": 347,
+				"listed_count": 402,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 121,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n아이칠린, 시그니처, 버가부, 카드, 라붐, 라잇썸, 우아!, 로켓펀치, 모모랜드, 김세정, 스테이씨, 위키미키, 에버글로우, 에프엑스, 에이핑크, 소녀시대, 시크릿넘버, 드림캐쳐, 이달의 소녀, (여자)아이들, 예린, 비비지, 우주소녀, 르세라핌, 케플러, 아이브 https://t.co/wkzLCMtyY9"
+	},
+	{
+		"created_at": "Mon Aug 08 04:45:37 +0000 2022",
+		"id": 1556497933733953500,
+		"id_str": "1556501862274187265",
+		"full_text": "TODAY's LINEUP💗\nICHILLIN', cignature, bugAboo, KARD, LABOUM, LIGHTSUM, woo!ah!, Rocket Punch, MOMOLAND, KIM SEJEONG, STAYC, Weki Meki, EVERGLOW, f(x), Apink, Girls' Generation, SECRET NUMBER, Dreamcatcher, LOONA, (G)I-DLE, YERIN, VIVIZ, WJSN, LE SSERAFIM, Kep1er, IVE https://t.co/5bcN7w1dNL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bcN7w1dNL",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455280304848897",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129022,
+			"friends_count": 347,
+			"listed_count": 402,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556455280304849000,
+		"quoted_status_id_str": "1556455280304848897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5bcN7w1dNL",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1556455280304848897",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 08 01:40:31 +0000 2022",
+			"id": 1556455280304849000,
+			"id_str": "1556455280304848897",
+			"full_text": "Today's K-Bop Playlist👋\n⏰PM 14:00~15:30\n\nAugust birthday girls🎉\nHappy Birthday To You~😍\n\n▶ https://t.co/Tz66eAHxYA\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/qNPx7rFxpI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Tz66eAHxYA",
+						"expanded_url": "https://youtu.be/5z6vIoNpAtc",
+						"display_url": "youtu.be/5z6vIoNpAtc",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1556455226114453500,
+						"id_str": "1556455226114453504",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FZmjyB1aMAABDQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZmjyB1aMAABDQN.jpg",
+						"url": "https://t.co/qNPx7rFxpI",
+						"display_url": "pic.twitter.com/qNPx7rFxpI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455280304848897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556455226114453500,
+						"id_str": "1556455226114453504",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FZmjyB1aMAABDQN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZmjyB1aMAABDQN.jpg",
+						"url": "https://t.co/qNPx7rFxpI",
+						"display_url": "pic.twitter.com/qNPx7rFxpI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556455280304848897/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1556455275821170700,
+			"in_reply_to_status_id_str": "1556455275821170689",
+			"in_reply_to_user_id": 744928926,
+			"in_reply_to_user_id_str": "744928926",
+			"in_reply_to_screen_name": "ALLTHEKPOP",
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129022,
+				"friends_count": 347,
+				"listed_count": 402,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY's LINEUP💗\nICHILLIN', cignature, bugAboo, KARD, LABOUM, LIGHTSUM, woo!ah!, Rocket Punch, MOMOLAND, KIM SEJEONG, STAYC, Weki Meki, EVERGLOW, f(x), Apink, Girls' Generation, SECRET NUMBER, Dreamcatcher, LOONA, (G)I-DLE, YERIN, VIVIZ, WJSN, LE SSERAFIM, Kep1er, IVE https://t.co/5bcN7w1dNL"
+	},
+	{
+		"created_at": "Mon Aug 08 04:40:18 +0000 2022",
+		"id": 1556414101961773000,
+		"id_str": "1556500525708886018",
+		"full_text": "We’re celebrating @JaurimOfficial’s 25th anniversary with Kurated by [ JAURIM ], an exclusive playlist curated by the iconic K-legend band 🥰 What’s your favorite JAURIM track? https://t.co/eRLpHHkjJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaurimOfficial",
+					"name": "Jaurim",
+					"id": 923507155860299800,
+					"id_str": "923507155860299776",
+					"indices": [
+						18,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eRLpHHkjJ6",
+					"expanded_url": "https://newsroom.spotify.com/2022-08-07/south-koreas-legendary-band-jaurim-curates-25-years-of-inspiration/",
+					"display_url": "newsroom.spotify.com/2022-08-07/sou…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159138417,
+			"id_str": "159138417",
+			"name": "Spotify News",
+			"screen_name": "SpotifyNews",
+			"location": "",
+			"description": "Turning the volume up on all things @Spotify, from company news and exclusives to stories about creators, tech, and culture.",
+			"url": "https://t.co/16lMKhZARJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/16lMKhZARJ",
+							"expanded_url": "https://newsroom.spotify.com",
+							"display_url": "newsroom.spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133916,
+			"friends_count": 420,
+			"listed_count": 631,
+			"created_at": "Thu Jun 24 15:21:00 +0000 2010",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496561997256740875/jOLrKK0P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496561997256740875/jOLrKK0P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159138417/1645629294",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re celebrating @JaurimOfficial’s 25th anniversary with Kurated by [ JAURIM ], an exclusive playlist curated by the iconic K-legend band 🥰 What’s your favorite JAURIM track? https://t.co/eRLpHHkjJ6"
+	},
+	{
+		"created_at": "Mon Aug 08 04:40:13 +0000 2022",
+		"id": 1556494338053443600,
+		"id_str": "1556500504309547008",
+		"full_text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにて、\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のスタッフブログとメンバー写真、さらにメッセージ動画を更新しました📝💓\nメルマガサイトにログイン後、『BLOG』にてご覧ください✨\n\nhttps://t.co/rdkjEGqUk4\n\n#aespa #æspa #에스파 #エスパ\n#SYNK_aespa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "SYNK_aespa",
+					"indices": [
+						194,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rdkjEGqUk4",
+					"expanded_url": "https://aespa.smtown-official.jp/index.php",
+					"display_url": "aespa.smtown-official.jp/index.php",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193895,
+			"friends_count": 1,
+			"listed_count": 482,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 2895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\naespa OFFICIAL MAIL MAGAZINEにて、\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』のスタッフブログとメンバー写真、さらにメッセージ動画を更新しました📝💓\nメルマガサイトにログイン後、『BLOG』にてご覧ください✨\n\nhttps://t.co/rdkjEGqUk4\n\n#aespa #æspa #에스파 #エスパ\n#SYNK_aespa"
+	},
+	{
+		"created_at": "Mon Aug 08 04:29:56 +0000 2022",
+		"id": 1556496132754518000,
+		"id_str": "1556497917145391105",
+		"full_text": "Girls’ Generation Tampilkan Lagu 'FOREVER 1' Secara Perdana di Program Musik\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/lFJs3VPgHi\n\n@GirlsGeneration \n#GirlsGeneration #FOREVER1 https://t.co/BExWnWn3ow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						204,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						169,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lFJs3VPgHi",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid02WrX43whpQE1B8peQyWnn4a6WgekXcCWbuoeAMf9mrP5dQXNZjH4S3BTgKJcaKpUjl",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556496114781929500,
+					"id_str": "1556496114781929472",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnI-D_aQAA-elz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnI-D_aQAA-elz.jpg",
+					"url": "https://t.co/BExWnWn3ow",
+					"display_url": "pic.twitter.com/BExWnWn3ow",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1556496132754518016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1405,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556496114781929500,
+					"id_str": "1556496114781929472",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnI-D_aQAA-elz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnI-D_aQAA-elz.jpg",
+					"url": "https://t.co/BExWnWn3ow",
+					"display_url": "pic.twitter.com/BExWnWn3ow",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1556496132754518016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1405,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1081188,
+			"friends_count": 37,
+			"listed_count": 659,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Girls’ Generation Tampilkan Lagu 'FOREVER 1' Secara Perdana di Program Musik\n\nCek info lengkapnya di Official Facebook  Page SMTOWN Indonesia\n👉🏻https://t.co/lFJs3VPgHi\n\n@GirlsGeneration \n#GirlsGeneration #FOREVER1 https://t.co/BExWnWn3ow"
+	},
+	{
+		"created_at": "Mon Aug 08 04:29:48 +0000 2022",
+		"id": 1556485196274614300,
+		"id_str": "1556497883104518144",
+		"full_text": "🔥\"공조 이즈 백! 기념🔥 프로공조러 어셈블!!\"\n781만 &lt;공조&gt; 수사에 함께 했던 레전드 관객, '#프로공조러'를 찾습니다!🚓🌏\n\n자세한 내용은 아래로 확인!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월대개봉 https://t.co/vUlhOgvV3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프로공조러",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556481700175442000,
+					"id_str": "1556481700175441920",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm73BZacAASWQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm73BZacAASWQn.jpg",
+					"url": "https://t.co/vUlhOgvV3g",
+					"display_url": "pic.twitter.com/vUlhOgvV3g",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1556485196274614273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556481700175442000,
+					"id_str": "1556481700175441920",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm73BZacAASWQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm73BZacAASWQn.jpg",
+					"url": "https://t.co/vUlhOgvV3g",
+					"display_url": "pic.twitter.com/vUlhOgvV3g",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1556485196274614273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331784,
+			"friends_count": 10667,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1659924427",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥\"공조 이즈 백! 기념🔥 프로공조러 어셈블!!\"\n781만 &lt;공조&gt; 수사에 함께 했던 레전드 관객, '#프로공조러'를 찾습니다!🚓🌏\n\n자세한 내용은 아래로 확인!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월대개봉 https://t.co/vUlhOgvV3g"
+	},
+	{
+		"created_at": "Mon Aug 08 04:20:30 +0000 2022",
+		"id": 1556489004564238300,
+		"id_str": "1556495541760012289",
+		"full_text": "손민수하고싶은 셀럽들의 손민수템‼️\n\n#제니 #내돈내산 #마사지툴 #두피마사지기기 #서현진 #괄사 #리스테린 #몬스타엑스 #민혁 #리지 #인센스스틱\n\nhttps://t.co/XS3RApzgvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "내돈내산",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "마사지툴",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "두피마사지기기",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "서현진",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "괄사",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "리스테린",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "민혁",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "리지",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "인센스스틱",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XS3RApzgvV",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/68678",
+					"display_url": "cosmopolitan.co.kr/article/68678",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89383,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "손민수하고싶은 셀럽들의 손민수템‼️\n\n#제니 #내돈내산 #마사지툴 #두피마사지기기 #서현진 #괄사 #리스테린 #몬스타엑스 #민혁 #리지 #인센스스틱\n\nhttps://t.co/XS3RApzgvV"
+	},
+	{
+		"created_at": "Mon Aug 08 04:20:30 +0000 2022",
+		"id": 1556482731315409000,
+		"id_str": "1556495541445337089",
+		"full_text": "8월 19일, 블랙핑크의 '핑크 베놈(PINK VENOM)'이 공개된다.\n#블랙핑크 #제니 #리사 #로제 #지수 #핑크베놈 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #PinkVenom #KPOP \nhttps://t.co/1RnKwknu6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "핑크베놈",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1RnKwknu6s",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/08/08/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-19%EC%9D%BC-%EC%BB%B4%EB%B0%B1-%EC%84%A0%EA%B3%B5%EA%B0%9C-%EC%8B%A0%EA%B3%A1%EC%9D%80-%ED%95%91%ED%81%AC-%EB%B2%A0%EB%86%88/?ddw=118794&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/08/08/%EB…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142871,
+			"friends_count": 0,
+			"listed_count": 222,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1656323299",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 19일, 블랙핑크의 '핑크 베놈(PINK VENOM)'이 공개된다.\n#블랙핑크 #제니 #리사 #로제 #지수 #핑크베놈 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #PinkVenom #KPOP \nhttps://t.co/1RnKwknu6s"
+	},
+	{
 		"created_at": "Mon Aug 08 04:00:32 +0000 2022",
 		"id": 1556483840373399600,
 		"id_str": "1556490517801680896",
@@ -778,7 +2476,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Mon Aug 08 03:21:31 +0000 2022",
 		"id": 1556476597737140200,
 		"id_str": "1556480699082739712",
-		"full_text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA​ #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤",
+		"full_text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -949,7 +2647,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA​ #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤"
+		"text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤"
 	},
 	{
 		"created_at": "Mon Aug 08 03:20:29 +0000 2022",
