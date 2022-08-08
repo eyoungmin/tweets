@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 11:44:16 +0000 2022",
+		"id": 1556607206899863600,
+		"id_str": "1556607221823258626",
+		"full_text": "번쩍번쩍 번개도 치고\n비도 많이 오네요⛈️\n대신 반짝반짝✨️완디와 함께하는\n영스트리트는 어때요❓️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ez0skZvk43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556607148687106000,
+					"id_str": "1556607148687106049",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FZot9FhUIAEQPJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZot9FhUIAEQPJw.jpg",
+					"url": "https://t.co/ez0skZvk43",
+					"display_url": "pic.twitter.com/ez0skZvk43",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556607206899863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556607148687106000,
+					"id_str": "1556607148687106049",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FZot9FhUIAEQPJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZot9FhUIAEQPJw.jpg",
+					"url": "https://t.co/ez0skZvk43",
+					"display_url": "pic.twitter.com/ez0skZvk43",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556607206899863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556607178483454000,
+					"id_str": "1556607178483453952",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FZot-0hUUAAeMmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZot-0hUUAAeMmj.jpg",
+					"url": "https://t.co/ez0skZvk43",
+					"display_url": "pic.twitter.com/ez0skZvk43",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556607206899863552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5551690,
+			"friends_count": 2,
+			"listed_count": 11201,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1894,
+		"favorite_count": 5434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "번쩍번쩍 번개도 치고\n비도 많이 오네요⛈️\n대신 반짝반짝✨️완디와 함께하는\n영스트리트는 어때요❓️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/ez0skZvk43"
+	},
+	{
+		"created_at": "Mon Aug 08 11:40:19 +0000 2022",
+		"id": 1556595351947452400,
+		"id_str": "1556606226175332352",
+		"full_text": "자연스러운 헤어 볼륨의 비결은?\n바로 뿌리부터 건강한 모발!\n\nhttps://t.co/DgbzLzzD7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DgbzLzzD7J",
+					"expanded_url": "https://www.instagram.com/p/Cg_f4PYujdh/",
+					"display_url": "instagram.com/p/Cg_f4PYujdh/",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4694,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자연스러운 헤어 볼륨의 비결은?\n바로 뿌리부터 건강한 모발!\n\nhttps://t.co/DgbzLzzD7J"
+	},
+	{
+		"created_at": "Mon Aug 08 11:40:10 +0000 2022",
+		"id": 1556593829289263000,
+		"id_str": "1556606187969323009",
+		"full_text": "[기사] #뉴진스 데뷔 앨범 'New Jeans', 오늘(8일) 발매\n🔗https://t.co/0UXQqEqW2m\n\n#ADOR #어도어 #NewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "ADOR",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "어도어",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0UXQqEqW2m",
+					"expanded_url": "https://entertain.naver.com/read?oid=109&aid=0004674517",
+					"display_url": "entertain.naver.com/read?oid=109&a…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 77885,
+			"friends_count": 2,
+			"listed_count": 356,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1658415871",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] #뉴진스 데뷔 앨범 'New Jeans', 오늘(8일) 발매\n🔗https://t.co/0UXQqEqW2m\n\n#ADOR #어도어 #NewJeans"
+	},
+	{
+		"created_at": "Mon Aug 08 11:29:39 +0000 2022",
+		"id": 1556596081361727500,
+		"id_str": "1556603540885348356",
+		"full_text": "[주간아.zip] 소원을~말해봐~Gee gee♬ 4세대 아이돌이 커버하는 레전드 소녀시대 커버 댄스 모음.ZIP\n\n소원을~말해봐~Gee gee♬\n레전드 소녀시대 커버 댄스 모아보기♥ \n📽️https://t.co/fJEc9WDsi4\n\n#주간아 #소녀시대 #SNSD #소녀시대커버댄스 https://t.co/3gWXHCoXqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "소녀시대커버댄스",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJEc9WDsi4",
+					"expanded_url": "https://youtu.be/vrHtTI7CR0s",
+					"display_url": "youtu.be/vrHtTI7CR0s",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556551864065597400,
+					"id_str": "1556551864065597440",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"url": "https://t.co/3gWXHCoXqf",
+					"display_url": "pic.twitter.com/3gWXHCoXqf",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556596081361727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556551864065597400,
+					"id_str": "1556551864065597440",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"url": "https://t.co/3gWXHCoXqf",
+					"display_url": "pic.twitter.com/3gWXHCoXqf",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556596081361727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129044,
+			"friends_count": 347,
+			"listed_count": 402,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[주간아.zip] 소원을~말해봐~Gee gee♬ 4세대 아이돌이 커버하는 레전드 소녀시대 커버 댄스 모음.ZIP\n\n소원을~말해봐~Gee gee♬\n레전드 소녀시대 커버 댄스 모아보기♥ \n📽️https://t.co/fJEc9WDsi4\n\n#주간아 #소녀시대 #SNSD #소녀시대커버댄스 https://t.co/3gWXHCoXqf"
+	},
+	{
 		"created_at": "Mon Aug 08 10:57:34 +0000 2022",
 		"id": 1556595469958144000,
 		"id_str": "1556595469958144002",
