@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 04:00:32 +0000 2022",
+		"id": 1556483840373399600,
+		"id_str": "1556490517801680896",
+		"full_text": "[#NEWS] '놀라운 토요일' 소녀시대 완전체, 역대급 게스트의 대활약 [RE:TV]\n▶ https://t.co/GvFzLMrk0A\n\n#서현 #놀라운토요일 #SEOHYUN https://t.co/pEYNHKYyCF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GvFzLMrk0A",
+					"expanded_url": "http://naver.me/50p4LDaO",
+					"display_url": "naver.me/50p4LDaO",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556472398064455700,
+					"id_str": "1556472398064455680",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmzZkVVEAA8WWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmzZkVVEAA8WWz.jpg",
+					"url": "https://t.co/pEYNHKYyCF",
+					"display_url": "pic.twitter.com/pEYNHKYyCF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1556483840373399552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 510,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556472398064455700,
+					"id_str": "1556472398064455680",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmzZkVVEAA8WWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmzZkVVEAA8WWz.jpg",
+					"url": "https://t.co/pEYNHKYyCF",
+					"display_url": "pic.twitter.com/pEYNHKYyCF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1556483840373399552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 510,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556472398152487000,
+					"id_str": "1556472398152486912",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmzZkqUUAAN7Pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmzZkqUUAAN7Pj.jpg",
+					"url": "https://t.co/pEYNHKYyCF",
+					"display_url": "pic.twitter.com/pEYNHKYyCF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1556483840373399552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 510,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63141,
+			"friends_count": 12,
+			"listed_count": 278,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '놀라운 토요일' 소녀시대 완전체, 역대급 게스트의 대활약 [RE:TV]\n▶ https://t.co/GvFzLMrk0A\n\n#서현 #놀라운토요일 #SEOHYUN https://t.co/pEYNHKYyCF"
+	},
+	{
+		"created_at": "Mon Aug 08 03:29:46 +0000 2022",
+		"id": 1556476932363264000,
+		"id_str": "1556482775280222210",
+		"full_text": "ZICO ON HIS VOCATION #협찬\n\n쏟아지는 시의 신랄함과 티파니의 말쑥함. 그러니까 지코와 티파니의 소명.\n\n#Zico #지코 #TiffanyandCo #TiffanyHardWear #JeanSchlumberger #TiffanyT #티파니\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 8월호에서 만나볼 수 있습니다.\n\nhttps://t.co/hGVvZcB8GI https://t.co/LzUYzmxQhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "Zico",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "TiffanyandCo",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "TiffanyHardWear",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"text": "JeanSchlumberger",
+					"indices": [
+						109,
+						126
+					]
+				},
+				{
+					"text": "TiffanyT",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hGVvZcB8GI",
+					"expanded_url": "https://youtu.be/J5jp_ylvmJs",
+					"display_url": "youtu.be/J5jp_ylvmJs",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556476694521086000,
+					"id_str": "1556476694521085952",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556476694521085952/pu/img/KymL5rrSiags3d5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556476694521085952/pu/img/KymL5rrSiags3d5u.jpg",
+					"url": "https://t.co/LzUYzmxQhc",
+					"display_url": "pic.twitter.com/LzUYzmxQhc",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1556476932363264000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556476694521086000,
+					"id_str": "1556476694521085952",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556476694521085952/pu/img/KymL5rrSiags3d5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556476694521085952/pu/img/KymL5rrSiags3d5u.jpg",
+					"url": "https://t.co/LzUYzmxQhc",
+					"display_url": "pic.twitter.com/LzUYzmxQhc",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1556476932363264000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140014,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556476694521085952/pu/vid/640x360/XavWVXBdXqxYQ44G.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556476694521085952/pu/vid/480x270/Q2QX3F5tX841J__p.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556476694521085952/pu/pl/A75-lkE8w9aT8nmO.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556476694521085952/pu/vid/1280x720/J2Qjdool8jhFPdAz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 166918,
+			"friends_count": 0,
+			"listed_count": 334,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1657772122",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ZICO ON HIS VOCATION #협찬\n\n쏟아지는 시의 신랄함과 티파니의 말쑥함. 그러니까 지코와 티파니의 소명.\n\n#Zico #지코 #TiffanyandCo #TiffanyHardWear #JeanSchlumberger #TiffanyT #티파니\n\n더 많은 화보와 기사는 &lt;데이즈드&gt; 8월호에서 만나볼 수 있습니다.\n\nhttps://t.co/hGVvZcB8GI https://t.co/LzUYzmxQhc"
+	},
+	{
+		"created_at": "Mon Aug 08 03:29:39 +0000 2022",
+		"id": 1556474381601472500,
+		"id_str": "1556482745131474946",
+		"full_text": "#MBC표준FM #아이돌스테이션 #소시노래추천\n\n데뷔 15주년 그리고 컴백을 기념하며\n#소녀시대특집 #소녀시대노래몰아듣기\n\n8월 12일 금요일 새벽 2시에\n함께 들으면 좋을 소시 노래 추천해주세요!\nhttps://t.co/O5uNTGE7ot\n\n#소녀시대 #SNSD #FOREVER1 https://t.co/BH6s2DrPVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC표준FM",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "아이돌스테이션",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "소시노래추천",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "소녀시대특집",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "소녀시대노래몰아듣기",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O5uNTGE7ot",
+					"expanded_url": "https://www.instagram.com/p/Cg8tD59l7XX/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/Cg8tD59l7XX/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556474327125880800,
+					"id_str": "1556474327125880832",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"url": "https://t.co/BH6s2DrPVN",
+					"display_url": "pic.twitter.com/BH6s2DrPVN",
+					"expanded_url": "https://twitter.com/radiombc/status/1556474381601472514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556474327125880800,
+					"id_str": "1556474327125880832",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"url": "https://t.co/BH6s2DrPVN",
+					"display_url": "pic.twitter.com/BH6s2DrPVN",
+					"expanded_url": "https://twitter.com/radiombc/status/1556474381601472514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/2wJXwJ7Js1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2wJXwJ7Js1",
+							"expanded_url": "https://www.youtube.com/c/MBCRadio_BONGCHUN",
+							"display_url": "youtube.com/c/MBCRadio_BON…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80824,
+			"friends_count": 43,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC표준FM #아이돌스테이션 #소시노래추천\n\n데뷔 15주년 그리고 컴백을 기념하며\n#소녀시대특집 #소녀시대노래몰아듣기\n\n8월 12일 금요일 새벽 2시에\n함께 들으면 좋을 소시 노래 추천해주세요!\nhttps://t.co/O5uNTGE7ot\n\n#소녀시대 #SNSD #FOREVER1 https://t.co/BH6s2DrPVN"
+	},
+	{
+		"created_at": "Mon Aug 08 03:21:31 +0000 2022",
+		"id": 1556476597737140200,
+		"id_str": "1556480699082739712",
+		"full_text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA​ #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "BEORIGINAL",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						238,
+						250
+					]
+				},
+				{
+					"text": "스튜디오춤",
+					"indices": [
+						251,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DMgj7PMpra",
+					"expanded_url": "https://youtu.be/IIP_kibV7cw",
+					"display_url": "youtu.be/IIP_kibV7cw",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/hm3xkg8tsT",
+					"expanded_url": "https://youtu.be/Mz9QSLiRFvA",
+					"display_url": "youtu.be/Mz9QSLiRFvA",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/nYr7TnMtVK",
+					"expanded_url": "https://youtu.be/SfwZEAlhjqE",
+					"display_url": "youtu.be/SfwZEAlhjqE",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/UpK0IbMqXa",
+					"expanded_url": "https://youtu.be/_YiS1JaM5aA",
+					"display_url": "youtu.be/_YiS1JaM5aA",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354996,
+			"friends_count": 1,
+			"listed_count": 2184,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] STUDIO CHOOM 스튜디오 춤! 청하 'Sparkling'✨\n[BE ORIGINAL]\n🔗https://t.co/DMgj7PMpra\n[UNFILTERED CAM]\n🔗 https://t.co/hm3xkg8tsT\n[Full Focused]\n🔗 https://t.co/nYr7TnMtVK\n[Behind] \n🔗 https://t.co/UpK0IbMqXa\n\n#CHUNGHA​ #청하\n#Sparkling #BEORIGINAL\n#STUDIOCHOOM #스튜디오춤"
+	},
+	{
+		"created_at": "Mon Aug 08 03:20:29 +0000 2022",
+		"id": 1556475289739219000,
+		"id_str": "1556480440143204353",
+		"full_text": "\"미래를 염두에 두기 전에 현재 최선을 다하죠.\"\n\n먼 미래보다 자신과 현재에 집중했던 블랙핑크의 2018년. \n\n#블랙핑크 #지수 #제니 #로제 #리사 #BLACKPINK #JISOO #JENNIE #ROSÉ #LISA #보그코리아 #VOGUEKOREA \n\nhttps://t.co/duEPFq5xmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "VOGUEKOREA",
+					"indices": [
+						131,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duEPFq5xmn",
+					"expanded_url": "https://www.vogue.co.kr/?p=163965&ddw=118769&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "vogue.co.kr/?p=163965&ddw=…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW5IsXW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW5IsXW",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152446,
+			"friends_count": 0,
+			"listed_count": 391,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1658390910",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"미래를 염두에 두기 전에 현재 최선을 다하죠.\"\n\n먼 미래보다 자신과 현재에 집중했던 블랙핑크의 2018년. \n\n#블랙핑크 #지수 #제니 #로제 #리사 #BLACKPINK #JISOO #JENNIE #ROSÉ #LISA #보그코리아 #VOGUEKOREA \n\nhttps://t.co/duEPFq5xmn"
+	},
+	{
 		"created_at": "Mon Aug 08 02:40:24 +0000 2022",
 		"id": 1556463765130211300,
 		"id_str": "1556470352632598528",
