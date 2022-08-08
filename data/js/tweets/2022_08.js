@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 02:40:24 +0000 2022",
+		"id": 1556463765130211300,
+		"id_str": "1556470352632598528",
+		"full_text": "에스파, 日 첫 쇼케이스부터 92만 명 응모 기염! 4만 관객 열광 속 대성황!\n대세 파워 입증!\n\naespa’s first Japanese showcase had 920K initial applications and ended in a success with 40,000 fans in the audience, proving their popularity!\n\nhttps://t.co/TcXe8DC2gX\n\n#aespa #æspa #에스파 https://t.co/ecSn7xEZAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						234,
+						239
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						240,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TcXe8DC2gX",
+					"expanded_url": "https://bit.ly/3BOUMRo",
+					"display_url": "bit.ly/3BOUMRo",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556463697442541600,
+					"id_str": "1556463697442541569",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmrfH_akAEGWx2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmrfH_akAEGWx2.jpg",
+					"url": "https://t.co/ecSn7xEZAB",
+					"display_url": "pic.twitter.com/ecSn7xEZAB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1556463765130211329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556463697442541600,
+					"id_str": "1556463697442541569",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmrfH_akAEGWx2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmrfH_akAEGWx2.jpg",
+					"url": "https://t.co/ecSn7xEZAB",
+					"display_url": "pic.twitter.com/ecSn7xEZAB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1556463765130211329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556463697589342200,
+					"id_str": "1556463697589342208",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FZmrfIiakAAY8gZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZmrfIiakAAY8gZ.jpg",
+					"url": "https://t.co/ecSn7xEZAB",
+					"display_url": "pic.twitter.com/ecSn7xEZAB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1556463765130211329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3047742,
+			"friends_count": 2,
+			"listed_count": 9260,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4957,
+		"favorite_count": 15846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 日 첫 쇼케이스부터 92만 명 응모 기염! 4만 관객 열광 속 대성황!\n대세 파워 입증!\n\naespa’s first Japanese showcase had 920K initial applications and ended in a success with 40,000 fans in the audience, proving their popularity!\n\nhttps://t.co/TcXe8DC2gX\n\n#aespa #æspa #에스파 https://t.co/ecSn7xEZAB"
+	},
+	{
+		"created_at": "Mon Aug 08 02:40:19 +0000 2022",
+		"id": 1556461042296754200,
+		"id_str": "1556470331199655938",
+		"full_text": "Girls' Generation to appear on a music show for the first time in 5 years! They will be on ‘M Countdown’ with their latest release ‘FOREVER 1’, and the stage will be broadcast on the 11th!\nLook forward to the performance queens’ stage!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1556461039838933000,
+		"in_reply_to_status_id_str": "1556461039838932992",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3864319,
+			"friends_count": 5,
+			"listed_count": 6112,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1889,
+		"favorite_count": 4483,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls' Generation to appear on a music show for the first time in 5 years! They will be on ‘M Countdown’ with their latest release ‘FOREVER 1’, and the stage will be broadcast on the 11th!\nLook forward to the performance queens’ stage!"
+	},
+	{
+		"created_at": "Mon Aug 08 02:40:10 +0000 2022",
+		"id": 1555556892881166300,
+		"id_str": "1556470292532305920",
+		"full_text": "15 years and counting, @GirlsGeneration just keeps getting better. ✨\n\nDiscover their new album #FOREVER1. https://t.co/kpfnfSIwTj https://t.co/t0Hy6rUi0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FOREVER1",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kpfnfSIwTj",
+					"expanded_url": "http://apple.co/FOREVER1",
+					"display_url": "apple.co/FOREVER1",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555556779915939800,
+					"id_str": "1555556779915939840",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1555556779915939840/img/4K9vghUe5d52MdEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1555556779915939840/img/4K9vghUe5d52MdEW.jpg",
+					"url": "https://t.co/t0Hy6rUi0T",
+					"display_url": "pic.twitter.com/t0Hy6rUi0T",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1555556892881166338/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555556779915939800,
+					"id_str": "1555556779915939840",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1555556779915939840/img/4K9vghUe5d52MdEW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1555556779915939840/img/4K9vghUe5d52MdEW.jpg",
+					"url": "https://t.co/t0Hy6rUi0T",
+					"display_url": "pic.twitter.com/t0Hy6rUi0T",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1555556892881166338/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65899,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555556779915939840/vid/1280x720/yxUTOoUTPRQGtbS6.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1555556779915939840/pl/nImv66HlFxGsOygj.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555556779915939840/vid/480x270/z_6Ci1CiOTZTC11M.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1555556779915939840/vid/640x360/i-Z56w3l4OmAJpGZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74580436,
+			"id_str": "74580436",
+			"name": "Apple Music",
+			"screen_name": "AppleMusic",
+			"location": "Cupertino, CA",
+			"description": "#BlackLivesMatter",
+			"url": "https://t.co/Bs0Vyjyln8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs0Vyjyln8",
+							"expanded_url": "http://apple.co/SUBSCRIBE",
+							"display_url": "apple.co/SUBSCRIBE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10152523,
+			"friends_count": 2077,
+			"listed_count": 22545,
+			"created_at": "Tue Sep 15 22:49:25 +0000 2009",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAEAEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74580436/1659113832",
+			"profile_link_color": "0088CC",
+			"profile_sidebar_border_color": "C7C7C7",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3201,
+		"favorite_count": 7289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "15 years and counting, @GirlsGeneration just keeps getting better. ✨\n\nDiscover their new album #FOREVER1. https://t.co/kpfnfSIwTj https://t.co/t0Hy6rUi0T"
+	},
+	{
 		"created_at": "Sun Aug 07 22:45:37 +0000 2022",
 		"id": 1556407337086292000,
 		"id_str": "1556411266167619584",
