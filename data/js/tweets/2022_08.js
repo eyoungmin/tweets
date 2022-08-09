@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 14:40:10 +0000 2022",
+		"id": 1557003780251598800,
+		"id_str": "1557013873861005314",
+		"full_text": "[Full Focused] NewJeans (뉴진스) - Attention\n\n▶ https://t.co/APb3l78Pt7\n\n#BE_ORIGINAL #NewJeans #Attention\n#뉴진스 @NewJeans_ADOR #STUDIOCHOOM https://t.co/Pcj2FmuOGg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/APb3l78Pt7",
+					"expanded_url": "https://youtu.be/AG54RjPx0m8",
+					"display_url": "youtu.be/AG54RjPx0m8",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556934404886237200,
+					"id_str": "1556934404886237184",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtXl53UEAA9tjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtXl53UEAA9tjM.jpg",
+					"url": "https://t.co/Pcj2FmuOGg",
+					"display_url": "pic.twitter.com/Pcj2FmuOGg",
+					"expanded_url": "https://twitter.com/M2MPD/status/1557003780251598852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556934404886237200,
+					"id_str": "1556934404886237184",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtXl53UEAA9tjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtXl53UEAA9tjM.jpg",
+					"url": "https://t.co/Pcj2FmuOGg",
+					"display_url": "pic.twitter.com/Pcj2FmuOGg",
+					"expanded_url": "https://twitter.com/M2MPD/status/1557003780251598852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258528,
+			"friends_count": 469,
+			"listed_count": 1581,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1174,
+		"favorite_count": 2780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Full Focused] NewJeans (뉴진스) - Attention\n\n▶ https://t.co/APb3l78Pt7\n\n#BE_ORIGINAL #NewJeans #Attention\n#뉴진스 @NewJeans_ADOR #STUDIOCHOOM https://t.co/Pcj2FmuOGg"
+	},
+	{
 		"created_at": "Tue Aug 09 13:40:38 +0000 2022",
 		"id": 1556996567646851000,
 		"id_str": "1556998895057747968",
