@@ -1,6 +1,1374 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 11:40:41 +0000 2022",
+		"id": 1556966184594993200,
+		"id_str": "1556968708320464896",
+		"full_text": "[TIkTok📹]\nAttention 5단 변신! with bunny apron 🐰🐰🐰🐰🐰 \n\n🔗https://t.co/HhKjxjAJ0H\n\n#NewJeans #뉴진스 #NewJeans_Attention \n #MINJI #HANNI #DANIELLE #HAERIN #HYEIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						93,
+						112
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HhKjxjAJ0H",
+					"expanded_url": "https://vt.tiktok.com/ZSRMwnGcH/?k=1",
+					"display_url": "vt.tiktok.com/ZSRMwnGcH/?k=1",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294253,
+			"friends_count": 2,
+			"listed_count": 1000,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 824,
+		"favorite_count": 2100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TIkTok📹]\nAttention 5단 변신! with bunny apron 🐰🐰🐰🐰🐰 \n\n🔗https://t.co/HhKjxjAJ0H\n\n#NewJeans #뉴진스 #NewJeans_Attention \n #MINJI #HANNI #DANIELLE #HAERIN #HYEIN"
+	},
+	{
+		"created_at": "Tue Aug 09 11:40:38 +0000 2022",
+		"id": 1556964319543169000,
+		"id_str": "1556968694730956805",
+		"full_text": "우리는 영스🎵\nWe are One☝️\n우리도 still FOREVER 1 해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/v0DznMb3uW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556964267919691800,
+					"id_str": "1556964267919691776",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtywKVUUAAFTDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtywKVUUAAFTDK.jpg",
+					"url": "https://t.co/v0DznMb3uW",
+					"display_url": "pic.twitter.com/v0DznMb3uW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556964319543169024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556964267919691800,
+					"id_str": "1556964267919691776",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtywKVUUAAFTDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtywKVUUAAFTDK.jpg",
+					"url": "https://t.co/v0DznMb3uW",
+					"display_url": "pic.twitter.com/v0DznMb3uW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556964319543169024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556964294624891000,
+					"id_str": "1556964294624890881",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtyxt0VUAEVIps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtyxt0VUAEVIps.jpg",
+					"url": "https://t.co/v0DznMb3uW",
+					"display_url": "pic.twitter.com/v0DznMb3uW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1556964319543169024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5553356,
+			"friends_count": 2,
+			"listed_count": 11201,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3199,
+		"favorite_count": 9313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리는 영스🎵\nWe are One☝️\n우리도 still FOREVER 1 해요💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/v0DznMb3uW"
+	},
+	{
+		"created_at": "Tue Aug 09 11:40:29 +0000 2022",
+		"id": 1556958475938398200,
+		"id_str": "1556968656080363521",
+		"full_text": "This is TVT Club 'Hypocreep' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/qk7phiFMue\n\n#thevolunteers #tvt #thisistvtclub #Hypocreep https://t.co/qxsLPqn03l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						202,
+						216
+					]
+				},
+				{
+					"text": "Hypocreep",
+					"indices": [
+						217,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qk7phiFMue",
+					"expanded_url": "https://youtu.be/2AiRU8XPsfM",
+					"display_url": "youtu.be/2AiRU8XPsfM",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556935095218749400,
+					"id_str": "1556935095218749440",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556935095218749440/pu/img/eE9iP1GLcphzTLr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556935095218749440/pu/img/eE9iP1GLcphzTLr7.jpg",
+					"url": "https://t.co/qxsLPqn03l",
+					"display_url": "pic.twitter.com/qxsLPqn03l",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958475938398208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556935095218749400,
+					"id_str": "1556935095218749440",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556935095218749440/pu/img/eE9iP1GLcphzTLr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556935095218749440/pu/img/eE9iP1GLcphzTLr7.jpg",
+					"url": "https://t.co/qxsLPqn03l",
+					"display_url": "pic.twitter.com/qxsLPqn03l",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958475938398208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17883,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556935095218749440/pu/pl/WpWulUMi3tQgNjlW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556935095218749440/pu/vid/480x270/Ab2q4_O1-Hhz1Wel.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556935095218749440/pu/vid/640x360/79iTQ9ZAEy0QwiJ1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556935095218749440/pu/vid/1280x720/LV1GSQCBbvg2I41k.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8385,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club 'Hypocreep' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/qk7phiFMue\n\n#thevolunteers #tvt #thisistvtclub #Hypocreep https://t.co/qxsLPqn03l"
+	},
+	{
+		"created_at": "Tue Aug 09 11:40:27 +0000 2022",
+		"id": 1556958474470187000,
+		"id_str": "1556968646794252293",
+		"full_text": "This is TVT Club 'New Plant' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/Kji1iv1ad7\n\n#thevolunteers #tvt #thisistvtclub #newplant https://t.co/Kj70BxWF1Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						202,
+						216
+					]
+				},
+				{
+					"text": "newplant",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kji1iv1ad7",
+					"expanded_url": "https://youtu.be/vgbKNFbZxeA",
+					"display_url": "youtu.be/vgbKNFbZxeA",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556936817437741000,
+					"id_str": "1556936817437741057",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556936817437741057/pu/img/odX8XlpNS1H6UJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556936817437741057/pu/img/odX8XlpNS1H6UJAQ.jpg",
+					"url": "https://t.co/Kj70BxWF1Q",
+					"display_url": "pic.twitter.com/Kj70BxWF1Q",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958474470187008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556936817437741000,
+					"id_str": "1556936817437741057",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556936817437741057/pu/img/odX8XlpNS1H6UJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556936817437741057/pu/img/odX8XlpNS1H6UJAQ.jpg",
+					"url": "https://t.co/Kj70BxWF1Q",
+					"display_url": "pic.twitter.com/Kj70BxWF1Q",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958474470187008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18602,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556936817437741057/pu/pl/CGtrF9s7M4nbXdev.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556936817437741057/pu/vid/1280x720/kpGERJA0VvVuYseM.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556936817437741057/pu/vid/480x270/Rt_A0v0C40BqPy4y.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556936817437741057/pu/vid/640x360/WUKMufj6_Xe65hCr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8385,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club 'New Plant' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/Kji1iv1ad7\n\n#thevolunteers #tvt #thisistvtclub #newplant https://t.co/Kj70BxWF1Q"
+	},
+	{
+		"created_at": "Tue Aug 09 11:40:21 +0000 2022",
+		"id": 1556958473522479000,
+		"id_str": "1556968624966991876",
+		"full_text": "This is TVT Club 'MaterialGirl' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n⠀\nhttps://t.co/OZehACVpCw\n⠀\n#thevolunteers #tvt #thisistvtclub #MaterialGirl https://t.co/v6IHEuJG5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						187,
+						201
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "thisistvtclub",
+					"indices": [
+						207,
+						221
+					]
+				},
+				{
+					"text": "MaterialGirl",
+					"indices": [
+						222,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OZehACVpCw",
+					"expanded_url": "https://youtu.be/I74TDidN65Q",
+					"display_url": "youtu.be/I74TDidN65Q",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556950534623723500,
+					"id_str": "1556950534623723520",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556950534623723520/pu/img/0M98O7Om4oZq2AJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556950534623723520/pu/img/0M98O7Om4oZq2AJ9.jpg",
+					"url": "https://t.co/v6IHEuJG5Y",
+					"display_url": "pic.twitter.com/v6IHEuJG5Y",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958473522479104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556950534623723500,
+					"id_str": "1556950534623723520",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556950534623723520/pu/img/0M98O7Om4oZq2AJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556950534623723520/pu/img/0M98O7Om4oZq2AJ9.jpg",
+					"url": "https://t.co/v6IHEuJG5Y",
+					"display_url": "pic.twitter.com/v6IHEuJG5Y",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1556958473522479104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10821,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556950534623723520/pu/vid/480x270/A3RjKKNo3RJLbT_T.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556950534623723520/pu/vid/640x360/_U6vPudPfBm266y3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556950534623723520/pu/pl/8RopCBrRcLpn7qy_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556950534623723520/pu/vid/1280x720/RlaitcTgSox2z5wn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8385,
+			"friends_count": 2,
+			"listed_count": 62,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club 'MaterialGirl' Live\n⠀\nThe Volunteers 단독공연 라이브 클립이 공개되었습니다. The Volunteers 유튜브 채널에서 풀버전으로 감상하세요.\nWatch the full ver. on TVT's Youtube channel.\n⠀\nhttps://t.co/OZehACVpCw\n⠀\n#thevolunteers #tvt #thisistvtclub #MaterialGirl https://t.co/v6IHEuJG5Y"
+	},
+	{
+		"created_at": "Tue Aug 09 11:40:12 +0000 2022",
+		"id": 1556949133788778500,
+		"id_str": "1556968586140422144",
+		"full_text": "Sparkling한 청하의 스타일링!\n아래 링크에서 확인해보세요✨\n\n🔗 https://t.co/IwakQjbmdc\n\n#청하 #뮤스스\n#MusicbankStyleStudio https://t.co/5mmBMvol5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "뮤스스",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "MusicbankStyleStudio",
+					"indices": [
+						74,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IwakQjbmdc",
+					"expanded_url": "http://youtu.be/HZAMvzf9IZ4",
+					"display_url": "youtu.be/HZAMvzf9IZ4",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556949125887049700,
+					"id_str": "1556949125887049730",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtk-x3aQAIcv7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtk-x3aQAIcv7K.jpg",
+					"url": "https://t.co/5mmBMvol5b",
+					"display_url": "pic.twitter.com/5mmBMvol5b",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1556949133788778497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556949125887049700,
+					"id_str": "1556949125887049730",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FZtk-x3aQAIcv7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZtk-x3aQAIcv7K.jpg",
+					"url": "https://t.co/5mmBMvol5b",
+					"display_url": "pic.twitter.com/5mmBMvol5b",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1556949133788778497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:10 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 142개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095639,
+			"friends_count": 19,
+			"listed_count": 5164,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460149723671990272/xqA9TWcb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Sparkling한 청하의 스타일링!\n아래 링크에서 확인해보세요✨\n\n🔗 https://t.co/IwakQjbmdc\n\n#청하 #뮤스스\n#MusicbankStyleStudio https://t.co/5mmBMvol5b"
+	},
+	{
 		"created_at": "Tue Aug 09 09:40:18 +0000 2022",
 		"id": 1556935832749031400,
 		"id_str": "1556938410073497600",
