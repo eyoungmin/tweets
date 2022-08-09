@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 07:29:47 +0000 2022",
+		"id": 1556904591660183600,
+		"id_str": "1556905565665763330",
+		"full_text": "A surprise message from Girls’ Generation has arrived! 🎁🤗💕\n\n🎧 : https://t.co/6T7gPhrXD2\n🎬 : https://t.co/JwzUEC75LT\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 @GirlsGeneration https://t.co/3UjuqBa9jt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						151,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6T7gPhrXD2",
+					"expanded_url": "http://GirlsGeneration.lnk.to/FOREVER1",
+					"display_url": "GirlsGeneration.lnk.to/FOREVER1",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/JwzUEC75LT",
+					"expanded_url": "http://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556904069930766300,
+					"id_str": "1556904069930766336",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556904069930766336/pu/img/IeYmVaRiuuGL_Fz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556904069930766336/pu/img/IeYmVaRiuuGL_Fz5.jpg",
+					"url": "https://t.co/3UjuqBa9jt",
+					"display_url": "pic.twitter.com/3UjuqBa9jt",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1556904591660183552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556904069930766300,
+					"id_str": "1556904069930766336",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556904069930766336/pu/img/IeYmVaRiuuGL_Fz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556904069930766336/pu/img/IeYmVaRiuuGL_Fz5.jpg",
+					"url": "https://t.co/3UjuqBa9jt",
+					"display_url": "pic.twitter.com/3UjuqBa9jt",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1556904591660183552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26409,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556904069930766336/pu/vid/1280x720/KFO5OZncmhFc8hQT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556904069930766336/pu/pl/7lamnvlE99xc-k5T.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556904069930766336/pu/vid/480x270/TS2ux-v2ry9bDiUY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556904069930766336/pu/vid/640x360/NvE1DXZgmbJzVHWm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWN USA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SM USA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126713,
+			"friends_count": 38,
+			"listed_count": 234,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1359,
+		"favorite_count": 2041,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A surprise message from Girls’ Generation has arrived! 🎁🤗💕\n\n🎧 : https://t.co/6T7gPhrXD2\n🎬 : https://t.co/JwzUEC75LT\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 @GirlsGeneration https://t.co/3UjuqBa9jt"
+	},
+	{
+		"created_at": "Tue Aug 09 07:29:39 +0000 2022",
+		"id": 1556898071606202400,
+		"id_str": "1556905531528339456",
+		"full_text": "[승부엔딩] 목숨을 건 내기에 나서는 창호! 💥\n창호는 내기에서 이길 수 있을까?🙏\n\n&lt;#빅마우스&gt; 매주 금·토 밤 9시 50분 방송✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\nMBC220806방송 https://t.co/0ukugRFm2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556896542782783500,
+					"id_str": "1556896542782783488",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FZs1SUXaIAAw-kZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZs1SUXaIAAw-kZ.jpg",
+					"url": "https://t.co/0ukugRFm2l",
+					"display_url": "pic.twitter.com/0ukugRFm2l",
+					"expanded_url": "https://twitter.com/withMBC/status/1556898071606202369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556896542782783500,
+					"id_str": "1556896542782783488",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FZs1SUXaIAAw-kZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZs1SUXaIAAw-kZ.jpg",
+					"url": "https://t.co/0ukugRFm2l",
+					"display_url": "pic.twitter.com/0ukugRFm2l",
+					"expanded_url": "https://twitter.com/withMBC/status/1556898071606202369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556896542782783488/vid/480x600/sChA_ZJ88ewOmw2m.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556896542782783488/vid/720x900/U8Okt1dz70tj3aFo.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1556896542782783488/pl/qWtQ5h0P_TZZuTHR.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556896542782783488/vid/320x400/PrygJ_j2StOyNKDF.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005584,
+			"friends_count": 9848,
+			"listed_count": 4209,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[승부엔딩] 목숨을 건 내기에 나서는 창호! 💥\n창호는 내기에서 이길 수 있을까?🙏\n\n&lt;#빅마우스&gt; 매주 금·토 밤 9시 50분 방송✨\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\nMBC220806방송 https://t.co/0ukugRFm2l"
+	},
+	{
 		"created_at": "Tue Aug 09 06:40:10 +0000 2022",
 		"id": 1556890991256223700,
 		"id_str": "1556893079361167360",
