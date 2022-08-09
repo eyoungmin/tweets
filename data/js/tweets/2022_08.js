@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 23:29:39 +0000 2022",
+		"id": 1556777276724850700,
+		"id_str": "1556784735552143361",
+		"full_text": "철령과 진태 앞에 나타난 #해외파_형사 FBI #잭 🚓🌏\n스마트하고 스위트하게 #다니엘헤니 출격 준비 완료!!\n\n#현빈 #유해진 #임윤아 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월대개봉 https://t.co/aVIO2qTLtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해외파_형사",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "잭",
+					"indices": [
+						26,
+						28
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "9월대개봉",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556583157767762000,
+					"id_str": "1556583157767761920",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoYIoYacAAvrhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoYIoYacAAvrhT.jpg",
+					"url": "https://t.co/aVIO2qTLtT",
+					"display_url": "pic.twitter.com/aVIO2qTLtT",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1556777276724850688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556583157767762000,
+					"id_str": "1556583157767761920",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoYIoYacAAvrhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoYIoYacAAvrhT.jpg",
+					"url": "https://t.co/aVIO2qTLtT",
+					"display_url": "pic.twitter.com/aVIO2qTLtT",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1556777276724850688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556583157759365000,
+					"id_str": "1556583157759365120",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoYIoWaUAAg46T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZoYIoWaUAAg46T.jpg",
+					"url": "https://t.co/aVIO2qTLtT",
+					"display_url": "pic.twitter.com/aVIO2qTLtT",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1556777276724850688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331773,
+			"friends_count": 10668,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1659924427",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "철령과 진태 앞에 나타난 #해외파_형사 FBI #잭 🚓🌏\n스마트하고 스위트하게 #다니엘헤니 출격 준비 완료!!\n\n#현빈 #유해진 #임윤아 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월대개봉 https://t.co/aVIO2qTLtT"
+	},
+	{
 		"created_at": "Mon Aug 08 20:40:10 +0000 2022",
 		"id": 1556730960993034200,
 		"id_str": "1556742082806648835",
