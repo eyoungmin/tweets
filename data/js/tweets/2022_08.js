@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 12:40:10 +0000 2022",
+		"id": 1556928269089288200,
+		"id_str": "1556983675635499010",
+		"full_text": "자우림의 25년을 담아낸 플레이리스트 \n[Kurated by JAURIM]💜\n\n지금 #스포티파이 유튜브에서 \n자줏빛 영감에 대해 이야기하는 \n자우림의 FULL영상을 만나보세요\nhttps://t.co/Sgqlgr07d2 \n\n@JaurimOfficial #JAURIM \n#자우림 #KuratedbyJAURIM https://t.co/6kTqkKJK0q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "KuratedbyJAURIM",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaurimOfficial",
+					"name": "Jaurim",
+					"id": 923507155860299800,
+					"id_str": "923507155860299776",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sgqlgr07d2",
+					"expanded_url": "http://youtu.be/WleeedHaWAQ",
+					"display_url": "youtu.be/WleeedHaWAQ",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556906801093681200,
+					"id_str": "1556906801093681152",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556906801093681152/pu/img/BZ8mP56gFqf25IoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556906801093681152/pu/img/BZ8mP56gFqf25IoK.jpg",
+					"url": "https://t.co/6kTqkKJK0q",
+					"display_url": "pic.twitter.com/6kTqkKJK0q",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1556928269089288193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556906801093681200,
+					"id_str": "1556906801093681152",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556906801093681152/pu/img/BZ8mP56gFqf25IoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556906801093681152/pu/img/BZ8mP56gFqf25IoK.jpg",
+					"url": "https://t.co/6kTqkKJK0q",
+					"display_url": "pic.twitter.com/6kTqkKJK0q",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1556928269089288193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 89297,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556906801093681152/pu/vid/480x600/wJmU-UecBw7VtoQQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556906801093681152/pu/vid/320x400/pHzouHL-nFViJ8KA.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556906801093681152/pu/vid/720x900/yR49DVuyEWv-nw9r.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556906801093681152/pu/pl/jl_fwLtla5qKzSG0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/3A5aX8S14h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3A5aX8S14h",
+							"expanded_url": "https://spotify.link/AI7hay2nQqb",
+							"display_url": "spotify.link/AI7hay2nQqb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141075,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림의 25년을 담아낸 플레이리스트 \n[Kurated by JAURIM]💜\n\n지금 #스포티파이 유튜브에서 \n자줏빛 영감에 대해 이야기하는 \n자우림의 FULL영상을 만나보세요\nhttps://t.co/Sgqlgr07d2 \n\n@JaurimOfficial #JAURIM \n#자우림 #KuratedbyJAURIM https://t.co/6kTqkKJK0q"
+	},
+	{
 		"created_at": "Tue Aug 09 11:40:41 +0000 2022",
 		"id": 1556966184594993200,
 		"id_str": "1556968708320464896",
