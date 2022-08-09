@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 03:40:28 +0000 2022",
+		"id": 1556844755929034800,
+		"id_str": "1556847855754792960",
+		"full_text": "#PARKSOOYOUNG (#RedVelvet #JOY) turns into a cheerful and bright police officer in a new KakaoTV Original ‘어쩌다 전원일기’! ‘안자영’ is a troubleshooter of her town ‘희동리’ and is good at everything, from repairing to farming! \n\nPhotos provided by Kakao Entertainment https://t.co/X0lH9FjVER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556844744981901300,
+					"id_str": "1556844744981901314",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556844744981901300,
+					"id_str": "1556844744981901314",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAsUcAIS6fA.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556844744998719500,
+					"id_str": "1556844744998719488",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAwVEAAbg_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAwVEAAbg_9.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556844744965181400,
+					"id_str": "1556844744965181445",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FZsGDAoVUAUtL9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZsGDAoVUAUtL9B.jpg",
+					"url": "https://t.co/X0lH9FjVER",
+					"display_url": "pic.twitter.com/X0lH9FjVER",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556844755929034752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11072885,
+			"friends_count": 56,
+			"listed_count": 12505,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1957,
+		"favorite_count": 5183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PARKSOOYOUNG (#RedVelvet #JOY) turns into a cheerful and bright police officer in a new KakaoTV Original ‘어쩌다 전원일기’! ‘안자영’ is a troubleshooter of her town ‘희동리’ and is good at everything, from repairing to farming! \n\nPhotos provided by Kakao Entertainment https://t.co/X0lH9FjVER"
+	},
+	{
+		"created_at": "Tue Aug 09 03:40:24 +0000 2022",
+		"id": 1556837725386391600,
+		"id_str": "1556847838495121409",
+		"full_text": "[Notice 📢]How to join the Listening Party\n1. Join the listening party on Stationhead\n2. Choose the streaming service you use (Spotify or Apple Music)\n3. Don't forget that you need a subscription plan to listen to music!\n4. Enjoy the Listening Party💕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556837723226247200,
+		"in_reply_to_status_id_str": "1556837723226247170",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290513,
+			"friends_count": 2,
+			"listed_count": 993,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 493,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[Notice 📢]How to join the Listening Party\n1. Join the listening party on Stationhead\n2. Choose the streaming service you use (Spotify or Apple Music)\n3. Don't forget that you need a subscription plan to listen to music!\n4. Enjoy the Listening Party💕"
+	},
+	{
+		"created_at": "Tue Aug 09 03:40:21 +0000 2022",
+		"id": 1556837723226247200,
+		"id_str": "1556847825379627009",
+		"full_text": "[안내📢]Listening Party 참여 방법 안내\n1. Stationhead를 통해 리스닝 파티에 접속해주세요!\n2. 사용하시는 음원 플랫폼을 선택해 주세요! (스포티파이 혹은 애플뮤직)\n3. 원활한 참여를 위하여 이용권을 미리 확인 해주세요! 이용권이 없으면 음악 감상이 불가합니다\n4. 리스닝 파티를 즐겨주세요💕",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1556837720025997300,
+		"in_reply_to_status_id_str": "1556837720025997313",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290513,
+			"friends_count": 2,
+			"listed_count": 993,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 494,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢]Listening Party 참여 방법 안내\n1. Stationhead를 통해 리스닝 파티에 접속해주세요!\n2. 사용하시는 음원 플랫폼을 선택해 주세요! (스포티파이 혹은 애플뮤직)\n3. 원활한 참여를 위하여 이용권을 미리 확인 해주세요! 이용권이 없으면 음악 감상이 불가합니다\n4. 리스닝 파티를 즐겨주세요💕"
+	},
+	{
 		"created_at": "Tue Aug 09 02:45:41 +0000 2022",
 		"id": 1556822577447706600,
 		"id_str": "1556834069190696962",
