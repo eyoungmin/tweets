@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 08:40:19 +0000 2022",
+		"id": 1556913173063557000,
+		"id_str": "1556923314559393792",
+		"full_text": "블링크의 사랑은💗공백기에도 끄떡없지💪🏻\n비활동기 #BLACKPINK 👑 #멜론 연관 검색량이🔍\n1천만 건 돌파했어요❗️💥(10,919,379건, 7/14 기준)\n\n#블랙핑크 노래 들으며 컴백 기다리기💚\n👉🏻https://t.co/U2M77m8rI1\n\n블랙핑크, 블링크가 기다리고 있다🫶🏻\n\n@BLACKPINK @ygofficialblink @ygent_official https://t.co/VvvRtatuj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U2M77m8rI1",
+					"expanded_url": "http://kko.to/zUGojVZ91",
+					"display_url": "kko.to/zUGojVZ91",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556912660326666200,
+					"id_str": "1556912660326666241",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556912660326666241/pu/img/2aB9FWb06ItDMJlp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556912660326666241/pu/img/2aB9FWb06ItDMJlp.jpg",
+					"url": "https://t.co/VvvRtatuj9",
+					"display_url": "pic.twitter.com/VvvRtatuj9",
+					"expanded_url": "https://twitter.com/melon/status/1556913173063557120/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556912660326666200,
+					"id_str": "1556912660326666241",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556912660326666241/pu/img/2aB9FWb06ItDMJlp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556912660326666241/pu/img/2aB9FWb06ItDMJlp.jpg",
+					"url": "https://t.co/VvvRtatuj9",
+					"display_url": "pic.twitter.com/VvvRtatuj9",
+					"expanded_url": "https://twitter.com/melon/status/1556913173063557120/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14378,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556912660326666241/pu/vid/320x400/nzBD_XQqEZkMeECe.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556912660326666241/pu/vid/480x600/8dZNGDDWHGVsOhwJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1556912660326666241/pu/vid/720x900/lRyrQq-eT5ng0Hnn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1556912660326666241/pu/pl/-05SyHm7Myc1SLVY.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198930,
+			"friends_count": 71,
+			"listed_count": 675,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2738,
+		"favorite_count": 7459,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블링크의 사랑은💗공백기에도 끄떡없지💪🏻\n비활동기 #BLACKPINK 👑 #멜론 연관 검색량이🔍\n1천만 건 돌파했어요❗️💥(10,919,379건, 7/14 기준)\n\n#블랙핑크 노래 들으며 컴백 기다리기💚\n👉🏻https://t.co/U2M77m8rI1\n\n블랙핑크, 블링크가 기다리고 있다🫶🏻\n\n@BLACKPINK @ygofficialblink @ygent_official https://t.co/VvvRtatuj9"
+	},
+	{
+		"created_at": "Tue Aug 09 08:29:48 +0000 2022",
+		"id": 1556914423561760800,
+		"id_str": "1556920668138213376",
+		"full_text": "🌴우리는 영원 🏖 We are one☝🏻 with KEY 🦊 \n\nhttps://t.co/cvo9le6mss\n\n#TAEYEON #태연  \n#HYOYEON #효연 \n#KEY #키 \n#GirlsGeneration #소녀시대\n#SHINee #샤이니 @SHINee\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						95,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						153,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cvo9le6mss",
+					"expanded_url": "https://vt.tiktok.com/ZSRMcjpKT/?k=1",
+					"display_url": "vt.tiktok.com/ZSRMcjpKT/?k=1",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3867073,
+			"friends_count": 5,
+			"listed_count": 6123,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3801,
+		"favorite_count": 6170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌴우리는 영원 🏖 We are one☝🏻 with KEY 🦊 \n\nhttps://t.co/cvo9le6mss\n\n#TAEYEON #태연  \n#HYOYEON #효연 \n#KEY #키 \n#GirlsGeneration #소녀시대\n#SHINee #샤이니 @SHINee\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
 		"created_at": "Tue Aug 09 07:29:47 +0000 2022",
 		"id": 1556904591660183600,
 		"id_str": "1556905565665763330",
