@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 21:40:10 +0000 2022",
+		"id": 1557118345132097500,
+		"id_str": "1557119572112719872",
+		"full_text": "Good call! PH \n#ColdplayBrussels https://t.co/lZl7IXj4c2 https://t.co/xqxwIDEXQQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayBrussels",
+					"indices": [
+						15,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lZl7IXj4c2",
+					"expanded_url": "https://twitter.com/frankschepers24/status/1555887034723667968",
+					"display_url": "twitter.com/frankschepers2…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557118250319741000,
+					"id_str": "1557118250319740931",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557118250319740931/pu/img/STOFVZx2waJhn1YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557118250319740931/pu/img/STOFVZx2waJhn1YX.jpg",
+					"url": "https://t.co/xqxwIDEXQQ",
+					"display_url": "pic.twitter.com/xqxwIDEXQQ",
+					"expanded_url": "https://twitter.com/coldplay/status/1557118345132097542/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557118250319741000,
+					"id_str": "1557118250319740931",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557118250319740931/pu/img/STOFVZx2waJhn1YX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557118250319740931/pu/img/STOFVZx2waJhn1YX.jpg",
+					"url": "https://t.co/xqxwIDEXQQ",
+					"display_url": "pic.twitter.com/xqxwIDEXQQ",
+					"expanded_url": "https://twitter.com/coldplay/status/1557118345132097542/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18083,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557118250319740931/pu/vid/480x270/aYpt-wtUuFgzm2Vy.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557118250319740931/pu/vid/1280x720/c2oikwxqck1lc7o3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557118250319740931/pu/vid/640x360/VrcGovodowpqN1mG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1557118250319740931/pu/pl/A0_FNuVTO-d6X5Cu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602651,
+			"friends_count": 778,
+			"listed_count": 42457,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555887034723668000,
+		"quoted_status_id_str": "1555887034723667968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lZl7IXj4c2",
+			"expanded": "https://twitter.com/frankschepers24/status/1555887034723667968",
+			"display": "twitter.com/frankschepers2…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 06 12:02:30 +0000 2022",
+			"id": 1555887034723668000,
+			"id_str": "1555887034723667968",
+			"full_text": ".@coldplay you should have someone climb that thing tonight to film the crowd 😌 just saying https://t.co/zTYP2FJoo1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1555886993762095000,
+						"id_str": "1555886993762095104",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555886993762095104/pu/img/IpbJmxK6O5p1WLey.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555886993762095104/pu/img/IpbJmxK6O5p1WLey.jpg",
+						"url": "https://t.co/zTYP2FJoo1",
+						"display_url": "pic.twitter.com/zTYP2FJoo1",
+						"expanded_url": "https://twitter.com/FrankSchepers24/status/1555887034723667968/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555886993762095000,
+						"id_str": "1555886993762095104",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555886993762095104/pu/img/IpbJmxK6O5p1WLey.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555886993762095104/pu/img/IpbJmxK6O5p1WLey.jpg",
+						"url": "https://t.co/zTYP2FJoo1",
+						"display_url": "pic.twitter.com/zTYP2FJoo1",
+						"expanded_url": "https://twitter.com/FrankSchepers24/status/1555887034723667968/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 4698,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555886993762095104/pu/vid/720x1280/slejjDsY-_pTGqEZ.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555886993762095104/pu/vid/320x568/45z7BEvhmKxo55Gq.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1555886993762095104/pu/pl/xGkGb3t8_Ft7X61Z.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1555886993762095104/pu/vid/480x852/e1uxRbvxg4UHXMrC.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1063109333246976000,
+				"id_str": "1063109333246976000",
+				"name": "Frank 🚀",
+				"screen_name": "FrankSchepers24",
+				"location": "",
+				"description": "Drummer for @AtlasApart 🥁 @Coldplay was my 1000th follower 🐙 Champion Of The World enthusiast 🚀",
+				"url": "https://t.co/iUXAsdKEFK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iUXAsdKEFK",
+								"expanded_url": "http://youtube.com/atlasapart",
+								"display_url": "youtube.com/atlasapart",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4623,
+				"friends_count": 1242,
+				"listed_count": 19,
+				"created_at": "Thu Nov 15 16:39:51 +0000 2018",
+				"favourites_count": 68188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1461066118508986374/1U4iE4T3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461066118508986374/1U4iE4T3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063109333246976000/1659907917",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 188,
+		"favorite_count": 1443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good call! PH \n#ColdplayBrussels https://t.co/lZl7IXj4c2 https://t.co/xqxwIDEXQQ"
+	},
+	{
 		"created_at": "Tue Aug 09 18:40:10 +0000 2022",
 		"id": 1557074100895580200,
 		"id_str": "1557074273264623616",
