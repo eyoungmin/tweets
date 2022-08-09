@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 01:40:10 +0000 2022",
+		"id": 1556815023372177400,
+		"id_str": "1556817580790251520",
+		"full_text": "【NewJeans Pop-up Store Customer Guide】\n\n🐰NewJeans' First Pop-up Store\n🐰2022.08.11 ~ 2022.08.31\n📍The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/skow6o8GT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556682365719957500,
+					"id_str": "1556682365719957504",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpyXSzaUAAZuGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpyXSzaUAAZuGo.jpg",
+					"url": "https://t.co/skow6o8GT2",
+					"display_url": "pic.twitter.com/skow6o8GT2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1556815023372177409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556682365719957500,
+					"id_str": "1556682365719957504",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpyXSzaUAAZuGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpyXSzaUAAZuGo.jpg",
+					"url": "https://t.co/skow6o8GT2",
+					"display_url": "pic.twitter.com/skow6o8GT2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1556815023372177409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556682395289817000,
+					"id_str": "1556682395289817088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpyZA9akAAlxvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpyZA9akAAlxvW.jpg",
+					"url": "https://t.co/skow6o8GT2",
+					"display_url": "pic.twitter.com/skow6o8GT2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1556815023372177409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556682425270698000,
+					"id_str": "1556682425270697984",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpyawpagAA2sW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpyawpagAA2sW6.jpg",
+					"url": "https://t.co/skow6o8GT2",
+					"display_url": "pic.twitter.com/skow6o8GT2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1556815023372177409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556682454622441500,
+					"id_str": "1556682454622441474",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FZpycd_akAIcXYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZpycd_akAIcXYv.jpg",
+					"url": "https://t.co/skow6o8GT2",
+					"display_url": "pic.twitter.com/skow6o8GT2",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1556815023372177409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289523,
+			"friends_count": 2,
+			"listed_count": 987,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 925,
+		"favorite_count": 3370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【NewJeans Pop-up Store Customer Guide】\n\n🐰NewJeans' First Pop-up Store\n🐰2022.08.11 ~ 2022.08.31\n📍The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/skow6o8GT2"
+	},
+	{
 		"created_at": "Mon Aug 08 23:29:39 +0000 2022",
 		"id": 1556777276724850700,
 		"id_str": "1556784735552143361",
