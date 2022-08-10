@@ -1,6 +1,1005 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 06:40:32 +0000 2022",
+		"id": 1557254582501519400,
+		"id_str": "1557255561661612034",
+		"full_text": "[안내📢]NewJeans Pop-up Store 안내\n\n🐰 NewJeans Pop-up Store 판매 상품 List\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/Txc4OiM540",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557254483281051600,
+					"id_str": "1557254483281051648",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx6s6zaAAAW6oL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx6s6zaAAAW6oL.jpg",
+					"url": "https://t.co/Txc4OiM540",
+					"display_url": "pic.twitter.com/Txc4OiM540",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254582501519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557254483281051600,
+					"id_str": "1557254483281051648",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx6s6zaAAAW6oL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx6s6zaAAAW6oL.jpg",
+					"url": "https://t.co/Txc4OiM540",
+					"display_url": "pic.twitter.com/Txc4OiM540",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254582501519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557254514306351000,
+					"id_str": "1557254514306351106",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx6uuYagAI_JCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx6uuYagAI_JCc.jpg",
+					"url": "https://t.co/Txc4OiM540",
+					"display_url": "pic.twitter.com/Txc4OiM540",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254582501519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557254546573107200,
+					"id_str": "1557254546573107200",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx6wmlaIAABJTB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx6wmlaIAABJTB.jpg",
+					"url": "https://t.co/Txc4OiM540",
+					"display_url": "pic.twitter.com/Txc4OiM540",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254582501519360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557254192393523200,
+		"in_reply_to_status_id_str": "1557254192393523201",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301053,
+			"friends_count": 2,
+			"listed_count": 1016,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 1124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안내📢]NewJeans Pop-up Store 안내\n\n🐰 NewJeans Pop-up Store 판매 상품 List\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/Txc4OiM540"
+	},
+	{
+		"created_at": "Wed Aug 10 06:40:27 +0000 2022",
+		"id": 1557254192393523200,
+		"id_str": "1557255540195074050",
+		"full_text": "[안내📢]NewJeans Pop-up Store 안내\n\n🐰 NewJeans Pop-up Store 판매 상품 List\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/HYjpu1fjav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557253406515134500,
+					"id_str": "1557253406515134465",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx5uPiaAAE3z7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx5uPiaAAE3z7s.jpg",
+					"url": "https://t.co/HYjpu1fjav",
+					"display_url": "pic.twitter.com/HYjpu1fjav",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254192393523201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557253406515134500,
+					"id_str": "1557253406515134465",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx5uPiaAAE3z7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx5uPiaAAE3z7s.jpg",
+					"url": "https://t.co/HYjpu1fjav",
+					"display_url": "pic.twitter.com/HYjpu1fjav",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254192393523201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557253442133184500,
+					"id_str": "1557253442133184512",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx5wUOaUAAi583.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx5wUOaUAAi583.jpg",
+					"url": "https://t.co/HYjpu1fjav",
+					"display_url": "pic.twitter.com/HYjpu1fjav",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254192393523201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557253469937238000,
+					"id_str": "1557253469937238016",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx5x7zagAA549Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx5x7zagAA549Q.jpg",
+					"url": "https://t.co/HYjpu1fjav",
+					"display_url": "pic.twitter.com/HYjpu1fjav",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254192393523201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557253500157165600,
+					"id_str": "1557253500157165568",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx5zsYaAAAf7WO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx5zsYaAAAf7WO.jpg",
+					"url": "https://t.co/HYjpu1fjav",
+					"display_url": "pic.twitter.com/HYjpu1fjav",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557254192393523201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301053,
+			"friends_count": 2,
+			"listed_count": 1016,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2344,
+		"favorite_count": 3903,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안내📢]NewJeans Pop-up Store 안내\n\n🐰 NewJeans Pop-up Store 판매 상품 List\n🐰 2022.08.11 ~ 2022.08.31\n📍 The Hyundai Seoul\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/HYjpu1fjav"
+	},
+	{
+		"created_at": "Wed Aug 10 06:24:13 +0000 2022",
+		"id": 1557244601185992700,
+		"id_str": "1557251454884229120",
+		"full_text": "[#진솔 / #JinSoul] 우당탕탕 달소들 🐶🐯🦊\n( 혜주 호랑이씨는 휴식중ヽ( ᐛ )ノ )\n\n#이달의소녀 #LOONA https://t.co/YiQSccJU3p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557244586648834000,
+					"id_str": "1557244586648834048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxxs2-akAA5fvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxxs2-akAA5fvq.jpg",
+					"url": "https://t.co/YiQSccJU3p",
+					"display_url": "pic.twitter.com/YiQSccJU3p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557244601185992704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557244586648834000,
+					"id_str": "1557244586648834048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxxs2-akAA5fvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxxs2-akAA5fvq.jpg",
+					"url": "https://t.co/YiQSccJU3p",
+					"display_url": "pic.twitter.com/YiQSccJU3p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557244601185992704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557244596610297900,
+					"id_str": "1557244596610297857",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxxtcFacAEhsCo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxxtcFacAEhsCo.jpg",
+					"url": "https://t.co/YiQSccJU3p",
+					"display_url": "pic.twitter.com/YiQSccJU3p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557244601185992704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 970172,
+			"friends_count": 3,
+			"listed_count": 8914,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2670,
+		"favorite_count": 7262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 우당탕탕 달소들 🐶🐯🦊\n( 혜주 호랑이씨는 휴식중ヽ( ᐛ )ノ )\n\n#이달의소녀 #LOONA https://t.co/YiQSccJU3p"
+	},
+	{
+		"created_at": "Wed Aug 10 06:21:55 +0000 2022",
+		"id": 1557245362611503000,
+		"id_str": "1557250875730436096",
+		"full_text": "수줍어도 용기 내줘서 너무 고마워(´▽`ʃ♡ƪ)\n별하랑은 언제나 최고야!!! 별랑해 💚💙💜\n\n🔎 https://t.co/XRlC6Uwv9v\n\n#별하랑 #CHUNGHA #BareRare\n#Sparkling #SparklingChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "별하랑",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "SparklingChallenge",
+					"indices": [
+						114,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XRlC6Uwv9v",
+					"expanded_url": "https://youtu.be/vxUM8gMQ9UQ",
+					"display_url": "youtu.be/vxUM8gMQ9UQ",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354983,
+			"friends_count": 1,
+			"listed_count": 2192,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수줍어도 용기 내줘서 너무 고마워(´▽`ʃ♡ƪ)\n별하랑은 언제나 최고야!!! 별랑해 💚💙💜\n\n🔎 https://t.co/XRlC6Uwv9v\n\n#별하랑 #CHUNGHA #BareRare\n#Sparkling #SparklingChallenge"
+	},
+	{
 		"created_at": "Wed Aug 10 05:40:13 +0000 2022",
 		"id": 1557230262022377500,
 		"id_str": "1557240380470562817",
