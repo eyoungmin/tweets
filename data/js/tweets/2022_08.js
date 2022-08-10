@@ -1,6 +1,951 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 05:40:13 +0000 2022",
+		"id": 1557230262022377500,
+		"id_str": "1557240380470562817",
+		"full_text": "[Notice] Information on How to Report Artists’ Rights Infringement Actions https://t.co/KyLvG1q7Cr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557227274411589600,
+					"id_str": "1557227274411589632",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxh9J3aQAAYWB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxh9J3aQAAYWB7.jpg",
+					"url": "https://t.co/KyLvG1q7Cr",
+					"display_url": "pic.twitter.com/KyLvG1q7Cr",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230262022377474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557227274411589600,
+					"id_str": "1557227274411589632",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxh9J3aQAAYWB7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxh9J3aQAAYWB7.jpg",
+					"url": "https://t.co/KyLvG1q7Cr",
+					"display_url": "pic.twitter.com/KyLvG1q7Cr",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230262022377474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557227286474403800,
+					"id_str": "1557227286474403840",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxh92zaMAA_er_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxh92zaMAA_er_.jpg",
+					"url": "https://t.co/KyLvG1q7Cr",
+					"display_url": "pic.twitter.com/KyLvG1q7Cr",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230262022377474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 79496,
+			"friends_count": 2,
+			"listed_count": 369,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1658415871",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1063,
+		"favorite_count": 2918,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Notice] Information on How to Report Artists’ Rights Infringement Actions https://t.co/KyLvG1q7Cr"
+	},
+	{
+		"created_at": "Wed Aug 10 05:40:10 +0000 2022",
+		"id": 1557230259921047600,
+		"id_str": "1557240367409467392",
+		"full_text": "[공지] 아티스트 권리침해 관련 법적 대응 제보 방법 안내 https://t.co/3tilHTmOkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557226925135118300,
+					"id_str": "1557226925135118336",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxho0taQAAl3-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxho0taQAAl3-Z.jpg",
+					"url": "https://t.co/3tilHTmOkA",
+					"display_url": "pic.twitter.com/3tilHTmOkA",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230259921047552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557226925135118300,
+					"id_str": "1557226925135118336",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxho0taQAAl3-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxho0taQAAl3-Z.jpg",
+					"url": "https://t.co/3tilHTmOkA",
+					"display_url": "pic.twitter.com/3tilHTmOkA",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230259921047552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557226933527916500,
+					"id_str": "1557226933527916544",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxhpT-aMAAnZfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxhpT-aMAAnZfW.jpg",
+					"url": "https://t.co/3tilHTmOkA",
+					"display_url": "pic.twitter.com/3tilHTmOkA",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1557230259921047552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 79496,
+			"friends_count": 2,
+			"listed_count": 369,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550134621093842946/0IZj0qov_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1658415871",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1078,
+		"favorite_count": 2036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 아티스트 권리침해 관련 법적 대응 제보 방법 안내 https://t.co/3tilHTmOkA"
+	},
+	{
+		"created_at": "Wed Aug 10 05:29:39 +0000 2022",
+		"id": 1557230306607804400,
+		"id_str": "1557237720589770758",
+		"full_text": "소원의 응원을 듬뿍 받은 소녀시대의 \n#스포티파이_빌보드 도착💖\n\n15주년을 맞이한 소녀시대의\n정규 7집 [FOREVER 1]을 \n지금 #스포티파이 에서 만나보세요! \nhttps://t.co/sN2DZ57Xwx \n\n📍강남역 씨티빌딩\n\n@GirlsGeneration #GirlsGeneration \n#소녀시대 #FOREVER1 https://t.co/vN2rw4C3pT https://t.co/iFLh6cwtXb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이_빌보드",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sN2DZ57Xwx",
+					"expanded_url": "http://spotify.link/4vIbYgX0esb",
+					"display_url": "spotify.link/4vIbYgX0esb",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/vN2rw4C3pT",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1556535685229707265",
+					"display_url": "twitter.com/SpotifyKR/stat…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557229999010115600,
+					"id_str": "1557229999010115590",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxkbvyUcAYJZ5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxkbvyUcAYJZ5l.jpg",
+					"url": "https://t.co/iFLh6cwtXb",
+					"display_url": "pic.twitter.com/iFLh6cwtXb",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1557230306607804418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557229999010115600,
+					"id_str": "1557229999010115590",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxkbvyUcAYJZ5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxkbvyUcAYJZ5l.jpg",
+					"url": "https://t.co/iFLh6cwtXb",
+					"display_url": "pic.twitter.com/iFLh6cwtXb",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1557230306607804418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/3A5aX8S14h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3A5aX8S14h",
+							"expanded_url": "https://spotify.link/AI7hay2nQqb",
+							"display_url": "spotify.link/AI7hay2nQqb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141239,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556535685229707300,
+		"quoted_status_id_str": "1556535685229707265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vN2rw4C3pT",
+			"expanded": "https://twitter.com/SpotifyKR/status/1556535685229707265",
+			"display": "twitter.com/SpotifyKR/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 08 07:00:01 +0000 2022",
+			"id": 1556535685229707300,
+			"id_str": "1556535685229707265",
+			"full_text": "소녀시대의 퀴즈 정답 도착💖\n\n소녀시대의 [FOREVER 1]을 \n지금 #스포티파이 에서 만나보세요 \nhttps://t.co/sN2DZ4QmEZ\n\n인용 RT로 소녀시대를 향한 사랑을 남겨주시면 \n곧 선물이 찾아옵니다✨\n\n@GirlsGeneration #GirlsGeneration \n#소녀시대 #FOREVER1 https://t.co/KTfEcqedEV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "스포티파이",
+						"indices": [
+							40,
+							46
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							140,
+							156
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							158,
+							163
+						]
+					},
+					{
+						"text": "FOREVER1",
+						"indices": [
+							164,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GirlsGeneration",
+						"name": "Girls' Generation",
+						"id": 391115625,
+						"id_str": "391115625",
+						"indices": [
+							123,
+							139
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sN2DZ4QmEZ",
+						"expanded_url": "http://spotify.link/4vIbYgX0esb",
+						"display_url": "spotify.link/4vIbYgX0esb",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1556515425927954400,
+						"id_str": "1556515425927954436",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556515425927954436/pu/img/NvRnfRxHTlzUUrZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556515425927954436/pu/img/NvRnfRxHTlzUUrZJ.jpg",
+						"url": "https://t.co/KTfEcqedEV",
+						"display_url": "pic.twitter.com/KTfEcqedEV",
+						"expanded_url": "https://twitter.com/SpotifyKR/status/1556535685229707265/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556515425927954400,
+						"id_str": "1556515425927954436",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1556515425927954436/pu/img/NvRnfRxHTlzUUrZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1556515425927954436/pu/img/NvRnfRxHTlzUUrZJ.jpg",
+						"url": "https://t.co/KTfEcqedEV",
+						"display_url": "pic.twitter.com/KTfEcqedEV",
+						"expanded_url": "https://twitter.com/SpotifyKR/status/1556535685229707265/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25425,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1556515425927954436/pu/vid/1280x720/KtKM9nKsaiXNeLUV.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1556515425927954436/pu/pl/DkDN_trG7zHXtSsj.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1556515425927954436/pu/vid/640x360/1iZbaUt388TGtqWF.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1556515425927954436/pu/vid/480x270/H7tfXIdLAFyemcUQ.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1207908245118963700,
+				"id_str": "1207908245118963712",
+				"name": "Spotify Korea",
+				"screen_name": "SpotifyKR",
+				"location": "",
+				"description": "스포티파이, 지금 3개월 무료체험 중💚",
+				"url": "https://t.co/3A5aX8S14h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3A5aX8S14h",
+								"expanded_url": "https://spotify.link/AI7hay2nQqb",
+								"display_url": "spotify.link/AI7hay2nQqb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141239,
+				"friends_count": 0,
+				"listed_count": 91,
+				"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+				"favourites_count": 551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1619,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1652927386",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 741,
+			"favorite_count": 1364,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 368,
+		"favorite_count": 469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소원의 응원을 듬뿍 받은 소녀시대의 \n#스포티파이_빌보드 도착💖\n\n15주년을 맞이한 소녀시대의\n정규 7집 [FOREVER 1]을 \n지금 #스포티파이 에서 만나보세요! \nhttps://t.co/sN2DZ57Xwx \n\n📍강남역 씨티빌딩\n\n@GirlsGeneration #GirlsGeneration \n#소녀시대 #FOREVER1 https://t.co/vN2rw4C3pT https://t.co/iFLh6cwtXb"
+	},
+	{
 		"created_at": "Wed Aug 10 03:45:37 +0000 2022",
 		"id": 1557200086626701300,
 		"id_str": "1557211539328876550",
