@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 15:40:10 +0000 2022",
+		"id": 1557381283419869200,
+		"id_str": "1557391362701643776",
+		"full_text": "#BLACKPINK 'Pink Venom' Title Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 #PreReleaseSingle #PinkVenom #TitlePoster #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/bReGkFQpto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						159,
+						176
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "TitlePoster",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						201,
+						218
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						219,
+						235
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						236,
+						244
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						245,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557380692039725000,
+					"id_str": "1557380692039725056",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FZztfPEUcAA3f7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZztfPEUcAA3f7w.jpg",
+					"url": "https://t.co/bReGkFQpto",
+					"display_url": "pic.twitter.com/bReGkFQpto",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557381283419869184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557380692039725000,
+					"id_str": "1557380692039725056",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FZztfPEUcAA3f7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZztfPEUcAA3f7w.jpg",
+					"url": "https://t.co/bReGkFQpto",
+					"display_url": "pic.twitter.com/bReGkFQpto",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557381283419869184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557380717062983700,
+					"id_str": "1557380717062983680",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FZztgsSVEAA2U_o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZztgsSVEAA2U_o.jpg",
+					"url": "https://t.co/bReGkFQpto",
+					"display_url": "pic.twitter.com/bReGkFQpto",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557381283419869184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557380740249034800,
+					"id_str": "1557380740249034753",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FZztiCqUIAEVdw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZztiCqUIAEVdw3.jpg",
+					"url": "https://t.co/bReGkFQpto",
+					"display_url": "pic.twitter.com/bReGkFQpto",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557381283419869184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557380760931221500,
+					"id_str": "1557380760931221506",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FZztjPtVQAIV04W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZztjPtVQAIV04W.jpg",
+					"url": "https://t.co/bReGkFQpto",
+					"display_url": "pic.twitter.com/bReGkFQpto",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557381283419869184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8812997,
+			"friends_count": 36,
+			"listed_count": 9828,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73809,
+		"favorite_count": 132875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Pink Venom' Title Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 #PreReleaseSingle #PinkVenom #TitlePoster #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/bReGkFQpto"
+	},
+	{
+		"created_at": "Wed Aug 10 15:29:39 +0000 2022",
+		"id": 1557378924606558200,
+		"id_str": "1557388714451558403",
+		"full_text": "Girls' Generation mau temu kangen sekaligus bacain beberapa pesan cinta yang sudah SONE kirim! Kira-kira ada pesan dari kamu nggak, ya? 🧐\n\nYuk reply di bawah, seberapa kangen sih kamu sama Girls' Generation? 🤗💗\n\n@GirlsGeneration\n#TemuKangenSONE #GirlsGeneration #FOREVER1 https://t.co/tVO8NcFaGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TemuKangenSONE",
+					"indices": [
+						229,
+						244
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						245,
+						261
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						262,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						212,
+						228
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557377082434650000,
+					"id_str": "1557377082434650115",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557377082434650115/img/S0PCKkvvSADV2-tu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557377082434650115/img/S0PCKkvvSADV2-tu.jpg",
+					"url": "https://t.co/tVO8NcFaGD",
+					"display_url": "pic.twitter.com/tVO8NcFaGD",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1557378924606558208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557377082434650000,
+					"id_str": "1557377082434650115",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557377082434650115/img/S0PCKkvvSADV2-tu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557377082434650115/img/S0PCKkvvSADV2-tu.jpg",
+					"url": "https://t.co/tVO8NcFaGD",
+					"display_url": "pic.twitter.com/tVO8NcFaGD",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1557378924606558208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 134125,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557377082434650115/vid/1280x720/rHZZSwt5ceEJt0Y4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1557377082434650115/pl/1dHYizc6vMiTN7Qf.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557377082434650115/vid/480x270/E-lxWKT6qp1eACeB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557377082434650115/vid/640x360/xcgFK5VzvR64YnW8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1082228,
+			"friends_count": 37,
+			"listed_count": 663,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 526,
+		"favorite_count": 1072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Girls' Generation mau temu kangen sekaligus bacain beberapa pesan cinta yang sudah SONE kirim! Kira-kira ada pesan dari kamu nggak, ya? 🧐\n\nYuk reply di bawah, seberapa kangen sih kamu sama Girls' Generation? 🤗💗\n\n@GirlsGeneration\n#TemuKangenSONE #GirlsGeneration #FOREVER1 https://t.co/tVO8NcFaGD"
+	},
+	{
 		"created_at": "Wed Aug 10 14:40:10 +0000 2022",
 		"id": 1557376121271885800,
 		"id_str": "1557376262313762821",
