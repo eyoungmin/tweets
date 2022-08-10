@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 17:42:09 +0000 2022",
+		"id": 1557411625883287600,
+		"id_str": "1557422059264716803",
+		"full_text": "i’ve seen the way it’s gunna end 🤍\n@Mattryder___ \n📷 @affairintokyo \nhttps://t.co/zOlxvCsDgG https://t.co/UWIMjnbDy6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mattryder___",
+					"name": "Matt Ryder",
+					"id": 1186989865717641200,
+					"id_str": "1186989865717641216",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zOlxvCsDgG",
+					"expanded_url": "https://birdy.lnk.to/riverbed",
+					"display_url": "birdy.lnk.to/riverbed",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557409416902754300,
+					"id_str": "1557409416902754310",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ0HnPhWQAYELG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ0HnPhWQAYELG3.jpg",
+					"url": "https://t.co/UWIMjnbDy6",
+					"display_url": "pic.twitter.com/UWIMjnbDy6",
+					"expanded_url": "https://twitter.com/birdy/status/1557411625883287552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557409416902754300,
+					"id_str": "1557409416902754310",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ0HnPhWQAYELG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ0HnPhWQAYELG3.jpg",
+					"url": "https://t.co/UWIMjnbDy6",
+					"display_url": "pic.twitter.com/UWIMjnbDy6",
+					"expanded_url": "https://twitter.com/birdy/status/1557411625883287552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Riverbed with Matt Ryder is out now ✨\ntickets to my 2023 european tour are on sale  \nhttps://t.co/AOWSyI9JYu",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310415,
+			"friends_count": 177,
+			"listed_count": 1177,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i’ve seen the way it’s gunna end 🤍\n@Mattryder___ \n📷 @affairintokyo \nhttps://t.co/zOlxvCsDgG https://t.co/UWIMjnbDy6"
+	},
+	{
 		"created_at": "Wed Aug 10 15:40:10 +0000 2022",
 		"id": 1557381283419869200,
 		"id_str": "1557391362701643776",
