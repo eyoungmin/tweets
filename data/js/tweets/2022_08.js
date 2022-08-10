@@ -1,6 +1,1686 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 07:40:40 +0000 2022",
+		"id": 1557268890064785400,
+		"id_str": "1557270690885255168",
+		"full_text": "Girls’ Generation special fan event to mark their 15th debut anniversary will be held on September 3! Presale for fan club begins on 8/12 and general ticket sale on 8/16!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1557268887112020000,
+		"in_reply_to_status_id_str": "1557268887112019968",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3868439,
+			"friends_count": 5,
+			"listed_count": 6127,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 914,
+		"favorite_count": 1967,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls’ Generation special fan event to mark their 15th debut anniversary will be held on September 3! Presale for fan club begins on 8/12 and general ticket sale on 8/16!"
+	},
+	{
+		"created_at": "Wed Aug 10 07:40:36 +0000 2022",
+		"id": 1557268887112020000,
+		"id_str": "1557270677845065728",
+		"full_text": "소녀시대 데뷔 15주년 기념 스페셜 팬이벤트 9월 3일 개최!\n8월 12일 팬클럽 선예매, 16일 일반 예매 오픈!\n\nhttps://t.co/o3CZdc10QX\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#2022_GirlsGeneration_Special_Event_Long_Lasting_Love https://t.co/zyuc9OXtIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "2022_GirlsGeneration_Special_Event_Long_Lasting_Love",
+					"indices": [
+						125,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3CZdc10QX",
+					"expanded_url": "https://bit.ly/3AaM9iN",
+					"display_url": "bit.ly/3AaM9iN",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557268878287257600,
+					"id_str": "1557268878287257601",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyHy0YVQAEQwdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyHy0YVQAEQwdP.jpg",
+					"url": "https://t.co/zyuc9OXtIZ",
+					"display_url": "pic.twitter.com/zyuc9OXtIZ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1557268887112019968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557268878287257600,
+					"id_str": "1557268878287257601",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyHy0YVQAEQwdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyHy0YVQAEQwdP.jpg",
+					"url": "https://t.co/zyuc9OXtIZ",
+					"display_url": "pic.twitter.com/zyuc9OXtIZ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1557268887112019968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3868439,
+			"friends_count": 5,
+			"listed_count": 6127,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3034,
+		"favorite_count": 4985,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 데뷔 15주년 기념 스페셜 팬이벤트 9월 3일 개최!\n8월 12일 팬클럽 선예매, 16일 일반 예매 오픈!\n\nhttps://t.co/o3CZdc10QX\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#2022_GirlsGeneration_Special_Event_Long_Lasting_Love https://t.co/zyuc9OXtIZ"
+	},
+	{
+		"created_at": "Wed Aug 10 07:40:10 +0000 2022",
+		"id": 1557255619086012400,
+		"id_str": "1557270567245553665",
+		"full_text": "[안내📢]NewJeans Pop-up Store 입장 대기\n\n🐰9:30AM(KST) 지하 2층 지하철 연결 통로 입구 앞에서 웨이팅 앱 등록 및 대기\n🐰10:30AM(KST) 팝업 오픈 및 입장\n\n오픈 이후 현장 입장 예약은 매장 입구에서 진행  \n입장 호출 후 20분 내 미입장 시 취소 \n매장 이용은 입장 이후 1시간 동안 가능",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557254582501519400,
+		"in_reply_to_status_id_str": "1557254582501519360",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301596,
+			"friends_count": 2,
+			"listed_count": 1024,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 217,
+		"favorite_count": 625,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢]NewJeans Pop-up Store 입장 대기\n\n🐰9:30AM(KST) 지하 2층 지하철 연결 통로 입구 앞에서 웨이팅 앱 등록 및 대기\n🐰10:30AM(KST) 팝업 오픈 및 입장\n\n오픈 이후 현장 입장 예약은 매장 입구에서 진행  \n입장 호출 후 20분 내 미입장 시 취소 \n매장 이용은 입장 이후 1시간 동안 가능"
+	},
+	{
+		"created_at": "Wed Aug 10 07:29:48 +0000 2022",
+		"id": 1557267402181603300,
+		"id_str": "1557267960015773696",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 스틸이 왔어요💖\n조명 꺼도 되겠는데요…? ㄴ😮ㄱ\n\nKBS 새 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/PWv6PXV7yR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557267349941526500,
+					"id_str": "1557267349941526528",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGZ22UIAA2rPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGZ22UIAA2rPw.jpg",
+					"url": "https://t.co/PWv6PXV7yR",
+					"display_url": "pic.twitter.com/PWv6PXV7yR",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557267402181603328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557267349941526500,
+					"id_str": "1557267349941526528",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGZ22UIAA2rPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGZ22UIAA2rPw.jpg",
+					"url": "https://t.co/PWv6PXV7yR",
+					"display_url": "pic.twitter.com/PWv6PXV7yR",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557267402181603328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557267349945720800,
+					"id_str": "1557267349945720832",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGZ23UIAA0OiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGZ23UIAA0OiH.jpg",
+					"url": "https://t.co/PWv6PXV7yR",
+					"display_url": "pic.twitter.com/PWv6PXV7yR",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557267402181603328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557267349928939500,
+					"id_str": "1557267349928939520",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGZ2zUEAAlpDt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGZ2zUEAAlpDt.jpg",
+					"url": "https://t.co/PWv6PXV7yR",
+					"display_url": "pic.twitter.com/PWv6PXV7yR",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557267402181603328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557267349945782300,
+					"id_str": "1557267349945782272",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGZ23VEAAK25L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGZ23VEAAK25L.jpg",
+					"url": "https://t.co/PWv6PXV7yR",
+					"display_url": "pic.twitter.com/PWv6PXV7yR",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557267402181603328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105549,
+			"friends_count": 56715,
+			"listed_count": 2125,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 스틸이 왔어요💖\n조명 꺼도 되겠는데요…? ㄴ😮ㄱ\n\nKBS 새 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/PWv6PXV7yR"
+	},
+	{
+		"created_at": "Wed Aug 10 07:29:41 +0000 2022",
+		"id": 1557266967953903600,
+		"id_str": "1557267929808486401",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 스틸이 왔어요💖\n보고만 있어도 웃음꽃이..🌸 첫방 함께해요✨\n\nKBS 새 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ByqhKzz72i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557266923351449600,
+					"id_str": "1557266923351449600",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGBBrUIAAOKq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGBBrUIAAOKq1.jpg",
+					"url": "https://t.co/ByqhKzz72i",
+					"display_url": "pic.twitter.com/ByqhKzz72i",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557266967953903617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557266923351449600,
+					"id_str": "1557266923351449600",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGBBrUIAAOKq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGBBrUIAAOKq1.jpg",
+					"url": "https://t.co/ByqhKzz72i",
+					"display_url": "pic.twitter.com/ByqhKzz72i",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557266967953903617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557266923351449600,
+					"id_str": "1557266923351449607",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGBBrUIAcKHtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGBBrUIAcKHtZ.jpg",
+					"url": "https://t.co/ByqhKzz72i",
+					"display_url": "pic.twitter.com/ByqhKzz72i",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557266967953903617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557266923427025000,
+					"id_str": "1557266923427024896",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGBB9VUAANgUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGBB9VUAANgUx.jpg",
+					"url": "https://t.co/ByqhKzz72i",
+					"display_url": "pic.twitter.com/ByqhKzz72i",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557266967953903617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557266923548684300,
+					"id_str": "1557266923548684288",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyGBCaVsAAPUnU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyGBCaVsAAPUnU.jpg",
+					"url": "https://t.co/ByqhKzz72i",
+					"display_url": "pic.twitter.com/ByqhKzz72i",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557266967953903617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105549,
+			"friends_count": 56715,
+			"listed_count": 2125,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 스틸이 왔어요💖\n보고만 있어도 웃음꽃이..🌸 첫방 함께해요✨\n\nKBS 새 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ByqhKzz72i"
+	},
+	{
+		"created_at": "Wed Aug 10 07:24:14 +0000 2022",
+		"id": 1557257808587812900,
+		"id_str": "1557266556211474434",
+		"full_text": "[#여진 / #YeoJin] ❤️💙❤️💙📸\n\n#이달의소녀 #LOONA https://t.co/bALHmcHIq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557257793195090000,
+					"id_str": "1557257793195089920",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9tlMaIAAPdnZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9tlMaIAAPdnZ.jpg",
+					"url": "https://t.co/bALHmcHIq4",
+					"display_url": "pic.twitter.com/bALHmcHIq4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257808587812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557257793195090000,
+					"id_str": "1557257793195089920",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9tlMaIAAPdnZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9tlMaIAAPdnZ.jpg",
+					"url": "https://t.co/bALHmcHIq4",
+					"display_url": "pic.twitter.com/bALHmcHIq4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257808587812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557257799524294700,
+					"id_str": "1557257799524294656",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9t8xaIAAv3Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9t8xaIAAv3Vm.jpg",
+					"url": "https://t.co/bALHmcHIq4",
+					"display_url": "pic.twitter.com/bALHmcHIq4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257808587812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557257805383762000,
+					"id_str": "1557257805383761920",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9uSmagAAYxv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9uSmagAAYxv0.jpg",
+					"url": "https://t.co/bALHmcHIq4",
+					"display_url": "pic.twitter.com/bALHmcHIq4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257808587812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 970176,
+			"friends_count": 3,
+			"listed_count": 8915,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1748,
+		"favorite_count": 6778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#여진 / #YeoJin] ❤️💙❤️💙📸\n\n#이달의소녀 #LOONA https://t.co/bALHmcHIq4"
+	},
+	{
+		"created_at": "Wed Aug 10 07:24:14 +0000 2022",
+		"id": 1557257831316803600,
+		"id_str": "1557266555892772865",
+		"full_text": "[#여진 / #YeoJin] ❤️💙❤️💙📸\n\n#이달의소녀 #LOONA https://t.co/CVWffiNrL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557257814879641600,
+					"id_str": "1557257814879641601",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9u1-aIAESAvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9u1-aIAESAvc.jpg",
+					"url": "https://t.co/CVWffiNrL2",
+					"display_url": "pic.twitter.com/CVWffiNrL2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257831316803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557257814879641600,
+					"id_str": "1557257814879641601",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9u1-aIAESAvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9u1-aIAESAvc.jpg",
+					"url": "https://t.co/CVWffiNrL2",
+					"display_url": "pic.twitter.com/CVWffiNrL2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257831316803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557257821322084400,
+					"id_str": "1557257821322084353",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9vN-aAAEBfeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9vN-aAAEBfeC.jpg",
+					"url": "https://t.co/CVWffiNrL2",
+					"display_url": "pic.twitter.com/CVWffiNrL2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257831316803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557257828045586400,
+					"id_str": "1557257828045586432",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FZx9vnBagAAe23_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZx9vnBagAAe23_.jpg",
+					"url": "https://t.co/CVWffiNrL2",
+					"display_url": "pic.twitter.com/CVWffiNrL2",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1557257831316803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1557257808587812900,
+		"in_reply_to_status_id_str": "1557257808587812864",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 970176,
+			"friends_count": 3,
+			"listed_count": 8915,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 785,
+		"favorite_count": 3701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#여진 / #YeoJin] ❤️💙❤️💙📸\n\n#이달의소녀 #LOONA https://t.co/CVWffiNrL2"
+	},
+	{
 		"created_at": "Wed Aug 10 06:40:32 +0000 2022",
 		"id": 1557254582501519400,
 		"id_str": "1557255561661612034",
