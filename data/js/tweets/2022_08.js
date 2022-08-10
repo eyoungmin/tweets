@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 14:40:10 +0000 2022",
+		"id": 1557376121271885800,
+		"id_str": "1557376262313762821",
+		"full_text": "The mighty @davrossimusic graced our stage in Brussels for Sunrise, which he arranged and performed on Everyday Life. Over the past 15 years, he also played all strings on Viva, Paradise and more than I can remember. We love you, Dav ❤️🤍💚PH https://t.co/FhukO0s5Ep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davrossimusic",
+					"name": "Davide Rossi",
+					"id": 20224785,
+					"id_str": "20224785",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557376031715201000,
+					"id_str": "1557376031715201024",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557376031715201024/pu/img/KraKAAbdBURboVRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557376031715201024/pu/img/KraKAAbdBURboVRa.jpg",
+					"url": "https://t.co/FhukO0s5Ep",
+					"display_url": "pic.twitter.com/FhukO0s5Ep",
+					"expanded_url": "https://twitter.com/coldplay/status/1557376121271885826/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557376031715201000,
+					"id_str": "1557376031715201024",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557376031715201024/pu/img/KraKAAbdBURboVRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557376031715201024/pu/img/KraKAAbdBURboVRa.jpg",
+					"url": "https://t.co/FhukO0s5Ep",
+					"display_url": "pic.twitter.com/FhukO0s5Ep",
+					"expanded_url": "https://twitter.com/coldplay/status/1557376121271885826/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33313,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557376031715201024/pu/vid/480x270/YpquTuZWSxQtFeGh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557376031715201024/pu/vid/640x360/mPJ624lxpfGSFeFN.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557376031715201024/pu/vid/1280x720/DIRe6TqoOuQ4jhBN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1557376031715201024/pu/pl/j1b5-y1Z26_pg9eg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602283,
+			"friends_count": 778,
+			"listed_count": 42455,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The mighty @davrossimusic graced our stage in Brussels for Sunrise, which he arranged and performed on Everyday Life. Over the past 15 years, he also played all strings on Viva, Paradise and more than I can remember. We love you, Dav ❤️🤍💚PH https://t.co/FhukO0s5Ep"
+	},
+	{
 		"created_at": "Wed Aug 10 13:01:06 +0000 2022",
 		"id": 1557337406986064000,
 		"id_str": "1557351334130491399",
