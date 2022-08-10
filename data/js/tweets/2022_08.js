@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 23:40:10 +0000 2022",
+		"id": 1557139738661888000,
+		"id_str": "1557149769847521281",
+		"full_text": "our latest K-RISING playlist is serving K-Pop til you drop 💯 press play for @ATBO_ground, @NMIXX_official, @NewJeans_ADOR, &amp; more → https://t.co/uiKjyOtDcZ https://t.co/iLM7nZ9o49",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATBO_ground",
+					"name": "ATBO",
+					"id": 1467737345776820200,
+					"id_str": "1467737345776820224",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "NMIXX_official",
+					"name": "NMIXX",
+					"id": 1392302226782052400,
+					"id_str": "1392302226782052355",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uiKjyOtDcZ",
+					"expanded_url": "http://yt.be/music/KRISING",
+					"display_url": "yt.be/music/KRISING",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557139666855497700,
+					"id_str": "1557139666855497728",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557139666855497728/img/gItuqHJLYdhAIkpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557139666855497728/img/gItuqHJLYdhAIkpH.jpg",
+					"url": "https://t.co/iLM7nZ9o49",
+					"display_url": "pic.twitter.com/iLM7nZ9o49",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1557139738661888000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557139666855497700,
+					"id_str": "1557139666855497728",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1557139666855497728/img/gItuqHJLYdhAIkpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1557139666855497728/img/gItuqHJLYdhAIkpH.jpg",
+					"url": "https://t.co/iLM7nZ9o49",
+					"display_url": "pic.twitter.com/iLM7nZ9o49",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1557139738661888000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21821,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557139666855497728/vid/540x540/TJGa8hlrvUBEWL5A.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557139666855497728/vid/320x320/XZp87l5w4BYn6v1h.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1557139666855497728/pl/Hl7cCPO30bujiAK0.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557139666855497728/vid/720x720/p_uYsp4CnmmcLcpu.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880142286176231400,
+			"id_str": "880142286176231425",
+			"name": "YouTube Music",
+			"screen_name": "youtubemusic",
+			"location": "",
+			"description": "The premium music streaming app, made by @YouTube.",
+			"url": "https://t.co/Ea04XrDzGN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ea04XrDzGN",
+							"expanded_url": "http://music.youtube.com",
+							"display_url": "music.youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971115,
+			"friends_count": 728,
+			"listed_count": 2385,
+			"created_at": "Wed Jun 28 19:14:08 +0000 2017",
+			"favourites_count": 4047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428049246956097536/JEm1SO_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428049246956097536/JEm1SO_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880142286176231425/1659716158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "our latest K-RISING playlist is serving K-Pop til you drop 💯 press play for @ATBO_ground, @NMIXX_official, @NewJeans_ADOR, &amp; more → https://t.co/uiKjyOtDcZ https://t.co/iLM7nZ9o49"
+	},
+	{
 		"created_at": "Tue Aug 09 21:40:10 +0000 2022",
 		"id": 1557118345132097500,
 		"id_str": "1557119572112719872",
