@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 03:45:37 +0000 2022",
+		"id": 1557200086626701300,
+		"id_str": "1557211539328876550",
+		"full_text": "【#LOONA】\n日本2ndSingle『#LUMINOUS』9/28(水)発売！\n『#生き残った6人によると』エンディング主題歌を収録✨\n日本初開催の対面リアルイベントお見逃しなく!!\n\n👇11形態セット豪華特典付き\nhttps://t.co/TET4bMHYi4\n\n👇リアルイベント応募抽選シリアルA付き\nhttps://t.co/a0TY5en1zK\n#今月の少女 https://t.co/iiUzyDpJXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "生き残った6人によると",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TET4bMHYi4",
+					"expanded_url": "https://bit.ly/3cPpBeg",
+					"display_url": "bit.ly/3cPpBeg",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/a0TY5en1zK",
+					"expanded_url": "https://bit.ly/3Pwaip8",
+					"display_url": "bit.ly/3Pwaip8",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557200083686498300,
+					"id_str": "1557200083686498306",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxJOchXoAIrUYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxJOchXoAIrUYk.jpg",
+					"url": "https://t.co/iiUzyDpJXG",
+					"display_url": "pic.twitter.com/iiUzyDpJXG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1557200086626701314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557200083686498300,
+					"id_str": "1557200083686498306",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxJOchXoAIrUYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxJOchXoAIrUYk.jpg",
+					"url": "https://t.co/iiUzyDpJXG",
+					"display_url": "pic.twitter.com/iiUzyDpJXG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1557200086626701314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557200083673923600,
+					"id_str": "1557200083673923585",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FZxJOceXwAECk7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZxJOceXwAECk7S.jpg",
+					"url": "https://t.co/iiUzyDpJXG",
+					"display_url": "pic.twitter.com/iiUzyDpJXG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1557200086626701314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40390,
+			"friends_count": 157,
+			"listed_count": 262,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#LOONA】\n日本2ndSingle『#LUMINOUS』9/28(水)発売！\n『#生き残った6人によると』エンディング主題歌を収録✨\n日本初開催の対面リアルイベントお見逃しなく!!\n\n👇11形態セット豪華特典付き\nhttps://t.co/TET4bMHYi4\n\n👇リアルイベント応募抽選シリアルA付き\nhttps://t.co/a0TY5en1zK\n#今月の少女 https://t.co/iiUzyDpJXG"
+	},
+	{
+		"created_at": "Wed Aug 10 03:40:10 +0000 2022",
+		"id": 1557199542067818500,
+		"id_str": "1557210168554934272",
+		"full_text": "[Event 🎈] NewJeans - 1st EP ‘New Jeans’ #Listening_Party \n🐰#NewJeans 의 첫번째 리스닝 파티가 3분 뒤에 시작될 예정입니다!\n🐰#NewJeans_1st_EP Listening Party will be on live in 3 minutes!\n📍 https://t.co/MuqraYxJI9 12PM (8PM PT/11PM ET)!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Listening_Party",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MuqraYxJI9",
+					"expanded_url": "http://stationhead.com/newjeansofficial",
+					"display_url": "stationhead.com/newjeansoffici…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299810,
+			"friends_count": 2,
+			"listed_count": 1025,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 1612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Event 🎈] NewJeans - 1st EP ‘New Jeans’ #Listening_Party \n🐰#NewJeans 의 첫번째 리스닝 파티가 3분 뒤에 시작될 예정입니다!\n🐰#NewJeans_1st_EP Listening Party will be on live in 3 minutes!\n📍 https://t.co/MuqraYxJI9 12PM (8PM PT/11PM ET)!"
+	},
+	{
 		"created_at": "Wed Aug 10 02:29:47 +0000 2022",
 		"id": 1557191062900260900,
 		"id_str": "1557192454968950785",
