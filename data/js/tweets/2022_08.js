@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 09:40:27 +0000 2022",
+		"id": 1557657076477747200,
+		"id_str": "1557663224597823489",
+		"full_text": "[VOTE🗳]\n#뉴진스 가 Mnet M COUNTDOWN 1위 후보에 올랐습니다.\n#NewJeans is nominated for No.1 on &lt;M COUNTDOWN&gt;\n\n✔ 온라인 투표: https://t.co/Us1UifH9kt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Us1UifH9kt",
+					"expanded_url": "https://www.mnetplus.world/community/vote?voteId=SU5Nt0R4n8Z9X-qy83U_V",
+					"display_url": "mnetplus.world/community/vote…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310794,
+			"friends_count": 2,
+			"listed_count": 1051,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1456,
+		"favorite_count": 2433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VOTE🗳]\n#뉴진스 가 Mnet M COUNTDOWN 1위 후보에 올랐습니다.\n#NewJeans is nominated for No.1 on &lt;M COUNTDOWN&gt;\n\n✔ 온라인 투표: https://t.co/Us1UifH9kt"
+	},
+	{
+		"created_at": "Thu Aug 11 09:40:13 +0000 2022",
+		"id": 1557653051023966200,
+		"id_str": "1557663165118386176",
+		"full_text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" MV Making Film✨\n\n▶ https://t.co/Y29nitPAtd\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/bjeWLHhWW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						115,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y29nitPAtd",
+					"expanded_url": "https://youtu.be/6KTNePSzmYY",
+					"display_url": "youtu.be/6KTNePSzmYY",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557626674425974800,
+					"id_str": "1557626674425974784",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3NNS3VUAAhNRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3NNS3VUAAhNRy.jpg",
+					"url": "https://t.co/bjeWLHhWW4",
+					"display_url": "pic.twitter.com/bjeWLHhWW4",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1557653051023966208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557626674425974800,
+					"id_str": "1557626674425974784",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3NNS3VUAAhNRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3NNS3VUAAhNRy.jpg",
+					"url": "https://t.co/bjeWLHhWW4",
+					"display_url": "pic.twitter.com/bjeWLHhWW4",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1557653051023966208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18785,
+			"friends_count": 2,
+			"listed_count": 66,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Just A Dancer\" MV Making Film✨\n\n▶ https://t.co/Y29nitPAtd\n\n#선예 #Sunye #Genuine #JustADancer https://t.co/bjeWLHhWW4"
+	},
+	{
+		"created_at": "Thu Aug 11 09:40:10 +0000 2022",
+		"id": 1556959612976636000,
+		"id_str": "1557663152027967489",
+		"full_text": "🐰잇츠라이브에 나올 아티스트는 누굴까요~? 소리를 듣고 맞혀주세요🐰\nListen &amp; Guess who will be on it's Live soon! \n\n▼ Check out on it's Live TikTok ▼\nhttps://t.co/9fmjEJxc2K\n\n#KPOP #잇츠라이브 https://t.co/lxYvNXhXyo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPOP",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9fmjEJxc2K",
+					"expanded_url": "https://bit.ly/3dhHiDc",
+					"display_url": "bit.ly/3dhHiDc",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556958954349273000,
+					"id_str": "1556958954349273088",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZtt63vaIAAorq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZtt63vaIAAorq_.jpg",
+					"url": "https://t.co/lxYvNXhXyo",
+					"display_url": "pic.twitter.com/lxYvNXhXyo",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1556959612976635904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556958954349273000,
+					"id_str": "1556958954349273088",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FZtt63vaIAAorq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZtt63vaIAAorq_.jpg",
+					"url": "https://t.co/lxYvNXhXyo",
+					"display_url": "pic.twitter.com/lxYvNXhXyo",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1556959612976635904/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FZtt63vaIAAorq_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32158,
+			"friends_count": 1,
+			"listed_count": 84,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐰잇츠라이브에 나올 아티스트는 누굴까요~? 소리를 듣고 맞혀주세요🐰\nListen &amp; Guess who will be on it's Live soon! \n\n▼ Check out on it's Live TikTok ▼\nhttps://t.co/9fmjEJxc2K\n\n#KPOP #잇츠라이브 https://t.co/lxYvNXhXyo"
+	},
+	{
+		"created_at": "Thu Aug 11 09:29:38 +0000 2022",
+		"id": 1557647481290121200,
+		"id_str": "1557660504923021313",
+		"full_text": "지창욱, 호스피스 병원 입성?\n\n어른아이 윤겨레의 마음을\n팀지니가 녹일 수 있을까요🌟\n\n힐링드라마 #당신이소원을말하면\n매주 [수목] 밤 9시 50분 KBS 2TV 방송\n\n#kbs드라마 #당신이소원을말하면 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/s1kT81KuJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557647462466105300,
+					"id_str": "1557647462466105344",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557647462466105300,
+					"id_str": "1557647462466105344",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462487101400,
+					"id_str": "1557647462487101441",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUbVEAEIyg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUbVEAEIyg0.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462487076900,
+					"id_str": "1557647462487076864",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUbUsAAn4v5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUbUsAAn4v5.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462617141200,
+					"id_str": "1557647462617141248",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHU6VUAABciB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHU6VUAABciB.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105565,
+			"friends_count": 56710,
+			"listed_count": 2125,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지창욱, 호스피스 병원 입성?\n\n어른아이 윤겨레의 마음을\n팀지니가 녹일 수 있을까요🌟\n\n힐링드라마 #당신이소원을말하면\n매주 [수목] 밤 9시 50분 KBS 2TV 방송\n\n#kbs드라마 #당신이소원을말하면 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/s1kT81KuJG"
+	},
+	{
 		"created_at": "Thu Aug 11 08:40:19 +0000 2022",
 		"id": 1557646868641124400,
 		"id_str": "1557648092756844544",
