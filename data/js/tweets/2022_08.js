@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 03:01:14 +0000 2022",
+		"id": 1557560630734831600,
+		"id_str": "1557562757129519105",
+		"full_text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u7AChqbTdi",
+					"expanded_url": "https://youtu.be/qfszP-fV1RY",
+					"display_url": "youtu.be/qfszP-fV1RY",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63628,
+			"friends_count": 12,
+			"listed_count": 279,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN"
+	},
+	{
+		"created_at": "Thu Aug 11 02:40:10 +0000 2022",
+		"id": 1557547423555207200,
+		"id_str": "1557557456238149633",
+		"full_text": "#BLACKPINK 2nd ALBUM [BORN PINK]\nPre-order notice has been uploaded\n\n▶️ https://t.co/UthFBA1fY1 \n\n#블랙핑크 #2ndAlbum #BORNPINK #20220916 #OfflineRelease #YG https://t.co/S6isV2ERgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "OfflineRelease",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						150,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UthFBA1fY1",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/pfbid02gsr2TgiZUDVrB6WBU8tsUPkeM6vRrLRdWXNSGjGtiqzvfmorj6R7L64i282reF2Vl",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557544105395138600,
+					"id_str": "1557544105395138560",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ2CHJQUsAAS1Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ2CHJQUsAAS1Sd.jpg",
+					"url": "https://t.co/S6isV2ERgF",
+					"display_url": "pic.twitter.com/S6isV2ERgF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557547423555207168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557544105395138600,
+					"id_str": "1557544105395138560",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ2CHJQUsAAS1Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ2CHJQUsAAS1Sd.jpg",
+					"url": "https://t.co/S6isV2ERgF",
+					"display_url": "pic.twitter.com/S6isV2ERgF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557547423555207168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557544140484644900,
+					"id_str": "1557544140484644866",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ2CJL-UEAI7JIr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ2CJL-UEAI7JIr.jpg",
+					"url": "https://t.co/S6isV2ERgF",
+					"display_url": "pic.twitter.com/S6isV2ERgF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557547423555207168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557544169106653200,
+					"id_str": "1557544169106653184",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ2CK2mVQAAoCZo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ2CK2mVQAAoCZo.jpg",
+					"url": "https://t.co/S6isV2ERgF",
+					"display_url": "pic.twitter.com/S6isV2ERgF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557547423555207168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557544195794948000,
+					"id_str": "1557544195794948096",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ2CMaBUUAA8Sn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ2CMaBUUAA8Sn_.jpg",
+					"url": "https://t.co/S6isV2ERgF",
+					"display_url": "pic.twitter.com/S6isV2ERgF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1557547423555207168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8815406,
+			"friends_count": 36,
+			"listed_count": 9821,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21089,
+		"favorite_count": 50045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd ALBUM [BORN PINK]\nPre-order notice has been uploaded\n\n▶️ https://t.co/UthFBA1fY1 \n\n#블랙핑크 #2ndAlbum #BORNPINK #20220916 #OfflineRelease #YG https://t.co/S6isV2ERgF"
+	},
+	{
 		"created_at": "Thu Aug 11 01:29:39 +0000 2022",
 		"id": 1557532266385264600,
 		"id_str": "1557539709949198336",
