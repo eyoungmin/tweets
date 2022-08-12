@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 16:40:10 +0000 2022",
+		"id": 1558109617477001200,
+		"id_str": "1558131239319736321",
+		"full_text": "Supporting the power of love &amp; kindness with our #microplastic @lovebuttonorg for @coldplay &amp; their first UK show of  #MusicOfTheSpheresWorldTour 🪐Wishing the crew positive vibes only! See you soon Wembley🤙🏽🤍🤩\n✍️@avrilgreenaway #CleanerSeas #BeTheSolution #Coldplay #LOVE❤️🤍💙 https://t.co/PFxWavbXXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microplastic",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						126,
+						153
+					]
+				},
+				{
+					"text": "CleanerSeas",
+					"indices": [
+						236,
+						248
+					]
+				},
+				{
+					"text": "BeTheSolution",
+					"indices": [
+						249,
+						263
+					]
+				},
+				{
+					"text": "Coldplay",
+					"indices": [
+						264,
+						273
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						274,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lovebuttonorg",
+					"name": "Love Button Global Movement",
+					"id": 1733122507,
+					"id_str": "1733122507",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "AvrilGreenaway",
+					"name": "Avril",
+					"id": 109227052,
+					"id_str": "109227052",
+					"indices": [
+						220,
+						235
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558109445363753000,
+					"id_str": "1558109445363752961",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558109445363752961/pu/img/scjR5DK5YT8O1mXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558109445363752961/pu/img/scjR5DK5YT8O1mXq.jpg",
+					"url": "https://t.co/PFxWavbXXU",
+					"display_url": "pic.twitter.com/PFxWavbXXU",
+					"expanded_url": "https://twitter.com/CleanerSeasGp/status/1558109617477001218/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558109445363753000,
+					"id_str": "1558109445363752961",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558109445363752961/pu/img/scjR5DK5YT8O1mXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558109445363752961/pu/img/scjR5DK5YT8O1mXq.jpg",
+					"url": "https://t.co/PFxWavbXXU",
+					"display_url": "pic.twitter.com/PFxWavbXXU",
+					"expanded_url": "https://twitter.com/CleanerSeasGp/status/1558109617477001218/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							427
+						],
+						"duration_millis": 60576,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558109445363752961/pu/pl/Hipux-oP08dxIrSf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558109445363752961/pu/vid/480x854/tWQ-TQiMP6Frr6Iu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558109445363752961/pu/vid/320x568/Vvcp6qKlh7V4DKjT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055410940483657700,
+			"id_str": "1055410940483657729",
+			"name": "CleanerSeasGroup",
+			"screen_name": "CleanerSeasGp",
+			"location": "Cornwall",
+			"description": "We design solutions to tackle microplastic pollution. #CleanerSeas #BeTheSolution",
+			"url": "https://t.co/Q5arezJJOv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5arezJJOv",
+							"expanded_url": "http://www.cleanerseasgroup.com",
+							"display_url": "cleanerseasgroup.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1878,
+			"friends_count": 1552,
+			"listed_count": 16,
+			"created_at": "Thu Oct 25 10:49:11 +0000 2018",
+			"favourites_count": 3039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118502287264178176/biNWTKcU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118502287264178176/biNWTKcU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055410940483657729/1634160508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Supporting the power of love &amp; kindness with our #microplastic @lovebuttonorg for @coldplay &amp; their first UK show of  #MusicOfTheSpheresWorldTour 🪐Wishing the crew positive vibes only! See you soon Wembley🤙🏽🤍🤩\n✍️@avrilgreenaway #CleanerSeas #BeTheSolution #Coldplay #LOVE❤️🤍💙 https://t.co/PFxWavbXXU"
+	},
+	{
 		"created_at": "Fri Aug 12 16:01:36 +0000 2022",
 		"id": 1558109526645424000,
 		"id_str": "1558121532936753153",
