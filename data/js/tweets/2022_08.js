@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 11:40:20 +0000 2022",
+		"id": 1558047148301848600,
+		"id_str": "1558055782922461185",
+		"full_text": "⏰ Here are the set times for the first two #ColdplayWembley shows this weekend \n\n☀️Heat advice at https://t.co/fxuNMC992A https://t.co/SzTBV4bUOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWembley",
+					"indices": [
+						43,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fxuNMC992A",
+					"expanded_url": "https://cldp.ly/wembleyheat",
+					"display_url": "cldp.ly/wembleyheat",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558047133370024000,
+					"id_str": "1558047133370023938",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9LnOfWAAIVW9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9LnOfWAAIVW9A.jpg",
+					"url": "https://t.co/SzTBV4bUOj",
+					"display_url": "pic.twitter.com/SzTBV4bUOj",
+					"expanded_url": "https://twitter.com/coldplay/status/1558047148301848578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558047133370024000,
+					"id_str": "1558047133370023938",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9LnOfWAAIVW9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9LnOfWAAIVW9A.jpg",
+					"url": "https://t.co/SzTBV4bUOj",
+					"display_url": "pic.twitter.com/SzTBV4bUOj",
+					"expanded_url": "https://twitter.com/coldplay/status/1558047148301848578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602548,
+			"friends_count": 778,
+			"listed_count": 42454,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⏰ Here are the set times for the first two #ColdplayWembley shows this weekend \n\n☀️Heat advice at https://t.co/fxuNMC992A https://t.co/SzTBV4bUOj"
+	},
+	{
+		"created_at": "Fri Aug 12 11:40:18 +0000 2022",
+		"id": 1558046855376027600,
+		"id_str": "1558055773825105926",
+		"full_text": "This is TVT Club Back Stage🎥\n\nThis is TVT Club의 마지막 컨텐츠입니다. 백스테이지에서의 멤버들을 지금 바로 'The Volunteers' 유튜브 채널에서 만나보세요. 다음 단독공연까지 모두 안녕💘 Watch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/DU4uQhXdku https://t.co/7vQ1YAnWbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DU4uQhXdku",
+					"expanded_url": "https://youtu.be/i9EkfT_wX00",
+					"display_url": "youtu.be/i9EkfT_wX00",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558046790263648300,
+					"id_str": "1558046790263648256",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558046790263648256/pu/img/AmZ4RcdXA-96cmvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558046790263648256/pu/img/AmZ4RcdXA-96cmvc.jpg",
+					"url": "https://t.co/7vQ1YAnWbL",
+					"display_url": "pic.twitter.com/7vQ1YAnWbL",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1558046855376027649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558046790263648300,
+					"id_str": "1558046790263648256",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558046790263648256/pu/img/AmZ4RcdXA-96cmvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558046790263648256/pu/img/AmZ4RcdXA-96cmvc.jpg",
+					"url": "https://t.co/7vQ1YAnWbL",
+					"display_url": "pic.twitter.com/7vQ1YAnWbL",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1558046855376027649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39236,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558046790263648256/pu/vid/480x270/tu2bPQ9oyPCGZscq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558046790263648256/pu/pl/rDU3BLFGQNXHpmgm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558046790263648256/pu/vid/640x360/0Yt6SGl79JN5SG_L.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558046790263648256/pu/vid/1280x720/C59nhPdKCFj2Sgan.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8425,
+			"friends_count": 2,
+			"listed_count": 61,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "This is TVT Club Back Stage🎥\n\nThis is TVT Club의 마지막 컨텐츠입니다. 백스테이지에서의 멤버들을 지금 바로 'The Volunteers' 유튜브 채널에서 만나보세요. 다음 단독공연까지 모두 안녕💘 Watch the full ver. on TVT's Youtube channel.\n\nhttps://t.co/DU4uQhXdku https://t.co/7vQ1YAnWbL"
+	},
+	{
+		"created_at": "Fri Aug 12 11:40:14 +0000 2022",
+		"id": 1558045704895201300,
+		"id_str": "1558055756594913280",
+		"full_text": "[공지] 2022 IU CONCERT\n&lt;The Golden Hour : 오렌지 태양 아래&gt;\n공연 부정 티켓 취소 안내_220812\n\n▶ https://t.co/XVYxxj65Zi \n\n✔ 많은 제보를 보내주시는 점 감사드립니다.\n다만 유효한 정보와 함께 양식에 맞춰 보내주셔야\n신속한 확인이 가능한 점 유의하시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XVYxxj65Zi",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/502",
+					"display_url": "cafe.daum.net/IU/NDuY/502",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419962,
+			"friends_count": 0,
+			"listed_count": 2322,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 3109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT\n&lt;The Golden Hour : 오렌지 태양 아래&gt;\n공연 부정 티켓 취소 안내_220812\n\n▶ https://t.co/XVYxxj65Zi \n\n✔ 많은 제보를 보내주시는 점 감사드립니다.\n다만 유효한 정보와 함께 양식에 맞춰 보내주셔야\n신속한 확인이 가능한 점 유의하시기 바랍니다."
+	},
+	{
 		"created_at": "Fri Aug 12 10:45:37 +0000 2022",
 		"id": 1558040690205921300,
 		"id_str": "1558042011353202688",
