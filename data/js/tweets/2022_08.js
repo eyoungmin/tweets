@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 00:40:25 +0000 2022",
+		"id": 1557887921872846800,
+		"id_str": "1557889710223130625",
+		"full_text": "[안내📢]\nNewJeans Pop-up Store 앨범 구매 안내\n\n🔗https://t.co/fZ1HRx0FG8\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						123,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fZ1HRx0FG8",
+					"expanded_url": "http://weverseshop.onelink.me/BZSY/r6qm4e6m",
+					"display_url": "weverseshop.onelink.me/BZSY/r6qm4e6m",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557887917624012800,
+		"in_reply_to_status_id_str": "1557887917624012800",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316693,
+			"friends_count": 2,
+			"listed_count": 1053,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안내📢]\nNewJeans Pop-up Store 앨범 구매 안내\n\n🔗https://t.co/fZ1HRx0FG8\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans\n#NewJeans_1st_EP #TheHyundaiSeoul"
+	},
+	{
+		"created_at": "Fri Aug 12 00:40:16 +0000 2022",
+		"id": 1557887917624012800,
+		"id_str": "1557889671887216645",
+		"full_text": "[Event 🎈] \nFINALLY NewJeans Pop-up Store OPEN! \n\n🐰NewJeans' First Pop-up Store\n🐰2022.08.12 ~ 2022.08.31\n📍The Hyundai Seoul B2 ICONIC SQUARE\n\nWelcome To NewJeans Pop-up Store!\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/Dvmu1JjtFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						203,
+						217
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						219,
+						235
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						236,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557887310112632800,
+					"id_str": "1557887310112632832",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ66QSdaMAAYt6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ66QSdaMAAYt6U.jpg",
+					"url": "https://t.co/Dvmu1JjtFZ",
+					"display_url": "pic.twitter.com/Dvmu1JjtFZ",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557887917624012800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557887310112632800,
+					"id_str": "1557887310112632832",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ66QSdaMAAYt6U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ66QSdaMAAYt6U.jpg",
+					"url": "https://t.co/Dvmu1JjtFZ",
+					"display_url": "pic.twitter.com/Dvmu1JjtFZ",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557887917624012800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316693,
+			"friends_count": 2,
+			"listed_count": 1053,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 1330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Event 🎈] \nFINALLY NewJeans Pop-up Store OPEN! \n\n🐰NewJeans' First Pop-up Store\n🐰2022.08.12 ~ 2022.08.31\n📍The Hyundai Seoul B2 ICONIC SQUARE\n\nWelcome To NewJeans Pop-up Store!\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/Dvmu1JjtFZ"
+	},
+	{
+		"created_at": "Fri Aug 12 00:40:10 +0000 2022",
+		"id": 1557885349635928000,
+		"id_str": "1557889646247510017",
+		"full_text": "[공방공지] 220812 뮤직뱅크에 사전녹화에 참여하시는 팬 분들은 KBS 신관 공개홀 아래 사진 속 장소로 늦지않게 모여주시기 바랍니다. \n\n#NewJeans #뉴진스 #NewJeans_1st_EP https://t.co/InxRcVay1N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557885194052391000,
+					"id_str": "1557885194052390912",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ64VHhVUAABcNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ64VHhVUAABcNC.jpg",
+					"url": "https://t.co/InxRcVay1N",
+					"display_url": "pic.twitter.com/InxRcVay1N",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557885349635928068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1903,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557885194052391000,
+					"id_str": "1557885194052390912",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ64VHhVUAABcNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ64VHhVUAABcNC.jpg",
+					"url": "https://t.co/InxRcVay1N",
+					"display_url": "pic.twitter.com/InxRcVay1N",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557885349635928068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1903,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316693,
+			"friends_count": 2,
+			"listed_count": 1053,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 1752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공방공지] 220812 뮤직뱅크에 사전녹화에 참여하시는 팬 분들은 KBS 신관 공개홀 아래 사진 속 장소로 늦지않게 모여주시기 바랍니다. \n\n#NewJeans #뉴진스 #NewJeans_1st_EP https://t.co/InxRcVay1N"
+	},
+	{
 		"created_at": "Thu Aug 11 15:40:29 +0000 2022",
 		"id": 1557749713243635700,
 		"id_str": "1557753832460980225",
