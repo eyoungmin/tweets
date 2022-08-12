@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 13:40:10 +0000 2022",
+		"id": 1556571993948012500,
+		"id_str": "1558085937971830790",
+		"full_text": "Planet Earth. It’s all of us. Everything and everyone. \n\nAt ClientEarth, we use the power of our laws to protect life on Earth, combining thousands of individual voices into one powerful force for change.\n\nAdd your voice today: https://t.co/UWICJTTVSz https://t.co/P18LXCMSfL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UWICJTTVSz",
+					"expanded_url": "https://bit.ly/3SnSNJl",
+					"display_url": "bit.ly/3SnSNJl",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556571922741313500,
+					"id_str": "1556571922741313536",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoN-dfWAAAGKRU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZoN-dfWAAAGKRU.png",
+					"url": "https://t.co/P18LXCMSfL",
+					"display_url": "pic.twitter.com/P18LXCMSfL",
+					"expanded_url": "https://twitter.com/ClientEarth/status/1556571993948012544/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556571922741313500,
+					"id_str": "1556571922741313536",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FZoN-dfWAAAGKRU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZoN-dfWAAAGKRU.png",
+					"url": "https://t.co/P18LXCMSfL",
+					"display_url": "pic.twitter.com/P18LXCMSfL",
+					"expanded_url": "https://twitter.com/ClientEarth/status/1556571993948012544/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556571922741313536/vid/640x360/puqbCLHlIDac7RGV.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1556571922741313536/pl/gou6xr9IZLhgWqk1.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556571922741313536/vid/1280x720/ETMR-4Fi5YSUBCog.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1556571922741313536/vid/480x270/4rSpAeK4Bq7Hq-Gy.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "ClientEveryone",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43871098,
+			"id_str": "43871098",
+			"name": "ClientEarth",
+			"screen_name": "ClientEarth",
+			"location": "London, Brussels, Warsaw, Berlin Beijing",
+			"description": "We use the power of the law to protect the planet. We work to secure a lasting civilisation for people and nature.\nGet updates on our cases: https://t.co/gXdQQGfpN4",
+			"url": "https://t.co/Cs7D3WSs8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cs7D3WSs8u",
+							"expanded_url": "http://www.clientearth.org",
+							"display_url": "clientearth.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gXdQQGfpN4",
+							"expanded_url": "http://bit.ly/3v7zglY",
+							"display_url": "bit.ly/3v7zglY",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42224,
+			"friends_count": 3490,
+			"listed_count": 972,
+			"created_at": "Mon Jun 01 11:48:49 +0000 2009",
+			"favourites_count": 4128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284879685168574464/JqmpuabO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284879685168574464/JqmpuabO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43871098/1660036128",
+			"profile_link_color": "6EB441",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Planet Earth. It’s all of us. Everything and everyone. \n\nAt ClientEarth, we use the power of our laws to protect life on Earth, combining thousands of individual voices into one powerful force for change.\n\nAdd your voice today: https://t.co/UWICJTTVSz https://t.co/P18LXCMSfL"
+	},
+	{
 		"created_at": "Fri Aug 12 12:40:22 +0000 2022",
 		"id": 1558059478779834400,
 		"id_str": "1558070889140596736",
