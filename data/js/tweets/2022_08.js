@@ -1,6 +1,1056 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 09:40:29 +0000 2022",
+		"id": 1558022571714842600,
+		"id_str": "1558025619350335488",
+		"full_text": "🧶 보들보들- 기분 좋은 마카롱 플리스\n다가올 가을, 미리 준비하세요.\n\nhttps://t.co/zGtXC4UPmm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zGtXC4UPmm",
+					"expanded_url": "https://www.instagram.com/p/ChJ2dzcPcnE/",
+					"display_url": "instagram.com/p/ChJ2dzcPcnE/",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419688,
+			"friends_count": 0,
+			"listed_count": 2322,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 2443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧶 보들보들- 기분 좋은 마카롱 플리스\n다가올 가을, 미리 준비하세요.\n\nhttps://t.co/zGtXC4UPmm"
+	},
+	{
+		"created_at": "Fri Aug 12 09:40:26 +0000 2022",
+		"id": 1558016550355226600,
+		"id_str": "1558025610341007361",
+		"full_text": "[📢]\n\n「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8 月16日（火）18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/Bp73Vqj43N\n\n#aespa \n#エスパ\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/zeh6W6qwBP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						186,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bp73Vqj43N",
+					"expanded_url": "https://smtown-official.jp/smtownlive_2022/",
+					"display_url": "smtown-official.jp/smtownlive_202…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558016066785517600,
+					"id_str": "1558016066785517568",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vW6caIAAOVOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vW6caIAAOVOt.jpg",
+					"url": "https://t.co/zeh6W6qwBP",
+					"display_url": "pic.twitter.com/zeh6W6qwBP",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1558016550355226624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 642,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558016066785517600,
+					"id_str": "1558016066785517568",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vW6caIAAOVOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vW6caIAAOVOt.jpg",
+					"url": "https://t.co/zeh6W6qwBP",
+					"display_url": "pic.twitter.com/zeh6W6qwBP",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1558016550355226624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 642,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196718,
+			"friends_count": 1,
+			"listed_count": 498,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 577,
+		"favorite_count": 2745,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8 月16日（火）18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/Bp73Vqj43N\n\n#aespa \n#エスパ\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/zeh6W6qwBP"
+	},
+	{
+		"created_at": "Fri Aug 12 09:40:22 +0000 2022",
+		"id": 1558016148377333800,
+		"id_str": "1558025593081446405",
+		"full_text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8月16日(火)18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/PQ3Fq3pysY\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/4NNNN2Pqe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						185,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQ3Fq3pysY",
+					"expanded_url": "https://smtown-official.jp/smtownlive_2022/",
+					"display_url": "smtown-official.jp/smtownlive_202…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558016138520690700,
+					"id_str": "1558016138520690688",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"url": "https://t.co/4NNNN2Pqe8",
+					"display_url": "pic.twitter.com/4NNNN2Pqe8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1558016148377333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 2009,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558016138520690700,
+					"id_str": "1558016138520690688",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"url": "https://t.co/4NNNN2Pqe8",
+					"display_url": "pic.twitter.com/4NNNN2Pqe8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1558016148377333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 2009,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119693,
+			"friends_count": 0,
+			"listed_count": 532,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8月16日(火)18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/PQ3Fq3pysY\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/4NNNN2Pqe8"
+	},
+	{
+		"created_at": "Fri Aug 12 09:29:39 +0000 2022",
+		"id": 1558020790821716000,
+		"id_str": "1558022893962919936",
+		"full_text": "\"오리지널 국내파X뉴페이스 해외파 #삼각공조 시작!\"🔥\n&lt;#공조2_인터내셔날&gt; 캐릭터 영상 공개!\n\n▶ https://t.co/jT2iepOwHk\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/oT40pb2lfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼각공조",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jT2iepOwHk",
+					"expanded_url": "https://youtu.be/3gvXCHwTSp0",
+					"display_url": "youtu.be/3gvXCHwTSp0",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558013091220422700,
+					"id_str": "1558013091220422656",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8sptmaAAAzMtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8sptmaAAAzMtd.jpg",
+					"url": "https://t.co/oT40pb2lfk",
+					"display_url": "pic.twitter.com/oT40pb2lfk",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1558020790821715969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558013091220422700,
+					"id_str": "1558013091220422656",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8sptmaAAAzMtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8sptmaAAAzMtd.jpg",
+					"url": "https://t.co/oT40pb2lfk",
+					"display_url": "pic.twitter.com/oT40pb2lfk",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1558020790821715969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331742,
+			"friends_count": 10665,
+			"listed_count": 258,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"오리지널 국내파X뉴페이스 해외파 #삼각공조 시작!\"🔥\n&lt;#공조2_인터내셔날&gt; 캐릭터 영상 공개!\n\n▶ https://t.co/jT2iepOwHk\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/oT40pb2lfk"
+	},
+	{
+		"created_at": "Fri Aug 12 09:22:25 +0000 2022",
+		"id": 1558015432447049700,
+		"id_str": "1558021073114828801",
+		"full_text": "[📹] [B-HAind] CHUNG HA 청하 'Sparkling' MV 비하인드 #2\n\n▶ https://t.co/m5ZJD6U8RM\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/Csjxw9J86C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "BareRare",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "Sparkling",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "CHUNGHA_BareRare",
+					"indices": [
+						111,
+						128
+					]
+				},
+				{
+					"text": "CHUNGHA_Sparkling",
+					"indices": [
+						129,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m5ZJD6U8RM",
+					"expanded_url": "https://youtu.be/t-erHIZa6pw",
+					"display_url": "youtu.be/t-erHIZa6pw",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557313955097636900,
+					"id_str": "1557313955097636865",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557313955097636865/pu/img/_INUdB_Rq5C_zoU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557313955097636865/pu/img/_INUdB_Rq5C_zoU0.jpg",
+					"url": "https://t.co/Csjxw9J86C",
+					"display_url": "pic.twitter.com/Csjxw9J86C",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1558015432447049729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557313955097636900,
+					"id_str": "1557313955097636865",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1557313955097636865/pu/img/_INUdB_Rq5C_zoU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1557313955097636865/pu/img/_INUdB_Rq5C_zoU0.jpg",
+					"url": "https://t.co/Csjxw9J86C",
+					"display_url": "pic.twitter.com/Csjxw9J86C",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1558015432447049729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57023,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557313955097636865/pu/vid/640x360/0TVjKJN2u3OGtLzz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1557313955097636865/pu/pl/tOt91VLlPmXw4bXb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557313955097636865/pu/vid/480x270/WIMkZDB9ztXYpbMT.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1557313955097636865/pu/vid/1280x720/14dWx3jKz7bjWiO_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 354975,
+			"friends_count": 1,
+			"listed_count": 2191,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹] [B-HAind] CHUNG HA 청하 'Sparkling' MV 비하인드 #2\n\n▶ https://t.co/m5ZJD6U8RM\n\n#청하 #CHUNGHA\n#BareRare #Sparkling\n#CHUNGHA_BareRare\n#CHUNGHA_Sparkling https://t.co/Csjxw9J86C"
+	},
+	{
 		"created_at": "Fri Aug 12 08:40:10 +0000 2022",
 		"id": 1558008364923322400,
 		"id_str": "1558010441346981889",
