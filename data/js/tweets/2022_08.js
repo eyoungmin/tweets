@@ -1,6 +1,1217 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 10:45:37 +0000 2022",
+		"id": 1558040690205921300,
+		"id_str": "1558042011353202688",
+		"full_text": "[#진솔 / #JinSoul] 🖤\n\n#이달의소녀 #LOONA https://t.co/4Pb5AJTbS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558040666378489900,
+					"id_str": "1558040666378489856",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9FuzEaUAA98B9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9FuzEaUAA98B9.jpg",
+					"url": "https://t.co/4Pb5AJTbS4",
+					"display_url": "pic.twitter.com/4Pb5AJTbS4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558040690205921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1394,
+							"h": 1858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558040666378489900,
+					"id_str": "1558040666378489856",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9FuzEaUAA98B9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9FuzEaUAA98B9.jpg",
+					"url": "https://t.co/4Pb5AJTbS4",
+					"display_url": "pic.twitter.com/4Pb5AJTbS4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558040690205921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1394,
+							"h": 1858,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558040671113859000,
+					"id_str": "1558040671113859072",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9FvEtaUAAcoP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9FvEtaUAAcoP2.jpg",
+					"url": "https://t.co/4Pb5AJTbS4",
+					"display_url": "pic.twitter.com/4Pb5AJTbS4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558040690205921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1198,
+							"h": 1597,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558040679049461800,
+					"id_str": "1558040679049461760",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9FviRaAAADXvN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9FviRaAAADXvN.jpg",
+					"url": "https://t.co/4Pb5AJTbS4",
+					"display_url": "pic.twitter.com/4Pb5AJTbS4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558040690205921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558040686372749300,
+					"id_str": "1558040686372749312",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9Fv9jagAApfcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9Fv9jagAApfcY.jpg",
+					"url": "https://t.co/4Pb5AJTbS4",
+					"display_url": "pic.twitter.com/4Pb5AJTbS4",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558040690205921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971080,
+			"friends_count": 3,
+			"listed_count": 8918,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1733,
+		"favorite_count": 5559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#진솔 / #JinSoul] 🖤\n\n#이달의소녀 #LOONA https://t.co/4Pb5AJTbS4"
+	},
+	{
+		"created_at": "Fri Aug 12 10:40:29 +0000 2022",
+		"id": 1558034306773049300,
+		"id_str": "1558040722300862465",
+		"full_text": "[VIDEO📺]\n#NewJeans (#뉴진스) - Hype Boy\n@KBSMusicBank \n\n🔗 https://t.co/lU6Z9RTue1\n\n#NewJeans_HypeBoy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "NewJeans_HypeBoy",
+					"indices": [
+						80,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KBSMusicBank",
+					"name": "뮤직뱅크 (Music Bank)🏦",
+					"id": 52661072,
+					"id_str": "52661072",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lU6Z9RTue1",
+					"expanded_url": "https://tv.naver.com/v/28538163",
+					"display_url": "tv.naver.com/v/28538163",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321613,
+			"friends_count": 2,
+			"listed_count": 1080,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 833,
+		"favorite_count": 2111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VIDEO📺]\n#NewJeans (#뉴진스) - Hype Boy\n@KBSMusicBank \n\n🔗 https://t.co/lU6Z9RTue1\n\n#NewJeans_HypeBoy"
+	},
+	{
+		"created_at": "Fri Aug 12 10:40:23 +0000 2022",
+		"id": 1558014947329773600,
+		"id_str": "1558040696266887168",
+		"full_text": "We love that @coldplay support @ClientEarth who do an incredible job of protecting people and nature using the power of the law, so we wrote this poem especially to capture what that means to us.\nThis poem is at Wembley Park station now.\n#Coldplay #ClientEarth #allontheboard https://t.co/CVMNeQ4XIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Coldplay",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"text": "ClientEarth",
+					"indices": [
+						248,
+						260
+					]
+				},
+				{
+					"text": "allontheboard",
+					"indices": [
+						261,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "ClientEarth",
+					"name": "ClientEarth",
+					"id": 43871098,
+					"id_str": "43871098",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558014945081573400,
+					"id_str": "1558014945081573377",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8uVnxWQAEvO25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8uVnxWQAEvO25.jpg",
+					"url": "https://t.co/CVMNeQ4XIJ",
+					"display_url": "pic.twitter.com/CVMNeQ4XIJ",
+					"expanded_url": "https://twitter.com/allontheboard/status/1558014947329773570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558014945081573400,
+					"id_str": "1558014945081573377",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8uVnxWQAEvO25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8uVnxWQAEvO25.jpg",
+					"url": "https://t.co/CVMNeQ4XIJ",
+					"display_url": "pic.twitter.com/CVMNeQ4XIJ",
+					"expanded_url": "https://twitter.com/allontheboard/status/1558014947329773570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 854241227503530000,
+			"id_str": "854241227503529985",
+			"name": "All On The Board",
+			"screen_name": "allontheboard",
+			"location": "London, England",
+			"description": "The Sunday Times Bestselling Authors and merchandise creators https://t.co/meQsNeuWsJ… Agent 📩 - Millie Hoskins, United Agents",
+			"url": "https://t.co/Q9AIWrGNW7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q9AIWrGNW7",
+							"expanded_url": "https://linktr.ee/allontheboardstuff",
+							"display_url": "linktr.ee/allontheboards…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/meQsNeuWsJ",
+							"expanded_url": "http://linktr.ee/allontheboards",
+							"display_url": "linktr.ee/allontheboards",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 124198,
+			"friends_count": 71,
+			"listed_count": 204,
+			"created_at": "Tue Apr 18 07:52:34 +0000 2017",
+			"favourites_count": 32616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1503088923991592965/Tj71_tPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503088923991592965/Tj71_tPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/854241227503529985/1647258354",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5d838f7a011f4a2d",
+			"url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json",
+			"place_type": "admin",
+			"name": "London",
+			"full_name": "London, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.510364798739281,
+							51.2867019756122
+						],
+						[
+							0.334043461659515,
+							51.2867019756122
+						],
+						[
+							0.334043461659515,
+							51.6918240878432
+						],
+						[
+							-0.510364798739281,
+							51.6918240878432
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We love that @coldplay support @ClientEarth who do an incredible job of protecting people and nature using the power of the law, so we wrote this poem especially to capture what that means to us.\nThis poem is at Wembley Park station now.\n#Coldplay #ClientEarth #allontheboard https://t.co/CVMNeQ4XIJ"
+	},
+	{
+		"created_at": "Fri Aug 12 10:40:17 +0000 2022",
+		"id": 1558030653228142600,
+		"id_str": "1558040670564237312",
+		"full_text": "aespa 에스파 '도깨비불 (Illusion)' Choreography Draft (Edited Ver.)\n\nhttps://t.co/DY6VZueTUO\n\n#aespa #æspa #에스파\n#aespa_도깨비불 #aespa_Illusion \n#도깨비불 #Illusion\n#SMP #SMPFLOOR https://t.co/WjJV4ynix1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "aespa_도깨비불",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "aespa_Illusion",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"text": "도깨비불",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "Illusion",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "SMP",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "SMPFLOOR",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DY6VZueTUO",
+					"expanded_url": "https://youtu.be/UyqYTDu4qP0",
+					"display_url": "youtu.be/UyqYTDu4qP0",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558030648627298300,
+					"id_str": "1558030648627298306",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ88nsCaAAIJvmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ88nsCaAAIJvmr.jpg",
+					"url": "https://t.co/WjJV4ynix1",
+					"display_url": "pic.twitter.com/WjJV4ynix1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1558030653228142592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558030648627298300,
+					"id_str": "1558030648627298306",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ88nsCaAAIJvmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ88nsCaAAIJvmr.jpg",
+					"url": "https://t.co/WjJV4ynix1",
+					"display_url": "pic.twitter.com/WjJV4ynix1",
+					"expanded_url": "https://twitter.com/aespa_official/status/1558030653228142592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066090,
+			"friends_count": 2,
+			"listed_count": 9292,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1452,
+		"favorite_count": 6687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 '도깨비불 (Illusion)' Choreography Draft (Edited Ver.)\n\nhttps://t.co/DY6VZueTUO\n\n#aespa #æspa #에스파\n#aespa_도깨비불 #aespa_Illusion \n#도깨비불 #Illusion\n#SMP #SMPFLOOR https://t.co/WjJV4ynix1"
+	},
+	{
+		"created_at": "Fri Aug 12 10:40:10 +0000 2022",
+		"id": 1558015447227895800,
+		"id_str": "1558040640675528708",
+		"full_text": "💫https://t.co/gIjee6kG40💫\n \n#뉴진스 - #Attention (밴드 Ver.)\n#NewJeans - Attention (Band Ver.)\n@alldoorsoneroom @NewJeans_ADOR\n#itsLive #KPOP #잇츠라이브 https://t.co/dKaoP7lqiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "itsLive",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alldoorsoneroom",
+					"name": "ADOR",
+					"id": 1373509657868660700,
+					"id_str": "1373509657868660740",
+					"indices": [
+						90,
+						106
+					]
+				},
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gIjee6kG40",
+					"expanded_url": "https://youtu.be/SVZhx-woT_g",
+					"display_url": "youtu.be/SVZhx-woT_g",
+					"indices": [
+						1,
+						24
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558002903746392000,
+					"id_str": "1558002903746392064",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8jYuTUsAADPzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8jYuTUsAADPzD.jpg",
+					"url": "https://t.co/dKaoP7lqiM",
+					"display_url": "pic.twitter.com/dKaoP7lqiM",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558015447227895808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558002903746392000,
+					"id_str": "1558002903746392064",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8jYuTUsAADPzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8jYuTUsAADPzD.jpg",
+					"url": "https://t.co/dKaoP7lqiM",
+					"display_url": "pic.twitter.com/dKaoP7lqiM",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558015447227895808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32307,
+			"friends_count": 1,
+			"listed_count": 83,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2691,
+		"favorite_count": 4046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💫https://t.co/gIjee6kG40💫\n \n#뉴진스 - #Attention (밴드 Ver.)\n#NewJeans - Attention (Band Ver.)\n@alldoorsoneroom @NewJeans_ADOR\n#itsLive #KPOP #잇츠라이브 https://t.co/dKaoP7lqiM"
+	},
+	{
 		"created_at": "Fri Aug 12 09:40:29 +0000 2022",
 		"id": 1558022571714842600,
 		"id_str": "1558025619350335488",
