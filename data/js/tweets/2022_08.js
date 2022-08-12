@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 14:40:13 +0000 2022",
+		"id": 1558096059842322400,
+		"id_str": "1558101050879516673",
+		"full_text": "☀️ It's hot out there!\n\n💦 Wembley has numerous water refill points at the @Coldplay shows. \n\n🪐 Stay hydrated and enjoy the show.\n\n#ColdplayWembley https://t.co/HrcLmwITU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWembley",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558096049679618000,
+					"id_str": "1558096049679618048",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ94Gh8X0AAG_Y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ94Gh8X0AAG_Y_.jpg",
+					"url": "https://t.co/HrcLmwITU0",
+					"display_url": "pic.twitter.com/HrcLmwITU0",
+					"expanded_url": "https://twitter.com/wembleystadium/status/1558096059842322432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558096049679618000,
+					"id_str": "1558096049679618048",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ94Gh8X0AAG_Y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ94Gh8X0AAG_Y_.jpg",
+					"url": "https://t.co/HrcLmwITU0",
+					"display_url": "pic.twitter.com/HrcLmwITU0",
+					"expanded_url": "https://twitter.com/wembleystadium/status/1558096059842322432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19596849,
+			"id_str": "19596849",
+			"name": "Wembley Stadium",
+			"screen_name": "wembleystadium",
+			"location": "London",
+			"description": "Connected by @EE. Home of @England and the @EmiratesFACup. Host to iconic music and sport. Join us #UnderTheArch.",
+			"url": "https://t.co/ixL1rLZtIb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ixL1rLZtIb",
+							"expanded_url": "http://www.wembleystadium.com",
+							"display_url": "wembleystadium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226552,
+			"friends_count": 349,
+			"listed_count": 874,
+			"created_at": "Tue Jan 27 15:29:37 +0000 2009",
+			"favourites_count": 5611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460276875461279744/O-7jfM1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460276875461279744/O-7jfM1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19596849/1618820354",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 305,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "☀️ It's hot out there!\n\n💦 Wembley has numerous water refill points at the @Coldplay shows. \n\n🪐 Stay hydrated and enjoy the show.\n\n#ColdplayWembley https://t.co/HrcLmwITU0"
+	},
+	{
 		"created_at": "Fri Aug 12 13:40:10 +0000 2022",
 		"id": 1556571993948012500,
 		"id_str": "1558085937971830790",
