@@ -1,6 +1,1654 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 16:01:36 +0000 2022",
+		"id": 1558109526645424000,
+		"id_str": "1558121532936753153",
+		"full_text": "서현 배우 타임라인\n21:51~21:58\n23:00~2306\n23:44~23:58\n24:03~24:04\n24:26~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1558109479400800300,
+		"in_reply_to_status_id_str": "1558109479400800256",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63937,
+			"friends_count": 12,
+			"listed_count": 280,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서현 배우 타임라인\n21:51~21:58\n23:00~2306\n23:44~23:58\n24:03~24:04\n24:26~"
+	},
+	{
+		"created_at": "Fri Aug 12 15:40:28 +0000 2022",
+		"id": 1558106207604600800,
+		"id_str": "1558116215456931840",
+		"full_text": "#BLACKPINK ‘Pink Venom’ ROSÉ Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/z4PKAXhKp8 \n📺NOW: https://t.co/3sT6x6sanG \n\n#블랙핑크 #ROSÉ #로제 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/gBf1RaHALZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						203,
+						220
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						232,
+						249
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						250,
+						266
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						267,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4PKAXhKp8",
+					"expanded_url": "https://youtu.be/7C0TewNgkDM",
+					"display_url": "youtu.be/7C0TewNgkDM",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/3sT6x6sanG",
+					"expanded_url": "https://tv.naver.com/v/28539889",
+					"display_url": "tv.naver.com/v/28539889",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558050965458395100,
+					"id_str": "1558050965458395136",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9pE64aAAACFMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9pE64aAAACFMj.jpg",
+					"url": "https://t.co/gBf1RaHALZ",
+					"display_url": "pic.twitter.com/gBf1RaHALZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558106207604600834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558050965458395100,
+					"id_str": "1558050965458395136",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9pE64aAAACFMj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9pE64aAAACFMj.jpg",
+					"url": "https://t.co/gBf1RaHALZ",
+					"display_url": "pic.twitter.com/gBf1RaHALZ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558106207604600834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15932,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1558050965458395136/pl/7o4CBYf2ogdR3BzJ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050965458395136/vid/640x360/FgzYSAPjpTMDiFQ2.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050965458395136/vid/1280x720/80G1X6rwQTfYqwXO.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050965458395136/vid/480x270/mtaO2y4V5NjdHFQ4.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘Pink Venom’ ROSÉ Concept Teaser #2",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/7C0TewNgkDM"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8827575,
+			"friends_count": 36,
+			"listed_count": 9831,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27472,
+		"favorite_count": 54257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ ROSÉ Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/z4PKAXhKp8 \n📺NOW: https://t.co/3sT6x6sanG \n\n#블랙핑크 #ROSÉ #로제 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/gBf1RaHALZ"
+	},
+	{
+		"created_at": "Fri Aug 12 15:40:26 +0000 2022",
+		"id": 1558106155297415200,
+		"id_str": "1558116206300872705",
+		"full_text": "#BLACKPINK ‘Pink Venom’ LISA Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/utJyw2LP33 \n📺NOW: https://t.co/wSi6B7Wenl \n\n#블랙핑크 #LISA #리사 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/jy8QGoqd4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						203,
+						220
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						232,
+						249
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						250,
+						266
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						267,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/utJyw2LP33",
+					"expanded_url": "https://youtu.be/FvFyKt1KYfU",
+					"display_url": "youtu.be/FvFyKt1KYfU",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/wSi6B7Wenl",
+					"expanded_url": "https://tv.naver.com/v/28539773",
+					"display_url": "tv.naver.com/v/28539773",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558050920948445200,
+					"id_str": "1558050920948445186",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9PvMkaAAEOEuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9PvMkaAAEOEuX.jpg",
+					"url": "https://t.co/jy8QGoqd4Q",
+					"display_url": "pic.twitter.com/jy8QGoqd4Q",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558106155297415170/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558050920948445200,
+					"id_str": "1558050920948445186",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9PvMkaAAEOEuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9PvMkaAAEOEuX.jpg",
+					"url": "https://t.co/jy8QGoqd4Q",
+					"display_url": "pic.twitter.com/jy8QGoqd4Q",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558106155297415170/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15932,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050920948445186/vid/640x360/HJ6t7w3iFH2lk-r8.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050920948445186/vid/480x270/U6z3A4lqsmYH2R4y.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1558050920948445186/vid/1280x720/obaleW8yL7UtI9LI.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1558050920948445186/pl/jZElcUJ8TD4-9hDm.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘Pink Venom’ LISA Concept Teaser #2",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/FvFyKt1KYfU"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8827575,
+			"friends_count": 36,
+			"listed_count": 9831,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34935,
+		"favorite_count": 65444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ LISA Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/utJyw2LP33 \n📺NOW: https://t.co/wSi6B7Wenl \n\n#블랙핑크 #LISA #리사 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/jy8QGoqd4Q"
+	},
+	{
+		"created_at": "Fri Aug 12 15:40:10 +0000 2022",
+		"id": 1558103514751967200,
+		"id_str": "1558116137308758019",
+		"full_text": "자 이제 집에 가자 https://t.co/5jGT8eVLTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558103507781046300,
+					"id_str": "1558103507781046272",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9-4piUUAACif3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9-4piUUAACif3.jpg",
+					"url": "https://t.co/5jGT8eVLTC",
+					"display_url": "pic.twitter.com/5jGT8eVLTC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1558103514751967233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558103507781046300,
+					"id_str": "1558103507781046272",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ9-4piUUAACif3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ9-4piUUAACif3.jpg",
+					"url": "https://t.co/5jGT8eVLTC",
+					"display_url": "pic.twitter.com/5jGT8eVLTC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1558103514751967233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1558103504845099000,
+		"in_reply_to_status_id_str": "1558103504845099008",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274849,
+			"friends_count": 584,
+			"listed_count": 2762,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자 이제 집에 가자 https://t.co/5jGT8eVLTC"
+	},
+	{
+		"created_at": "Fri Aug 12 15:29:57 +0000 2022",
+		"id": 1558110465930117000,
+		"id_str": "1558113567194349568",
+		"full_text": "🧳🐱💗\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 \n#출장십오야 https://t.co/E9twlomWpa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						5,
+						21
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "출장십오야",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558110284861976600,
+					"id_str": "1558110284861976576",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ-FDIIUsAAVDvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ-FDIIUsAAVDvo.jpg",
+					"url": "https://t.co/E9twlomWpa",
+					"display_url": "pic.twitter.com/E9twlomWpa",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1558110465930117121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558110284861976600,
+					"id_str": "1558110284861976576",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ-FDIIUsAAVDvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ-FDIIUsAAVDvo.jpg",
+					"url": "https://t.co/E9twlomWpa",
+					"display_url": "pic.twitter.com/E9twlomWpa",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1558110465930117121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3871669,
+			"friends_count": 5,
+			"listed_count": 6124,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5326,
+		"favorite_count": 12972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🧳🐱💗\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 \n#출장십오야 https://t.co/E9twlomWpa"
+	},
+	{
+		"created_at": "Fri Aug 12 15:29:48 +0000 2022",
+		"id": 1558109479400800300,
+		"id_str": "1558113528875290625",
+		"full_text": "[#VIDEO] 🧳EP.2-2ㅣ늘 하던 퀴즈인데 다소 신이남. 역시 소녀시대임ㅣ🧳출장십오야2 X 소녀시대\n▶ https://t.co/zc49fiZD7L\n\n#서현 #출장십오야 #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "출장십오야",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zc49fiZD7L",
+					"expanded_url": "https://youtu.be/OECcMjRg9fM",
+					"display_url": "youtu.be/OECcMjRg9fM",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63937,
+			"friends_count": 12,
+			"listed_count": 280,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 🧳EP.2-2ㅣ늘 하던 퀴즈인데 다소 신이남. 역시 소녀시대임ㅣ🧳출장십오야2 X 소녀시대\n▶ https://t.co/zc49fiZD7L\n\n#서현 #출장십오야 #SEOHYUN"
+	},
+	{
+		"created_at": "Fri Aug 12 15:29:39 +0000 2022",
+		"id": 1558102630999609300,
+		"id_str": "1558113490598076430",
+		"full_text": "🧳EP.2-2ㅣ늘 하던 퀴즈인데 다소 신이남. 역시 소녀시대임ㅣ🧳출장십오야2 X 소녀시대\n\nhttps://t.co/6kGIRCxxJC\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#출장십오야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "출장십오야",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6kGIRCxxJC",
+					"expanded_url": "https://youtu.be/OECcMjRg9fM",
+					"display_url": "youtu.be/OECcMjRg9fM",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3871669,
+			"friends_count": 5,
+			"listed_count": 6124,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2061,
+		"favorite_count": 3655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧳EP.2-2ㅣ늘 하던 퀴즈인데 다소 신이남. 역시 소녀시대임ㅣ🧳출장십오야2 X 소녀시대\n\nhttps://t.co/6kGIRCxxJC\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#출장십오야"
+	},
+	{
+		"created_at": "Fri Aug 12 15:28:30 +0000 2022",
+		"id": 1558106212084117500,
+		"id_str": "1558113203497738241",
+		"full_text": "#BLACKPINK ‘Pink Venom’ LISA Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/p3hmKlqQZd \n📺NOW: https://t.co/OhiDEzlHE7 \n\n#블랙핑크 #LISA #리사 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/X3G5eIZT5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						203,
+						220
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						232,
+						249
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						250,
+						266
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						267,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p3hmKlqQZd",
+					"expanded_url": "https://youtu.be/FvFyKt1KYfU",
+					"display_url": "youtu.be/FvFyKt1KYfU",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/OhiDEzlHE7",
+					"expanded_url": "https://tv.naver.com/v/28539773",
+					"display_url": "tv.naver.com/v/28539773",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558105304386384000,
+					"id_str": "1558105304386383872",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558105304386383872/pu/img/b_OWm2CIFERHsQ-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558105304386383872/pu/img/b_OWm2CIFERHsQ-o.jpg",
+					"url": "https://t.co/X3G5eIZT5Q",
+					"display_url": "pic.twitter.com/X3G5eIZT5Q",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1558106212084117504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558105304386384000,
+					"id_str": "1558105304386383872",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558105304386383872/pu/img/b_OWm2CIFERHsQ-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558105304386383872/pu/img/b_OWm2CIFERHsQ-o.jpg",
+					"url": "https://t.co/X3G5eIZT5Q",
+					"display_url": "pic.twitter.com/X3G5eIZT5Q",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1558106212084117504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15932,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558105304386383872/pu/pl/CkUDR2Sej0nTM3I_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558105304386383872/pu/vid/1280x720/vodqMJalhaqyDhf5.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558105304386383872/pu/vid/480x270/aUeaASQEuqQS93kR.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558105304386383872/pu/vid/640x360/_N5tUDxM-JKH1b7w.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6973889,
+			"friends_count": 0,
+			"listed_count": 7586,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1659884431",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76578,
+		"favorite_count": 128507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ LISA Concept Teaser #2\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/p3hmKlqQZd \n📺NOW: https://t.co/OhiDEzlHE7 \n\n#블랙핑크 #LISA #리사 #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #YG https://t.co/X3G5eIZT5Q"
+	},
+	{
 		"created_at": "Fri Aug 12 14:40:13 +0000 2022",
 		"id": 1558096059842322400,
 		"id_str": "1558101050879516673",
