@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 02:40:10 +0000 2022",
+		"id": 1557910398132957200,
+		"id_str": "1557919845445996544",
+		"full_text": "[안내📢]\nNewJeans Pop-up Tip!🐰\n각 기둥 수화기에서 NewJeans의 Hurt 멤버 별 ver. 을 들으실 수 있습니다.\n\n#NewJeans #뉴진스 #Popupstore \n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/VI83f1B0Kd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557910379237642200,
+					"id_str": "1557910379237642240",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7PPFpakAAScoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7PPFpakAAScoQ.jpg",
+					"url": "https://t.co/VI83f1B0Kd",
+					"display_url": "pic.twitter.com/VI83f1B0Kd",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557910398132957184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1151,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557910379237642200,
+					"id_str": "1557910379237642240",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7PPFpakAAScoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7PPFpakAAScoQ.jpg",
+					"url": "https://t.co/VI83f1B0Kd",
+					"display_url": "pic.twitter.com/VI83f1B0Kd",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1557910398132957184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1151,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1557887921872846800,
+		"in_reply_to_status_id_str": "1557887921872846848",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317644,
+			"friends_count": 2,
+			"listed_count": 1060,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 1109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안내📢]\nNewJeans Pop-up Tip!🐰\n각 기둥 수화기에서 NewJeans의 Hurt 멤버 별 ver. 을 들으실 수 있습니다.\n\n#NewJeans #뉴진스 #Popupstore \n#NewJeans_1st_EP #TheHyundaiSeoul https://t.co/VI83f1B0Kd"
+	},
+	{
 		"created_at": "Fri Aug 12 00:40:25 +0000 2022",
 		"id": 1557887921872846800,
 		"id_str": "1557889710223130625",
