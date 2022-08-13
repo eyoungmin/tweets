@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 15:40:19 +0000 2022",
+		"id": 1558468443422134300,
+		"id_str": "1558478564135260161",
+		"full_text": "#BLACKPINK ‘Pink Venom’ Credit Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST) \n\n#블랙핑크 #PreReleaseSingle #PinkVenom #CreditPoster #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/nr6SdNuam8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						118,
+						135
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "CreditPoster",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						161,
+						178
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						205,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558467645464187000,
+					"id_str": "1558467645464186885",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDKEQHVEAUtJpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDKEQHVEAUtJpI.jpg",
+					"url": "https://t.co/nr6SdNuam8",
+					"display_url": "pic.twitter.com/nr6SdNuam8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558468443422134272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558467645464187000,
+					"id_str": "1558467645464186885",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDKEQHVEAUtJpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDKEQHVEAUtJpI.jpg",
+					"url": "https://t.co/nr6SdNuam8",
+					"display_url": "pic.twitter.com/nr6SdNuam8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1558468443422134272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8831092,
+			"friends_count": 36,
+			"listed_count": 9824,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36133,
+		"favorite_count": 73558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ Credit Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST) \n\n#블랙핑크 #PreReleaseSingle #PinkVenom #CreditPoster #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/nr6SdNuam8"
+	},
+	{
+		"created_at": "Sat Aug 13 15:40:10 +0000 2022",
+		"id": 1558464009770262500,
+		"id_str": "1558478525904068608",
+		"full_text": "Ready for show two… #ColdplayWembley https://t.co/3W6v3hSO8j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWembley",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558463947577200600,
+					"id_str": "1558463947577200640",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558463947577200640/pu/img/mSw1lRk9A0FoiJsu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558463947577200640/pu/img/mSw1lRk9A0FoiJsu.jpg",
+					"url": "https://t.co/3W6v3hSO8j",
+					"display_url": "pic.twitter.com/3W6v3hSO8j",
+					"expanded_url": "https://twitter.com/coldplay/status/1558464009770262528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 916,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558463947577200600,
+					"id_str": "1558463947577200640",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558463947577200640/pu/img/mSw1lRk9A0FoiJsu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558463947577200640/pu/img/mSw1lRk9A0FoiJsu.jpg",
+					"url": "https://t.co/3W6v3hSO8j",
+					"display_url": "pic.twitter.com/3W6v3hSO8j",
+					"expanded_url": "https://twitter.com/coldplay/status/1558464009770262528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 916,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							229
+						],
+						"duration_millis": 18805,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558463947577200640/pu/vid/1006x720/4k4ZHB9gZoquVFz2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558463947577200640/pu/vid/502x360/9fzt7IuVcPLE-aXX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558463947577200640/pu/pl/eRdOZad2KRJ1-u0m.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558463947577200640/pu/vid/376x270/gfekmVgOV3Mp5deS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23601088,
+			"friends_count": 778,
+			"listed_count": 42451,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 2225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for show two… #ColdplayWembley https://t.co/3W6v3hSO8j"
+	},
+	{
+		"created_at": "Sat Aug 13 15:40:08 +0000 2022",
+		"id": 1558477029896589300,
+		"id_str": "1558478518010331136",
+		"full_text": "[#이브 / #Yves] 💙 ..\n\n#이달의소녀 #LOONA https://t.co/rYnDS7leni",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558477012808962000,
+					"id_str": "1558477012808962048",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDSlgMXEAAj7u2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDSlgMXEAAj7u2.jpg",
+					"url": "https://t.co/rYnDS7leni",
+					"display_url": "pic.twitter.com/rYnDS7leni",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558477029896589313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558477012808962000,
+					"id_str": "1558477012808962048",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDSlgMXEAAj7u2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDSlgMXEAAj7u2.jpg",
+					"url": "https://t.co/rYnDS7leni",
+					"display_url": "pic.twitter.com/rYnDS7leni",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558477029896589313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558477012813201400,
+					"id_str": "1558477012813201408",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDSlgNXwAAuO4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDSlgNXwAAuO4q.jpg",
+					"url": "https://t.co/rYnDS7leni",
+					"display_url": "pic.twitter.com/rYnDS7leni",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558477029896589313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558477012813193200,
+					"id_str": "1558477012813193217",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDSlgNXoAEEPEQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDSlgNXoAEEPEQ.jpg",
+					"url": "https://t.co/rYnDS7leni",
+					"display_url": "pic.twitter.com/rYnDS7leni",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558477029896589313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558477012813189000,
+					"id_str": "1558477012813189120",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FaDSlgNXkAA4ybf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaDSlgNXkAA4ybf.jpg",
+					"url": "https://t.co/rYnDS7leni",
+					"display_url": "pic.twitter.com/rYnDS7leni",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1558477029896589313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971621,
+			"friends_count": 3,
+			"listed_count": 8922,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2593,
+		"favorite_count": 8355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#이브 / #Yves] 💙 ..\n\n#이달의소녀 #LOONA https://t.co/rYnDS7leni"
+	},
+	{
 		"created_at": "Sat Aug 13 14:29:48 +0000 2022",
 		"id": 1558457503595106300,
 		"id_str": "1558460817611399168",
