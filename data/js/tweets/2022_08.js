@@ -1,10 +1,139 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 11:40:19 +0000 2022",
+		"id": 1558416287839432700,
+		"id_str": "1558418167487160320",
+		"full_text": "[TIkTok📹]\nWeekend Vibe☁💫\n\n🔗https://t.co/LFcW9AwdWt\n\n#NewJeans #HANNI #HAERIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LFcW9AwdWt",
+					"expanded_url": "https://vt.tiktok.com/ZSRhmvnEx/",
+					"display_url": "vt.tiktok.com/ZSRhmvnEx/",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332230,
+			"friends_count": 2,
+			"listed_count": 1110,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 778,
+		"favorite_count": 1936,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "[TIkTok📹]\nWeekend Vibe☁💫\n\n🔗https://t.co/LFcW9AwdWt\n\n#NewJeans #HANNI #HAERIN"
+	},
+	{
 		"created_at": "Sat Aug 13 09:40:39 +0000 2022",
 		"id": 1558378419905147000,
 		"id_str": "1558388049381396480",
-		"full_text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️‍🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC",
+		"full_text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -320,7 +449,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ja",
-		"text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️‍🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC"
+		"text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC"
 	},
 	{
 		"created_at": "Sat Aug 13 09:40:30 +0000 2022",
