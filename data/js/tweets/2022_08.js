@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 05:40:10 +0000 2022",
+		"id": 1558317425258418200,
+		"id_str": "1558327531710849026",
+		"full_text": "21세기 성공한 사람들의 주말 루틴: 왼손으로는 뉴진스 가방 들고 오른손으로는 뉴진스 릴댄 보는 삶😌👜💃 #릴레이댄스 #NewJeans #Attention #뉴진스 @NewJeans_ADOR #RelayDance\n\n▶ https://t.co/XNnq3P7Bj6 https://t.co/2yhELKss6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "릴레이댄스",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "Attention",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "RelayDance",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XNnq3P7Bj6",
+					"expanded_url": "https://youtu.be/LjNKUy4hr5c",
+					"display_url": "youtu.be/LjNKUy4hr5c",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557987371374719000,
+					"id_str": "1557987371374718976",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8VQntVsAA-eXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8VQntVsAA-eXB.jpg",
+					"url": "https://t.co/2yhELKss6n",
+					"display_url": "pic.twitter.com/2yhELKss6n",
+					"expanded_url": "https://twitter.com/M2MPD/status/1558317425258418177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557987371374719000,
+					"id_str": "1557987371374718976",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8VQntVsAA-eXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8VQntVsAA-eXB.jpg",
+					"url": "https://t.co/2yhELKss6n",
+					"display_url": "pic.twitter.com/2yhELKss6n",
+					"expanded_url": "https://twitter.com/M2MPD/status/1558317425258418177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1258268,
+			"friends_count": 469,
+			"listed_count": 1583,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1522,
+		"favorite_count": 3227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "21세기 성공한 사람들의 주말 루틴: 왼손으로는 뉴진스 가방 들고 오른손으로는 뉴진스 릴댄 보는 삶😌👜💃 #릴레이댄스 #NewJeans #Attention #뉴진스 @NewJeans_ADOR #RelayDance\n\n▶ https://t.co/XNnq3P7Bj6 https://t.co/2yhELKss6n"
+	},
+	{
 		"created_at": "Sat Aug 13 04:40:18 +0000 2022",
 		"id": 1558312388897558500,
 		"id_str": "1558312465380696069",
