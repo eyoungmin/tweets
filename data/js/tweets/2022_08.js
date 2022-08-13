@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 04:40:18 +0000 2022",
+		"id": 1558312388897558500,
+		"id_str": "1558312465380696069",
+		"full_text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. 2022.08.13 13:40 (KST)\n\nRegistration for entry for today is closed.  2022.08.13 13:40 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						198,
+						214
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						215,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329202,
+			"friends_count": 2,
+			"listed_count": 1094,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 1631,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. 2022.08.13 13:40 (KST)\n\nRegistration for entry for today is closed.  2022.08.13 13:40 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul"
+	},
+	{
+		"created_at": "Sat Aug 13 04:40:16 +0000 2022",
+		"id": 1557730726585716700,
+		"id_str": "1558312456375640064",
+		"full_text": "Girls’ Generation chat about reuniting for their 15th anniversary and share their career longevity advice.\n\n https://t.co/BBUWeHY5r0 https://t.co/P23HMd388u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BBUWeHY5r0",
+					"expanded_url": "http://blbrd.cm/MoT9EMg",
+					"display_url": "blbrd.cm/MoT9EMg",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/P23HMd388u",
+					"expanded_url": "http://blbrd.cm/3unyYih",
+					"display_url": "blbrd.cm/3unyYih",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9695312,
+			"id_str": "9695312",
+			"name": "billboard",
+			"screen_name": "billboard",
+			"location": "",
+			"description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @billboardpro",
+			"url": "https://t.co/HLsfCRuizG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLsfCRuizG",
+							"expanded_url": "http://billboard.com",
+							"display_url": "billboard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13889651,
+			"friends_count": 3494,
+			"listed_count": 21687,
+			"created_at": "Thu Oct 25 21:33:23 +0000 2007",
+			"favourites_count": 7380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 301724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148300782242095105/9vWg5A_I_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1659621933",
+			"profile_link_color": "1EB0E8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2888,
+		"favorite_count": 6006,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation chat about reuniting for their 15th anniversary and share their career longevity advice.\n\n https://t.co/BBUWeHY5r0 https://t.co/P23HMd388u"
+	},
+	{
 		"created_at": "Sat Aug 13 03:40:30 +0000 2022",
 		"id": 1558294716017307600,
 		"id_str": "1558297418021720065",
