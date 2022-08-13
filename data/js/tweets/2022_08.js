@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 09:40:39 +0000 2022",
+		"id": 1558378419905147000,
+		"id_str": "1558388049381396480",
+		"full_text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️‍🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						194,
+						213
+					]
+				},
+				{
+					"text": "SMT_BUS",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "ThePLACE",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3zNq4Av0i",
+					"expanded_url": "https://smtown-official.jp/news/n20220813/",
+					"display_url": "smtown-official.jp/news/n20220813/",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558378400946851800,
+					"id_str": "1558378400946851841",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FaB45iYUEAEWnPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaB45iYUEAEWnPr.jpg",
+					"url": "https://t.co/6C1fiHHrWC",
+					"display_url": "pic.twitter.com/6C1fiHHrWC",
+					"expanded_url": "https://twitter.com/smttokyo/status/1558378419905146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558378400946851800,
+					"id_str": "1558378400946851841",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FaB45iYUEAEWnPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaB45iYUEAEWnPr.jpg",
+					"url": "https://t.co/6C1fiHHrWC",
+					"display_url": "pic.twitter.com/6C1fiHHrWC",
+					"expanded_url": "https://twitter.com/smttokyo/status/1558378419905146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558378400925921300,
+					"id_str": "1558378400925921280",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FaB45iTUsAAMT4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaB45iTUsAAMT4h.jpg",
+					"url": "https://t.co/6C1fiHHrWC",
+					"display_url": "pic.twitter.com/6C1fiHHrWC",
+					"expanded_url": "https://twitter.com/smttokyo/status/1558378419905146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1456,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558378400925896700,
+					"id_str": "1558378400925896706",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FaB45iTUUAI7E-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaB45iTUUAI7E-z.jpg",
+					"url": "https://t.co/6C1fiHHrWC",
+					"display_url": "pic.twitter.com/6C1fiHHrWC",
+					"expanded_url": "https://twitter.com/smttokyo/status/1558378419905146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1456,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1558378400892350500,
+					"id_str": "1558378400892350465",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FaB45iLUcAE9edL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaB45iLUcAE9edL.jpg",
+					"url": "https://t.co/6C1fiHHrWC",
+					"display_url": "pic.twitter.com/6C1fiHHrWC",
+					"expanded_url": "https://twitter.com/smttokyo/status/1558378419905146880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1456,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912575379319095300,
+			"id_str": "912575379319095298",
+			"name": "SMT BUS",
+			"screen_name": "smttokyo",
+			"location": "The PLACE",
+			"description": "SMT BUS 公式アカウント",
+			"url": "https://t.co/V3DhKAzrlU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V3DhKAzrlU",
+							"expanded_url": "https://www.instagram.com/smt_tokyo",
+							"display_url": "instagram.com/smt_tokyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12337,
+			"friends_count": 43,
+			"listed_count": 31,
+			"created_at": "Tue Sep 26 07:11:40 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471760019377246210/4y-rbSB0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471760019377246210/4y-rbSB0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912575379319095298/1641016994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2365,
+		"favorite_count": 6645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "次のBUS STATIONは🚂\n\n ⋱✨🪐SMTOWN LIVE 2022 - SMCU EXPRESS@TOKYO「The PLACE」🪐✨⋰\n\n8/20～8/30@渋谷PARCO \n\n3年ぶりに東京ドームでの開催が決定した\n💗SMTOWN LIVE💗\nSMT BUSも一緒に盛り上げます❤️‍🔥\n\n詳細🔜\nhttps://t.co/f3zNq4Av0i\n\n#SMTOWN_LIVE \n#SMCU_EXPRESS_TOKYO\n#SMT_BUS #ThePLACE https://t.co/6C1fiHHrWC"
+	},
+	{
+		"created_at": "Sat Aug 13 09:40:30 +0000 2022",
+		"id": 1558377825446441000,
+		"id_str": "1558388015122243585",
+		"full_text": "[RADIO📻] \n오늘(8/13) 19:00PM SBS &lt;박소현의 러브게임&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;ParkSoHyun's lovegame&gt; on SBS Radio on August 13 at 19:00PM KST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331405,
+			"friends_count": 2,
+			"listed_count": 1104,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 1786,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[RADIO📻] \n오늘(8/13) 19:00PM SBS &lt;박소현의 러브게임&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;ParkSoHyun's lovegame&gt; on SBS Radio on August 13 at 19:00PM KST"
+	},
+	{
+		"created_at": "Sat Aug 13 09:40:24 +0000 2022",
+		"id": 1558362748353802200,
+		"id_str": "1558387989344145408",
+		"full_text": "☀️ 𝐈𝐭'𝐬 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞 𝐚 𝐡𝐨𝐭 𝐨𝐧𝐞 ☀️ \n\nIf you're heading to Wembley for @coldplay today, we have some guidance for the hot weather 👇\n\nRecommendations &amp; tips for staying cool as well as important stadium info can be found here:\n\n👉 https://t.co/efhWE5ERiR https://t.co/j9xoDbkEQC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/efhWE5ERiR",
+					"expanded_url": "https://bit.ly/3QgOwWU",
+					"display_url": "bit.ly/3QgOwWU",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558362723276058600,
+					"id_str": "1558362723276058624",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBqo-gUcAAA6UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBqo-gUcAAA6UA.jpg",
+					"url": "https://t.co/j9xoDbkEQC",
+					"display_url": "pic.twitter.com/j9xoDbkEQC",
+					"expanded_url": "https://twitter.com/wembleystadium/status/1558362748353802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558362723276058600,
+					"id_str": "1558362723276058624",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBqo-gUcAAA6UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBqo-gUcAAA6UA.jpg",
+					"url": "https://t.co/j9xoDbkEQC",
+					"display_url": "pic.twitter.com/j9xoDbkEQC",
+					"expanded_url": "https://twitter.com/wembleystadium/status/1558362748353802240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19596849,
+			"id_str": "19596849",
+			"name": "Wembley Stadium",
+			"screen_name": "wembleystadium",
+			"location": "London",
+			"description": "Connected by @EE. Home of @England and the @EmiratesFACup. Host to iconic music and sport. Join us #UnderTheArch.",
+			"url": "https://t.co/ixL1rLZtIb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ixL1rLZtIb",
+							"expanded_url": "http://www.wembleystadium.com",
+							"display_url": "wembleystadium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226638,
+			"friends_count": 349,
+			"listed_count": 873,
+			"created_at": "Tue Jan 27 15:29:37 +0000 2009",
+			"favourites_count": 5613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460276875461279744/O-7jfM1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460276875461279744/O-7jfM1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19596849/1618820354",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "☀️ 𝐈𝐭'𝐬 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐛𝐞 𝐚 𝐡𝐨𝐭 𝐨𝐧𝐞 ☀️ \n\nIf you're heading to Wembley for @coldplay today, we have some guidance for the hot weather 👇\n\nRecommendations &amp; tips for staying cool as well as important stadium info can be found here:\n\n👉 https://t.co/efhWE5ERiR https://t.co/j9xoDbkEQC"
+	},
+	{
+		"created_at": "Sat Aug 13 09:40:21 +0000 2022",
+		"id": 1558367476865732600,
+		"id_str": "1558387976228552704",
+		"full_text": "[it’s Live] #선예 (#SUNYE) - “Glass Heart”\n▼Check out on &lt;it’s Live&gt; TikTok▼\nhttps://t.co/26RFQpxPmM\n#잇츠라이브 #itsLive https://t.co/Ap2bRh1OuY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "itsLive",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26RFQpxPmM",
+					"expanded_url": "https://bit.ly/3C5UN3y",
+					"display_url": "bit.ly/3C5UN3y",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558365283395719200,
+					"id_str": "1558365283395719168",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBs9_saUAARN5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBs9_saUAARN5A.jpg",
+					"url": "https://t.co/Ap2bRh1OuY",
+					"display_url": "pic.twitter.com/Ap2bRh1OuY",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558367476865732609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558365283395719200,
+					"id_str": "1558365283395719168",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBs9_saUAARN5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBs9_saUAARN5A.jpg",
+					"url": "https://t.co/Ap2bRh1OuY",
+					"display_url": "pic.twitter.com/Ap2bRh1OuY",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558367476865732609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32690,
+			"friends_count": 1,
+			"listed_count": 83,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[it’s Live] #선예 (#SUNYE) - “Glass Heart”\n▼Check out on &lt;it’s Live&gt; TikTok▼\nhttps://t.co/26RFQpxPmM\n#잇츠라이브 #itsLive https://t.co/Ap2bRh1OuY"
+	},
+	{
+		"created_at": "Sat Aug 13 09:40:13 +0000 2022",
+		"id": 1558364380814647300,
+		"id_str": "1558387942091014144",
+		"full_text": "선예의 잇츠라이브 현장 포토!📸\nSUNYE의 ‘Glass Heart’를\n유튜브 it's Live 채널에서 확인하세요!✨\n\n#itsLive #선예 #SUNYE #KPOP #잇츠라이브 https://t.co/3IDEDEAb80",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "itsLive",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "선예",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558359108335440000,
+					"id_str": "1558359108335439872",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBnWjzUEAA5Xbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBnWjzUEAA5Xbe.jpg",
+					"url": "https://t.co/3IDEDEAb80",
+					"display_url": "pic.twitter.com/3IDEDEAb80",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558364380814647298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558359108335440000,
+					"id_str": "1558359108335439872",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FaBnWjzUEAA5Xbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaBnWjzUEAA5Xbe.jpg",
+					"url": "https://t.co/3IDEDEAb80",
+					"display_url": "pic.twitter.com/3IDEDEAb80",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1558364380814647298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32690,
+			"friends_count": 1,
+			"listed_count": 83,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선예의 잇츠라이브 현장 포토!📸\nSUNYE의 ‘Glass Heart’를\n유튜브 it's Live 채널에서 확인하세요!✨\n\n#itsLive #선예 #SUNYE #KPOP #잇츠라이브 https://t.co/3IDEDEAb80"
+	},
+	{
 		"created_at": "Sat Aug 13 06:40:12 +0000 2022",
 		"id": 1558332525075828700,
 		"id_str": "1558342641279975424",
