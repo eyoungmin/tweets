@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 18:40:10 +0000 2022",
+		"id": 1558879052278091800,
+		"id_str": "1558886211569258498",
+		"full_text": "Watch the official behind the scenes for the Biutyful video exclusively on the Music Of The Spheres World Tour app (in the Universe section)\n\nDownload the app for free at https://t.co/kaSSnHNy12 https://t.co/pN4t1s3LQ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kaSSnHNy12",
+					"expanded_url": "https://cldp.ly/app",
+					"display_url": "cldp.ly/app",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558878833390010400,
+					"id_str": "1558878833390010369",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558878833390010369/pu/img/8nSnJBdcvSQcPqsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558878833390010369/pu/img/8nSnJBdcvSQcPqsL.jpg",
+					"url": "https://t.co/pN4t1s3LQ0",
+					"display_url": "pic.twitter.com/pN4t1s3LQ0",
+					"expanded_url": "https://twitter.com/coldplay/status/1558879052278091777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558878833390010400,
+					"id_str": "1558878833390010369",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1558878833390010369/pu/img/8nSnJBdcvSQcPqsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1558878833390010369/pu/img/8nSnJBdcvSQcPqsL.jpg",
+					"url": "https://t.co/pN4t1s3LQ0",
+					"display_url": "pic.twitter.com/pN4t1s3LQ0",
+					"expanded_url": "https://twitter.com/coldplay/status/1558879052278091777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15223,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558878833390010369/pu/vid/540x540/EimUobkzAbSX187R.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558878833390010369/pu/vid/320x320/Ko4LsLaBEqyAPiVl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1558878833390010369/pu/pl/sV-FO0EXanFZRx9N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1558878833390010369/pu/vid/720x720/Eng3V99mKkQpPB6u.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23602453,
+			"friends_count": 779,
+			"listed_count": 42448,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 1036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch the official behind the scenes for the Biutyful video exclusively on the Music Of The Spheres World Tour app (in the Universe section)\n\nDownload the app for free at https://t.co/kaSSnHNy12 https://t.co/pN4t1s3LQ0"
+	},
+	{
 		"created_at": "Sun Aug 14 16:45:37 +0000 2022",
 		"id": 1558846779822641200,
 		"id_str": "1558857384646381571",
