@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 13:29:39 +0000 2022",
+		"id": 1559157822814036000,
+		"id_str": "1559170455168327680",
+		"full_text": "[EVENT] Tiffany will be coming to Singapore this month to make a guest appearance at LANCÔME's First Beauty Tech Flagship Store in Southeast Asia!\n\n📅 24 August 2022\n⏰ TBA\n📍 Mandarin Gallery, 333A Orchard Road\n\n#TiffanyYoung @tiffanyyoung https://t.co/15zeTxwEwH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						210,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559157819626045400,
+					"id_str": "1559157819626045440",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FaM9xrOVQAAxZ95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaM9xrOVQAAxZ95.jpg",
+					"url": "https://t.co/15zeTxwEwH",
+					"display_url": "pic.twitter.com/15zeTxwEwH",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1559157822814035968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559157819626045400,
+					"id_str": "1559157819626045440",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FaM9xrOVQAAxZ95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaM9xrOVQAAxZ95.jpg",
+					"url": "https://t.co/15zeTxwEwH",
+					"display_url": "pic.twitter.com/15zeTxwEwH",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1559157822814035968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150236869,
+			"id_str": "150236869",
+			"name": "KAvenyou • 케이애버뉴",
+			"screen_name": "KAvenyou",
+			"location": "Global",
+			"description": "KAvenyou • 케이애버뉴 (K-Avenue) | 🇸🇬🇫🇷 to 🇰🇷 : Music, Wanderlust, Food, Lifestyle\n\n💌 admin@kavenyou.com\n🔔 Get updated: https://t.co/FENCD85A29",
+			"url": "https://t.co/MJtMOgmfya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MJtMOgmfya",
+							"expanded_url": "http://KAvenyou.com",
+							"display_url": "KAvenyou.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FENCD85A29",
+							"expanded_url": "http://t.me/kavenyou",
+							"display_url": "t.me/kavenyou",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22673,
+			"friends_count": 327,
+			"listed_count": 252,
+			"created_at": "Mon May 31 12:37:04 +0000 2010",
+			"favourites_count": 1197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150236869/1552998265",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[EVENT] Tiffany will be coming to Singapore this month to make a guest appearance at LANCÔME's First Beauty Tech Flagship Store in Southeast Asia!\n\n📅 24 August 2022\n⏰ TBA\n📍 Mandarin Gallery, 333A Orchard Road\n\n#TiffanyYoung @tiffanyyoung https://t.co/15zeTxwEwH"
+	},
+	{
 		"created_at": "Mon Aug 15 11:40:10 +0000 2022",
 		"id": 1558820874064625700,
 		"id_str": "1559142903817068546",
