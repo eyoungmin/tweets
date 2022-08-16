@@ -1,6 +1,996 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 08:40:13 +0000 2022",
+		"id": 1559429024916463600,
+		"id_str": "1559460007074226176",
+		"full_text": "Did you guys catch the action at HallyuPopFest Sydney 2022 ⁉️\n\nWe’re already wishing we could turn back time and experience it all over again 🥹♥️ https://t.co/pg2r7VoKSm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559429012069396500,
+					"id_str": "1559429012069396480",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQ0bJzVsAAUCzP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQ0bJzVsAAUCzP.jpg",
+					"url": "https://t.co/pg2r7VoKSm",
+					"display_url": "pic.twitter.com/pg2r7VoKSm",
+					"expanded_url": "https://twitter.com/HallyuPopFest/status/1559429024916463617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559429012069396500,
+					"id_str": "1559429012069396480",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQ0bJzVsAAUCzP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQ0bJzVsAAUCzP.jpg",
+					"url": "https://t.co/pg2r7VoKSm",
+					"display_url": "pic.twitter.com/pg2r7VoKSm",
+					"expanded_url": "https://twitter.com/HallyuPopFest/status/1559429024916463617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559429012073484300,
+					"id_str": "1559429012073484288",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQ0bJ0UEAAGO1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQ0bJ0UEAAGO1u.jpg",
+					"url": "https://t.co/pg2r7VoKSm",
+					"display_url": "pic.twitter.com/pg2r7VoKSm",
+					"expanded_url": "https://twitter.com/HallyuPopFest/status/1559429024916463617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559429012069306400,
+					"id_str": "1559429012069306368",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQ0bJzUUAAKhxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQ0bJzUUAAKhxe.jpg",
+					"url": "https://t.co/pg2r7VoKSm",
+					"display_url": "pic.twitter.com/pg2r7VoKSm",
+					"expanded_url": "https://twitter.com/HallyuPopFest/status/1559429024916463617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559429012073525200,
+					"id_str": "1559429012073525248",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQ0bJ0UsAAsmN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQ0bJ0UsAAsmN6.jpg",
+					"url": "https://t.co/pg2r7VoKSm",
+					"display_url": "pic.twitter.com/pg2r7VoKSm",
+					"expanded_url": "https://twitter.com/HallyuPopFest/status/1559429024916463617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989518000918163500,
+			"id_str": "989518000918163459",
+			"name": "HallyuPopFest",
+			"screen_name": "HallyuPopFest",
+			"location": "",
+			"description": "@hpflondon2022 9 & 10 July, at Ovo Arena Wembley\n@hpfsydney2022 13 & 14 August, at Qudos Bank Arena",
+			"url": "https://t.co/gJeyAe2pAw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJeyAe2pAw",
+							"expanded_url": "http://www.hallyupopfest.com",
+							"display_url": "hallyupopfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15357,
+			"friends_count": 71,
+			"listed_count": 24,
+			"created_at": "Thu Apr 26 14:54:10 +0000 2018",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219114724895293440/UJMlR5ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219114724895293440/UJMlR5ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989518000918163459/1579493768",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 1229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you guys catch the action at HallyuPopFest Sydney 2022 ⁉️\n\nWe’re already wishing we could turn back time and experience it all over again 🥹♥️ https://t.co/pg2r7VoKSm"
+	},
+	{
+		"created_at": "Tue Aug 16 08:40:10 +0000 2022",
+		"id": 1559450939823534000,
+		"id_str": "1559459993983897601",
+		"full_text": "태양이 작렬하는 8월 16일\n#알바DJ 의 두번째 #출근길\n\n#납량사진 드려요 \n내 마음 받아 주라 \n 🖤🖤🖤🖤🖤\n\n#배캠\n#배철수의음악캠프 https://t.co/6gegRMh22v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알바DJ",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "출근길",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "납량사진",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "배캠",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "배철수의음악캠프",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559450933225877500,
+					"id_str": "1559450933225877504",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRIXIeUcAATYfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRIXIeUcAATYfd.jpg",
+					"url": "https://t.co/6gegRMh22v",
+					"display_url": "pic.twitter.com/6gegRMh22v",
+					"expanded_url": "https://twitter.com/love_yuna/status/1559450939823534080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559450933225877500,
+					"id_str": "1559450933225877504",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRIXIeUcAATYfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRIXIeUcAATYfd.jpg",
+					"url": "https://t.co/6gegRMh22v",
+					"display_url": "pic.twitter.com/6gegRMh22v",
+					"expanded_url": "https://twitter.com/love_yuna/status/1559450939823534080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274767,
+			"friends_count": 585,
+			"listed_count": 2761,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태양이 작렬하는 8월 16일\n#알바DJ 의 두번째 #출근길\n\n#납량사진 드려요 \n내 마음 받아 주라 \n 🖤🖤🖤🖤🖤\n\n#배캠\n#배철수의음악캠프 https://t.co/6gegRMh22v"
+	},
+	{
+		"created_at": "Tue Aug 16 08:29:47 +0000 2022",
+		"id": 1559451112616640500,
+		"id_str": "1559457379057532928",
+		"full_text": "\"극장에도 #공조이즈백! #발견한사람?! 🙋‍♀️🙋‍♂️\"\n웃음X액션X케미 3배 더 강하게 #돌아온팀공조 등신대 인증 미션 완수하면! 추첨을 통해 #인터내셔날한_굿즈 를 드립니다! 🎁\n\n자세한 내용 아래로 확인🔽\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월7일대개봉 https://t.co/yu8sY1CxIk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조이즈백",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "발견한사람",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "돌아온팀공조",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "인터내셔날한_굿즈",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559450860736106500,
+					"id_str": "1559450860736106499",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRIS6baUAMkUAw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRIS6baUAMkUAw.jpg",
+					"url": "https://t.co/yu8sY1CxIk",
+					"display_url": "pic.twitter.com/yu8sY1CxIk",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1559451112616640512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559450860736106500,
+					"id_str": "1559450860736106499",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FaRIS6baUAMkUAw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaRIS6baUAMkUAw.jpg",
+					"url": "https://t.co/yu8sY1CxIk",
+					"display_url": "pic.twitter.com/yu8sY1CxIk",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1559451112616640512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331720,
+			"friends_count": 10665,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"극장에도 #공조이즈백! #발견한사람?! 🙋‍♀️🙋‍♂️\"\n웃음X액션X케미 3배 더 강하게 #돌아온팀공조 등신대 인증 미션 완수하면! 추첨을 통해 #인터내셔날한_굿즈 를 드립니다! 🎁\n\n자세한 내용 아래로 확인🔽\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월7일대개봉 https://t.co/yu8sY1CxIk"
+	},
+	{
+		"created_at": "Tue Aug 16 08:29:39 +0000 2022",
+		"id": 1559449891667169300,
+		"id_str": "1559457344974716928",
+		"full_text": "5년을 돌고 돌아\n마침내 전하는 #소녀시대 의 속마음?!\n\n▶️오늘 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/GOmWkmCNcH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559339321563328500,
+					"id_str": "1559339321563328512",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FaPjD7tUYAAXLTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaPjD7tUYAAXLTI.jpg",
+					"url": "https://t.co/GOmWkmCNcH",
+					"display_url": "pic.twitter.com/GOmWkmCNcH",
+					"expanded_url": "https://twitter.com/jtbclove/status/1559449891667169280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559339321563328500,
+					"id_str": "1559339321563328512",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FaPjD7tUYAAXLTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaPjD7tUYAAXLTI.jpg",
+					"url": "https://t.co/GOmWkmCNcH",
+					"display_url": "pic.twitter.com/GOmWkmCNcH",
+					"expanded_url": "https://twitter.com/jtbclove/status/1559449891667169280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 95028,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559339321563328512/vid/480x270/Y-DHmwqL4YMaMfCr.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1559339321563328512/pl/w3au_5YHrl1QfgVq.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559339321563328512/vid/1280x720/0NQaY1T1Yi2bpvZc.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559339321563328512/vid/640x360/ffyN1dxLCAjck5TG.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[소시탐탐] 7회 예고 - 5년을 돌고 돌아 마침내 전하는 속마음..",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/r8I2MN0MhSQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472697,
+			"friends_count": 108,
+			"listed_count": 823,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659577702",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5년을 돌고 돌아\n마침내 전하는 #소녀시대 의 속마음?!\n\n▶️오늘 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/GOmWkmCNcH"
+	},
+	{
 		"created_at": "Tue Aug 16 07:40:10 +0000 2022",
 		"id": 1559442336790155300,
 		"id_str": "1559444893646331904",
