@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 15:40:20 +0000 2022",
+		"id": 1559560663093092400,
+		"id_str": "1559565731913781250",
+		"full_text": "✨ Here are the timings for tonight’s third sold out show at London’s Wembley Stadium #ColdplayWembley https://t.co/djyqsymEl0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWembley",
+					"indices": [
+						85,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559560658752094200,
+					"id_str": "1559560658752094208",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FaSsJ_6XwAATbBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaSsJ_6XwAATbBq.jpg",
+					"url": "https://t.co/djyqsymEl0",
+					"display_url": "pic.twitter.com/djyqsymEl0",
+					"expanded_url": "https://twitter.com/coldplay/status/1559560663093092357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559560658752094200,
+					"id_str": "1559560658752094208",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FaSsJ_6XwAATbBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaSsJ_6XwAATbBq.jpg",
+					"url": "https://t.co/djyqsymEl0",
+					"display_url": "pic.twitter.com/djyqsymEl0",
+					"expanded_url": "https://twitter.com/coldplay/status/1559560663093092357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23603076,
+			"friends_count": 779,
+			"listed_count": 42444,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ Here are the timings for tonight’s third sold out show at London’s Wembley Stadium #ColdplayWembley https://t.co/djyqsymEl0"
+	},
+	{
+		"created_at": "Tue Aug 16 15:40:18 +0000 2022",
+		"id": 1559555666360303600,
+		"id_str": "1559565722921181184",
+		"full_text": "#BLACKPINK ‘Pink Venom’ M/V TEASER \n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/WEDROz0Ij5 \n📺NOW: https://t.co/Z5RzcnQMZp \n\n#블랙핑크 #PreReleaseSingle #PinkVenom #MV_Teaser #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/Z8cplpb4QQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						182,
+						199
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "MV_Teaser",
+					"indices": [
+						211,
+						221
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						222,
+						239
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						240,
+						256
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						257,
+						265
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						266,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WEDROz0Ij5",
+					"expanded_url": "https://youtu.be/UTCC8k6KwnQ",
+					"display_url": "youtu.be/UTCC8k6KwnQ",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/Z5RzcnQMZp",
+					"expanded_url": "https://tv.naver.com/v/28600499",
+					"display_url": "tv.naver.com/v/28600499",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559525264388145200,
+					"id_str": "1559525264388145156",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FaSdsMlacAMD8Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaSdsMlacAMD8Yo.jpg",
+					"url": "https://t.co/Z8cplpb4QQ",
+					"display_url": "pic.twitter.com/Z8cplpb4QQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1559555666360303619/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559525264388145200,
+					"id_str": "1559525264388145156",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FaSdsMlacAMD8Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaSdsMlacAMD8Yo.jpg",
+					"url": "https://t.co/Z8cplpb4QQ",
+					"display_url": "pic.twitter.com/Z8cplpb4QQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1559555666360303619/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23875,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1559525264388145156/pl/e5eGbdWLEg8jokTO.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559525264388145156/vid/640x360/e0Jw2MQaTdb8fe7v.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559525264388145156/vid/1280x720/nXErDsQzUVbvWC8U.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559525264388145156/vid/480x270/CxWa6KSaJsTQpNk8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘Pink Venom’ M/V TEASER",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/UTCC8k6KwnQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8840964,
+			"friends_count": 36,
+			"listed_count": 9831,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35039,
+		"favorite_count": 67363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ M/V TEASER \n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n🎬YouTube: https://t.co/WEDROz0Ij5 \n📺NOW: https://t.co/Z5RzcnQMZp \n\n#블랙핑크 #PreReleaseSingle #PinkVenom #MV_Teaser #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/Z8cplpb4QQ"
+	},
+	{
 		"created_at": "Tue Aug 16 12:09:36 +0000 2022",
 		"id": 1559507626626388000,
 		"id_str": "1559512698118873089",
