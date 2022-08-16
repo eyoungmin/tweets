@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 07:40:10 +0000 2022",
+		"id": 1559442336790155300,
+		"id_str": "1559444893646331904",
+		"full_text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. 2022.08.16 16:30 (KST)\n\nRegistration for entry for today is closed.  \n2022.08.16 16:30 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356870,
+			"friends_count": 2,
+			"listed_count": 1194,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 904,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. 2022.08.16 16:30 (KST)\n\nRegistration for entry for today is closed.  \n2022.08.16 16:30 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul"
+	},
+	{
 		"created_at": "Tue Aug 16 06:40:17 +0000 2022",
 		"id": 1559429155149598700,
 		"id_str": "1559429822216110080",
