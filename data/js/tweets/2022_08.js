@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 20:45:44 +0000 2022",
+		"id": 1559638628560617500,
+		"id_str": "1559642586968621057",
+		"full_text": "INVITING ALL FANS📢💙💚\nGet ready to cheer on artists with fellow fans! Don’t miss out &amp; join in on the fun at the FAN SQUARE🥳\n\nJO1/@JAMHouseClub\nP1Harmony/@P1HCAFE\nNCT DREAM/@NCTinLA\nTHE BOYZ/@TheB_LAnd0529\nWJSN/@wjsn__usa\nNMIXX /NSWER\nLOONA /ORBIT\n\n#KCON #KCONUSA #KCON2022LA https://t.co/sYtjUSpMEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "KCONUSA",
+					"indices": [
+						258,
+						266
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JAMHouseClub",
+					"name": "🍯 🏠 We Love You JO1",
+					"id": 1556017187613278200,
+					"id_str": "1556017187613278210",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"screen_name": "P1HCAFE",
+					"name": "P1Harmony Global",
+					"id": 1331221814605873200,
+					"id_str": "1331221814605873159",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"screen_name": "NCTinLA",
+					"name": "NCT in LA - NCT Dream at KCON LA 2022!",
+					"id": 1094711216411271200,
+					"id_str": "1094711216411271168",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"screen_name": "TheB_LAnd0529",
+					"name": "THEB LAnd",
+					"id": 1522035326578954200,
+					"id_str": "1522035326578954241",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"screen_name": "wjsn__usa",
+					"name": "wjsn usa",
+					"id": 1429283199956537300,
+					"id_str": "1429283199956537349",
+					"indices": [
+						214,
+						224
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559609016430383000,
+					"id_str": "1559609016430383104",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTYIyTUUAANJmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTYIyTUUAANJmb.jpg",
+					"url": "https://t.co/sYtjUSpMEJ",
+					"display_url": "pic.twitter.com/sYtjUSpMEJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1559638628560617472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559609016430383000,
+					"id_str": "1559609016430383104",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTYIyTUUAANJmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTYIyTUUAANJmb.jpg",
+					"url": "https://t.co/sYtjUSpMEJ",
+					"display_url": "pic.twitter.com/sYtjUSpMEJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1559638628560617472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559609016434638800,
+					"id_str": "1559609016434638849",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTYIyUVQAEX4PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTYIyUVQAEX4PN.jpg",
+					"url": "https://t.co/sYtjUSpMEJ",
+					"display_url": "pic.twitter.com/sYtjUSpMEJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1559638628560617472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559609016434626600,
+					"id_str": "1559609016434626562",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTYIyUVEAIwBxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTYIyUVEAIwBxq.jpg",
+					"url": "https://t.co/sYtjUSpMEJ",
+					"display_url": "pic.twitter.com/sYtjUSpMEJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1559638628560617472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559609016438820900,
+					"id_str": "1559609016438820865",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTYIyVVEAEA9KV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTYIyVVEAEA9KV.jpg",
+					"url": "https://t.co/sYtjUSpMEJ",
+					"display_url": "pic.twitter.com/sYtjUSpMEJ",
+					"expanded_url": "https://twitter.com/kconusa/status/1559638628560617472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/FLWmbXsnw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FLWmbXsnw0",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225944,
+			"friends_count": 7,
+			"listed_count": 470,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 3049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "INVITING ALL FANS📢💙💚\nGet ready to cheer on artists with fellow fans! Don’t miss out &amp; join in on the fun at the FAN SQUARE🥳\n\nJO1/@JAMHouseClub\nP1Harmony/@P1HCAFE\nNCT DREAM/@NCTinLA\nTHE BOYZ/@TheB_LAnd0529\nWJSN/@wjsn__usa\nNMIXX /NSWER\nLOONA /ORBIT\n\n#KCON #KCONUSA #KCON2022LA https://t.co/sYtjUSpMEJ"
+	},
+	{
+		"created_at": "Tue Aug 16 20:40:16 +0000 2022",
+		"id": 1559635743194103800,
+		"id_str": "1559641211840913414",
+		"full_text": "[#고원 / #GoWon] 오빛짱💕\n\n#이달의소녀 #LOONA https://t.co/9YsmzzwGgk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559635670523584500,
+					"id_str": "1559635670523584515",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTwYQiWIAMeGa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTwYQiWIAMeGa3.jpg",
+					"url": "https://t.co/9YsmzzwGgk",
+					"display_url": "pic.twitter.com/9YsmzzwGgk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1559635743194103808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559635670523584500,
+					"id_str": "1559635670523584515",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTwYQiWIAMeGa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTwYQiWIAMeGa3.jpg",
+					"url": "https://t.co/9YsmzzwGgk",
+					"display_url": "pic.twitter.com/9YsmzzwGgk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1559635743194103808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559635670511009800,
+					"id_str": "1559635670511009795",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FaTwYQfWQAMOins.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaTwYQfWQAMOins.jpg",
+					"url": "https://t.co/9YsmzzwGgk",
+					"display_url": "pic.twitter.com/9YsmzzwGgk",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1559635743194103808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1559635663334654000,
+		"in_reply_to_status_id_str": "1559635663334653954",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 972416,
+			"friends_count": 3,
+			"listed_count": 8940,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 629,
+		"favorite_count": 3529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고원 / #GoWon] 오빛짱💕\n\n#이달의소녀 #LOONA https://t.co/9YsmzzwGgk"
+	},
+	{
 		"created_at": "Tue Aug 16 17:40:10 +0000 2022",
 		"id": 1559570729586286600,
 		"id_str": "1559595887818686466",
