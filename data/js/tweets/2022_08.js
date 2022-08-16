@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 17:40:10 +0000 2022",
+		"id": 1559570729586286600,
+		"id_str": "1559595887818686466",
+		"full_text": "Clean &amp; green 🔋 Find out more about the @coldplay tour via the This Is Coldplay playlist clips on platform now https://t.co/jJmgXgrbcz #MusicOfTheSpheresWorldTour https://t.co/ccR7NNu7Cy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						139,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJmgXgrbcz",
+					"expanded_url": "https://spoti.fi/ThisIsColdplay",
+					"display_url": "spoti.fi/ThisIsColdplay",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559570513340403700,
+					"id_str": "1559570513340403712",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559570513340403712/pu/img/ub2z0mzNloq0BYg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559570513340403712/pu/img/ub2z0mzNloq0BYg3.jpg",
+					"url": "https://t.co/ccR7NNu7Cy",
+					"display_url": "pic.twitter.com/ccR7NNu7Cy",
+					"expanded_url": "https://twitter.com/SpotifyUK/status/1559570729586286597/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559570513340403700,
+					"id_str": "1559570513340403712",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559570513340403712/pu/img/ub2z0mzNloq0BYg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559570513340403712/pu/img/ub2z0mzNloq0BYg3.jpg",
+					"url": "https://t.co/ccR7NNu7Cy",
+					"display_url": "pic.twitter.com/ccR7NNu7Cy",
+					"expanded_url": "https://twitter.com/SpotifyUK/status/1559570729586286597/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21760,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559570513340403712/pu/vid/720x720/slQLqIsl35-sz8Jk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559570513340403712/pu/pl/GkOO7VLJouJ4se7b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559570513340403712/pu/vid/320x320/0Zcnixv5Al4c5Q6-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559570513340403712/pu/vid/540x540/sE8pD5vDShSqXPpq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 479315245,
+			"id_str": "479315245",
+			"name": "Spotify UK & Ireland",
+			"screen_name": "SpotifyUK",
+			"location": "London",
+			"description": "Listening is everything 💚 \n\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/kirGEZomAB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kirGEZomAB",
+							"expanded_url": "http://www.spotify.com/uk",
+							"display_url": "spotify.com/uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183901,
+			"friends_count": 1876,
+			"listed_count": 785,
+			"created_at": "Tue Jan 31 07:46:10 +0000 2012",
+			"favourites_count": 2726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013712538385645568/qBcJ2nt0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/479315245/1602240099",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Clean &amp; green 🔋 Find out more about the @coldplay tour via the This Is Coldplay playlist clips on platform now https://t.co/jJmgXgrbcz #MusicOfTheSpheresWorldTour https://t.co/ccR7NNu7Cy"
+	},
+	{
 		"created_at": "Tue Aug 16 15:40:20 +0000 2022",
 		"id": 1559560663093092400,
 		"id_str": "1559565731913781250",
