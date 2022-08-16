@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 04:22:13 +0000 2022",
+		"id": 1559394765879537700,
+		"id_str": "1559395080267452417",
+		"full_text": "케이팝 걸그룹 중 최초로 블랙핑크(BLACKPINK)가 미국 4대 대중음악 시상식 'MTV 비디오 뮤직 어워즈'에 출격한다. \n#블랙핑크 #제니 #리사 #로제 #지수 #본핑크 #핑크베놈 #라리사 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #LALISA #MTVawards #KPOP\nhttps://t.co/O72w75dDV5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "본핑크",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "핑크베놈",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "라리사",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "MTVawards",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						187,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O72w75dDV5",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/08/16/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-2022-mtv-%EB%B9%84%EB%94%94%EC%98%A4-%EB%AE%A4%EC%A7%81-%EC%96%B4%EC%9B%8C%EC%A6%88-%EC%B6%9C%EA%B2%A9/?ddw=119591&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/08/16/%EB…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142987,
+			"friends_count": 0,
+			"listed_count": 220,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1660278855",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케이팝 걸그룹 중 최초로 블랙핑크(BLACKPINK)가 미국 4대 대중음악 시상식 'MTV 비디오 뮤직 어워즈'에 출격한다. \n#블랙핑크 #제니 #리사 #로제 #지수 #본핑크 #핑크베놈 #라리사 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #LALISA #MTVawards #KPOP\nhttps://t.co/O72w75dDV5"
+	},
+	{
 		"created_at": "Tue Aug 16 02:45:36 +0000 2022",
 		"id": 1559359288296054800,
 		"id_str": "1559370765576847361",
@@ -491,7 +725,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Tue Aug 16 02:40:24 +0000 2022",
 		"id": 1559354584531075000,
 		"id_str": "1559369455699984385",
-		"full_text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/QgaV0s6C52",
+		"full_text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/QgaV0s6C52",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -783,13 +1017,13 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/QgaV0s6C52"
+		"text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/QgaV0s6C52"
 	},
 	{
 		"created_at": "Tue Aug 16 02:40:18 +0000 2022",
 		"id": 1559354577442717700,
 		"id_str": "1559369430051819527",
-		"full_text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/2J7MWTK0hh",
+		"full_text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/2J7MWTK0hh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1045,13 +1279,13 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/2J7MWTK0hh"
+		"text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/2J7MWTK0hh"
 	},
 	{
 		"created_at": "Tue Aug 16 02:40:10 +0000 2022",
 		"id": 1559354570413064200,
 		"id_str": "1559369395931054082",
-		"full_text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/8DAjjfQ6c1",
+		"full_text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/8DAjjfQ6c1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1307,7 +1541,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🫧🫧🐈‍⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/8DAjjfQ6c1"
+		"text": "🫧🫧🐈⬛🫧🫧🐺🫧🫧\n\n#aespa #GISELLE https://t.co/8DAjjfQ6c1"
 	},
 	{
 		"created_at": "Tue Aug 16 01:29:39 +0000 2022",
