@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 04:45:37 +0000 2022",
+		"id": 1559752406908678100,
+		"id_str": "1559763352964009985",
+		"full_text": "KCON 2022 LA 💙D-3💚\n\n띵동~💌 오빛을 위한 깜짝 포토이즘 이미지가 도착했습니다💕\n8/19~21(PDT), KCON 2022 LA에서 @loonatheworld 와 함께 즐겨요🥳\n\n[KOR] MD : https://t.co/J7MlfiCwPq\n[ENG] MD : https://t.co/XU7w4ohkLY\n\n#KCON #KCON2022LA #LOONA #이달의소녀 https://t.co/9xrekcvAsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						204,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J7MlfiCwPq",
+					"expanded_url": "https://bit.ly/3zeDhIo",
+					"display_url": "bit.ly/3zeDhIo",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/XU7w4ohkLY",
+					"expanded_url": "https://bit.ly/3PjfuwD",
+					"display_url": "bit.ly/3PjfuwD",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/9xrekcvAsi",
+					"expanded_url": "https://twitter.com/kconusa/status/1559724200650088448",
+					"display_url": "twitter.com/kconusa/status…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450859,
+			"friends_count": 76,
+			"listed_count": 1118,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559724200650088400,
+		"quoted_status_id_str": "1559724200650088448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9xrekcvAsi",
+			"expanded": "https://twitter.com/kconusa/status/1559724200650088448",
+			"display": "twitter.com/kconusa/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 17 02:10:02 +0000 2022",
+			"id": 1559724200650088400,
+			"id_str": "1559724200650088448",
+			"full_text": "KCON 2022 LA 💙D-3💚\n\nDing Dong~💌 Photoism pics for ORBIT have been delivered💕\n8/19~21(PDT), have fun with @loonatheworld at KCON 2022 LA🥳\n\n[KOR] MD : https://t.co/aeFd9eaNAl\n[ENG] MD : https://t.co/S37C8bj1ja\n\n#KCON #KCON2022LA #LOONA #이달의소녀 https://t.co/Hdqrl9VdEt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KCON",
+						"indices": [
+							209,
+							214
+						]
+					},
+					{
+						"text": "KCON2022LA",
+						"indices": [
+							215,
+							226
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							227,
+							233
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							234,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "loonatheworld",
+						"name": "이달의 소녀(LOOΠΔ)",
+						"id": 770959712791597000,
+						"id_str": "770959712791597056",
+						"indices": [
+							105,
+							119
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aeFd9eaNAl",
+						"expanded_url": "https://bit.ly/3zeDhIo",
+						"display_url": "bit.ly/3zeDhIo",
+						"indices": [
+							149,
+							172
+						]
+					},
+					{
+						"url": "https://t.co/S37C8bj1ja",
+						"expanded_url": "https://bit.ly/3PjfuwD",
+						"display_url": "bit.ly/3PjfuwD",
+						"indices": [
+							184,
+							207
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1559721920613851100,
+						"id_str": "1559721920613851136",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FaU-0rKUIAA7tAT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaU-0rKUIAA7tAT.jpg",
+						"url": "https://t.co/Hdqrl9VdEt",
+						"display_url": "pic.twitter.com/Hdqrl9VdEt",
+						"expanded_url": "https://twitter.com/kconusa/status/1559724200650088448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1207,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 805,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1559721920613851100,
+						"id_str": "1559721920613851136",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FaU-0rKUIAA7tAT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaU-0rKUIAA7tAT.jpg",
+						"url": "https://t.co/Hdqrl9VdEt",
+						"display_url": "pic.twitter.com/Hdqrl9VdEt",
+						"expanded_url": "https://twitter.com/kconusa/status/1559724200650088448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1207,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 805,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1559721920622260200,
+						"id_str": "1559721920622260224",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FaU-0rMUcAA47Lu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaU-0rMUcAA47Lu.jpg",
+						"url": "https://t.co/Hdqrl9VdEt",
+						"display_url": "pic.twitter.com/Hdqrl9VdEt",
+						"expanded_url": "https://twitter.com/kconusa/status/1559724200650088448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1207,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 805,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1559721920622260200,
+						"id_str": "1559721920622260225",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/FaU-0rMUcAEo6tY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaU-0rMUcAEo6tY.jpg",
+						"url": "https://t.co/Hdqrl9VdEt",
+						"display_url": "pic.twitter.com/Hdqrl9VdEt",
+						"expanded_url": "https://twitter.com/kconusa/status/1559724200650088448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 805,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1207,
+								"h": 1800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739451875,
+				"id_str": "739451875",
+				"name": "KCONUSA",
+				"screen_name": "kconusa",
+				"location": "Los Angeles, CA",
+				"description": "The official Twitter account of KCONUSA. #LetsKCON",
+				"url": "https://t.co/FLWmbXsnw0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FLWmbXsnw0",
+								"expanded_url": "http://www.kconusa.com",
+								"display_url": "kconusa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 226202,
+				"friends_count": 7,
+				"listed_count": 470,
+				"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+				"favourites_count": 3049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20543,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1092,
+			"favorite_count": 2749,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON 2022 LA 💙D-3💚\n\n띵동~💌 오빛을 위한 깜짝 포토이즘 이미지가 도착했습니다💕\n8/19~21(PDT), KCON 2022 LA에서 @loonatheworld 와 함께 즐겨요🥳\n\n[KOR] MD : https://t.co/J7MlfiCwPq\n[ENG] MD : https://t.co/XU7w4ohkLY\n\n#KCON #KCON2022LA #LOONA #이달의소녀 https://t.co/9xrekcvAsi"
+	},
+	{
 		"created_at": "Wed Aug 17 03:40:24 +0000 2022",
 		"id": 1559738570025635800,
 		"id_str": "1559746942908907521",
