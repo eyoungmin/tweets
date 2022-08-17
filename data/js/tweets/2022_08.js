@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 17:40:10 +0000 2022",
+		"id": 1559784704035160000,
+		"id_str": "1559958275830980609",
+		"full_text": "덴마크의 물리학자 Lene Hau가 광속을 마음껏\n'낮추어' '조정(manipulation)'하는 데 성공했다는 기사입니다. 빛은 더 이상 상수가 아닙니다.\nrt. Danish Physicist Lene Hau was Able to Slow Down the Speed of Light to 38 mph and was Eventually Able to Manipulate it https://t.co/QFB0d07U6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QFB0d07U6j",
+					"expanded_url": "https://www.thespaceacademy.org/2022/08/danish-physicist-was-able-to-slow-down.html",
+					"display_url": "thespaceacademy.org/2022/08/danish…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 430534457,
+			"id_str": "430534457",
+			"name": "최상도",
+			"screen_name": "choisk03",
+			"location": "To touch and couch the trifles around me, and to forward the loves of theirs to those who want them.",
+			"description": "별을 노래하는 마음으로 모든 죽어가는 것을 사랑해야지 Singing of stars, in my soul I'd love every mortal/주변 작은것부터 느끼며 사랑하며 전하기/Soli Deo Gloria",
+			"url": "https://t.co/iYf16hclIs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iYf16hclIs",
+							"expanded_url": "http://page.is/choisangdo",
+							"display_url": "page.is/choisangdo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3318,
+			"friends_count": 1693,
+			"listed_count": 17,
+			"created_at": "Wed Dec 07 08:41:22 +0000 2011",
+			"favourites_count": 9632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215575664213913600/xEwwYtDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215575664213913600/xEwwYtDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/430534457/1621251480",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 724,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "덴마크의 물리학자 Lene Hau가 광속을 마음껏\n'낮추어' '조정(manipulation)'하는 데 성공했다는 기사입니다. 빛은 더 이상 상수가 아닙니다.\nrt. Danish Physicist Lene Hau was Able to Slow Down the Speed of Light to 38 mph and was Eventually Able to Manipulate it https://t.co/QFB0d07U6j"
+	},
+	{
 		"created_at": "Wed Aug 17 15:40:26 +0000 2022",
 		"id": 1559918067571757000,
 		"id_str": "1559928143925985282",
