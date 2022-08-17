@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 03:40:24 +0000 2022",
+		"id": 1559738570025635800,
+		"id_str": "1559746942908907521",
+		"full_text": "#BLACKPINK ‘Pink Venom’ [Light Up The Pink] Campaign 2022\n\n►SCHEDULE\n-SEOUL 8/18-8/19 8PM(KST)\n-TOKYO 8/19 8PM(JST)\n-SHANGHAI 8/19-8/21 7PM(CST)\n-BANGKOK 8/19-8/21 6PM(ICT)\n-NEW YORK 8/18 8PM(EST)\n-LA 8/18 8PM(PDT)\n\n#블랙핑크 #LightUpThePink #PreReleaseSingle #PinkVenom #YG https://t.co/Hr9KqVO4Ks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "LightUpThePink",
+					"indices": [
+						222,
+						237
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						238,
+						255
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						256,
+						266
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						267,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559738532209754000,
+					"id_str": "1559738532209754112",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FaVN7mLaAAAj8yh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaVN7mLaAAAj8yh.jpg",
+					"url": "https://t.co/Hr9KqVO4Ks",
+					"display_url": "pic.twitter.com/Hr9KqVO4Ks",
+					"expanded_url": "https://twitter.com/ygent_official/status/1559738570025635841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559738532209754000,
+					"id_str": "1559738532209754112",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FaVN7mLaAAAj8yh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaVN7mLaAAAj8yh.jpg",
+					"url": "https://t.co/Hr9KqVO4Ks",
+					"display_url": "pic.twitter.com/Hr9KqVO4Ks",
+					"expanded_url": "https://twitter.com/ygent_official/status/1559738570025635841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8842209,
+			"friends_count": 36,
+			"listed_count": 9825,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7687,
+		"favorite_count": 18773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ [Light Up The Pink] Campaign 2022\n\n►SCHEDULE\n-SEOUL 8/18-8/19 8PM(KST)\n-TOKYO 8/19 8PM(JST)\n-SHANGHAI 8/19-8/21 7PM(CST)\n-BANGKOK 8/19-8/21 6PM(ICT)\n-NEW YORK 8/18 8PM(EST)\n-LA 8/18 8PM(PDT)\n\n#블랙핑크 #LightUpThePink #PreReleaseSingle #PinkVenom #YG https://t.co/Hr9KqVO4Ks"
+	},
+	{
+		"created_at": "Wed Aug 17 03:29:39 +0000 2022",
+		"id": 1559737264816922600,
+		"id_str": "1559744236630728707",
+		"full_text": "[권유리]의 유리한 여름\n\n포스트 보러 가기 👉🏻 https://t.co/0wSdxSHaGA\n\n#권유리 #KWONYURI \n#유리 #YURI \n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wSdxSHaGA",
+					"expanded_url": "https://naver.me/FzIMfN6p",
+					"display_url": "naver.me/FzIMfN6p",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3876165,
+			"friends_count": 5,
+			"listed_count": 6139,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 831,
+		"favorite_count": 2007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권유리]의 유리한 여름\n\n포스트 보러 가기 👉🏻 https://t.co/0wSdxSHaGA\n\n#권유리 #KWONYURI \n#유리 #YURI \n#GirlsGeneration #소녀시대"
+	},
+	{
 		"created_at": "Wed Aug 17 02:45:37 +0000 2022",
 		"id": 1559724200650088400,
 		"id_str": "1559733155728433153",
