@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 11:40:27 +0000 2022",
+		"id": 1559866574370050000,
+		"id_str": "1559867752139165697",
+		"full_text": "[TikTok📹]\n달콤한 맛만🍬디저트만 만🍪\n\n🔗https://t.co/ejDRFD7J0v\n\n#NewJeans #뉴진스 #NewJeans_Cookie\n #MINJI #HANNI #DANIELLE #HAERIN #HYEIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "NewJeans_Cookie",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ejDRFD7J0v",
+					"expanded_url": "https://vt.tiktok.com/ZSRB1MPun/",
+					"display_url": "vt.tiktok.com/ZSRB1MPun/",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363569,
+			"friends_count": 2,
+			"listed_count": 1215,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 670,
+		"favorite_count": 1571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok📹]\n달콤한 맛만🍬디저트만 만🍪\n\n🔗https://t.co/ejDRFD7J0v\n\n#NewJeans #뉴진스 #NewJeans_Cookie\n #MINJI #HANNI #DANIELLE #HAERIN #HYEIN"
+	},
+	{
+		"created_at": "Wed Aug 17 11:40:22 +0000 2022",
+		"id": 1559861765365588000,
+		"id_str": "1559867730626502658",
+		"full_text": "해피니스☺️\n밥 꼭 챙겨먹어요 여러분!\n꼭 꼭💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/wZAIV3wnRj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559861708235030500,
+					"id_str": "1559861708235030529",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FaW99YoVQAEnw30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaW99YoVQAEnw30.jpg",
+					"url": "https://t.co/wZAIV3wnRj",
+					"display_url": "pic.twitter.com/wZAIV3wnRj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1559861765365587968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559861708235030500,
+					"id_str": "1559861708235030529",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FaW99YoVQAEnw30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaW99YoVQAEnw30.jpg",
+					"url": "https://t.co/wZAIV3wnRj",
+					"display_url": "pic.twitter.com/wZAIV3wnRj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1559861765365587968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559861737700020200,
+					"id_str": "1559861737700020224",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FaW9_GZVUAAZV1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaW9_GZVUAAZV1K.jpg",
+					"url": "https://t.co/wZAIV3wnRj",
+					"display_url": "pic.twitter.com/wZAIV3wnRj",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1559861765365587968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5568476,
+			"friends_count": 2,
+			"listed_count": 11225,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2237,
+		"favorite_count": 7379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해피니스☺️\n밥 꼭 챙겨먹어요 여러분!\n꼭 꼭💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/wZAIV3wnRj"
+	},
+	{
+		"created_at": "Wed Aug 17 11:40:15 +0000 2022",
+		"id": 1559857578993037300,
+		"id_str": "1559867700775731200",
+		"full_text": "[Jeans’ ZINE📹]\nNewJeans Cafe | 1분 숏클립 \n뉴진스 멤버들의 카페 운영기 한입 마셔보기☕\n\n🔗https://t.co/1RoCKbjR3M\n\n#NewJeans #뉴진스 #NewJeans_Cafe\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "NewJeans_Cafe",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1RoCKbjR3M",
+					"expanded_url": "https://youtu.be/cAcN5zdNeUw",
+					"display_url": "youtu.be/cAcN5zdNeUw",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363569,
+			"friends_count": 2,
+			"listed_count": 1215,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 994,
+		"favorite_count": 2240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Jeans’ ZINE📹]\nNewJeans Cafe | 1분 숏클립 \n뉴진스 멤버들의 카페 운영기 한입 마셔보기☕\n\n🔗https://t.co/1RoCKbjR3M\n\n#NewJeans #뉴진스 #NewJeans_Cafe\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
 		"created_at": "Wed Aug 17 10:40:31 +0000 2022",
 		"id": 1559850166101848000,
 		"id_str": "1559852666901209099",
