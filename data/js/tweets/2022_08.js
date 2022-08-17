@@ -1,6 +1,1512 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 09:40:30 +0000 2022",
+		"id": 1559834001979740200,
+		"id_str": "1559837565490020352",
+		"full_text": "루미너스 ‘LUMINOUS in WONDERLAND’ Released!!\n❣️ https://t.co/KN4qedAHwy https://t.co/fIlfyzPURg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KN4qedAHwy",
+					"expanded_url": "https://www.instagram.com/p/ChWwAuOFfbQ/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/ChWwAuOFfbQ/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559833996619436000,
+					"id_str": "1559833996619436033",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWkwW0UUAEAfnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWkwW0UUAEAfnd.jpg",
+					"url": "https://t.co/fIlfyzPURg",
+					"display_url": "pic.twitter.com/fIlfyzPURg",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559834001979740160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559833996619436000,
+					"id_str": "1559833996619436033",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWkwW0UUAEAfnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWkwW0UUAEAfnd.jpg",
+					"url": "https://t.co/fIlfyzPURg",
+					"display_url": "pic.twitter.com/fIlfyzPURg",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559834001979740160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7410,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "루미너스 ‘LUMINOUS in WONDERLAND’ Released!!\n❣️ https://t.co/KN4qedAHwy https://t.co/fIlfyzPURg"
+	},
+	{
+		"created_at": "Wed Aug 17 09:40:21 +0000 2022",
+		"id": 1559831147315609600,
+		"id_str": "1559837527179141122",
+		"full_text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. \n2022.08.17 18:15 (KST)\n\nRegistration for entry for today is closed. \n2022.08.17 18:15  (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						217,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362935,
+			"friends_count": 2,
+			"listed_count": 1216,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 1092,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. \n2022.08.17 18:15 (KST)\n\nRegistration for entry for today is closed. \n2022.08.17 18:15  (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul"
+	},
+	{
+		"created_at": "Wed Aug 17 09:40:18 +0000 2022",
+		"id": 1559829768069070800,
+		"id_str": "1559837514067845120",
+		"full_text": "✨Humankind Official Video\n\n⏰ 2pm BST / 3pm CET / 9am ET \n\n📺 https://t.co/1u7v8MWCSP https://t.co/irjwXRjw1Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1u7v8MWCSP",
+					"expanded_url": "https://youtu.be/l6_nRqIz_9o",
+					"display_url": "youtu.be/l6_nRqIz_9o",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559829763631550500,
+					"id_str": "1559829763631550465",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWg59tXEAEbwyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWg59tXEAEbwyw.jpg",
+					"url": "https://t.co/irjwXRjw1Q",
+					"display_url": "pic.twitter.com/irjwXRjw1Q",
+					"expanded_url": "https://twitter.com/coldplay/status/1559829768069070849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559829763631550500,
+					"id_str": "1559829763631550465",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWg59tXEAEbwyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWg59tXEAEbwyw.jpg",
+					"url": "https://t.co/irjwXRjw1Q",
+					"display_url": "pic.twitter.com/irjwXRjw1Q",
+					"expanded_url": "https://twitter.com/coldplay/status/1559829768069070849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23603808,
+			"friends_count": 780,
+			"listed_count": 42443,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 217,
+		"favorite_count": 1164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨Humankind Official Video\n\n⏰ 2pm BST / 3pm CET / 9am ET \n\n📺 https://t.co/1u7v8MWCSP https://t.co/irjwXRjw1Q"
+	},
+	{
+		"created_at": "Wed Aug 17 09:40:10 +0000 2022",
+		"id": 1559825389156847600,
+		"id_str": "1559837480014200832",
+		"full_text": "AB6IX(에이비식스) ‘SAVIOR’ Released!!\n💚 https://t.co/dzqcCSfvlf https://t.co/3RQcUJZCRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dzqcCSfvlf",
+					"expanded_url": "https://www.instagram.com/p/ChWsCEnu8a8/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/ChWsCEnu8a8/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559825384190857200,
+					"id_str": "1559825384190857216",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWc7DBVUAAYbsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWc7DBVUAAYbsS.jpg",
+					"url": "https://t.co/3RQcUJZCRQ",
+					"display_url": "pic.twitter.com/3RQcUJZCRQ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559825389156847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559825384190857200,
+					"id_str": "1559825384190857216",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWc7DBVUAAYbsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWc7DBVUAAYbsS.jpg",
+					"url": "https://t.co/3RQcUJZCRQ",
+					"display_url": "pic.twitter.com/3RQcUJZCRQ",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1559825389156847616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7410,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AB6IX(에이비식스) ‘SAVIOR’ Released!!\n💚 https://t.co/dzqcCSfvlf https://t.co/3RQcUJZCRQ"
+	},
+	{
+		"created_at": "Wed Aug 17 09:29:49 +0000 2022",
+		"id": 1559827900320268300,
+		"id_str": "1559834877004025856",
+		"full_text": "MIU MIU X YOONA #협찬\n\n데뷔 15주년 기념 소녀시대 완전체 컴백과 동시에 다양한 모습을 보여주고 있는 윤아가 미우미우와 함께 &lt;데이즈드&gt; 9월호 커버를 장식하였습니다. 촬영 현장에서 윤아가 보내온 인사 영상을 가장 먼저 만나보세요.\n\n#MiuMiu #미우미우 #Yoona #윤아 https://t.co/0a4KZi2pFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "MiuMiu",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "미우미우",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "Yoona",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						166,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559827840065216500,
+					"id_str": "1559827840065216512",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559827840065216512/pu/img/553g9yXDRhj0BNHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559827840065216512/pu/img/553g9yXDRhj0BNHV.jpg",
+					"url": "https://t.co/0a4KZi2pFa",
+					"display_url": "pic.twitter.com/0a4KZi2pFa",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1559827900320268289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559827840065216500,
+					"id_str": "1559827840065216512",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559827840065216512/pu/img/553g9yXDRhj0BNHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559827840065216512/pu/img/553g9yXDRhj0BNHV.jpg",
+					"url": "https://t.co/0a4KZi2pFa",
+					"display_url": "pic.twitter.com/0a4KZi2pFa",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1559827900320268289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 16725,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559827840065216512/pu/vid/720x900/q9lLGZCDWVpyy61Y.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559827840065216512/pu/pl/iv3tSg5017UhOZt6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559827840065216512/pu/vid/480x600/bD84eBQPZj9jWdIc.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559827840065216512/pu/vid/320x400/nyTcDgWd48prhBXL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 166716,
+			"friends_count": 0,
+			"listed_count": 335,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1660646574",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MIU MIU X YOONA #협찬\n\n데뷔 15주년 기념 소녀시대 완전체 컴백과 동시에 다양한 모습을 보여주고 있는 윤아가 미우미우와 함께 &lt;데이즈드&gt; 9월호 커버를 장식하였습니다. 촬영 현장에서 윤아가 보내온 인사 영상을 가장 먼저 만나보세요.\n\n#MiuMiu #미우미우 #Yoona #윤아 https://t.co/0a4KZi2pFa"
+	},
+	{
+		"created_at": "Wed Aug 17 09:29:43 +0000 2022",
+		"id": 1559827464054251500,
+		"id_str": "1559834851313860609",
+		"full_text": "ScreaM TOGETHER!\n\n8/19 SHOWME S2 #01 DJ는 IMLAY(임레이)와 SUNGYOO(성유)입니다.\nScreaM Records 소속 프로듀서 겸 DJ IMLAY는 최근 컨셉 싱글 ‘Heart’s On Fire (Feat. Alex Karlsson)’를 발매하였으며 NCT DREAM - Beatbox, 소녀시대 - Seventeen에 참여하는 등 다양한 음악 활동을 하고 있습니다 https://t.co/svSWwgIrfj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559823190968668200,
+					"id_str": "1559823190968668160",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559823190968668200,
+					"id_str": "1559823190968668160",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823196815511600,
+					"id_str": "1559823196815511553",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7uaaUAE8275.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7uaaUAE8275.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823207104139300,
+					"id_str": "1559823207104139264",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa8UvaUAANjUq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa8UvaUAANjUq.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823216528736300,
+					"id_str": "1559823216528736256",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa832aQAANUH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa832aQAANUH8.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247789684672974800,
+			"id_str": "1247789684672974851",
+			"name": "Beyond_LIVE",
+			"screen_name": "Beyond_LIVE",
+			"location": "",
+			"description": "\"A new era of live concert begins\"",
+			"url": "https://t.co/oa8CdfHBJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa8CdfHBJH",
+							"expanded_url": "https://beyondlive.com",
+							"display_url": "beyondlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49749,
+			"friends_count": 18,
+			"listed_count": 80,
+			"created_at": "Wed Apr 08 07:33:56 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247789684672974851/1587525142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER!\n\n8/19 SHOWME S2 #01 DJ는 IMLAY(임레이)와 SUNGYOO(성유)입니다.\nScreaM Records 소속 프로듀서 겸 DJ IMLAY는 최근 컨셉 싱글 ‘Heart’s On Fire (Feat. Alex Karlsson)’를 발매하였으며 NCT DREAM - Beatbox, 소녀시대 - Seventeen에 참여하는 등 다양한 음악 활동을 하고 있습니다 https://t.co/svSWwgIrfj"
+	},
+	{
+		"created_at": "Wed Aug 17 09:29:41 +0000 2022",
+		"id": 1559827375273103400,
+		"id_str": "1559834842409336832",
+		"full_text": "올 추석, 웃음 X 액션 X 케미 제대로 터진다🔥\n더 인터내셔날-해진 삼각 공조😎 9월 7일 극장에서 #공조 하라!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월7일대개봉 https://t.co/Y8DvnfaDgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559744318453485600,
+					"id_str": "1559744318453485570",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559744318453485570/pu/img/jIB-q6ue-dxSv8ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559744318453485570/pu/img/jIB-q6ue-dxSv8ok.jpg",
+					"url": "https://t.co/Y8DvnfaDgb",
+					"display_url": "pic.twitter.com/Y8DvnfaDgb",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1559827375273103361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559744318453485600,
+					"id_str": "1559744318453485570",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559744318453485570/pu/img/jIB-q6ue-dxSv8ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559744318453485570/pu/img/jIB-q6ue-dxSv8ok.jpg",
+					"url": "https://t.co/Y8DvnfaDgb",
+					"display_url": "pic.twitter.com/Y8DvnfaDgb",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1559827375273103361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23481,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559744318453485570/pu/vid/320x320/YENS1G4i1n2wZDb9.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559744318453485570/pu/vid/720x720/7zggCiHc7LjjJMx2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559744318453485570/pu/pl/0Z_Kca6rlphclUPy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559744318453485570/pu/vid/540x540/GOakqpR_rcLX4UcM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331654,
+			"friends_count": 10663,
+			"listed_count": 257,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올 추석, 웃음 X 액션 X 케미 제대로 터진다🔥\n더 인터내셔날-해진 삼각 공조😎 9월 7일 극장에서 #공조 하라!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #9월7일대개봉 https://t.co/Y8DvnfaDgb"
+	},
+	{
 		"created_at": "Wed Aug 17 08:40:21 +0000 2022",
 		"id": 1559820691238555600,
 		"id_str": "1559822428083208192",
