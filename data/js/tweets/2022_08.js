@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 23:45:49 +0000 2022",
+		"id": 1560046316461461500,
+		"id_str": "1560050296788746240",
+		"full_text": "[KCON 2022 LA]\n\nThe fun doesn't stop on Sunday, 8/21. The @Toyota  booth at KCON 2022 LA is lucky to have LOONA &amp; LALARY visiting ! Mark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/oGvjoKOcZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						219,
+						230
+					]
+				},
+				{
+					"text": "LetsGoPlaces",
+					"indices": [
+						231,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Toyota",
+					"name": "Toyota USA",
+					"id": 14219877,
+					"id_str": "14219877",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559976453248131000,
+					"id_str": "1559976453248131074",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYmUbHUIAIPdm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYmUbHUIAIPdm9.jpg",
+					"url": "https://t.co/oGvjoKOcZ1",
+					"display_url": "pic.twitter.com/oGvjoKOcZ1",
+					"expanded_url": "https://twitter.com/kconusa/status/1560046316461461504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559976453248131000,
+					"id_str": "1559976453248131074",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYmUbHUIAIPdm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYmUbHUIAIPdm9.jpg",
+					"url": "https://t.co/oGvjoKOcZ1",
+					"display_url": "pic.twitter.com/oGvjoKOcZ1",
+					"expanded_url": "https://twitter.com/kconusa/status/1560046316461461504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559976453252341800,
+					"id_str": "1559976453252341760",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYmUbIUYAAWiaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYmUbIUYAAWiaT.jpg",
+					"url": "https://t.co/oGvjoKOcZ1",
+					"display_url": "pic.twitter.com/oGvjoKOcZ1",
+					"expanded_url": "https://twitter.com/kconusa/status/1560046316461461504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/FLWmbXsnw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FLWmbXsnw0",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226475,
+			"friends_count": 7,
+			"listed_count": 473,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 3049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537845271031205888/TQ5o6UCj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1655163038",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA]\n\nThe fun doesn't stop on Sunday, 8/21. The @Toyota  booth at KCON 2022 LA is lucky to have LOONA &amp; LALARY visiting ! Mark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/oGvjoKOcZ1"
+	},
+	{
+		"created_at": "Wed Aug 17 23:45:45 +0000 2022",
+		"id": 1560046316285300700,
+		"id_str": "1560050279487356934",
+		"full_text": "[KCON 2022 LA]\nThe fun doesn't stop on Sunday, 8/21.\nThe @Toyota booth at KCON 2022 LA us lucky to have LOONA &amp; LALARY visiting !\nMark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g0i3NkNs0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						217,
+						228
+					]
+				},
+				{
+					"text": "LetsGoPlaces",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Toyota",
+					"name": "Toyota USA",
+					"id": 14219877,
+					"id_str": "14219877",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559874759500124200,
+					"id_str": "1559874759500124160",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559874759500124200,
+					"id_str": "1559874759500124160",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EYaUAAAlyv.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559874759592407000,
+					"id_str": "1559874759592407040",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FaXJ1EuacAADGrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaXJ1EuacAADGrd.jpg",
+					"url": "https://t.co/g0i3NkNs0z",
+					"display_url": "pic.twitter.com/g0i3NkNs0z",
+					"expanded_url": "https://twitter.com/KCON_official/status/1560046316285300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON OFFICIAL TWITTER\n📍 KCON 2022 LA 8/19 ~ 8/21(PDT)\n📍 KCON 2022 JAPAN 10/14 ~ 10/16(JST)",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450953,
+			"friends_count": 76,
+			"listed_count": 1117,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537723180315316224/3hS4BbEJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1655163084",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA]\nThe fun doesn't stop on Sunday, 8/21.\nThe @Toyota booth at KCON 2022 LA us lucky to have LOONA &amp; LALARY visiting !\nMark your calendars and stop by to say hello!\n \nLet's KCON\n2022.8.19-21 PDT\n\n#KCON #KCON2022LA #LetsGoPlaces https://t.co/g0i3NkNs0z"
+	},
+	{
+		"created_at": "Wed Aug 17 23:45:37 +0000 2022",
+		"id": 1560038935287431200,
+		"id_str": "1560050245274419200",
+		"full_text": "&lt;IMPORTANT NOTICE📢&gt; Regarding 2022 LOONA 1st World Tour : [LOONATHEWORLD] in Washington DC.\n\n#Orbit, please read the full announcement on JinSoul’s participation in the concert and Meet &amp; Greet event in Washington DC.\n\nThank you for your understanding. https://t.co/HAVQDWgUey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560038038511800300,
+					"id_str": "1560038038511800320",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FaZeVKGX0AAvuHD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaZeVKGX0AAvuHD.png",
+					"url": "https://t.co/HAVQDWgUey",
+					"display_url": "pic.twitter.com/HAVQDWgUey",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1560038935287431168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 967,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560038038511800300,
+					"id_str": "1560038038511800320",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FaZeVKGX0AAvuHD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FaZeVKGX0AAvuHD.png",
+					"url": "https://t.co/HAVQDWgUey",
+					"display_url": "pic.twitter.com/HAVQDWgUey",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1560038935287431168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 967,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149506,
+			"friends_count": 104,
+			"listed_count": 319,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 312,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;IMPORTANT NOTICE📢&gt; Regarding 2022 LOONA 1st World Tour : [LOONATHEWORLD] in Washington DC.\n\n#Orbit, please read the full announcement on JinSoul’s participation in the concert and Meet &amp; Greet event in Washington DC.\n\nThank you for your understanding. https://t.co/HAVQDWgUey"
+	},
+	{
 		"created_at": "Wed Aug 17 19:40:10 +0000 2022",
 		"id": 1559985309961425000,
 		"id_str": "1559988475226890240",
