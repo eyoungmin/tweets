@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 15:40:14 +0000 2022",
+		"id": 1560280404082339800,
+		"id_str": "1560290481413709824",
+		"full_text": "#BLACKPINK ‘Pink Venom’ D-DAY Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #PreReleaseSingle #PinkVenom #D_DAY #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/jWnTkh7fnr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						116,
+						133
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "D_DAY",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						152,
+						169
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						170,
+						186
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560278703485042700,
+					"id_str": "1560278703485042688",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Fac5Ns_VQAAeB3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fac5Ns_VQAAeB3x.jpg",
+					"url": "https://t.co/jWnTkh7fnr",
+					"display_url": "pic.twitter.com/jWnTkh7fnr",
+					"expanded_url": "https://twitter.com/ygent_official/status/1560280404082339841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560278703485042700,
+					"id_str": "1560278703485042688",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Fac5Ns_VQAAeB3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fac5Ns_VQAAeB3x.jpg",
+					"url": "https://t.co/jWnTkh7fnr",
+					"display_url": "pic.twitter.com/jWnTkh7fnr",
+					"expanded_url": "https://twitter.com/ygent_official/status/1560280404082339841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8847590,
+			"friends_count": 36,
+			"listed_count": 9825,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32665,
+		"favorite_count": 66877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ D-DAY Poster\n\nPre-Release Single ‘Pink Venom’\n✅2022.08.19 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #PreReleaseSingle #PinkVenom #D_DAY #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/jWnTkh7fnr"
+	},
+	{
+		"created_at": "Thu Aug 18 15:40:10 +0000 2022",
+		"id": 1560280372654395400,
+		"id_str": "1560290464032604165",
+		"full_text": "LOOΠΔ 4th ANNIVERSARY\n\n이달의 소녀의 존재의 이유는 바로 오빛💫\n4년이란 시간 동안 이달의 소녀의 빛이 되어준 오빛 덕분에 지금의 #이달의소녀 가 존재해요💕\n\n#LOONA\n#LOONA_LOVE_4th_EVA\n#Happy_LOONA_Day https://t.co/jJOqHb5cDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "LOONA_LOVE_4th_EVA",
+					"indices": [
+						106,
+						125
+					]
+				},
+				{
+					"text": "Happy_LOONA_Day",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560267487249174500,
+					"id_str": "1560267487249174528",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FacvA1QUEAA8Hnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FacvA1QUEAA8Hnn.jpg",
+					"url": "https://t.co/jJOqHb5cDR",
+					"display_url": "pic.twitter.com/jJOqHb5cDR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1560280372654395393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560267487249174500,
+					"id_str": "1560267487249174528",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FacvA1QUEAA8Hnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FacvA1QUEAA8Hnn.jpg",
+					"url": "https://t.co/jJOqHb5cDR",
+					"display_url": "pic.twitter.com/jJOqHb5cDR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1560280372654395393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 973026,
+			"friends_count": 3,
+			"listed_count": 8939,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8636,
+		"favorite_count": 17783,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LOOΠΔ 4th ANNIVERSARY\n\n이달의 소녀의 존재의 이유는 바로 오빛💫\n4년이란 시간 동안 이달의 소녀의 빛이 되어준 오빛 덕분에 지금의 #이달의소녀 가 존재해요💕\n\n#LOONA\n#LOONA_LOVE_4th_EVA\n#Happy_LOONA_Day https://t.co/jJOqHb5cDR"
+	},
+	{
 		"created_at": "Thu Aug 18 15:02:55 +0000 2022",
 		"id": 1560279545890017300,
 		"id_str": "1560281091000262661",
