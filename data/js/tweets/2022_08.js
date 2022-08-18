@@ -1,6 +1,975 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 01:45:39 +0000 2022",
+		"id": 1560077234031173600,
+		"id_str": "1560080453008252928",
+		"full_text": "💿] #아이돌차트 \n\n지금은 걸그룹 전성시대!\nGIRLS ON TOP 이벤트 진행중🎉\n친필 싸인 CD 받으러 오세요!\n\nLINK👇👇👇\nhttps://t.co/U0l3QPg2d4\n\n#VIVIZ #스테이씨 #GIDLE #여자아이들 #이달의소녀 #버가부 #라필루스 https://t.co/zkmgnFFmdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "버가부",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "라필루스",
+					"indices": [
+						139,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0l3QPg2d4",
+					"expanded_url": "https://idol-chart.com/event",
+					"display_url": "idol-chart.com/event",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560076330112536600,
+					"id_str": "1560076330112536576",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FaaBKBbaUAA1guV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaaBKBbaUAA1guV.jpg",
+					"url": "https://t.co/zkmgnFFmdV",
+					"display_url": "pic.twitter.com/zkmgnFFmdV",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1560077234031173632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560076330112536600,
+					"id_str": "1560076330112536576",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FaaBKBbaUAA1guV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaaBKBbaUAA1guV.jpg",
+					"url": "https://t.co/zkmgnFFmdV",
+					"display_url": "pic.twitter.com/zkmgnFFmdV",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1560077234031173632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1740,
+			"friends_count": 78,
+			"listed_count": 12,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿] #아이돌차트 \n\n지금은 걸그룹 전성시대!\nGIRLS ON TOP 이벤트 진행중🎉\n친필 싸인 CD 받으러 오세요!\n\nLINK👇👇👇\nhttps://t.co/U0l3QPg2d4\n\n#VIVIZ #스테이씨 #GIDLE #여자아이들 #이달의소녀 #버가부 #라필루스 https://t.co/zkmgnFFmdV"
+	},
+	{
+		"created_at": "Thu Aug 18 01:29:42 +0000 2022",
+		"id": 1560075506753491000,
+		"id_str": "1560076440242200576",
+		"full_text": "[#VIDEO] 【형친소】 ep02 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯 이건 봐야지..💕 + 🎁이벤트🎁\n▶ https://t.co/rEG0iVjt2V\n\n#서현 #아는형님 #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEG0iVjt2V",
+					"expanded_url": "https://youtu.be/-2O2LRuJmdA",
+					"display_url": "youtu.be/-2O2LRuJmdA",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64507,
+			"friends_count": 12,
+			"listed_count": 280,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] 【형친소】 ep02 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯 이건 봐야지..💕 + 🎁이벤트🎁\n▶ https://t.co/rEG0iVjt2V\n\n#서현 #아는형님 #SEOHYUN"
+	},
+	{
+		"created_at": "Thu Aug 18 01:29:39 +0000 2022",
+		"id": 1560063877156446200,
+		"id_str": "1560076427151769603",
+		"full_text": "[4회 예고]\n누가 보면 진짜 아들인 줄 알겠다고!!\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 (KBS20220818방송)\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/jp4WsH5Eag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560063735695175700,
+					"id_str": "1560063735695175680",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560063735695175680/pu/img/iGzktRHlNpHew1c_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560063735695175680/pu/img/iGzktRHlNpHew1c_.jpg",
+					"url": "https://t.co/jp4WsH5Eag",
+					"display_url": "pic.twitter.com/jp4WsH5Eag",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1560063877156446208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560063735695175700,
+					"id_str": "1560063735695175680",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560063735695175680/pu/img/iGzktRHlNpHew1c_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560063735695175680/pu/img/iGzktRHlNpHew1c_.jpg",
+					"url": "https://t.co/jp4WsH5Eag",
+					"display_url": "pic.twitter.com/jp4WsH5Eag",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1560063877156446208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34410,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560063735695175680/pu/pl/ZASDzP1KMxsRj-fi.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560063735695175680/pu/vid/1280x720/gdnpQU2fSUAZlKcY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560063735695175680/pu/vid/640x360/fmvFPidHmL2jfZAO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560063735695175680/pu/vid/480x270/Xwt4kCPTcu2XCDxP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105368,
+			"friends_count": 56690,
+			"listed_count": 2121,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4회 예고]\n누가 보면 진짜 아들인 줄 알겠다고!!\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 (KBS20220818방송)\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/jp4WsH5Eag"
+	},
+	{
+		"created_at": "Thu Aug 18 01:22:41 +0000 2022",
+		"id": 1560068968022360000,
+		"id_str": "1560074672577716226",
+		"full_text": "#제작협찬 #마리끌레르 9월호의 커버 히로인, #블랙핑크 #지수 와 #디올뷰티 가 함께한 화보 컷을 공개합니다. 지수의 아름다운 뷰티 룩은 크리스챤 디올 뷰티의 새로운 꾸뛰르 립스틱 #루즈디올포에버스틱 과 #디올포에버파운데이션 #디올포에버쿠션 으로 완성되었죠. \n@BLACKPINK @Dior https://t.co/aAtWvPWL0p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제작협찬",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "디올뷰티",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "루즈디올포에버스틱",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "디올포에버파운데이션",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "디올포에버쿠션",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559821152989872000,
+					"id_str": "1559821152989872128",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWZEwkaAAAIOTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWZEwkaAAAIOTi.jpg",
+					"url": "https://t.co/aAtWvPWL0p",
+					"display_url": "pic.twitter.com/aAtWvPWL0p",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1560068968022360064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559821152989872000,
+					"id_str": "1559821152989872128",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWZEwkaAAAIOTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWZEwkaAAAIOTi.jpg",
+					"url": "https://t.co/aAtWvPWL0p",
+					"display_url": "pic.twitter.com/aAtWvPWL0p",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1560068968022360064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559821152981516300,
+					"id_str": "1559821152981516288",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWZEwiagAAP4Uu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWZEwiagAAP4Uu.jpg",
+					"url": "https://t.co/aAtWvPWL0p",
+					"display_url": "pic.twitter.com/aAtWvPWL0p",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1560068968022360064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106778,
+			"friends_count": 1,
+			"listed_count": 332,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1660629996",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2118,
+		"favorite_count": 4015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제작협찬 #마리끌레르 9월호의 커버 히로인, #블랙핑크 #지수 와 #디올뷰티 가 함께한 화보 컷을 공개합니다. 지수의 아름다운 뷰티 룩은 크리스챤 디올 뷰티의 새로운 꾸뛰르 립스틱 #루즈디올포에버스틱 과 #디올포에버파운데이션 #디올포에버쿠션 으로 완성되었죠. \n@BLACKPINK @Dior https://t.co/aAtWvPWL0p"
+	},
+	{
 		"created_at": "Wed Aug 17 23:45:49 +0000 2022",
 		"id": 1560046316461461500,
 		"id_str": "1560050296788746240",
