@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 11:40:32 +0000 2022",
+		"id": 1560227511077830700,
+		"id_str": "1560230161756426241",
+		"full_text": "[TIkTok📹]\n팝업 스토어에서 마주친 ATTENTIon😎 \n\n🔗 https://t.co/tkdLhyKsmc\n\n #NewJeans #NewJeans_Attention #HAERIN #DANIELLE #MINJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						74,
+						93
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkdLhyKsmc",
+					"expanded_url": "https://vt.tiktok.com/ZSRBDDxWc/",
+					"display_url": "vt.tiktok.com/ZSRBDDxWc/",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369604,
+			"friends_count": 2,
+			"listed_count": 1228,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 553,
+		"favorite_count": 1508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TIkTok📹]\n팝업 스토어에서 마주친 ATTENTIon😎 \n\n🔗 https://t.co/tkdLhyKsmc\n\n #NewJeans #NewJeans_Attention #HAERIN #DANIELLE #MINJI"
+	},
+	{
+		"created_at": "Thu Aug 18 11:40:29 +0000 2022",
+		"id": 1560227510599577600,
+		"id_str": "1560230148699463681",
+		"full_text": "[TIkTok📹]\nWhat song are you listening to?🎤\n\n🔗 https://t.co/xObb88Txhr\n\n #NewJeans #NewJeans_HypeBoy #HANNI #HYEIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "NewJeans_HypeBoy",
+					"indices": [
+						82,
+						99
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xObb88Txhr",
+					"expanded_url": "https://vt.tiktok.com/ZSRBApvWB/",
+					"display_url": "vt.tiktok.com/ZSRBApvWB/",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369604,
+			"friends_count": 2,
+			"listed_count": 1228,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 507,
+		"favorite_count": 1450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TIkTok📹]\nWhat song are you listening to?🎤\n\n🔗 https://t.co/xObb88Txhr\n\n #NewJeans #NewJeans_HypeBoy #HANNI #HYEIN"
+	},
+	{
+		"created_at": "Thu Aug 18 11:40:25 +0000 2022",
+		"id": 1560222750530121700,
+		"id_str": "1560230131389571074",
+		"full_text": "기다렸지?! 기다렸지?!\n나도 이 시간만을 기다렸다구요😙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/qMRAzmsmtz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560222716459790300,
+					"id_str": "1560222716459790336",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FacGS1EUsAA92hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FacGS1EUsAA92hq.jpg",
+					"url": "https://t.co/qMRAzmsmtz",
+					"display_url": "pic.twitter.com/qMRAzmsmtz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1560222750530121728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560222716459790300,
+					"id_str": "1560222716459790336",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FacGS1EUsAA92hq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FacGS1EUsAA92hq.jpg",
+					"url": "https://t.co/qMRAzmsmtz",
+					"display_url": "pic.twitter.com/qMRAzmsmtz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1560222750530121728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560222734256263200,
+					"id_str": "1560222734256263169",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FacGT3XVUAE2M4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FacGT3XVUAE2M4y.jpg",
+					"url": "https://t.co/qMRAzmsmtz",
+					"display_url": "pic.twitter.com/qMRAzmsmtz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1560222750530121728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5569797,
+			"friends_count": 2,
+			"listed_count": 11229,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2226,
+		"favorite_count": 7297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기다렸지?! 기다렸지?!\n나도 이 시간만을 기다렸다구요😙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/qMRAzmsmtz"
+	},
+	{
+		"created_at": "Thu Aug 18 11:40:17 +0000 2022",
+		"id": 1560220172769628200,
+		"id_str": "1560230097038319616",
+		"full_text": "#aespa #æspa #에스파 #エスパ #SYNK_aespa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "SYNK_aespa",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1560219961708134400,
+		"in_reply_to_status_id_str": "1560219961708134400",
+		"in_reply_to_user_id": 1518523440814198800,
+		"in_reply_to_user_id_str": "1518523440814198785",
+		"in_reply_to_screen_name": "aespaJPofficial",
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198735,
+			"friends_count": 1,
+			"listed_count": 519,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 1070,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#aespa #æspa #에스파 #エスパ #SYNK_aespa"
+	},
+	{
+		"created_at": "Thu Aug 18 11:40:10 +0000 2022",
+		"id": 1560219971841556500,
+		"id_str": "1560230067225108480",
+		"full_text": "[VIDEO📹] \nNewJeans 'Attention' Dance Practice\n\n🔗https://t.co/aDWFmcSI6D\n\n#NewJeans #뉴진스 #NewJeans_Attention\n#NewJeans_1st_EP  #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						88,
+						107
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aDWFmcSI6D",
+					"expanded_url": "https://youtu.be/1VAn7CX_omg",
+					"display_url": "youtu.be/1VAn7CX_omg",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369604,
+			"friends_count": 2,
+			"listed_count": 1228,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1400,
+		"favorite_count": 2657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VIDEO📹] \nNewJeans 'Attention' Dance Practice\n\n🔗https://t.co/aDWFmcSI6D\n\n#NewJeans #뉴진스 #NewJeans_Attention\n#NewJeans_1st_EP  #WeAreNewJeans"
+	},
+	{
 		"created_at": "Thu Aug 18 10:40:28 +0000 2022",
 		"id": 1560214089976017000,
 		"id_str": "1560215044234919938",
