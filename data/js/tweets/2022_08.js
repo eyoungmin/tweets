@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 10:40:28 +0000 2022",
+		"id": 1560214089976017000,
+		"id_str": "1560215044234919938",
+		"full_text": "♥️ https://t.co/pQVHMUC0Kz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pQVHMUC0Kz",
+					"expanded_url": "https://twitter.com/victoriacanal/status/1559917203817844736",
+					"display_url": "twitter.com/victoriacanal/…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23605569,
+			"friends_count": 780,
+			"listed_count": 42443,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559917203817844700,
+		"quoted_status_id_str": "1559917203817844736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pQVHMUC0Kz",
+			"expanded": "https://twitter.com/victoriacanal/status/1559917203817844736",
+			"display": "twitter.com/victoriacanal/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 17 14:56:57 +0000 2022",
+			"id": 1559917203817844700,
+			"id_str": "1559917203817844736",
+			"full_text": "i literally dissolved and went to songwriter heaven when this happened. i love you chris martin 😭 @coldplay \n\n#coldplay #chrismartin https://t.co/SyPPE96TdD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coldplay",
+						"indices": [
+							110,
+							119
+						]
+					},
+					{
+						"text": "chrismartin",
+						"indices": [
+							120,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1559917150373941200,
+						"id_str": "1559917150373941248",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559917150373941248/pu/img/wW757l2J6LUNULFs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559917150373941248/pu/img/wW757l2J6LUNULFs.jpg",
+						"url": "https://t.co/SyPPE96TdD",
+						"display_url": "pic.twitter.com/SyPPE96TdD",
+						"expanded_url": "https://twitter.com/victoriacanal/status/1559917203817844736/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1559917150373941200,
+						"id_str": "1559917150373941248",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559917150373941248/pu/img/wW757l2J6LUNULFs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559917150373941248/pu/img/wW757l2J6LUNULFs.jpg",
+						"url": "https://t.co/SyPPE96TdD",
+						"display_url": "pic.twitter.com/SyPPE96TdD",
+						"expanded_url": "https://twitter.com/victoriacanal/status/1559917203817844736/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 28500,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1559917150373941248/pu/vid/320x568/n9Ie4BBx0FCGA2s1.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1559917150373941248/pu/pl/WVi1Kpf0aDQS52B_.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1559917150373941248/pu/vid/480x852/mbJi-rbIjR3bQvb8.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1559917150373941248/pu/vid/720x1280/J6weO5sREntYIZFA.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299731907,
+				"id_str": "299731907",
+				"name": "victoria canal",
+				"screen_name": "victoriacanal",
+				"location": "London, UK",
+				"description": "‘swan song’ out now / on tour this fall",
+				"url": "https://t.co/bqMtR4idWr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bqMtR4idWr",
+								"expanded_url": "https://linktr.ee/victoriacanal",
+								"display_url": "linktr.ee/victoriacanal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7955,
+				"friends_count": 6134,
+				"listed_count": 94,
+				"created_at": "Mon May 16 16:01:21 +0000 2011",
+				"favourites_count": 10085,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1526201541190897666/YF_o43jy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1526201541190897666/YF_o43jy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299731907/1656692865",
+				"profile_link_color": "F58EB3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 636,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 91,
+		"favorite_count": 976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "art",
+		"text": "♥️ https://t.co/pQVHMUC0Kz"
+	},
+	{
+		"created_at": "Thu Aug 18 10:40:25 +0000 2022",
+		"id": 1560213667496358000,
+		"id_str": "1560215031140294656",
+		"full_text": "[NewJeans Commentary👀]\n\n안녕하세요!! 여러분~! 뉴진스입니다! 저희가 여러분의 많은 사랑과 관심 덕분에 ‘Attention‘으로 엠카운트다운에서 첫 1위를 했습니다!! 🎉🎉 좋은 상 주신만큼 감사한 마음으로 늘 열심히 하는 모습 보여드릴테니까 뉴진스와 저희 노래 많이 사랑해주세요💝\n\n#NewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						170,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369165,
+			"friends_count": 2,
+			"listed_count": 1229,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2188,
+		"favorite_count": 4079,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[NewJeans Commentary👀]\n\n안녕하세요!! 여러분~! 뉴진스입니다! 저희가 여러분의 많은 사랑과 관심 덕분에 ‘Attention‘으로 엠카운트다운에서 첫 1위를 했습니다!! 🎉🎉 좋은 상 주신만큼 감사한 마음으로 늘 열심히 하는 모습 보여드릴테니까 뉴진스와 저희 노래 많이 사랑해주세요💝\n\n#NewJeans"
+	},
+	{
+		"created_at": "Thu Aug 18 10:40:16 +0000 2022",
+		"id": 1560205362707447800,
+		"id_str": "1560214992909115393",
+		"full_text": "[📢]\n\n「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\n🔗https://t.co/2UKdqf5ReZ\n\n#aespa \n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						171,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2UKdqf5ReZ",
+					"expanded_url": "https://aespa-official.jp/news/smtown2022md-pickup/",
+					"display_url": "aespa-official.jp/news/smtown202…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198696,
+			"friends_count": 1,
+			"listed_count": 516,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 1961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\n🔗https://t.co/2UKdqf5ReZ\n\n#aespa \n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO"
+	},
+	{
+		"created_at": "Thu Aug 18 10:40:13 +0000 2022",
+		"id": 1560205179878002700,
+		"id_str": "1560214979781042178",
+		"full_text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\nhttps://t.co/BxOu45ieYg\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						175,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BxOu45ieYg",
+					"expanded_url": "https://girls-generation.jp/news/3988",
+					"display_url": "girls-generation.jp/news/3988",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120350,
+			"friends_count": 0,
+			"listed_count": 531,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\nhttps://t.co/BxOu45ieYg\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO"
+	},
+	{
+		"created_at": "Thu Aug 18 10:29:39 +0000 2022",
+		"id": 1560201952763383800,
+		"id_str": "1560212320344760323",
+		"full_text": "(ENG) 2️⃣어머 얘 좀 봐라 얘? 드디어 재재 수영이랑 I Got A Boy 궁금해 죽겠네 같이 함ㅋㅋㅋㅋ 소녀시대 노래 여기서 탈탈 털렸쥬? / [문명특급 EP.260]\n\nhttps://t.co/ofmLmRzSYp\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#문명특급 #MMTG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "문명특급",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "MMTG",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofmLmRzSYp",
+					"expanded_url": "https://youtu.be/MtVjGhr3tHY",
+					"display_url": "youtu.be/MtVjGhr3tHY",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877004,
+			"friends_count": 5,
+			"listed_count": 6137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1824,
+		"favorite_count": 3025,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 2️⃣어머 얘 좀 봐라 얘? 드디어 재재 수영이랑 I Got A Boy 궁금해 죽겠네 같이 함ㅋㅋㅋㅋ 소녀시대 노래 여기서 탈탈 털렸쥬? / [문명특급 EP.260]\n\nhttps://t.co/ofmLmRzSYp\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#문명특급 #MMTG"
+	},
+	{
 		"created_at": "Thu Aug 18 09:45:37 +0000 2022",
 		"id": 1560195854795174000,
 		"id_str": "1560201239136182273",
