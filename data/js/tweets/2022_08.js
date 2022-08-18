@@ -1,6 +1,868 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 09:45:37 +0000 2022",
+		"id": 1560195854795174000,
+		"id_str": "1560201239136182273",
+		"full_text": "[KCON 2022 LA Mwave Signed MD Package COMING SOON]\n\nCheck the details of Signed MD Package by looking at Mwave OFFICIAL WEBSITE!\n\nhttps://t.co/y7RLf9QZLz\n\n▶ 8/19 10:00AM ~ 8/29 11:59PM (KST)\n\n#CRAVITY #LIGHTSUM\n#LOONA #THEBOYZ \n\n#KCON #KCON2022LA https://t.co/1sLDNKt3Hf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CRAVITY",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "LIGHTSUM",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						235,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y7RLf9QZLz",
+					"expanded_url": "http://bit.ly/SMD_KCON2022LA",
+					"display_url": "bit.ly/SMD_KCON2022LA",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560195845374754800,
+					"id_str": "1560195845374754816",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/Fabt2ueaQAAVeTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fabt2ueaQAAVeTA.jpg",
+					"url": "https://t.co/1sLDNKt3Hf",
+					"display_url": "pic.twitter.com/1sLDNKt3Hf",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1560195854795173888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560195845374754800,
+					"id_str": "1560195845374754816",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/Fabt2ueaQAAVeTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fabt2ueaQAAVeTA.jpg",
+					"url": "https://t.co/1sLDNKt3Hf",
+					"display_url": "pic.twitter.com/1sLDNKt3Hf",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1560195854795173888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1926923,
+			"friends_count": 331,
+			"listed_count": 1992,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA Mwave Signed MD Package COMING SOON]\n\nCheck the details of Signed MD Package by looking at Mwave OFFICIAL WEBSITE!\n\nhttps://t.co/y7RLf9QZLz\n\n▶ 8/19 10:00AM ~ 8/29 11:59PM (KST)\n\n#CRAVITY #LIGHTSUM\n#LOONA #THEBOYZ \n\n#KCON #KCON2022LA https://t.co/1sLDNKt3Hf"
+	},
+	{
+		"created_at": "Thu Aug 18 09:40:24 +0000 2022",
+		"id": 1560191698898399200,
+		"id_str": "1560199929179652096",
+		"full_text": "NewJeans 'Hype Boy' Official MV (Performance ver.1)\n\n🔗https://t.co/TaOA3ii7Nn\n\n#NewJeans #뉴진스 #NewJeans_HypeBoy\n#NewJeans_1st_EP  #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "NewJeans_HypeBoy",
+					"indices": [
+						94,
+						111
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						130,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TaOA3ii7Nn",
+					"expanded_url": "https://youtu.be/11cta61wi0g",
+					"display_url": "youtu.be/11cta61wi0g",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368796,
+			"friends_count": 2,
+			"listed_count": 1224,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1875,
+		"favorite_count": 3374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NewJeans 'Hype Boy' Official MV (Performance ver.1)\n\n🔗https://t.co/TaOA3ii7Nn\n\n#NewJeans #뉴진스 #NewJeans_HypeBoy\n#NewJeans_1st_EP  #WeAreNewJeans"
+	},
+	{
+		"created_at": "Thu Aug 18 09:40:10 +0000 2022",
+		"id": 1560189881422577700,
+		"id_str": "1560199869301669889",
+		"full_text": "🚨삐뽀삐뽀🚨\n이곳에 신루팡씨가 있다고 해서\n쓱크립트가 찾아갔습니다🚔\n근데 현장에는 과즙미 넘치는\n봄날의 세경씨 밖에 없는데\n어떻게 된 일이죠?🤗\n\n📝 https://t.co/IbJPcaSpME\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/j5MAALVWIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IbJPcaSpME",
+					"expanded_url": "https://youtu.be/L3uy-oEQw-s",
+					"display_url": "youtu.be/L3uy-oEQw-s",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560180886112710700,
+					"id_str": "1560180886112710657",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FabgP-4aMAEOnwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FabgP-4aMAEOnwA.jpg",
+					"url": "https://t.co/j5MAALVWIZ",
+					"display_url": "pic.twitter.com/j5MAALVWIZ",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1560189881422577664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560180886112710700,
+					"id_str": "1560180886112710657",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FabgP-4aMAEOnwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FabgP-4aMAEOnwA.jpg",
+					"url": "https://t.co/j5MAALVWIZ",
+					"display_url": "pic.twitter.com/j5MAALVWIZ",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1560189881422577664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4739,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨삐뽀삐뽀🚨\n이곳에 신루팡씨가 있다고 해서\n쓱크립트가 찾아갔습니다🚔\n근데 현장에는 과즙미 넘치는\n봄날의 세경씨 밖에 없는데\n어떻게 된 일이죠?🤗\n\n📝 https://t.co/IbJPcaSpME\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/j5MAALVWIZ"
+	},
+	{
+		"created_at": "Thu Aug 18 09:29:38 +0000 2022",
+		"id": 1560189766561403000,
+		"id_str": "1560197219814350848",
+		"full_text": "\"그럼 수사 시작합시다🚨\" 새로운 빌런을 잡기 위해 뭉친 삼각 공조!\n#공조2 #삼각공조 속 여러분의 최애는...? C네지기는 셋 다...💓\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #9월7일대개봉 https://t.co/xCZDlkQHeq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "삼각공조",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560168991049777200,
+					"id_str": "1560168991049777153",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560168991049777153/pu/img/PqERcmfbTaMk6Par.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560168991049777153/pu/img/PqERcmfbTaMk6Par.jpg",
+					"url": "https://t.co/xCZDlkQHeq",
+					"display_url": "pic.twitter.com/xCZDlkQHeq",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1560189766561402881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560168991049777200,
+					"id_str": "1560168991049777153",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560168991049777153/pu/img/PqERcmfbTaMk6Par.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560168991049777153/pu/img/PqERcmfbTaMk6Par.jpg",
+					"url": "https://t.co/xCZDlkQHeq",
+					"display_url": "pic.twitter.com/xCZDlkQHeq",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1560189766561402881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48339,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560168991049777153/pu/pl/lj96vsnvlSuVnf6v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560168991049777153/pu/vid/320x320/rcwFWG4dw4dGfdbp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560168991049777153/pu/vid/540x540/noWlqz_qEIGHWXhF.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560168991049777153/pu/vid/720x720/cQmLIWzzoRaoazSX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331617,
+			"friends_count": 10663,
+			"listed_count": 258,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"그럼 수사 시작합시다🚨\" 새로운 빌런을 잡기 위해 뭉친 삼각 공조!\n#공조2 #삼각공조 속 여러분의 최애는...? C네지기는 셋 다...💓\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #9월7일대개봉 https://t.co/xCZDlkQHeq"
+	},
+	{
 		"created_at": "Thu Aug 18 08:40:40 +0000 2022",
 		"id": 1560177700785901600,
 		"id_str": "1560184894315175939",
