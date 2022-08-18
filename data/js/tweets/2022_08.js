@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 03:53:26 +0000 2022",
+		"id": 1560107531569008600,
+		"id_str": "1560112610422300672",
+		"full_text": "‘빅마우스’ 임윤아에게 끌리는 이유! \n통했다, 임윤아의 매력!\n#민폐 없는 여주인공 #연기 스펙트럼 #명불허전 비주얼\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/YLLtvURAYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민폐",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "연기",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "명불허전",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560107520194031600,
+					"id_str": "1560107520194031617",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FaadhhiUsAEDD6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaadhhiUsAEDD6M.jpg",
+					"url": "https://t.co/YLLtvURAYH",
+					"display_url": "pic.twitter.com/YLLtvURAYH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560107531569008641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560107520194031600,
+					"id_str": "1560107520194031617",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FaadhhiUsAEDD6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaadhhiUsAEDD6M.jpg",
+					"url": "https://t.co/YLLtvURAYH",
+					"display_url": "pic.twitter.com/YLLtvURAYH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560107531569008641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560107520202485800,
+					"id_str": "1560107520202485760",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FaadhhkVsAA_PJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaadhhkVsAA_PJN.jpg",
+					"url": "https://t.co/YLLtvURAYH",
+					"display_url": "pic.twitter.com/YLLtvURAYH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560107531569008641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560107520227627000,
+					"id_str": "1560107520227627009",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FaadhhqVUAEQ_aS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaadhhqVUAEQ_aS.jpg",
+					"url": "https://t.co/YLLtvURAYH",
+					"display_url": "pic.twitter.com/YLLtvURAYH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560107531569008641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560107520214982700,
+					"id_str": "1560107520214982656",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FaadhhnUYAAZ8po.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaadhhnUYAAZ8po.jpg",
+					"url": "https://t.co/YLLtvURAYH",
+					"display_url": "pic.twitter.com/YLLtvURAYH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560107531569008641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11089824,
+			"friends_count": 56,
+			"listed_count": 12522,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 565,
+		"favorite_count": 2037,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘빅마우스’ 임윤아에게 끌리는 이유! \n통했다, 임윤아의 매력!\n#민폐 없는 여주인공 #연기 스펙트럼 #명불허전 비주얼\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/YLLtvURAYH"
+	},
+	{
 		"created_at": "Thu Aug 18 01:45:39 +0000 2022",
 		"id": 1560077234031173600,
 		"id_str": "1560080453008252928",
