@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 16:40:24 +0000 2022",
+		"id": 1560304232837722000,
+		"id_str": "1560305624528949249",
+		"full_text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#아이와나의바다 #Mysea\n💜https://t.co/2OzpIoHPl5💜\n\n#잇츠라이브 #itsLive https://t.co/ILNHS4PMmP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "아이와나의바다",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "Mysea",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "itsLive",
+					"indices": [
+						196,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2OzpIoHPl5",
+					"expanded_url": "https://bit.ly/3c1D7eA",
+					"display_url": "bit.ly/3c1D7eA",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560304197261676500,
+					"id_str": "1560304197261676545",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQZotVUAEr0QJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQZotVUAEr0QJ.jpg",
+					"url": "https://t.co/ILNHS4PMmP",
+					"display_url": "pic.twitter.com/ILNHS4PMmP",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560304232837722112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560304197261676500,
+					"id_str": "1560304197261676545",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQZotVUAEr0QJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQZotVUAEr0QJ.jpg",
+					"url": "https://t.co/ILNHS4PMmP",
+					"display_url": "pic.twitter.com/ILNHS4PMmP",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560304232837722112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560303947742527500,
+		"in_reply_to_status_id_str": "1560303947742527489",
+		"in_reply_to_user_id": 762467268227833900,
+		"in_reply_to_user_id_str": "762467268227833857",
+		"in_reply_to_screen_name": "itsLIVEofficial",
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32928,
+			"friends_count": 1,
+			"listed_count": 84,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#아이와나의바다 #Mysea\n💜https://t.co/2OzpIoHPl5💜\n\n#잇츠라이브 #itsLive https://t.co/ILNHS4PMmP"
+	},
+	{
+		"created_at": "Thu Aug 18 16:40:16 +0000 2022",
+		"id": 1560303947742527500,
+		"id_str": "1560305590269796352",
+		"full_text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#BestThing\n💜https://t.co/6NiTbR77Mr💜\n\n#잇츠라이브 #itsLive https://t.co/XvI7DhlEYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "BestThing",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "itsLive",
+					"indices": [
+						191,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6NiTbR77Mr",
+					"expanded_url": "https://bit.ly/3w9mWTt",
+					"display_url": "bit.ly/3w9mWTt",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560303922429890600,
+					"id_str": "1560303922429890560",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQJo4VEAAVZJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQJo4VEAAVZJn.jpg",
+					"url": "https://t.co/XvI7DhlEYU",
+					"display_url": "pic.twitter.com/XvI7DhlEYU",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560303947742527489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560303922429890600,
+					"id_str": "1560303922429890560",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQJo4VEAAVZJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQJo4VEAAVZJn.jpg",
+					"url": "https://t.co/XvI7DhlEYU",
+					"display_url": "pic.twitter.com/XvI7DhlEYU",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560303947742527489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560303687544606700,
+		"in_reply_to_status_id_str": "1560303687544606721",
+		"in_reply_to_user_id": 762467268227833900,
+		"in_reply_to_user_id_str": "762467268227833857",
+		"in_reply_to_screen_name": "itsLIVEofficial",
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32928,
+			"friends_count": 1,
+			"listed_count": 84,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#BestThing\n💜https://t.co/6NiTbR77Mr💜\n\n#잇츠라이브 #itsLive https://t.co/XvI7DhlEYU"
+	},
+	{
 		"created_at": "Thu Aug 18 15:40:14 +0000 2022",
 		"id": 1560280404082339800,
 		"id_str": "1560290481413709824",
