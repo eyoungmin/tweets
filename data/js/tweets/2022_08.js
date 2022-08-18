@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 13:40:22 +0000 2022",
+		"id": 1560253386787807200,
+		"id_str": "1560260318193799169",
+		"full_text": "Show 42 - London, UK\n\n#ColdplayWembley #MusicOfTheSpheresWorldTour #42 https://t.co/Uo5I1ZpOr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayWembley",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"text": "MusicOfTheSpheresWorldTour",
+					"indices": [
+						39,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560253370904068000,
+					"id_str": "1560253370904068096",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FaciLJxXwAAmcVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaciLJxXwAAmcVE.jpg",
+					"url": "https://t.co/Uo5I1ZpOr2",
+					"display_url": "pic.twitter.com/Uo5I1ZpOr2",
+					"expanded_url": "https://twitter.com/coldplay/status/1560253386787807234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1135,
+							"h": 1135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1135,
+							"h": 1135,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560253370904068000,
+					"id_str": "1560253370904068096",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FaciLJxXwAAmcVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaciLJxXwAAmcVE.jpg",
+					"url": "https://t.co/Uo5I1ZpOr2",
+					"display_url": "pic.twitter.com/Uo5I1ZpOr2",
+					"expanded_url": "https://twitter.com/coldplay/status/1560253386787807234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1135,
+							"h": 1135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1135,
+							"h": 1135,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. New album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23605046,
+			"friends_count": 780,
+			"listed_count": 42444,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 3280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Show 42 - London, UK\n\n#ColdplayWembley #MusicOfTheSpheresWorldTour #42 https://t.co/Uo5I1ZpOr2"
+	},
+	{
+		"created_at": "Thu Aug 18 13:40:10 +0000 2022",
+		"id": 1560250162865270800,
+		"id_str": "1560260266436177925",
+		"full_text": "[DALPLY] 꽃길 covered by Haseul💐\n\n존재만으로도 귀한 선물 같은 #하슬 이와🎁 \n손잡고 꽃길을 함께 걸어갈 오빛들❗\n지금 바로 이달의 소녀 공식 유튜브 채널에서 확인해 보세요! 감동의 눈물 주의🥺🥺\n \n▶ https://t.co/AvYntEgul8\n\n#이달의소녀 #달플리 #LOONA #DALPLY #Haseul https://t.co/930U3KIfC0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "달플리",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "DALPLY",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "Haseul",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AvYntEgul8",
+					"expanded_url": "https://youtu.be/ippQelscSaI",
+					"display_url": "youtu.be/ippQelscSaI",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560204570537922600,
+					"id_str": "1560204570537922562",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fab1ymPakAIeRYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fab1ymPakAIeRYM.jpg",
+					"url": "https://t.co/930U3KIfC0",
+					"display_url": "pic.twitter.com/930U3KIfC0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1560250162865270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560204570537922600,
+					"id_str": "1560204570537922562",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fab1ymPakAIeRYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fab1ymPakAIeRYM.jpg",
+					"url": "https://t.co/930U3KIfC0",
+					"display_url": "pic.twitter.com/930U3KIfC0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1560250162865270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 972964,
+			"friends_count": 3,
+			"listed_count": 8933,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2529,
+		"favorite_count": 6042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[DALPLY] 꽃길 covered by Haseul💐\n\n존재만으로도 귀한 선물 같은 #하슬 이와🎁 \n손잡고 꽃길을 함께 걸어갈 오빛들❗\n지금 바로 이달의 소녀 공식 유튜브 채널에서 확인해 보세요! 감동의 눈물 주의🥺🥺\n \n▶ https://t.co/AvYntEgul8\n\n#이달의소녀 #달플리 #LOONA #DALPLY #Haseul https://t.co/930U3KIfC0"
+	},
+	{
 		"created_at": "Thu Aug 18 12:40:10 +0000 2022",
 		"id": 1560242280346288000,
 		"id_str": "1560245167495565314",
