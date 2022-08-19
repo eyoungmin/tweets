@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 07:40:10 +0000 2022",
+		"id": 1560524464818978800,
+		"id_str": "1560532057029332993",
+		"full_text": "[TV📺] \n오늘(8/19) 5:10PM KBS &lt;뮤직뱅크&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;Music Bank&gt; on KBS on August 19 at 5:10PM KST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374323,
+			"friends_count": 2,
+			"listed_count": 1247,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 381,
+		"favorite_count": 1545,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[TV📺] \n오늘(8/19) 5:10PM KBS &lt;뮤직뱅크&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;Music Bank&gt; on KBS on August 19 at 5:10PM KST"
+	},
+	{
+		"created_at": "Fri Aug 19 07:29:44 +0000 2022",
+		"id": 1560522206962385000,
+		"id_str": "1560529431126581248",
+		"full_text": "📃 #삼각공조 인물 관계 브리핑 TIME\n더 인터내셔날해진 케미로 타겟 조준 완료!🎯\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #공조2 #9월7일대개봉 https://t.co/ILnbDvlADu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼각공조",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560521197926125600,
+					"id_str": "1560521197926125569",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FagVwvLakAEhXyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagVwvLakAEhXyd.jpg",
+					"url": "https://t.co/ILnbDvlADu",
+					"display_url": "pic.twitter.com/ILnbDvlADu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1560522206962384897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560521197926125600,
+					"id_str": "1560521197926125569",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FagVwvLakAEhXyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagVwvLakAEhXyd.jpg",
+					"url": "https://t.co/ILnbDvlADu",
+					"display_url": "pic.twitter.com/ILnbDvlADu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1560522206962384897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331596,
+			"friends_count": 10662,
+			"listed_count": 258,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📃 #삼각공조 인물 관계 브리핑 TIME\n더 인터내셔날해진 케미로 타겟 조준 완료!🎯\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #공조2 #9월7일대개봉 https://t.co/ILnbDvlADu"
+	},
+	{
 		"created_at": "Fri Aug 19 06:40:24 +0000 2022",
 		"id": 1560507038526222300,
 		"id_str": "1560517017236656128",
