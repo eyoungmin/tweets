@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 01:45:37 +0000 2022",
+		"id": 1560431398695350300,
+		"id_str": "1560442830237171713",
+		"full_text": "[KCON 2022 LA Mwave Signed MD Package OPEN]\n\nCheck the details of Signed MD Package by looking at Mwave OFFICIAL WEBSITE! \n\nhttps://t.co/yPjNyeCmvu\n\n▶ 8/19 ~ 8/29 16:00PM (KST)\n\n#KCON #KCON2022LA #LOONA https://t.co/roXVwCGEOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "KCON2022LA",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						196,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPjNyeCmvu",
+					"expanded_url": "https://bit.ly/3JN0xB1",
+					"display_url": "bit.ly/3JN0xB1",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560429789345104000,
+					"id_str": "1560429789345103873",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FafCoDraQAEQyZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafCoDraQAEQyZC.jpg",
+					"url": "https://t.co/roXVwCGEOD",
+					"display_url": "pic.twitter.com/roXVwCGEOD",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1560431398695350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560429789345104000,
+					"id_str": "1560429789345103873",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FafCoDraQAEQyZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafCoDraQAEQyZC.jpg",
+					"url": "https://t.co/roXVwCGEOD",
+					"display_url": "pic.twitter.com/roXVwCGEOD",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1560431398695350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1926887,
+			"friends_count": 331,
+			"listed_count": 1992,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON 2022 LA Mwave Signed MD Package OPEN]\n\nCheck the details of Signed MD Package by looking at Mwave OFFICIAL WEBSITE! \n\nhttps://t.co/yPjNyeCmvu\n\n▶ 8/19 ~ 8/29 16:00PM (KST)\n\n#KCON #KCON2022LA #LOONA https://t.co/roXVwCGEOD"
+	},
+	{
+		"created_at": "Fri Aug 19 01:29:47 +0000 2022",
+		"id": 1560435482974355500,
+		"id_str": "1560438848915755008",
+		"full_text": "이번주 #인기가요(#inkigayo) Ep.1151 라인업 공개‼\n\n골든차일드 / 뉴진스 / 더보이즈 / 루미너스 / LUCY / 박보람 / BAE173 / 소녀시대 / 수현(유키스) / ATBO / YOUNITE / 이소정 / 첫사랑 / YENA / CRAXY / 트라이비 / 퍼플키스\n\n🔗https://t.co/6r0daO31ki https://t.co/pV8dMSPH0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6r0daO31ki",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/board/54772?cmd=view&page=1&board_no=1471",
+					"display_url": "programs.sbs.co.kr/enter/gayo/boa…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560435244901494800,
+					"id_str": "1560435244901494784",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FafHlnNacAAsIU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafHlnNacAAsIU1.jpg",
+					"url": "https://t.co/pV8dMSPH0x",
+					"display_url": "pic.twitter.com/pV8dMSPH0x",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1560435482974355458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560435244901494800,
+					"id_str": "1560435244901494784",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FafHlnNacAAsIU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafHlnNacAAsIU1.jpg",
+					"url": "https://t.co/pV8dMSPH0x",
+					"display_url": "pic.twitter.com/pV8dMSPH0x",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1560435482974355458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS 인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "",
+			"description": "인기가요 공식 트위터 (SBS Inkigayo Official Twitter) \n📸 인가 홈마 상시 대기 중 \n#PD노트 #하드털이 #엔딩맛집",
+			"url": "https://t.co/XOLUHL4yNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOLUHL4yNY",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo",
+							"display_url": "programs.sbs.co.kr/enter/gayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189198,
+			"friends_count": 71,
+			"listed_count": 577,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1657180917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 1020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #인기가요(#inkigayo) Ep.1151 라인업 공개‼\n\n골든차일드 / 뉴진스 / 더보이즈 / 루미너스 / LUCY / 박보람 / BAE173 / 소녀시대 / 수현(유키스) / ATBO / YOUNITE / 이소정 / 첫사랑 / YENA / CRAXY / 트라이비 / 퍼플키스\n\n🔗https://t.co/6r0daO31ki https://t.co/pV8dMSPH0x"
+	},
+	{
 		"created_at": "Fri Aug 19 00:40:12 +0000 2022",
 		"id": 1560416567305052200,
 		"id_str": "1560426369066188800",
