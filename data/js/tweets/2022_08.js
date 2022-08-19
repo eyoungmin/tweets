@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 11:40:10 +0000 2022",
+		"id": 1560576060743377000,
+		"id_str": "1560592456860811264",
+		"full_text": "So excited that BLACKPINK is back! 🖤\nJoin the #PinkVenomChallenge trend with ZEPETO and help the trend dominate the world! 📣\n\n👉https://t.co/FU42oT2Ks2\n\n@BLACKPINK \n#ZEPETOBP #ZEPETOxBLACKPINK #BLACKPINK #PinkVenom #PinkVenomChallenge https://t.co/vspZmgwQPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						46,
+						65
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "ZEPETOxBLACKPINK",
+					"indices": [
+						174,
+						191
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						214,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FU42oT2Ks2",
+					"expanded_url": "https://buff.ly/3ChP9eO",
+					"display_url": "buff.ly/3ChP9eO",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560576057882935300,
+					"id_str": "1560576057882935296",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FahHqAcXgAAdJsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahHqAcXgAAdJsc.jpg",
+					"url": "https://t.co/vspZmgwQPw",
+					"display_url": "pic.twitter.com/vspZmgwQPw",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1560576060743376897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560576057882935300,
+					"id_str": "1560576057882935296",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FahHqAcXgAAdJsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FahHqAcXgAAdJsc.jpg",
+					"url": "https://t.co/vspZmgwQPw",
+					"display_url": "pic.twitter.com/vspZmgwQPw",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1560576060743376897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49055,
+			"friends_count": 2,
+			"listed_count": 84,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1650614938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4888,
+		"favorite_count": 16218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So excited that BLACKPINK is back! 🖤\nJoin the #PinkVenomChallenge trend with ZEPETO and help the trend dominate the world! 📣\n\n👉https://t.co/FU42oT2Ks2\n\n@BLACKPINK \n#ZEPETOBP #ZEPETOxBLACKPINK #BLACKPINK #PinkVenom #PinkVenomChallenge https://t.co/vspZmgwQPw"
+	},
+	{
+		"created_at": "Fri Aug 19 11:30:03 +0000 2022",
+		"id": 1560584534877687800,
+		"id_str": "1560589910666403841",
+		"full_text": "#OFFICIALBLINK\n\nBLINK를 생각하며 젠츄리챙이 고른\n축하 케이크 데코 pick🎂\n지금 BLINK MEMBERSHIP에 도착했습니다💖\n바로 확인해 보세요! 💌\n\n▶️ https://t.co/3m4khFbJrN\n\n#BLACKPINK #블랙핑크 #PinkVenom\n#BLINK #블링크 #BLACKPINKCHOICE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "BLACKPINKCHOICE",
+					"indices": [
+						165,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3m4khFbJrN",
+					"expanded_url": "https://weverse.io/blackpink/media/0-103376921",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8396804,
+			"friends_count": 9,
+			"listed_count": 9240,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1660881703",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2072,
+		"favorite_count": 7289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLINK를 생각하며 젠츄리챙이 고른\n축하 케이크 데코 pick🎂\n지금 BLINK MEMBERSHIP에 도착했습니다💖\n바로 확인해 보세요! 💌\n\n▶️ https://t.co/3m4khFbJrN\n\n#BLACKPINK #블랙핑크 #PinkVenom\n#BLINK #블링크 #BLACKPINKCHOICE"
+	},
+	{
+		"created_at": "Fri Aug 19 11:29:50 +0000 2022",
+		"id": 1560586395671941000,
+		"id_str": "1560589855075307520",
+		"full_text": "Oh my baby 달려가 안을게☺️❣️\n\nhttps://t.co/IKSgGy8Knl\n\n#TAEYEON #태연\n#TIFFANY #티파니\n#SEOHYUN #서현\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "TIFFANY",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						122,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKSgGy8Knl",
+					"expanded_url": "https://vt.tiktok.com/ZSRBpgSTy/",
+					"display_url": "vt.tiktok.com/ZSRBpgSTy/",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878602,
+			"friends_count": 5,
+			"listed_count": 6146,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2881,
+		"favorite_count": 4623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Oh my baby 달려가 안을게☺️❣️\n\nhttps://t.co/IKSgGy8Knl\n\n#TAEYEON #태연\n#TIFFANY #티파니\n#SEOHYUN #서현\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
+		"created_at": "Fri Aug 19 11:29:43 +0000 2022",
+		"id": 1560585534254092300,
+		"id_str": "1560589825220157440",
+		"full_text": "Girls, We are forever 🤍✨\n\nhttps://t.co/M92OBoyXey\n\n#HYOYEON #효연\n#YURI #유리\n#SOOYOUNG #수영\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						121,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M92OBoyXey",
+					"expanded_url": "https://vt.tiktok.com/ZSRBsFrfC/",
+					"display_url": "vt.tiktok.com/ZSRBsFrfC/",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878602,
+			"friends_count": 5,
+			"listed_count": 6146,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2692,
+		"favorite_count": 4549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls, We are forever 🤍✨\n\nhttps://t.co/M92OBoyXey\n\n#HYOYEON #효연\n#YURI #유리\n#SOOYOUNG #수영\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
 		"created_at": "Fri Aug 19 10:45:37 +0000 2022",
 		"id": 1560577076322832400,
 		"id_str": "1560578726517252096",
