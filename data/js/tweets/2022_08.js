@@ -1,6 +1,643 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 06:40:24 +0000 2022",
+		"id": 1560507038526222300,
+		"id_str": "1560517017236656128",
+		"full_text": "✅ SMTOWN &amp;STORE &lt;LIVE ONLY&gt;\n-PC\nKO: https://t.co/SqmDww52cG \nEN: https://t.co/5tZ5s6vmBh \nJP: https://t.co/NdJUBCVryY \nCN: https://t.co/7vIycGCz0T\n \n-MO\nKO: https://t.co/X2J6unTWfo \nEN: https://t.co/2CjFjBJwKu \nJP: https://t.co/CgPEjsomFF \nCN: https://t.co/C5zGqjbT61",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SqmDww52cG",
+					"expanded_url": "https://bit.ly/3QPxoap",
+					"display_url": "bit.ly/3QPxoap",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/5tZ5s6vmBh",
+					"expanded_url": "https://bit.ly/3QHZ7dg",
+					"display_url": "bit.ly/3QHZ7dg",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/NdJUBCVryY",
+					"expanded_url": "https://bit.ly/3CuVeoj",
+					"display_url": "bit.ly/3CuVeoj",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/7vIycGCz0T",
+					"expanded_url": "https://bit.ly/3pstOaB",
+					"display_url": "bit.ly/3pstOaB",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/X2J6unTWfo",
+					"expanded_url": "https://bit.ly/3wcJORP",
+					"display_url": "bit.ly/3wcJORP",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/2CjFjBJwKu",
+					"expanded_url": "https://bit.ly/3A4gZbv",
+					"display_url": "bit.ly/3A4gZbv",
+					"indices": [
+						196,
+						219
+					]
+				},
+				{
+					"url": "https://t.co/CgPEjsomFF",
+					"expanded_url": "https://bit.ly/3QQyRxf",
+					"display_url": "bit.ly/3QQyRxf",
+					"indices": [
+						225,
+						248
+					]
+				},
+				{
+					"url": "https://t.co/C5zGqjbT61",
+					"expanded_url": "https://bit.ly/3QBhdOo",
+					"display_url": "bit.ly/3QBhdOo",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560507036680745000,
+		"in_reply_to_status_id_str": "1560507036680744960",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877581,
+			"friends_count": 5,
+			"listed_count": 6143,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ SMTOWN &amp;STORE &lt;LIVE ONLY&gt;\n-PC\nKO: https://t.co/SqmDww52cG \nEN: https://t.co/5tZ5s6vmBh \nJP: https://t.co/NdJUBCVryY \nCN: https://t.co/7vIycGCz0T\n \n-MO\nKO: https://t.co/X2J6unTWfo \nEN: https://t.co/2CjFjBJwKu \nJP: https://t.co/CgPEjsomFF \nCN: https://t.co/C5zGqjbT61"
+	},
+	{
+		"created_at": "Fri Aug 19 06:40:18 +0000 2022",
+		"id": 1560507036680745000,
+		"id_str": "1560516991621922817",
+		"full_text": "※ You can purchase one ticket per ID\n📣Ticket Information\n\n✅ Beyond LIVE\n🔗 https://t.co/II8JMxfKI3\n🎫 Ticket Sales Open\n-판매기간: 2022년 8월 19일 (금) 15:00 ~ 2022년 9월 3일 (토) 19:30 (KST)\n-Sales Period: From August 19, 2022(Fri) 15:00 to September 3, 2022(Sat) 19:30 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/II8JMxfKI3",
+					"expanded_url": "https://bit.ly/3c57l0h",
+					"display_url": "bit.ly/3c57l0h",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560507033207869400,
+		"in_reply_to_status_id_str": "1560507033207869440",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877581,
+			"friends_count": 5,
+			"listed_count": 6143,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "※ You can purchase one ticket per ID\n📣Ticket Information\n\n✅ Beyond LIVE\n🔗 https://t.co/II8JMxfKI3\n🎫 Ticket Sales Open\n-판매기간: 2022년 8월 19일 (금) 15:00 ~ 2022년 9월 3일 (토) 19:30 (KST)\n-Sales Period: From August 19, 2022(Fri) 15:00 to September 3, 2022(Sat) 19:30 (KST)"
+	},
+	{
+		"created_at": "Fri Aug 19 06:40:13 +0000 2022",
+		"id": 1560507033207869400,
+		"id_str": "1560516970168057857",
+		"full_text": "Beyond LIVE - 2022 Girls’ Generation Special Event – Long Lasting Love\n \n📆 09/03 SAT 7PM (KST)\n👉 Sales \nKOREA : LIVE ONLY ￦49,000 / LIVE + Re-Streaming ￦55,000\nJAPAN : LIVE ONLY 4,900円 / LIVE + Re-Streaming 5,500円\nGLOBAL : LIVE ONLY 45 USD / LIVE + Re-Streaming 50 USD https://t.co/iOFtM1rTWE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560506978656747500,
+					"id_str": "1560506978656747520",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FagI1ERagAAP1A8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagI1ERagAAP1A8.jpg",
+					"url": "https://t.co/iOFtM1rTWE",
+					"display_url": "pic.twitter.com/iOFtM1rTWE",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1560507033207869440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560506978656747500,
+					"id_str": "1560506978656747520",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FagI1ERagAAP1A8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagI1ERagAAP1A8.jpg",
+					"url": "https://t.co/iOFtM1rTWE",
+					"display_url": "pic.twitter.com/iOFtM1rTWE",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1560507033207869440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877581,
+			"friends_count": 5,
+			"listed_count": 6143,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1790,
+		"favorite_count": 3516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - 2022 Girls’ Generation Special Event – Long Lasting Love\n \n📆 09/03 SAT 7PM (KST)\n👉 Sales \nKOREA : LIVE ONLY ￦49,000 / LIVE + Re-Streaming ￦55,000\nJAPAN : LIVE ONLY 4,900円 / LIVE + Re-Streaming 5,500円\nGLOBAL : LIVE ONLY 45 USD / LIVE + Re-Streaming 50 USD https://t.co/iOFtM1rTWE"
+	},
+	{
+		"created_at": "Fri Aug 19 06:29:39 +0000 2022",
+		"id": 1560507876828799000,
+		"id_str": "1560514310174113794",
+		"full_text": "[Beyond LIVE – 2022 Girls’ Generation Special Event – Long Lasting Love]💓\n\n변함없는 S♡NE의 사랑에 답하기 위해 소녀시대가 마련한 특별한 무대\n2022 Girls’ Generation Special Event – Long Lasting Love Live Streaming을 SMTOWN &amp;STORE 온라인에서 만나보세요!\nhttps://t.co/A0gE1kDvQL https://t.co/rUVJX8BFYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A0gE1kDvQL",
+					"expanded_url": "https://bit.ly/3A6MUZ0",
+					"display_url": "bit.ly/3A6MUZ0",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560507871640830000,
+					"id_str": "1560507871640829952",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FagJpC5aQAAld_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagJpC5aQAAld_j.jpg",
+					"url": "https://t.co/rUVJX8BFYk",
+					"display_url": "pic.twitter.com/rUVJX8BFYk",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1560507876828798976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560507871640830000,
+					"id_str": "1560507871640829952",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FagJpC5aQAAld_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagJpC5aQAAld_j.jpg",
+					"url": "https://t.co/rUVJX8BFYk",
+					"display_url": "pic.twitter.com/rUVJX8BFYk",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1560507876828798976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250166,
+			"friends_count": 0,
+			"listed_count": 408,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Beyond LIVE – 2022 Girls’ Generation Special Event – Long Lasting Love]💓\n\n변함없는 S♡NE의 사랑에 답하기 위해 소녀시대가 마련한 특별한 무대\n2022 Girls’ Generation Special Event – Long Lasting Love Live Streaming을 SMTOWN &amp;STORE 온라인에서 만나보세요!\nhttps://t.co/A0gE1kDvQL https://t.co/rUVJX8BFYk"
+	},
+	{
 		"created_at": "Fri Aug 19 05:40:32 +0000 2022",
 		"id": 1560499654449836000,
 		"id_str": "1560501952429101056",
