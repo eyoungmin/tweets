@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 08:40:34 +0000 2022",
+		"id": 1560544598593679400,
+		"id_str": "1560547258692763648",
+		"full_text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. \n2022.08.19 17:30 (KST)\n\nRegistration for entry for today is closed. \n2022.08.19 17:30 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "Popupstore",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "TheHyundaiSeoul",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We are NewJeans👖",
+			"url": "https://t.co/wITF1PpBHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1PpBHO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374574,
+			"friends_count": 2,
+			"listed_count": 1244,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 897,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[안내📢] \n뉴진스 팝업 스토어 현장 예약 마감 공지 \n\n금일 뉴진스 팝업 스토어 현장 예약은 마감되었습니다. \n2022.08.19 17:30 (KST)\n\nRegistration for entry for today is closed. \n2022.08.19 17:30 (KST)\n\n#NewJeans #뉴진스 #Popupstore #WeAreNewJeans \n#NewJeans_1st_EP #TheHyundaiSeoul"
+	},
+	{
+		"created_at": "Fri Aug 19 08:40:31 +0000 2022",
+		"id": 1560537059776811000,
+		"id_str": "1560547245556105217",
+		"full_text": "#선예 의 #잇츠라이브 가 잠시 후 8시에 시작됩니다!📸\n유튜브 it's Live 채널에서 최초공개로 만나보세요!\n‘the Fillin' Live’ 보면서 실시간 채팅 같이 달려요✨\n \n#SUNYE - the Fillin' Live\nPremieres on Youtube 'it's Live' Channel at 8PM KST TODAY! https://t.co/oxMYefCCug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560516864198881300,
+					"id_str": "1560516864198881280",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FagR0eyUsAAdxD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagR0eyUsAAdxD7.jpg",
+					"url": "https://t.co/oxMYefCCug",
+					"display_url": "pic.twitter.com/oxMYefCCug",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560537059776811008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560516864198881300,
+					"id_str": "1560516864198881280",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FagR0eyUsAAdxD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagR0eyUsAAdxD7.jpg",
+					"url": "https://t.co/oxMYefCCug",
+					"display_url": "pic.twitter.com/oxMYefCCug",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560537059776811008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560516864207233000,
+					"id_str": "1560516864207233024",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FagR0e0UIAAcOrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FagR0e0UIAAcOrI.jpg",
+					"url": "https://t.co/oxMYefCCug",
+					"display_url": "pic.twitter.com/oxMYefCCug",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560537059776811008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32918,
+			"friends_count": 1,
+			"listed_count": 83,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선예 의 #잇츠라이브 가 잠시 후 8시에 시작됩니다!📸\n유튜브 it's Live 채널에서 최초공개로 만나보세요!\n‘the Fillin' Live’ 보면서 실시간 채팅 같이 달려요✨\n \n#SUNYE - the Fillin' Live\nPremieres on Youtube 'it's Live' Channel at 8PM KST TODAY! https://t.co/oxMYefCCug"
+	},
+	{
+		"created_at": "Fri Aug 19 08:40:24 +0000 2022",
+		"id": 1560314745076428800,
+		"id_str": "1560547215600410624",
+		"full_text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#이바보\n✨https://t.co/mdGjLf755e✨\n💜https://t.co/RI3Ph0O3A9💜\n\n#잇츠라이브 #itsLive https://t.co/2kgEc7XEAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "SUNYE",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "이바보",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "itsLive",
+					"indices": [
+						211,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mdGjLf755e",
+					"expanded_url": "https://bit.ly/3SZcsjh",
+					"display_url": "bit.ly/3SZcsjh",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/RI3Ph0O3A9",
+					"expanded_url": "https://bit.ly/3PyPT1O",
+					"display_url": "bit.ly/3PyPT1O",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560304527802175500,
+					"id_str": "1560304527802175489",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQs4EVEAEFFVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQs4EVEAEFFVs.jpg",
+					"url": "https://t.co/2kgEc7XEAq",
+					"display_url": "pic.twitter.com/2kgEc7XEAq",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560314745076428800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560304527802175500,
+					"id_str": "1560304527802175489",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FadQs4EVEAEFFVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FadQs4EVEAEFFVs.jpg",
+					"url": "https://t.co/2kgEc7XEAq",
+					"display_url": "pic.twitter.com/2kgEc7XEAq",
+					"expanded_url": "https://twitter.com/itsLIVEofficial/status/1560314745076428800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560303947742527500,
+		"in_reply_to_status_id_str": "1560303947742527489",
+		"in_reply_to_user_id": 762467268227833900,
+		"in_reply_to_user_id_str": "762467268227833857",
+		"in_reply_to_screen_name": "itsLIVEofficial",
+		"user": {
+			"id": 762467268227833900,
+			"id_str": "762467268227833857",
+			"name": "it's Live",
+			"screen_name": "itsLIVEofficial",
+			"location": "MBC",
+			"description": "MORE than LIVE, MORE than KPOP",
+			"url": "https://t.co/ooHphP1D53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ooHphP1D53",
+							"expanded_url": "https://www.youtube.com/c/MBigTv",
+							"display_url": "youtube.com/c/MBigTv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32918,
+			"friends_count": 1,
+			"listed_count": 83,
+			"created_at": "Mon Aug 08 01:55:37 +0000 2016",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445745538922471434/QFiainiI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762467268227833857/1635666369",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[it’s Live] #선예 (#SUNYE) - “the Fillin' Live” Pre-release\n2022.08.19.Fri. 8PM (KST) COMING SOON\n\n▼Check out on &lt;it’s Live&gt; YouTube #Shorts▼\n#이바보\n✨https://t.co/mdGjLf755e✨\n💜https://t.co/RI3Ph0O3A9💜\n\n#잇츠라이브 #itsLive https://t.co/2kgEc7XEAq"
+	},
+	{
+		"created_at": "Fri Aug 19 08:40:10 +0000 2022",
+		"id": 1560533315354087400,
+		"id_str": "1560547155970068480",
+		"full_text": "EVERYONE STAY CALM BUT WE ARE COMING TO PLAY SHOWS IN OUR FAVOURITE PART OF THE WORLD.\n\nAsia tour baby!! Kuala Lumpur, Jakarta, Manila and Busan - SEE YOU IN 35 DAYS!!!! Get your tickets y'allllll! 🇲🇾💖🇮🇩💖🇵🇭💖🇰🇷\n\nhttps://t.co/fLUw3TBD5H https://t.co/Rc7r9GJY8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLUw3TBD5H",
+					"expanded_url": "https://www.ohwondermusic.com/tour/",
+					"display_url": "ohwondermusic.com/tour/",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560533312657129500,
+					"id_str": "1560533312657129472",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Faggx6EXgAAECc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faggx6EXgAAECc6.jpg",
+					"url": "https://t.co/Rc7r9GJY8c",
+					"display_url": "pic.twitter.com/Rc7r9GJY8c",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1560533315354087428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560533312657129500,
+					"id_str": "1560533312657129472",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Faggx6EXgAAECc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faggx6EXgAAECc6.jpg",
+					"url": "https://t.co/Rc7r9GJY8c",
+					"display_url": "pic.twitter.com/Rc7r9GJY8c",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1560533315354087428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165949,
+			"friends_count": 204,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EVERYONE STAY CALM BUT WE ARE COMING TO PLAY SHOWS IN OUR FAVOURITE PART OF THE WORLD.\n\nAsia tour baby!! Kuala Lumpur, Jakarta, Manila and Busan - SEE YOU IN 35 DAYS!!!! Get your tickets y'allllll! 🇲🇾💖🇮🇩💖🇵🇭💖🇰🇷\n\nhttps://t.co/fLUw3TBD5H https://t.co/Rc7r9GJY8c"
+	},
+	{
+		"created_at": "Fri Aug 19 08:30:01 +0000 2022",
+		"id": 1560537193839337500,
+		"id_str": "1560544604738400256",
+		"full_text": "#OFFICIALBLINK\n\nBLACKPINK &lt;SBS 인기가요&gt; \n사전 녹화 참여 신청이 시작되었습니다. \n\n방청을 희망하시는 #BLINK 분들은 \n위버스 앱에서 신청해 주세요🖤💖\n\n👉 https://t.co/38SiaqeVnv\n\n#BLACKPINK #블랙핑크 #PinkVenom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/38SiaqeVnv",
+					"expanded_url": "https://weverse.io/blackpink/notice/3413",
+					"display_url": "weverse.io/blackpink/noti…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8395096,
+			"friends_count": 9,
+			"listed_count": 9235,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1660881703",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2620,
+		"favorite_count": 8412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLACKPINK &lt;SBS 인기가요&gt; \n사전 녹화 참여 신청이 시작되었습니다. \n\n방청을 희망하시는 #BLINK 분들은 \n위버스 앱에서 신청해 주세요🖤💖\n\n👉 https://t.co/38SiaqeVnv\n\n#BLACKPINK #블랙핑크 #PinkVenom"
+	},
+	{
 		"created_at": "Fri Aug 19 07:40:10 +0000 2022",
 		"id": 1560524464818978800,
 		"id_str": "1560532057029332993",
