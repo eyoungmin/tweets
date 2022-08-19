@@ -1,6 +1,1961 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 03:44:14 +0000 2022",
+		"id": 1560472505428562000,
+		"id_str": "1560472681354448897",
+		"full_text": "소녀시대, 신곡 ‘FOREVER 1’ 컴백 무대 오늘 첫 방송!\n이번주 음악방송-&gt;SMTOWN LIVE 출격! 완전체 퍼포먼스 기대감 폭발!\n\nhttps://t.co/gFtjzrPeWn\n\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFtjzrPeWn",
+					"expanded_url": "https://bit.ly/3c7H3uq",
+					"display_url": "bit.ly/3c7H3uq",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877460,
+			"friends_count": 5,
+			"listed_count": 6141,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1166,
+		"favorite_count": 2318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대, 신곡 ‘FOREVER 1’ 컴백 무대 오늘 첫 방송!\n이번주 음악방송-&gt;SMTOWN LIVE 출격! 완전체 퍼포먼스 기대감 폭발!\n\nhttps://t.co/gFtjzrPeWn\n\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
+		"created_at": "Fri Aug 19 03:44:13 +0000 2022",
+		"id": 1560472506938445800,
+		"id_str": "1560472678732951552",
+		"full_text": "Girls’ Generation’s comeback stage for ‘FOREVER 1’ airs today! They’re on music shows and SMTOWN LIVE this week, ramping up the excitement for the 8-member performance!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1560472505428562000,
+		"in_reply_to_status_id_str": "1560472505428561920",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877460,
+			"friends_count": 5,
+			"listed_count": 6141,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1090,
+		"favorite_count": 2361,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Girls’ Generation’s comeback stage for ‘FOREVER 1’ airs today! They’re on music shows and SMTOWN LIVE this week, ramping up the excitement for the 8-member performance!"
+	},
+	{
+		"created_at": "Fri Aug 19 03:40:34 +0000 2022",
+		"id": 1560469868142817300,
+		"id_str": "1560471761656979457",
+		"full_text": "#BLACKPINK ‘Pink Venom’ M/V Premiere now available on #YouTube.\n\n블링크와 함께할 서프라이즈 실시간 채팅이 예정되어 있습니다!\nSurprise live chat with BLINKs will begin soon!\n\nhttps://t.co/FViEtLry7I \n2022.08.19 12AM EST / 1PM KST M/V RELEASE\n\n#블랙핑크 #PreReleaseSingle #PinkVenom https://t.co/ERNSZTRkTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						222,
+						239
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FViEtLry7I",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560469522385375200,
+					"id_str": "1560469522385375235",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafmw0yakAMiyRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafmw0yakAMiyRZ.jpg",
+					"url": "https://t.co/ERNSZTRkTq",
+					"display_url": "pic.twitter.com/ERNSZTRkTq",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560469868142817282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560469522385375200,
+					"id_str": "1560469522385375235",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafmw0yakAMiyRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafmw0yakAMiyRZ.jpg",
+					"url": "https://t.co/ERNSZTRkTq",
+					"display_url": "pic.twitter.com/ERNSZTRkTq",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560469868142817282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7060509,
+			"friends_count": 0,
+			"listed_count": 7639,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1660403312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17625,
+		"favorite_count": 36148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK ‘Pink Venom’ M/V Premiere now available on #YouTube.\n\n블링크와 함께할 서프라이즈 실시간 채팅이 예정되어 있습니다!\nSurprise live chat with BLINKs will begin soon!\n\nhttps://t.co/FViEtLry7I \n2022.08.19 12AM EST / 1PM KST M/V RELEASE\n\n#블랙핑크 #PreReleaseSingle #PinkVenom https://t.co/ERNSZTRkTq"
+	},
+	{
+		"created_at": "Fri Aug 19 03:40:31 +0000 2022",
+		"id": 1560469706137485300,
+		"id_str": "1560471748574937088",
+		"full_text": "BLACKPINK - ‘Pink Venom’ M/V Premiere now available on YouTube. Surprise live chat with BLINKs will begin soon!\n\n🎥https://t.co/V8p6OwXSaD \n⏰2022.08.19 12AM EST / 2022.08.19 1PM KST M/V RELEASE\n\n#BLACKPINK #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #Release https://t.co/IGin7KZb6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						205,
+						222
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						234,
+						251
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						252,
+						268
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8p6OwXSaD",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560469668023791600,
+					"id_str": "1560469668023791616",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafm5TVUcAAIASz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafm5TVUcAAIASz.jpg",
+					"url": "https://t.co/IGin7KZb6K",
+					"display_url": "pic.twitter.com/IGin7KZb6K",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1560469706137485312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560469668023791600,
+					"id_str": "1560469668023791616",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafm5TVUcAAIASz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafm5TVUcAAIASz.jpg",
+					"url": "https://t.co/IGin7KZb6K",
+					"display_url": "pic.twitter.com/IGin7KZb6K",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1560469706137485312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8388948,
+			"friends_count": 9,
+			"listed_count": 9235,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1660402884",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4096,
+		"favorite_count": 9686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK - ‘Pink Venom’ M/V Premiere now available on YouTube. Surprise live chat with BLINKs will begin soon!\n\n🎥https://t.co/V8p6OwXSaD \n⏰2022.08.19 12AM EST / 2022.08.19 1PM KST M/V RELEASE\n\n#BLACKPINK #PreReleaseSingle #PinkVenom #20220819_12amEST #20220819_1pmKST #Release https://t.co/IGin7KZb6K"
+	},
+	{
+		"created_at": "Fri Aug 19 03:40:14 +0000 2022",
+		"id": 1560462469424099300,
+		"id_str": "1560471676021866499",
+		"full_text": "Listen to aespa's own playlists, personally picked by KARINA, now on @Spotify!\n \n🔗 https://t.co/tV4PyrCKx1\n \n#aespa #æspa #에스파\n#Girls #LifesTooShort\n@SpotifyKR @SpotifyKPop https://t.co/33IQqlf6db",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LifesTooShort",
+					"indices": [
+						134,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tV4PyrCKx1",
+					"expanded_url": "https://spoti.fi/3CkPa1k",
+					"display_url": "spoti.fi/3CkPa1k",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560460048056598500,
+					"id_str": "1560460048056598529",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FafeJWKaQAEmvwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafeJWKaQAEmvwU.jpg",
+					"url": "https://t.co/33IQqlf6db",
+					"display_url": "pic.twitter.com/33IQqlf6db",
+					"expanded_url": "https://twitter.com/aespa_official/status/1560462469424099328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560460048056598500,
+					"id_str": "1560460048056598529",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FafeJWKaQAEmvwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafeJWKaQAEmvwU.jpg",
+					"url": "https://t.co/33IQqlf6db",
+					"display_url": "pic.twitter.com/33IQqlf6db",
+					"expanded_url": "https://twitter.com/aespa_official/status/1560462469424099328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3086919,
+			"friends_count": 2,
+			"listed_count": 9312,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2814,
+		"favorite_count": 11543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to aespa's own playlists, personally picked by KARINA, now on @Spotify!\n \n🔗 https://t.co/tV4PyrCKx1\n \n#aespa #æspa #에스파\n#Girls #LifesTooShort\n@SpotifyKR @SpotifyKPop https://t.co/33IQqlf6db"
+	},
+	{
+		"created_at": "Fri Aug 19 03:40:10 +0000 2022",
+		"id": 1560461608052465700,
+		"id_str": "1560471658686812160",
+		"full_text": "#BLACKPINK 'Pink Venom' Countdown Livestream\n\n▶️ https://t.co/fJ01noMIPu\n\n#블랙핑크 #PinkVenom #CountdownLivestream #NowOnAir #20220818_11pmEST #20220819_12pmKST #YouTube #PreReleaseSingle #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/duNOxttoGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "CountdownLivestream",
+					"indices": [
+						91,
+						111
+					]
+				},
+				{
+					"text": "NowOnAir",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "20220818_11pmEST",
+					"indices": [
+						122,
+						139
+					]
+				},
+				{
+					"text": "20220819_12pmKST",
+					"indices": [
+						140,
+						157
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						167,
+						184
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						185,
+						202
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						203,
+						219
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJ01noMIPu",
+					"expanded_url": "https://youtu.be/C8YDXGL-v7w",
+					"display_url": "youtu.be/C8YDXGL-v7w",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560458553131147300,
+					"id_str": "1560458553131147264",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FafcyVIaIAAddAS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafcyVIaIAAddAS.jpg",
+					"url": "https://t.co/duNOxttoGF",
+					"display_url": "pic.twitter.com/duNOxttoGF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1560461608052465665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560458553131147300,
+					"id_str": "1560458553131147264",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FafcyVIaIAAddAS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafcyVIaIAAddAS.jpg",
+					"url": "https://t.co/duNOxttoGF",
+					"display_url": "pic.twitter.com/duNOxttoGF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1560461608052465665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8849026,
+			"friends_count": 36,
+			"listed_count": 9821,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5519,
+		"favorite_count": 13758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Pink Venom' Countdown Livestream\n\n▶️ https://t.co/fJ01noMIPu\n\n#블랙핑크 #PinkVenom #CountdownLivestream #NowOnAir #20220818_11pmEST #20220819_12pmKST #YouTube #PreReleaseSingle #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/duNOxttoGF"
+	},
+	{
+		"created_at": "Fri Aug 19 03:29:57 +0000 2022",
+		"id": 1560461782166413300,
+		"id_str": "1560469089033736192",
+		"full_text": "#BLACKPINK 'Pink Venom' Countdown Livestream\n\n▶️ https://t.co/8EBBw8U5kO\n\n#블랙핑크 #PinkVenom #CountdownLivestream #NowOnAir #20220818_11pmEST #20220819_12pmKST #YouTube #PreReleaseSingle #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/arNpPy4ZV8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "CountdownLivestream",
+					"indices": [
+						91,
+						111
+					]
+				},
+				{
+					"text": "NowOnAir",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "20220818_11pmEST",
+					"indices": [
+						122,
+						139
+					]
+				},
+				{
+					"text": "20220819_12pmKST",
+					"indices": [
+						140,
+						157
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						167,
+						184
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						185,
+						202
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						203,
+						219
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8EBBw8U5kO",
+					"expanded_url": "https://youtu.be/C8YDXGL-v7w",
+					"display_url": "youtu.be/C8YDXGL-v7w",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560459658774876200,
+					"id_str": "1560459658774876163",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafdyr-akAMMjCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafdyr-akAMMjCT.jpg",
+					"url": "https://t.co/arNpPy4ZV8",
+					"display_url": "pic.twitter.com/arNpPy4ZV8",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560461782166413312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560459658774876200,
+					"id_str": "1560459658774876163",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Fafdyr-akAMMjCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fafdyr-akAMMjCT.jpg",
+					"url": "https://t.co/arNpPy4ZV8",
+					"display_url": "pic.twitter.com/arNpPy4ZV8",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560461782166413312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7060509,
+			"friends_count": 0,
+			"listed_count": 7639,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1660403312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19444,
+		"favorite_count": 41266,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Pink Venom' Countdown Livestream\n\n▶️ https://t.co/8EBBw8U5kO\n\n#블랙핑크 #PinkVenom #CountdownLivestream #NowOnAir #20220818_11pmEST #20220819_12pmKST #YouTube #PreReleaseSingle #20220819_12amEST #20220819_1pmKST #Release #YG https://t.co/arNpPy4ZV8"
+	},
+	{
+		"created_at": "Fri Aug 19 03:29:50 +0000 2022",
+		"id": 1560466851313791000,
+		"id_str": "1560469060009136133",
+		"full_text": "🔈𝟤𝟢𝟤𝟤 렛츠락 페스티벌🔈\n❤자우림은 𝟵월 𝟮𝟱일 일요일에 출연합니다!❤\n\n🤟𝟮𝟬𝟮𝟮 𝙇𝙚𝙩’𝙨 𝙍𝙤𝙘𝙠 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡🤟\n𝟤𝟢𝟤𝟤. 𝟢𝟫. 𝟤𝟦(토) - 𝟢𝟫. 𝟤𝟧(일)\n난지한강공원 일대\n\n예매처 👉 인터파크 티켓\n\n#자우림 #JAURIM #2022렛츠락페스티벌 #LetsRockFestival https://t.co/Qz8HJrsvlI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "2022렛츠락페스티벌",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "LetsRockFestival",
+					"indices": [
+						150,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560466844779065300,
+					"id_str": "1560466844779065344",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkU97UsAAtgRv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkU97UsAAtgRv.jpg",
+					"url": "https://t.co/Qz8HJrsvlI",
+					"display_url": "pic.twitter.com/Qz8HJrsvlI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1560466851313790976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560466844779065300,
+					"id_str": "1560466844779065344",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkU97UsAAtgRv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkU97UsAAtgRv.jpg",
+					"url": "https://t.co/Qz8HJrsvlI",
+					"display_url": "pic.twitter.com/Qz8HJrsvlI",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1560466851313790976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣMD 온라인 판매 링크",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4007,
+			"friends_count": 5,
+			"listed_count": 24,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈𝟤𝟢𝟤𝟤 렛츠락 페스티벌🔈\n❤자우림은 𝟵월 𝟮𝟱일 일요일에 출연합니다!❤\n\n🤟𝟮𝟬𝟮𝟮 𝙇𝙚𝙩’𝙨 𝙍𝙤𝙘𝙠 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡🤟\n𝟤𝟢𝟤𝟤. 𝟢𝟫. 𝟤𝟦(토) - 𝟢𝟫. 𝟤𝟧(일)\n난지한강공원 일대\n\n예매처 👉 인터파크 티켓\n\n#자우림 #JAURIM #2022렛츠락페스티벌 #LetsRockFestival https://t.co/Qz8HJrsvlI"
+	},
+	{
+		"created_at": "Fri Aug 19 03:29:39 +0000 2022",
+		"id": 1560467491746304000,
+		"id_str": "1560469011128795138",
+		"full_text": "KWON YURI becomes the main MC of ‘2022 APAN STAR AWARDS’ with JUNG IL WOO! \nThe event will take place on September 29th! \n\n#KWONYURI #권유리 \n#YURI #유리 \n#GirlsGeneration #소녀시대 \n#2022APANStarAwards https://t.co/EqncY0VLfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "2022APANStarAwards",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560467236891922400,
+					"id_str": "1560467236891922432",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560467236891922400,
+					"id_str": "1560467236891922432",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560467263433502700,
+					"id_str": "1560467263433502720",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafktViUcAAEWcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafktViUcAAEWcw.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11091947,
+			"friends_count": 56,
+			"listed_count": 12523,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 913,
+		"favorite_count": 2975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON YURI becomes the main MC of ‘2022 APAN STAR AWARDS’ with JUNG IL WOO! \nThe event will take place on September 29th! \n\n#KWONYURI #권유리 \n#YURI #유리 \n#GirlsGeneration #소녀시대 \n#2022APANStarAwards https://t.co/EqncY0VLfi"
+	},
+	{
 		"created_at": "Fri Aug 19 02:45:37 +0000 2022",
 		"id": 1560447100529385500,
 		"id_str": "1560457930893275136",
