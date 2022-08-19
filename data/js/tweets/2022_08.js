@@ -1,6 +1,1138 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 04:40:35 +0000 2022",
+		"id": 1560474920005472300,
+		"id_str": "1560486862334136320",
+		"full_text": "The teaser video for KakaoTV Original ‘어쩌다 전원일기' is here!\n- The trio of 희동리, #PARKSOOYOUNG X Choo Young Woo X Baek Sung Chul, are caught up in strange love signals, writing their own version of romance diaries\n- #어쩌다전원일기 premieres on KakaoTV on 9/5 at 7PM (KST)! https://t.co/lNqSpq16Ny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560474861859876900,
+					"id_str": "1560474861859876866",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560474861859876866/pu/img/ILo5yYuQBTeVscfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560474861859876866/pu/img/ILo5yYuQBTeVscfK.jpg",
+					"url": "https://t.co/lNqSpq16Ny",
+					"display_url": "pic.twitter.com/lNqSpq16Ny",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560474920005472257/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560474861859876900,
+					"id_str": "1560474861859876866",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560474861859876866/pu/img/ILo5yYuQBTeVscfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560474861859876866/pu/img/ILo5yYuQBTeVscfK.jpg",
+					"url": "https://t.co/lNqSpq16Ny",
+					"display_url": "pic.twitter.com/lNqSpq16Ny",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560474920005472257/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40085,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560474861859876866/pu/vid/1280x720/SIwFVKPYZmxap1ap.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560474861859876866/pu/pl/sux9AVtECX8_JKrq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560474861859876866/pu/vid/640x360/9ISoRajM-nzCZL7g.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560474861859876866/pu/vid/480x270/7YzCwL3QLf67iQYf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11091975,
+			"friends_count": 56,
+			"listed_count": 12524,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1429,
+		"favorite_count": 3905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The teaser video for KakaoTV Original ‘어쩌다 전원일기' is here!\n- The trio of 희동리, #PARKSOOYOUNG X Choo Young Woo X Baek Sung Chul, are caught up in strange love signals, writing their own version of romance diaries\n- #어쩌다전원일기 premieres on KakaoTV on 9/5 at 7PM (KST)! https://t.co/lNqSpq16Ny"
+	},
+	{
+		"created_at": "Fri Aug 19 04:40:10 +0000 2022",
+		"id": 1560476660805550000,
+		"id_str": "1560486759225507840",
+		"full_text": "#BLACKPINK ‘Pink Venom’ M/V\n\n📺NOW: https://t.co/saIVrv0mfj \n🎬YouTube: https://t.co/ay5EIL94Y2 \n  \n#블랙핑크 #PreReleaseSingle #PinkVenom #MV #20220819_12amEST #20220819_1pmKST #OutNow #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						104,
+						121
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "20220819_12amEST",
+					"indices": [
+						137,
+						154
+					]
+				},
+				{
+					"text": "20220819_1pmKST",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "OutNow",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/saIVrv0mfj",
+					"expanded_url": "https://tv.naver.com/v/28663089",
+					"display_url": "tv.naver.com/v/28663089",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/ay5EIL94Y2",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8849739,
+			"friends_count": 36,
+			"listed_count": 9824,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11649,
+		"favorite_count": 21868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ M/V\n\n📺NOW: https://t.co/saIVrv0mfj \n🎬YouTube: https://t.co/ay5EIL94Y2 \n  \n#블랙핑크 #PreReleaseSingle #PinkVenom #MV #20220819_12amEST #20220819_1pmKST #OutNow #YG"
+	},
+	{
+		"created_at": "Fri Aug 19 04:29:59 +0000 2022",
+		"id": 1560477406355288000,
+		"id_str": "1560484198460166144",
+		"full_text": "BLACKPINK - ‘Pink Venom’ OUT NOW\n\n🎥NOW ON YOUTUBE\n👉https://t.co/V8p6OwXSaD\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV #OUTNOW #YG https://t.co/r8H9D5yUkp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						93,
+						110
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8p6OwXSaD",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560472506250604500,
+					"id_str": "1560472506250604544",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560472506250604544/pu/img/wGMdN8vKXCG7mkGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560472506250604544/pu/img/wGMdN8vKXCG7mkGB.jpg",
+					"url": "https://t.co/r8H9D5yUkp",
+					"display_url": "pic.twitter.com/r8H9D5yUkp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1560477406355288065/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560472506250604500,
+					"id_str": "1560472506250604544",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1560472506250604544/pu/img/wGMdN8vKXCG7mkGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1560472506250604544/pu/img/wGMdN8vKXCG7mkGB.jpg",
+					"url": "https://t.co/r8H9D5yUkp",
+					"display_url": "pic.twitter.com/r8H9D5yUkp",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1560477406355288065/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 66666,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560472506250604544/pu/vid/320x320/U1wY3NGyvqyB8Mva.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1560472506250604544/pu/pl/E3nOPYbbUPOKMDFW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560472506250604544/pu/vid/540x540/tUT3DJNwp99D4Fgp.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1560472506250604544/pu/vid/720x720/pDuRJbaAP7RvMfVN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8391518,
+			"friends_count": 9,
+			"listed_count": 9241,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1660881703",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8194,
+		"favorite_count": 19601,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK - ‘Pink Venom’ OUT NOW\n\n🎥NOW ON YOUTUBE\n👉https://t.co/V8p6OwXSaD\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV #OUTNOW #YG https://t.co/r8H9D5yUkp"
+	},
+	{
+		"created_at": "Fri Aug 19 04:29:58 +0000 2022",
+		"id": 1560476717801959400,
+		"id_str": "1560484191099240448",
+		"full_text": "#BLACKPINK ‘Pink Venom’ OUT NOW\n\n🎥’Pink Venom’ M/V :\nhttps://t.co/FViEtLry7I\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV #OUTNOW #YG https://t.co/UNP8ajddxl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						136,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FViEtLry7I",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560471894490742800,
+					"id_str": "1560471894490742784",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1560471894490742784/img/yWsL7VBwXQuYXyGJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1560471894490742784/img/yWsL7VBwXQuYXyGJ.jpg",
+					"url": "https://t.co/UNP8ajddxl",
+					"display_url": "pic.twitter.com/UNP8ajddxl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560476717801959424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560471894490742800,
+					"id_str": "1560471894490742784",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1560471894490742784/img/yWsL7VBwXQuYXyGJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1560471894490742784/img/yWsL7VBwXQuYXyGJ.jpg",
+					"url": "https://t.co/UNP8ajddxl",
+					"display_url": "pic.twitter.com/UNP8ajddxl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1560476717801959424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 66666,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1560471894490742784/vid/540x540/Oy7ohAwWYoR9nJwL.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1560471894490742784/vid/720x720/fziAWXZICN-wK0v6.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1560471894490742784/pl/tNd52grOekozj-Zz.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1560471894490742784/vid/320x320/cWEsFsE9SMMaXuzo.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7067519,
+			"friends_count": 0,
+			"listed_count": 7653,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1660883206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52147,
+		"favorite_count": 94233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Pink Venom’ OUT NOW\n\n🎥’Pink Venom’ M/V :\nhttps://t.co/FViEtLry7I\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #MV #OUTNOW #YG https://t.co/UNP8ajddxl"
+	},
+	{
+		"created_at": "Fri Aug 19 04:29:58 +0000 2022",
+		"id": 1560480667041173500,
+		"id_str": "1560484191057297410",
+		"full_text": "[🎧]\n#BLACKPINK 의 선공개 싱글 'Pink Venom'이 공개되었습니다!\n함께 들으러 가볼까요?👇👇\n\n멜론:https://t.co/i3yIReYgy0\n지니:https://t.co/DKZklyln1B\n바이브:https://t.co/kUTOe6dXpk\n플로:https://t.co/GBRH2SeS9i\n벅스:https://t.co/T3DSeuo9Vz\n\n#블랙핑크 #PreReleaseSingle #PinkVenom #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						206,
+						223
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						235,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i3yIReYgy0",
+					"expanded_url": "https://bit.ly/3Axmtgo",
+					"display_url": "bit.ly/3Axmtgo",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/DKZklyln1B",
+					"expanded_url": "https://bit.ly/3AywR7q",
+					"display_url": "bit.ly/3AywR7q",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/kUTOe6dXpk",
+					"expanded_url": "https://bit.ly/3A7njz9",
+					"display_url": "bit.ly/3A7njz9",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/GBRH2SeS9i",
+					"expanded_url": "https://bit.ly/3c6Rpe6",
+					"display_url": "bit.ly/3c6Rpe6",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/T3DSeuo9Vz",
+					"expanded_url": "https://bit.ly/3AuRxgG",
+					"display_url": "bit.ly/3AuRxgG",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7067519,
+			"friends_count": 0,
+			"listed_count": 7653,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1660883206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13738,
+		"favorite_count": 33567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧]\n#BLACKPINK 의 선공개 싱글 'Pink Venom'이 공개되었습니다!\n함께 들으러 가볼까요?👇👇\n\n멜론:https://t.co/i3yIReYgy0\n지니:https://t.co/DKZklyln1B\n바이브:https://t.co/kUTOe6dXpk\n플로:https://t.co/GBRH2SeS9i\n벅스:https://t.co/T3DSeuo9Vz\n\n#블랙핑크 #PreReleaseSingle #PinkVenom #YG"
+	},
+	{
 		"created_at": "Fri Aug 19 03:44:14 +0000 2022",
 		"id": 1560472505428562000,
 		"id_str": "1560472681354448897",
