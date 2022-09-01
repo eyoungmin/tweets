@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 14:40:10 +0000 2022",
+		"id": 1565338714511122400,
+		"id_str": "1565348797009432580",
+		"full_text": "the #PinkVenomChallenge is calling!! dance like you mean it with #LISA! @BLACKPINK → https://t.co/YMWr3XHBlK https://t.co/50thK2S7cQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						4,
+						23
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YMWr3XHBlK",
+					"expanded_url": "http://yt.be/Lisa",
+					"display_url": "yt.be/Lisa",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565338691320418300,
+					"id_str": "1565338691320418304",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkzPwlUEAA_Uvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkzPwlUEAA_Uvx.jpg",
+					"url": "https://t.co/50thK2S7cQ",
+					"display_url": "pic.twitter.com/50thK2S7cQ",
+					"expanded_url": "https://twitter.com/YouTube/status/1565338714511122438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565338691320418300,
+					"id_str": "1565338691320418304",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkzPwlUEAA_Uvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkzPwlUEAA_Uvx.jpg",
+					"url": "https://t.co/50thK2S7cQ",
+					"display_url": "pic.twitter.com/50thK2S7cQ",
+					"expanded_url": "https://twitter.com/YouTube/status/1565338714511122438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10228272,
+			"id_str": "10228272",
+			"name": "YouTube",
+			"screen_name": "YouTube",
+			"location": "San Bruno, CA",
+			"description": "like and subscribe.",
+			"url": "https://t.co/bUisN3Gqbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUisN3Gqbw",
+							"expanded_url": "http://youtube.com",
+							"display_url": "youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76192847,
+			"friends_count": 1203,
+			"listed_count": 80107,
+			"created_at": "Tue Nov 13 21:43:46 +0000 2007",
+			"favourites_count": 6076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1657554342",
+			"profile_link_color": "C9191D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12997,
+		"favorite_count": 34105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the #PinkVenomChallenge is calling!! dance like you mean it with #LISA! @BLACKPINK → https://t.co/YMWr3XHBlK https://t.co/50thK2S7cQ"
+	},
+	{
 		"created_at": "Thu Sep 01 12:40:40 +0000 2022",
 		"id": 1565316408246177800,
 		"id_str": "1565318721505296384",
