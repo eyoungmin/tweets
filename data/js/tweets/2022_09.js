@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 05:29:39 +0000 2022",
+		"id": 1565204499924676600,
+		"id_str": "1565210253033148416",
+		"full_text": "🎉개봉 일주일 전 #예매율1위 등극!🎉\n이게 바로 &lt;#공조2_인터내셔날&gt; 클라쓰! 지금 바로 대세에 공조하자!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/VIx6CDOdLv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예매율1위",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565204437244969000,
+					"id_str": "1565204437244968960",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbi5JJLaAAA2jQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbi5JJLaAAA2jQR.jpg",
+					"url": "https://t.co/VIx6CDOdLv",
+					"display_url": "pic.twitter.com/VIx6CDOdLv",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565204499924676608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565204437244969000,
+					"id_str": "1565204437244968960",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbi5JJLaAAA2jQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbi5JJLaAAA2jQR.jpg",
+					"url": "https://t.co/VIx6CDOdLv",
+					"display_url": "pic.twitter.com/VIx6CDOdLv",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565204499924676608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331592,
+			"friends_count": 10645,
+			"listed_count": 260,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉개봉 일주일 전 #예매율1위 등극!🎉\n이게 바로 &lt;#공조2_인터내셔날&gt; 클라쓰! 지금 바로 대세에 공조하자!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/VIx6CDOdLv"
+	},
+	{
 		"created_at": "Thu Sep 01 03:40:14 +0000 2022",
 		"id": 1565180144142221300,
 		"id_str": "1565182719721705472",
