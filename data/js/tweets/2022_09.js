@@ -1,6 +1,1139 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 02:40:17 +0000 2022",
+		"id": 1565157584239476700,
+		"id_str": "1565167631673556992",
+		"full_text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (3/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/FZ2ZkWdiG4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weverseshop",
+					"name": "Weverse Shop",
+					"id": 1109011576659427300,
+					"id_str": "1109011576659427328",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565155886582366200,
+					"id_str": "1565155886582366208",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM_H3agAANCJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM_H3agAANCJx.jpg",
+					"url": "https://t.co/FZ2ZkWdiG4",
+					"display_url": "pic.twitter.com/FZ2ZkWdiG4",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157584239476738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565155886582366200,
+					"id_str": "1565155886582366208",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM_H3agAANCJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM_H3agAANCJx.jpg",
+					"url": "https://t.co/FZ2ZkWdiG4",
+					"display_url": "pic.twitter.com/FZ2ZkWdiG4",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157584239476738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155886762709000,
+					"id_str": "1565155886762708992",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM_IiaUAAQlHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM_IiaUAAQlHL.jpg",
+					"url": "https://t.co/FZ2ZkWdiG4",
+					"display_url": "pic.twitter.com/FZ2ZkWdiG4",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157584239476738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155886901108700,
+					"id_str": "1565155886901108737",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM_JDaIAEmJ5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM_JDaIAEmJ5D.jpg",
+					"url": "https://t.co/FZ2ZkWdiG4",
+					"display_url": "pic.twitter.com/FZ2ZkWdiG4",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157584239476738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155930563838000,
+					"id_str": "1565155930563837952",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiNBrtagAAvgsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiNBrtagAAvgsa.jpg",
+					"url": "https://t.co/FZ2ZkWdiG4",
+					"display_url": "pic.twitter.com/FZ2ZkWdiG4",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157584239476738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565157566514364400,
+		"in_reply_to_status_id_str": "1565157566514364416",
+		"in_reply_to_user_id": 1126749496082223100,
+		"in_reply_to_user_id_str": "1126749496082223104",
+		"in_reply_to_screen_name": "HYBE_MERCH",
+		"user": {
+			"id": 1126749496082223100,
+			"id_str": "1126749496082223104",
+			"name": "HYBE MERCH",
+			"screen_name": "HYBE_MERCH",
+			"location": "대한민국",
+			"description": "All about the OFFICIAL MERCH from HYBE & More!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5902189,
+			"friends_count": 21,
+			"listed_count": 9146,
+			"created_at": "Fri May 10 07:23:08 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126749496082223104/1617156015",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 435,
+		"favorite_count": 1667,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (3/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/FZ2ZkWdiG4"
+	},
+	{
+		"created_at": "Thu Sep 01 02:40:12 +0000 2022",
+		"id": 1565157566514364400,
+		"id_str": "1565167610127319044",
+		"full_text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (2/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/4CGB1y9RM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weverseshop",
+					"name": "Weverse Shop",
+					"id": 1109011576659427300,
+					"id_str": "1109011576659427328",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565155825924341800,
+					"id_str": "1565155825924341761",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM7l5agAE8ZzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM7l5agAE8ZzW.jpg",
+					"url": "https://t.co/4CGB1y9RM5",
+					"display_url": "pic.twitter.com/4CGB1y9RM5",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157566514364416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565155825924341800,
+					"id_str": "1565155825924341761",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM7l5agAE8ZzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM7l5agAE8ZzW.jpg",
+					"url": "https://t.co/4CGB1y9RM5",
+					"display_url": "pic.twitter.com/4CGB1y9RM5",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157566514364416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155826121453600,
+					"id_str": "1565155826121453568",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM7moaMAA_Q9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM7moaMAA_Q9u.jpg",
+					"url": "https://t.co/4CGB1y9RM5",
+					"display_url": "pic.twitter.com/4CGB1y9RM5",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157566514364416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155826251464700,
+					"id_str": "1565155826251464704",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM7nHaAAA4eda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM7nHaAAA4eda.jpg",
+					"url": "https://t.co/4CGB1y9RM5",
+					"display_url": "pic.twitter.com/4CGB1y9RM5",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157566514364416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155855942971400,
+					"id_str": "1565155855942971392",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM9VuacAAjhac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM9VuacAAjhac.jpg",
+					"url": "https://t.co/4CGB1y9RM5",
+					"display_url": "pic.twitter.com/4CGB1y9RM5",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157566514364416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565157552392110000,
+		"in_reply_to_status_id_str": "1565157552392110080",
+		"in_reply_to_user_id": 1126749496082223100,
+		"in_reply_to_user_id_str": "1126749496082223104",
+		"in_reply_to_screen_name": "HYBE_MERCH",
+		"user": {
+			"id": 1126749496082223100,
+			"id_str": "1126749496082223104",
+			"name": "HYBE MERCH",
+			"screen_name": "HYBE_MERCH",
+			"location": "대한민국",
+			"description": "All about the OFFICIAL MERCH from HYBE & More!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5902189,
+			"friends_count": 21,
+			"listed_count": 9146,
+			"created_at": "Fri May 10 07:23:08 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126749496082223104/1617156015",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 1631,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (2/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/4CGB1y9RM5"
+	},
+	{
+		"created_at": "Thu Sep 01 02:40:10 +0000 2022",
+		"id": 1565157552392110000,
+		"id_str": "1565167601193558016",
+		"full_text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (1/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/piiuxvWGp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weverseshop",
+					"name": "Weverse Shop",
+					"id": 1109011576659427300,
+					"id_str": "1109011576659427328",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565155759620767700,
+					"id_str": "1565155759620767744",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM3u5aQAA5qu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM3u5aQAA5qu0.jpg",
+					"url": "https://t.co/piiuxvWGp1",
+					"display_url": "pic.twitter.com/piiuxvWGp1",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157552392110080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565155759620767700,
+					"id_str": "1565155759620767744",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM3u5aQAA5qu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM3u5aQAA5qu0.jpg",
+					"url": "https://t.co/piiuxvWGp1",
+					"display_url": "pic.twitter.com/piiuxvWGp1",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157552392110080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155759977267200,
+					"id_str": "1565155759977267200",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM3wOaAAAqjoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM3wOaAAAqjoR.jpg",
+					"url": "https://t.co/piiuxvWGp1",
+					"display_url": "pic.twitter.com/piiuxvWGp1",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157552392110080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155759734034400,
+					"id_str": "1565155759734034432",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM3vUakAApiyZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM3vUakAApiyZ.jpg",
+					"url": "https://t.co/piiuxvWGp1",
+					"display_url": "pic.twitter.com/piiuxvWGp1",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157552392110080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565155790952239000,
+					"id_str": "1565155790952239104",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/FbiM5jnakAApV9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbiM5jnakAApV9F.jpg",
+					"url": "https://t.co/piiuxvWGp1",
+					"display_url": "pic.twitter.com/piiuxvWGp1",
+					"expanded_url": "https://twitter.com/HYBE_MERCH/status/1565157552392110080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126749496082223100,
+			"id_str": "1126749496082223104",
+			"name": "HYBE MERCH",
+			"screen_name": "HYBE_MERCH",
+			"location": "대한민국",
+			"description": "All about the OFFICIAL MERCH from HYBE & More!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5902189,
+			"friends_count": 21,
+			"listed_count": 9146,
+			"created_at": "Fri May 10 07:23:08 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377078244806062085/4Hd1Tpq5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126749496082223104/1617156015",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1003,
+		"favorite_count": 5098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Cause I know what you like🐰\n\n📸신규 포토 세트 &amp; 미니포스터 세트와 함께! \n이제 NewJeans, ADOR의 공식 상품을 온라인에서 만날 수 있어요! (1/3)\n\n👖판매 개시 2022.09.02. 11AM(KST) \n🛒@weverseshop\n📍예약 판매 상품으로, 상세 내용은 추후 위버스샵 공지를 참고해 주세요\n\n#NewJeans #뉴진스 https://t.co/piiuxvWGp1"
+	},
+	{
+		"created_at": "Thu Sep 01 02:29:48 +0000 2022",
+		"id": 1565163631628542000,
+		"id_str": "1565164991933829120",
+		"full_text": "[9/1(목) 엠뮤톡] 2시 21분 시작~! 뉴진스/하성운/Billlie/\n스트레이키즈/IVE/NCT DREAM/VIVIZ/TWICE/j-hope/소녀시대\n9월의 처음을 장식할 가수들을 소개하지 후후, 기대되나? 팔로팔로미🤜🤛",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1257938,
+			"friends_count": 470,
+			"listed_count": 1592,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[9/1(목) 엠뮤톡] 2시 21분 시작~! 뉴진스/하성운/Billlie/\n스트레이키즈/IVE/NCT DREAM/VIVIZ/TWICE/j-hope/소녀시대\n9월의 처음을 장식할 가수들을 소개하지 후후, 기대되나? 팔로팔로미🤜🤛"
+	},
+	{
+		"created_at": "Thu Sep 01 02:05:55 +0000 2022",
+		"id": 1565152529104908300,
+		"id_str": "1565158983232409601",
+		"full_text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' Dance Practice Behind The Scenes\n▶ https://t.co/dqKEfMUyWm\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dqKEfMUyWm",
+					"expanded_url": "https://youtu.be/g63tfuQndHE",
+					"display_url": "youtu.be/g63tfuQndHE",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65398,
+			"friends_count": 12,
+			"listed_count": 281,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' Dance Practice Behind The Scenes\n▶ https://t.co/dqKEfMUyWm\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Sep 01 01:32:40 +0000 2022",
 		"id": 1565143592464568300,
 		"id_str": "1565150613704364033",
