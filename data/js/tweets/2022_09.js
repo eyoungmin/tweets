@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 03:40:14 +0000 2022",
+		"id": 1565180144142221300,
+		"id_str": "1565182719721705472",
+		"full_text": "triple VENOM\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/vPnFsMYQhL\n\n#tripleS #트리플에스 #トリプルS https://t.co/MpLH4NHqC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPnFsMYQhL",
+					"expanded_url": "https://youtu.be/9wtU04nWzk4",
+					"display_url": "youtu.be/9wtU04nWzk4",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565179864939843600,
+					"id_str": "1565179864939843585",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FbikC_FVEAAvLKx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbikC_FVEAAvLKx.jpg",
+					"url": "https://t.co/MpLH4NHqC6",
+					"display_url": "pic.twitter.com/MpLH4NHqC6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565180144142221318/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565179864939843600,
+					"id_str": "1565179864939843585",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FbikC_FVEAAvLKx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbikC_FVEAAvLKx.jpg",
+					"url": "https://t.co/MpLH4NHqC6",
+					"display_url": "pic.twitter.com/MpLH4NHqC6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565180144142221318/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24640,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565179864939843585/pu/vid/1280x720/hGZxq6kBJazrFx69.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565179864939843585/pu/vid/480x270/ikZmiwSej8x6NKfO.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565179864939843585/pu/vid/640x360/mycCkyxWd0Dsp8Xk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1565179864939843585/pu/pl/_9nxPqlsrL2EuhjJ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13379,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "triple VENOM\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/vPnFsMYQhL\n\n#tripleS #트리플에스 #トリプルS https://t.co/MpLH4NHqC6"
+	},
+	{
 		"created_at": "Thu Sep 01 02:40:17 +0000 2022",
 		"id": 1565157584239476700,
 		"id_str": "1565167631673556992",
