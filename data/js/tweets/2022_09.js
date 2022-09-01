@@ -1,6 +1,1067 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 12:40:40 +0000 2022",
+		"id": 1565316408246177800,
+		"id_str": "1565318721505296384",
+		"full_text": "LIVE + Re-Streaming\nKOR : https://t.co/qUpmUzozfd\nEN : https://t.co/pUssrrygkt\nJP : https://t.co/9DCqQtwcPQ\nCN : https://t.co/BexANF2thh\n\n#GirlsGeneration #소녀시대 \n#Long_Lasting_Love",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						162,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qUpmUzozfd",
+					"expanded_url": "https://bit.ly/3psoLqY",
+					"display_url": "bit.ly/3psoLqY",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/pUssrrygkt",
+					"expanded_url": "https://bit.ly/3prxkCf",
+					"display_url": "bit.ly/3prxkCf",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/9DCqQtwcPQ",
+					"expanded_url": "https://bit.ly/3c4YPhU",
+					"display_url": "bit.ly/3c4YPhU",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/BexANF2thh",
+					"expanded_url": "https://bit.ly/3wbJcw0",
+					"display_url": "bit.ly/3wbJcw0",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565316406300012500,
+		"in_reply_to_status_id_str": "1565316406300012545",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3892648,
+			"friends_count": 5,
+			"listed_count": 6193,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "LIVE + Re-Streaming\nKOR : https://t.co/qUpmUzozfd\nEN : https://t.co/pUssrrygkt\nJP : https://t.co/9DCqQtwcPQ\nCN : https://t.co/BexANF2thh\n\n#GirlsGeneration #소녀시대 \n#Long_Lasting_Love"
+	},
+	{
+		"created_at": "Thu Sep 01 12:40:34 +0000 2022",
+		"id": 1565316406300012500,
+		"id_str": "1565318700005298177",
+		"full_text": "📍 SMTOWN &amp;STORE\n🎫 Ticket sales : ~ 9/3 (SAT) 7PM KST\n🎁 Ticket+MD sales : ~ 9/3 (SAT) 7PM KST\n\nLIVE ONLY\nKOR : https://t.co/SqmDww52cG\nEN : https://t.co/5tZ5s6vmBh\nJP : https://t.co/NdJUBCVryY\nCN : https://t.co/7vIycGCz0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SqmDww52cG",
+					"expanded_url": "https://bit.ly/3QPxoap",
+					"display_url": "bit.ly/3QPxoap",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/5tZ5s6vmBh",
+					"expanded_url": "https://bit.ly/3QHZ7dg",
+					"display_url": "bit.ly/3QHZ7dg",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/NdJUBCVryY",
+					"expanded_url": "https://bit.ly/3CuVeoj",
+					"display_url": "bit.ly/3CuVeoj",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/7vIycGCz0T",
+					"expanded_url": "https://bit.ly/3pstOaB",
+					"display_url": "bit.ly/3pstOaB",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565316041374421000,
+		"in_reply_to_status_id_str": "1565316041374420994",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3892648,
+			"friends_count": 5,
+			"listed_count": 6193,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 SMTOWN &amp;STORE\n🎫 Ticket sales : ~ 9/3 (SAT) 7PM KST\n🎁 Ticket+MD sales : ~ 9/3 (SAT) 7PM KST\n\nLIVE ONLY\nKOR : https://t.co/SqmDww52cG\nEN : https://t.co/5tZ5s6vmBh\nJP : https://t.co/NdJUBCVryY\nCN : https://t.co/7vIycGCz0T"
+	},
+	{
+		"created_at": "Thu Sep 01 12:40:29 +0000 2022",
+		"id": 1565316041374421000,
+		"id_str": "1565318678522085378",
+		"full_text": "✨“Long Lasting Love” Teaser Video✨\n\n2022 Girls' Generation Special Event : Long Lasting Love에서 만나요~\n\n[2022 Girls' Generation Special Event : Long Lasting Love]\n\n📅 9/3(Sat) 7PM KST\n📍 Beyond LIVE : ~ 9/3 (SAT) 7:30PM KST\n🔗 https://t.co/trq0hZVtuA https://t.co/BY0T69xGSG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/trq0hZVtuA",
+					"expanded_url": "https://beyondlive.com/contents/152",
+					"display_url": "beyondlive.com/contents/152",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565281361896046600,
+					"id_str": "1565281361896046592",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565281361896046592/img/3wpOcrdccGdTlUGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565281361896046592/img/3wpOcrdccGdTlUGy.jpg",
+					"url": "https://t.co/BY0T69xGSG",
+					"display_url": "pic.twitter.com/BY0T69xGSG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1565316041374420994/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565281361896046600,
+					"id_str": "1565281361896046592",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565281361896046592/img/3wpOcrdccGdTlUGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565281361896046592/img/3wpOcrdccGdTlUGy.jpg",
+					"url": "https://t.co/BY0T69xGSG",
+					"display_url": "pic.twitter.com/BY0T69xGSG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1565316041374420994/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71337,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565281361896046592/vid/1280x720/cZX5RfmLDMQmj-7F.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565281361896046592/vid/640x360/YDjr2Dc3cY6VNWhJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565281361896046592/vid/480x270/0gSR9EVyDFf8oJP_.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565281361896046592/pl/RhOdTn9J-QISn-Id.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3892648,
+			"friends_count": 5,
+			"listed_count": 6193,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3007,
+		"favorite_count": 4957,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨“Long Lasting Love” Teaser Video✨\n\n2022 Girls' Generation Special Event : Long Lasting Love에서 만나요~\n\n[2022 Girls' Generation Special Event : Long Lasting Love]\n\n📅 9/3(Sat) 7PM KST\n📍 Beyond LIVE : ~ 9/3 (SAT) 7:30PM KST\n🔗 https://t.co/trq0hZVtuA https://t.co/BY0T69xGSG"
+	},
+	{
+		"created_at": "Thu Sep 01 12:40:25 +0000 2022",
+		"id": 1565308557871829000,
+		"id_str": "1565318661128200192",
+		"full_text": "S1-S7スペシャルクラスオブジェクトドロップ🎉\n\nスペシャルクラスオブジェクトが9月5日ついに皆様をの元に！\nメンバーのFirstClassObjekt8種を集めた方には、特別なオブジェクトが訪れます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/aEMX7mnoXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565305212872429600,
+					"id_str": "1565305212872429569",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkUzDpUEAEUVES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkUzDpUEAEUVES.jpg",
+					"url": "https://t.co/aEMX7mnoXR",
+					"display_url": "pic.twitter.com/aEMX7mnoXR",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308557871828992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565305212872429600,
+					"id_str": "1565305212872429569",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkUzDpUEAEUVES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkUzDpUEAEUVES.jpg",
+					"url": "https://t.co/aEMX7mnoXR",
+					"display_url": "pic.twitter.com/aEMX7mnoXR",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308557871828992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565308553115553800,
+		"in_reply_to_status_id_str": "1565308553115553792",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13391,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "S1-S7スペシャルクラスオブジェクトドロップ🎉\n\nスペシャルクラスオブジェクトが9月5日ついに皆様をの元に！\nメンバーのFirstClassObjekt8種を集めた方には、特別なオブジェクトが訪れます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/aEMX7mnoXR"
+	},
+	{
+		"created_at": "Thu Sep 01 12:40:18 +0000 2022",
+		"id": 1565308553115553800,
+		"id_str": "1565318631093043200",
+		"full_text": "S1-S7 Special Class Objekt Drop🎉\n\nSpecial Objekts are finally headed your way starting from Sep. 5th!\nIf you collect all 8 types of our S’ First Class Objekt, you’re eligible to receive a Special Class Objekt.\n\n#tripleS #트리플에스 #トリプルS https://t.co/2hwOkAU5wT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						227,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565305187303968800,
+					"id_str": "1565305187303968775",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkUxkZUUAc0lZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkUxkZUUAc0lZ5.jpg",
+					"url": "https://t.co/2hwOkAU5wT",
+					"display_url": "pic.twitter.com/2hwOkAU5wT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308553115553792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565305187303968800,
+					"id_str": "1565305187303968775",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkUxkZUUAc0lZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkUxkZUUAc0lZ5.jpg",
+					"url": "https://t.co/2hwOkAU5wT",
+					"display_url": "pic.twitter.com/2hwOkAU5wT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308553115553792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1565308548401078300,
+		"in_reply_to_status_id_str": "1565308548401078272",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13391,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "S1-S7 Special Class Objekt Drop🎉\n\nSpecial Objekts are finally headed your way starting from Sep. 5th!\nIf you collect all 8 types of our S’ First Class Objekt, you’re eligible to receive a Special Class Objekt.\n\n#tripleS #트리플에스 #トリプルS https://t.co/2hwOkAU5wT"
+	},
+	{
+		"created_at": "Thu Sep 01 12:40:10 +0000 2022",
+		"id": 1565308548401078300,
+		"id_str": "1565318596867362816",
+		"full_text": "S1-S7 스페셜 클래스 오브젝트 드롭🎉\n\n스페셜 클래스 오브젝트가 9월 5일 마침내 여러분을 찾아갑니다!\n멤버들의 First Class Objekt 8종을 모으신 분들에게는 특별한 오브젝트가 찾아갑니다.\n\n#tripleS #트리플에스 #トリプルS https://t.co/v22EqNBj8d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565306361532952600,
+					"id_str": "1565306361532952577",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkV16vUsAEIldF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkV16vUsAEIldF.jpg",
+					"url": "https://t.co/v22EqNBj8d",
+					"display_url": "pic.twitter.com/v22EqNBj8d",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308548401078272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565306361532952600,
+					"id_str": "1565306361532952577",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkV16vUsAEIldF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkV16vUsAEIldF.jpg",
+					"url": "https://t.co/v22EqNBj8d",
+					"display_url": "pic.twitter.com/v22EqNBj8d",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565308548401078272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13391,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "S1-S7 스페셜 클래스 오브젝트 드롭🎉\n\n스페셜 클래스 오브젝트가 9월 5일 마침내 여러분을 찾아갑니다!\n멤버들의 First Class Objekt 8종을 모으신 분들에게는 특별한 오브젝트가 찾아갑니다.\n\n#tripleS #트리플에스 #トリプルS https://t.co/v22EqNBj8d"
+	},
+	{
 		"created_at": "Thu Sep 01 11:40:16 +0000 2022",
 		"id": 1565297862040162300,
 		"id_str": "1565303524225056768",
