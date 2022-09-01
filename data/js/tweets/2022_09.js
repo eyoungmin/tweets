@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 01 11:40:16 +0000 2022",
+		"id": 1565297862040162300,
+		"id_str": "1565303524225056768",
+		"full_text": "오~ 아무것도 안 했는데 왜❓️\n시간은 벌써 영스 할 시간⏰️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/IVVmOWjnvP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565297790221107200,
+					"id_str": "1565297790221107200",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkODAHVQAATc9z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkODAHVQAATc9z.jpg",
+					"url": "https://t.co/IVVmOWjnvP",
+					"display_url": "pic.twitter.com/IVVmOWjnvP",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1565297862040162304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565297790221107200,
+					"id_str": "1565297790221107200",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkODAHVQAATc9z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkODAHVQAATc9z.jpg",
+					"url": "https://t.co/IVVmOWjnvP",
+					"display_url": "pic.twitter.com/IVVmOWjnvP",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1565297862040162304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565297827311341600,
+					"id_str": "1565297827311341569",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbkOFKSVUAECClW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbkOFKSVUAECClW.jpg",
+					"url": "https://t.co/IVVmOWjnvP",
+					"display_url": "pic.twitter.com/IVVmOWjnvP",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1565297862040162304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet  'The ReVe Festival 2022 - Feel My Rhythm'\n\n2022.3.21. 6PM KST",
+			"url": "https://t.co/0hh6Lb9mYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9mYR",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5590689,
+			"friends_count": 2,
+			"listed_count": 11265,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498674568898170888/AVBRR9k-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1646148486",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2158,
+		"favorite_count": 7054,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오~ 아무것도 안 했는데 왜❓️\n시간은 벌써 영스 할 시간⏰️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/IVVmOWjnvP"
+	},
+	{
+		"created_at": "Thu Sep 01 11:40:12 +0000 2022",
+		"id": 1565297761356230700,
+		"id_str": "1565303506793275395",
+		"full_text": "[TikTok📹]\nTurn ur phone to the left ⬅️ 왼쪽으로 휙\n\n🔗 https://t.co/ry7wp0uH0h\n\n#NewJeans #NewJeans_Attention\n#MINJI #HANNI #DANIELLE #HAERIN #HYEIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "NewJeans_Attention",
+					"indices": [
+						84,
+						103
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ry7wp0uH0h",
+					"expanded_url": "https://vt.tiktok.com/ZSRymqMFh/",
+					"display_url": "vt.tiktok.com/ZSRymqMFh/",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "We Are NewJeans👖",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433083,
+			"friends_count": 3,
+			"listed_count": 1385,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 1707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TikTok📹]\nTurn ur phone to the left ⬅️ 왼쪽으로 휙\n\n🔗 https://t.co/ry7wp0uH0h\n\n#NewJeans #NewJeans_Attention\n#MINJI #HANNI #DANIELLE #HAERIN #HYEIN"
+	},
+	{
+		"created_at": "Thu Sep 01 11:40:10 +0000 2022",
+		"id": 1565293400664023000,
+		"id_str": "1565303497393840130",
+		"full_text": "[wall_live🎤] X HASEUL&amp;KIM LIP(LOONA)\n\n📌 소년, 소녀\n📌 Twilight\n\n깊어가는 계절만큼이나\n더욱 성숙해진 목소리로 부르는\n\n이달의 소녀 #하슬 &amp; #김립 의\n라이브 클립이 공개되었습니다🤍\n \n🎥 https://t.co/ky9BGWw5rr\n \n쉿-! 2주 뒤 #아체라 에서 또 만나🌙🤫\n#이달의소녀 #LOONA #월라이브 https://t.co/WcVpAnl3MD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "아체라",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "월라이브",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ky9BGWw5rr",
+					"expanded_url": "http://youtu.be/vcG5saVI43A",
+					"display_url": "youtu.be/vcG5saVI43A",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1564515026408378400,
+					"id_str": "1564515026408378368",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZGIJrVEAAPaZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZGIJrVEAAPaZh.jpg",
+					"url": "https://t.co/WcVpAnl3MD",
+					"display_url": "pic.twitter.com/WcVpAnl3MD",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1565293400664023043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564515026408378400,
+					"id_str": "1564515026408378368",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZGIJrVEAAPaZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZGIJrVEAAPaZh.jpg",
+					"url": "https://t.co/WcVpAnl3MD",
+					"display_url": "pic.twitter.com/WcVpAnl3MD",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1565293400664023043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2E0SlA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2E0SlA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5075,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1661763609",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1240,
+		"favorite_count": 2420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[wall_live🎤] X HASEUL&amp;KIM LIP(LOONA)\n\n📌 소년, 소녀\n📌 Twilight\n\n깊어가는 계절만큼이나\n더욱 성숙해진 목소리로 부르는\n\n이달의 소녀 #하슬 &amp; #김립 의\n라이브 클립이 공개되었습니다🤍\n \n🎥 https://t.co/ky9BGWw5rr\n \n쉿-! 2주 뒤 #아체라 에서 또 만나🌙🤫\n#이달의소녀 #LOONA #월라이브 https://t.co/WcVpAnl3MD"
+	},
+	{
+		"created_at": "Thu Sep 01 11:29:39 +0000 2022",
+		"id": 1565294597567553500,
+		"id_str": "1565300849353555969",
+		"full_text": "👏 \"공조2가 #공조2 했다!\" 믿.보 영화 이즈 백!\n최고의 #종합선물세트 &lt;#공조2_인터내셔날&gt;로 추석 준비 끄읕~!😉🔥\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/vRHBarjnhz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "종합선물세트",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565293683812970500,
+					"id_str": "1565293683812970497",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565293683812970497/img/tOlIOAUjB422cV7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565293683812970497/img/tOlIOAUjB422cV7Q.jpg",
+					"url": "https://t.co/vRHBarjnhz",
+					"display_url": "pic.twitter.com/vRHBarjnhz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565294597567553536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565293683812970500,
+					"id_str": "1565293683812970497",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565293683812970497/img/tOlIOAUjB422cV7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565293683812970497/img/tOlIOAUjB422cV7Q.jpg",
+					"url": "https://t.co/vRHBarjnhz",
+					"display_url": "pic.twitter.com/vRHBarjnhz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565294597567553536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565293683812970497/pl/80c5OqhXjJG02PDd.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565293683812970497/vid/540x540/8O7BVH04LPpHX-NB.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565293683812970497/vid/320x320/9xb_k2c6DerC98AK.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565293683812970497/vid/720x720/KmAxrliJbsEplcMw.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331648,
+			"friends_count": 10646,
+			"listed_count": 259,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1660268753",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👏 \"공조2가 #공조2 했다!\" 믿.보 영화 이즈 백!\n최고의 #종합선물세트 &lt;#공조2_인터내셔날&gt;로 추석 준비 끄읕~!😉🔥\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/vRHBarjnhz"
+	},
+	{
 		"created_at": "Thu Sep 01 10:40:39 +0000 2022",
 		"id": 1565286767972200400,
 		"id_str": "1565288521673367552",
