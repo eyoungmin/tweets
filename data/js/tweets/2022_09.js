@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 09:40:19 +0000 2022",
+		"id": 1565625829429756000,
+		"id_str": "1565635723910418433",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/bKSWHqPUFI\n\n이달의 소녀 (LOONA) X 원더월 공식 트레일러 공개🌙\n\n📌9/7 Coming soon\n\n오직 원더월에서만.\n\n#이달의소녀 #LOONA #Wonderwall https://t.co/daUUsNckkY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "Wonderwall",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bKSWHqPUFI",
+					"expanded_url": "https://youtu.be/UylfoE0QPg0",
+					"display_url": "youtu.be/UylfoE0QPg0",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565620404227801000,
+					"id_str": "1565620404227801088",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbozdm8aAAA8GeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbozdm8aAAA8GeY.jpg",
+					"url": "https://t.co/daUUsNckkY",
+					"display_url": "pic.twitter.com/daUUsNckkY",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1565625829429755904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565620404227801000,
+					"id_str": "1565620404227801088",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbozdm8aAAA8GeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbozdm8aAAA8GeY.jpg",
+					"url": "https://t.co/daUUsNckkY",
+					"display_url": "pic.twitter.com/daUUsNckkY",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1565625829429755904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/ejAElWdaAo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejAElWdaAo",
+							"expanded_url": "http://linktr.ee/wonderwall.artlab",
+							"display_url": "linktr.ee/wonderwall.art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20394,
+			"friends_count": 2,
+			"listed_count": 47,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1660814879",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 783,
+		"favorite_count": 2061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/bKSWHqPUFI\n\n이달의 소녀 (LOONA) X 원더월 공식 트레일러 공개🌙\n\n📌9/7 Coming soon\n\n오직 원더월에서만.\n\n#이달의소녀 #LOONA #Wonderwall https://t.co/daUUsNckkY"
+	},
+	{
+		"created_at": "Fri Sep 02 09:29:47 +0000 2022",
+		"id": 1565628795591458800,
+		"id_str": "1565633072627941378",
+		"full_text": "🔥웃음X액션X케미 3배 더! 메가급 더 재밌어졌다!🔥\n&lt;#공조2_인터내셔날&gt; #메가토크 에서 토크 공조할 사람~!🙋\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/sDRQfQqsvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "메가토크",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565628778885546000,
+					"id_str": "1565628778885545984",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbo7FE-aAAAOK7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbo7FE-aAAAOK7G.jpg",
+					"url": "https://t.co/sDRQfQqsvE",
+					"display_url": "pic.twitter.com/sDRQfQqsvE",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565628795591458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565628778885546000,
+					"id_str": "1565628778885545984",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbo7FE-aAAAOK7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbo7FE-aAAAOK7G.jpg",
+					"url": "https://t.co/sDRQfQqsvE",
+					"display_url": "pic.twitter.com/sDRQfQqsvE",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565628795591458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331667,
+			"friends_count": 10646,
+			"listed_count": 259,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662085906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥웃음X액션X케미 3배 더! 메가급 더 재밌어졌다!🔥\n&lt;#공조2_인터내셔날&gt; #메가토크 에서 토크 공조할 사람~!🙋\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/sDRQfQqsvE"
+	},
+	{
+		"created_at": "Fri Sep 02 09:29:39 +0000 2022",
+		"id": 1565619098394198000,
+		"id_str": "1565633038528221184",
+		"full_text": "💌[띵동] 심장이 철령할 소식 도착! #공조_무대인사 이즈 백!\n개봉 기념! &lt;#공조2_인터내셔날&gt; 개봉일 무대인사에서 만나요!🥰\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/SWypwBl84X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조_무대인사",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565618910124470300,
+					"id_str": "1565618910124470272",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FboyGo-acAAPmRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboyGo-acAAPmRa.jpg",
+					"url": "https://t.co/SWypwBl84X",
+					"display_url": "pic.twitter.com/SWypwBl84X",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565619098394198016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565618910124470300,
+					"id_str": "1565618910124470272",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FboyGo-acAAPmRa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FboyGo-acAAPmRa.jpg",
+					"url": "https://t.co/SWypwBl84X",
+					"display_url": "pic.twitter.com/SWypwBl84X",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565619098394198016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331667,
+			"friends_count": 10646,
+			"listed_count": 259,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662085906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌[띵동] 심장이 철령할 소식 도착! #공조_무대인사 이즈 백!\n개봉 기념! &lt;#공조2_인터내셔날&gt; 개봉일 무대인사에서 만나요!🥰\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/SWypwBl84X"
+	},
+	{
 		"created_at": "Fri Sep 02 08:45:37 +0000 2022",
 		"id": 1565610479849980000,
 		"id_str": "1565621957759991809",
