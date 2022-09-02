@@ -1,6 +1,1059 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 10:44:33 +0000 2022",
+		"id": 1565640630533263400,
+		"id_str": "1565651889642803201",
+		"full_text": "[#현진 / #HyunJin] 여름이었다☀\n\n#이달의소녀 #LOONA https://t.co/IGvSlluA5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565640617970897000,
+					"id_str": "1565640617970896897",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpF2NAUEAESLdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpF2NAUEAESLdW.jpg",
+					"url": "https://t.co/IGvSlluA5p",
+					"display_url": "pic.twitter.com/IGvSlluA5p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565640630533263361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565640617970897000,
+					"id_str": "1565640617970896897",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpF2NAUEAESLdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpF2NAUEAESLdW.jpg",
+					"url": "https://t.co/IGvSlluA5p",
+					"display_url": "pic.twitter.com/IGvSlluA5p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565640630533263361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565640617979351000,
+					"id_str": "1565640617979351040",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpF2NCVEAA_r-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpF2NCVEAA_r-U.jpg",
+					"url": "https://t.co/IGvSlluA5p",
+					"display_url": "pic.twitter.com/IGvSlluA5p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565640630533263361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565640618008686600,
+					"id_str": "1565640618008686592",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpF2NJUsAAtA3v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpF2NJUsAAtA3v.jpg",
+					"url": "https://t.co/IGvSlluA5p",
+					"display_url": "pic.twitter.com/IGvSlluA5p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565640630533263361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565640617970901000,
+					"id_str": "1565640617970900998",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpF2NAUIAYPhah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpF2NAUIAYPhah.jpg",
+					"url": "https://t.co/IGvSlluA5p",
+					"display_url": "pic.twitter.com/IGvSlluA5p",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565640630533263361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1422,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977736,
+			"friends_count": 3,
+			"listed_count": 8970,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1804,
+		"favorite_count": 5973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#현진 / #HyunJin] 여름이었다☀\n\n#이달의소녀 #LOONA https://t.co/IGvSlluA5p"
+	},
+	{
+		"created_at": "Fri Sep 02 10:40:34 +0000 2022",
+		"id": 1565650011442266000,
+		"id_str": "1565650888743690241",
+		"full_text": "[#진솔 / #JinSoul] 나의 작은 힐링법이랄까요 ⌯'▾'⌯\n\n#이달의소녀 #LOONA https://t.co/dDbfVTcZXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565650004802683000,
+					"id_str": "1565650004802682880",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpOYlraQAAEXtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpOYlraQAAEXtf.jpg",
+					"url": "https://t.co/dDbfVTcZXH",
+					"display_url": "pic.twitter.com/dDbfVTcZXH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565650011442266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565650004802683000,
+					"id_str": "1565650004802682880",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpOYlraQAAEXtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpOYlraQAAEXtf.jpg",
+					"url": "https://t.co/dDbfVTcZXH",
+					"display_url": "pic.twitter.com/dDbfVTcZXH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565650011442266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565650004806893600,
+					"id_str": "1565650004806893569",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpOYlsagAEzLP6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpOYlsagAEzLP6.jpg",
+					"url": "https://t.co/dDbfVTcZXH",
+					"display_url": "pic.twitter.com/dDbfVTcZXH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565650011442266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565650004794294300,
+					"id_str": "1565650004794294272",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpOYlpaQAAwPdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpOYlpaQAAwPdv.jpg",
+					"url": "https://t.co/dDbfVTcZXH",
+					"display_url": "pic.twitter.com/dDbfVTcZXH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565650011442266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565650004781723600,
+					"id_str": "1565650004781723648",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FbpOYlmacAA4FCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbpOYlmacAA4FCi.jpg",
+					"url": "https://t.co/dDbfVTcZXH",
+					"display_url": "pic.twitter.com/dDbfVTcZXH",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1565650011442266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977736,
+			"friends_count": 3,
+			"listed_count": 8970,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1458,
+		"favorite_count": 4307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 나의 작은 힐링법이랄까요 ⌯'▾'⌯\n\n#이달의소녀 #LOONA https://t.co/dDbfVTcZXH"
+	},
+	{
+		"created_at": "Fri Sep 02 10:40:31 +0000 2022",
+		"id": 1565640687684427800,
+		"id_str": "1565650875300864001",
+		"full_text": "Tickets for  \"LOONATHEWORLD in TOKYO\" have been decided to be sold to the general public. 👏\n\n🎟 [General sale] September 3rd, 2022 (Sat) 10:00~（JST）\n\nFirst-come, first-served, so please buy it as soon as possible.✨\n▶️ https://t.co/dKqbcjbBg9\n\n#LOONA \n#今月の少女\n#ORBITJAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						250,
+						256
+					]
+				},
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						257,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dKqbcjbBg9",
+					"expanded_url": "https://loonatheworld.jp/2022/09/02/834/",
+					"display_url": "loonatheworld.jp/2022/09/02/834/",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12003,
+			"friends_count": 2,
+			"listed_count": 119,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tickets for  \"LOONATHEWORLD in TOKYO\" have been decided to be sold to the general public. 👏\n\n🎟 [General sale] September 3rd, 2022 (Sat) 10:00~（JST）\n\nFirst-come, first-served, so please buy it as soon as possible.✨\n▶️ https://t.co/dKqbcjbBg9\n\n#LOONA \n#今月の少女\n#ORBITJAPAN"
+	},
+	{
+		"created_at": "Fri Sep 02 10:40:28 +0000 2022",
+		"id": 1565640682412310500,
+		"id_str": "1565650862118158337",
+		"full_text": "「LOONA 1st LIVE “LOONATHEWORLD in TOKYO”」のチケット一般販売が決定しました👏\n\n🎟販売開始:2022年9月3日 10:00~\n\n先着受付ですのでお早めにお買い求めください✨\n▶️ https://t.co/5qcCn4Y4PI\n\n#LOONA \n#今月の少女\n#ORBITJAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5qcCn4Y4PI",
+					"expanded_url": "https://loonatheworld.jp/2022/09/02/828/",
+					"display_url": "loonatheworld.jp/2022/09/02/828/",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12003,
+			"friends_count": 2,
+			"listed_count": 119,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「LOONA 1st LIVE “LOONATHEWORLD in TOKYO”」のチケット一般販売が決定しました👏\n\n🎟販売開始:2022年9月3日 10:00~\n\n先着受付ですのでお早めにお買い求めください✨\n▶️ https://t.co/5qcCn4Y4PI\n\n#LOONA \n#今月の少女\n#ORBITJAPAN"
+	},
+	{
+		"created_at": "Fri Sep 02 10:40:24 +0000 2022",
+		"id": 1565641012370096000,
+		"id_str": "1565650844816752643",
+		"full_text": "썬밀리를 위한 선예의 특별한 선물이 네모즈앱에 도착했습니다! 지금 바로 알람을 클릭해 콘텐츠를 즐겨 보세요!\n\nA special present from SUNYE for SunMilly arrived on Nemoz App! Click the alarm and enjoy the content! \n\n#선예 #Sunye \n#Genuine #JustADancer  \n#NemoAlbum\n@BBC_blockberry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "NemoAlbum",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						214,
+						229
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1501830480374952000,
+			"id_str": "1501830480374951937",
+			"name": "NEMOZ",
+			"screen_name": "nemoz_lab",
+			"location": "Republic of Korea",
+			"description": "Tag & Play! Next CD, Nemo Album​ by Nemoz Lab\n▶ Play Store https://t.co/N0ZsNS3w2z​\n▶ App Store https://t.co/IQ0EpaQ7s7\n▶ Shop https://t.co/3v6Laiqv9o",
+			"url": "https://t.co/9uUDCfAux1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9uUDCfAux1",
+							"expanded_url": "http://nemoz.io",
+							"display_url": "nemoz.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/N0ZsNS3w2z",
+							"expanded_url": "http://bit.ly/3NGflD6",
+							"display_url": "bit.ly/3NGflD6",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/IQ0EpaQ7s7",
+							"expanded_url": "http://apple.co/35uXWfc",
+							"display_url": "apple.co/35uXWfc",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/3v6Laiqv9o",
+							"expanded_url": "http://nemoz.shop",
+							"display_url": "nemoz.shop",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Thu Mar 10 08:01:19 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509739304431456258/riZkpkKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509739304431456258/riZkpkKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1501830480374951937/1648457825",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "썬밀리를 위한 선예의 특별한 선물이 네모즈앱에 도착했습니다! 지금 바로 알람을 클릭해 콘텐츠를 즐겨 보세요!\n\nA special present from SUNYE for SunMilly arrived on Nemoz App! Click the alarm and enjoy the content! \n\n#선예 #Sunye \n#Genuine #JustADancer  \n#NemoAlbum\n@BBC_blockberry"
+	},
+	{
 		"created_at": "Fri Sep 02 09:40:19 +0000 2022",
 		"id": 1565625829429756000,
 		"id_str": "1565635723910418433",
