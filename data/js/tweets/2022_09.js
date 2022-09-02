@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 02:40:14 +0000 2022",
+		"id": 1565526475897712600,
+		"id_str": "1565530006784278528",
+		"full_text": "aespa Selected as the New Face of Chopard\n\n🔗 https://t.co/didV16Xcea\n\n#aespa #æspa #에스파\n#Chopard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Chopard",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/didV16Xcea",
+					"expanded_url": "https://www.envimedia.co/aespa-selected-as-the-new-face-of-chopard/",
+					"display_url": "envimedia.co/aespa-selected…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3126558,
+			"friends_count": 2,
+			"listed_count": 9420,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2936,
+		"favorite_count": 7489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa Selected as the New Face of Chopard\n\n🔗 https://t.co/didV16Xcea\n\n#aespa #æspa #에스파\n#Chopard"
+	},
+	{
+		"created_at": "Fri Sep 02 02:40:10 +0000 2022",
+		"id": 1565521718919106600,
+		"id_str": "1565529989461729280",
+		"full_text": "#BLACKPINK 블랙핑크가 독이라면, 기꺼이 중독될게 ♥ (ft. MV 비하인드 컷)\n\n👉 https://t.co/LViOQR6XZK\n\n#블랙핑크 #지수 #제니 #로제 #리사 #PinkVenom #BLACKPINK_PinkVenom #BORNPINK #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "BLACKPINK_PinkVenom",
+					"indices": [
+						111,
+						131
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						142,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LViOQR6XZK",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=34411421&memberNo=37292560",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8889759,
+			"friends_count": 36,
+			"listed_count": 9836,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4069,
+		"favorite_count": 11775,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK 블랙핑크가 독이라면, 기꺼이 중독될게 ♥ (ft. MV 비하인드 컷)\n\n👉 https://t.co/LViOQR6XZK\n\n#블랙핑크 #지수 #제니 #로제 #리사 #PinkVenom #BLACKPINK_PinkVenom #BORNPINK #YG"
+	},
+	{
+		"created_at": "Fri Sep 02 02:29:47 +0000 2022",
+		"id": 1565519880882999300,
+		"id_str": "1565527376171237378",
+		"full_text": "[11회 예고👄]\n\"오늘 밤에 둘 다 없애\" 💥 과연 빅마우스의 정체는? 🐭\n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #mbcdrama \nMBC 220902 방송 https://t.co/crtxHLYwNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "MBC금토드라마",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "mbcdrama",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564153333501243400,
+					"id_str": "1564153333501243392",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FbT-O0AVEAI-XQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbT-O0AVEAI-XQF.jpg",
+					"url": "https://t.co/crtxHLYwNG",
+					"display_url": "pic.twitter.com/crtxHLYwNG",
+					"expanded_url": "https://twitter.com/withMBC/status/1565519880882999297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564153333501243400,
+					"id_str": "1564153333501243392",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FbT-O0AVEAI-XQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbT-O0AVEAI-XQF.jpg",
+					"url": "https://t.co/crtxHLYwNG",
+					"display_url": "pic.twitter.com/crtxHLYwNG",
+					"expanded_url": "https://twitter.com/withMBC/status/1565519880882999297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33031,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1564153333501243392/vid/480x270/oLvcdOP-9NoiSnAb.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1564153333501243392/vid/640x360/cnei1OcKhuBHaoeo.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1564153333501243392/vid/1280x720/k0acNmD3ucP8IcHe.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1564153333501243392/pl/B8K0RuuK83kMWl9-.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1004041,
+			"friends_count": 9831,
+			"listed_count": 4201,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[11회 예고👄]\n\"오늘 밤에 둘 다 없애\" 💥 과연 빅마우스의 정체는? 🐭\n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송👄\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #mbcdrama \nMBC 220902 방송 https://t.co/crtxHLYwNG"
+	},
+	{
 		"created_at": "Fri Sep 02 00:29:39 +0000 2022",
 		"id": 1565490588006629400,
 		"id_str": "1565497143065993216",
