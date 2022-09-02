@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 14:40:10 +0000 2022",
+		"id": 1565701102825242600,
+		"id_str": "1565711184757772295",
+		"full_text": "#BLINKS are one of a kind! show off how you do the #PinkVenomChallenge on Shorts 🖤💖 @BLACKPINK→ https://t.co/3Vs2t7SlOp https://t.co/8HpZ50LOhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKS",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						51,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3Vs2t7SlOp",
+					"expanded_url": "http://yt.be/PinkVenom",
+					"display_url": "yt.be/PinkVenom",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565701095837556700,
+					"id_str": "1565701095837556737",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbp82enWYAErsJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbp82enWYAErsJ2.jpg",
+					"url": "https://t.co/8HpZ50LOhv",
+					"display_url": "pic.twitter.com/8HpZ50LOhv",
+					"expanded_url": "https://twitter.com/YouTube/status/1565701102825242627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565701095837556700,
+					"id_str": "1565701095837556737",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbp82enWYAErsJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbp82enWYAErsJ2.jpg",
+					"url": "https://t.co/8HpZ50LOhv",
+					"display_url": "pic.twitter.com/8HpZ50LOhv",
+					"expanded_url": "https://twitter.com/YouTube/status/1565701102825242627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10228272,
+			"id_str": "10228272",
+			"name": "YouTube",
+			"screen_name": "YouTube",
+			"location": "San Bruno, CA",
+			"description": "like and subscribe.",
+			"url": "https://t.co/bUisN3Gqbw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUisN3Gqbw",
+							"expanded_url": "http://youtube.com",
+							"display_url": "youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76200961,
+			"friends_count": 1202,
+			"listed_count": 80108,
+			"created_at": "Tue Nov 13 21:43:46 +0000 2007",
+			"favourites_count": 6076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1657554342",
+			"profile_link_color": "C9191D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8917,
+		"favorite_count": 28314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLINKS are one of a kind! show off how you do the #PinkVenomChallenge on Shorts 🖤💖 @BLACKPINK→ https://t.co/3Vs2t7SlOp https://t.co/8HpZ50LOhv"
+	},
+	{
 		"created_at": "Fri Sep 02 12:40:10 +0000 2022",
 		"id": 1565671631371939800,
 		"id_str": "1565680985924067328",
