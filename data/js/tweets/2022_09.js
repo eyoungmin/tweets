@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 00:29:39 +0000 2022",
+		"id": 1565490588006629400,
+		"id_str": "1565497143065993216",
+		"full_text": "🏆 2022 올해의 브랜드 대상 🏆\n&lt; 여자솔로가수 부문 &gt; 태연\n수상을 축하드립니다 💐\n\n#2022올해의브랜드대상\n#2022ABK\n#태연 #TAEYEON @GirlsGeneration @TAEYEONsmtown @SMTOWNGLOBAL https://t.co/qPfnEjHKVh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022올해의브랜드대상",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"text": "2022ABK",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565490577420218400,
+					"id_str": "1565490577420218368",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbm9YsZacAAay9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbm9YsZacAAay9e.jpg",
+					"url": "https://t.co/qPfnEjHKVh",
+					"display_url": "pic.twitter.com/qPfnEjHKVh",
+					"expanded_url": "https://twitter.com/kcforum/status/1565490588006629379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565490577420218400,
+					"id_str": "1565490577420218368",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbm9YsZacAAay9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbm9YsZacAAay9e.jpg",
+					"url": "https://t.co/qPfnEjHKVh",
+					"display_url": "pic.twitter.com/qPfnEjHKVh",
+					"expanded_url": "https://twitter.com/kcforum/status/1565490588006629379/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830166229,
+			"id_str": "830166229",
+			"name": "한국소비자포럼 Official",
+			"screen_name": "kcforum",
+			"location": "",
+			"description": "주최 · 주관｜한국소비자포럼\n조사 및 인증｜한국소비자포럼 · Brand keys",
+			"url": "https://t.co/ifaeuZ24QT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifaeuZ24QT",
+							"expanded_url": "https://bcli.kcforum.co.kr/2022/",
+							"display_url": "bcli.kcforum.co.kr/2022/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3196,
+			"friends_count": 0,
+			"listed_count": 17,
+			"created_at": "Tue Sep 18 01:40:27 +0000 2012",
+			"favourites_count": 3037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366607810218237954/SRKQozvA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830166229/1643013861",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 648,
+		"favorite_count": 890,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆 2022 올해의 브랜드 대상 🏆\n&lt; 여자솔로가수 부문 &gt; 태연\n수상을 축하드립니다 💐\n\n#2022올해의브랜드대상\n#2022ABK\n#태연 #TAEYEON @GirlsGeneration @TAEYEONsmtown @SMTOWNGLOBAL https://t.co/qPfnEjHKVh"
+	},
+	{
 		"created_at": "Thu Sep 01 23:29:41 +0000 2022",
 		"id": 1565477431561302000,
 		"id_str": "1565482052425846784",
