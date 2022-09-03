@@ -1,6 +1,1316 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 03:40:16 +0000 2022",
+		"id": 1565897378929991700,
+		"id_str": "1565907501031297024",
+		"full_text": "Objekt 촬영 하겠습니다  Gonna Shoot Our Objekts\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/sCKXqPkoTC\n\n#tripleS #트리플에스 #トリプルS https://t.co/tFeos2MTkm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sCKXqPkoTC",
+					"expanded_url": "https://youtu.be/Z47kDee86p0",
+					"display_url": "youtu.be/Z47kDee86p0",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565890899808202800,
+					"id_str": "1565890899808202752",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FbswM4xagAAv-lJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbswM4xagAAv-lJ.jpg",
+					"url": "https://t.co/tFeos2MTkm",
+					"display_url": "pic.twitter.com/tFeos2MTkm",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565897378929991680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565890899808202800,
+					"id_str": "1565890899808202752",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FbswM4xagAAv-lJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbswM4xagAAv-lJ.jpg",
+					"url": "https://t.co/tFeos2MTkm",
+					"display_url": "pic.twitter.com/tFeos2MTkm",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1565897378929991680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26560,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1565890899808202752/pu/pl/3a3BdOsTMB06k7x6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565890899808202752/pu/vid/480x270/vFiE_U6eb_53qONA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565890899808202752/pu/vid/640x360/Vj2Hmo1K7XvjGhTE.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565890899808202752/pu/vid/1280x720/W5WyuVSmo99pkWm0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13438,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Objekt 촬영 하겠습니다  Gonna Shoot Our Objekts\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/sCKXqPkoTC\n\n#tripleS #트리플에스 #トリプルS https://t.co/tFeos2MTkm"
+	},
+	{
+		"created_at": "Sat Sep 03 03:29:51 +0000 2022",
+		"id": 1565897373892546600,
+		"id_str": "1565904881508139009",
+		"full_text": "#공조 수칙 1. 지금 바로 &lt;#공조2_인터내셔날&gt;을 예매한다😎\n아직 첫 번째 수칙도 모르는 사람 있나? 얼른 예매하고 공조하자 \n\n지금 바로 #공조 하기 ▶ https://t.co/kbTEEpLrPN\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/Y2l10YyG8J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "공조",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						158,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEpLrPN",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1565660724038631400,
+					"id_str": "1565660724038631426",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565660724038631426/pu/img/pCz1wZH0z25WomNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565660724038631426/pu/img/pCz1wZH0z25WomNo.jpg",
+					"url": "https://t.co/Y2l10YyG8J",
+					"display_url": "pic.twitter.com/Y2l10YyG8J",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565897373892546560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565660724038631400,
+					"id_str": "1565660724038631426",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1565660724038631426/pu/img/pCz1wZH0z25WomNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1565660724038631426/pu/img/pCz1wZH0z25WomNo.jpg",
+					"url": "https://t.co/Y2l10YyG8J",
+					"display_url": "pic.twitter.com/Y2l10YyG8J",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565897373892546560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52629,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565660724038631426/pu/vid/640x360/x2pZhianJuwcOmy5.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565660724038631426/pu/vid/480x270/5f-HMACG-NWnaMrt.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1565660724038631426/pu/vid/1280x720/kG3bXxWDlNNt1wmQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1565660724038631426/pu/pl/4gFeyvK0M3G1ADIV.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331713,
+			"friends_count": 10644,
+			"listed_count": 259,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662085906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#공조 수칙 1. 지금 바로 &lt;#공조2_인터내셔날&gt;을 예매한다😎\n아직 첫 번째 수칙도 모르는 사람 있나? 얼른 예매하고 공조하자 \n\n지금 바로 #공조 하기 ▶ https://t.co/kbTEEpLrPN\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/Y2l10YyG8J"
+	},
+	{
+		"created_at": "Sat Sep 03 03:29:49 +0000 2022",
+		"id": 1565892031830179800,
+		"id_str": "1565904872653848579",
+		"full_text": "[선공개] 언제나 진심을 다해 열심히 먹는 맛잘알 이국주😋‼️\n아웅다웅 찐 케미가 흘러 넘치는 국주&amp;매니저의 점심시간🥩\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/iFFN7xGHSq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "이영자",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "송은이",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "이국주",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565889732927975400,
+					"id_str": "1565889732927975427",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbspOf9UcAAM8dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbspOf9UcAAM8dq.jpg",
+					"url": "https://t.co/iFFN7xGHSq",
+					"display_url": "pic.twitter.com/iFFN7xGHSq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565892031830179840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565889732927975400,
+					"id_str": "1565889732927975427",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FbspOf9UcAAM8dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbspOf9UcAAM8dq.jpg",
+					"url": "https://t.co/iFFN7xGHSq",
+					"display_url": "pic.twitter.com/iFFN7xGHSq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565892031830179840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 178244,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889732927975427/vid/480x270/XUQAjuRA91QGKIA0.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889732927975427/vid/640x360/-4_24jlQErwtVqkS.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889732927975427/vid/1280x720/3qIrqi988T-FXGfZ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565889732927975427/pl/3uMYaVd-QKCHx99J.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946273,
+			"friends_count": 5,
+			"listed_count": 1056,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 언제나 진심을 다해 열심히 먹는 맛잘알 이국주😋‼️\n아웅다웅 찐 케미가 흘러 넘치는 국주&amp;매니저의 점심시간🥩\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/iFFN7xGHSq"
+	},
+	{
+		"created_at": "Sat Sep 03 03:29:43 +0000 2022",
+		"id": 1565890595456921600,
+		"id_str": "1565904847014170630",
+		"full_text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️‍🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "이영자",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "송은이",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "이국주",
+					"indices": [
+						150,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565889733166715000,
+					"id_str": "1565889733166714880",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FbspGCeagAAWcPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbspGCeagAAWcPf.jpg",
+					"url": "https://t.co/L7Wpcx5HEz",
+					"display_url": "pic.twitter.com/L7Wpcx5HEz",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565890595456921601/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565889733166715000,
+					"id_str": "1565889733166714880",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FbspGCeagAAWcPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbspGCeagAAWcPf.jpg",
+					"url": "https://t.co/L7Wpcx5HEz",
+					"display_url": "pic.twitter.com/L7Wpcx5HEz",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565890595456921601/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 187921,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889733166714880/vid/1280x720/XwILbP379PilGkWN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565889733166714880/pl/kst4lms366n6Vdwg.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889733166714880/vid/480x270/DZZc8f6VwByfIsxs.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565889733166714880/vid/640x360/Bsm26P00z01qab18.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946273,
+			"friends_count": 5,
+			"listed_count": 1056,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️‍🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz"
+	},
+	{
+		"created_at": "Sat Sep 03 03:29:39 +0000 2022",
+		"id": 1565889820022321200,
+		"id_str": "1565904829590908929",
+		"full_text": "극과 극 텐션 #최수영 의 반전매력 일상 공개!💖\n국장금 #이국주 의 새로운 보금자리🏠✨와 역대급 먹방까지!😋\n\n&lt;#전지적참견시점&gt; 오늘 밤 11시 10분 방송\nMBC 220903 방송 https://t.co/Xc717Lywfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최수영",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이국주",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565883704135692300,
+					"id_str": "1565883704135692288",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565883704135692288/img/cX0dm3MnCLYS1RmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565883704135692288/img/cX0dm3MnCLYS1RmX.jpg",
+					"url": "https://t.co/Xc717Lywfk",
+					"display_url": "pic.twitter.com/Xc717Lywfk",
+					"expanded_url": "https://twitter.com/withMBC/status/1565889820022321152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565883704135692300,
+					"id_str": "1565883704135692288",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1565883704135692288/img/cX0dm3MnCLYS1RmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565883704135692288/img/cX0dm3MnCLYS1RmX.jpg",
+					"url": "https://t.co/Xc717Lywfk",
+					"display_url": "pic.twitter.com/Xc717Lywfk",
+					"expanded_url": "https://twitter.com/withMBC/status/1565889820022321152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565883704135692288/pl/1KpLIs28wEQTAXkE.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565883704135692288/vid/320x400/sLT4bnpqqkLJq3uQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565883704135692288/vid/720x900/2vfwimD9u23DYB9V.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565883704135692288/vid/480x600/m_bmihqnP4V_eT76.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003997,
+			"friends_count": 9830,
+			"listed_count": 4201,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "극과 극 텐션 #최수영 의 반전매력 일상 공개!💖\n국장금 #이국주 의 새로운 보금자리🏠✨와 역대급 먹방까지!😋\n\n&lt;#전지적참견시점&gt; 오늘 밤 11시 10분 방송\nMBC 220903 방송 https://t.co/Xc717Lywfk"
+	},
+	{
 		"created_at": "Sat Sep 03 02:29:39 +0000 2022",
 		"id": 1565882271831191600,
 		"id_str": "1565889731975876609",
