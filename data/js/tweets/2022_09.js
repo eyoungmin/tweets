@@ -1,6 +1,1152 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 13:40:38 +0000 2022",
+		"id": 1566055977035501600,
+		"id_str": "1566058588405211138",
+		"full_text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/DszZeHShSx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566049569141493800,
+					"id_str": "1566049569141493760",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5yS1VEAAxnwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5yS1VEAAxnwY.jpg",
+					"url": "https://t.co/DszZeHShSx",
+					"display_url": "pic.twitter.com/DszZeHShSx",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055977035501569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566049569141493800,
+					"id_str": "1566049569141493760",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5yS1VEAAxnwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5yS1VEAAxnwY.jpg",
+					"url": "https://t.co/DszZeHShSx",
+					"display_url": "pic.twitter.com/DszZeHShSx",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055977035501569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566055967212458000,
+		"in_reply_to_status_id_str": "1566055967212457989",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/DszZeHShSx"
+	},
+	{
+		"created_at": "Sat Sep 03 13:40:33 +0000 2022",
+		"id": 1566055967212458000,
+		"id_str": "1566058570587807748",
+		"full_text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/iQ8VC6YZQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566049521343246300,
+					"id_str": "1566049521343246337",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5vgxVsAEVmg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5vgxVsAEVmg9.jpg",
+					"url": "https://t.co/iQ8VC6YZQu",
+					"display_url": "pic.twitter.com/iQ8VC6YZQu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055967212457989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566049521343246300,
+					"id_str": "1566049521343246337",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5vgxVsAEVmg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5vgxVsAEVmg9.jpg",
+					"url": "https://t.co/iQ8VC6YZQu",
+					"display_url": "pic.twitter.com/iQ8VC6YZQu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055967212457989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566055956634484700,
+		"in_reply_to_status_id_str": "1566055956634484738",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/iQ8VC6YZQu"
+	},
+	{
+		"created_at": "Sat Sep 03 13:40:27 +0000 2022",
+		"id": 1566055956634484700,
+		"id_str": "1566058544885108737",
+		"full_text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/pNP1zJyawn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566049375175864300,
+					"id_str": "1566049375175864322",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5nAQUcAI5Zjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5nAQUcAI5Zjv.jpg",
+					"url": "https://t.co/pNP1zJyawn",
+					"display_url": "pic.twitter.com/pNP1zJyawn",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055956634484738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566049375175864300,
+					"id_str": "1566049375175864322",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu5nAQUcAI5Zjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu5nAQUcAI5Zjv.jpg",
+					"url": "https://t.co/pNP1zJyawn",
+					"display_url": "pic.twitter.com/pNP1zJyawn",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566055956634484738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "tripleS NAKY Profile\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/pNP1zJyawn"
+	},
+	{
+		"created_at": "Sat Sep 03 13:40:18 +0000 2022",
+		"id": 1566048503654019000,
+		"id_str": "1566058506519732225",
+		"full_text": "キムNAKY 生活❤️❤️計画表❤️❤️\n\n①メンバーたちとホラー映画見る\n②メンバーたちにラーメン茹でてあげる\n③モッパン撮る\n④メンバーたちとTikTok撮る\n⑤末っ子（？）だけでショッピング\n⑥プールに行く\n⑦メンバー（成人ズ）たちだけで深夜映画見に行く\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/tkDeEQ98WA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566042579405131800,
+					"id_str": "1566042579405131776",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FbuzbcCUUAA5Iq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbuzbcCUUAA5Iq9.jpg",
+					"url": "https://t.co/tkDeEQ98WA",
+					"display_url": "pic.twitter.com/tkDeEQ98WA",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048503654019072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566042579405131800,
+					"id_str": "1566042579405131776",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FbuzbcCUUAA5Iq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbuzbcCUUAA5Iq9.jpg",
+					"url": "https://t.co/tkDeEQ98WA",
+					"display_url": "pic.twitter.com/tkDeEQ98WA",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048503654019072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566048495932280800,
+		"in_reply_to_status_id_str": "1566048495932280832",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "キムNAKY 生活❤️❤️計画表❤️❤️\n\n①メンバーたちとホラー映画見る\n②メンバーたちにラーメン茹でてあげる\n③モッパン撮る\n④メンバーたちとTikTok撮る\n⑤末っ子（？）だけでショッピング\n⑥プールに行く\n⑦メンバー（成人ズ）たちだけで深夜映画見に行く\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/tkDeEQ98WA"
+	},
+	{
+		"created_at": "Sat Sep 03 13:40:14 +0000 2022",
+		"id": 1566048495932280800,
+		"id_str": "1566058489197256706",
+		"full_text": "⑤ Go shopping with the older S\n⑥ Go swimming\n⑦ Go watch late night movies with S (who are adults)\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/GEXLyBxQ9G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566044407425486800,
+					"id_str": "1566044407425486853",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu1F18VUAU9NDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu1F18VUAU9NDo.jpg",
+					"url": "https://t.co/GEXLyBxQ9G",
+					"display_url": "pic.twitter.com/GEXLyBxQ9G",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048495932280832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566044407425486800,
+					"id_str": "1566044407425486853",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbu1F18VUAU9NDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbu1F18VUAU9NDo.jpg",
+					"url": "https://t.co/GEXLyBxQ9G",
+					"display_url": "pic.twitter.com/GEXLyBxQ9G",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048495932280832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566048488810434600,
+		"in_reply_to_status_id_str": "1566048488810434561",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⑤ Go shopping with the older S\n⑥ Go swimming\n⑦ Go watch late night movies with S (who are adults)\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/GEXLyBxQ9G"
+	},
+	{
+		"created_at": "Sat Sep 03 13:40:10 +0000 2022",
+		"id": 1566048488810434600,
+		"id_str": "1566058471853785090",
+		"full_text": "Kim NAKY’s Daily❤️❤️Schedule❤️❤️\n\n① Watching scary films with the other S\n② Cooking ramyeon for the other S\n③ Film a mukbang\n④ Film TikToks\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/gh8cjiZrK8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566042559545168000,
+					"id_str": "1566042559545167872",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FbuzaSDVUAAj6h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbuzaSDVUAAj6h0.jpg",
+					"url": "https://t.co/gh8cjiZrK8",
+					"display_url": "pic.twitter.com/gh8cjiZrK8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048488810434561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566042559545168000,
+					"id_str": "1566042559545167872",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FbuzaSDVUAAj6h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbuzaSDVUAAj6h0.jpg",
+					"url": "https://t.co/gh8cjiZrK8",
+					"display_url": "pic.twitter.com/gh8cjiZrK8",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566048488810434561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1566048481327796200,
+		"in_reply_to_status_id_str": "1566048481327796228",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13446,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kim NAKY’s Daily❤️❤️Schedule❤️❤️\n\n① Watching scary films with the other S\n② Cooking ramyeon for the other S\n③ Film a mukbang\n④ Film TikToks\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/gh8cjiZrK8"
+	},
+	{
 		"created_at": "Sat Sep 03 11:40:10 +0000 2022",
 		"id": 1566018173328994300,
 		"id_str": "1566028274072944644",
