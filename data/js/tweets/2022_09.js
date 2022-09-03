@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 11:40:10 +0000 2022",
+		"id": 1566018173328994300,
+		"id_str": "1566028274072944644",
+		"full_text": "tripleS 트리플에스 : sweets '10등신 이지우'\n\nhttps://t.co/uqCL4iEuH8\n\n#tripleS #트리플에스 #トリプルS https://t.co/U2bwMSQX0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqCL4iEuH8",
+					"expanded_url": "http://youtube.com/shorts/Es9qnrkGicU",
+					"display_url": "youtube.com/shorts/Es9qnrk…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566013717929939000,
+					"id_str": "1566013717929938944",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566013717929938944/pu/img/QaKBRb-Xk08Fv2zZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566013717929938944/pu/img/QaKBRb-Xk08Fv2zZ.jpg",
+					"url": "https://t.co/U2bwMSQX0Z",
+					"display_url": "pic.twitter.com/U2bwMSQX0Z",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566018173328994304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566013717929939000,
+					"id_str": "1566013717929938944",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566013717929938944/pu/img/QaKBRb-Xk08Fv2zZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566013717929938944/pu/img/QaKBRb-Xk08Fv2zZ.jpg",
+					"url": "https://t.co/U2bwMSQX0Z",
+					"display_url": "pic.twitter.com/U2bwMSQX0Z",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566018173328994304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 32465,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566013717929938944/pu/vid/320x568/2NfHMbHenTncm7Qp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566013717929938944/pu/pl/4XEFj6irEuznjWgo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566013717929938944/pu/vid/720x1280/pObJt8zOXYS-Coii.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566013717929938944/pu/vid/480x852/dh_pI811S4WkQU6t.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13443,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets '10등신 이지우'\n\nhttps://t.co/uqCL4iEuH8\n\n#tripleS #트리플에스 #トリプルS https://t.co/U2bwMSQX0Z"
+	},
+	{
+		"created_at": "Sat Sep 03 11:26:33 +0000 2022",
+		"id": 1566019112408477700,
+		"id_str": "1566024845145477120",
+		"full_text": "단 한번의 터치만으로도 오랜시간 선명한 꾸뛰르 컬러감과 부드러운 발림성을 선사하는 NEW 루즈 디올 포에버 스틱은 모든 여성들을 위한 17가지 컬러로 출시됩니다. ‘NEW 루즈 디올 포에버 스틱‘의 꾸뛰르 컬러들로 당신이 원하는 메이크업 룩을 언제 어디서나 연출할 수 있습니다.\n@Dior @BLACKPINK https://t.co/DwQ1P3vnkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						162,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566019104309330000,
+					"id_str": "1566019104309329920",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FbueFAfVQAALqop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbueFAfVQAALqop.jpg",
+					"url": "https://t.co/DwQ1P3vnkC",
+					"display_url": "pic.twitter.com/DwQ1P3vnkC",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1566019112408477696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 983,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566019104309330000,
+					"id_str": "1566019104309329920",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FbueFAfVQAALqop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbueFAfVQAALqop.jpg",
+					"url": "https://t.co/DwQ1P3vnkC",
+					"display_url": "pic.twitter.com/DwQ1P3vnkC",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1566019112408477696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 983,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566019041428246500,
+		"in_reply_to_status_id_str": "1566019041428246528",
+		"in_reply_to_user_id": 132025214,
+		"in_reply_to_user_id_str": "132025214",
+		"in_reply_to_screen_name": "marieclairekr",
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107105,
+			"friends_count": 1,
+			"listed_count": 334,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1660629996",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 904,
+		"favorite_count": 1819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "단 한번의 터치만으로도 오랜시간 선명한 꾸뛰르 컬러감과 부드러운 발림성을 선사하는 NEW 루즈 디올 포에버 스틱은 모든 여성들을 위한 17가지 컬러로 출시됩니다. ‘NEW 루즈 디올 포에버 스틱‘의 꾸뛰르 컬러들로 당신이 원하는 메이크업 룩을 언제 어디서나 연출할 수 있습니다.\n@Dior @BLACKPINK https://t.co/DwQ1P3vnkC"
+	},
+	{
 		"created_at": "Sat Sep 03 09:09:36 +0000 2022",
 		"id": 1565988248014700500,
 		"id_str": "1565990381237444615",
