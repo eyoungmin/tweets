@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 05:29:43 +0000 2022",
+		"id": 1565928547998658600,
+		"id_str": "1565935045868666881",
+		"full_text": "&lt;#공조2_인터내셔날&gt; 영화만큼 알찬 #공조굿즈 공개!\n큐티뽀짝 #띠부띠부씰 부터 대형 소주잔까지! #실용성 까지 챙겼다구💗\n\n📌공조 굿즈가 갖고 싶다면?! \nCJ ENM Movie 채널을 구독하고 다양한 #공조2 이벤트에 참여하기!😉\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독 #9월7일대개봉 https://t.co/ZuUgOAjvYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "공조굿즈",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "띠부띠부씰",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "실용성",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565928460992016400,
+					"id_str": "1565928460992016384",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtLo30acAA0slp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtLo30acAA0slp.jpg",
+					"url": "https://t.co/ZuUgOAjvYy",
+					"display_url": "pic.twitter.com/ZuUgOAjvYy",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565928547998658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565928460992016400,
+					"id_str": "1565928460992016384",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtLo30acAA0slp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtLo30acAA0slp.jpg",
+					"url": "https://t.co/ZuUgOAjvYy",
+					"display_url": "pic.twitter.com/ZuUgOAjvYy",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565928547998658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565928460983599000,
+					"id_str": "1565928460983599104",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtLo3yaAAAHjoT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtLo3yaAAAHjoT.jpg",
+					"url": "https://t.co/ZuUgOAjvYy",
+					"display_url": "pic.twitter.com/ZuUgOAjvYy",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1565928547998658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331717,
+			"friends_count": 10644,
+			"listed_count": 259,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662085906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#공조2_인터내셔날&gt; 영화만큼 알찬 #공조굿즈 공개!\n큐티뽀짝 #띠부띠부씰 부터 대형 소주잔까지! #실용성 까지 챙겼다구💗\n\n📌공조 굿즈가 갖고 싶다면?! \nCJ ENM Movie 채널을 구독하고 다양한 #공조2 이벤트에 참여하기!😉\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독 #9월7일대개봉 https://t.co/ZuUgOAjvYy"
+	},
+	{
 		"created_at": "Sat Sep 03 04:29:38 +0000 2022",
 		"id": 1565912470060880000,
 		"id_str": "1565919928418504704",
