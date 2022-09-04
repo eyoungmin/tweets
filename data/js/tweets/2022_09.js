@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 15:40:17 +0000 2022",
+		"id": 1566440997286219800,
+		"id_str": "1566451088013893635",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Title Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #TitleTeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/0366A0tyvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "TitleTeaserPoster",
+					"indices": [
+						132,
+						150
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						151,
+						168
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						169,
+						185
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566440727118516200,
+					"id_str": "1566440727118516224",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0dir2akAAx6jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0dir2akAAx6jd.jpg",
+					"url": "https://t.co/0366A0tyvh",
+					"display_url": "pic.twitter.com/0366A0tyvh",
+					"expanded_url": "https://twitter.com/ygent_official/status/1566440997286219776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566440727118516200,
+					"id_str": "1566440727118516224",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb0dir2akAAx6jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb0dir2akAAx6jd.jpg",
+					"url": "https://t.co/0366A0tyvh",
+					"display_url": "pic.twitter.com/0366A0tyvh",
+					"expanded_url": "https://twitter.com/ygent_official/status/1566440997286219776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8897593,
+			"friends_count": 36,
+			"listed_count": 9828,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24114,
+		"favorite_count": 52292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Title Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #TitleTeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/0366A0tyvh"
+	},
+	{
 		"created_at": "Sun Sep 04 14:40:20 +0000 2022",
 		"id": 1566433900079235000,
 		"id_str": "1566436003082080256",
