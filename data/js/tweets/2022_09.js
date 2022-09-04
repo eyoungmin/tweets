@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 09:29:39 +0000 2022",
+		"id": 1566351759324622800,
+		"id_str": "1566357816876605440",
+		"full_text": "#GirlsGeneration ปิดท้ายการฉลองครบรอบเดบิวต์ 15 ปีอย่างประสบความสำเร็จและงดงาม 💗\n\nด้วยอีเวนต์พิเศษ ‘2022 Girls’ Generation Special Event - Long Lasting Love’ ที่จำหน่ายบัตรหมดทุกที่นั่ง และแฟนคลับทั่วโลก 96 ประเทศร่วมเข้าชมทางออนไลน์!\n\nhttps://t.co/zmexsgXLel\n\n#Long_Lasting_Love https://t.co/Qv0frlJlMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						261,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zmexsgXLel",
+					"expanded_url": "https://facebook.com/story.php?story_fbid=pfbid02Hio26MxHHjW1on9ahyAby5Go48zuwpY4rjQiCbh2Nc9Pa6Db4fYFtjWMqxhj3Y2Kl&id=212568845457738",
+					"display_url": "facebook.com/story.php?stor…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566351753817489400,
+					"id_str": "1566351753817489408",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FbzMnweaAAAEOlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbzMnweaAAAEOlO.jpg",
+					"url": "https://t.co/Qv0frlJlMo",
+					"display_url": "pic.twitter.com/Qv0frlJlMo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1566351759324622848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566351753817489400,
+					"id_str": "1566351753817489408",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FbzMnweaAAAEOlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbzMnweaAAAEOlO.jpg",
+					"url": "https://t.co/Qv0frlJlMo",
+					"display_url": "pic.twitter.com/Qv0frlJlMo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1566351759324622848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566351753804923000,
+					"id_str": "1566351753804922883",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FbzMnwbaQAMOQNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbzMnwbaQAMOQNW.jpg",
+					"url": "https://t.co/Qv0frlJlMo",
+					"display_url": "pic.twitter.com/Qv0frlJlMo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1566351759324622848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566351753804943400,
+					"id_str": "1566351753804943360",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FbzMnwbakAA8moS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbzMnwbakAA8moS.jpg",
+					"url": "https://t.co/Qv0frlJlMo",
+					"display_url": "pic.twitter.com/Qv0frlJlMo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1566351759324622848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566351753800724500,
+					"id_str": "1566351753800724480",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FbzMnwaaMAA0UwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbzMnwaaMAA0UwM.jpg",
+					"url": "https://t.co/Qv0frlJlMo",
+					"display_url": "pic.twitter.com/Qv0frlJlMo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1566351759324622848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99386,
+			"friends_count": 51,
+			"listed_count": 158,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 470,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#GirlsGeneration ปิดท้ายการฉลองครบรอบเดบิวต์ 15 ปีอย่างประสบความสำเร็จและงดงาม 💗\n\nด้วยอีเวนต์พิเศษ ‘2022 Girls’ Generation Special Event - Long Lasting Love’ ที่จำหน่ายบัตรหมดทุกที่นั่ง และแฟนคลับทั่วโลก 96 ประเทศร่วมเข้าชมทางออนไลน์!\n\nhttps://t.co/zmexsgXLel\n\n#Long_Lasting_Love https://t.co/Qv0frlJlMo"
+	},
+	{
 		"created_at": "Sun Sep 04 08:33:38 +0000 2022",
 		"id": 1566337161913192400,
 		"id_str": "1566343718671511552",
