@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 17:40:10 +0000 2022",
+		"id": 1566174920681349000,
+		"id_str": "1566481259135746054",
+		"full_text": "See you soon, folks! 🥳 #ForTheHardcore \n\n⏰ 7pm UK • 2pm ET • 11am PT\n💜 https://t.co/xEcx6xGdnD https://t.co/CqmoCRj9xj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ForTheHardcore",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xEcx6xGdnD",
+					"expanded_url": "http://twitch.tv/coldplayxtra",
+					"display_url": "twitch.tv/coldplayxtra",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566174913689489400,
+					"id_str": "1566174913689489409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbwryTqXEAEWGH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbwryTqXEAEWGH_.jpg",
+					"url": "https://t.co/CqmoCRj9xj",
+					"display_url": "pic.twitter.com/CqmoCRj9xj",
+					"expanded_url": "https://twitter.com/coldplyxtralive/status/1566174920681349122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566174913689489400,
+					"id_str": "1566174913689489409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FbwryTqXEAEWGH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbwryTqXEAEWGH_.jpg",
+					"url": "https://t.co/CqmoCRj9xj",
+					"display_url": "pic.twitter.com/CqmoCRj9xj",
+					"expanded_url": "https://twitter.com/coldplyxtralive/status/1566174920681349122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1661014825,
+			"id_str": "1661014825",
+			"name": "ColdplayXtra LIVE 👾",
+			"screen_name": "coldplyxtralive",
+			"location": "",
+			"description": "✨ Chris Martin + Jonny Buckland interview premiers today! • The home of original content from the @coldplayxtra team 💜 support us using the link below 👇",
+			"url": "https://t.co/Zq8bmP93Xb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zq8bmP93Xb",
+							"expanded_url": "http://linktr.ee/coldplayxtralive",
+							"display_url": "linktr.ee/coldplayxtrali…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25185,
+			"friends_count": 5039,
+			"listed_count": 95,
+			"created_at": "Sat Aug 10 21:22:34 +0000 2013",
+			"favourites_count": 14708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542460466664034305/FV5TBQ31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542460466664034305/FV5TBQ31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1661014825/1662243358",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See you soon, folks! 🥳 #ForTheHardcore \n\n⏰ 7pm UK • 2pm ET • 11am PT\n💜 https://t.co/xEcx6xGdnD https://t.co/CqmoCRj9xj"
+	},
+	{
 		"created_at": "Sun Sep 04 15:40:17 +0000 2022",
 		"id": 1566440997286219800,
 		"id_str": "1566451088013893635",
