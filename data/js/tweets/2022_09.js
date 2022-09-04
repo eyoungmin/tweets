@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 06:40:22 +0000 2022",
+		"id": 1566305646999654400,
+		"id_str": "1566315214882177025",
+		"full_text": "소원 너무 반가웠고 즐거웠어요 😘\n우리 꼭 영원하자💜\n\n#소녀시대 #GirlsGeneration \n#태연 #TAEYEON \n#Long_Lasting_Love https://t.co/FcBB86yRaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						69,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566305638040211500,
+					"id_str": "1566305638040211456",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbyird0UEAABCZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbyird0UEAABCZv.jpg",
+					"url": "https://t.co/FcBB86yRaq",
+					"display_url": "pic.twitter.com/FcBB86yRaq",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1566305646999654401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566305638040211500,
+					"id_str": "1566305638040211456",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbyird0UEAABCZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbyird0UEAABCZv.jpg",
+					"url": "https://t.co/FcBB86yRaq",
+					"display_url": "pic.twitter.com/FcBB86yRaq",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1566305646999654401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566305642867880000,
+					"id_str": "1566305642867879936",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyirvzUcAAP3nk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyirvzUcAAP3nk.jpg",
+					"url": "https://t.co/FcBB86yRaq",
+					"display_url": "pic.twitter.com/FcBB86yRaq",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1566305646999654401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141138,
+			"friends_count": 2,
+			"listed_count": 459,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 64,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4516,
+		"favorite_count": 8948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소원 너무 반가웠고 즐거웠어요 😘\n우리 꼭 영원하자💜\n\n#소녀시대 #GirlsGeneration \n#태연 #TAEYEON \n#Long_Lasting_Love https://t.co/FcBB86yRaq"
+	},
+	{
+		"created_at": "Sun Sep 04 06:40:17 +0000 2022",
+		"id": 1566305055149396000,
+		"id_str": "1566315193348538369",
+		"full_text": "tripleS 트리플에스 : sweets '많이 유연해진(?) 윤서연 모음'\n\nhttps://t.co/21nz1n79qA\n\n#tripleS #트리플에스 #トリプルS https://t.co/MZ7Qe41wAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21nz1n79qA",
+					"expanded_url": "http://youtube.com/shorts/Fw7a_gIdg34",
+					"display_url": "youtube.com/shorts/Fw7a_gI…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566271451799310300,
+					"id_str": "1566271451799310337",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566271451799310337/pu/img/gzorrTWZ-Ehlte2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566271451799310337/pu/img/gzorrTWZ-Ehlte2m.jpg",
+					"url": "https://t.co/MZ7Qe41wAI",
+					"display_url": "pic.twitter.com/MZ7Qe41wAI",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566305055149395968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566271451799310300,
+					"id_str": "1566271451799310337",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566271451799310337/pu/img/gzorrTWZ-Ehlte2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566271451799310337/pu/img/gzorrTWZ-Ehlte2m.jpg",
+					"url": "https://t.co/MZ7Qe41wAI",
+					"display_url": "pic.twitter.com/MZ7Qe41wAI",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566305055149395968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 52218,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566271451799310337/pu/vid/480x852/M0B9t6f8fN3ZL6_w.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566271451799310337/pu/vid/720x1280/iknAYGRwVH1xLpAw.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566271451799310337/pu/vid/320x568/y8rTeBrLQdiRVzwN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566271451799310337/pu/pl/FvuxqP6kMwx4X5nh.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13483,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets '많이 유연해진(?) 윤서연 모음'\n\nhttps://t.co/21nz1n79qA\n\n#tripleS #트리플에스 #トリプルS https://t.co/MZ7Qe41wAI"
+	},
+	{
+		"created_at": "Sun Sep 04 06:40:12 +0000 2022",
+		"id": 1566300074552197000,
+		"id_str": "1566315171924135936",
+		"full_text": "aespa were on the Tokyo Girls Collection ending stage, proving their global popularity! They performed their hit songs, catching everyone’s attention! \n\n#aespa #æspa #에스파 \n#aespaTGC #TGC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "aespaTGC",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "TGC",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566300072169844700,
+		"in_reply_to_status_id_str": "1566300072169844736",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134198,
+			"friends_count": 2,
+			"listed_count": 9433,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 3382,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "aespa were on the Tokyo Girls Collection ending stage, proving their global popularity! They performed their hit songs, catching everyone’s attention! \n\n#aespa #æspa #에스파 \n#aespaTGC #TGC"
+	},
+	{
 		"created_at": "Sun Sep 04 05:40:14 +0000 2022",
 		"id": 1566293192089436200,
 		"id_str": "1566300080944078848",
