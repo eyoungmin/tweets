@@ -1,6 +1,1045 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 03:45:37 +0000 2022",
+		"id": 1566259772671811600,
+		"id_str": "1566271236384210944",
+		"full_text": "【#LOONA】\n＼9/4(日)まで！まもなく販売終了⏰／\n日本2ndSingle『LUMINOUS』\n対面リアルイベント「個別トーク会＆個別サイン会」に応募可能なシリアル付き商品販売中！\n本日9/4(日)までの販売となりますのでお買い逃しなく！\n\n🛒ご予約は →https://t.co/Yh6cU3auUg\n#LOONA #今月の少女 #이달의소녀 https://t.co/vqOXbLlzgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yh6cU3auUg",
+					"expanded_url": "https://bit.ly/3c8VWwz",
+					"display_url": "bit.ly/3c8VWwz",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566259769895276500,
+					"id_str": "1566259769895276544",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx49lqX0AAtACf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx49lqX0AAtACf.jpg",
+					"url": "https://t.co/vqOXbLlzgF",
+					"display_url": "pic.twitter.com/vqOXbLlzgF",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1566259772671811590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566259769895276500,
+					"id_str": "1566259769895276544",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx49lqX0AAtACf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx49lqX0AAtACf.jpg",
+					"url": "https://t.co/vqOXbLlzgF",
+					"display_url": "pic.twitter.com/vqOXbLlzgF",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1566259772671811590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40771,
+			"friends_count": 158,
+			"listed_count": 265,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#LOONA】\n＼9/4(日)まで！まもなく販売終了⏰／\n日本2ndSingle『LUMINOUS』\n対面リアルイベント「個別トーク会＆個別サイン会」に応募可能なシリアル付き商品販売中！\n本日9/4(日)までの販売となりますのでお買い逃しなく！\n\n🛒ご予約は →https://t.co/Yh6cU3auUg\n#LOONA #今月の少女 #이달의소녀 https://t.co/vqOXbLlzgF"
+	},
+	{
+		"created_at": "Sun Sep 04 03:40:19 +0000 2022",
+		"id": 1566268002227564500,
+		"id_str": "1566269904231309312",
+		"full_text": "tripleS가 되는 법  How to Become tripleS\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/077aY1tQ8T\n\n#tripleS #트리플에스 #トリプルS https://t.co/o0nJW3sV12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/077aY1tQ8T",
+					"expanded_url": "http://youtu.be/pZjhtXzZNu8",
+					"display_url": "youtu.be/pZjhtXzZNu8",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566267828856008700,
+					"id_str": "1566267828856008705",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyB-OtUcAAebZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyB-OtUcAAebZG.jpg",
+					"url": "https://t.co/o0nJW3sV12",
+					"display_url": "pic.twitter.com/o0nJW3sV12",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566268002227564545/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566267828856008700,
+					"id_str": "1566267828856008705",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyB-OtUcAAebZG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyB-OtUcAAebZG.jpg",
+					"url": "https://t.co/o0nJW3sV12",
+					"display_url": "pic.twitter.com/o0nJW3sV12",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566268002227564545/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47722,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566267828856008705/pu/vid/480x270/Ndz_ZMqdmNyflImd.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566267828856008705/pu/vid/1280x720/JatvIVfvG65gYygW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566267828856008705/pu/vid/640x360/rOUEROA8zE8AFF8w.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566267828856008705/pu/pl/t5YKX07LH4yWPqD2.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13481,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS가 되는 법  How to Become tripleS\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/077aY1tQ8T\n\n#tripleS #트리플에스 #トリプルS https://t.co/o0nJW3sV12"
+	},
+	{
+		"created_at": "Sun Sep 04 03:40:17 +0000 2022",
+		"id": 1566262050787324000,
+		"id_str": "1566269895330914304",
+		"full_text": "じもとvibes\n\n#aespa #GISELLE https://t.co/P2mn8PQRLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566262044219015200,
+					"id_str": "1566262044219015173",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx7B-LaAAUWtKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx7B-LaAAUWtKY.jpg",
+					"url": "https://t.co/P2mn8PQRLZ",
+					"display_url": "pic.twitter.com/P2mn8PQRLZ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566262050787323904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1090,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566262044219015200,
+					"id_str": "1566262044219015173",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx7B-LaAAUWtKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx7B-LaAAUWtKY.jpg",
+					"url": "https://t.co/P2mn8PQRLZ",
+					"display_url": "pic.twitter.com/P2mn8PQRLZ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566262050787323904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1090,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566262039949242400,
+		"in_reply_to_status_id_str": "1566262039949242368",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3133503,
+			"friends_count": 2,
+			"listed_count": 9428,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2819,
+		"favorite_count": 13795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "じもとvibes\n\n#aespa #GISELLE https://t.co/P2mn8PQRLZ"
+	},
+	{
+		"created_at": "Sun Sep 04 03:40:12 +0000 2022",
+		"id": 1566262039949242400,
+		"id_str": "1566269873801543681",
+		"full_text": "じもとvibes\n\n#aespa #GISELLE https://t.co/srLuhkt7kk https://t.co/u2o9Plyv1L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/srLuhkt7kk",
+					"expanded_url": "https://twitter.com/i/web/status/1566262039949242368",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566261975637971000,
+					"id_str": "1566261975637970944",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx69-saUAAYLum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx69-saUAAYLum.jpg",
+					"url": "https://t.co/u2o9Plyv1L",
+					"display_url": "pic.twitter.com/u2o9Plyv1L",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566262039949242368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1070,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566261975637971000,
+					"id_str": "1566261975637970944",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx69-saUAAYLum.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx69-saUAAYLum.jpg",
+					"url": "https://t.co/u2o9Plyv1L",
+					"display_url": "pic.twitter.com/u2o9Plyv1L",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566262039949242368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1070,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566261972471267300,
+		"in_reply_to_status_id_str": "1566261972471267329",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3133503,
+			"friends_count": 2,
+			"listed_count": 9428,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3080,
+		"favorite_count": 13945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "じもとvibes\n\n#aespa #GISELLE https://t.co/srLuhkt7kk https://t.co/u2o9Plyv1L"
+	},
+	{
+		"created_at": "Sun Sep 04 03:40:10 +0000 2022",
+		"id": 1566261972471267300,
+		"id_str": "1566269864842563588",
+		"full_text": "じもとvibes\n\n#aespa #GISELLE https://t.co/dCiPFDXq9N https://t.co/Mh2i2h0fMP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dCiPFDXq9N",
+					"expanded_url": "https://twitter.com/i/web/status/1566261972471267329",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566261948370813000,
+					"id_str": "1566261948370812928",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx68ZHagAAyKbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx68ZHagAAyKbB.jpg",
+					"url": "https://t.co/Mh2i2h0fMP",
+					"display_url": "pic.twitter.com/Mh2i2h0fMP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566261972471267329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566261948370813000,
+					"id_str": "1566261948370812928",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbx68ZHagAAyKbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbx68ZHagAAyKbB.jpg",
+					"url": "https://t.co/Mh2i2h0fMP",
+					"display_url": "pic.twitter.com/Mh2i2h0fMP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1566261972471267329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3133503,
+			"friends_count": 2,
+			"listed_count": 9428,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7073,
+		"favorite_count": 28937,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "じもとvibes\n\n#aespa #GISELLE https://t.co/dCiPFDXq9N https://t.co/Mh2i2h0fMP"
+	},
+	{
 		"created_at": "Sun Sep 04 02:29:39 +0000 2022",
 		"id": 1566246444033577000,
 		"id_str": "1566252117983117317",
