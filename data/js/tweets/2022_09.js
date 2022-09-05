@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 03:40:25 +0000 2022",
+		"id": 1566626170409734100,
+		"id_str": "1566632316339888129",
+		"full_text": "LIM YOONA is on the cover of magazines for the 5th time this year alone! She has set an unprecedented record in all genres, from movies, dramas, music, to fashion!\n\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/uARCeYgxxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566626164793233400,
+					"id_str": "1566626164793233414",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566626164793233400,
+					"id_str": "1566626164793233414",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566626164805816300,
+					"id_str": "1566626164805816320",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlEVUAA0iX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlEVUAA0iX6.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566626081012338700,
+		"in_reply_to_status_id_str": "1566626081012338690",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11141769,
+			"friends_count": 55,
+			"listed_count": 12574,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1006,
+		"favorite_count": 2692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA is on the cover of magazines for the 5th time this year alone! She has set an unprecedented record in all genres, from movies, dramas, music, to fashion!\n\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/uARCeYgxxr"
+	},
+	{
+		"created_at": "Mon Sep 05 03:40:10 +0000 2022",
+		"id": 1566622146314379300,
+		"id_str": "1566632252460646400",
+		"full_text": "사실은 우리 연습 중  We’re Actually Practicing\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/aZFIJwRcwV\n\n#tripleS #트리플에스 #トリプルS https://t.co/wvNPGK9MNr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aZFIJwRcwV",
+					"expanded_url": "http://youtu.be/DLeNveWze6o",
+					"display_url": "youtu.be/DLeNveWze6o",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1566618758466404400,
+					"id_str": "1566618758466404352",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566618758466404352/pu/img/VTojm-v0DWxkGYt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566618758466404352/pu/img/VTojm-v0DWxkGYt9.jpg",
+					"url": "https://t.co/wvNPGK9MNr",
+					"display_url": "pic.twitter.com/wvNPGK9MNr",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566622146314379264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566618758466404400,
+					"id_str": "1566618758466404352",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1566618758466404352/pu/img/VTojm-v0DWxkGYt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1566618758466404352/pu/img/VTojm-v0DWxkGYt9.jpg",
+					"url": "https://t.co/wvNPGK9MNr",
+					"display_url": "pic.twitter.com/wvNPGK9MNr",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1566622146314379264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40298,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566618758466404352/pu/vid/640x360/j50oxC38sMTJnbc5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566618758466404352/pu/vid/1280x720/VUFk64bP2G4hQIwJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1566618758466404352/pu/vid/480x270/uRdCcaJBQrPkrN55.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1566618758466404352/pu/pl/G041Zz5N-6Yr5PMz.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13505,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실은 우리 연습 중  We’re Actually Practicing\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/aZFIJwRcwV\n\n#tripleS #트리플에스 #トリプルS https://t.co/wvNPGK9MNr"
+	},
+	{
 		"created_at": "Mon Sep 05 02:45:37 +0000 2022",
 		"id": 1566608075943182300,
 		"id_str": "1566618524486979584",
