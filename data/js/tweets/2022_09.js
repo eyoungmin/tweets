@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 04:40:19 +0000 2022",
+		"id": 1566637603088388000,
+		"id_str": "1566647391268356098",
+		"full_text": "‘Once Upon a Small Town’ D-DAY! #PARKSOOYOONG turns into a lovely police officer in a rural town, ramping up the excitement for her transformation into a cheerful and confident character and showing off different sides of her acting spectrum!\n\n#박수영 \n#조이 #JOY \n#어쩌다전원일기 https://t.co/5DyKTQd9Is",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOONG",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"text": "박수영",
+					"indices": [
+						244,
+						248
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						250,
+						253
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						254,
+						258
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						260,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566637587124535300,
+					"id_str": "1566637587124535296",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566637587124535300,
+					"id_str": "1566637587124535296",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchVQAAWqjR.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587132850200,
+					"id_str": "1566637587132850177",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlcjUIAEi9R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlcjUIAEi9R9.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587124457500,
+					"id_str": "1566637587124457474",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlchUEAIaJeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlchUEAIaJeZ.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566637587145429000,
+					"id_str": "1566637587145428993",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3QlcmUEAEmwMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3QlcmUEAEmwMv.jpg",
+					"url": "https://t.co/5DyKTQd9Is",
+					"display_url": "pic.twitter.com/5DyKTQd9Is",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566637603088388096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11141941,
+			"friends_count": 55,
+			"listed_count": 12575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1711,
+		"favorite_count": 4558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Once Upon a Small Town’ D-DAY! #PARKSOOYOONG turns into a lovely police officer in a rural town, ramping up the excitement for her transformation into a cheerful and confident character and showing off different sides of her acting spectrum!\n\n#박수영 \n#조이 #JOY \n#어쩌다전원일기 https://t.co/5DyKTQd9Is"
+	},
+	{
 		"created_at": "Mon Sep 05 03:40:25 +0000 2022",
 		"id": 1566626170409734100,
 		"id_str": "1566632316339888129",
