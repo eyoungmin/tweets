@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 12:40:10 +0000 2022",
+		"id": 1567120692763828200,
+		"id_str": "1567130534794461184",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA POSTER\n\n▶More info: https://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #POSTER #YG https://t.co/7WyxUcbPtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "NORTH_AMERICA",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "POSTER",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xHlSYVd7Mb",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567119301492224000,
+					"id_str": "1567119301492224000",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-Gs6YaMAA_SIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-Gs6YaMAA_SIZ.jpg",
+					"url": "https://t.co/7WyxUcbPtU",
+					"display_url": "pic.twitter.com/7WyxUcbPtU",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120692763828225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567119301492224000,
+					"id_str": "1567119301492224000",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-Gs6YaMAA_SIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-Gs6YaMAA_SIZ.jpg",
+					"url": "https://t.co/7WyxUcbPtU",
+					"display_url": "pic.twitter.com/7WyxUcbPtU",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120692763828225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxYT6P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxYT6P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8488038,
+			"friends_count": 9,
+			"listed_count": 9278,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662303692",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2715,
+		"favorite_count": 8832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA POSTER\n\n▶More info: https://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #POSTER #YG https://t.co/7WyxUcbPtU"
+	},
+	{
+		"created_at": "Tue Sep 06 12:34:18 +0000 2022",
+		"id": 1567120793871741000,
+		"id_str": "1567129061499240448",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nFANCLUB PRESALES registration is now open until Wednesday, September 7 at 10pm PT!\n\n▶Register on Weverse\nhttps://t.co/svTTHp8Zfr\n▶More Info\nhttps://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #YG https://t.co/wokRvPN1g7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						230,
+						239
+					]
+				},
+				{
+					"text": "NORTH_AMERICA",
+					"indices": [
+						240,
+						254
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						255,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svTTHp8Zfr",
+					"expanded_url": "https://weverse.io/blackpink/notice/3563",
+					"display_url": "weverse.io/blackpink/noti…",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/xHlSYVd7Mb",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567119850295947300,
+					"id_str": "1567119850295947267",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-HM21acAM5bt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-HM21acAM5bt7.jpg",
+					"url": "https://t.co/wokRvPN1g7",
+					"display_url": "pic.twitter.com/wokRvPN1g7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120793871740928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567119850295947300,
+					"id_str": "1567119850295947267",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-HM21acAM5bt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-HM21acAM5bt7.jpg",
+					"url": "https://t.co/wokRvPN1g7",
+					"display_url": "pic.twitter.com/wokRvPN1g7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120793871740928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567119874547421200,
+					"id_str": "1567119874547421184",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-HORLakAA7czG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-HORLakAA7czG.jpg",
+					"url": "https://t.co/wokRvPN1g7",
+					"display_url": "pic.twitter.com/wokRvPN1g7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120793871740928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567119901948805000,
+					"id_str": "1567119901948805120",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-HP3QagAAYt9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-HP3QagAAYt9o.jpg",
+					"url": "https://t.co/wokRvPN1g7",
+					"display_url": "pic.twitter.com/wokRvPN1g7",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120793871740928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxYT6P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxYT6P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8488038,
+			"friends_count": 9,
+			"listed_count": 9278,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662303692",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1810,
+		"favorite_count": 5871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nFANCLUB PRESALES registration is now open until Wednesday, September 7 at 10pm PT!\n\n▶Register on Weverse\nhttps://t.co/svTTHp8Zfr\n▶More Info\nhttps://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #YG https://t.co/wokRvPN1g7"
+	},
+	{
+		"created_at": "Tue Sep 06 12:34:18 +0000 2022",
+		"id": 1567120726481858600,
+		"id_str": "1567129061482463234",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] EUROPE POSTER\n\n▶More info: https://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #EUROPE #POSTER #YG https://t.co/r8WsgntsLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "EUROPE",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "POSTER",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xHlSYVd7Mb",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567119424775397400,
+					"id_str": "1567119424775397378",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-G0FpaIAIHnXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-G0FpaIAIHnXR.jpg",
+					"url": "https://t.co/r8WsgntsLl",
+					"display_url": "pic.twitter.com/r8WsgntsLl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120726481858560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567119424775397400,
+					"id_str": "1567119424775397378",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-G0FpaIAIHnXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-G0FpaIAIHnXR.jpg",
+					"url": "https://t.co/r8WsgntsLl",
+					"display_url": "pic.twitter.com/r8WsgntsLl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1567120726481858560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxYT6P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxYT6P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8488038,
+			"friends_count": 9,
+			"listed_count": 9278,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662303692",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3358,
+		"favorite_count": 10993,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] EUROPE POSTER\n\n▶More info: https://t.co/xHlSYVd7Mb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #EUROPE #POSTER #YG https://t.co/r8WsgntsLl"
+	},
+	{
+		"created_at": "Tue Sep 06 12:34:18 +0000 2022",
+		"id": 1567125445942071300,
+		"id_str": "1567129061436293121",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] EUROPE POSTER\n\n▶️More info: https://t.co/IjWlQFTzKL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #EUROPE #POSTER #YG https://t.co/zwKXBEMMlk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "EUROPE",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "POSTER",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IjWlQFTzKL",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567125280309002200,
+					"id_str": "1567125280309002240",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-MI7NaQAAAIOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-MI7NaQAAAIOA.jpg",
+					"url": "https://t.co/zwKXBEMMlk",
+					"display_url": "pic.twitter.com/zwKXBEMMlk",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1567125445942071297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567125280309002200,
+					"id_str": "1567125280309002240",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-MI7NaQAAAIOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-MI7NaQAAAIOA.jpg",
+					"url": "https://t.co/zwKXBEMMlk",
+					"display_url": "pic.twitter.com/zwKXBEMMlk",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1567125445942071297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7344983,
+			"friends_count": 0,
+			"listed_count": 7716,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662303620",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5024,
+		"favorite_count": 17441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] EUROPE POSTER\n\n▶️More info: https://t.co/IjWlQFTzKL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #EUROPE #POSTER #YG https://t.co/zwKXBEMMlk"
+	},
+	{
 		"created_at": "Tue Sep 06 11:40:10 +0000 2022",
 		"id": 1567110699775848400,
 		"id_str": "1567115436692586496",
