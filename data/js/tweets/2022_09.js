@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 18:40:10 +0000 2022",
+		"id": 1567212709216755700,
+		"id_str": "1567221132440248322",
+		"full_text": "festival summer done!! luckily we’ll see you on the north american tour in a couple of weeks and the uk/ireland tour in november 🥲🤘❤️ wooh! https://t.co/9F6jTAA0D4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567212705378885600,
+					"id_str": "1567212705378885634",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb_bpu-WYAIerEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb_bpu-WYAIerEL.jpg",
+					"url": "https://t.co/9F6jTAA0D4",
+					"display_url": "pic.twitter.com/9F6jTAA0D4",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1567212709216755713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567212705378885600,
+					"id_str": "1567212705378885634",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb_bpu-WYAIerEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb_bpu-WYAIerEL.jpg",
+					"url": "https://t.co/9F6jTAA0D4",
+					"display_url": "pic.twitter.com/9F6jTAA0D4",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1567212709216755713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89270,
+			"friends_count": 270,
+			"listed_count": 336,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "festival summer done!! luckily we’ll see you on the north american tour in a couple of weeks and the uk/ireland tour in november 🥲🤘❤️ wooh! https://t.co/9F6jTAA0D4"
+	},
+	{
 		"created_at": "Tue Sep 06 17:45:37 +0000 2022",
 		"id": 1567196094118989800,
 		"id_str": "1567207405116690435",
