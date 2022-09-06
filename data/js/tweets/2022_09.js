@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 17:45:37 +0000 2022",
+		"id": 1567196094118989800,
+		"id_str": "1567207405116690435",
+		"full_text": "Orbit in [🇳🇱AMSTERDAM🇳🇱]\nThose attending the show on SEPT.8!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in AMSTERDAM is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinAmsterdam #LOONATHEWORLD https://t.co/2yz9JURrBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						215,
+						221
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						222,
+						228
+					]
+				},
+				{
+					"text": "LOONAinAmsterdam",
+					"indices": [
+						229,
+						246
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						247,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567196068617621500,
+					"id_str": "1567196068617621513",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb_MhWNXkAkplny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb_MhWNXkAkplny.jpg",
+					"url": "https://t.co/2yz9JURrBf",
+					"display_url": "pic.twitter.com/2yz9JURrBf",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1567196094118989824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1876,
+							"h": 1937,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567196068617621500,
+					"id_str": "1567196068617621513",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb_MhWNXkAkplny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb_MhWNXkAkplny.jpg",
+					"url": "https://t.co/2yz9JURrBf",
+					"display_url": "pic.twitter.com/2yz9JURrBf",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1567196094118989824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1876,
+							"h": 1937,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1162,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567196090188927000,
+					"id_str": "1567196090188926976",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb_MimkXkAAUB9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb_MimkXkAAUB9I.jpg",
+					"url": "https://t.co/2yz9JURrBf",
+					"display_url": "pic.twitter.com/2yz9JURrBf",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1567196094118989824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149553,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit in [🇳🇱AMSTERDAM🇳🇱]\nThose attending the show on SEPT.8!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in AMSTERDAM is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinAmsterdam #LOONATHEWORLD https://t.co/2yz9JURrBf"
+	},
+	{
 		"created_at": "Tue Sep 06 15:40:20 +0000 2022",
 		"id": 1567165782358130700,
 		"id_str": "1567175878794252292",
