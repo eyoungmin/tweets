@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 15:40:20 +0000 2022",
+		"id": 1567165782358130700,
+		"id_str": "1567175878794252292",
+		"full_text": "#BLACKPINK ‘Shut Down’ Title Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST) \n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/WaDdlr8rnq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						143,
+						160
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567163913804075000,
+					"id_str": "1567163913804075009",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-vRsMaUAEpMBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-vRsMaUAEpMBC.jpg",
+					"url": "https://t.co/WaDdlr8rnq",
+					"display_url": "pic.twitter.com/WaDdlr8rnq",
+					"expanded_url": "https://twitter.com/ygent_official/status/1567165782358130688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567163913804075000,
+					"id_str": "1567163913804075009",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb-vRsMaUAEpMBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb-vRsMaUAEpMBC.jpg",
+					"url": "https://t.co/WaDdlr8rnq",
+					"display_url": "pic.twitter.com/WaDdlr8rnq",
+					"expanded_url": "https://twitter.com/ygent_official/status/1567165782358130688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8903416,
+			"friends_count": 36,
+			"listed_count": 9838,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29511,
+		"favorite_count": 66238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down’ Title Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST) \n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/WaDdlr8rnq"
+	},
+	{
 		"created_at": "Tue Sep 06 12:40:10 +0000 2022",
 		"id": 1567120692763828200,
 		"id_str": "1567130534794461184",
