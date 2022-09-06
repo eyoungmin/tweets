@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 10:45:37 +0000 2022",
+		"id": 1566731292783173600,
+		"id_str": "1567101710224482305",
+		"full_text": "Orbit in [🇵🇱WARSAW🇵🇱]\nThose attending the show on SEPT.6!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in WARSAW is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinWarsaw #LOONATHEWORLD https://t.co/a03L6xzaKE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "LOONAinWarsaw",
+					"indices": [
+						223,
+						237
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						238,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566731151305105400,
+					"id_str": "1566731151305105408",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb4lrmQUYAAPHge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb4lrmQUYAAPHge.jpg",
+					"url": "https://t.co/a03L6xzaKE",
+					"display_url": "pic.twitter.com/a03L6xzaKE",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1566731292783173632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1851,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1085,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566731151305105400,
+					"id_str": "1566731151305105408",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb4lrmQUYAAPHge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb4lrmQUYAAPHge.jpg",
+					"url": "https://t.co/a03L6xzaKE",
+					"display_url": "pic.twitter.com/a03L6xzaKE",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1566731292783173632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1851,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1085,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566731169936289800,
+					"id_str": "1566731169936289796",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb4lsrqVsAQx-eU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb4lsrqVsAQx-eU.jpg",
+					"url": "https://t.co/a03L6xzaKE",
+					"display_url": "pic.twitter.com/a03L6xzaKE",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1566731292783173632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149541,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit in [🇵🇱WARSAW🇵🇱]\nThose attending the show on SEPT.6!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in WARSAW is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinWarsaw #LOONATHEWORLD https://t.co/a03L6xzaKE"
+	},
+	{
+		"created_at": "Tue Sep 06 10:40:10 +0000 2022",
+		"id": 1567067730905567200,
+		"id_str": "1567100336153706496",
+		"full_text": "[공지] \n유애나ZONE 유출 관련 조치 안내\n\n▶ https://t.co/sMpCLHgwLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sMpCLHgwLQ",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/506",
+					"display_url": "cafe.daum.net/IU/NDuY/506",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1455313,
+			"friends_count": 0,
+			"listed_count": 2323,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 2759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] \n유애나ZONE 유출 관련 조치 안내\n\n▶ https://t.co/sMpCLHgwLQ"
+	},
+	{
+		"created_at": "Tue Sep 06 10:29:39 +0000 2022",
+		"id": 1567003143061512200,
+		"id_str": "1567097690646798336",
+		"full_text": "💥웃음X케미X리액션 제대로 터졌다!💥\n&lt;#공조2_인터내셔날&gt; #공조투나잇 쇼케이스.zip\n늦은 시간까지 함께한 #인터내셔날한_관객 여러분 감사합니다!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/l9ouDW5Cas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "공조투나잇",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "인터내셔날한_관객",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "9월7일대개봉",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567002988186865700,
+					"id_str": "1567002988186865664",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8c6ljakAAdoFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8c6ljakAAdoFe.jpg",
+					"url": "https://t.co/l9ouDW5Cas",
+					"display_url": "pic.twitter.com/l9ouDW5Cas",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567003143061512194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567002988186865700,
+					"id_str": "1567002988186865664",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8c6ljakAAdoFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8c6ljakAAdoFe.jpg",
+					"url": "https://t.co/l9ouDW5Cas",
+					"display_url": "pic.twitter.com/l9ouDW5Cas",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567003143061512194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567002988207820800,
+					"id_str": "1567002988207820802",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8c6loaUAIHg-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8c6loaUAIHg-a.jpg",
+					"url": "https://t.co/l9ouDW5Cas",
+					"display_url": "pic.twitter.com/l9ouDW5Cas",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567003143061512194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567002988195233800,
+					"id_str": "1567002988195233793",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8c6llaQAE74l1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8c6llaQAE74l1.jpg",
+					"url": "https://t.co/l9ouDW5Cas",
+					"display_url": "pic.twitter.com/l9ouDW5Cas",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567003143061512194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567002988191031300,
+					"id_str": "1567002988191031296",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8c6lkaIAA2ATN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8c6lkaIAA2ATN.jpg",
+					"url": "https://t.co/l9ouDW5Cas",
+					"display_url": "pic.twitter.com/l9ouDW5Cas",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567003143061512194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331806,
+			"friends_count": 10640,
+			"listed_count": 260,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662085906",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥웃음X케미X리액션 제대로 터졌다!💥\n&lt;#공조2_인터내셔날&gt; #공조투나잇 쇼케이스.zip\n늦은 시간까지 함께한 #인터내셔날한_관객 여러분 감사합니다!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #9월7일대개봉 https://t.co/l9ouDW5Cas"
+	},
+	{
 		"created_at": "Mon Sep 05 05:40:29 +0000 2022",
 		"id": 1566656962426974200,
 		"id_str": "1566662534156926976",
