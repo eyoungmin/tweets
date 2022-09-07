@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 17:40:34 +0000 2022",
+		"id": 1567561571982889000,
+		"id_str": "1567568524813504512",
+		"full_text": "∞ Details of our Infinity Tickets for this month's shows in Peru, Colombia and Chile have just been announced. Full info at https://t.co/YV5JyG656e https://t.co/agsnrt4hQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YV5JyG656e",
+					"expanded_url": "https://cldp.ly/infinitysept22",
+					"display_url": "cldp.ly/infinitysept22",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567561110219358200,
+					"id_str": "1567561110219358208",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEYhkJXgAAfqaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEYhkJXgAAfqaS.jpg",
+					"url": "https://t.co/agsnrt4hQs",
+					"display_url": "pic.twitter.com/agsnrt4hQs",
+					"expanded_url": "https://twitter.com/coldplay/status/1567561571982888961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567561110219358200,
+					"id_str": "1567561110219358208",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FcEYhkJXgAAfqaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcEYhkJXgAAfqaS.jpg",
+					"url": "https://t.co/agsnrt4hQs",
+					"display_url": "pic.twitter.com/agsnrt4hQs",
+					"expanded_url": "https://twitter.com/coldplay/status/1567561571982888961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23637963,
+			"friends_count": 780,
+			"listed_count": 42427,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 1729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "∞ Details of our Infinity Tickets for this month's shows in Peru, Colombia and Chile have just been announced. Full info at https://t.co/YV5JyG656e https://t.co/agsnrt4hQs"
+	},
+	{
+		"created_at": "Wed Sep 07 17:40:29 +0000 2022",
+		"id": 1567528240079868000,
+		"id_str": "1567568503107977222",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Tracklist Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Tracklist #Title #ShutDown #PinkVenom #TypaGirl #YeahYeahYeah #HardToLove #TheHappiestGirl #Tally #ReadyForLove #Release #YG https://t.co/gmvnrNboCq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "Tracklist",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "TypaGirl",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "YeahYeahYeah",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"text": "HardToLove",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "TheHappiestGirl",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"text": "Tally",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "ReadyForLove",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						251,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567528130038071300,
+					"id_str": "1567528130038071297",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FcD6h3ZaAAExIjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcD6h3ZaAAExIjq.jpg",
+					"url": "https://t.co/gmvnrNboCq",
+					"display_url": "pic.twitter.com/gmvnrNboCq",
+					"expanded_url": "https://twitter.com/ygent_official/status/1567528240079867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567528130038071300,
+					"id_str": "1567528130038071297",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FcD6h3ZaAAExIjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcD6h3ZaAAExIjq.jpg",
+					"url": "https://t.co/gmvnrNboCq",
+					"display_url": "pic.twitter.com/gmvnrNboCq",
+					"expanded_url": "https://twitter.com/ygent_official/status/1567528240079867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8906284,
+			"friends_count": 36,
+			"listed_count": 9836,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20820,
+		"favorite_count": 51191,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Tracklist Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Tracklist #Title #ShutDown #PinkVenom #TypaGirl #YeahYeahYeah #HardToLove #TheHappiestGirl #Tally #ReadyForLove #Release #YG https://t.co/gmvnrNboCq"
+	},
+	{
+		"created_at": "Wed Sep 07 17:40:27 +0000 2022",
+		"id": 1567528325689786400,
+		"id_str": "1567568494094426113",
+		"full_text": "こんにちは、トリプルSのファンの皆さん。\n\nCOSMOのSTANタブアップデートが完了しましたので、ご案内いたします。\n\nSpecialClassObjektと共に新しい機能がアップデートされましたので、多くの関心をお願いします。 今まで待ってくださりありがとうございます。\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567528323911385000,
+		"in_reply_to_status_id_str": "1567528323911385090",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13584,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "こんにちは、トリプルSのファンの皆さん。\n\nCOSMOのSTANタブアップデートが完了しましたので、ご案内いたします。\n\nSpecialClassObjektと共に新しい機能がアップデートされましたので、多くの関心をお願いします。 今まで待ってくださりありがとうございます。\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Sep 07 17:40:23 +0000 2022",
+		"id": 1567528323911385000,
+		"id_str": "1567568476146995201",
+		"full_text": "Hello tripleS fans, we have updated the STAN feature on COSMO. \n\nNew features including the awaited Special Objekts are now available. Thank you for being patient with us through the delay.\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567528322191753200,
+		"in_reply_to_status_id_str": "1567528322191753216",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13584,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello tripleS fans, we have updated the STAN feature on COSMO. \n\nNew features including the awaited Special Objekts are now available. Thank you for being patient with us through the delay.\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
 		"created_at": "Wed Sep 07 15:34:41 +0000 2022",
 		"id": 1567528304047173600,
 		"id_str": "1567536841813032960",
