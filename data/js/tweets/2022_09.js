@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 15:34:41 +0000 2022",
+		"id": 1567528304047173600,
+		"id_str": "1567536841813032960",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Tracklist Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Tracklist #Title #ShutDown #PinkVenom #TypaGirl #YeahYeahYeah #HardToLove #TheHappiestGirl #Tally #ReadyForLove #Release #YG https://t.co/4NU3nFHAKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "Tracklist",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "TypaGirl",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "YeahYeahYeah",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"text": "HardToLove",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "TheHappiestGirl",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"text": "Tally",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "ReadyForLove",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						251,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567527417564233700,
+					"id_str": "1567527417564233728",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FcD54ZOaAAAxteV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcD54ZOaAAAxteV.jpg",
+					"url": "https://t.co/4NU3nFHAKQ",
+					"display_url": "pic.twitter.com/4NU3nFHAKQ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1567528304047173633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567527417564233700,
+					"id_str": "1567527417564233728",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FcD54ZOaAAAxteV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcD54ZOaAAAxteV.jpg",
+					"url": "https://t.co/4NU3nFHAKQ",
+					"display_url": "pic.twitter.com/4NU3nFHAKQ",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1567528304047173633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7359865,
+			"friends_count": 0,
+			"listed_count": 7729,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54640,
+		"favorite_count": 103952,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Tracklist Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Tracklist #Title #ShutDown #PinkVenom #TypaGirl #YeahYeahYeah #HardToLove #TheHappiestGirl #Tally #ReadyForLove #Release #YG https://t.co/4NU3nFHAKQ"
+	},
+	{
 		"created_at": "Wed Sep 07 14:29:39 +0000 2022",
 		"id": 1567502813214949400,
 		"id_str": "1567520477840547840",
