@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 10:29:39 +0000 2022",
+		"id": 1567451910080450600,
+		"id_str": "1567460078336331777",
+		"full_text": "[속보!] #공조2 무대인사가 더 인터내셔날해졌다! #드림컴트루😭\n📢&lt;#공조2_인터내셔날&gt; 관객들을 만나러 다니엘 헤니 &amp; 장영남 배우 출격!!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #장영남 #이석훈감독 #절찬상영중 https://t.co/IoLwIEygoM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "드림컴트루",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "장영남",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567451829000372200,
+					"id_str": "1567451829000372224",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FcC1Ij4agAAEvA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcC1Ij4agAAEvA7.jpg",
+					"url": "https://t.co/IoLwIEygoM",
+					"display_url": "pic.twitter.com/IoLwIEygoM",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567451910080450560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567451829000372200,
+					"id_str": "1567451829000372224",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FcC1Ij4agAAEvA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcC1Ij4agAAEvA7.jpg",
+					"url": "https://t.co/IoLwIEygoM",
+					"display_url": "pic.twitter.com/IoLwIEygoM",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567451910080450560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567451848965226500,
+					"id_str": "1567451848965226502",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FcC1JuQaAAY5UYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcC1JuQaAAY5UYR.jpg",
+					"url": "https://t.co/IoLwIEygoM",
+					"display_url": "pic.twitter.com/IoLwIEygoM",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1567451910080450560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331831,
+			"friends_count": 10638,
+			"listed_count": 261,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[속보!] #공조2 무대인사가 더 인터내셔날해졌다! #드림컴트루😭\n📢&lt;#공조2_인터내셔날&gt; 관객들을 만나러 다니엘 헤니 &amp; 장영남 배우 출격!!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #장영남 #이석훈감독 #절찬상영중 https://t.co/IoLwIEygoM"
+	},
+	{
 		"created_at": "Wed Sep 07 09:40:17 +0000 2022",
 		"id": 1567437647739584500,
 		"id_str": "1567447654983995397",
