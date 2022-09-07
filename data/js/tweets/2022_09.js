@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 12:40:10 +0000 2022",
+		"id": 1567482827213521000,
+		"id_str": "1567492924572667905",
+		"full_text": "2022.09.09\n\nS8 teaser drop\n\n#tripleS #트리플에스 #トリプルS https://t.co/6cZWn0LiIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567482157215678500,
+					"id_str": "1567482157215678464",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FcDQt5SagAAxDhz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcDQt5SagAAxDhz.jpg",
+					"url": "https://t.co/6cZWn0LiIb",
+					"display_url": "pic.twitter.com/6cZWn0LiIb",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1567482827213520902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567482157215678500,
+					"id_str": "1567482157215678464",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FcDQt5SagAAxDhz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcDQt5SagAAxDhz.jpg",
+					"url": "https://t.co/6cZWn0LiIb",
+					"display_url": "pic.twitter.com/6cZWn0LiIb",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1567482827213520902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13561,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022.09.09\n\nS8 teaser drop\n\n#tripleS #트리플에스 #トリプルS https://t.co/6cZWn0LiIb"
+	},
+	{
 		"created_at": "Wed Sep 07 11:50:54 +0000 2022",
 		"id": 1567472839170863000,
 		"id_str": "1567480525610450944",
