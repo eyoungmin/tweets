@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 11:40:28 +0000 2022",
+		"id": 1567833480666714000,
+		"id_str": "1567840287371792384",
+		"full_text": "안녕하세요 해린입니다 :)\n모두 이번 추석 즐겁고 좋은 시간 되시길 바라요~\n좋은 사람들과 함께 소중한 시간 보내세요💙\n오늘도 내일도 멋지고 행복한 하루 되세요💚\n#NewJeans #해린 #HAERIN https://t.co/TCqv0gjEgw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567833473473478700,
+					"id_str": "1567833473473478656",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIQPMVagAAGIW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIQPMVagAAGIW0.jpg",
+					"url": "https://t.co/TCqv0gjEgw",
+					"display_url": "pic.twitter.com/TCqv0gjEgw",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567833480666714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567833473473478700,
+					"id_str": "1567833473473478656",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIQPMVagAAGIW0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIQPMVagAAGIW0.jpg",
+					"url": "https://t.co/TCqv0gjEgw",
+					"display_url": "pic.twitter.com/TCqv0gjEgw",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567833480666714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50704,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3375,
+		"favorite_count": 6310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 해린입니다 :)\n모두 이번 추석 즐겁고 좋은 시간 되시길 바라요~\n좋은 사람들과 함께 소중한 시간 보내세요💙\n오늘도 내일도 멋지고 행복한 하루 되세요💚\n#NewJeans #해린 #HAERIN https://t.co/TCqv0gjEgw"
+	},
+	{
+		"created_at": "Thu Sep 08 11:40:24 +0000 2022",
+		"id": 1567832300049821700,
+		"id_str": "1567840269952860163",
+		"full_text": "안녕하세요!(&gt;.&lt;) 혜인입니다! 모두 행복한 시간 보내고 계시나요?🐣 곧있으면 추석 날인데에~! 맛난 음식 많이 드시고 항상 행복하시고 소중한 사람들과 함께 오래오래 건강하세요 ~!!\n#NewJeans #혜인 #HYEIN https://t.co/G4JIzsyy4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567832289954111500,
+					"id_str": "1567832289954111489",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIPKTYaIAES4n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIPKTYaIAES4n9.jpg",
+					"url": "https://t.co/G4JIzsyy4O",
+					"display_url": "pic.twitter.com/G4JIzsyy4O",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567832300049821701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567832289954111500,
+					"id_str": "1567832289954111489",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIPKTYaIAES4n9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIPKTYaIAES4n9.jpg",
+					"url": "https://t.co/G4JIzsyy4O",
+					"display_url": "pic.twitter.com/G4JIzsyy4O",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567832300049821701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50704,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2029,
+		"favorite_count": 4746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요!(&gt;.&lt;) 혜인입니다! 모두 행복한 시간 보내고 계시나요?🐣 곧있으면 추석 날인데에~! 맛난 음식 많이 드시고 항상 행복하시고 소중한 사람들과 함께 오래오래 건강하세요 ~!!\n#NewJeans #혜인 #HYEIN https://t.co/G4JIzsyy4O"
+	},
+	{
+		"created_at": "Thu Sep 08 11:40:20 +0000 2022",
+		"id": 1567831634350862300,
+		"id_str": "1567840256837263362",
+		"full_text": "여러분!! 올해 추석도 잘 보내시면서 마음껏 쉬고 먹고 가족과 함께 시간을 보내요!! I hope you all have a good Chuseok and if you don't celebrate it... hope u have a lovely  day! 💜❤️\n#NewJeans #하니 #Hanni https://t.co/YTSRP77k3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "Hanni",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567831625622499300,
+					"id_str": "1567831625622499328",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIOjojaMAAkR-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIOjojaMAAkR-g.jpg",
+					"url": "https://t.co/YTSRP77k3P",
+					"display_url": "pic.twitter.com/YTSRP77k3P",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567831634350862337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 1069,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567831625622499300,
+					"id_str": "1567831625622499328",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIOjojaMAAkR-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIOjojaMAAkR-g.jpg",
+					"url": "https://t.co/YTSRP77k3P",
+					"display_url": "pic.twitter.com/YTSRP77k3P",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567831634350862337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 1069,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50704,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3039,
+		"favorite_count": 6094,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분!! 올해 추석도 잘 보내시면서 마음껏 쉬고 먹고 가족과 함께 시간을 보내요!! I hope you all have a good Chuseok and if you don't celebrate it... hope u have a lovely  day! 💜❤️\n#NewJeans #하니 #Hanni https://t.co/YTSRP77k3P"
+	},
+	{
+		"created_at": "Thu Sep 08 11:40:18 +0000 2022",
+		"id": 1567831448723521500,
+		"id_str": "1567840247953690624",
+		"full_text": "Hey hey 안녕하세요~~🌻\n저 다니엘 이에요!! ㅎ \n모두 귀여운 송편들보다 더 달콤하고 쫄깃쫄깃한 추석 보내세요! 정말 보고싶어요! I miss you… to the end of the world and back!! Times ♾! 가족과 행복하고 따듯한 시간 보내길 바라요!! 꼭 건강하시고!! 💖 you !! \n#NewJeans #다니엘 #Danielle https://t.co/dsNuGD8tyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "Danielle",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567831439491895300,
+					"id_str": "1567831439491895296",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIOYzKakAAnRvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIOYzKakAAnRvx.jpg",
+					"url": "https://t.co/dsNuGD8tyW",
+					"display_url": "pic.twitter.com/dsNuGD8tyW",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567831448723521538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567831439491895300,
+					"id_str": "1567831439491895296",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIOYzKakAAnRvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIOYzKakAAnRvx.jpg",
+					"url": "https://t.co/dsNuGD8tyW",
+					"display_url": "pic.twitter.com/dsNuGD8tyW",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567831448723521538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50704,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2218,
+		"favorite_count": 4991,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hey hey 안녕하세요~~🌻\n저 다니엘 이에요!! ㅎ \n모두 귀여운 송편들보다 더 달콤하고 쫄깃쫄깃한 추석 보내세요! 정말 보고싶어요! I miss you… to the end of the world and back!! Times ♾! 가족과 행복하고 따듯한 시간 보내길 바라요!! 꼭 건강하시고!! 💖 you !! \n#NewJeans #다니엘 #Danielle https://t.co/dsNuGD8tyW"
+	},
+	{
+		"created_at": "Thu Sep 08 11:40:14 +0000 2022",
+		"id": 1567830983856259000,
+		"id_str": "1567840230635454465",
+		"full_text": "안녕하세요✨ 이번 추석도 사랑하는 가족들과 함께 행복한 시간 보내시길 바라요💕💕 모두 즐거운 한가위 보내세요😊❤️\n#NewJeans #민지 #MINJI https://t.co/ZNtpdSzKcm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567830975153053700,
+					"id_str": "1567830975153053702",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIN9xXaIAYq1r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIN9xXaIAYq1r_.jpg",
+					"url": "https://t.co/ZNtpdSzKcm",
+					"display_url": "pic.twitter.com/ZNtpdSzKcm",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567830983856259072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567830975153053700,
+					"id_str": "1567830975153053702",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIN9xXaIAYq1r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIN9xXaIAYq1r_.jpg",
+					"url": "https://t.co/ZNtpdSzKcm",
+					"display_url": "pic.twitter.com/ZNtpdSzKcm",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1567830983856259072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50704,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3070,
+		"favorite_count": 6052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요✨ 이번 추석도 사랑하는 가족들과 함께 행복한 시간 보내시길 바라요💕💕 모두 즐거운 한가위 보내세요😊❤️\n#NewJeans #민지 #MINJI https://t.co/ZNtpdSzKcm"
+	},
+	{
 		"created_at": "Thu Sep 08 10:40:16 +0000 2022",
 		"id": 1567813607479742500,
 		"id_str": "1567825139282083840",
