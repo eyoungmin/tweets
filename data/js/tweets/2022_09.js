@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 03:58:10 +0000 2022",
+		"id": 1567715521428336600,
+		"id_str": "1567723945151057920",
+		"full_text": "'Confidential Assignment 2: International' LIM YOONA is back as a beauty YouTuber! With her outstanding performance and greater presence than in the first movie, #LIMYOONA proves her wide acting spectrum and is at the center of positive reception! \n\n#임윤아 \n#공조2\n#소녀시대 https://t.co/wFkiuTZpB9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						250,
+						254
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						256,
+						260
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						261,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567715510418284500,
+					"id_str": "1567715510418284545",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGk81taIAEiCH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGk81taIAEiCH6.jpg",
+					"url": "https://t.co/wFkiuTZpB9",
+					"display_url": "pic.twitter.com/wFkiuTZpB9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567715521428336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567715510418284500,
+					"id_str": "1567715510418284545",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGk81taIAEiCH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGk81taIAEiCH6.jpg",
+					"url": "https://t.co/wFkiuTZpB9",
+					"display_url": "pic.twitter.com/wFkiuTZpB9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567715521428336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567715510409887700,
+					"id_str": "1567715510409887747",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGk81raAAM7HPS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGk81raAAM7HPS.jpg",
+					"url": "https://t.co/wFkiuTZpB9",
+					"display_url": "pic.twitter.com/wFkiuTZpB9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567715521428336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567715510405709800,
+					"id_str": "1567715510405709824",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGk81qaQAAd_mM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGk81qaQAAd_mM.jpg",
+					"url": "https://t.co/wFkiuTZpB9",
+					"display_url": "pic.twitter.com/wFkiuTZpB9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567715521428336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11151157,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 2496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Confidential Assignment 2: International' LIM YOONA is back as a beauty YouTuber! With her outstanding performance and greater presence than in the first movie, #LIMYOONA proves her wide acting spectrum and is at the center of positive reception! \n\n#임윤아 \n#공조2\n#소녀시대 https://t.co/wFkiuTZpB9"
+	},
+	{
+		"created_at": "Thu Sep 08 03:58:10 +0000 2022",
+		"id": 1567716589293961200,
+		"id_str": "1567723945062985728",
+		"full_text": "#PARKSOOYOUNG in 'Once Upon a Small Town' steals the attention with her dazzling, refreshing beauty and expressive, detailed acting! In the latest episode, the love triangle between the main characters has taken off!  \n\n#박수영 \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/aSbnlXTQ2u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "박수영",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						226,
+						229
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						230,
+						234
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						242,
+						252
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						254,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567716580464926700,
+					"id_str": "1567716580464926723",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGl7H8aIAMEB1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGl7H8aIAMEB1j.jpg",
+					"url": "https://t.co/aSbnlXTQ2u",
+					"display_url": "pic.twitter.com/aSbnlXTQ2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567716589293961216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 422,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567716580464926700,
+					"id_str": "1567716580464926723",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGl7H8aIAMEB1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGl7H8aIAMEB1j.jpg",
+					"url": "https://t.co/aSbnlXTQ2u",
+					"display_url": "pic.twitter.com/aSbnlXTQ2u",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567716589293961216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 422,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 239,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11151157,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 780,
+		"favorite_count": 2194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PARKSOOYOUNG in 'Once Upon a Small Town' steals the attention with her dazzling, refreshing beauty and expressive, detailed acting! In the latest episode, the love triangle between the main characters has taken off!  \n\n#박수영 \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/aSbnlXTQ2u"
+	},
+	{
+		"created_at": "Thu Sep 08 03:58:10 +0000 2022",
+		"id": 1567714512815652900,
+		"id_str": "1567723944849076224",
+		"full_text": "In the latest episode of '#GoodJob’, #KWONYURI disguises herself as a secretary and shows off her dazzling visuals in an office look + school uniform! The show has garnered great interest with her incredible acting transformation!\n\n#권유리 \n#굿잡 \n#소녀시대 #GirlsGeneration https://t.co/maXi7lXBu2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodJob",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						232,
+						236
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						238,
+						241
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						249,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567714500526362600,
+					"id_str": "1567714500526362624",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGkCDkaUAAHPXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGkCDkaUAAHPXP.jpg",
+					"url": "https://t.co/maXi7lXBu2",
+					"display_url": "pic.twitter.com/maXi7lXBu2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567714512815652865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567714500526362600,
+					"id_str": "1567714500526362624",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGkCDkaUAAHPXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGkCDkaUAAHPXP.jpg",
+					"url": "https://t.co/maXi7lXBu2",
+					"display_url": "pic.twitter.com/maXi7lXBu2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1567714512815652865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 933,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11151157,
+			"friends_count": 55,
+			"listed_count": 12582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 2145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the latest episode of '#GoodJob’, #KWONYURI disguises herself as a secretary and shows off her dazzling visuals in an office look + school uniform! The show has garnered great interest with her incredible acting transformation!\n\n#권유리 \n#굿잡 \n#소녀시대 #GirlsGeneration https://t.co/maXi7lXBu2"
+	},
+	{
+		"created_at": "Thu Sep 08 03:40:12 +0000 2022",
+		"id": 1567709436642300000,
+		"id_str": "1567719425360396290",
+		"full_text": "얼굴이 아니라 작품  A Piece of Art, Not Just a Face\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/SLtOZXdns0\n\n#tripleS #트리플에스 #トリプルS https://t.co/1mdQ8u3HTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLtOZXdns0",
+					"expanded_url": "http://youtu.be/cWfKn14HPS0",
+					"display_url": "youtu.be/cWfKn14HPS0",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567707292480721000,
+					"id_str": "1567707292480720898",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567707292480720898/pu/img/fWTMNzc20P_nzU7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567707292480720898/pu/img/fWTMNzc20P_nzU7E.jpg",
+					"url": "https://t.co/1mdQ8u3HTF",
+					"display_url": "pic.twitter.com/1mdQ8u3HTF",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1567709436642299904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567707292480721000,
+					"id_str": "1567707292480720898",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567707292480720898/pu/img/fWTMNzc20P_nzU7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567707292480720898/pu/img/fWTMNzc20P_nzU7E.jpg",
+					"url": "https://t.co/1mdQ8u3HTF",
+					"display_url": "pic.twitter.com/1mdQ8u3HTF",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1567709436642299904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17833,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567707292480720898/pu/vid/480x270/ckuqES5vOvXw8C7k.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567707292480720898/pu/vid/640x360/OqR07WlblL61pwdE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567707292480720898/pu/pl/BnfWEya6cFqZcA7K.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567707292480720898/pu/vid/1280x720/0UINx5_H7JYvprRC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13596,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼굴이 아니라 작품  A Piece of Art, Not Just a Face\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/SLtOZXdns0\n\n#tripleS #트리플에스 #トリプルS https://t.co/1mdQ8u3HTF"
+	},
+	{
 		"created_at": "Thu Sep 08 00:29:39 +0000 2022",
 		"id": 1567667928816033800,
 		"id_str": "1567671471010455557",
