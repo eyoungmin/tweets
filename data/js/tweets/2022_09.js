@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 12:40:31 +0000 2022",
+		"id": 1567849323127521300,
+		"id_str": "1567855400703201280",
+		"full_text": "사비나앤드론즈 (Savina &amp; Drones) - Birdㅣ숲세권 라이브ㅣFor:Rest LIVE \n\nNow!\n\nhttps://t.co/o7d8f291fu - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o7d8f291fu",
+					"expanded_url": "https://youtu.be/vfUO-NmdmgU",
+					"display_url": "youtu.be/vfUO-NmdmgU",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1288,
+			"friends_count": 245,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사비나앤드론즈 (Savina &amp; Drones) - Birdㅣ숲세권 라이브ㅣFor:Rest LIVE \n\nNow!\n\nhttps://t.co/o7d8f291fu - @YouTube"
+	},
+	{
+		"created_at": "Thu Sep 08 12:40:28 +0000 2022",
+		"id": 1567845339406733300,
+		"id_str": "1567855387545665537",
+		"full_text": "#ELLEasEmoji #NewJeans #뉴진스 \n아보카도🥑 VS 뉴진스 멤버들🐰👖?!\n\n보다 보면 잇몸이 저절로 마르는 뉴진스의 이모지 인터뷰 드디어 OPEN!\n👉https://t.co/JNl8v6dYLQ\n\n*English subtitles will be upload in 24 hours(Sorry for late🥲)*\n@NewJeans_ADOR #민지 #하니 #다니엘 #해린 #혜인 https://t.co/6rbW4xV3VM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEasEmoji",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						182,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JNl8v6dYLQ",
+					"expanded_url": "https://youtu.be/_W7if6GSgok",
+					"display_url": "youtu.be/_W7if6GSgok",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567825260950728700,
+					"id_str": "1567825260950728705",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567825260950728705/pu/img/wErTJ98OYJPYl-kY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567825260950728705/pu/img/wErTJ98OYJPYl-kY.jpg",
+					"url": "https://t.co/6rbW4xV3VM",
+					"display_url": "pic.twitter.com/6rbW4xV3VM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1567845339406733317/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567825260950728700,
+					"id_str": "1567825260950728705",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567825260950728705/pu/img/wErTJ98OYJPYl-kY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567825260950728705/pu/img/wErTJ98OYJPYl-kY.jpg",
+					"url": "https://t.co/6rbW4xV3VM",
+					"display_url": "pic.twitter.com/6rbW4xV3VM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1567845339406733317/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57223,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567825260950728705/pu/pl/8zvSo4I6wG9PlQdk.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567825260950728705/pu/vid/480x270/pkiIdE2IqGCQOJl5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567825260950728705/pu/vid/1280x720/vTrIkUMKFuhc6jqj.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567825260950728705/pu/vid/640x360/yZPCLa3z9mib1Dg2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXi6014",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXi6014",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151933,
+			"friends_count": 3369,
+			"listed_count": 494,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518758286346309632/VO92Zslb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1660633620",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1050,
+		"favorite_count": 2753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEasEmoji #NewJeans #뉴진스 \n아보카도🥑 VS 뉴진스 멤버들🐰👖?!\n\n보다 보면 잇몸이 저절로 마르는 뉴진스의 이모지 인터뷰 드디어 OPEN!\n👉https://t.co/JNl8v6dYLQ\n\n*English subtitles will be upload in 24 hours(Sorry for late🥲)*\n@NewJeans_ADOR #민지 #하니 #다니엘 #해린 #혜인 https://t.co/6rbW4xV3VM"
+	},
+	{
+		"created_at": "Thu Sep 08 12:40:19 +0000 2022",
+		"id": 1567845231114031000,
+		"id_str": "1567855349339754496",
+		"full_text": "이달의 소녀 OFFICIAL MD [DOWN JUMPER]\n\n2022.09.08 (THU) 10:00PM\nCOMING SOON\n\n▶ https://t.co/qhgjY2HGLN\n\n#이달의소녀 #LOONA https://t.co/74wqhkZAm7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhgjY2HGLN",
+					"expanded_url": "https://bit.ly/3RrgQ9B",
+					"display_url": "bit.ly/3RrgQ9B",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567845223891456000,
+					"id_str": "1567845223891456000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIa7KDX0AACnhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIa7KDX0AACnhP.jpg",
+					"url": "https://t.co/74wqhkZAm7",
+					"display_url": "pic.twitter.com/74wqhkZAm7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1567845231114031107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567845223891456000,
+					"id_str": "1567845223891456000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIa7KDX0AACnhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIa7KDX0AACnhP.jpg",
+					"url": "https://t.co/74wqhkZAm7",
+					"display_url": "pic.twitter.com/74wqhkZAm7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1567845231114031107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979398,
+			"friends_count": 3,
+			"listed_count": 8950,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 5467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 OFFICIAL MD [DOWN JUMPER]\n\n2022.09.08 (THU) 10:00PM\nCOMING SOON\n\n▶ https://t.co/qhgjY2HGLN\n\n#이달의소녀 #LOONA https://t.co/74wqhkZAm7"
+	},
+	{
+		"created_at": "Thu Sep 08 12:40:10 +0000 2022",
+		"id": 1567841363009630200,
+		"id_str": "1567855310802501634",
+		"full_text": "[TikTok📹]\nHow to spend Chuseok by Danielle, Haerin! 🐰🌕\n\n🔗https://t.co/LM4j2L8hNV\n\n#NewJeans #NewJeans_Hurt #DANIELLE #HAERIN #MINJI #HANNI #HYEIN #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "NewJeans_Hurt",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LM4j2L8hNV",
+					"expanded_url": "https://vt.tiktok.com/ZSR585L4W/",
+					"display_url": "vt.tiktok.com/ZSR585L4W/",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466458,
+			"friends_count": 4,
+			"listed_count": 1471,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 619,
+		"favorite_count": 2275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "[TikTok📹]\nHow to spend Chuseok by Danielle, Haerin! 🐰🌕\n\n🔗https://t.co/LM4j2L8hNV\n\n#NewJeans #NewJeans_Hurt #DANIELLE #HAERIN #MINJI #HANNI #HYEIN #WeAreNewJeans"
+	},
+	{
 		"created_at": "Thu Sep 08 11:40:28 +0000 2022",
 		"id": 1567833480666714000,
 		"id_str": "1567840287371792384",
