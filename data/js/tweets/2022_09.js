@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 14:40:19 +0000 2022",
+		"id": 1567873252952875000,
+		"id_str": "1567885549574160386",
+		"full_text": "📡 𝐋𝐈𝐕𝐄 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐟𝐫𝐨𝐦 𝐁𝐔𝐄𝐍𝐎𝐒 𝐀𝐈𝐑𝐄𝐒\n\nIn cinemas worldwide, October 28 / 29\n\nA global live broadcast of the Music Of The Spheres world tour from River Plate Stadium\n\nTickets on sale September 15 from https://t.co/ucbxKMoI0J\n\n#ColdplayLiveBroadcast https://t.co/ycUcvv4HF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplayLiveBroadcast",
+					"indices": [
+						223,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ucbxKMoI0J",
+					"expanded_url": "https://www.coldplaycinema.live/",
+					"display_url": "coldplaycinema.live",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567872029444939800,
+					"id_str": "1567872029444939777",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIzmmDXkAASLzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIzmmDXkAASLzk.jpg",
+					"url": "https://t.co/ycUcvv4HF8",
+					"display_url": "pic.twitter.com/ycUcvv4HF8",
+					"expanded_url": "https://twitter.com/coldplay/status/1567873252952875008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567872029444939800,
+					"id_str": "1567872029444939777",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FcIzmmDXkAASLzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcIzmmDXkAASLzk.jpg",
+					"url": "https://t.co/ycUcvv4HF8",
+					"display_url": "pic.twitter.com/ycUcvv4HF8",
+					"expanded_url": "https://twitter.com/coldplay/status/1567873252952875008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567872029444939777/vid/480x270/jzcyFHBw91fe9R9Z.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1567872029444939777/pl/z98HAWLGRwlsWDJg.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567872029444939777/vid/1280x720/-UH3jdctspuzz3XM.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567872029444939777/vid/640x360/dR_BqBITjP1jPKJJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Floris",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23637586,
+			"friends_count": 780,
+			"listed_count": 42421,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 848,
+		"favorite_count": 4408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📡 𝐋𝐈𝐕𝐄 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 𝐟𝐫𝐨𝐦 𝐁𝐔𝐄𝐍𝐎𝐒 𝐀𝐈𝐑𝐄𝐒\n\nIn cinemas worldwide, October 28 / 29\n\nA global live broadcast of the Music Of The Spheres world tour from River Plate Stadium\n\nTickets on sale September 15 from https://t.co/ucbxKMoI0J\n\n#ColdplayLiveBroadcast https://t.co/ycUcvv4HF8"
+	},
+	{
 		"created_at": "Thu Sep 08 13:45:37 +0000 2022",
 		"id": 1567861011457388500,
 		"id_str": "1567871784044662790",
