@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 05:27:52 +0000 2022",
+		"id": 1567738071445274600,
+		"id_str": "1567746522074464258",
+		"full_text": "#블랙핑크 가 정규 2집 '#본핑크(#BORNPINK)' 발매를 앞두고 굵직한 정보들을 순차적으로 오픈하며 컴백 열기를 끌어올리고 있습니다. YG는 이제껏 보지 못한 색다름으로 K팝의 위상을 높일 것이라 전했는데요? 타이틀 곡 #SHUTDOWN 이 기대가 됩니다! \n@BLACKPINK #BLACKPINK https://t.co/ZhweP1FAe5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본핑크",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "SHUTDOWN",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						160,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZhweP1FAe5",
+					"expanded_url": "https://lrl.kr/bNfy",
+					"display_url": "lrl.kr/bNfy",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196001644,
+			"id_str": "196001644",
+			"name": "하퍼스바자",
+			"screen_name": "bazaarkorea",
+			"location": "South Korea",
+			"description": "세계 최초의 패션 매거진 하퍼스 바자\n\n https://t.co/anxga5uHtr",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/anxga5uHtr",
+							"expanded_url": "http://harpersbazaar.co.kr",
+							"display_url": "harpersbazaar.co.kr",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34787,
+			"friends_count": 0,
+			"listed_count": 197,
+			"created_at": "Tue Sep 28 02:26:27 +0000 2010",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350003704779272193/KOXSR-bJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196001644/1660647537",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 가 정규 2집 '#본핑크(#BORNPINK)' 발매를 앞두고 굵직한 정보들을 순차적으로 오픈하며 컴백 열기를 끌어올리고 있습니다. YG는 이제껏 보지 못한 색다름으로 K팝의 위상을 높일 것이라 전했는데요? 타이틀 곡 #SHUTDOWN 이 기대가 됩니다! \n@BLACKPINK #BLACKPINK https://t.co/ZhweP1FAe5"
+	},
+	{
 		"created_at": "Thu Sep 08 04:34:48 +0000 2022",
 		"id": 1567722771526086700,
 		"id_str": "1567733167951589378",
