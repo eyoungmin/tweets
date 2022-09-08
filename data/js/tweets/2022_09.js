@@ -1,6 +1,1144 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 06:40:36 +0000 2022",
+		"id": 1567754395584204800,
+		"id_str": "1567764826335625218",
+		"full_text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 1:1 VIDEO CALL &amp; OFF-LINE FAN SIGN EVENT \n\n응모 기간\n09.08(목) 14:00 ~ 09.10(토) 23:59 (KST) \n\n진행 일시 \n09.17(토) 12:00 / 13:00 (KST)\n\n▶URL\nKOR https://t.co/27R8E1ZWYl\nGLOBAL https://t.co/dInPvWLvn5 https://t.co/sOvZ0vxas9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/27R8E1ZWYl",
+					"expanded_url": "https://bit.ly/3x254du",
+					"display_url": "bit.ly/3x254du",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"url": "https://t.co/dInPvWLvn5",
+					"expanded_url": "https://bit.ly/3Rrut8I",
+					"display_url": "bit.ly/3Rrut8I",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567754386356732000,
+					"id_str": "1567754386356731905",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHITt3agAEN0tA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHITt3agAEN0tA.jpg",
+					"url": "https://t.co/sOvZ0vxas9",
+					"display_url": "pic.twitter.com/sOvZ0vxas9",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1567754395584204803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567754386356732000,
+					"id_str": "1567754386356731905",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHITt3agAEN0tA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHITt3agAEN0tA.jpg",
+					"url": "https://t.co/sOvZ0vxas9",
+					"display_url": "pic.twitter.com/sOvZ0vxas9",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1567754395584204803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567754386373496800,
+					"id_str": "1567754386373496832",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHITt7aUAA_ODn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHITt7aUAA_ODn.jpg",
+					"url": "https://t.co/sOvZ0vxas9",
+					"display_url": "pic.twitter.com/sOvZ0vxas9",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1567754395584204803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567754386797138000,
+					"id_str": "1567754386797137920",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHITvgakAAwYlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHITvgakAAwYlF.jpg",
+					"url": "https://t.co/sOvZ0vxas9",
+					"display_url": "pic.twitter.com/sOvZ0vxas9",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1567754395584204803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567754386784534500,
+					"id_str": "1567754386784534529",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHITvdaQAE5UF9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHITvdaQAE5UF9.jpg",
+					"url": "https://t.co/sOvZ0vxas9",
+					"display_url": "pic.twitter.com/sOvZ0vxas9",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1567754395584204803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5664,
+			"friends_count": 46,
+			"listed_count": 36,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 1:1 VIDEO CALL &amp; OFF-LINE FAN SIGN EVENT \n\n응모 기간\n09.08(목) 14:00 ~ 09.10(토) 23:59 (KST) \n\n진행 일시 \n09.17(토) 12:00 / 13:00 (KST)\n\n▶URL\nKOR https://t.co/27R8E1ZWYl\nGLOBAL https://t.co/dInPvWLvn5 https://t.co/sOvZ0vxas9"
+	},
+	{
+		"created_at": "Thu Sep 08 06:40:22 +0000 2022",
+		"id": 1567754751726735400,
+		"id_str": "1567764766067773441",
+		"full_text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 판매 안내\n\n▶ https://t.co/xynRdbKxSW\n\n#IU #아이유\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/67ozt8YWyS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xynRdbKxSW",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/508",
+					"display_url": "cafe.daum.net/IU/NDuY/508",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567751117744001000,
+					"id_str": "1567751117744001024",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFVdVaUAAgIjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFVdVaUAAgIjM.jpg",
+					"url": "https://t.co/67ozt8YWyS",
+					"display_url": "pic.twitter.com/67ozt8YWyS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754751726735362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567751117744001000,
+					"id_str": "1567751117744001024",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFVdVaUAAgIjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFVdVaUAAgIjM.jpg",
+					"url": "https://t.co/67ozt8YWyS",
+					"display_url": "pic.twitter.com/67ozt8YWyS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754751726735362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567751142779809800,
+					"id_str": "1567751142779809793",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFW6macAEVB4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFW6macAEVB4V.jpg",
+					"url": "https://t.co/67ozt8YWyS",
+					"display_url": "pic.twitter.com/67ozt8YWyS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754751726735362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567751168105025500,
+					"id_str": "1567751168105025537",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFYY8akAEN9pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFYY8akAEN9pc.jpg",
+					"url": "https://t.co/67ozt8YWyS",
+					"display_url": "pic.twitter.com/67ozt8YWyS",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754751726735362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567754741039648800,
+		"in_reply_to_status_id_str": "1567754741039648769",
+		"in_reply_to_user_id": 1024486566096326700,
+		"in_reply_to_user_id_str": "1024486566096326656",
+		"in_reply_to_screen_name": "_IUofficial",
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1456793,
+			"friends_count": 0,
+			"listed_count": 2323,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 1908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 판매 안내\n\n▶ https://t.co/xynRdbKxSW\n\n#IU #아이유\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/67ozt8YWyS"
+	},
+	{
+		"created_at": "Thu Sep 08 06:40:18 +0000 2022",
+		"id": 1567754741039648800,
+		"id_str": "1567764748183212032",
+		"full_text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 판매 안내\n\n▶ https://t.co/xynRdbKxSW\n\n#IU #아이유\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/9Z5qXu8GYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xynRdbKxSW",
+					"expanded_url": "https://cafe.daum.net/IU/NDuY/508",
+					"display_url": "cafe.daum.net/IU/NDuY/508",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567750766567518200,
+					"id_str": "1567750766567518208",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFBBGacAASxAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFBBGacAASxAX.jpg",
+					"url": "https://t.co/9Z5qXu8GYL",
+					"display_url": "pic.twitter.com/9Z5qXu8GYL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754741039648769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567750766567518200,
+					"id_str": "1567750766567518208",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFBBGacAASxAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFBBGacAASxAX.jpg",
+					"url": "https://t.co/9Z5qXu8GYL",
+					"display_url": "pic.twitter.com/9Z5qXu8GYL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754741039648769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567751025095999500,
+					"id_str": "1567751025095999493",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFQEMaAAUJSvW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFQEMaAAUJSvW.jpg",
+					"url": "https://t.co/9Z5qXu8GYL",
+					"display_url": "pic.twitter.com/9Z5qXu8GYL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754741039648769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567751045694242800,
+					"id_str": "1567751045694242818",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHFRQ7aQAIBxB4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHFRQ7aQAIBxB4.jpg",
+					"url": "https://t.co/9Z5qXu8GYL",
+					"display_url": "pic.twitter.com/9Z5qXu8GYL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1567754741039648769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1456793,
+			"friends_count": 0,
+			"listed_count": 2323,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1731,
+		"favorite_count": 4542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 판매 안내\n\n▶ https://t.co/xynRdbKxSW\n\n#IU #아이유\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/9Z5qXu8GYL"
+	},
+	{
+		"created_at": "Thu Sep 08 06:40:10 +0000 2022",
+		"id": 1567752759805636600,
+		"id_str": "1567764714091941888",
+		"full_text": "New song alert:\nYOONMIRAE X BIBI - ‘LAW’\n#스맨파 신곡 발매~!!\n\n@Yoonmirae @nakedbibi \n#Mnet \n\nOut now on all major streaming platforms!\n\n❤️‍🔥 https://t.co/IkIEkmh0H1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스맨파",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 • Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567752673470054400,
+					"id_str": "1567752673470054400",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567752673470054400/pu/img/_Dz00fa64qIdcecx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567752673470054400/pu/img/_Dz00fa64qIdcecx.jpg",
+					"url": "https://t.co/IkIEkmh0H1",
+					"display_url": "pic.twitter.com/IkIEkmh0H1",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1567752759805636608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567752673470054400,
+					"id_str": "1567752673470054400",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567752673470054400/pu/img/_Dz00fa64qIdcecx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567752673470054400/pu/img/_Dz00fa64qIdcecx.jpg",
+					"url": "https://t.co/IkIEkmh0H1",
+					"display_url": "pic.twitter.com/IkIEkmh0H1",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1567752759805636608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59166,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567752673470054400/pu/vid/320x320/KY8rqA4ozcfI3ezD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567752673470054400/pu/pl/oRdN6MQ6BWNnIqG-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567752673470054400/pu/vid/540x540/6bj4n7wXYQW0kTww.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567752673470054400/pu/vid/720x720/HqSr7KiPN4UeknzP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1120,
+			"friends_count": 6,
+			"listed_count": 12,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New song alert:\nYOONMIRAE X BIBI - ‘LAW’\n#스맨파 신곡 발매~!!\n\n@Yoonmirae @nakedbibi \n#Mnet \n\nOut now on all major streaming platforms!\n\n❤️‍🔥 https://t.co/IkIEkmh0H1"
+	},
+	{
 		"created_at": "Thu Sep 08 05:27:52 +0000 2022",
 		"id": 1567738071445274600,
 		"id_str": "1567746522074464258",
