@@ -1,6 +1,1957 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 09:41:43 +0000 2022",
+		"id": 1567800721621532700,
+		"id_str": "1567810403367006208",
+		"full_text": "지금의 BTS를 있게 만든 곡부터 샤이니, 세븐틴까지 담은 '가을' 플레이리스트!\n#방탄소년단 #샤이니 #세븐틴 #소녀시대 #세정 #빅스 #정세운 #온앤오프 #하이라이트 #BTS #SHINee #SEVENTEEN #GirlsGeneration #KIMSEJEONG #VIXX #JeongSeWoon #ONF #Highlight #KPOP\nhttps://t.co/XnqgM4gmiB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "세븐틴",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "세정",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "빅스",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "정세운",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "KIMSEJEONG",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "VIXX",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "JeongSeWoon",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "Highlight",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XnqgM4gmiB",
+					"expanded_url": "https://www.gqkorea.co.kr/2020/10/17/%EA%B0%80%EC%9D%84%EC%9D%B4-%EC%98%A4%EB%A9%B4-%EC%B0%BE%EC%95%84-%EB%93%A3%EB%8A%94-%EC%95%84%EC%9D%B4%EB%8F%8C-%ED%8C%9D-%EB%B0%9C%EB%9D%BC%EB%93%9C-10/?ddw=122161&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2020/10/17/%EA…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143216,
+			"friends_count": 0,
+			"listed_count": 223,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1661847304",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금의 BTS를 있게 만든 곡부터 샤이니, 세븐틴까지 담은 '가을' 플레이리스트!\n#방탄소년단 #샤이니 #세븐틴 #소녀시대 #세정 #빅스 #정세운 #온앤오프 #하이라이트 #BTS #SHINee #SEVENTEEN #GirlsGeneration #KIMSEJEONG #VIXX #JeongSeWoon #ONF #Highlight #KPOP\nhttps://t.co/XnqgM4gmiB"
+	},
+	{
+		"created_at": "Thu Sep 08 09:40:38 +0000 2022",
+		"id": 1567800017012019200,
+		"id_str": "1567810132343504896",
+		"full_text": "🌕\n\n#NewJeans #뉴진스\n#HYEIN\n#WeAreNewJeans https://t.co/h4I0bg16n5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567794613406269400,
+					"id_str": "1567794613406269440",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHs5PTaAAABanY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHs5PTaAAABanY.jpg",
+					"url": "https://t.co/h4I0bg16n5",
+					"display_url": "pic.twitter.com/h4I0bg16n5",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567800017012019200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567794613406269400,
+					"id_str": "1567794613406269440",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHs5PTaAAABanY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHs5PTaAAABanY.jpg",
+					"url": "https://t.co/h4I0bg16n5",
+					"display_url": "pic.twitter.com/h4I0bg16n5",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567800017012019200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794613846708200,
+					"id_str": "1567794613846708227",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHs5Q8akAMi97X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHs5Q8akAMi97X.jpg",
+					"url": "https://t.co/h4I0bg16n5",
+					"display_url": "pic.twitter.com/h4I0bg16n5",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567800017012019200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794614131912700,
+					"id_str": "1567794614131912704",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHs5SAacAAc7Qd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHs5SAacAAc7Qd.jpg",
+					"url": "https://t.co/h4I0bg16n5",
+					"display_url": "pic.twitter.com/h4I0bg16n5",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567800017012019200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794614333239300,
+					"id_str": "1567794614333239298",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHs5SwacAI6TbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHs5SwacAI6TbJ.jpg",
+					"url": "https://t.co/h4I0bg16n5",
+					"display_url": "pic.twitter.com/h4I0bg16n5",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567800017012019200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567799999639199700,
+		"in_reply_to_status_id_str": "1567799999639199744",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465281,
+			"friends_count": 4,
+			"listed_count": 1472,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1348,
+		"favorite_count": 3666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌕\n\n#NewJeans #뉴진스\n#HYEIN\n#WeAreNewJeans https://t.co/h4I0bg16n5"
+	},
+	{
+		"created_at": "Thu Sep 08 09:40:31 +0000 2022",
+		"id": 1567799999639199700,
+		"id_str": "1567810102446391296",
+		"full_text": "🌕\n\n#NewJeans #뉴진스\n#HAERIN\n#WeAreNewJeans https://t.co/2JI2wR0nUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567794363388039200,
+					"id_str": "1567794363388039174",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsqr6akAYzfQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsqr6akAYzfQX.jpg",
+					"url": "https://t.co/2JI2wR0nUi",
+					"display_url": "pic.twitter.com/2JI2wR0nUi",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799999639199744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567794363388039200,
+					"id_str": "1567794363388039174",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsqr6akAYzfQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsqr6akAYzfQX.jpg",
+					"url": "https://t.co/2JI2wR0nUi",
+					"display_url": "pic.twitter.com/2JI2wR0nUi",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799999639199744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794363849375700,
+					"id_str": "1567794363849375745",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsqtoaAAEHIp1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsqtoaAAEHIp1.jpg",
+					"url": "https://t.co/2JI2wR0nUi",
+					"display_url": "pic.twitter.com/2JI2wR0nUi",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799999639199744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794364243673000,
+					"id_str": "1567794364243673088",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsqvGagAA76RP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsqvGagAA76RP.jpg",
+					"url": "https://t.co/2JI2wR0nUi",
+					"display_url": "pic.twitter.com/2JI2wR0nUi",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799999639199744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794364549853200,
+					"id_str": "1567794364549853185",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsqwPacAE0pTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsqwPacAE0pTx.jpg",
+					"url": "https://t.co/2JI2wR0nUi",
+					"display_url": "pic.twitter.com/2JI2wR0nUi",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799999639199744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567799982744567800,
+		"in_reply_to_status_id_str": "1567799982744567808",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465281,
+			"friends_count": 4,
+			"listed_count": 1472,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2700,
+		"favorite_count": 5275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌕\n\n#NewJeans #뉴진스\n#HAERIN\n#WeAreNewJeans https://t.co/2JI2wR0nUi"
+	},
+	{
+		"created_at": "Thu Sep 08 09:40:23 +0000 2022",
+		"id": 1567799982744567800,
+		"id_str": "1567810068371968000",
+		"full_text": "🌕\n\n#NewJeans #뉴진스\n#DANIELLE\n#WeAreNewJeans https://t.co/27sa5hhITO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567794118423908400,
+					"id_str": "1567794118423908353",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHscbWakAENN3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHscbWakAENN3P.jpg",
+					"url": "https://t.co/27sa5hhITO",
+					"display_url": "pic.twitter.com/27sa5hhITO",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799982744567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567794118423908400,
+					"id_str": "1567794118423908353",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHscbWakAENN3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHscbWakAENN3P.jpg",
+					"url": "https://t.co/27sa5hhITO",
+					"display_url": "pic.twitter.com/27sa5hhITO",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799982744567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794118780403700,
+					"id_str": "1567794118780403712",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsccraQAAN2T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsccraQAAN2T8.jpg",
+					"url": "https://t.co/27sa5hhITO",
+					"display_url": "pic.twitter.com/27sa5hhITO",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799982744567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794119224991700,
+					"id_str": "1567794119224991746",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsceVaIAI2hca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsceVaIAI2hca.jpg",
+					"url": "https://t.co/27sa5hhITO",
+					"display_url": "pic.twitter.com/27sa5hhITO",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799982744567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567794119493419000,
+					"id_str": "1567794119493419008",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHscfVaAAAWB8d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHscfVaAAAWB8d.jpg",
+					"url": "https://t.co/27sa5hhITO",
+					"display_url": "pic.twitter.com/27sa5hhITO",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799982744567808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567799964918759400,
+		"in_reply_to_status_id_str": "1567799964918759424",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465281,
+			"friends_count": 4,
+			"listed_count": 1472,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1302,
+		"favorite_count": 3209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌕\n\n#NewJeans #뉴진스\n#DANIELLE\n#WeAreNewJeans https://t.co/27sa5hhITO"
+	},
+	{
+		"created_at": "Thu Sep 08 09:40:17 +0000 2022",
+		"id": 1567799964918759400,
+		"id_str": "1567810042723713025",
+		"full_text": "🌕\n\n#NewJeans #뉴진스\n#HANNI\n#WeAreNewJeans https://t.co/oJcgv7VveA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567793903939784700,
+					"id_str": "1567793903939784706",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsP8VakAI7Fxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsP8VakAI7Fxv.jpg",
+					"url": "https://t.co/oJcgv7VveA",
+					"display_url": "pic.twitter.com/oJcgv7VveA",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799964918759424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567793903939784700,
+					"id_str": "1567793903939784706",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsP8VakAI7Fxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsP8VakAI7Fxv.jpg",
+					"url": "https://t.co/oJcgv7VveA",
+					"display_url": "pic.twitter.com/oJcgv7VveA",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799964918759424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793904325640200,
+					"id_str": "1567793904325640193",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsP9xaQAEAcPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsP9xaQAEAcPf.jpg",
+					"url": "https://t.co/oJcgv7VveA",
+					"display_url": "pic.twitter.com/oJcgv7VveA",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799964918759424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793904715710500,
+					"id_str": "1567793904715710466",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsP_OaQAIrD_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsP_OaQAIrD_4.jpg",
+					"url": "https://t.co/oJcgv7VveA",
+					"display_url": "pic.twitter.com/oJcgv7VveA",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799964918759424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793904908669000,
+					"id_str": "1567793904908668929",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsP_8akAEotJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsP_8akAEotJu.jpg",
+					"url": "https://t.co/oJcgv7VveA",
+					"display_url": "pic.twitter.com/oJcgv7VveA",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799964918759424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567799949366263800,
+		"in_reply_to_status_id_str": "1567799949366263809",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465281,
+			"friends_count": 4,
+			"listed_count": 1472,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2169,
+		"favorite_count": 3938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌕\n\n#NewJeans #뉴진스\n#HANNI\n#WeAreNewJeans https://t.co/oJcgv7VveA"
+	},
+	{
+		"created_at": "Thu Sep 08 09:40:10 +0000 2022",
+		"id": 1567799949366263800,
+		"id_str": "1567810012877127681",
+		"full_text": "🌕\n\n#NewJeans #뉴진스\n#MINJI\n#WeAreNewJeans https://t.co/EGJtVmhwQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567793635139420200,
+					"id_str": "1567793635139420160",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsAS-agAAWnNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsAS-agAAWnNI.jpg",
+					"url": "https://t.co/EGJtVmhwQb",
+					"display_url": "pic.twitter.com/EGJtVmhwQb",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799949366263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567793635139420200,
+					"id_str": "1567793635139420160",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsAS-agAAWnNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsAS-agAAWnNI.jpg",
+					"url": "https://t.co/EGJtVmhwQb",
+					"display_url": "pic.twitter.com/EGJtVmhwQb",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799949366263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793635512692700,
+					"id_str": "1567793635512692736",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsAUXaMAASeqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsAUXaMAASeqx.jpg",
+					"url": "https://t.co/EGJtVmhwQb",
+					"display_url": "pic.twitter.com/EGJtVmhwQb",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799949366263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793635869196300,
+					"id_str": "1567793635869196289",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsAVsaAAEiN5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsAVsaAAEiN5w.jpg",
+					"url": "https://t.co/EGJtVmhwQb",
+					"display_url": "pic.twitter.com/EGJtVmhwQb",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799949366263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1567793636120883200,
+					"id_str": "1567793636120883202",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHsAWoacAI1Dwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHsAWoacAI1Dwi.jpg",
+					"url": "https://t.co/EGJtVmhwQb",
+					"display_url": "pic.twitter.com/EGJtVmhwQb",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1567799949366263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1567799930777145300,
+		"in_reply_to_status_id_str": "1567799930777145344",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 465281,
+			"friends_count": 4,
+			"listed_count": 1472,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2463,
+		"favorite_count": 4131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🌕\n\n#NewJeans #뉴진스\n#MINJI\n#WeAreNewJeans https://t.co/EGJtVmhwQb"
+	},
+	{
+		"created_at": "Thu Sep 08 09:34:53 +0000 2022",
+		"id": 1567804233747157000,
+		"id_str": "1567808683421335552",
+		"full_text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Pink Venom이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6asIKz) &gt; 실시간 투표 &gt; 블랙핑크 ‘Pink Venom' 투표\n\n#블랙핑크 #PreReleaseSingle #PinkVenom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						162,
+						179
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ncE6asIKz",
+					"expanded_url": "https://bit.ly/3uorunR",
+					"display_url": "bit.ly/3uorunR",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8494190,
+			"friends_count": 9,
+			"listed_count": 9276,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2385,
+		"favorite_count": 6065,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Pink Venom이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6asIKz) &gt; 실시간 투표 &gt; 블랙핑크 ‘Pink Venom' 투표\n\n#블랙핑크 #PreReleaseSingle #PinkVenom"
+	},
+	{
 		"created_at": "Thu Sep 08 08:29:39 +0000 2022",
 		"id": 1567780065156690000,
 		"id_str": "1567792267145973761",
