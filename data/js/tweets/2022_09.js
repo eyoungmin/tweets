@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 04:45:37 +0000 2022",
+		"id": 1568096266894340000,
+		"id_str": "1568098274128560128",
+		"full_text": "#세리자베스 9/10 SAT 3PM\n\n제2회 세리자베스 배 아이돌 골프 대회,\n이번주에도 이어지는 ENFP 조합의 팽팽한 대결!\n\n✅ 다시 모인 블랙펑크 #권은비 #츠키 (#빌리)\n✅ 입술위에 츄👄 #최예나 #츄 (#이달의소녀)\n\n#토요일 오후 3시\n스페셜 호스트 #성종 과 함께\n#NOW온에어 https://t.co/ooa9FTwWJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세리자베스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "츠키",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "빌리",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						116,
+						118
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "토요일",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "성종",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568096261919887400,
+					"id_str": "1568096261919887362",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FcL_PflaUAIS3mT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcL_PflaUAIS3mT.jpg",
+					"url": "https://t.co/ooa9FTwWJy",
+					"display_url": "pic.twitter.com/ooa9FTwWJy",
+					"expanded_url": "https://twitter.com/kr_now/status/1568096266894340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568096261919887400,
+					"id_str": "1568096261919887362",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FcL_PflaUAIS3mT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcL_PflaUAIS3mT.jpg",
+					"url": "https://t.co/ooa9FTwWJy",
+					"display_url": "pic.twitter.com/ooa9FTwWJy",
+					"expanded_url": "https://twitter.com/kr_now/status/1568096266894340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201175,
+			"friends_count": 1,
+			"listed_count": 344,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#세리자베스 9/10 SAT 3PM\n\n제2회 세리자베스 배 아이돌 골프 대회,\n이번주에도 이어지는 ENFP 조합의 팽팽한 대결!\n\n✅ 다시 모인 블랙펑크 #권은비 #츠키 (#빌리)\n✅ 입술위에 츄👄 #최예나 #츄 (#이달의소녀)\n\n#토요일 오후 3시\n스페셜 호스트 #성종 과 함께\n#NOW온에어 https://t.co/ooa9FTwWJy"
+	},
+	{
+		"created_at": "Fri Sep 09 04:40:26 +0000 2022",
+		"id": 1568079371402887200,
+		"id_str": "1568096971449057280",
+		"full_text": "\"LOONA 1st Live 'LOONATHEWORLD in TOKYO'\"accommodation package plan is now available today👏\nWe also offer luxury specials for guests only🎁\n\n▶️https://t.co/56uoO2fUEW\n\n#LOONA \n#今月の少女\n#ORBITJAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/56uoO2fUEW",
+					"expanded_url": "https://loonatheworld.jp/2022/09/09/887/",
+					"display_url": "loonatheworld.jp/2022/09/09/887/",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12102,
+			"friends_count": 2,
+			"listed_count": 118,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"LOONA 1st Live 'LOONATHEWORLD in TOKYO'\"accommodation package plan is now available today👏\nWe also offer luxury specials for guests only🎁\n\n▶️https://t.co/56uoO2fUEW\n\n#LOONA \n#今月の少女\n#ORBITJAPAN"
+	},
+	{
+		"created_at": "Fri Sep 09 04:40:23 +0000 2022",
+		"id": 1568079245527552000,
+		"id_str": "1568096958291607552",
+		"full_text": "「LOONA 1st Live \"LOONATHEWORLD in TOKYO\"」宿泊パッケージプランが本日から販売開始となりました👏\n宿泊者限定の豪華特典もご用意しております🎁\n\n詳細はこちら\n▶️https://t.co/32NVyc2HYB\n\n#LOONA \n#今月の少女\n#ORBITJAPAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "ORBITJAPAN",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/32NVyc2HYB",
+					"expanded_url": "https://loonatheworld.jp/2022/09/09/884/",
+					"display_url": "loonatheworld.jp/2022/09/09/884/",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237779164469399600,
+			"id_str": "1237779164469399552",
+			"name": "LOONA OFFICIAL FANCLUB ORBIT JAPAN",
+			"screen_name": "orbitjapan_jp",
+			"location": "",
+			"description": "#LOONA OFFICIAL FANCLUB ORBIT JAPAN の公式Twitterアカウントです。最新情報をお届けいたします。※リプライやDMでのご質問にはお答えできませんのでご了承ください。*English tweets use the translation function.",
+			"url": "https://t.co/8nSYgodvvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8nSYgodvvA",
+							"expanded_url": "https://orbitjapan.jp/",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12102,
+			"friends_count": 2,
+			"listed_count": 118,
+			"created_at": "Wed Mar 11 16:38:25 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443446798954078210/xAonip8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237779164469399552/1634182534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「LOONA 1st Live \"LOONATHEWORLD in TOKYO\"」宿泊パッケージプランが本日から販売開始となりました👏\n宿泊者限定の豪華特典もご用意しております🎁\n\n詳細はこちら\n▶️https://t.co/32NVyc2HYB\n\n#LOONA \n#今月の少女\n#ORBITJAPAN"
+	},
+	{
 		"created_at": "Fri Sep 09 03:40:29 +0000 2022",
 		"id": 1568071829255774200,
 		"id_str": "1568081885233913860",
