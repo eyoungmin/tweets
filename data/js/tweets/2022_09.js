@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 06:40:10 +0000 2022",
+		"id": 1568117123397951500,
+		"id_str": "1568127103383605249",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq107K\n\n이달의소녀 X Wonderwall. CONTENTS PACK\n시청 이벤트🌙\n\n추첨을 통해 열두 분 께 이달의 소녀 사인 폴라로이드를 드립니다\n자세한 내용은 이미지를 통해 확인 해주세요\n\n#이달소_컨텐츠패키지 #달소_컨팩_볼사람 \n#이달의소녀 #LOONA https://t.co/H4AT2E0chZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소_컨텐츠패키지",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "달소_컨팩_볼사람",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						195,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AGfLEq107K",
+					"expanded_url": "http://bit.ly/3REP350",
+					"display_url": "bit.ly/3REP350",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568110617382494200,
+					"id_str": "1568110617382494208",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcMMTF2aIAACGgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcMMTF2aIAACGgl.jpg",
+					"url": "https://t.co/H4AT2E0chZ",
+					"display_url": "pic.twitter.com/H4AT2E0chZ",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1568117123397951489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568110617382494200,
+					"id_str": "1568110617382494208",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FcMMTF2aIAACGgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcMMTF2aIAACGgl.jpg",
+					"url": "https://t.co/H4AT2E0chZ",
+					"display_url": "pic.twitter.com/H4AT2E0chZ",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1568117123397951489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/ejAElWdaAo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejAElWdaAo",
+							"expanded_url": "http://linktr.ee/wonderwall.artlab",
+							"display_url": "linktr.ee/wonderwall.art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20435,
+			"friends_count": 2,
+			"listed_count": 49,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1660814879",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 927,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq107K\n\n이달의소녀 X Wonderwall. CONTENTS PACK\n시청 이벤트🌙\n\n추첨을 통해 열두 분 께 이달의 소녀 사인 폴라로이드를 드립니다\n자세한 내용은 이미지를 통해 확인 해주세요\n\n#이달소_컨텐츠패키지 #달소_컨팩_볼사람 \n#이달의소녀 #LOONA https://t.co/H4AT2E0chZ"
+	},
+	{
 		"created_at": "Fri Sep 09 05:40:10 +0000 2022",
 		"id": 1568101898422460400,
 		"id_str": "1568112003683700736",
