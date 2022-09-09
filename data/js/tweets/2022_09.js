@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 12:40:47 +0000 2022",
+		"id": 1568207720485904400,
+		"id_str": "1568217855627300866",
+		"full_text": "tripleS 트리플에스 : GongYuBin.SSS\n\nhttps://t.co/Ugis7u7c83\n\n#tripleS #트리플에스 #トリプルS https://t.co/kjRWKkCqmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ugis7u7c83",
+					"expanded_url": "http://youtu.be/y17ziu1sN9M",
+					"display_url": "youtu.be/y17ziu1sN9M",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568197888819495000,
+					"id_str": "1568197888819494912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNk6dKaQAcZQAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNk6dKaQAcZQAE.jpg",
+					"url": "https://t.co/kjRWKkCqmg",
+					"display_url": "pic.twitter.com/kjRWKkCqmg",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568207720485904385/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568197888819495000,
+					"id_str": "1568197888819494912",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNk6dKaQAcZQAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNk6dKaQAcZQAE.jpg",
+					"url": "https://t.co/kjRWKkCqmg",
+					"display_url": "pic.twitter.com/kjRWKkCqmg",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568207720485904385/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 68714,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568197888819494912/pu/vid/640x360/1OAPTLeCEsad6yBz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568197888819494912/pu/pl/90cmqNrYPjxrEvqK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568197888819494912/pu/vid/480x270/_Wr5sP6lXU9rzwAD.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568197888819494912/pu/vid/1280x720/DJiYYQOWT3HvZ3PH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13667,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : GongYuBin.SSS\n\nhttps://t.co/Ugis7u7c83\n\n#tripleS #트리플에스 #トリプルS https://t.co/kjRWKkCqmg"
+	},
+	{
+		"created_at": "Fri Sep 09 12:40:24 +0000 2022",
+		"id": 1568207624839233500,
+		"id_str": "1568217757036183559",
+		"full_text": "さらに！\n9/14(水)0:00からLUMINOUSの\n先行配信&amp;LINE MUSIC再生キャンペーンがスタート✨\n\n🎧 https://t.co/QmzwCqHiCK\n※上記URLは9/14(水)0:00より有効\n\n詳細はこちら👉 https://t.co/ELqA98HOm5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmzwCqHiCK",
+					"expanded_url": "https://lnk.to/loonaLN",
+					"display_url": "lnk.to/loonaLN",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/ELqA98HOm5",
+					"expanded_url": "https://umusic.jp/LNLN_lmcp_DETAIL",
+					"display_url": "umusic.jp/LNLN_lmcp_DETA…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568207621831917600,
+		"in_reply_to_status_id_str": "1568207621831917568",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98365,
+			"friends_count": 2,
+			"listed_count": 755,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 1709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "さらに！\n9/14(水)0:00からLUMINOUSの\n先行配信&amp;LINE MUSIC再生キャンペーンがスタート✨\n\n🎧 https://t.co/QmzwCqHiCK\n※上記URLは9/14(水)0:00より有効\n\n詳細はこちら👉 https://t.co/ELqA98HOm5"
+	},
+	{
+		"created_at": "Fri Sep 09 12:40:17 +0000 2022",
+		"id": 1568207621831917600,
+		"id_str": "1568217730976993289",
+		"full_text": "🎥\n9/28(水)リリース LOONAのJAPAN 2nd SINGLE  LUMINOUS のティザー映像第2弾が公開になりました🎉\n\n［Teaser］LOONA (今月の少女) \"LUMINOUS 2\"：https://t.co/0HxOfva3ls\n\n今すぐ✔️チェックして下さい👀\n\n#LOONA\n#今月の少女\n#LUMINOUS https://t.co/7I8NXIL5TJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0HxOfva3ls",
+					"expanded_url": "https://youtube.com/shorts/G5RydO9SlvI",
+					"display_url": "youtube.com/shorts/G5RydO9…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568207615754391600,
+					"id_str": "1568207615754391553",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNkhI8aUAEY2bL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNkhI8aUAEY2bL.jpg",
+					"url": "https://t.co/7I8NXIL5TJ",
+					"display_url": "pic.twitter.com/7I8NXIL5TJ",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1568207621831917568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568207615754391600,
+					"id_str": "1568207615754391553",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNkhI8aUAEY2bL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNkhI8aUAEY2bL.jpg",
+					"url": "https://t.co/7I8NXIL5TJ",
+					"display_url": "pic.twitter.com/7I8NXIL5TJ",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1568207621831917568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98365,
+			"friends_count": 2,
+			"listed_count": 755,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1970,
+		"favorite_count": 5135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎥\n9/28(水)リリース LOONAのJAPAN 2nd SINGLE  LUMINOUS のティザー映像第2弾が公開になりました🎉\n\n［Teaser］LOONA (今月の少女) \"LUMINOUS 2\"：https://t.co/0HxOfva3ls\n\n今すぐ✔️チェックして下さい👀\n\n#LOONA\n#今月の少女\n#LUMINOUS https://t.co/7I8NXIL5TJ"
+	},
+	{
 		"created_at": "Fri Sep 09 11:40:10 +0000 2022",
 		"id": 1568189231918649300,
 		"id_str": "1568202599836286976",
