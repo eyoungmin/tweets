@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 02:29:39 +0000 2022",
+		"id": 1568056600551637000,
+		"id_str": "1568064057390817284",
+		"full_text": "[13회 예고👄]\n\"영혼까지 천천히 태워 죽이는 게 그게 내 복수 방식이야\"💥 \n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송🐭\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #mbcdrama \nMBC 220909 방송 https://t.co/cLOsvaYZ28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "MBC금토드라마",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "mbcdrama",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567380523856830500,
+					"id_str": "1567380523856830465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcB0ZlcaMAEgcVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcB0ZlcaMAEgcVy.jpg",
+					"url": "https://t.co/cLOsvaYZ28",
+					"display_url": "pic.twitter.com/cLOsvaYZ28",
+					"expanded_url": "https://twitter.com/withMBC/status/1568056600551636994/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567380523856830500,
+					"id_str": "1567380523856830465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FcB0ZlcaMAEgcVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcB0ZlcaMAEgcVy.jpg",
+					"url": "https://t.co/cLOsvaYZ28",
+					"display_url": "pic.twitter.com/cLOsvaYZ28",
+					"expanded_url": "https://twitter.com/withMBC/status/1568056600551636994/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33031,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567380523856830465/vid/640x360/EB5v9njJ2whlU9gk.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567380523856830465/vid/1280x720/Xz0iQZP0jd2KCe9v.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1567380523856830465/pl/2flnWud1ikdhtVRa.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1567380523856830465/vid/480x270/7CxfzFvTaMAppedv.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003910,
+			"friends_count": 9825,
+			"listed_count": 4198,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[13회 예고👄]\n\"영혼까지 천천히 태워 죽이는 게 그게 내 복수 방식이야\"💥 \n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송🐭\n#이종석 #임윤아 #김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #mbcdrama \nMBC 220909 방송 https://t.co/cLOsvaYZ28"
+	},
+	{
 		"created_at": "Fri Sep 09 01:29:42 +0000 2022",
 		"id": 1568045904535617500,
 		"id_str": "1568048970177429506",
