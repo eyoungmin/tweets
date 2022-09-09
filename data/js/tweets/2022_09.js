@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 10:40:10 +0000 2022",
+		"id": 1568186775000199200,
+		"id_str": "1568187500216127488",
+		"full_text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️‍🔥❤️‍🔥❤️‍🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mnet",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "StreetMenFighter",
+					"indices": [
+						176,
+						193
+					]
+				},
+				{
+					"text": "스맨파",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 • Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j066Dz2o8L",
+					"expanded_url": "https://youtu.be/wIRt5my06pw",
+					"display_url": "youtu.be/wIRt5my06pw",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/cdRgSv50KB",
+					"expanded_url": "https://youtu.be/gXlsYv90pag",
+					"display_url": "youtu.be/gXlsYv90pag",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568186767299444700,
+					"id_str": "1568186767299444736",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNRjmZaAAAYumR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNRjmZaAAAYumR.jpg",
+					"url": "https://t.co/3M7c1KULKe",
+					"display_url": "pic.twitter.com/3M7c1KULKe",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1568186775000199169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568186767299444700,
+					"id_str": "1568186767299444736",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNRjmZaAAAYumR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNRjmZaAAAYumR.jpg",
+					"url": "https://t.co/3M7c1KULKe",
+					"display_url": "pic.twitter.com/3M7c1KULKe",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1568186775000199169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568186767286894600,
+					"id_str": "1568186767286894592",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNRjmWagAAde8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNRjmWagAAde8h.jpg",
+					"url": "https://t.co/3M7c1KULKe",
+					"display_url": "pic.twitter.com/3M7c1KULKe",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1568186775000199169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1094,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568186767282679800,
+					"id_str": "1568186767282679808",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNRjmVaMAAJyBc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNRjmVaMAAJyBc.jpg",
+					"url": "https://t.co/3M7c1KULKe",
+					"display_url": "pic.twitter.com/3M7c1KULKe",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1568186775000199169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568186767291084800,
+					"id_str": "1568186767291084800",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FcNRjmXacAA6xRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcNRjmXacAA6xRQ.jpg",
+					"url": "https://t.co/3M7c1KULKe",
+					"display_url": "pic.twitter.com/3M7c1KULKe",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1568186775000199169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86501,
+			"friends_count": 4,
+			"listed_count": 199,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517974570023628800/j8sH9b3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️‍🔥❤️‍🔥❤️‍🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe"
+	},
+	{
 		"created_at": "Fri Sep 09 09:45:37 +0000 2022",
 		"id": 1568164814857322500,
 		"id_str": "1568173771483136000",
