@@ -1,6 +1,782 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 09:45:37 +0000 2022",
+		"id": 1568164814857322500,
+		"id_str": "1568173771483136000",
+		"full_text": "【LOONA】\n日本2ndSingle『LUMINOUS』\n先着予約特典「メンバー全員ミート＆グリート」参加方法詳細発表！\nご参加のお客様は販売ページ、およびマイページ内「お知らせ」よりご確認ください✨\n\n📢 https://t.co/a91rKmN7qA\n#LOONA #今月の少女 #이달의소녀 https://t.co/CJJdrMKiXD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a91rKmN7qA",
+					"expanded_url": "https://bit.ly/3S5C91j",
+					"display_url": "bit.ly/3S5C91j",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568164812575674400,
+					"id_str": "1568164812575674371",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FcM9lqrXEAM7kjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcM9lqrXEAM7kjl.jpg",
+					"url": "https://t.co/CJJdrMKiXD",
+					"display_url": "pic.twitter.com/CJJdrMKiXD",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1568164814857322497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568164812575674400,
+					"id_str": "1568164812575674371",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FcM9lqrXEAM7kjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcM9lqrXEAM7kjl.jpg",
+					"url": "https://t.co/CJJdrMKiXD",
+					"display_url": "pic.twitter.com/CJJdrMKiXD",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1568164814857322497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40789,
+			"friends_count": 158,
+			"listed_count": 266,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\n日本2ndSingle『LUMINOUS』\n先着予約特典「メンバー全員ミート＆グリート」参加方法詳細発表！\nご参加のお客様は販売ページ、およびマイページ内「お知らせ」よりご確認ください✨\n\n📢 https://t.co/a91rKmN7qA\n#LOONA #今月の少女 #이달의소녀 https://t.co/CJJdrMKiXD"
+	},
+	{
+		"created_at": "Fri Sep 09 09:29:42 +0000 2022",
+		"id": 1568162784600522800,
+		"id_str": "1568169766711353344",
+		"full_text": "#공조2 이래도 안 볼..거야?🫰🔫\n추석 연휴와 함께 사랑의 총을 날리며 등장한 &lt;공조2: 인터내셔날&gt;의 실세들! #현빈 #유해진 #임윤아 #진선규 의 릴레이 인사가 도착했습니다. 풀 버전은 #퍼스트룩 유튜브에서!\n\n#1stLook https://t.co/p3ORd3oM1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568162696306249700,
+					"id_str": "1568162696306249728",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568162696306249728/pu/img/zRycE35TQhs-zPO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568162696306249728/pu/img/zRycE35TQhs-zPO7.jpg",
+					"url": "https://t.co/p3ORd3oM1b",
+					"display_url": "pic.twitter.com/p3ORd3oM1b",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1568162784600522754/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568162696306249700,
+					"id_str": "1568162696306249728",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568162696306249728/pu/img/zRycE35TQhs-zPO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568162696306249728/pu/img/zRycE35TQhs-zPO7.jpg",
+					"url": "https://t.co/p3ORd3oM1b",
+					"display_url": "pic.twitter.com/p3ORd3oM1b",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1568162784600522754/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36202,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568162696306249728/pu/vid/640x360/fCNH_b3NEeM-iBvC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568162696306249728/pu/pl/1BApG9-2C_wRabeo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568162696306249728/pu/vid/1280x720/fkiHBLju4NLcNcSx.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568162696306249728/pu/vid/480x270/GmvT9P4aZC38jKsx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/uuKyT8hawL",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uuKyT8hawL",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206684,
+			"friends_count": 2,
+			"listed_count": 390,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1662011930",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#공조2 이래도 안 볼..거야?🫰🔫\n추석 연휴와 함께 사랑의 총을 날리며 등장한 &lt;공조2: 인터내셔날&gt;의 실세들! #현빈 #유해진 #임윤아 #진선규 의 릴레이 인사가 도착했습니다. 풀 버전은 #퍼스트룩 유튜브에서!\n\n#1stLook https://t.co/p3ORd3oM1b"
+	},
+	{
+		"created_at": "Fri Sep 09 09:29:39 +0000 2022",
+		"id": 1568162293736693800,
+		"id_str": "1568169753562255360",
+		"full_text": "#삼각공조 로 3배 더 재밌고 짜릿하고 유쾌해진 #공조2_인터내셔날\n비주얼 맛집 + 액션 맛집 + 공조 맛집! 관객들도 벌써 공며들었다,,,🔥\n\n봐도 봐도 보고 싶은 #재미슐랭 맛집 지금 바로 예매! \nhttps://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/fg0tKSxaSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "삼각공조",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "재미슐랭",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq33en",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567788711563399200,
+					"id_str": "1567788711563399169",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567788711563399169/pu/img/YnHYSULUGoofMA2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567788711563399169/pu/img/YnHYSULUGoofMA2m.jpg",
+					"url": "https://t.co/fg0tKSxaSu",
+					"display_url": "pic.twitter.com/fg0tKSxaSu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568162293736693762/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567788711563399200,
+					"id_str": "1567788711563399169",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567788711563399169/pu/img/YnHYSULUGoofMA2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567788711563399169/pu/img/YnHYSULUGoofMA2m.jpg",
+					"url": "https://t.co/fg0tKSxaSu",
+					"display_url": "pic.twitter.com/fg0tKSxaSu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568162293736693762/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 33158,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567788711563399169/pu/vid/720x900/oBRvoKx98SSfwuzV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567788711563399169/pu/pl/ficuHfH1oyTfdlJF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567788711563399169/pu/vid/480x600/pi9m_xS4SavvdiBK.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567788711563399169/pu/vid/320x400/3W9s4ADxP40AgqrO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331877,
+			"friends_count": 10638,
+			"listed_count": 261,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#삼각공조 로 3배 더 재밌고 짜릿하고 유쾌해진 #공조2_인터내셔날\n비주얼 맛집 + 액션 맛집 + 공조 맛집! 관객들도 벌써 공며들었다,,,🔥\n\n봐도 봐도 보고 싶은 #재미슐랭 맛집 지금 바로 예매! \nhttps://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/fg0tKSxaSu"
+	},
+	{
 		"created_at": "Fri Sep 09 08:40:15 +0000 2022",
 		"id": 1568148774635335700,
 		"id_str": "1568157323746590720",
