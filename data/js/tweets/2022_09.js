@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 05:40:10 +0000 2022",
+		"id": 1568101898422460400,
+		"id_str": "1568112003683700736",
+		"full_text": "9월 17일 = 채연이에게 입덕하는 날💘\n\nSep. 17th= The day you’re going to stan ChaeYeon💘\n\n9月17日=チェヨンのファンになる日💘\n\n#tripleS #트리플에스 #トリプルS #KimChaeYeon https://t.co/UGCPIiaEww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "KimChaeYeon",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568087795532710000,
+					"id_str": "1568087795532709890",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FcL3ir1aQAIpf0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcL3ir1aQAIpf0y.jpg",
+					"url": "https://t.co/UGCPIiaEww",
+					"display_url": "pic.twitter.com/UGCPIiaEww",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568101898422460417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568087795532710000,
+					"id_str": "1568087795532709890",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FcL3ir1aQAIpf0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcL3ir1aQAIpf0y.jpg",
+					"url": "https://t.co/UGCPIiaEww",
+					"display_url": "pic.twitter.com/UGCPIiaEww",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568101898422460417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13640,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "9월 17일 = 채연이에게 입덕하는 날💘\n\nSep. 17th= The day you’re going to stan ChaeYeon💘\n\n9月17日=チェヨンのファンになる日💘\n\n#tripleS #트리플에스 #トリプルS #KimChaeYeon https://t.co/UGCPIiaEww"
+	},
+	{
 		"created_at": "Fri Sep 09 04:45:37 +0000 2022",
 		"id": 1568096266894340000,
 		"id_str": "1568098274128560128",
