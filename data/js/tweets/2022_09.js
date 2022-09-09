@@ -1,10 +1,155 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 11:40:10 +0000 2022",
+		"id": 1568189231918649300,
+		"id_str": "1568202599836286976",
+		"full_text": "From our family to yours:\n\nHAPPY CHUSEOK!!!\n🎁🎁🎁\n\nLove + blessings,\n@DrunkenTigerJK \n@Yoonmirae \n@Bizzionary \n@nakedbibi \n\n#추석",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "추석",
+					"indices": [
+						122,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrunkenTigerJK",
+					"name": "아빠 최고 VITAMIN D",
+					"id": 47283664,
+					"id_str": "47283664",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 • Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "Bizzionary",
+					"name": "비지ladies love Bizzy",
+					"id": 54464565,
+					"id_str": "54464565",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 6,
+			"listed_count": 12,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "From our family to yours:\n\nHAPPY CHUSEOK!!!\n🎁🎁🎁\n\nLove + blessings,\n@DrunkenTigerJK \n@Yoonmirae \n@Bizzionary \n@nakedbibi \n\n#추석"
+	},
+	{
 		"created_at": "Fri Sep 09 10:40:10 +0000 2022",
 		"id": 1568186775000199200,
 		"id_str": "1568187500216127488",
-		"full_text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️‍🔥❤️‍🔥❤️‍🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe",
+		"full_text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️🔥❤️🔥❤️🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -320,7 +465,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️‍🔥❤️‍🔥❤️‍🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe"
+		"text": "hihi have u checked out me and unnie @Yoonmirae new single ‘LAW’??\n\nit’s out nowwww\np.s. whats ur fave part?\n\n❤️🔥❤️🔥❤️🔥\n\nListen here: https://t.co/j066Dz2o8L\n\nWatch #Mnet’s #StreetMenFighter/#스맨파 dance visuals here: https://t.co/cdRgSv50KB https://t.co/3M7c1KULKe"
 	},
 	{
 		"created_at": "Fri Sep 09 09:45:37 +0000 2022",
