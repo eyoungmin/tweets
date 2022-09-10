@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 16:40:10 +0000 2022",
+		"id": 1568527350056501200,
+		"id_str": "1568640484137918465",
+		"full_text": "our 2 moods whenever we listen to @OhWonderMusic 👀\n\n5 days left to avail the 22% off on Oh Wonder tickets ‼️\n\ndon’t miss out on this bigger than love show happening this September 27 at The Filinvest Tent, Alabang! ☺️\n\n—all tickets via https://t.co/xgUTKondyj 🌻 https://t.co/UkecYq8hby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xgUTKondyj",
+					"expanded_url": "http://tickelo.com",
+					"display_url": "tickelo.com",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568527337100296200,
+					"id_str": "1568527337100296193",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FcSHTXxaQAEQMAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcSHTXxaQAEQMAC.jpg",
+					"url": "https://t.co/UkecYq8hby",
+					"display_url": "pic.twitter.com/UkecYq8hby",
+					"expanded_url": "https://twitter.com/karposmm/status/1568527350056501248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568527337100296200,
+					"id_str": "1568527337100296193",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FcSHTXxaQAEQMAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcSHTXxaQAEQMAC.jpg",
+					"url": "https://t.co/UkecYq8hby",
+					"display_url": "pic.twitter.com/UkecYq8hby",
+					"expanded_url": "https://twitter.com/karposmm/status/1568527350056501248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568527337096093700,
+					"id_str": "1568527337096093696",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FcSHTXwaIAApiOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcSHTXwaIAApiOa.jpg",
+					"url": "https://t.co/UkecYq8hby",
+					"display_url": "pic.twitter.com/UkecYq8hby",
+					"expanded_url": "https://twitter.com/karposmm/status/1568527350056501248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 311955577,
+			"id_str": "311955577",
+			"name": "Karpos Multimedia",
+			"screen_name": "karposmm",
+			"location": "",
+			"description": "(means fruit; best when fresh) an events and content marketing company with a love for music and knack for storytelling",
+			"url": "https://t.co/QEXe3OD8ES",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QEXe3OD8ES",
+							"expanded_url": "http://www.karposmm.com",
+							"display_url": "karposmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14728,
+			"friends_count": 84,
+			"listed_count": 41,
+			"created_at": "Mon Jun 06 10:37:27 +0000 2011",
+			"favourites_count": 4166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00B6CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288067210951315456/3jfckeyG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288067210951315456/3jfckeyG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/311955577/1660641467",
+			"profile_link_color": "00B6CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "383838",
+			"profile_text_color": "C2C2C2",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "our 2 moods whenever we listen to @OhWonderMusic 👀\n\n5 days left to avail the 22% off on Oh Wonder tickets ‼️\n\ndon’t miss out on this bigger than love show happening this September 27 at The Filinvest Tent, Alabang! ☺️\n\n—all tickets via https://t.co/xgUTKondyj 🌻 https://t.co/UkecYq8hby"
+	},
+	{
 		"created_at": "Sat Sep 10 15:45:37 +0000 2022",
 		"id": 1568625308231938000,
 		"id_str": "1568626757770661889",
