@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 14:40:10 +0000 2022",
+		"id": 1568610213309333500,
+		"id_str": "1568610285837074432",
+		"full_text": "여러분!! 오늘 하루도 즐겁게 보내셨나요??😖 저는 오랜만에 예쁜 보름달을 직접 봐서 기분이 아주 몽글몽글했어요☺️ 여러분도 보셨나요??🥰 오늘 밤도 좋은 꿈꾸세요!!✨\n\n#NewJeans #민지  #MINJI https://t.co/x9Nks4WRHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568610206925586400,
+					"id_str": "1568610206925586433",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTSrB7aAAEPhu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTSrB7aAAEPhu7.jpg",
+					"url": "https://t.co/x9Nks4WRHw",
+					"display_url": "pic.twitter.com/x9Nks4WRHw",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568610213309333509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568610206925586400,
+					"id_str": "1568610206925586433",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTSrB7aAAEPhu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTSrB7aAAEPhu7.jpg",
+					"url": "https://t.co/x9Nks4WRHw",
+					"display_url": "pic.twitter.com/x9Nks4WRHw",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568610213309333509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568610206946574300,
+					"id_str": "1568610206946574336",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTSrCAaQAA6511.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTSrCAaQAA6511.jpg",
+					"url": "https://t.co/x9Nks4WRHw",
+					"display_url": "pic.twitter.com/x9Nks4WRHw",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568610213309333509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73992,
+			"friends_count": 3,
+			"listed_count": 292,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1614,
+		"favorite_count": 4160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분!! 오늘 하루도 즐겁게 보내셨나요??😖 저는 오랜만에 예쁜 보름달을 직접 봐서 기분이 아주 몽글몽글했어요☺️ 여러분도 보셨나요??🥰 오늘 밤도 좋은 꿈꾸세요!!✨\n\n#NewJeans #민지  #MINJI https://t.co/x9Nks4WRHw"
+	},
+	{
 		"created_at": "Sat Sep 10 12:40:10 +0000 2022",
 		"id": 1568569991556841500,
 		"id_str": "1568580086470696961",
