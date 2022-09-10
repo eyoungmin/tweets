@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 23:29:39 +0000 2022",
+		"id": 1568369104297541600,
+		"id_str": "1568381147255607298",
+		"full_text": "🎉공조 이즈 백~~~만 관객 돌파!🎉 #감사합니다!\n&lt;#공조2_인터내셔날&gt; 전 세대 관객 #원픽영화 등극👑\n\n🔥지금 바로 올 추석, 최고의 흥행작 예매 고고!\n▶ https://t.co/kbTEEq3B3V\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/vchOM6h2Mu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "감사합니다",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "원픽영화",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq3B3V",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568368662926737400,
+					"id_str": "1568368662926737408",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FcP2_UaaQAATePo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcP2_UaaQAATePo.jpg",
+					"url": "https://t.co/vchOM6h2Mu",
+					"display_url": "pic.twitter.com/vchOM6h2Mu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568369104297541634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568368662926737400,
+					"id_str": "1568368662926737408",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FcP2_UaaQAATePo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcP2_UaaQAATePo.jpg",
+					"url": "https://t.co/vchOM6h2Mu",
+					"display_url": "pic.twitter.com/vchOM6h2Mu",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568369104297541634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331892,
+			"friends_count": 10638,
+			"listed_count": 262,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉공조 이즈 백~~~만 관객 돌파!🎉 #감사합니다!\n&lt;#공조2_인터내셔날&gt; 전 세대 관객 #원픽영화 등극👑\n\n🔥지금 바로 올 추석, 최고의 흥행작 예매 고고!\n▶ https://t.co/kbTEEq3B3V\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #절찬상영중 https://t.co/vchOM6h2Mu"
+	},
+	{
 		"created_at": "Fri Sep 09 15:40:09 +0000 2022",
 		"id": 1568252930444382200,
 		"id_str": "1568262996467798017",
