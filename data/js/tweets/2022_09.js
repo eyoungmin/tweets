@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 15:45:37 +0000 2022",
+		"id": 1568625308231938000,
+		"id_str": "1568626757770661889",
+		"full_text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇩🇪FRANKFURT🇩🇪 (9.11)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Frankfurt(9.11), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/UVzNbYrIjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568456890484662300,
+					"id_str": "1568456890484662273",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FcRHO1raIAEBRFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcRHO1raIAEBRFn.jpg",
+					"url": "https://t.co/UVzNbYrIjX",
+					"display_url": "pic.twitter.com/UVzNbYrIjX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1568625308231938050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568456890484662300,
+					"id_str": "1568456890484662273",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FcRHO1raIAEBRFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcRHO1raIAEBRFn.jpg",
+					"url": "https://t.co/UVzNbYrIjX",
+					"display_url": "pic.twitter.com/UVzNbYrIjX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1568625308231938050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149513,
+			"friends_count": 104,
+			"listed_count": 323,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇩🇪FRANKFURT🇩🇪 (9.11)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Frankfurt(9.11), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/UVzNbYrIjX"
+	},
+	{
+		"created_at": "Sat Sep 10 15:40:16 +0000 2022",
+		"id": 1568615708061474800,
+		"id_str": "1568625413907267585",
+		"full_text": "오늘 너무 예쁜 하늘을 봤어요 ☁️ 그래서 사진을 찍었는데 여러분들께도 보여드리고 싶어서 왔어요~ :) 너무 예쁘죠?? 그럼 모두 좋은 밤 되세요 🥰 #NewJeans #HAERIN #해린 https://t.co/sosdCAQ4E1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568615696216752000,
+					"id_str": "1568615696216752128",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTXqjIaAAA-O0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTXqjIaAAA-O0_.jpg",
+					"url": "https://t.co/sosdCAQ4E1",
+					"display_url": "pic.twitter.com/sosdCAQ4E1",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568615708061474823/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568615696216752000,
+					"id_str": "1568615696216752128",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTXqjIaAAA-O0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTXqjIaAAA-O0_.jpg",
+					"url": "https://t.co/sosdCAQ4E1",
+					"display_url": "pic.twitter.com/sosdCAQ4E1",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568615708061474823/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568615696548110300,
+					"id_str": "1568615696548110336",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTXqkXaIAARxge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTXqkXaIAARxge.jpg",
+					"url": "https://t.co/sosdCAQ4E1",
+					"display_url": "pic.twitter.com/sosdCAQ4E1",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1568615708061474823/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75795,
+			"friends_count": 3,
+			"listed_count": 291,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3583,
+		"favorite_count": 9183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 너무 예쁜 하늘을 봤어요 ☁️ 그래서 사진을 찍었는데 여러분들께도 보여드리고 싶어서 왔어요~ :) 너무 예쁘죠?? 그럼 모두 좋은 밤 되세요 🥰 #NewJeans #HAERIN #해린 https://t.co/sosdCAQ4E1"
+	},
+	{
+		"created_at": "Sat Sep 10 15:40:10 +0000 2022",
+		"id": 1568615375046344700,
+		"id_str": "1568625387646722049",
+		"full_text": "#BLACKPINK ‘Shut Down' JENNIE Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JENNIE #제니 #2ndAlbum #BORNPINK #Title #ShutDown #TeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/mMLVTMQdxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "TeaserPoster",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						176,
+						193
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						194,
+						210
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						220,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568612296993439700,
+					"id_str": "1568612296993439748",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTUksCagAQEm0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTUksCagAQEm0I.jpg",
+					"url": "https://t.co/mMLVTMQdxw",
+					"display_url": "pic.twitter.com/mMLVTMQdxw",
+					"expanded_url": "https://twitter.com/ygent_official/status/1568615375046344706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568612296993439700,
+					"id_str": "1568612296993439748",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FcTUksCagAQEm0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcTUksCagAQEm0I.jpg",
+					"url": "https://t.co/mMLVTMQdxw",
+					"display_url": "pic.twitter.com/mMLVTMQdxw",
+					"expanded_url": "https://twitter.com/ygent_official/status/1568615375046344706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8912734,
+			"friends_count": 36,
+			"listed_count": 9832,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14411,
+		"favorite_count": 34664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down' JENNIE Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JENNIE #제니 #2ndAlbum #BORNPINK #Title #ShutDown #TeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/mMLVTMQdxw"
+	},
+	{
 		"created_at": "Sat Sep 10 14:40:10 +0000 2022",
 		"id": 1568610213309333500,
 		"id_str": "1568610285837074432",
