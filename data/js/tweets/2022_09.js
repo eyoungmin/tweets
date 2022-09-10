@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 09:40:10 +0000 2022",
+		"id": 1568524687453266000,
+		"id_str": "1568534788432093184",
+		"full_text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』から約1ヶ月が経ちました！\n aespa OFFICIAL MAIL MAGAZINEでは、公演を2回に渡って未公開ショットと共に振り返ります💙⭐️🌙🦋\nまずは前半の様子をサイト内『BLOG』よりご覧ください✨\nhttps://t.co/BvN8a3aVwC\n#aespa #æspa #에스파 #エスパ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						195,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvN8a3aVwC",
+					"expanded_url": "http://aespa.smtown-official.jp/blog/",
+					"display_url": "aespa.smtown-official.jp/blog/",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211159,
+			"friends_count": 1,
+			"listed_count": 588,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 463,
+		"favorite_count": 2649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』から約1ヶ月が経ちました！\n aespa OFFICIAL MAIL MAGAZINEでは、公演を2回に渡って未公開ショットと共に振り返ります💙⭐️🌙🦋\nまずは前半の様子をサイト内『BLOG』よりご覧ください✨\nhttps://t.co/BvN8a3aVwC\n#aespa #æspa #에스파 #エスパ"
+	},
+	{
 		"created_at": "Sat Sep 10 08:40:10 +0000 2022",
 		"id": 1568509628161622000,
 		"id_str": "1568519688866365442",
