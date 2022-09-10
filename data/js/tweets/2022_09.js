@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 06:40:10 +0000 2022",
+		"id": 1568479382829760500,
+		"id_str": "1568489489688940544",
+		"full_text": "tripleS 트리플에스 : sweets 'SSSeven Hellos'\n\nhttps://t.co/hKQVwVgeNs\n\n#tripleS #트리플에스 #トリプルS https://t.co/FAUHf8qJ8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hKQVwVgeNs",
+					"expanded_url": "http://youtube.com/shorts/qd5c5QlZnzo",
+					"display_url": "youtube.com/shorts/qd5c5Ql…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568431204789293000,
+					"id_str": "1568431204789293057",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568431204789293057/pu/img/7BpYGja-28f07Nxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568431204789293057/pu/img/7BpYGja-28f07Nxm.jpg",
+					"url": "https://t.co/FAUHf8qJ8C",
+					"display_url": "pic.twitter.com/FAUHf8qJ8C",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568479382829760512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568431204789293000,
+					"id_str": "1568431204789293057",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568431204789293057/pu/img/7BpYGja-28f07Nxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568431204789293057/pu/img/7BpYGja-28f07Nxm.jpg",
+					"url": "https://t.co/FAUHf8qJ8C",
+					"display_url": "pic.twitter.com/FAUHf8qJ8C",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568479382829760512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 50176,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568431204789293057/pu/vid/320x568/ivdVDksQZd2_eIMJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568431204789293057/pu/pl/fnDSJXMW0iBFBQG1.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568431204789293057/pu/vid/720x1280/HRgf6QdQI1p7xIif.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568431204789293057/pu/vid/480x852/i01Hhn9ron_UwZy5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13703,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets 'SSSeven Hellos'\n\nhttps://t.co/hKQVwVgeNs\n\n#tripleS #트리플에스 #トリプルS https://t.co/FAUHf8qJ8C"
+	},
+	{
 		"created_at": "Sat Sep 10 05:40:10 +0000 2022",
 		"id": 1568464284794978300,
 		"id_str": "1568474391163375617",
