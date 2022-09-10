@@ -1,6 +1,1324 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 03:40:38 +0000 2022",
+		"id": 1568434408004399000,
+		"id_str": "1568444312089673730",
+		"full_text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/zKB2BY17VG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568434398089080800,
+					"id_str": "1568434398089080834",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyxm-acAIlQEM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyxm-acAIlQEM.jpg",
+					"url": "https://t.co/zKB2BY17VG",
+					"display_url": "pic.twitter.com/zKB2BY17VG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434408004399107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568434398089080800,
+					"id_str": "1568434398089080834",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyxm-acAIlQEM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyxm-acAIlQEM.jpg",
+					"url": "https://t.co/zKB2BY17VG",
+					"display_url": "pic.twitter.com/zKB2BY17VG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434408004399107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434398105858000,
+					"id_str": "1568434398105858048",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyxnCacAAX3tX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyxnCacAAX3tX.jpg",
+					"url": "https://t.co/zKB2BY17VG",
+					"display_url": "pic.twitter.com/zKB2BY17VG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434408004399107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434398080696300,
+					"id_str": "1568434398080696320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyxm8agAAazyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyxm8agAAazyY.jpg",
+					"url": "https://t.co/zKB2BY17VG",
+					"display_url": "pic.twitter.com/zKB2BY17VG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434408004399107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434398080696300,
+					"id_str": "1568434398080696322",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyxm8agAIbSFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyxm8agAIbSFv.jpg",
+					"url": "https://t.co/zKB2BY17VG",
+					"display_url": "pic.twitter.com/zKB2BY17VG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434408004399107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568434390124105700,
+		"in_reply_to_status_id_str": "1568434390124105728",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979760,
+			"friends_count": 3,
+			"listed_count": 8945,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 727,
+		"favorite_count": 2565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/zKB2BY17VG"
+	},
+	{
+		"created_at": "Sat Sep 10 03:40:29 +0000 2022",
+		"id": 1568434390124105700,
+		"id_str": "1568444273841868800",
+		"full_text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/XmVrcYPFpT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568434376324841500,
+					"id_str": "1568434376324841475",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQywV5agAMm1i2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQywV5agAMm1i2.jpg",
+					"url": "https://t.co/XmVrcYPFpT",
+					"display_url": "pic.twitter.com/XmVrcYPFpT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434390124105728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568434376324841500,
+					"id_str": "1568434376324841475",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQywV5agAMm1i2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQywV5agAMm1i2.jpg",
+					"url": "https://t.co/XmVrcYPFpT",
+					"display_url": "pic.twitter.com/XmVrcYPFpT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434390124105728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434376341606400,
+					"id_str": "1568434376341606400",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQywV9aUAAd24R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQywV9aUAAd24R.jpg",
+					"url": "https://t.co/XmVrcYPFpT",
+					"display_url": "pic.twitter.com/XmVrcYPFpT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434390124105728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434376316432400,
+					"id_str": "1568434376316432384",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQywV3aMAACvtA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQywV3aMAACvtA.jpg",
+					"url": "https://t.co/XmVrcYPFpT",
+					"display_url": "pic.twitter.com/XmVrcYPFpT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434390124105728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434376324837400,
+					"id_str": "1568434376324837376",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQywV5acAApDZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQywV5acAApDZ6.jpg",
+					"url": "https://t.co/XmVrcYPFpT",
+					"display_url": "pic.twitter.com/XmVrcYPFpT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434390124105728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568434368150139000,
+		"in_reply_to_status_id_str": "1568434368150138880",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979760,
+			"friends_count": 3,
+			"listed_count": 8945,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 678,
+		"favorite_count": 2623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/XmVrcYPFpT"
+	},
+	{
+		"created_at": "Sat Sep 10 03:40:25 +0000 2022",
+		"id": 1568434368150139000,
+		"id_str": "1568444256599113728",
+		"full_text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/4p53tZcZov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568434357395914800,
+					"id_str": "1568434357395914753",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyvPYaAAEjAVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyvPYaAAEjAVz.jpg",
+					"url": "https://t.co/4p53tZcZov",
+					"display_url": "pic.twitter.com/4p53tZcZov",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434368150138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568434357395914800,
+					"id_str": "1568434357395914753",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyvPYaAAEjAVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyvPYaAAEjAVz.jpg",
+					"url": "https://t.co/4p53tZcZov",
+					"display_url": "pic.twitter.com/4p53tZcZov",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434368150138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434357391757300,
+					"id_str": "1568434357391757313",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyvPXakAENQEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyvPXakAENQEy.jpg",
+					"url": "https://t.co/4p53tZcZov",
+					"display_url": "pic.twitter.com/4p53tZcZov",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434368150138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434357374963700,
+					"id_str": "1568434357374963712",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyvPTaUAAOLxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyvPTaUAAOLxz.jpg",
+					"url": "https://t.co/4p53tZcZov",
+					"display_url": "pic.twitter.com/4p53tZcZov",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434368150138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568434357446254600,
+					"id_str": "1568434357446254592",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQyvPkaIAAkABH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQyvPkaIAAkABH.jpg",
+					"url": "https://t.co/4p53tZcZov",
+					"display_url": "pic.twitter.com/4p53tZcZov",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1568434368150138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979760,
+			"friends_count": 3,
+			"listed_count": 8945,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1307,
+		"favorite_count": 4412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 전하는\n2022 추석 인사 메시지 도착 💌\n\n오빛들! 즐겁고 풍성한 한가위 보내길 바라요💫\n보름달 보며 소원 비는 것도 잊지 말기! 약속! 🌝🤙🏻 \n\n#LOONA https://t.co/4p53tZcZov"
+	},
+	{
+		"created_at": "Sat Sep 10 03:40:16 +0000 2022",
+		"id": 1568434089572581400,
+		"id_str": "1568444218326106112",
+		"full_text": "[#선예 / #Sunye]\n\n썬밀리에게 전하는 선예의 \n2022 추석 인사 메시지 도착! 💌\n모두 건강하고 풍요로운 한가위 보내세요💜\n\n▶ https://t.co/zFoCH4tAG7 https://t.co/sOs7lUzsof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zFoCH4tAG7",
+					"expanded_url": "https://youtu.be/sJ7U8eTq0RI",
+					"display_url": "youtu.be/sJ7U8eTq0RI",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567795086356017200,
+					"id_str": "1567795086356017153",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHtUxLacAE-PoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHtUxLacAE-PoQ.jpg",
+					"url": "https://t.co/sOs7lUzsof",
+					"display_url": "pic.twitter.com/sOs7lUzsof",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1568434089572581377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567795086356017200,
+					"id_str": "1567795086356017153",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHtUxLacAE-PoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHtUxLacAE-PoQ.jpg",
+					"url": "https://t.co/sOs7lUzsof",
+					"display_url": "pic.twitter.com/sOs7lUzsof",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1568434089572581377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19115,
+			"friends_count": 2,
+			"listed_count": 72,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#선예 / #Sunye]\n\n썬밀리에게 전하는 선예의 \n2022 추석 인사 메시지 도착! 💌\n모두 건강하고 풍요로운 한가위 보내세요💜\n\n▶ https://t.co/zFoCH4tAG7 https://t.co/sOs7lUzsof"
+	},
+	{
+		"created_at": "Sat Sep 10 03:40:10 +0000 2022",
+		"id": 1568434084145250300,
+		"id_str": "1568444192556306432",
+		"full_text": "추석특집! 롤링 페이퍼 Chuseok Special! Impressions\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/VUDmLLoESf\n\n#tripleS #트리플에스 #トリプルS https://t.co/KzBj1EmJ1c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUDmLLoESf",
+					"expanded_url": "http://youtu.be/8Jsn6jXeWbQ",
+					"display_url": "youtu.be/8Jsn6jXeWbQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568423340125323300,
+					"id_str": "1568423340125323264",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568423340125323264/pu/img/K0QWcrgO8IL1X8QX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568423340125323264/pu/img/K0QWcrgO8IL1X8QX.jpg",
+					"url": "https://t.co/KzBj1EmJ1c",
+					"display_url": "pic.twitter.com/KzBj1EmJ1c",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568434084145250306/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568423340125323300,
+					"id_str": "1568423340125323264",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568423340125323264/pu/img/K0QWcrgO8IL1X8QX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568423340125323264/pu/img/K0QWcrgO8IL1X8QX.jpg",
+					"url": "https://t.co/KzBj1EmJ1c",
+					"display_url": "pic.twitter.com/KzBj1EmJ1c",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568434084145250306/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25472,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568423340125323264/pu/vid/480x270/NjKjUg7r2RQLQ6Yg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568423340125323264/pu/vid/1280x720/6b1pxk-MO4YLYEqw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568423340125323264/pu/pl/qW_Q6VF8tBwLDtHA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568423340125323264/pu/vid/640x360/Zglym7mXQ7fKUAcw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13704,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추석특집! 롤링 페이퍼 Chuseok Special! Impressions\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/VUDmLLoESf\n\n#tripleS #트리플에스 #トリプルS https://t.co/KzBj1EmJ1c"
+	},
+	{
 		"created_at": "Sat Sep 10 00:40:10 +0000 2022",
 		"id": 1568396337586086000,
 		"id_str": "1568398893171331074",
