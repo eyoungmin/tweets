@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 05:40:10 +0000 2022",
+		"id": 1568464284794978300,
+		"id_str": "1568474391163375617",
+		"full_text": "김나키 팬 싸인회 준비 완료✌️\n\nNaky is ready tofan sign✌️\n\nキム·ナキファンサイン会準備完了✌️\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/Y3GnYLLuxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "KimNaKyoung",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568427474824106000,
+					"id_str": "1568427474824105984",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQsenzakAANV71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQsenzakAANV71.jpg",
+					"url": "https://t.co/Y3GnYLLuxA",
+					"display_url": "pic.twitter.com/Y3GnYLLuxA",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568464284794978304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568427474824106000,
+					"id_str": "1568427474824105984",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQsenzakAANV71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQsenzakAANV71.jpg",
+					"url": "https://t.co/Y3GnYLLuxA",
+					"display_url": "pic.twitter.com/Y3GnYLLuxA",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568464284794978304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13700,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "김나키 팬 싸인회 준비 완료✌️\n\nNaky is ready tofan sign✌️\n\nキム·ナキファンサイン会準備完了✌️\n\n#tripleS #트리플에스 #トリプルS #KimNaKyoung https://t.co/Y3GnYLLuxA"
+	},
+	{
 		"created_at": "Sat Sep 10 04:40:16 +0000 2022",
 		"id": 1568450444229513200,
 		"id_str": "1568459317413613568",
@@ -75,7 +266,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "NEMOZ",
 			"screen_name": "nemoz_lab",
 			"location": "Republic of Korea",
-			"description": "Tag & Play! Next CD, Nemo Album​ by Nemoz Lab\n▶ Play Store https://t.co/N0ZsNS3w2z​\n▶ App Store https://t.co/IQ0EpaQ7s7\n▶ Shop https://t.co/3v6Laiqv9o",
+			"description": "Tag & Play! Next CD, Nemo Album by Nemoz Lab\n▶ Play Store https://t.co/N0ZsNS3w2z\n▶ App Store https://t.co/IQ0EpaQ7s7\n▶ Shop https://t.co/3v6Laiqv9o",
 			"url": "https://t.co/9uUDCfAux1",
 			"entities": {
 				"url": {
