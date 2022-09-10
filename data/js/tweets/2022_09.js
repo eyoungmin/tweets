@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 04:40:16 +0000 2022",
+		"id": 1568450444229513200,
+		"id_str": "1568459317413613568",
+		"full_text": "썬밀리를 위한 추석 선물이 네모즈에 도착했습니다! 추석도 선예와 함께해요!🎁\n\nChuseok gift for SunMillys on Nemoz now! Have a good Chuseok with Sunye! \n\n#선예 #Sunye #Genuine #JustADancer #NemoAlbum @BBC_blockberry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "JustADancer",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "NemoAlbum",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBC_blockberry",
+					"name": "BlockBerryCreative",
+					"id": 1496008272398418000,
+					"id_str": "1496008272398417930",
+					"indices": [
+						163,
+						178
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1501830480374952000,
+			"id_str": "1501830480374951937",
+			"name": "NEMOZ",
+			"screen_name": "nemoz_lab",
+			"location": "Republic of Korea",
+			"description": "Tag & Play! Next CD, Nemo Album​ by Nemoz Lab\n▶ Play Store https://t.co/N0ZsNS3w2z​\n▶ App Store https://t.co/IQ0EpaQ7s7\n▶ Shop https://t.co/3v6Laiqv9o",
+			"url": "https://t.co/9uUDCfAux1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9uUDCfAux1",
+							"expanded_url": "http://nemoz.io",
+							"display_url": "nemoz.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/N0ZsNS3w2z",
+							"expanded_url": "http://bit.ly/3NGflD6",
+							"display_url": "bit.ly/3NGflD6",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/IQ0EpaQ7s7",
+							"expanded_url": "http://apple.co/35uXWfc",
+							"display_url": "apple.co/35uXWfc",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/3v6Laiqv9o",
+							"expanded_url": "http://nemoz.shop",
+							"display_url": "nemoz.shop",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 14,
+			"listed_count": 0,
+			"created_at": "Thu Mar 10 08:01:19 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509739304431456258/riZkpkKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509739304431456258/riZkpkKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1501830480374951937/1648457825",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "썬밀리를 위한 추석 선물이 네모즈에 도착했습니다! 추석도 선예와 함께해요!🎁\n\nChuseok gift for SunMillys on Nemoz now! Have a good Chuseok with Sunye! \n\n#선예 #Sunye #Genuine #JustADancer #NemoAlbum @BBC_blockberry"
+	},
+	{
+		"created_at": "Sat Sep 10 04:40:10 +0000 2022",
+		"id": 1568449191570833400,
+		"id_str": "1568459291740233728",
+		"full_text": "팬분들과 저는 운명의 데니스트\n9월 17일에 만나요😍\n\nYou and I are destined for each other\nMeet me on Sep. 17th😍\n\nファンの方々と僕は運命のデニスト\n9月17日に会いましょう😍\n\n#tripleS #트리플에스 #トリプルS #KimSooMin https://t.co/Xb3UkZDoJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "KimSooMin",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568426251005890600,
+					"id_str": "1568426251005890560",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQrXYuakAALOfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQrXYuakAALOfb.jpg",
+					"url": "https://t.co/Xb3UkZDoJX",
+					"display_url": "pic.twitter.com/Xb3UkZDoJX",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568449191570833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568426251005890600,
+					"id_str": "1568426251005890560",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQrXYuakAALOfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQrXYuakAALOfb.jpg",
+					"url": "https://t.co/Xb3UkZDoJX",
+					"display_url": "pic.twitter.com/Xb3UkZDoJX",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568449191570833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13700,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "팬분들과 저는 운명의 데니스트\n9월 17일에 만나요😍\n\nYou and I are destined for each other\nMeet me on Sep. 17th😍\n\nファンの方々と僕は運命のデニスト\n9月17日に会いましょう😍\n\n#tripleS #트리플에스 #トリプルS #KimSooMin https://t.co/Xb3UkZDoJX"
+	},
+	{
 		"created_at": "Sat Sep 10 03:40:38 +0000 2022",
 		"id": 1568434408004399000,
 		"id_str": "1568444312089673730",
