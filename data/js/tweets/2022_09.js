@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 00:40:10 +0000 2022",
+		"id": 1568758722347794400,
+		"id_str": "1568761280701530112",
+		"full_text": "SecretBase 220630 JeongHyeRin.SSS\n\nhttps://t.co/a5V0E6qBPj\n\n#tripleS #트리플에스 #トリプルS #JeongHyeRin https://t.co/9t8Vn8riFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "JeongHyeRin",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a5V0E6qBPj",
+					"expanded_url": "http://youtu.be/cF7asSvXySg",
+					"display_url": "youtu.be/cF7asSvXySg",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568547313366499300,
+					"id_str": "1568547313366499334",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FcSZeJKagAYkjE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcSZeJKagAYkjE3.jpg",
+					"url": "https://t.co/9t8Vn8riFg",
+					"display_url": "pic.twitter.com/9t8Vn8riFg",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568758722347794433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568547313366499300,
+					"id_str": "1568547313366499334",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FcSZeJKagAYkjE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcSZeJKagAYkjE3.jpg",
+					"url": "https://t.co/9t8Vn8riFg",
+					"display_url": "pic.twitter.com/9t8Vn8riFg",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1568758722347794433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13770,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562456104483065857/jNEwBWIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1661770802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "SecretBase 220630 JeongHyeRin.SSS\n\nhttps://t.co/a5V0E6qBPj\n\n#tripleS #트리플에스 #トリプルS #JeongHyeRin https://t.co/9t8Vn8riFg"
+	},
+	{
 		"created_at": "Sat Sep 10 19:40:10 +0000 2022",
 		"id": 1568680315648090000,
 		"id_str": "1568685784949227520",
