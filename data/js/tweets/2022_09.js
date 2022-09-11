@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 01:29:39 +0000 2022",
+		"id": 1568764315918028800,
+		"id_str": "1568773734764363776",
+		"full_text": "⠀\n🎉&lt;#공조2_인터내셔날&gt; 200만 관객 돌파!🎉\n#공조 보다 2배 빠른 속도로 흥행 질주 중! #공조2는_브레이크같은거_몰라~😎\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규\n#공조2 #이석훈감독 #절찬상영중 https://t.co/UR3agXQgXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"text": "공조",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "공조2는_브레이크같은거_몰라",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568764119708496000,
+					"id_str": "1568764119708495872",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FcVep7uacAA86yx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcVep7uacAA86yx.jpg",
+					"url": "https://t.co/UR3agXQgXz",
+					"display_url": "pic.twitter.com/UR3agXQgXz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568764315918028800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568764119708496000,
+					"id_str": "1568764119708495872",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FcVep7uacAA86yx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcVep7uacAA86yx.jpg",
+					"url": "https://t.co/UR3agXQgXz",
+					"display_url": "pic.twitter.com/UR3agXQgXz",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1568764315918028800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331924,
+			"friends_count": 10638,
+			"listed_count": 263,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 930,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\n🎉&lt;#공조2_인터내셔날&gt; 200만 관객 돌파!🎉\n#공조 보다 2배 빠른 속도로 흥행 질주 중! #공조2는_브레이크같은거_몰라~😎\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규\n#공조2 #이석훈감독 #절찬상영중 https://t.co/UR3agXQgXz"
+	},
+	{
 		"created_at": "Sun Sep 11 00:40:10 +0000 2022",
 		"id": 1568758722347794400,
 		"id_str": "1568761280701530112",
