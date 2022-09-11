@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 11:40:10 +0000 2022",
+		"id": 1568909062557028400,
+		"id_str": "1568927375454339072",
+		"full_text": "❤220828 #인기가요 미션포토\n\n이번주 인기가요는 쉬어가지만미션포토는 킵 고잉🔥\nPink Venom 그 잡채 블핑이들 미션포토 도착이요〰🖤💗\n\n정규 2집 컴백 전에 미션포토로 워밍업!🔻\n🔗https://t.co/VXjLEvmI9s\n\n#인기가요 #inkigayo #BLACKPINK #블랙핑크 #PINKVENOM @BLACKPINK @ygofficialblink https://t.co/2FJYpdiGjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "PINKVENOM",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VXjLEvmI9s",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboards/54795",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1568907023785545700,
+					"id_str": "1568907023785545731",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXgoC5aUAMspHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXgoC5aUAMspHS.jpg",
+					"url": "https://t.co/2FJYpdiGjX",
+					"display_url": "pic.twitter.com/2FJYpdiGjX",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1568909062557028353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568907023785545700,
+					"id_str": "1568907023785545731",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXgoC5aUAMspHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXgoC5aUAMspHS.jpg",
+					"url": "https://t.co/2FJYpdiGjX",
+					"display_url": "pic.twitter.com/2FJYpdiGjX",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1568909062557028353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568907167599829000,
+					"id_str": "1568907167599828994",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXgwapaIAI_x7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXgwapaIAI_x7o.jpg",
+					"url": "https://t.co/2FJYpdiGjX",
+					"display_url": "pic.twitter.com/2FJYpdiGjX",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1568909062557028353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1568907231508430800,
+					"id_str": "1568907231508430848",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXg0IuaAAArYgs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXg0IuaAAArYgs.jpg",
+					"url": "https://t.co/2FJYpdiGjX",
+					"display_url": "pic.twitter.com/2FJYpdiGjX",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1568909062557028353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS 인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "",
+			"description": "인기가요 공식 트위터 (SBS Inkigayo Official Twitter) \n#PD노트 #포토스케치 #하드털이 #엔딩맛집",
+			"url": "https://t.co/XOLUHL4yNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOLUHL4yNY",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo",
+							"display_url": "programs.sbs.co.kr/enter/gayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192701,
+			"friends_count": 73,
+			"listed_count": 591,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1657180917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4169,
+		"favorite_count": 11967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤220828 #인기가요 미션포토\n\n이번주 인기가요는 쉬어가지만미션포토는 킵 고잉🔥\nPink Venom 그 잡채 블핑이들 미션포토 도착이요〰🖤💗\n\n정규 2집 컴백 전에 미션포토로 워밍업!🔻\n🔗https://t.co/VXjLEvmI9s\n\n#인기가요 #inkigayo #BLACKPINK #블랙핑크 #PINKVENOM @BLACKPINK @ygofficialblink https://t.co/2FJYpdiGjX"
+	},
+	{
 		"created_at": "Sun Sep 11 10:40:10 +0000 2022",
 		"id": 1568903609181667300,
 		"id_str": "1568912275460816901",
