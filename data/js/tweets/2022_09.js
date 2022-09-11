@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 10:40:10 +0000 2022",
+		"id": 1568903609181667300,
+		"id_str": "1568912275460816901",
+		"full_text": "하얗게 불태웠다... https://t.co/js5wCPLJ0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568903598062604300,
+					"id_str": "1568903598062604296",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXdgpFakAglFiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXdgpFakAglFiD.jpg",
+					"url": "https://t.co/js5wCPLJ0c",
+					"display_url": "pic.twitter.com/js5wCPLJ0c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1568903609181667330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568903598062604300,
+					"id_str": "1568903598062604296",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FcXdgpFakAglFiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcXdgpFakAglFiD.jpg",
+					"url": "https://t.co/js5wCPLJ0c",
+					"display_url": "pic.twitter.com/js5wCPLJ0c",
+					"expanded_url": "https://twitter.com/love_yuna/status/1568903609181667330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274383,
+			"friends_count": 591,
+			"listed_count": 2752,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc35caafed4f000",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc35caafed4f000.json",
+			"place_type": "poi",
+			"name": "MBC",
+			"full_name": "MBC",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.89097404479979,
+							37.581045013423356
+						],
+						[
+							126.89097404479979,
+							37.581045013423356
+						],
+						[
+							126.89097404479979,
+							37.581045013423356
+						],
+						[
+							126.89097404479979,
+							37.581045013423356
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하얗게 불태웠다... https://t.co/js5wCPLJ0c"
+	},
+	{
 		"created_at": "Sun Sep 11 09:29:39 +0000 2022",
 		"id": 1568892528119922700,
 		"id_str": "1568894529129914368",
