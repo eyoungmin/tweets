@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 10:40:09 +0000 2022",
+		"id": 1569272259965231000,
+		"id_str": "1569274662743310338",
+		"full_text": "📣\nLOONA JAPAN 2nd SINGLE「LUMINOUS」の\nショップ別購入特典の絵柄公開になりました💃\n\n▼詳細はこちら\nhttps://t.co/zQEt7OSwBm\n\n#LOONA\n#今月の少女\n#LUMINOUS https://t.co/o38fxlmvMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQEt7OSwBm",
+					"expanded_url": "https://umusic.jp/LN220912_tokuten",
+					"display_url": "umusic.jp/LN220912_tokut…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569272249680810000,
+					"id_str": "1569272249680809987",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Fccsy_YaUAMKDrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fccsy_YaUAMKDrU.jpg",
+					"url": "https://t.co/o38fxlmvMO",
+					"display_url": "pic.twitter.com/o38fxlmvMO",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569272259965231104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569272249680810000,
+					"id_str": "1569272249680809987",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Fccsy_YaUAMKDrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fccsy_YaUAMKDrU.jpg",
+					"url": "https://t.co/o38fxlmvMO",
+					"display_url": "pic.twitter.com/o38fxlmvMO",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569272259965231104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98697,
+			"friends_count": 2,
+			"listed_count": 757,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📣\nLOONA JAPAN 2nd SINGLE「LUMINOUS」の\nショップ別購入特典の絵柄公開になりました💃\n\n▼詳細はこちら\nhttps://t.co/zQEt7OSwBm\n\n#LOONA\n#今月の少女\n#LUMINOUS https://t.co/o38fxlmvMO"
+	},
+	{
 		"created_at": "Mon Sep 12 09:45:37 +0000 2022",
 		"id": 1569258275740307500,
 		"id_str": "1569260936678055938",
