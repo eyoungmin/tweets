@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 15:40:18 +0000 2022",
+		"id": 1569340095223955500,
+		"id_str": "1569350195241951232",
+		"full_text": "#BLACKPINK ‘Shut Down’ LISA Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #LISA #리사 #2ndAlbum #BORNPINK #Title #ShutDown #TeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/ODp7m1hwaR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "TeaserPoster",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						172,
+						189
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						190,
+						206
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						207,
+						215
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						216,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569339576270872600,
+					"id_str": "1569339576270872578",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdqB6eWYAILOZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdqB6eWYAILOZA.jpg",
+					"url": "https://t.co/ODp7m1hwaR",
+					"display_url": "pic.twitter.com/ODp7m1hwaR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1569340095223955456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569339576270872600,
+					"id_str": "1569339576270872578",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdqB6eWYAILOZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdqB6eWYAILOZA.jpg",
+					"url": "https://t.co/ODp7m1hwaR",
+					"display_url": "pic.twitter.com/ODp7m1hwaR",
+					"expanded_url": "https://twitter.com/ygent_official/status/1569340095223955456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8916849,
+			"friends_count": 36,
+			"listed_count": 9844,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19355,
+		"favorite_count": 40187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down’ LISA Teaser Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #LISA #리사 #2ndAlbum #BORNPINK #Title #ShutDown #TeaserPoster #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/ODp7m1hwaR"
+	},
+	{
 		"created_at": "Mon Sep 12 15:09:50 +0000 2022",
 		"id": 1569341420800196600,
 		"id_str": "1569342528402374658",
