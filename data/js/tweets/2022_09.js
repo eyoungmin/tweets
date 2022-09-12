@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 09:45:37 +0000 2022",
+		"id": 1569258275740307500,
+		"id_str": "1569260936678055938",
+		"full_text": "【LOONA】\n日本2ndSingle『LUMINOUS』ストア限定特典各種絵柄公開！✨\n✔️ポスター\n✔️フォトカード\n✔️アクリルコースター（11形態セット特典）\n\nさらに封入特典「応募用シリアルナンバー」の詳細も決定！\n応募詳細＆ご予約はこちら👇\nhttps://t.co/Yh6cU3auUg\n#LOONA #今月の少女 #이달의소녀 https://t.co/OhH3Dw0eaV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yh6cU3auUg",
+					"expanded_url": "https://bit.ly/3c8VWwz",
+					"display_url": "bit.ly/3c8VWwz",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569258272816865300,
+					"id_str": "1569258272816865286",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FccgFbgXoAYcehg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FccgFbgXoAYcehg.jpg",
+					"url": "https://t.co/OhH3Dw0eaV",
+					"display_url": "pic.twitter.com/OhH3Dw0eaV",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1569258275740307456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569258272816865300,
+					"id_str": "1569258272816865286",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FccgFbgXoAYcehg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FccgFbgXoAYcehg.jpg",
+					"url": "https://t.co/OhH3Dw0eaV",
+					"display_url": "pic.twitter.com/OhH3Dw0eaV",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1569258275740307456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569258272904945700,
+					"id_str": "1569258272904945664",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FccgFb1XoAAzj9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FccgFb1XoAAzj9j.jpg",
+					"url": "https://t.co/OhH3Dw0eaV",
+					"display_url": "pic.twitter.com/OhH3Dw0eaV",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1569258275740307456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569258272816865300,
+					"id_str": "1569258272816865287",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FccgFbgXoAcCT_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FccgFbgXoAcCT_M.jpg",
+					"url": "https://t.co/OhH3Dw0eaV",
+					"display_url": "pic.twitter.com/OhH3Dw0eaV",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1569258275740307456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40811,
+			"friends_count": 158,
+			"listed_count": 265,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【LOONA】\n日本2ndSingle『LUMINOUS』ストア限定特典各種絵柄公開！✨\n✔️ポスター\n✔️フォトカード\n✔️アクリルコースター（11形態セット特典）\n\nさらに封入特典「応募用シリアルナンバー」の詳細も決定！\n応募詳細＆ご予約はこちら👇\nhttps://t.co/Yh6cU3auUg\n#LOONA #今月の少女 #이달의소녀 https://t.co/OhH3Dw0eaV"
+	},
+	{
+		"created_at": "Mon Sep 12 09:40:29 +0000 2022",
+		"id": 1569259036339748900,
+		"id_str": "1569259645029568513",
+		"full_text": "[#이달의소녀] 220913 MBN 미스터리 듀엣 방청 참여 안내 공지가 업로드 되었습니다‼\n\n👉👉 https://t.co/Es6wpSMj17…\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Es6wpSMj17",
+					"expanded_url": "http://m.cafe.daum.net/loonatheworld/",
+					"display_url": "m.cafe.daum.net/loonatheworld/",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32854,
+			"friends_count": 1,
+			"listed_count": 559,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1655716440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이달의소녀] 220913 MBN 미스터리 듀엣 방청 참여 안내 공지가 업로드 되었습니다‼\n\n👉👉 https://t.co/Es6wpSMj17…\n\n#LOONA"
+	},
+	{
+		"created_at": "Mon Sep 12 09:40:23 +0000 2022",
+		"id": 1569251114427773000,
+		"id_str": "1569259619423248386",
+		"full_text": "さらに！\n「LUMINOUS」の発売を記念して、タワーレコード渋谷店では限定特典 ＆ パネル展も決定🎉\n\n是非店頭へ足を運んでみて下さい✨\n\n▼詳細はこちら\nhttps://t.co/gA7YNkAyc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gA7YNkAyc0",
+					"expanded_url": "https://umusic.jp/LN220912",
+					"display_url": "umusic.jp/LN220912",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569251112926195700,
+		"in_reply_to_status_id_str": "1569251112926195714",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98699,
+			"friends_count": 2,
+			"listed_count": 757,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "さらに！\n「LUMINOUS」の発売を記念して、タワーレコード渋谷店では限定特典 ＆ パネル展も決定🎉\n\n是非店頭へ足を運んでみて下さい✨\n\n▼詳細はこちら\nhttps://t.co/gA7YNkAyc0"
+	},
+	{
+		"created_at": "Mon Sep 12 09:40:18 +0000 2022",
+		"id": 1569251112926195700,
+		"id_str": "1569259598007209986",
+		"full_text": "📣\nLOONA JAPAN 2nd Single 「LUMINOUS」封入特典応募シリアルコードの詳細が決定しました！\n\n▼詳細はこちら\nhttps://t.co/BxEAsvBQMU\n\n#LOONA \n#今月の少女\n#LUMINOUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BxEAsvBQMU",
+					"expanded_url": "https://umusic.jp/LN220912_serial",
+					"display_url": "umusic.jp/LN220912_serial",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98699,
+			"friends_count": 2,
+			"listed_count": 757,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "📣\nLOONA JAPAN 2nd Single 「LUMINOUS」封入特典応募シリアルコードの詳細が決定しました！\n\n▼詳細はこちら\nhttps://t.co/BxEAsvBQMU\n\n#LOONA \n#今月の少女\n#LUMINOUS"
+	},
+	{
 		"created_at": "Mon Sep 12 08:29:39 +0000 2022",
 		"id": 1569227781237805000,
 		"id_str": "1569241817543057410",
