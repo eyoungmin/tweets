@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 14:40:10 +0000 2022",
+		"id": 1569328326925521000,
+		"id_str": "1569335062075686914",
+		"full_text": "#BLACKPINK '휘파람 (WHISTLE)' M/V HITS 800 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'휘파람 (WHISTLE)' M/V\n🎥 https://t.co/PyyYSdWF8V \n\n#블랙핑크 #WHISTLE #휘파람 #MV #800MILLION #YOUTUBE #YG https://t.co/UPykSfsQEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "WHISTLE",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "휘파람",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "800MILLION",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PyyYSdWF8V",
+					"expanded_url": "https://youtu.be/dISNgvVpWlo",
+					"display_url": "youtu.be/dISNgvVpWlo",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569328279341133800,
+					"id_str": "1569328279341133824",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdfwWIacAAmSW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdfwWIacAAmSW6.jpg",
+					"url": "https://t.co/UPykSfsQEd",
+					"display_url": "pic.twitter.com/UPykSfsQEd",
+					"expanded_url": "https://twitter.com/ygent_official/status/1569328326925520898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569328279341133800,
+					"id_str": "1569328279341133824",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FcdfwWIacAAmSW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcdfwWIacAAmSW6.jpg",
+					"url": "https://t.co/UPykSfsQEd",
+					"display_url": "pic.twitter.com/UPykSfsQEd",
+					"expanded_url": "https://twitter.com/ygent_official/status/1569328326925520898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8916647,
+			"friends_count": 36,
+			"listed_count": 9841,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11472,
+		"favorite_count": 35567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '휘파람 (WHISTLE)' M/V HITS 800 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'휘파람 (WHISTLE)' M/V\n🎥 https://t.co/PyyYSdWF8V \n\n#블랙핑크 #WHISTLE #휘파람 #MV #800MILLION #YOUTUBE #YG https://t.co/UPykSfsQEd"
+	},
+	{
 		"created_at": "Mon Sep 12 11:40:10 +0000 2022",
 		"id": 1569287829049716700,
 		"id_str": "1569289762946617344",
