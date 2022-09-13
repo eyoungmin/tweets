@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 17:45:37 +0000 2022",
+		"id": 1569739011308101600,
+		"id_str": "1569744119630643200",
+		"full_text": "[COVERAGE] LOONA's concert in Paris is about to begin so fans are screaming their name\n\n#loonainparis #loona #이달의소녀 https://t.co/roYW0cDNuh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loonainparis",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "loona",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569739004207046700,
+					"id_str": "1569739004207046656",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FcjVTrfWIAAvxAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcjVTrfWIAAvxAu.jpg",
+					"url": "https://t.co/roYW0cDNuh",
+					"display_url": "pic.twitter.com/roYW0cDNuh",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1569739011308101632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569739004207046700,
+					"id_str": "1569739004207046656",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FcjVTrfWIAAvxAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcjVTrfWIAAvxAu.jpg",
+					"url": "https://t.co/roYW0cDNuh",
+					"display_url": "pic.twitter.com/roYW0cDNuh",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1569739011308101632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150236869,
+			"id_str": "150236869",
+			"name": "KAvenyou • 케이애버뉴",
+			"screen_name": "KAvenyou",
+			"location": "Global",
+			"description": "KAvenyou • 케이애버뉴 (K-Avenue) | 🇸🇬🇫🇷 to 🇰🇷 : Music, Wanderlust, Food, Lifestyle\n\n💌 admin@kavenyou.com\n🔔 Get updated: https://t.co/FENCD85A29",
+			"url": "https://t.co/MJtMOgmfya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MJtMOgmfya",
+							"expanded_url": "http://KAvenyou.com",
+							"display_url": "KAvenyou.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FENCD85A29",
+							"expanded_url": "http://t.me/kavenyou",
+							"display_url": "t.me/kavenyou",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22727,
+			"friends_count": 327,
+			"listed_count": 255,
+			"created_at": "Mon May 31 12:37:04 +0000 2010",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150236869/1552998265",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[COVERAGE] LOONA's concert in Paris is about to begin so fans are screaming their name\n\n#loonainparis #loona #이달의소녀 https://t.co/roYW0cDNuh"
+	},
+	{
 		"created_at": "Tue Sep 13 16:40:10 +0000 2022",
 		"id": 1569718987809857500,
 		"id_str": "1569727648632283137",
