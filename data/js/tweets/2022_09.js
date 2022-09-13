@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 08:45:40 +0000 2022",
+		"id": 1569598459950538800,
+		"id_str": "1569608237124653058",
+		"full_text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇫🇷PARIS🇫🇷 (9.13)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Paris(9.13), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/zpAUikmL4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569597638781341700,
+					"id_str": "1569597638781341696",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FchUvIPakAAK42V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchUvIPakAAK42V.jpg",
+					"url": "https://t.co/zpAUikmL4U",
+					"display_url": "pic.twitter.com/zpAUikmL4U",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1569598459950538752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569597638781341700,
+					"id_str": "1569597638781341696",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FchUvIPakAAK42V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchUvIPakAAK42V.jpg",
+					"url": "https://t.co/zpAUikmL4U",
+					"display_url": "pic.twitter.com/zpAUikmL4U",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1569598459950538752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149414,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇫🇷PARIS🇫🇷 (9.13)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in Paris(9.13), an email📧 will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/zpAUikmL4U"
+	},
+	{
+		"created_at": "Tue Sep 13 08:45:37 +0000 2022",
+		"id": 1569596331555000300,
+		"id_str": "1569608224067788808",
+		"full_text": "Orbit in [🇫🇷PARIS 🇫🇷]\nThose attending the show on SEPT 13!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in PARIS is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinParis #LOONATHEWORLD https://t.co/Y3pcYVdNyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "LOONAinParis",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						237,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569596305105719300,
+					"id_str": "1569596305105719296",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FchThf6XkAAboOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchThf6XkAAboOt.jpg",
+					"url": "https://t.co/Y3pcYVdNyH",
+					"display_url": "pic.twitter.com/Y3pcYVdNyH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1569596331555000321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569596305105719300,
+					"id_str": "1569596305105719296",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FchThf6XkAAboOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchThf6XkAAboOt.jpg",
+					"url": "https://t.co/Y3pcYVdNyH",
+					"display_url": "pic.twitter.com/Y3pcYVdNyH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1569596331555000321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1772,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569596326983225300,
+					"id_str": "1569596326983225346",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FchTixaX0AI5Xa7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchTixaX0AI5Xa7.jpg",
+					"url": "https://t.co/Y3pcYVdNyH",
+					"display_url": "pic.twitter.com/Y3pcYVdNyH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1569596331555000321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149414,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit in [🇫🇷PARIS 🇫🇷]\nThose attending the show on SEPT 13!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in PARIS is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinParis #LOONATHEWORLD https://t.co/Y3pcYVdNyH"
+	},
+	{
+		"created_at": "Tue Sep 13 08:40:29 +0000 2022",
+		"id": 1569602878280708000,
+		"id_str": "1569606933094535169",
+		"full_text": "@2sunkyu @jALhYEjuN 나 좀 조",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2sunkyu",
+					"name": "이선규",
+					"id": 126699468,
+					"id_str": "126699468",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jALhYEjuN",
+					"name": "이애매 / EMA",
+					"id": 82617783,
+					"id_str": "82617783",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569585925365338000,
+		"in_reply_to_status_id_str": "1569585925365338117",
+		"in_reply_to_user_id": 126699468,
+		"in_reply_to_user_id_str": "126699468",
+		"in_reply_to_screen_name": "2sunkyu",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274240,
+			"friends_count": 591,
+			"listed_count": 2750,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01b444fb442093e5",
+			"url": "https://api.twitter.com/1.1/geo/id/01b444fb442093e5.json",
+			"place_type": "city",
+			"name": "용인시",
+			"full_name": "대한민국 용인시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.019523959949,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.373997325115
+						],
+						[
+							127.019523959949,
+							37.373997325115
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@2sunkyu @jALhYEjuN 나 좀 조"
+	},
+	{
+		"created_at": "Tue Sep 13 08:40:20 +0000 2022",
+		"id": 1569600644667048000,
+		"id_str": "1569606894569897984",
+		"full_text": "The Volunteers will be performing for Slow Life Slow Live Festival 2022. TVT is scheduled to play on October 8. Find out more info on  @slowlifeslowlive !\n\n#thevolunteers #tvt #슬라슬라페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thevolunteers",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "tvt",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "슬라슬라페스티벌",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569600639784857600,
+		"in_reply_to_status_id_str": "1569600639784857600",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8574,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Volunteers will be performing for Slow Life Slow Live Festival 2022. TVT is scheduled to play on October 8. Find out more info on  @slowlifeslowlive !\n\n#thevolunteers #tvt #슬라슬라페스티벌"
+	},
+	{
+		"created_at": "Tue Sep 13 08:40:15 +0000 2022",
+		"id": 1569600639784857600,
+		"id_str": "1569606873178951680",
+		"full_text": "[NOTICE]\n⠀\nThe Volunteers가 'Slow Life Slow Live 2022' 패스티벌에 출연합니다. TVT는 10월 8일 토요일 무대에 함께합니다💥 자세한 내용은 @slowlifeslowlive 에서 확인하세요!\n⠀ https://t.co/Iq0VoqYRWS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569600604665950200,
+					"id_str": "1569600604665950208",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FchXbxBaMAAqA-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchXbxBaMAAqA-i.jpg",
+					"url": "https://t.co/Iq0VoqYRWS",
+					"display_url": "pic.twitter.com/Iq0VoqYRWS",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1569600639784857600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569600604665950200,
+					"id_str": "1569600604665950208",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FchXbxBaMAAqA-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchXbxBaMAAqA-i.jpg",
+					"url": "https://t.co/Iq0VoqYRWS",
+					"display_url": "pic.twitter.com/Iq0VoqYRWS",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1569600639784857600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569600604661764000,
+					"id_str": "1569600604661764097",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FchXbxAaUAE4oOA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchXbxAaUAE4oOA.jpg",
+					"url": "https://t.co/Iq0VoqYRWS",
+					"display_url": "pic.twitter.com/Iq0VoqYRWS",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1569600639784857600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8574,
+			"friends_count": 2,
+			"listed_count": 64,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544983744871706624/TLnHQOLR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1657187815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n⠀\nThe Volunteers가 'Slow Life Slow Live 2022' 패스티벌에 출연합니다. TVT는 10월 8일 토요일 무대에 함께합니다💥 자세한 내용은 @slowlifeslowlive 에서 확인하세요!\n⠀ https://t.co/Iq0VoqYRWS"
+	},
+	{
 		"created_at": "Tue Sep 13 07:40:33 +0000 2022",
 		"id": 1569586118970216400,
 		"id_str": "1569591852134793217",
