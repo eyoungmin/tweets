@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 05:40:19 +0000 2022",
+		"id": 1569560350038847500,
+		"id_str": "1569561593037422592",
+		"full_text": "연휴 마지막 날에 열린\n(드디어) \n💕용탄절 🥂🍾💓💕🥳🎂파뤼!!\n\n명절에 만나니 가족애가 \n더더욱 흘러 넘쳤다. \n사랑합니다 \n동료 형제 자매 여러분.\n우리 같이 재미있는 거 많이 하고\n맛있는 거 많이 먹자!! https://t.co/16kkFjbZwm https://t.co/M4NmAE9TX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/16kkFjbZwm",
+					"expanded_url": "https://twitter.com/i/web/status/1569560350038847488",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569560282380521500,
+					"id_str": "1569560282380521472",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgywszaUAAkh2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgywszaUAAkh2F.jpg",
+					"url": "https://t.co/M4NmAE9TX5",
+					"display_url": "pic.twitter.com/M4NmAE9TX5",
+					"expanded_url": "https://twitter.com/love_yuna/status/1569560350038847488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569560282380521500,
+					"id_str": "1569560282380521472",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgywszaUAAkh2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgywszaUAAkh2F.jpg",
+					"url": "https://t.co/M4NmAE9TX5",
+					"display_url": "pic.twitter.com/M4NmAE9TX5",
+					"expanded_url": "https://twitter.com/love_yuna/status/1569560350038847488/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274243,
+			"friends_count": 591,
+			"listed_count": 2750,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연휴 마지막 날에 열린\n(드디어) \n💕용탄절 🥂🍾💓💕🥳🎂파뤼!!\n\n명절에 만나니 가족애가 \n더더욱 흘러 넘쳤다. \n사랑합니다 \n동료 형제 자매 여러분.\n우리 같이 재미있는 거 많이 하고\n맛있는 거 많이 먹자!! https://t.co/16kkFjbZwm https://t.co/M4NmAE9TX5"
+	},
+	{
 		"created_at": "Tue Sep 13 03:40:40 +0000 2022",
 		"id": 1569468641288290300,
 		"id_str": "1569531482506493952",
