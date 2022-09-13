@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 12:40:10 +0000 2022",
+		"id": 1569657228038373400,
+		"id_str": "1569667251019595777",
+		"full_text": "🎥\nいよいよこの後0:00よりLOONA JAPAN 2nd SINGLE 「LUMINOUS 」の先行配信がスタート🎉\n\nティザー第3弾が公開されたので是非チェック✔️して下さい👀\n\n［Teaser］LOONA (今月の少女) \"LUMINOUS 3\": https://t.co/KQbJdiIPBn\n\n先行配信はコチラ👉https://t.co/QmzwCqHiCK\n※9/14（水）より0:00有効 https://t.co/DpFoNWBxjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQbJdiIPBn",
+					"expanded_url": "https://youtube.com/shorts/AAtonTd-J0Y",
+					"display_url": "youtube.com/shorts/AAtonTd…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/QmzwCqHiCK",
+					"expanded_url": "https://lnk.to/loonaLN",
+					"display_url": "lnk.to/loonaLN",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569657223449804800,
+					"id_str": "1569657223449804808",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FciK7abaAAg9Nqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FciK7abaAAg9Nqc.jpg",
+					"url": "https://t.co/DpFoNWBxjt",
+					"display_url": "pic.twitter.com/DpFoNWBxjt",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569657228038373377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569657223449804800,
+					"id_str": "1569657223449804808",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FciK7abaAAg9Nqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FciK7abaAAg9Nqc.jpg",
+					"url": "https://t.co/DpFoNWBxjt",
+					"display_url": "pic.twitter.com/DpFoNWBxjt",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569657228038373377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1020,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98871,
+			"friends_count": 2,
+			"listed_count": 758,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1892,
+		"favorite_count": 5052,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎥\nいよいよこの後0:00よりLOONA JAPAN 2nd SINGLE 「LUMINOUS 」の先行配信がスタート🎉\n\nティザー第3弾が公開されたので是非チェック✔️して下さい👀\n\n［Teaser］LOONA (今月の少女) \"LUMINOUS 3\": https://t.co/KQbJdiIPBn\n\n先行配信はコチラ👉https://t.co/QmzwCqHiCK\n※9/14（水）より0:00有効 https://t.co/DpFoNWBxjt"
+	},
+	{
 		"created_at": "Tue Sep 13 11:40:16 +0000 2022",
 		"id": 1569647971175911400,
 		"id_str": "1569652175738896384",
