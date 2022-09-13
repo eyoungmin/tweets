@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 10:40:32 +0000 2022",
+		"id": 1569611847036182500,
+		"id_str": "1569637147115765761",
+		"full_text": "[#아슈 Quiz]\n\n아-아! 📢\n#이달의소녀(@loonatheworld) 박사님들이\n아슈 연구소에 찾아왔습니다❗️\n\n하슬, 김립, 진솔 박사가 준비한 퀴즈!\n여러분도 함께 맞혀보세요🔍\n\n👇퀴즈 이벤트도 진행 중이니까 스레드도 확인!👇\n\n#LOONA #이달소 #아이돌슈타인\n#아체라 #아체라스튜디오 #ACL https://t.co/q9KGjMd7IR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아슈",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "아체라",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "아체라스튜디오",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "ACL",
+					"indices": [
+						167,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567045145346076700,
+					"id_str": "1567045145346076672",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567045145346076672/pu/img/RtsAiiDbG-yECx1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567045145346076672/pu/img/RtsAiiDbG-yECx1T.jpg",
+					"url": "https://t.co/q9KGjMd7IR",
+					"display_url": "pic.twitter.com/q9KGjMd7IR",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1569611847036182528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567045145346076700,
+					"id_str": "1567045145346076672",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567045145346076672/pu/img/RtsAiiDbG-yECx1T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567045145346076672/pu/img/RtsAiiDbG-yECx1T.jpg",
+					"url": "https://t.co/q9KGjMd7IR",
+					"display_url": "pic.twitter.com/q9KGjMd7IR",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1569611847036182528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22622,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567045145346076672/pu/vid/720x1280/s0XpEcvkO4CYXTSZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567045145346076672/pu/vid/480x852/J_g6bWkTjIXaNERE.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567045145346076672/pu/vid/320x568/f0Go4dNBa1ni1P4b.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567045145346076672/pu/pl/vAnGPcab-sQX9g3i.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5061,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1662973258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 1823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아슈 Quiz]\n\n아-아! 📢\n#이달의소녀(@loonatheworld) 박사님들이\n아슈 연구소에 찾아왔습니다❗️\n\n하슬, 김립, 진솔 박사가 준비한 퀴즈!\n여러분도 함께 맞혀보세요🔍\n\n👇퀴즈 이벤트도 진행 중이니까 스레드도 확인!👇\n\n#LOONA #이달소 #아이돌슈타인\n#아체라 #아체라스튜디오 #ACL https://t.co/q9KGjMd7IR"
+	},
+	{
+		"created_at": "Tue Sep 13 10:40:25 +0000 2022",
+		"id": 1569631452215533600,
+		"id_str": "1569637116786741249",
+		"full_text": "22 Make is fluffy hats, lobster hats and kissing and it's out in less than 4 weeks omg omg omg who has pre-ordered it yet https://t.co/bMxpbJj5fV https://t.co/ZKYPT8iqHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMxpbJj5fV",
+					"expanded_url": "http://OhWonder.lnk.to/22MakeAlbum",
+					"display_url": "OhWonder.lnk.to/22MakeAlbum",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569631143380619300,
+					"id_str": "1569631143380619268",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FchzNWmXkAQ6DGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchzNWmXkAQ6DGk.jpg",
+					"url": "https://t.co/ZKYPT8iqHI",
+					"display_url": "pic.twitter.com/ZKYPT8iqHI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1569631452215533569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569631143380619300,
+					"id_str": "1569631143380619268",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FchzNWmXkAQ6DGk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchzNWmXkAQ6DGk.jpg",
+					"url": "https://t.co/ZKYPT8iqHI",
+					"display_url": "pic.twitter.com/ZKYPT8iqHI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1569631452215533569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569631143414169600,
+					"id_str": "1569631143414169600",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FchzNWuXgAArI3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchzNWuXgAArI3C.jpg",
+					"url": "https://t.co/ZKYPT8iqHI",
+					"display_url": "pic.twitter.com/ZKYPT8iqHI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1569631452215533569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569631143418380300,
+					"id_str": "1569631143418380289",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FchzNWvXwAE8HAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchzNWvXwAE8HAM.jpg",
+					"url": "https://t.co/ZKYPT8iqHI",
+					"display_url": "pic.twitter.com/ZKYPT8iqHI",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1569631452215533569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165707,
+			"friends_count": 202,
+			"listed_count": 420,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "22 Make is fluffy hats, lobster hats and kissing and it's out in less than 4 weeks omg omg omg who has pre-ordered it yet https://t.co/bMxpbJj5fV https://t.co/ZKYPT8iqHI"
+	},
+	{
+		"created_at": "Tue Sep 13 10:40:20 +0000 2022",
+		"id": 1569627985619337200,
+		"id_str": "1569637094900862976",
+		"full_text": "#aespa #æspa #에스파 #エスパ\n#NINGNING #ニンニン",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "ニンニン",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569626950083174400,
+		"in_reply_to_status_id_str": "1569626950083174400",
+		"in_reply_to_user_id": 1518523440814198800,
+		"in_reply_to_user_id_str": "1518523440814198785",
+		"in_reply_to_screen_name": "aespaJPofficial",
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211716,
+			"friends_count": 1,
+			"listed_count": 598,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 957,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#aespa #æspa #에스파 #エスパ\n#NINGNING #ニンニン"
+	},
+	{
+		"created_at": "Tue Sep 13 10:40:12 +0000 2022",
+		"id": 1569626950083174400,
+		"id_str": "1569637060482416640",
+		"full_text": "[💭]\n#aespa_diaries　TGC\n\n今回のaespa diariesでは、先日aespaが参加した東京ガールズコレクションの思い出を振り返ります🧚✨\nまずはニンニンのセルフィーをお届け🦋\n出番を待っている間、歌を歌ったりスタッフに向かってモデルウォークを披露したりと、お茶目さと歌声で楽屋を明るくしていました💪 https://t.co/g52YZkPgtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_diaries",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569531218814996500,
+					"id_str": "1569531218814996480",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgYU-lakAAl4V8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgYU-lakAAl4V8.jpg",
+					"url": "https://t.co/g52YZkPgtl",
+					"display_url": "pic.twitter.com/g52YZkPgtl",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1569626950083174400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569531218814996500,
+					"id_str": "1569531218814996480",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgYU-lakAAl4V8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgYU-lakAAl4V8.jpg",
+					"url": "https://t.co/g52YZkPgtl",
+					"display_url": "pic.twitter.com/g52YZkPgtl",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1569626950083174400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 211716,
+			"friends_count": 1,
+			"listed_count": 598,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1678,
+		"favorite_count": 7839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💭]\n#aespa_diaries　TGC\n\n今回のaespa diariesでは、先日aespaが参加した東京ガールズコレクションの思い出を振り返ります🧚✨\nまずはニンニンのセルフィーをお届け🦋\n出番を待っている間、歌を歌ったりスタッフに向かってモデルウォークを披露したりと、お茶目さと歌声で楽屋を明るくしていました💪 https://t.co/g52YZkPgtl"
+	},
+	{
 		"created_at": "Tue Sep 13 09:49:46 +0000 2022",
 		"id": 1569612035125837800,
 		"id_str": "1569624371341438977",
@@ -1101,7 +1954,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
