@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 00:40:10 +0000 2022",
+		"id": 1569834744514498600,
+		"id_str": "1569848445246099456",
+		"full_text": "View from the crowd. 🎥 @leolacerda/IG https://t.co/O4fNrNyhMd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569834707512066000,
+					"id_str": "1569834707512066050",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569834707512066050/pu/img/i-i7_9OjFdHYPBLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569834707512066050/pu/img/i-i7_9OjFdHYPBLm.jpg",
+					"url": "https://t.co/O4fNrNyhMd",
+					"display_url": "pic.twitter.com/O4fNrNyhMd",
+					"expanded_url": "https://twitter.com/coldplay/status/1569834744514498561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569834707512066000,
+					"id_str": "1569834707512066050",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569834707512066050/pu/img/i-i7_9OjFdHYPBLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569834707512066050/pu/img/i-i7_9OjFdHYPBLm.jpg",
+					"url": "https://t.co/O4fNrNyhMd",
+					"display_url": "pic.twitter.com/O4fNrNyhMd",
+					"expanded_url": "https://twitter.com/coldplay/status/1569834744514498561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							31,
+							40
+						],
+						"duration_millis": 8038,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569834707512066050/pu/pl/vvywFagbCNnO5Qpu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569834707512066050/pu/vid/320x412/FTwfWvhgoErtO2RG.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569834707512066050/pu/vid/372x480/g7RFEsg4PPr4J0iF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569399554390524000,
+		"in_reply_to_status_id_str": "1569399554390523904",
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Lima, Peru",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23656480,
+			"friends_count": 780,
+			"listed_count": 42422,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 1503,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "View from the crowd. 🎥 @leolacerda/IG https://t.co/O4fNrNyhMd"
+	},
+	{
 		"created_at": "Tue Sep 13 21:45:40 +0000 2022",
 		"id": 1569803331278618600,
 		"id_str": "1569804530140807169",
