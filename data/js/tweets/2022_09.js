@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 15:45:37 +0000 2022",
+		"id": 1570064956858695700,
+		"id_str": "1570076307890872325",
+		"full_text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇬🇧LONDON🇬🇧 (9.16)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in London(9.16), an email will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/dbqccl28Rm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570064953343676400,
+					"id_str": "1570064953343676416",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn9wapXEAAw0SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn9wapXEAAw0SA.jpg",
+					"url": "https://t.co/dbqccl28Rm",
+					"display_url": "pic.twitter.com/dbqccl28Rm",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1570064956858695680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570064953343676400,
+					"id_str": "1570064953343676416",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn9wapXEAAw0SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn9wapXEAAw0SA.jpg",
+					"url": "https://t.co/dbqccl28Rm",
+					"display_url": "pic.twitter.com/dbqccl28Rm",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1570064956858695680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149306,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LOONATHEWORLD] Meet &amp; Greet Event in EUROPE🌍\n\n[🇬🇧LONDON🇬🇧 (9.16)]\n\n#Orbit! If you purchased a ticket to the meet&amp;greet event w/ #LOONA in London(9.16), an email will be sent soon! In the meantime, please check below!\n\nUpdates will be made using this thread. https://t.co/dbqccl28Rm"
+	},
+	{
+		"created_at": "Wed Sep 14 15:40:10 +0000 2022",
+		"id": 1570064877804466200,
+		"id_str": "1570074936651251712",
+		"full_text": "#BLACKPINK ‘BORN PINK’ D-1 Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #D_1 #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/FCTFY72iMh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "D_1",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						128,
+						145
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570064057771888600,
+					"id_str": "1570064057771888641",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn88SYaEAEECZo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn88SYaEAEECZo.jpg",
+					"url": "https://t.co/FCTFY72iMh",
+					"display_url": "pic.twitter.com/FCTFY72iMh",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570064877804466181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570064057771888600,
+					"id_str": "1570064057771888641",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcn88SYaEAEECZo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcn88SYaEAEECZo.jpg",
+					"url": "https://t.co/FCTFY72iMh",
+					"display_url": "pic.twitter.com/FCTFY72iMh",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570064877804466181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8921285,
+			"friends_count": 36,
+			"listed_count": 9843,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22501,
+		"favorite_count": 49190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ D-1 Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #D_1 #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/FCTFY72iMh"
+	},
+	{
 		"created_at": "Wed Sep 14 14:40:10 +0000 2022",
 		"id": 1570048987985485800,
 		"id_str": "1570059837802967040",
