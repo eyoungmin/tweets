@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 06:45:37 +0000 2022",
+		"id": 1569936609272897500,
+		"id_str": "1569940414160830464",
+		"full_text": "#LOONA (@loonaJPofficial) の\n\"#LUMINOUS\" が先行配信開始👏\n\n9月28日発売予定の\n日本2ndシングル「LUMINOUS」\nのタイトル曲が本日リリース🎧\n\n#Spotify でチェックしてね✨\n▶︎https://t.co/TA3vLNBXh3\n\n@loonatheworld https://t.co/c5Yc3UjtDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TA3vLNBXh3",
+					"expanded_url": "https://bit.ly/3d98PY3",
+					"display_url": "bit.ly/3d98PY3",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569867730987413500,
+					"id_str": "1569867730987413505",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569867730987413505/img/JxCpXmuMT1FM_zIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569867730987413505/img/JxCpXmuMT1FM_zIK.jpg",
+					"url": "https://t.co/c5Yc3UjtDg",
+					"display_url": "pic.twitter.com/c5Yc3UjtDg",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1569936609272897537/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569867730987413500,
+					"id_str": "1569867730987413505",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569867730987413505/img/JxCpXmuMT1FM_zIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569867730987413505/img/JxCpXmuMT1FM_zIK.jpg",
+					"url": "https://t.co/c5Yc3UjtDg",
+					"display_url": "pic.twitter.com/c5Yc3UjtDg",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1569936609272897537/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28945,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569867730987413505/vid/1280x720/kVRdQgDW6JT-9kXs.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569867730987413505/vid/640x360/k7L-K01PpDY_ro5D.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569867730987413505/vid/480x270/EQU52ykL04BAZYAP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569867730987413505/pl/5GE38gjcYuCEufMn.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽からポッドキャストまで。8,000万以上の楽曲と400万番組以上のポッドキャストが楽しめる🎵 4億3,300万人以上のファンに選ばれている、世界最大オーディオ ストリーミングサービスSpotify（スポティファイ）💚 カスタマーサポート👉 @SpotifyCaresJP",
+			"url": "https://t.co/8TdfurAP0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfurAP0w",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245576,
+			"friends_count": 1661,
+			"listed_count": 1149,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 18388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1561497779712966656/RUGWZo9E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561497779712966656/RUGWZo9E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1661125202",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONA (@loonaJPofficial) の\n\"#LUMINOUS\" が先行配信開始👏\n\n9月28日発売予定の\n日本2ndシングル「LUMINOUS」\nのタイトル曲が本日リリース🎧\n\n#Spotify でチェックしてね✨\n▶︎https://t.co/TA3vLNBXh3\n\n@loonatheworld https://t.co/c5Yc3UjtDg"
+	},
+	{
 		"created_at": "Wed Sep 14 05:40:37 +0000 2022",
 		"id": 1569921539319165000,
 		"id_str": "1569924054852706305",
