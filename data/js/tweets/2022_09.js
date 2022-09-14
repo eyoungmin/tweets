@@ -1,6 +1,2747 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 04:40:46 +0000 2022",
+		"id": 1569899222425809000,
+		"id_str": "1569908992918388736",
+		"full_text": "COSMOアプリに登録したメールアドレスをお知らせいただくことでファーストクラスオブジェクトを提供することができます。\n\nディスコードリンク : https://t.co/QgFKoAdKOg\n\n@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307 https://t.co/2PRRqdwPT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YYNS_yyns",
+					"name": "유여니스",
+					"id": 1483879611456913400,
+					"id_str": "1483879611456913408",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "naaeagi",
+					"name": "딩ㅇi",
+					"id": 1039322719140171800,
+					"id_str": "1039322719140171776",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"screen_name": "Yoo60558721",
+					"name": "Yoo",
+					"id": 844544932350246900,
+					"id_str": "844544932350246913",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QgFKoAdKOg",
+					"expanded_url": "https://discord.gg/triplescosmos",
+					"display_url": "discord.gg/triplescosmos",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569898885220532200,
+					"id_str": "1569898885220532224",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclmt-raAAAJ4_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclmt-raAAAJ4_h.jpg",
+					"url": "https://t.co/2PRRqdwPT1",
+					"display_url": "pic.twitter.com/2PRRqdwPT1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899222425808898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569898885220532200,
+					"id_str": "1569898885220532224",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclmt-raAAAJ4_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclmt-raAAAJ4_h.jpg",
+					"url": "https://t.co/2PRRqdwPT1",
+					"display_url": "pic.twitter.com/2PRRqdwPT1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899222425808898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569899217946312700,
+		"in_reply_to_status_id_str": "1569899217946312705",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "COSMOアプリに登録したメールアドレスをお知らせいただくことでファーストクラスオブジェクトを提供することができます。\n\nディスコードリンク : https://t.co/QgFKoAdKOg\n\n@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307 https://t.co/2PRRqdwPT1"
+	},
+	{
+		"created_at": "Wed Sep 14 04:40:37 +0000 2022",
+		"id": 1569899217946312700,
+		"id_str": "1569908958839672832",
+		"full_text": "tripleSxGS25コンビニ最高の組み合わせ探し優勝者！\n\nGS25レシピイベントにご参加いただいたすべての方々に感謝いたします！🎉\n\nイベント当選者は私たちのディスコードに入ってメールアドレスを教えてください！\n\n#tripleS #트리플에스 #トリプルS https://t.co/R2OKXr0cTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569898733307043800,
+					"id_str": "1569898733307043841",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmlIwaIAESMjz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmlIwaIAESMjz.jpg",
+					"url": "https://t.co/R2OKXr0cTH",
+					"display_url": "pic.twitter.com/R2OKXr0cTH",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899217946312705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569898733307043800,
+					"id_str": "1569898733307043841",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmlIwaIAESMjz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmlIwaIAESMjz.jpg",
+					"url": "https://t.co/R2OKXr0cTH",
+					"display_url": "pic.twitter.com/R2OKXr0cTH",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899217946312705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569899212829245400,
+		"in_reply_to_status_id_str": "1569899212829245440",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "tripleSxGS25コンビニ最高の組み合わせ探し優勝者！\n\nGS25レシピイベントにご参加いただいたすべての方々に感謝いたします！🎉\n\nイベント当選者は私たちのディスコードに入ってメールアドレスを教えてください！\n\n#tripleS #트리플에스 #トリプルS https://t.co/R2OKXr0cTH"
+	},
+	{
+		"created_at": "Wed Sep 14 04:40:28 +0000 2022",
+		"id": 1569899212829245400,
+		"id_str": "1569908920407445505",
+		"full_text": "Your email must match that of COSMO’s to receive your First Class Objekt.\n\nDiscord link: https://t.co/QgFKoAdKOg\n\n@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307\n\n#tripleS #트리플에스 #トリプルS https://t.co/REJi9jCrIK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						241,
+						247
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						248,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YYNS_yyns",
+					"name": "유여니스",
+					"id": 1483879611456913400,
+					"id_str": "1483879611456913408",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"screen_name": "naaeagi",
+					"name": "딩ㅇi",
+					"id": 1039322719140171800,
+					"id_str": "1039322719140171776",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"screen_name": "Yoo60558721",
+					"name": "Yoo",
+					"id": 844544932350246900,
+					"id_str": "844544932350246913",
+					"indices": [
+						134,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QgFKoAdKOg",
+					"expanded_url": "https://discord.gg/triplescosmos",
+					"display_url": "discord.gg/triplescosmos",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569898576071004200,
+					"id_str": "1569898576071004163",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclmb_AakAMZzok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclmb_AakAMZzok.jpg",
+					"url": "https://t.co/REJi9jCrIK",
+					"display_url": "pic.twitter.com/REJi9jCrIK",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899212829245440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569898576071004200,
+					"id_str": "1569898576071004163",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclmb_AakAMZzok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclmb_AakAMZzok.jpg",
+					"url": "https://t.co/REJi9jCrIK",
+					"display_url": "pic.twitter.com/REJi9jCrIK",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899212829245440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569899207829651500,
+		"in_reply_to_status_id_str": "1569899207829651459",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your email must match that of COSMO’s to receive your First Class Objekt.\n\nDiscord link: https://t.co/QgFKoAdKOg\n\n@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307\n\n#tripleS #트리플에스 #トリプルS https://t.co/REJi9jCrIK"
+	},
+	{
+		"created_at": "Wed Sep 14 04:40:26 +0000 2022",
+		"id": 1569899207829651500,
+		"id_str": "1569908911293042695",
+		"full_text": "triples x GS25 Convenience store recipe contest winner!\n\nThank you to all our fans who participated in this event!🎉\nIf you’re one of our winners please join our Discord server and send in your email!\n\n#tripleS #트리플에스 #トリプルS https://t.co/Rqhg3vYtb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569899057694544000,
+					"id_str": "1569899057694543874",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclm4BMakAI8bak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclm4BMakAI8bak.jpg",
+					"url": "https://t.co/Rqhg3vYtb2",
+					"display_url": "pic.twitter.com/Rqhg3vYtb2",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899207829651459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569899057694544000,
+					"id_str": "1569899057694543874",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/Fclm4BMakAI8bak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fclm4BMakAI8bak.jpg",
+					"url": "https://t.co/Rqhg3vYtb2",
+					"display_url": "pic.twitter.com/Rqhg3vYtb2",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899207829651459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569899203157164000,
+		"in_reply_to_status_id_str": "1569899203157164032",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "triples x GS25 Convenience store recipe contest winner!\n\nThank you to all our fans who participated in this event!🎉\nIf you’re one of our winners please join our Discord server and send in your email!\n\n#tripleS #트리플에스 #トリプルS https://t.co/Rqhg3vYtb2"
+	},
+	{
+		"created_at": "Wed Sep 14 04:40:18 +0000 2022",
+		"id": 1569899203157164000,
+		"id_str": "1569908877268754434",
+		"full_text": "@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307\n\n#tripleS #트리플에스 #トリプルS https://t.co/5oJ2NcEB1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YYNS_yyns",
+					"name": "유여니스",
+					"id": 1483879611456913400,
+					"id_str": "1483879611456913408",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "naaeagi",
+					"name": "딩ㅇi",
+					"id": 1039322719140171800,
+					"id_str": "1039322719140171776",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "Yoo60558721",
+					"name": "Yoo",
+					"id": 844544932350246900,
+					"id_str": "844544932350246913",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569898293479747600,
+					"id_str": "1569898293479747585",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmLiRaMAEEIu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmLiRaMAEEIu-.jpg",
+					"url": "https://t.co/5oJ2NcEB1J",
+					"display_url": "pic.twitter.com/5oJ2NcEB1J",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899203157164032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569898293479747600,
+					"id_str": "1569898293479747585",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmLiRaMAEEIu-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmLiRaMAEEIu-.jpg",
+					"url": "https://t.co/5oJ2NcEB1J",
+					"display_url": "pic.twitter.com/5oJ2NcEB1J",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899203157164032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1569899198526664700,
+		"in_reply_to_status_id_str": "1569899198526664704",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "@YYNS_yyns\n@naaeagi\n@Yoo60558721\n@guinnmyah__\nyubin2731\nteab0y2\nNamnow\nthshqd@gmail.com\n김지웅#3196\nitzhamsteryuri#8307\n\n#tripleS #트리플에스 #トリプルS https://t.co/5oJ2NcEB1J"
+	},
+	{
+		"created_at": "Wed Sep 14 04:40:10 +0000 2022",
+		"id": 1569899198526664700,
+		"id_str": "1569908842988814338",
+		"full_text": "tripleS x GS25 편의점 꿀 조합 찾기 우승자!\n\nGS25 레시피 이벤트에 참여해 주신 모든 분들께 감사드립니다!🎉\n이벤트 당첨자이실 경우 저희 디스코드로 들어오셔서 이메일 주소를 알려주세요!\n\n디스코드 링크 : https://t.co/QgFKoAdKOg\n\n#tripleS #트리플에스 #トリプルS https://t.co/HvE4KRoiv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgFKoAdKOg",
+					"expanded_url": "https://discord.gg/triplescosmos",
+					"display_url": "discord.gg/triplescosmos",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569898259623329800,
+					"id_str": "1569898259623329795",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmJkJaQAMc_Qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmJkJaQAMc_Qm.jpg",
+					"url": "https://t.co/HvE4KRoiv1",
+					"display_url": "pic.twitter.com/HvE4KRoiv1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899198526664704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569898259623329800,
+					"id_str": "1569898259623329795",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FclmJkJaQAMc_Qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclmJkJaQAMc_Qm.jpg",
+					"url": "https://t.co/HvE4KRoiv1",
+					"display_url": "pic.twitter.com/HvE4KRoiv1",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569899198526664704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS x GS25 편의점 꿀 조합 찾기 우승자!\n\nGS25 레시피 이벤트에 참여해 주신 모든 분들께 감사드립니다!🎉\n이벤트 당첨자이실 경우 저희 디스코드로 들어오셔서 이메일 주소를 알려주세요!\n\n디스코드 링크 : https://t.co/QgFKoAdKOg\n\n#tripleS #트리플에스 #トリプルS https://t.co/HvE4KRoiv1"
+	},
+	{
+		"created_at": "Wed Sep 14 03:40:27 +0000 2022",
+		"id": 1569872856728891400,
+		"id_str": "1569893816752029700",
+		"full_text": "[#레벨업프로젝트5]\n방영 캘린더 공개🗓\n9월 23일(금) 오전 11시 #웨이브 에서 첫 방송!\n\n4년 만에 돌아온 #레드벨벳 완전체 리얼리티\n\n🔥많은 관심 불살라빔🔥\n\n@wavve_official @RVsmtown\n#레드벨벳 #RedVelvet \n#아이린 #슬기 #웬디 #조이 #예리 https://t.co/tXbeNF2USQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업프로젝트5",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavve_official",
+					"name": "Wavve (웨이브)",
+					"id": 859926865972043800,
+					"id_str": "859926865972043776",
+					"indices": [
+						95,
+						110
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569872694262505500,
+					"id_str": "1569872694262505472",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FclO5dwaIAAKGtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclO5dwaIAAKGtC.jpg",
+					"url": "https://t.co/tXbeNF2USQ",
+					"display_url": "pic.twitter.com/tXbeNF2USQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569872856728891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569872694262505500,
+					"id_str": "1569872694262505472",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FclO5dwaIAAKGtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclO5dwaIAAKGtC.jpg",
+					"url": "https://t.co/tXbeNF2USQ",
+					"display_url": "pic.twitter.com/tXbeNF2USQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569872856728891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569872694279286800,
+					"id_str": "1569872694279286785",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FclO5d0aMAEJwrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclO5d0aMAEJwrL.jpg",
+					"url": "https://t.co/tXbeNF2USQ",
+					"display_url": "pic.twitter.com/tXbeNF2USQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569872856728891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569872694233149400,
+					"id_str": "1569872694233149440",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FclO5dpaMAASkP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclO5dpaMAASkP2.jpg",
+					"url": "https://t.co/tXbeNF2USQ",
+					"display_url": "pic.twitter.com/tXbeNF2USQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569872856728891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53388,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1663121196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3550,
+		"favorite_count": 6453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업프로젝트5]\n방영 캘린더 공개🗓\n9월 23일(금) 오전 11시 #웨이브 에서 첫 방송!\n\n4년 만에 돌아온 #레드벨벳 완전체 리얼리티\n\n🔥많은 관심 불살라빔🔥\n\n@wavve_official @RVsmtown\n#레드벨벳 #RedVelvet \n#아이린 #슬기 #웬디 #조이 #예리 https://t.co/tXbeNF2USQ"
+	},
+	{
+		"created_at": "Wed Sep 14 03:40:24 +0000 2022",
+		"id": 1569868536389849000,
+		"id_str": "1569893803602878464",
+		"full_text": "[#레벨업프로젝트5]\nFeel my rhythm Come with me\n상상해 봐 뭐든지💗💛💙💚💜\n\n4년 만에 시즌5로 돌아온 레벨업 프로젝트🏝\n9/23(금) 오전 11시 #웨이브 에서 만나요🌊\n\n@wavve_official\n#레드벨벳 #RedVelvet @RVsmtown\n#아이린 #슬기 #웬디 #조이 #예리 https://t.co/OqsJax8YK9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업프로젝트5",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavve_official",
+					"name": "Wavve (웨이브)",
+					"id": 859926865972043800,
+					"id_str": "859926865972043776",
+					"indices": [
+						110,
+						125
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569512928952610800,
+					"id_str": "1569512928952610817",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgHsXiacAE5b-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgHsXiacAE5b-q.jpg",
+					"url": "https://t.co/OqsJax8YK9",
+					"display_url": "pic.twitter.com/OqsJax8YK9",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569868536389849088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569512928952610800,
+					"id_str": "1569512928952610817",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FcgHsXiacAE5b-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcgHsXiacAE5b-q.jpg",
+					"url": "https://t.co/OqsJax8YK9",
+					"display_url": "pic.twitter.com/OqsJax8YK9",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1569868536389849088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53388,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1663121196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3246,
+		"favorite_count": 7314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업프로젝트5]\nFeel my rhythm Come with me\n상상해 봐 뭐든지💗💛💙💚💜\n\n4년 만에 시즌5로 돌아온 레벨업 프로젝트🏝\n9/23(금) 오전 11시 #웨이브 에서 만나요🌊\n\n@wavve_official\n#레드벨벳 #RedVelvet @RVsmtown\n#아이린 #슬기 #웬디 #조이 #예리 https://t.co/OqsJax8YK9"
+	},
+	{
+		"created_at": "Wed Sep 14 03:40:13 +0000 2022",
+		"id": 1569883636857454600,
+		"id_str": "1569893756307906561",
+		"full_text": "지우유빈 JiWooYuBin\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/W8cZ6XKhlo\n\n#tripleS #트리플에스 #トリプルS https://t.co/bplrtLaSOp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W8cZ6XKhlo",
+					"expanded_url": "http://youtu.be/eF9I-oUEzpE",
+					"display_url": "youtu.be/eF9I-oUEzpE",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569875803512651800,
+					"id_str": "1569875803512651777",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569875803512651777/pu/img/W5iYh_npAHgfbVng.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569875803512651777/pu/img/W5iYh_npAHgfbVng.jpg",
+					"url": "https://t.co/bplrtLaSOp",
+					"display_url": "pic.twitter.com/bplrtLaSOp",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569883636857454592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569875803512651800,
+					"id_str": "1569875803512651777",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569875803512651777/pu/img/W5iYh_npAHgfbVng.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569875803512651777/pu/img/W5iYh_npAHgfbVng.jpg",
+					"url": "https://t.co/bplrtLaSOp",
+					"display_url": "pic.twitter.com/bplrtLaSOp",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569883636857454592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13717,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569875803512651777/pu/vid/640x360/HJ656dYK56x_NjyN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569875803512651777/pu/vid/480x270/q9JiYkJ8kKRi_W_I.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569875803512651777/pu/vid/1280x720/lo2MMsRV05m84XZm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569875803512651777/pu/pl/QaPalfvH-ZleSZWG.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13898,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지우유빈 JiWooYuBin\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/W8cZ6XKhlo\n\n#tripleS #트리플에스 #トリプルS https://t.co/bplrtLaSOp"
+	},
+	{
+		"created_at": "Wed Sep 14 03:36:30 +0000 2022",
+		"id": 1569883502463819800,
+		"id_str": "1569892822433804288",
+		"full_text": "#SpotifyxBLACKPINK https://t.co/tbhfrkpssg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tbhfrkpssg",
+					"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456",
+					"display_url": "twitter.com/Spotify/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7430739,
+			"friends_count": 0,
+			"listed_count": 7729,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569868636990611500,
+		"quoted_status_id_str": "1569868636990611456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tbhfrkpssg",
+			"expanded": "https://twitter.com/Spotify/status/1569868636990611456",
+			"display": "twitter.com/Spotify/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 02:00:24 +0000 2022",
+			"id": 1569868636990611500,
+			"id_str": "1569868636990611456",
+			"full_text": ".@BLACKPINK BORN PINK: The Pop-Up Experience will be open only this weekend from 9/16-9/18 in LA. There will be interactive exhibits, a photocard photo booth, exclusive merch and more! Location will be revealed this Thursday on https://t.co/iRzl0AafSU #SpotifyxBLACKPINK https://t.co/DmgtaaRyvO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpotifyxBLACKPINK",
+						"indices": [
+							252,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BLACKPINK",
+						"name": "BLACKPINKOFFICIAL",
+						"id": 1273850774380884000,
+						"id_str": "1273850774380883975",
+						"indices": [
+							1,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iRzl0AafSU",
+						"expanded_url": "http://SpotifyxBLACKPINK.com",
+						"display_url": "SpotifyxBLACKPINK.com",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569868340696612900,
+						"id_str": "1569868340696612864",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"url": "https://t.co/DmgtaaRyvO",
+						"display_url": "pic.twitter.com/DmgtaaRyvO",
+						"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569868340696612900,
+						"id_str": "1569868340696612864",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"url": "https://t.co/DmgtaaRyvO",
+						"display_url": "pic.twitter.com/DmgtaaRyvO",
+						"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/pl/6UpWYHfASAYmj6vd.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/540x540/gHJUKxMowvOJi-kv.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/320x320/gS7lMiX4OKA3vkye.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/720x720/I46dKdV7rA8K8urI.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17230018,
+				"id_str": "17230018",
+				"name": "Spotify",
+				"screen_name": "Spotify",
+				"location": "",
+				"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyLive\nSupport 👉 @SpotifyCares",
+				"url": "https://t.co/5G4Hekn0ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5G4Hekn0ea",
+								"expanded_url": "http://Spotify.com",
+								"display_url": "Spotify.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6304018,
+				"friends_count": 17719,
+				"listed_count": 17258,
+				"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+				"favourites_count": 15567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38845,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1642522924",
+				"profile_link_color": "1ED760",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "ECEBE8",
+				"profile_text_color": "458DBF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7224,
+			"favorite_count": 16673,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8315,
+		"favorite_count": 28879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qht",
+		"text": "#SpotifyxBLACKPINK https://t.co/tbhfrkpssg"
+	},
+	{
+		"created_at": "Wed Sep 14 03:36:30 +0000 2022",
+		"id": 1569886678998986800,
+		"id_str": "1569892822307962880",
+		"full_text": "#SpotifyxBLACKPINK https://t.co/GchbTepRg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						0,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GchbTepRg6",
+					"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456",
+					"display_url": "twitter.com/Spotify/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8512723,
+			"friends_count": 9,
+			"listed_count": 9268,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569868636990611500,
+		"quoted_status_id_str": "1569868636990611456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GchbTepRg6",
+			"expanded": "https://twitter.com/Spotify/status/1569868636990611456",
+			"display": "twitter.com/Spotify/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 02:00:24 +0000 2022",
+			"id": 1569868636990611500,
+			"id_str": "1569868636990611456",
+			"full_text": ".@BLACKPINK BORN PINK: The Pop-Up Experience will be open only this weekend from 9/16-9/18 in LA. There will be interactive exhibits, a photocard photo booth, exclusive merch and more! Location will be revealed this Thursday on https://t.co/iRzl0AafSU #SpotifyxBLACKPINK https://t.co/DmgtaaRyvO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpotifyxBLACKPINK",
+						"indices": [
+							252,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BLACKPINK",
+						"name": "BLACKPINKOFFICIAL",
+						"id": 1273850774380884000,
+						"id_str": "1273850774380883975",
+						"indices": [
+							1,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iRzl0AafSU",
+						"expanded_url": "http://SpotifyxBLACKPINK.com",
+						"display_url": "SpotifyxBLACKPINK.com",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1569868340696612900,
+						"id_str": "1569868340696612864",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"url": "https://t.co/DmgtaaRyvO",
+						"display_url": "pic.twitter.com/DmgtaaRyvO",
+						"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1569868340696612900,
+						"id_str": "1569868340696612864",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569868340696612864/pu/img/atZnigwFUF6-ZQhg.jpg",
+						"url": "https://t.co/DmgtaaRyvO",
+						"display_url": "pic.twitter.com/DmgtaaRyvO",
+						"expanded_url": "https://twitter.com/Spotify/status/1569868636990611456/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/pl/6UpWYHfASAYmj6vd.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/540x540/gHJUKxMowvOJi-kv.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/320x320/gS7lMiX4OKA3vkye.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1569868340696612864/pu/vid/720x720/I46dKdV7rA8K8urI.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17230018,
+				"id_str": "17230018",
+				"name": "Spotify",
+				"screen_name": "Spotify",
+				"location": "",
+				"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyLive\nSupport 👉 @SpotifyCares",
+				"url": "https://t.co/5G4Hekn0ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5G4Hekn0ea",
+								"expanded_url": "http://Spotify.com",
+								"display_url": "Spotify.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6304018,
+				"friends_count": 17719,
+				"listed_count": 17258,
+				"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+				"favourites_count": 15567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38845,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1642522924",
+				"profile_link_color": "1ED760",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "ECEBE8",
+				"profile_text_color": "458DBF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7224,
+			"favorite_count": 16673,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2213,
+		"favorite_count": 8656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qht",
+		"text": "#SpotifyxBLACKPINK https://t.co/GchbTepRg6"
+	},
+	{
 		"created_at": "Wed Sep 14 02:40:10 +0000 2022",
 		"id": 1569877805655269400,
 		"id_str": "1569878643043598336",
