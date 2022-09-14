@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 13:40:10 +0000 2022",
+		"id": 1570034687418200000,
+		"id_str": "1570044738346041346",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nDALLAS∙HOUSTON∙ATLANTA ADDITIONAL SHOWS ANNOUNCEMENT \n\n▶More info: https://t.co/loIfHLJhEb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #DALLAS #HOUSTON #ATLANTA #ADDITIONAL_SHOWS #ANNOUNCEMENT #YG https://t.co/PJTDelHGTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "NORTH_AMERICA",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"text": "DALLAS",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "HOUSTON",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "ATLANTA",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "ADDITIONAL_SHOWS",
+					"indices": [
+						208,
+						225
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						240,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/loIfHLJhEb",
+					"expanded_url": "https://blackpinklive.com",
+					"display_url": "blackpinklive.com",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570033141066371000,
+					"id_str": "1570033141066371077",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcng0sraEAUVXib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcng0sraEAUVXib.jpg",
+					"url": "https://t.co/PJTDelHGTk",
+					"display_url": "pic.twitter.com/PJTDelHGTk",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570034687418200064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570033141066371000,
+					"id_str": "1570033141066371077",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcng0sraEAUVXib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcng0sraEAUVXib.jpg",
+					"url": "https://t.co/PJTDelHGTk",
+					"display_url": "pic.twitter.com/PJTDelHGTk",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570034687418200064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8920916,
+			"friends_count": 36,
+			"listed_count": 9842,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4124,
+		"favorite_count": 13875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nDALLAS∙HOUSTON∙ATLANTA ADDITIONAL SHOWS ANNOUNCEMENT \n\n▶More info: https://t.co/loIfHLJhEb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #DALLAS #HOUSTON #ATLANTA #ADDITIONAL_SHOWS #ANNOUNCEMENT #YG https://t.co/PJTDelHGTk"
+	},
+	{
 		"created_at": "Wed Sep 14 12:40:10 +0000 2022",
 		"id": 1570018964419530800,
 		"id_str": "1570029638922952705",
