@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 11:40:10 +0000 2022",
+		"id": 1570004496536965000,
+		"id_str": "1570014539025891328",
+		"full_text": "[Jeans’ ZINE📹] \nNewJeans School EP.2  | 1분 숏클립\n2022.09.17.(SAT) 5PM KST 뉴진스쿨 수업 시작🏫 \n\n🔗https://t.co/v4e8UODhBg\n\n#NewJeans #뉴진스 #Jeans_ZINE\n#NewJeans_1st_EP  #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "Jeans_ZINE",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						157,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v4e8UODhBg",
+					"expanded_url": "https://youtu.be/IdV3bcTjKZM",
+					"display_url": "youtu.be/IdV3bcTjKZM",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485599,
+			"friends_count": 4,
+			"listed_count": 1533,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 544,
+		"favorite_count": 1976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Jeans’ ZINE📹] \nNewJeans School EP.2  | 1분 숏클립\n2022.09.17.(SAT) 5PM KST 뉴진스쿨 수업 시작🏫 \n\n🔗https://t.co/v4e8UODhBg\n\n#NewJeans #뉴진스 #Jeans_ZINE\n#NewJeans_1st_EP  #WeAreNewJeans"
+	},
+	{
+		"created_at": "Wed Sep 14 11:29:39 +0000 2022",
+		"id": 1570004509564506000,
+		"id_str": "1570011892973801472",
+		"full_text": "Girls' Generation 소녀시대 'Closer' Recording Behind The Scenes\n\nhttps://t.co/aouv5fM2lc\n\n#소녀시대 #GirlsGeneration\n#Closer #Behind\n#FOREVER1 https://t.co/jNDHWtFIwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aouv5fM2lc",
+					"expanded_url": "https://youtu.be/-1Xkhi_-rsg",
+					"display_url": "youtu.be/-1Xkhi_-rsg",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570004498948685800,
+					"id_str": "1570004498948685825",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnGxgeaAAEeZm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnGxgeaAAEeZm7.jpg",
+					"url": "https://t.co/jNDHWtFIwl",
+					"display_url": "pic.twitter.com/jNDHWtFIwl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1570004509564506112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570004498948685800,
+					"id_str": "1570004498948685825",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnGxgeaAAEeZm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnGxgeaAAEeZm7.jpg",
+					"url": "https://t.co/jNDHWtFIwl",
+					"display_url": "pic.twitter.com/jNDHWtFIwl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1570004509564506112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903085,
+			"friends_count": 5,
+			"listed_count": 6216,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4832,
+		"favorite_count": 8101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Generation 소녀시대 'Closer' Recording Behind The Scenes\n\nhttps://t.co/aouv5fM2lc\n\n#소녀시대 #GirlsGeneration\n#Closer #Behind\n#FOREVER1 https://t.co/jNDHWtFIwl"
+	},
+	{
+		"created_at": "Wed Sep 14 11:09:44 +0000 2022",
+		"id": 1570005987909865500,
+		"id_str": "1570006880101060610",
+		"full_text": "다들 맛저하셨나요?\n그럼 영스트리트 들으면서\n소화 한 번 하시죠❗️💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/YlmooitsdF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570005915621036000,
+					"id_str": "1570005915621036032",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnID9_akAAxZ8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnID9_akAAxZ8K.jpg",
+					"url": "https://t.co/YlmooitsdF",
+					"display_url": "pic.twitter.com/YlmooitsdF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1570005987909865485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570005915621036000,
+					"id_str": "1570005915621036032",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnID9_akAAxZ8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnID9_akAAxZ8K.jpg",
+					"url": "https://t.co/YlmooitsdF",
+					"display_url": "pic.twitter.com/YlmooitsdF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1570005987909865485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570005954242179000,
+					"id_str": "1570005954242179072",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnIGN3acAAVIyP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnIGN3acAAVIyP.jpg",
+					"url": "https://t.co/YlmooitsdF",
+					"display_url": "pic.twitter.com/YlmooitsdF",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1570005987909865485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/0hh6Lb9UOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9UOp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5619789,
+			"friends_count": 2,
+			"listed_count": 11309,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2344,
+		"favorite_count": 8359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 맛저하셨나요?\n그럼 영스트리트 들으면서\n소화 한 번 하시죠❗️💙\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/YlmooitsdF"
+	},
+	{
 		"created_at": "Wed Sep 14 10:40:17 +0000 2022",
 		"id": 1569989461777256400,
 		"id_str": "1569999468640047104",
