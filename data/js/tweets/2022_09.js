@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 12:40:10 +0000 2022",
+		"id": 1570018964419530800,
+		"id_str": "1570029638922952705",
+		"full_text": "Heyyyyyy!!!😝여러분 I miss uuuuu!! 오늘 트위터 혼자서 올리는건 처음이라 떨려요🦔 !!! 하지만 너무 행복해😋 오늘도 좋은 밤 되세요!!💖💖luv u! \n\n#NewJeans #다니엘 #DANIELLE https://t.co/IsNFmpfGIB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						113,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570018957918343200,
+					"id_str": "1570018957918343169",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnT7IVaEAEB4S9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnT7IVaEAEB4S9.jpg",
+					"url": "https://t.co/IsNFmpfGIB",
+					"display_url": "pic.twitter.com/IsNFmpfGIB",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1570018964419530752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1326,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570018957918343200,
+					"id_str": "1570018957918343169",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FcnT7IVaEAEB4S9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcnT7IVaEAEB4S9.jpg",
+					"url": "https://t.co/IsNFmpfGIB",
+					"display_url": "pic.twitter.com/IsNFmpfGIB",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1570018964419530752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1326,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101472,
+			"friends_count": 3,
+			"listed_count": 394,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3399,
+		"favorite_count": 12129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Heyyyyyy!!!😝여러분 I miss uuuuu!! 오늘 트위터 혼자서 올리는건 처음이라 떨려요🦔 !!! 하지만 너무 행복해😋 오늘도 좋은 밤 되세요!!💖💖luv u! \n\n#NewJeans #다니엘 #DANIELLE https://t.co/IsNFmpfGIB"
+	},
+	{
 		"created_at": "Wed Sep 14 11:40:10 +0000 2022",
 		"id": 1570004496536965000,
 		"id_str": "1570014539025891328",
