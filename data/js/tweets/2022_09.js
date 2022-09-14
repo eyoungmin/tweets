@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 10:40:17 +0000 2022",
+		"id": 1569989461777256400,
+		"id_str": "1569999468640047104",
+		"full_text": "[💭]\n\n#aespa_diaries　TGC\n\n今日はウィンターのセルフィーをお届け⭐️\n楽屋では和食のお弁当を美味しそうに完食したり、ショーの様子を見たりとマイペースにすごしていました😌\nニンニンの無くしたケータイを探し出したお姉さんらしい一面も👀✨ https://t.co/tZWnqREKvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa_diaries",
+					"indices": [
+						5,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569623581193293800,
+					"id_str": "1569623581193293825",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FchsVLQaUAE-15B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchsVLQaUAE-15B.jpg",
+					"url": "https://t.co/tZWnqREKvS",
+					"display_url": "pic.twitter.com/tZWnqREKvS",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1569989461777256448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569623581193293800,
+					"id_str": "1569623581193293825",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FchsVLQaUAE-15B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FchsVLQaUAE-15B.jpg",
+					"url": "https://t.co/tZWnqREKvS",
+					"display_url": "pic.twitter.com/tZWnqREKvS",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1569989461777256448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212094,
+			"friends_count": 1,
+			"listed_count": 598,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2394,
+		"favorite_count": 10746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[💭]\n\n#aespa_diaries　TGC\n\n今日はウィンターのセルフィーをお届け⭐️\n楽屋では和食のお弁当を美味しそうに完食したり、ショーの様子を見たりとマイペースにすごしていました😌\nニンニンの無くしたケータイを探し出したお姉さんらしい一面も👀✨ https://t.co/tZWnqREKvS"
+	},
+	{
+		"created_at": "Wed Sep 14 10:40:10 +0000 2022",
+		"id": 1569989383910232000,
+		"id_str": "1569999438696927233",
+		"full_text": "아이유와 유애나의 \n&lt;The Golden Hour&gt; D-3\n아이유가 직접 안내하는\n공연 관람 가이드를 들으며\n조금만 더 기다려~💜\n\n💌 https://t.co/HhuFYFQeOz\n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/QixYhD3wjy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HhuFYFQeOz",
+					"expanded_url": "https://youtu.be/4AwnqPoEFnU",
+					"display_url": "youtu.be/4AwnqPoEFnU",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569984180901257200,
+					"id_str": "1569984180901257217",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcm0S12aIAEgjnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcm0S12aIAEgjnb.jpg",
+					"url": "https://t.co/QixYhD3wjy",
+					"display_url": "pic.twitter.com/QixYhD3wjy",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1569989383910232064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569984180901257200,
+					"id_str": "1569984180901257217",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcm0S12aIAEgjnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcm0S12aIAEgjnb.jpg",
+					"url": "https://t.co/QixYhD3wjy",
+					"display_url": "pic.twitter.com/QixYhD3wjy",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1569989383910232064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1460284,
+			"friends_count": 0,
+			"listed_count": 2332,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1208,
+		"favorite_count": 3316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유와 유애나의 \n&lt;The Golden Hour&gt; D-3\n아이유가 직접 안내하는\n공연 관람 가이드를 들으며\n조금만 더 기다려~💜\n\n💌 https://t.co/HhuFYFQeOz\n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/QixYhD3wjy"
+	},
+	{
 		"created_at": "Wed Sep 14 09:40:40 +0000 2022",
 		"id": 1569978676590289000,
 		"id_str": "1569984464972926976",
