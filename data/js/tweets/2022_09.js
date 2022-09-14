@@ -1,6 +1,1250 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 09:40:40 +0000 2022",
+		"id": 1569978676590289000,
+		"id_str": "1569984464972926976",
+		"full_text": "☺️🙃 #NewJeans #하니 #hanni https://t.co/OLiCWHLCSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "hanni",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569978668528849000,
+					"id_str": "1569978668528848896",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmvR-qaUAAQpSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmvR-qaUAAQpSX.jpg",
+					"url": "https://t.co/OLiCWHLCSH",
+					"display_url": "pic.twitter.com/OLiCWHLCSH",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1569978676590288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569978668528849000,
+					"id_str": "1569978668528848896",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmvR-qaUAAQpSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmvR-qaUAAQpSX.jpg",
+					"url": "https://t.co/OLiCWHLCSH",
+					"display_url": "pic.twitter.com/OLiCWHLCSH",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1569978676590288896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569978300851957800,
+		"in_reply_to_status_id_str": "1569978300851957760",
+		"in_reply_to_user_id": 1476466754641891300,
+		"in_reply_to_user_id_str": "1476466754641891328",
+		"in_reply_to_screen_name": "NewJeans_twt",
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95932,
+			"friends_count": 3,
+			"listed_count": 364,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1395,
+		"favorite_count": 4209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☺️🙃 #NewJeans #하니 #hanni https://t.co/OLiCWHLCSH"
+	},
+	{
+		"created_at": "Wed Sep 14 09:40:32 +0000 2022",
+		"id": 1569978300851957800,
+		"id_str": "1569984435054956554",
+		"full_text": "night stroll ✨🌙   #NewJeans #하니 #hanni https://t.co/Bcn3fTBtSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "hanni",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569978257273139200,
+					"id_str": "1569978257273139200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569978257273139200/pu/img/YPe-l6hdRnBHiVcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569978257273139200/pu/img/YPe-l6hdRnBHiVcS.jpg",
+					"url": "https://t.co/Bcn3fTBtSZ",
+					"display_url": "pic.twitter.com/Bcn3fTBtSZ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1569978300851957760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 826,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569978257273139200,
+					"id_str": "1569978257273139200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569978257273139200/pu/img/YPe-l6hdRnBHiVcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569978257273139200/pu/img/YPe-l6hdRnBHiVcS.jpg",
+					"url": "https://t.co/Bcn3fTBtSZ",
+					"display_url": "pic.twitter.com/Bcn3fTBtSZ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1569978300851957760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 826,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							413,
+							529
+						],
+						"duration_millis": 1896,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569978257273139200/pu/vid/720x922/ot6EYY362yIC4rO2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569978257273139200/pu/pl/cXzLAb2evaBaYppb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569978257273139200/pu/vid/320x408/mXlSIFofTNmuDvRm.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569978257273139200/pu/vid/480x614/xS7yyZI0C0TX-DmR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95932,
+			"friends_count": 3,
+			"listed_count": 364,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2874,
+		"favorite_count": 7566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "night stroll ✨🌙   #NewJeans #하니 #hanni https://t.co/Bcn3fTBtSZ"
+	},
+	{
+		"created_at": "Wed Sep 14 09:40:26 +0000 2022",
+		"id": 1569974243751854000,
+		"id_str": "1569984409217949702",
+		"full_text": "🌕#LOONA 🌙\n日本2ndシングルより「#LUMINOUS」先行配信開始💎\n🎧https://t.co/vxTfwayGEy\n\n華やかなビジュのイダレからメッセージ到着👸🖤\n\n彼女たちそれぞれの輝きが詰まった一曲🌹\n今月末のシングルリリース、日本初単独公演も楽しみ...♡\n#LOOΠΔ #今月の少女 @loonaJPofficial https://t.co/BNld6cEdPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "LOOΠΔ",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						153,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vxTfwayGEy",
+					"expanded_url": "https://amzn.to/3B98tbM",
+					"display_url": "amzn.to/3B98tbM",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569936241302589400,
+					"id_str": "1569936241302589440",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmI5GjacAEyCQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmI5GjacAEyCQs.jpg",
+					"url": "https://t.co/BNld6cEdPY",
+					"display_url": "pic.twitter.com/BNld6cEdPY",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1569974243751854081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569936241302589400,
+					"id_str": "1569936241302589440",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmI5GjacAEyCQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmI5GjacAEyCQs.jpg",
+					"url": "https://t.co/BNld6cEdPY",
+					"display_url": "pic.twitter.com/BNld6cEdPY",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1569974243751854081/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22389,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569936241302589440/pl/uflejOQEva--fHRq.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569936241302589440/vid/480x270/FYADVBpaK85zJmGR.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569936241302589440/vid/1280x720/DjwtX1TO1qcYGKbg.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569936241302589440/vid/640x360/g9qzup1peGpZa20q.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/7OrQKXIK8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7OrQKXIK8g",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231292,
+			"friends_count": 2354,
+			"listed_count": 655,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1634720558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🌕#LOONA 🌙\n日本2ndシングルより「#LUMINOUS」先行配信開始💎\n🎧https://t.co/vxTfwayGEy\n\n華やかなビジュのイダレからメッセージ到着👸🖤\n\n彼女たちそれぞれの輝きが詰まった一曲🌹\n今月末のシングルリリース、日本初単独公演も楽しみ...♡\n#LOOΠΔ #今月の少女 @loonaJPofficial https://t.co/BNld6cEdPY"
+	},
+	{
+		"created_at": "Wed Sep 14 09:40:17 +0000 2022",
+		"id": 1569974318981070800,
+		"id_str": "1569984370815152131",
+		"full_text": "JAPAN 2nd SINGLE「LUMINOUS」はもう聴いていただけましたか？👀\n\n🎧 https://t.co/QmzwCqHiCK\n\nメンバーからコメントが到着しました✨\n\nLINE MUSICではスペシャルな特典が当たるキャンペーンを開催中！\n是非ご参加ください🌙\n\n詳細はこちら👇\nhttps://t.co/AZVqxb4vew\n\n#LOONA \n#今月の少女\n#LUMINOUS https://t.co/AsxRizpKMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmzwCqHiCK",
+					"expanded_url": "https://lnk.to/loonaLN",
+					"display_url": "lnk.to/loonaLN",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/AZVqxb4vew",
+					"expanded_url": "https://www.universal-music.co.jp/loona/news/2022-09-09/",
+					"display_url": "universal-music.co.jp/loona/news/202…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569974243055796200,
+					"id_str": "1569974243055796225",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569974243055796225/pu/img/dJgsRlCXlYV6ZLcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569974243055796225/pu/img/dJgsRlCXlYV6ZLcn.jpg",
+					"url": "https://t.co/AsxRizpKMo",
+					"display_url": "pic.twitter.com/AsxRizpKMo",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569974318981070848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569974243055796200,
+					"id_str": "1569974243055796225",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1569974243055796225/pu/img/dJgsRlCXlYV6ZLcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1569974243055796225/pu/img/dJgsRlCXlYV6ZLcn.jpg",
+					"url": "https://t.co/AsxRizpKMo",
+					"display_url": "pic.twitter.com/AsxRizpKMo",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1569974318981070848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30321,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1569974243055796225/pu/pl/YVBEv3NNVxzW9Dvu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569974243055796225/pu/vid/640x360/zDPl1_cEqAbC9diu.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569974243055796225/pu/vid/480x270/T0GIVUg3nUjojcDt.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1569974243055796225/pu/vid/1280x720/8p1Oqd-AJgGf6au0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。 9/28にJAPAN 2nd SINGLES「LUMINOUS 」をリリース！10/1(土)東京ガーデンシアターにて初となる日本公演「LOONA 1st Live “LOONATHEWORLD in TOKYO “」開催！",
+			"url": "https://t.co/r8yCDRFhQq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r8yCDRFhQq",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99072,
+			"friends_count": 2,
+			"listed_count": 758,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 999,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "JAPAN 2nd SINGLE「LUMINOUS」はもう聴いていただけましたか？👀\n\n🎧 https://t.co/QmzwCqHiCK\n\nメンバーからコメントが到着しました✨\n\nLINE MUSICではスペシャルな特典が当たるキャンペーンを開催中！\n是非ご参加ください🌙\n\n詳細はこちら👇\nhttps://t.co/AZVqxb4vew\n\n#LOONA \n#今月の少女\n#LUMINOUS https://t.co/AsxRizpKMo"
+	},
+	{
+		"created_at": "Wed Sep 14 09:40:12 +0000 2022",
+		"id": 1569974306280718300,
+		"id_str": "1569984349163978752",
+		"full_text": "[유애나공지]\n2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \nUAENA ZONE 안내\n\n💚 https://t.co/LCCGbfUhvX \n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LCCGbfUhvX",
+					"expanded_url": "https://cafe.daum.net/IU/S0OE/14",
+					"display_url": "cafe.daum.net/IU/S0OE/14",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1460228,
+			"friends_count": 0,
+			"listed_count": 2332,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 842,
+		"favorite_count": 2898,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유애나공지]\n2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \nUAENA ZONE 안내\n\n💚 https://t.co/LCCGbfUhvX \n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래"
+	},
+	{
+		"created_at": "Wed Sep 14 09:40:10 +0000 2022",
+		"id": 1569974233668657200,
+		"id_str": "1569984340292927488",
+		"full_text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Genuine\" Dance Practice Video✨\n\n▶ https://t.co/A3gknMvhqh\n\n#선예 #Sunye #Genuine https://t.co/cdpo4nhu5x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "Genuine",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3gknMvhqh",
+					"expanded_url": "https://youtu.be/vHextbMjqB8",
+					"display_url": "youtu.be/vHextbMjqB8",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569877769999515600,
+					"id_str": "1569877769999515653",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FclTg6WagAUejJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclTg6WagAUejJa.jpg",
+					"url": "https://t.co/cdpo4nhu5x",
+					"display_url": "pic.twitter.com/cdpo4nhu5x",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1569974233668657154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569877769999515600,
+					"id_str": "1569877769999515653",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FclTg6WagAUejJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FclTg6WagAUejJa.jpg",
+					"url": "https://t.co/cdpo4nhu5x",
+					"display_url": "pic.twitter.com/cdpo4nhu5x",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1569974233668657154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19153,
+			"friends_count": 2,
+			"listed_count": 71,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "선예(SUNYE)\n1st Solo Album [GENUINE]\n\"Genuine\" Dance Practice Video✨\n\n▶ https://t.co/A3gknMvhqh\n\n#선예 #Sunye #Genuine https://t.co/cdpo4nhu5x"
+	},
+	{
 		"created_at": "Wed Sep 14 08:40:20 +0000 2022",
 		"id": 1569968656981061600,
 		"id_str": "1569969283530203136",
