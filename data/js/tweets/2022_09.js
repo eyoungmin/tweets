@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 07:40:31 +0000 2022",
+		"id": 1569944195225522200,
+		"id_str": "1569954228591812610",
+		"full_text": "팬분들을 만나는 날이 3일 남았어요💗\n\nOnly three days left till we meet💗\n\nファンの方々に会う日まであと3日です💗\n\n#tripleS #트리플에스 #トリプルS #YoonSeoYeon https://t.co/RO05hnBDXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "YoonSeoYeon",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569942895758835700,
+					"id_str": "1569942895758835712",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmOvutagAAaMVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmOvutagAAaMVC.jpg",
+					"url": "https://t.co/RO05hnBDXe",
+					"display_url": "pic.twitter.com/RO05hnBDXe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569944195225522178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569942895758835700,
+					"id_str": "1569942895758835712",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmOvutagAAaMVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmOvutagAAaMVC.jpg",
+					"url": "https://t.co/RO05hnBDXe",
+					"display_url": "pic.twitter.com/RO05hnBDXe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1569944195225522178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13895,
+			"friends_count": 0,
+			"listed_count": 91,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "팬분들을 만나는 날이 3일 남았어요💗\n\nOnly three days left till we meet💗\n\nファンの方々に会う日まであと3日です💗\n\n#tripleS #트리플에스 #トリプルS #YoonSeoYeon https://t.co/RO05hnBDXe"
+	},
+	{
+		"created_at": "Wed Sep 14 07:40:23 +0000 2022",
+		"id": 1569704957913227300,
+		"id_str": "1569954198535680006",
+		"full_text": "LOONA(@loonaJPofficial)JAPAN 2nd SINGLEよりタイトル曲「LUMINOUS」配信開始🎉🎉\n彼女たちの魅力が詰まったクールな楽曲に仕上がっています👀💕\n\n▼レコチョク\nhttps://t.co/mDPiexxXrh\n\n▼dヒッツ\nhttps://t.co/A4lpRdLfgW\n\n▼TOWER RECORDS MUSIC\nhttps://t.co/nPoQXP8fwV https://t.co/KuioHYDy4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						6,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mDPiexxXrh",
+					"expanded_url": "https://recochoku.jp/song/S1016092070/single",
+					"display_url": "recochoku.jp/song/S10160920…",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/A4lpRdLfgW",
+					"expanded_url": "https://selection.music.dmkt-sp.jp/artist/2001267844",
+					"display_url": "selection.music.dmkt-sp.jp/artist/2001267…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/nPoQXP8fwV",
+					"expanded_url": "https://music.tower.jp/artist/detail/2001267844",
+					"display_url": "music.tower.jp/artist/detail/…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569609320744243200,
+					"id_str": "1569609320744243202",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569609320744243202/img/0G5Rtpq04FkQxXoM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569609320744243202/img/0G5Rtpq04FkQxXoM.jpg",
+					"url": "https://t.co/KuioHYDy4u",
+					"display_url": "pic.twitter.com/KuioHYDy4u",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1569704957913227264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569609320744243200,
+					"id_str": "1569609320744243202",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1569609320744243202/img/0G5Rtpq04FkQxXoM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1569609320744243202/img/0G5Rtpq04FkQxXoM.jpg",
+					"url": "https://t.co/KuioHYDy4u",
+					"display_url": "pic.twitter.com/KuioHYDy4u",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1569704957913227264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25066,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569609320744243202/vid/480x270/FCXT-rIXWjX0iPwE.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569609320744243202/vid/640x360/DtTrwvovXGPzg8Mb.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569609320744243202/vid/1280x720/EVM0-EgjgfQBbGXs.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569609320744243202/pl/m1QMK_a7kVjyz6P4.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131027338,
+			"id_str": "131027338",
+			"name": "レコチョク《コーポレートアカウント》",
+			"screen_name": "recochoku_jp",
+			"location": "東京都渋谷区",
+			"description": "音楽🎧に関する様々なサービスを展開している「株式会社レコチョク」の公式アカウントです🎵サービスに関する情報や、ここでしか知れないアーティストに関する情報をお届け🌟",
+			"url": "https://t.co/OIgnzxMuLp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OIgnzxMuLp",
+							"expanded_url": "https://recochoku.jp/corporate/",
+							"display_url": "recochoku.jp/corporate/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36844,
+			"friends_count": 2287,
+			"listed_count": 330,
+			"created_at": "Fri Apr 09 01:58:56 +0000 2010",
+			"favourites_count": 10256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131027338/1564647528",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAC5EE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 961,
+		"favorite_count": 2587,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "LOONA(@loonaJPofficial)JAPAN 2nd SINGLEよりタイトル曲「LUMINOUS」配信開始🎉🎉\n彼女たちの魅力が詰まったクールな楽曲に仕上がっています👀💕\n\n▼レコチョク\nhttps://t.co/mDPiexxXrh\n\n▼dヒッツ\nhttps://t.co/A4lpRdLfgW\n\n▼TOWER RECORDS MUSIC\nhttps://t.co/nPoQXP8fwV https://t.co/KuioHYDy4u"
+	},
+	{
+		"created_at": "Wed Sep 14 07:40:14 +0000 2022",
+		"id": 1569883642331074600,
+		"id_str": "1569954160010838017",
+		"full_text": "#LOONA(#今月の少女)『#LUMINOUS』先行配信開始💍\n\n9月28日リリースの日本2ndシングルからタイトル曲が先行配信🥺❣️\n最後まで聴きどころ満載で新しい魅力が詰まった最新曲😍🌷\n\nAWAに届いたコメントと一緒にお楽しみください🎶🥰\n#이달의소녀 @loonaJPofficial\n🎧https://t.co/JOoVcGFUCD https://t.co/ykml2Wy76U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JOoVcGFUCD",
+					"expanded_url": "https://mf.awa.fm/3BavWcv",
+					"display_url": "mf.awa.fm/3BavWcv",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569604051846975500,
+					"id_str": "1569604051846975488",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FciJHykaAAUC0TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FciJHykaAAUC0TC.jpg",
+					"url": "https://t.co/ykml2Wy76U",
+					"display_url": "pic.twitter.com/ykml2Wy76U",
+					"expanded_url": "https://twitter.com/AWA_official/status/1569883642331074562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569604051846975500,
+					"id_str": "1569604051846975488",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FciJHykaAAUC0TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FciJHykaAAUC0TC.jpg",
+					"url": "https://t.co/ykml2Wy76U",
+					"display_url": "pic.twitter.com/ykml2Wy76U",
+					"expanded_url": "https://twitter.com/AWA_official/status/1569883642331074562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29279,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569604051846975488/pl/qHIhm037D6VwUnkI.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569604051846975488/vid/640x360/EbWiQt_Ldbrj9hqg.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569604051846975488/vid/1280x720/T0VD0i2chl9YbHPu.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569604051846975488/vid/480x270/NM8_gqEJ-FcKLQSZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LOONA『LUMINOUS』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/3BavWcv"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194632,
+			"friends_count": 369,
+			"listed_count": 472,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 173001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 1178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONA(#今月の少女)『#LUMINOUS』先行配信開始💍\n\n9月28日リリースの日本2ndシングルからタイトル曲が先行配信🥺❣️\n最後まで聴きどころ満載で新しい魅力が詰まった最新曲😍🌷\n\nAWAに届いたコメントと一緒にお楽しみください🎶🥰\n#이달의소녀 @loonaJPofficial\n🎧https://t.co/JOoVcGFUCD https://t.co/ykml2Wy76U"
+	},
+	{
 		"created_at": "Wed Sep 14 06:45:37 +0000 2022",
 		"id": 1569936609272897500,
 		"id_str": "1569940414160830464",
