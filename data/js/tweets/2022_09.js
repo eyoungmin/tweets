@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 06:40:18 +0000 2022",
+		"id": 1570291472397901800,
+		"id_str": "1570301464689676289",
+		"full_text": "今夜！女神ユヨンと美鹿ナギョンのライブ！🌼\n\n夜10時ユヨン、ナギョンと一緒に！\n\n#tripleS #트리플에스 #トリプルS https://t.co/iFKBZIdRzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570287897571623000,
+					"id_str": "1570287897571622913",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrIhenaAAEllLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrIhenaAAEllLW.jpg",
+					"url": "https://t.co/iFKBZIdRzT",
+					"display_url": "pic.twitter.com/iFKBZIdRzT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570291472397901825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570287897571623000,
+					"id_str": "1570287897571622913",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrIhenaAAEllLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrIhenaAAEllLW.jpg",
+					"url": "https://t.co/iFKBZIdRzT",
+					"display_url": "pic.twitter.com/iFKBZIdRzT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570291472397901825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570291462071554000,
+		"in_reply_to_status_id_str": "1570291462071554048",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13925,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今夜！女神ユヨンと美鹿ナギョンのライブ！🌼\n\n夜10時ユヨン、ナギョンと一緒に！\n\n#tripleS #트리플에스 #トリプルS https://t.co/iFKBZIdRzT"
+	},
+	{
+		"created_at": "Thu Sep 15 06:40:14 +0000 2022",
+		"id": 1570291462071554000,
+		"id_str": "1570301447102951424",
+		"full_text": "Tonight our Goddess YooYeon and Sika deer NaKyoung are going LIVE!🌼\n\nDon’t miss out on YooYeon and NaKyoung’s LIVE tonight (Sep. 15th) at 10 pm KST//9am\n\n#tripleS #트리플에스 #トリプルS https://t.co/5C5vX6gkAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570287876604326000,
+					"id_str": "1570287876604325889",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrIgQgacAEiB6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrIgQgacAEiB6J.jpg",
+					"url": "https://t.co/5C5vX6gkAP",
+					"display_url": "pic.twitter.com/5C5vX6gkAP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570291462071554048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570287876604326000,
+					"id_str": "1570287876604325889",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrIgQgacAEiB6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrIgQgacAEiB6J.jpg",
+					"url": "https://t.co/5C5vX6gkAP",
+					"display_url": "pic.twitter.com/5C5vX6gkAP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570291462071554048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570291452269437000,
+		"in_reply_to_status_id_str": "1570291452269436930",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13925,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight our Goddess YooYeon and Sika deer NaKyoung are going LIVE!🌼\n\nDon’t miss out on YooYeon and NaKyoung’s LIVE tonight (Sep. 15th) at 10 pm KST//9am\n\n#tripleS #트리플에스 #トリプルS https://t.co/5C5vX6gkAP"
+	},
+	{
 		"created_at": "Thu Sep 15 05:40:19 +0000 2022",
 		"id": 1570281007068377000,
 		"id_str": "1570286368424873989",
