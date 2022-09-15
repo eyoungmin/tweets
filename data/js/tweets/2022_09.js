@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 09:40:12 +0000 2022",
+		"id": 1570339573322100700,
+		"id_str": "1570346736396410883",
+		"full_text": "아이유애나의 시간\n&lt;The Golden Hour&gt; D-2\n구름이 껴도🌥 비가 와도🌧\n잠실 하늘에 뜰 특별한 달🌙\n설레는 마음으로 기다려보아요🤗\n\n⏳ https://t.co/ZZBwvMqtoq\n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/HlNeUQIPHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "The_Golden_Hour",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "오렌지_태양_아래",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZBwvMqtoq",
+					"expanded_url": "https://youtu.be/8_kCREClQLY",
+					"display_url": "youtu.be/8_kCREClQLY",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570339543571898400,
+					"id_str": "1570339543571898368",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcr3fq9aIAA0yRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcr3fq9aIAA0yRf.jpg",
+					"url": "https://t.co/HlNeUQIPHw",
+					"display_url": "pic.twitter.com/HlNeUQIPHw",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1570339573322100736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570339543571898400,
+					"id_str": "1570339543571898368",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcr3fq9aIAA0yRf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcr3fq9aIAA0yRf.jpg",
+					"url": "https://t.co/HlNeUQIPHw",
+					"display_url": "pic.twitter.com/HlNeUQIPHw",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1570339573322100736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1461227,
+			"friends_count": 0,
+			"listed_count": 2335,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2131,
+		"favorite_count": 5366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유애나의 시간\n&lt;The Golden Hour&gt; D-2\n구름이 껴도🌥 비가 와도🌧\n잠실 하늘에 뜰 특별한 달🌙\n설레는 마음으로 기다려보아요🤗\n\n⏳ https://t.co/ZZBwvMqtoq\n\n#아이유 #IU\n#The_Golden_Hour #오렌지_태양_아래 https://t.co/HlNeUQIPHw"
+	},
+	{
+		"created_at": "Thu Sep 15 09:40:10 +0000 2022",
+		"id": 1570336620397600800,
+		"id_str": "1570346727302914048",
+		"full_text": "우리가 너를 처음 만난 날 + 100\n\n#tripleS #트리플에스 #トリプルS #LeeJiWoo https://t.co/Ot8HJ8D7cT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LeeJiWoo",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570322713058889700,
+					"id_str": "1570322713058889730",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FcroMAaaUAI4akk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcroMAaaUAI4akk.jpg",
+					"url": "https://t.co/Ot8HJ8D7cT",
+					"display_url": "pic.twitter.com/Ot8HJ8D7cT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570336620397600771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570322713058889700,
+					"id_str": "1570322713058889730",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FcroMAaaUAI4akk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcroMAaaUAI4akk.jpg",
+					"url": "https://t.co/Ot8HJ8D7cT",
+					"display_url": "pic.twitter.com/Ot8HJ8D7cT",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570336620397600771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13932,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리가 너를 처음 만난 날 + 100\n\n#tripleS #트리플에스 #トリプルS #LeeJiWoo https://t.co/Ot8HJ8D7cT"
+	},
+	{
 		"created_at": "Thu Sep 15 08:45:37 +0000 2022",
 		"id": 1570319116275261400,
 		"id_str": "1570333000189222913",
