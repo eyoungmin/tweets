@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 13:40:19 +0000 2022",
+		"id": 1570397079247396900,
+		"id_str": "1570407163897548801",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nLOS ANGELES ADDITIONAL SHOW ANNOUNCEMENT\n\n▶More info: https://t.co/loIfHLJhEb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #LOS_ANGELES #ADDITIONAL_SHOW #ANNOUNCEMENT #YG https://t.co/LkgYkgaWMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "NORTH_AMERICA",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "LOS_ANGELES",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "ADDITIONAL_SHOW",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						213,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/loIfHLJhEb",
+					"expanded_url": "https://blackpinklive.com",
+					"display_url": "blackpinklive.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570396216139346000,
+					"id_str": "1570396216139345921",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsrCcuacAEYvAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsrCcuacAEYvAf.jpg",
+					"url": "https://t.co/LkgYkgaWMM",
+					"display_url": "pic.twitter.com/LkgYkgaWMM",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570397079247396868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570396216139346000,
+					"id_str": "1570396216139345921",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsrCcuacAEYvAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsrCcuacAEYvAf.jpg",
+					"url": "https://t.co/LkgYkgaWMM",
+					"display_url": "pic.twitter.com/LkgYkgaWMM",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570397079247396868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8923166,
+			"friends_count": 36,
+			"listed_count": 9842,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2502,
+		"favorite_count": 10589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] NORTH AMERICA\nLOS ANGELES ADDITIONAL SHOW ANNOUNCEMENT\n\n▶More info: https://t.co/loIfHLJhEb\n\n#블랙핑크 #WORLDTOUR #BORNPINK #NORTH_AMERICA #LOS_ANGELES #ADDITIONAL_SHOW #ANNOUNCEMENT #YG https://t.co/LkgYkgaWMM"
+	},
+	{
+		"created_at": "Thu Sep 15 13:40:10 +0000 2022",
+		"id": 1570392899589910500,
+		"id_str": "1570407125335285763",
+		"full_text": "오늘 좋은 기회로 unique and stunning items 직접 구경하고 볼 수 있어서 너무 재미있는 시간을 보냈어요!! 🧸⭐️ #HANNI #하니 https://t.co/BfZajY6mtJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HANNI",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570392892778356700,
+					"id_str": "1570392892778356743",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsoBAPaIAc9-EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsoBAPaIAc9-EK.jpg",
+					"url": "https://t.co/BfZajY6mtJ",
+					"display_url": "pic.twitter.com/BfZajY6mtJ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1570392899589910529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570392892778356700,
+					"id_str": "1570392892778356743",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsoBAPaIAc9-EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsoBAPaIAc9-EK.jpg",
+					"url": "https://t.co/BfZajY6mtJ",
+					"display_url": "pic.twitter.com/BfZajY6mtJ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1570392899589910529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570392892765802500,
+					"id_str": "1570392892765802496",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsoBAMakAAu7tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsoBAMakAAu7tt.jpg",
+					"url": "https://t.co/BfZajY6mtJ",
+					"display_url": "pic.twitter.com/BfZajY6mtJ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1570392899589910529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130519,
+			"friends_count": 3,
+			"listed_count": 440,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4189,
+		"favorite_count": 13925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 좋은 기회로 unique and stunning items 직접 구경하고 볼 수 있어서 너무 재미있는 시간을 보냈어요!! 🧸⭐️ #HANNI #하니 https://t.co/BfZajY6mtJ"
+	},
+	{
 		"created_at": "Thu Sep 15 10:40:31 +0000 2022",
 		"id": 1570359505900159000,
 		"id_str": "1570361915259424768",
@@ -188,7 +660,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -394,7 +866,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "sigrid",
 			"screen_name": "thisissigrid",
 			"location": "",
-			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"description": "How To Let Go out now ❤️🔥❤️🔥❤️🔥",
 			"url": "https://t.co/qJ8McBmikD",
 			"entities": {
 				"url": {
