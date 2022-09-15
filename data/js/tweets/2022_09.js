@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 15:40:18 +0000 2022",
+		"id": 1570427275048517600,
+		"id_str": "1570437359686000640",
+		"full_text": "#BLACKPINK ‘BORN PINK’ D-DAY Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 #2ndAlbum #BORNPINK #D_DAY #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/jGEkWrywdT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "D_DAY",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						175,
+						192
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						193,
+						209
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						210,
+						218
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						219,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570427123625787400,
+					"id_str": "1570427123625787393",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FctHJgFagAEbj5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FctHJgFagAEbj5-.jpg",
+					"url": "https://t.co/jGEkWrywdT",
+					"display_url": "pic.twitter.com/jGEkWrywdT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570427275048517633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570427123625787400,
+					"id_str": "1570427123625787393",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FctHJgFagAEbj5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FctHJgFagAEbj5-.jpg",
+					"url": "https://t.co/jGEkWrywdT",
+					"display_url": "pic.twitter.com/jGEkWrywdT",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570427275048517633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8923687,
+			"friends_count": 36,
+			"listed_count": 9841,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18739,
+		"favorite_count": 42308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ D-DAY Poster\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 #2ndAlbum #BORNPINK #D_DAY #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/jGEkWrywdT"
+	},
+	{
 		"created_at": "Thu Sep 15 14:40:18 +0000 2022",
 		"id": 1570419561308078000,
 		"id_str": "1570422259768233985",
