@@ -1,6 +1,1128 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 10:40:31 +0000 2022",
+		"id": 1570359505900159000,
+		"id_str": "1570361915259424768",
+		"full_text": "Hello today we signed copies of our new album 22 Make on CD and vinyl so please pre-order one now from our store so that our hand cramp was not in vain 🖖https://t.co/bMxpbJj5fV https://t.co/1KLdBh8k0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMxpbJj5fV",
+					"expanded_url": "http://OhWonder.lnk.to/22MakeAlbum",
+					"display_url": "OhWonder.lnk.to/22MakeAlbum",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570359486472233000,
+					"id_str": "1570359486472232961",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsJogDXoAElC3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsJogDXoAElC3r.jpg",
+					"url": "https://t.co/1KLdBh8k0H",
+					"display_url": "pic.twitter.com/1KLdBh8k0H",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1570359505900158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570359486472233000,
+					"id_str": "1570359486472232961",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsJogDXoAElC3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsJogDXoAElC3r.jpg",
+					"url": "https://t.co/1KLdBh8k0H",
+					"display_url": "pic.twitter.com/1KLdBh8k0H",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1570359505900158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570359486467932200,
+					"id_str": "1570359486467932162",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsJogCWAAIm-cY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsJogCWAAIm-cY.jpg",
+					"url": "https://t.co/1KLdBh8k0H",
+					"display_url": "pic.twitter.com/1KLdBh8k0H",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1570359505900158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570359486446968800,
+					"id_str": "1570359486446968832",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FcsJof9WIAAEc0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcsJof9WIAAEc0-.jpg",
+					"url": "https://t.co/1KLdBh8k0H",
+					"display_url": "pic.twitter.com/1KLdBh8k0H",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1570359505900158976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165700,
+			"friends_count": 202,
+			"listed_count": 420,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello today we signed copies of our new album 22 Make on CD and vinyl so please pre-order one now from our store so that our hand cramp was not in vain 🖖https://t.co/bMxpbJj5fV https://t.co/1KLdBh8k0H"
+	},
+	{
+		"created_at": "Thu Sep 15 10:40:24 +0000 2022",
+		"id": 1570354379806617600,
+		"id_str": "1570361885375008768",
+		"full_text": "last time we were in New York we played Brooklyn Steel, now we’re coming back for Terminal 5! yikes and woho!! can’t wait, see you on sept 25th 🥳 https://t.co/ASXO4XXuu9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570354271782051800,
+					"id_str": "1570354271782051840",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570354271782051840/pu/img/d6_w7r5M6TiSaT6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570354271782051840/pu/img/d6_w7r5M6TiSaT6y.jpg",
+					"url": "https://t.co/ASXO4XXuu9",
+					"display_url": "pic.twitter.com/ASXO4XXuu9",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1570354379806617600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570354271782051800,
+					"id_str": "1570354271782051840",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570354271782051840/pu/img/d6_w7r5M6TiSaT6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570354271782051840/pu/img/d6_w7r5M6TiSaT6y.jpg",
+					"url": "https://t.co/ASXO4XXuu9",
+					"display_url": "pic.twitter.com/ASXO4XXuu9",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1570354379806617600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 24106,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570354271782051840/pu/vid/720x1280/muisWlPzewNx9u-e.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570354271782051840/pu/vid/480x852/95qS7wU1tlPMVIiR.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570354271782051840/pu/vid/320x568/3FATwfIMEH8UYYKV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570354271782051840/pu/pl/G5Hw-b9IAuarsleD.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89300,
+			"friends_count": 270,
+			"listed_count": 335,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "last time we were in New York we played Brooklyn Steel, now we’re coming back for Terminal 5! yikes and woho!! can’t wait, see you on sept 25th 🥳 https://t.co/ASXO4XXuu9"
+	},
+	{
+		"created_at": "Thu Sep 15 10:40:21 +0000 2022",
+		"id": 1570353949072568300,
+		"id_str": "1570361876386807809",
+		"full_text": "#aespa #æspa #에스파 #エスパ\n#GISELLE #ジゼル",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "ジゼル",
+					"indices": [
+						32,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570351719187374000,
+		"in_reply_to_status_id_str": "1570351719187374081",
+		"in_reply_to_user_id": 1518523440814198800,
+		"in_reply_to_user_id_str": "1518523440814198785",
+		"in_reply_to_screen_name": "aespaJPofficial",
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212750,
+			"friends_count": 1,
+			"listed_count": 599,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 938,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#aespa #æspa #에스파 #エスパ\n#GISELLE #ジゼル"
+	},
+	{
+		"created_at": "Thu Sep 15 10:40:16 +0000 2022",
+		"id": 1570353236804268000,
+		"id_str": "1570361854639194113",
+		"full_text": "Thank you #BLINKs, for showing us your moves in the #PinkVenomChallenge on @YouTube Shorts! We loved watching them all! Here are some highlights ⬇️\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKs",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						52,
+						71
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						166,
+						183
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						195,
+						214
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						232,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7445473,
+			"friends_count": 0,
+			"listed_count": 7737,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3874,
+		"favorite_count": 15667,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thank you #BLINKs, for showing us your moves in the #PinkVenomChallenge on @YouTube Shorts! We loved watching them all! Here are some highlights ⬇️\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG"
+	},
+	{
+		"created_at": "Thu Sep 15 10:40:12 +0000 2022",
+		"id": 1570353239257940000,
+		"id_str": "1570361837375430657",
+		"full_text": "Get ‘em, get ‘em, get ‘em! #PinkVenomChallenge \n▶️ https://t.co/gRIrf6GgPS\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						27,
+						46
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						93,
+						110
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						122,
+						141
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						159,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gRIrf6GgPS",
+					"expanded_url": "https://www.youtube.com/shorts/Ljlbco8mJ2s",
+					"display_url": "youtube.com/shorts/Ljlbco8…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570353236804268000,
+		"in_reply_to_status_id_str": "1570353236804268032",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7445473,
+			"friends_count": 0,
+			"listed_count": 7737,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 4415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get ‘em, get ‘em, get ‘em! #PinkVenomChallenge \n▶️ https://t.co/gRIrf6GgPS\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG"
+	},
+	{
+		"created_at": "Thu Sep 15 10:40:10 +0000 2022",
+		"id": 1570353242391056400,
+		"id_str": "1570361828303159298",
+		"full_text": "This that Pink Venom! #PinkVenomChallenge \n▶️ https://t.co/mqCpM3ydrw\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						22,
+						41
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "PreReleaseSingle",
+					"indices": [
+						88,
+						105
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "PinkVenomChallenge",
+					"indices": [
+						117,
+						136
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqCpM3ydrw",
+					"expanded_url": "https://www.youtube.com/shorts/a70OsGuFVxM",
+					"display_url": "youtube.com/shorts/a70OsGu…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570353239257940000,
+		"in_reply_to_status_id_str": "1570353239257939969",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7445473,
+			"friends_count": 0,
+			"listed_count": 7737,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 974,
+		"favorite_count": 5331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This that Pink Venom! #PinkVenomChallenge \n▶️ https://t.co/mqCpM3ydrw\n\n#BLACKPINK #블랙핑크 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG"
+	},
+	{
 		"created_at": "Thu Sep 15 09:40:12 +0000 2022",
 		"id": 1570339573322100700,
 		"id_str": "1570346736396410883",
