@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 01:36:46 +0000 2022",
+		"id": 1570221911745122300,
+		"id_str": "1570225075508621314",
+		"full_text": "https://t.co/mRKJOHQsar https://t.co/btyswbcNOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mRKJOHQsar",
+					"expanded_url": "https://spotifyxblackpink.com/",
+					"display_url": "spotifyxblackpink.com",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/btyswbcNOj",
+					"expanded_url": "https://twitter.com/spotify/status/1570137284841984001",
+					"display_url": "twitter.com/spotify/status…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7440751,
+			"friends_count": 0,
+			"listed_count": 7734,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570137284841984000,
+		"quoted_status_id_str": "1570137284841984001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/btyswbcNOj",
+			"expanded": "https://twitter.com/spotify/status/1570137284841984001",
+			"display": "twitter.com/spotify/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 14 19:47:55 +0000 2022",
+			"id": 1570137284841984000,
+			"id_str": "1570137284841984001",
+			"full_text": "Hey Blinks, are you ready for the #SpotifyxBLACKPINK pop-up this weekend? Here’s everything you need to know before the address reveal at 9pm PST tomorrow at https://t.co/o3S7KWgQR6 https://t.co/MEWrZ8oDGd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpotifyxBLACKPINK",
+						"indices": [
+							34,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o3S7KWgQR6",
+						"expanded_url": "http://spotifyxblackpink.com",
+						"display_url": "spotifyxblackpink.com",
+						"indices": [
+							158,
+							181
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1570137250012491800,
+						"id_str": "1570137250012491777",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/Fco_gouacAEzg2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fco_gouacAEzg2G.jpg",
+						"url": "https://t.co/MEWrZ8oDGd",
+						"display_url": "pic.twitter.com/MEWrZ8oDGd",
+						"expanded_url": "https://twitter.com/Spotify/status/1570137284841984001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570137250012491800,
+						"id_str": "1570137250012491777",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/Fco_gouacAEzg2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fco_gouacAEzg2G.jpg",
+						"url": "https://t.co/MEWrZ8oDGd",
+						"display_url": "pic.twitter.com/MEWrZ8oDGd",
+						"expanded_url": "https://twitter.com/Spotify/status/1570137284841984001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17230018,
+				"id_str": "17230018",
+				"name": "Spotify",
+				"screen_name": "Spotify",
+				"location": "",
+				"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyLive\nSupport 👉 @SpotifyCares",
+				"url": "https://t.co/5G4Hekn0ea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5G4Hekn0ea",
+								"expanded_url": "http://Spotify.com",
+								"display_url": "Spotify.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6310065,
+				"friends_count": 17720,
+				"listed_count": 17266,
+				"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+				"favourites_count": 15574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38850,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1642522924",
+				"profile_link_color": "1ED760",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "ECEBE8",
+				"profile_text_color": "458DBF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3135,
+			"favorite_count": 8075,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3217,
+		"favorite_count": 11648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/mRKJOHQsar https://t.co/btyswbcNOj"
+	},
+	{
 		"created_at": "Wed Sep 14 19:40:10 +0000 2022",
 		"id": 1570125435748421600,
 		"id_str": "1570135336231079939",
