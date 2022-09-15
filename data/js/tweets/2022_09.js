@@ -1,6 +1,936 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 08:45:37 +0000 2022",
+		"id": 1570319116275261400,
+		"id_str": "1570333000189222913",
+		"full_text": "Orbit in [🇬🇧LONDON🇬🇧]\nThose attending the show on SEPT 16!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in LONDON is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinLondon #LOONATHEWORLD https://t.co/V94gHxJBbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "LOONAinLondon",
+					"indices": [
+						224,
+						238
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570319088613728300,
+					"id_str": "1570319088613728257",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrk5CTWIAEpa1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrk5CTWIAEpa1c.jpg",
+					"url": "https://t.co/V94gHxJBbD",
+					"display_url": "pic.twitter.com/V94gHxJBbD",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1570319116275261440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1876,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570319088613728300,
+					"id_str": "1570319088613728257",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrk5CTWIAEpa1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrk5CTWIAEpa1c.jpg",
+					"url": "https://t.co/V94gHxJBbD",
+					"display_url": "pic.twitter.com/V94gHxJBbD",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1570319116275261440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1876,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570319112735187000,
+					"id_str": "1570319112735186945",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrk6cKWYAE6Y_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrk6cKWYAE6Y_F.jpg",
+					"url": "https://t.co/V94gHxJBbD",
+					"display_url": "pic.twitter.com/V94gHxJBbD",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1570319116275261440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149296,
+			"friends_count": 104,
+			"listed_count": 322,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit in [🇬🇧LONDON🇬🇧]\nThose attending the show on SEPT 16!\n\nThe show day schedule and prohibited items list for 2022 LOONA 1st World Tour : [LOONATHEWORLD] in LONDON is now available! \n\nPlease check the info👇\n\n#이달의소녀 #LOONA\n#LOONAinLondon #LOONATHEWORLD https://t.co/V94gHxJBbD"
+	},
+	{
+		"created_at": "Thu Sep 15 08:40:41 +0000 2022",
+		"id": 1570325881406787600,
+		"id_str": "1570331760486932480",
+		"full_text": "jun p 네이버 공식 팬카페 개설\n📢https://t.co/xebgN5CHcK https://t.co/XFUCGFRq8q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xebgN5CHcK",
+					"expanded_url": "https://www.instagram.com/p/CihTDz-Lm72/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/CihTDz-Lm72/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570325874511343600,
+					"id_str": "1570325874511343617",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrrEBvacAEQ8z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrrEBvacAEQ8z-.jpg",
+					"url": "https://t.co/XFUCGFRq8q",
+					"display_url": "pic.twitter.com/XFUCGFRq8q",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1570325881406787585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570325874511343600,
+					"id_str": "1570325874511343617",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrrEBvacAEQ8z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcrrEBvacAEQ8z-.jpg",
+					"url": "https://t.co/XFUCGFRq8q",
+					"display_url": "pic.twitter.com/XFUCGFRq8q",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1570325881406787585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7420,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "jun p 네이버 공식 팬카페 개설\n📢https://t.co/xebgN5CHcK https://t.co/XFUCGFRq8q"
+	},
+	{
+		"created_at": "Thu Sep 15 08:40:34 +0000 2022",
+		"id": 1570320015391588400,
+		"id_str": "1570331730258833409",
+		"full_text": "tripleS - 1st ATOM01 OBJEKT\n\n40종 👉 48종\n8종이 추가 되었습니다!🌟\n\n🔗https://t.co/8rrlLkS6gr \n\n#트리플에스 #tripleS #ktown4u https://t.co/Tds29hSfcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트리플에스",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "ktown4u",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8rrlLkS6gr",
+					"expanded_url": "https://bit.ly/3QJMM86",
+					"display_url": "bit.ly/3QJMM86",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570319846356971500,
+					"id_str": "1570319846356971520",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrllJHacAAjtA_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcrllJHacAAjtA_.png",
+					"url": "https://t.co/Tds29hSfcv",
+					"display_url": "pic.twitter.com/Tds29hSfcv",
+					"expanded_url": "https://twitter.com/Ktown4u_kr/status/1570320015391588352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570319846356971500,
+					"id_str": "1570319846356971520",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FcrllJHacAAjtA_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcrllJHacAAjtA_.png",
+					"url": "https://t.co/Tds29hSfcv",
+					"display_url": "pic.twitter.com/Tds29hSfcv",
+					"expanded_url": "https://twitter.com/Ktown4u_kr/status/1570320015391588352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 841824880672690200,
+			"id_str": "841824880672690176",
+			"name": "케타포 Ktown4u",
+			"screen_name": "Ktown4u_kr",
+			"location": "",
+			"description": "케타포 한국 공식 트위터. 가온,한터 차트에 반영됩니다. \n❣대량구매/공구문의❣ 카카오톡 ID : wendy91, songkt4, youngkt4 \n\n**일반 문의는 CS톡으로 주세요\nAccount for domestic.For global : @KTOWN4U_com",
+			"url": "https://t.co/C70ejOxk4z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C70ejOxk4z",
+							"expanded_url": "http://www.ktown4u.co.kr",
+							"display_url": "ktown4u.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11100,
+			"friends_count": 124,
+			"listed_count": 36,
+			"created_at": "Wed Mar 15 01:34:26 +0000 2017",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509819585796935682/PSUDRwnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509819585796935682/PSUDRwnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841824880672690176/1648804016",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS - 1st ATOM01 OBJEKT\n\n40종 👉 48종\n8종이 추가 되었습니다!🌟\n\n🔗https://t.co/8rrlLkS6gr \n\n#트리플에스 #tripleS #ktown4u https://t.co/Tds29hSfcv"
+	},
+	{
+		"created_at": "Thu Sep 15 08:40:27 +0000 2022",
+		"id": 1570322120001060900,
+		"id_str": "1570331700198088704",
+		"full_text": "🧡🤍💙\n\n#aespa #WINTER https://t.co/U7tVneAG64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570322111486636000,
+					"id_str": "1570322111486636034",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrno_YaMAIU9lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrno_YaMAIU9lL.jpg",
+					"url": "https://t.co/U7tVneAG64",
+					"display_url": "pic.twitter.com/U7tVneAG64",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570322120001060867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570322111486636000,
+					"id_str": "1570322111486636034",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrno_YaMAIU9lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrno_YaMAIU9lL.jpg",
+					"url": "https://t.co/U7tVneAG64",
+					"display_url": "pic.twitter.com/U7tVneAG64",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570322120001060867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 386,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570322111478239200,
+					"id_str": "1570322111478239232",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrno_WaEAA3P9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrno_WaEAA3P9a.jpg",
+					"url": "https://t.co/U7tVneAG64",
+					"display_url": "pic.twitter.com/U7tVneAG64",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570322120001060867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570322111499219000,
+					"id_str": "1570322111499218945",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrno_baMAEtvTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrno_baMAEtvTG.jpg",
+					"url": "https://t.co/U7tVneAG64",
+					"display_url": "pic.twitter.com/U7tVneAG64",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570322120001060867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570322111495024600,
+					"id_str": "1570322111495024640",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcrno_aaMAAGZeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcrno_aaMAAGZeu.jpg",
+					"url": "https://t.co/U7tVneAG64",
+					"display_url": "pic.twitter.com/U7tVneAG64",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570322120001060867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 955,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155516,
+			"friends_count": 2,
+			"listed_count": 9467,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9559,
+		"favorite_count": 28704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🧡🤍💙\n\n#aespa #WINTER https://t.co/U7tVneAG64"
+	},
+	{
 		"created_at": "Thu Sep 15 07:47:35 +0000 2022",
 		"id": 1570317199835009000,
 		"id_str": "1570318396486717442",
