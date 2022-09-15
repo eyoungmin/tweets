@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 03:40:10 +0000 2022",
+		"id": 1570246151474929700,
+		"id_str": "1570256132555550720",
+		"full_text": "중력 GRAVITY\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/bGKN4on70e\n\n#tripleS #트리플에스 #トリプルS https://t.co/D57SNEBnV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGKN4on70e",
+					"expanded_url": "http://youtu.be/jnZeYOiXqQw",
+					"display_url": "youtu.be/jnZeYOiXqQw",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570227629592285200,
+					"id_str": "1570227629592285184",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570227629592285184/pu/img/BQG7QIOuiIPhBF0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570227629592285184/pu/img/BQG7QIOuiIPhBF0H.jpg",
+					"url": "https://t.co/D57SNEBnV3",
+					"display_url": "pic.twitter.com/D57SNEBnV3",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570246151474929665/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570227629592285200,
+					"id_str": "1570227629592285184",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570227629592285184/pu/img/BQG7QIOuiIPhBF0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570227629592285184/pu/img/BQG7QIOuiIPhBF0H.jpg",
+					"url": "https://t.co/D57SNEBnV3",
+					"display_url": "pic.twitter.com/D57SNEBnV3",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570246151474929665/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12842,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570227629592285184/pu/vid/480x270/6Ss67PfQ8d29MK5V.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570227629592285184/pu/vid/640x360/l-gHQl9Ju919_dig.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570227629592285184/pu/vid/1280x720/2kPX4-IGPlfaI3IT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570227629592285184/pu/pl/8qWbOy4F0XZ6macw.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13920,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중력 GRAVITY\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/bGKN4on70e\n\n#tripleS #트리플에스 #トリプルS https://t.co/D57SNEBnV3"
+	},
+	{
+		"created_at": "Thu Sep 15 03:29:42 +0000 2022",
+		"id": 1570247259765485600,
+		"id_str": "1570253497811238914",
+		"full_text": "&lt;#공조2_인터내셔날&gt; 본 사람은 다 아는 그 대사들! #과몰입타임😎\n인용 트윗으로 #2개이상_맞추면 잭은 좋아하고 철령이는 안 마시는 ☕를 선물로 드립니다!🎁\n\n🔽 자세한 내용 아래로 확인!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규\n#공조2 #이석훈감독 #절찬상영중 https://t.co/WsgUvFBvKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "과몰입타임",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "2개이상_맞추면",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						153,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570246859683401700,
+					"id_str": "1570246859683401728",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqjMwkaEAAAPrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqjMwkaEAAAPrs.jpg",
+					"url": "https://t.co/WsgUvFBvKC",
+					"display_url": "pic.twitter.com/WsgUvFBvKC",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1570247259765485569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570246859683401700,
+					"id_str": "1570246859683401728",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqjMwkaEAAAPrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqjMwkaEAAAPrs.jpg",
+					"url": "https://t.co/WsgUvFBvKC",
+					"display_url": "pic.twitter.com/WsgUvFBvKC",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1570247259765485569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570246859725353000,
+					"id_str": "1570246859725352961",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqjMwuaMAEjiU4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqjMwuaMAEjiU4.jpg",
+					"url": "https://t.co/WsgUvFBvKC",
+					"display_url": "pic.twitter.com/WsgUvFBvKC",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1570247259765485569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570246859700179000,
+					"id_str": "1570246859700178944",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FcqjMwoaEAAfHir.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcqjMwoaEAAfHir.jpg",
+					"url": "https://t.co/WsgUvFBvKC",
+					"display_url": "pic.twitter.com/WsgUvFBvKC",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1570247259765485569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332088,
+			"friends_count": 10633,
+			"listed_count": 264,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#공조2_인터내셔날&gt; 본 사람은 다 아는 그 대사들! #과몰입타임😎\n인용 트윗으로 #2개이상_맞추면 잭은 좋아하고 철령이는 안 마시는 ☕를 선물로 드립니다!🎁\n\n🔽 자세한 내용 아래로 확인!\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규\n#공조2 #이석훈감독 #절찬상영중 https://t.co/WsgUvFBvKC"
+	},
+	{
+		"created_at": "Thu Sep 15 03:29:32 +0000 2022",
+		"id": 1570250369082732500,
+		"id_str": "1570253456497315841",
+		"full_text": "컴백 하루 앞둔 블랙핑크가 정규 2집 ‘본 핑크’에 대한 자부심을 드러냈다. \n#블랙핑크 #본핑크 #BLACKPINK #bornpink \nhttps://t.co/semkFVs0nU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "본핑크",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "bornpink",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/semkFVs0nU",
+					"expanded_url": "https://www.wkorea.com/2022/09/15/%ec%bb%b4%eb%b0%b1-%ed%95%98%eb%a3%a8-%ec%95%9e%eb%91%94-%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac%ea%b0%80-%ec%a7%81%ec%a0%91-%ec%a0%84%ed%95%9c-%eb%a9%94%ec%8b%9c%ec%a7%80/?ddw=122728&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/09/15/%ec…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309624,
+			"friends_count": 0,
+			"listed_count": 848,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1661232585",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴백 하루 앞둔 블랙핑크가 정규 2집 ‘본 핑크’에 대한 자부심을 드러냈다. \n#블랙핑크 #본핑크 #BLACKPINK #bornpink \nhttps://t.co/semkFVs0nU"
+	},
+	{
 		"created_at": "Thu Sep 15 02:59:50 +0000 2022",
 		"id": 1570240645658476500,
 		"id_str": "1570245983916953600",
