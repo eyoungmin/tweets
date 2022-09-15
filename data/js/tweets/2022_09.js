@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 16:40:10 +0000 2022",
+		"id": 1570448919250833400,
+		"id_str": "1570452424707477504",
+		"full_text": "Gracias por los regalos increíbles! Love c, g, w &amp; j 🇵🇪 @coldplay_peru ❤️🤍❤️ https://t.co/OoFVgGXJJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay_peru",
+					"name": "Coldplay Perú",
+					"id": 58237045,
+					"id_str": "58237045",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570448909155147800,
+					"id_str": "1570448909155147783",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcta9lgXoAcZ6ZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcta9lgXoAcZ6ZT.jpg",
+					"url": "https://t.co/OoFVgGXJJ4",
+					"display_url": "pic.twitter.com/OoFVgGXJJ4",
+					"expanded_url": "https://twitter.com/coldplay/status/1570448919250833409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570448909155147800,
+					"id_str": "1570448909155147783",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcta9lgXoAcZ6ZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcta9lgXoAcZ6ZT.jpg",
+					"url": "https://t.co/OoFVgGXJJ4",
+					"display_url": "pic.twitter.com/OoFVgGXJJ4",
+					"expanded_url": "https://twitter.com/coldplay/status/1570448919250833409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 969,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Lima, Peru",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23664677,
+			"friends_count": 780,
+			"listed_count": 42428,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1147,
+		"favorite_count": 8712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Gracias por los regalos increíbles! Love c, g, w &amp; j 🇵🇪 @coldplay_peru ❤️🤍❤️ https://t.co/OoFVgGXJJ4"
+	},
+	{
 		"created_at": "Thu Sep 15 15:40:18 +0000 2022",
 		"id": 1570427275048517600,
 		"id_str": "1570437359686000640",
