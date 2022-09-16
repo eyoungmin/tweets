@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 07:37:03 +0000 2022",
+		"id": 1570669117300146200,
+		"id_str": "1570678135343161344",
+		"full_text": "#BLACKPINK - 'Shut Down' OUT NOW\n\nNOW ON YOUTUBE\nhttps://t.co/Vi8IDe0aiJ\n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #MV #OUTNOW #YG https://t.co/YfuMvyHoII",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vi8IDe0aiJ",
+					"expanded_url": "https://youtu.be/POe9SOEKotk",
+					"display_url": "youtu.be/POe9SOEKotk",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570668701103554600,
+					"id_str": "1570668701103554560",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570668701103554560/pu/img/5oqWW_7J-XGa0mhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570668701103554560/pu/img/5oqWW_7J-XGa0mhb.jpg",
+					"url": "https://t.co/YfuMvyHoII",
+					"display_url": "pic.twitter.com/YfuMvyHoII",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1570669117300146177/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570668701103554600,
+					"id_str": "1570668701103554560",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570668701103554560/pu/img/5oqWW_7J-XGa0mhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570668701103554560/pu/img/5oqWW_7J-XGa0mhb.jpg",
+					"url": "https://t.co/YfuMvyHoII",
+					"display_url": "pic.twitter.com/YfuMvyHoII",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1570669117300146177/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29295,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570668701103554560/pu/vid/320x320/cRwAdiWlm3-ptUPk.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570668701103554560/pu/vid/540x540/-RRq0JHzuvpqQfT5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570668701103554560/pu/pl/47KrftGonOOb8zP_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570668701103554560/pu/vid/720x720/wlUSzHj_5KLvSa0Z.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8523322,
+			"friends_count": 9,
+			"listed_count": 9287,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5697,
+		"favorite_count": 13944,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK - 'Shut Down' OUT NOW\n\nNOW ON YOUTUBE\nhttps://t.co/Vi8IDe0aiJ\n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #MV #OUTNOW #YG https://t.co/YfuMvyHoII"
+	},
+	{
+		"created_at": "Fri Sep 16 07:37:03 +0000 2022",
+		"id": 1570672511729414100,
+		"id_str": "1570678135271878659",
+		"full_text": "#BLACKPINK 'Shut Down' OUT NOW\n\nNOW ON YOUTUBE\n▶️https://t.co/BiWS45G5IF\n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #MV #OUTNOW #YG https://t.co/7rbY3WtJhN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BiWS45G5IF",
+					"expanded_url": "https://youtu.be/POe9SOEKotk",
+					"display_url": "youtu.be/POe9SOEKotk",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570672265775444000,
+					"id_str": "1570672265775443974",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570672265775443974/pu/img/kOP3Dog_c9kVOfue.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570672265775443974/pu/img/kOP3Dog_c9kVOfue.jpg",
+					"url": "https://t.co/7rbY3WtJhN",
+					"display_url": "pic.twitter.com/7rbY3WtJhN",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570672511729414146/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570672265775444000,
+					"id_str": "1570672265775443974",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570672265775443974/pu/img/kOP3Dog_c9kVOfue.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570672265775443974/pu/img/kOP3Dog_c9kVOfue.jpg",
+					"url": "https://t.co/7rbY3WtJhN",
+					"display_url": "pic.twitter.com/7rbY3WtJhN",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570672511729414146/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29295,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570672265775443974/pu/vid/720x720/l6ZlBP1vs1u0m2eW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570672265775443974/pu/pl/ThTcDQvziZVj5PJr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570672265775443974/pu/vid/320x320/YWp7nuMqzmjfwFNL.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570672265775443974/pu/vid/540x540/PsAzoOBql0x6lQwj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7461467,
+			"friends_count": 0,
+			"listed_count": 7751,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16667,
+		"favorite_count": 36222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Shut Down' OUT NOW\n\nNOW ON YOUTUBE\n▶️https://t.co/BiWS45G5IF\n\n#블랙핑크 #2ndAlbum #BORNPINK #Title #ShutDown #MV #OUTNOW #YG https://t.co/7rbY3WtJhN"
+	},
+	{
 		"created_at": "Fri Sep 16 06:40:10 +0000 2022",
 		"id": 1570653438215856000,
 		"id_str": "1570663819168415744",
