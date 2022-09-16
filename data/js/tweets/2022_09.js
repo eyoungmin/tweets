@@ -1,6 +1,1198 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 11:40:45 +0000 2022",
+		"id": 1570738761130180600,
+		"id_str": "1570739461511872512",
+		"full_text": "🐳🐳🐳\n\n#aespa #KARINA https://t.co/L8vB1TD0c4 https://t.co/81nVocoJTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L8vB1TD0c4",
+					"expanded_url": "https://twitter.com/i/web/status/1570738761130180608",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570738671258861600,
+					"id_str": "1570738671258861571",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570738671258861571/pu/img/N4rNu2M_rofV6onw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570738671258861571/pu/img/N4rNu2M_rofV6onw.jpg",
+					"url": "https://t.co/81nVocoJTE",
+					"display_url": "pic.twitter.com/81nVocoJTE",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570738761130180608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570738671258861600,
+					"id_str": "1570738671258861571",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570738671258861571/pu/img/N4rNu2M_rofV6onw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570738671258861571/pu/img/N4rNu2M_rofV6onw.jpg",
+					"url": "https://t.co/81nVocoJTE",
+					"display_url": "pic.twitter.com/81nVocoJTE",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570738761130180608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 6705,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738671258861571/pu/vid/720x960/1cjG7tCwX2GWF7Fg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570738671258861571/pu/pl/9cgUY4BYIAEJvpt2.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738671258861571/pu/vid/320x426/8yV9smk2ZaRMaPij.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738671258861571/pu/vid/480x640/uIbYebzW1mx3Q9be.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570738661767127000,
+		"in_reply_to_status_id_str": "1570738661767127040",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158264,
+			"friends_count": 2,
+			"listed_count": 9478,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3810,
+		"favorite_count": 10697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐳🐳🐳\n\n#aespa #KARINA https://t.co/L8vB1TD0c4 https://t.co/81nVocoJTE"
+	},
+	{
+		"created_at": "Fri Sep 16 11:40:40 +0000 2022",
+		"id": 1570738661767127000,
+		"id_str": "1570739443820019712",
+		"full_text": "🐳🐳🐳\n\n#aespa #KARINA https://t.co/9bPFtPkgCn https://t.co/BwX5cb1kfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9bPFtPkgCn",
+					"expanded_url": "https://twitter.com/i/web/status/1570738661767127040",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570738612421132300,
+					"id_str": "1570738612421132289",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570738612421132289/pu/img/c68orADF-vJwqs2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570738612421132289/pu/img/c68orADF-vJwqs2r.jpg",
+					"url": "https://t.co/BwX5cb1kfr",
+					"display_url": "pic.twitter.com/BwX5cb1kfr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570738661767127040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570738612421132300,
+					"id_str": "1570738612421132289",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570738612421132289/pu/img/c68orADF-vJwqs2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570738612421132289/pu/img/c68orADF-vJwqs2r.jpg",
+					"url": "https://t.co/BwX5cb1kfr",
+					"display_url": "pic.twitter.com/BwX5cb1kfr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1570738661767127040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6271,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738612421132289/pu/vid/540x540/eH6ljCWTd0LAPudV.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738612421132289/pu/vid/320x320/ZjYhG0iAQEPkZaiT.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570738612421132289/pu/vid/720x720/DlJzd1idDliOfK9U.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570738612421132289/pu/pl/bgtaz6A6QzlPLuCN.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158264,
+			"friends_count": 2,
+			"listed_count": 9478,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8603,
+		"favorite_count": 21922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐳🐳🐳\n\n#aespa #KARINA https://t.co/9bPFtPkgCn https://t.co/BwX5cb1kfr"
+	},
+	{
+		"created_at": "Fri Sep 16 11:40:32 +0000 2022",
+		"id": 1570699027477405700,
+		"id_str": "1570739409674174466",
+		"full_text": "[🔬#아이돌슈타인]\n\n짱달소 특 : 무대 씹어먹음, 실험 잘함 [NEW]❗️\n#이달의소녀 박사님들이\n연구소에 찾아왔어요❤️\n\n6인 ver. 플립댓 무대도 최초 공개👀\n지금 바로 #아체라 채널에서 만나요!\n\n이달소 1화 🎥 https://t.co/QxR2WwtOqn\n\n📆 9/23 (금) 18:00 2화도 Coming Soon!\n#LOONA #아체라스튜디오 https://t.co/E6C7XMYHCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "아체라",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "아체라스튜디오",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxR2WwtOqn",
+					"expanded_url": "http://youtu.be/J3NDxuM9DY4",
+					"display_url": "youtu.be/J3NDxuM9DY4",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567402733845778400,
+					"id_str": "1567402733845778434",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCIe2LakAIyXfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCIe2LakAIyXfH.jpg",
+					"url": "https://t.co/E6C7XMYHCl",
+					"display_url": "pic.twitter.com/E6C7XMYHCl",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1570699027477405696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567402733845778400,
+					"id_str": "1567402733845778434",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCIe2LakAIyXfH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCIe2LakAIyXfH.jpg",
+					"url": "https://t.co/E6C7XMYHCl",
+					"display_url": "pic.twitter.com/E6C7XMYHCl",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1570699027477405696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5156,
+			"friends_count": 1,
+			"listed_count": 8,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1662973258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 1799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔬#아이돌슈타인]\n\n짱달소 특 : 무대 씹어먹음, 실험 잘함 [NEW]❗️\n#이달의소녀 박사님들이\n연구소에 찾아왔어요❤️\n\n6인 ver. 플립댓 무대도 최초 공개👀\n지금 바로 #아체라 채널에서 만나요!\n\n이달소 1화 🎥 https://t.co/QxR2WwtOqn\n\n📆 9/23 (금) 18:00 2화도 Coming Soon!\n#LOONA #아체라스튜디오 https://t.co/E6C7XMYHCl"
+	},
+	{
+		"created_at": "Fri Sep 16 11:40:24 +0000 2022",
+		"id": 1570727493598060500,
+		"id_str": "1570739375331213314",
+		"full_text": "#aespa #æspa #에스파 #エスパ\n#KARINA #カリナ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "カリナ",
+					"indices": [
+						31,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570714108856606700,
+		"in_reply_to_status_id_str": "1570714108856606725",
+		"in_reply_to_user_id": 1518523440814198800,
+		"in_reply_to_user_id_str": "1518523440814198785",
+		"in_reply_to_screen_name": "aespaJPofficial",
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213146,
+			"friends_count": 1,
+			"listed_count": 599,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 706,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#aespa #æspa #에스파 #エスパ\n#KARINA #カリナ"
+	},
+	{
+		"created_at": "Fri Sep 16 11:40:15 +0000 2022",
+		"id": 1570669696223170600,
+		"id_str": "1570739337024634881",
+		"full_text": "＼⋱🖤#BLACKPINK💗⋰／\n\n約1年10ヶ月ぶりとなる\n待望のニューアルバム\n『#BORNPINK』が配信開始！🦩💄\n\n@BLACKPINK の\nアイデンティティが感じられる1作🎧\n\n記念に、#LINEMUSIC 限定で\n'Pink Venom' BLACKPINK POUCHが\n当たるキャンペーンを開催🎁\n\n詳しくはスレッドをチェック👀💕\n\n@YGJAPANofficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"text": "LINEMUSIC",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "YGJAPANofficial",
+					"name": "YG JAPAN official",
+					"id": 581774642,
+					"id_str": "581774642",
+					"indices": [
+						176,
+						192
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "音楽ストリーミングサービス #LINEMUSIC💚音楽も対象LINEスタンプも聴き放題&使い放題！まずは無料体験📱👉https://t.co/iCSxGie9i0",
+			"url": "https://t.co/enu5XQ5HD0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/enu5XQ5HD0",
+							"expanded_url": "https://music.line.me/about/",
+							"display_url": "music.line.me/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iCSxGie9i0",
+							"expanded_url": "https://lin.ee/fZE43sF/lnms",
+							"display_url": "lin.ee/fZE43sF/lnms",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 260536,
+			"friends_count": 197,
+			"listed_count": 475,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 3653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1652432407",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1590,
+		"favorite_count": 5355,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "＼⋱🖤#BLACKPINK💗⋰／\n\n約1年10ヶ月ぶりとなる\n待望のニューアルバム\n『#BORNPINK』が配信開始！🦩💄\n\n@BLACKPINK の\nアイデンティティが感じられる1作🎧\n\n記念に、#LINEMUSIC 限定で\n'Pink Venom' BLACKPINK POUCHが\n当たるキャンペーンを開催🎁\n\n詳しくはスレッドをチェック👀💕\n\n@YGJAPANofficial"
+	},
+	{
+		"created_at": "Fri Sep 16 11:40:10 +0000 2022",
+		"id": 1570623587954069500,
+		"id_str": "1570739315059359746",
+		"full_text": "Light it up pink. 💕\n\n#BORNPINK from @BLACKPINK is streaming now in #SpatialAudio with @Dolby Atmos. https://t.co/h1sMQzh7fT https://t.co/Ll5NpRJwpa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BORNPINK",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "Dolby",
+					"name": "Dolby",
+					"id": 15851618,
+					"id_str": "15851618",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h1sMQzh7fT",
+					"expanded_url": "http://apple.co/BORNPINK",
+					"display_url": "apple.co/BORNPINK",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570623583591727000,
+					"id_str": "1570623583591727104",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcv50-fWAAAVXjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcv50-fWAAAVXjC.jpg",
+					"url": "https://t.co/Ll5NpRJwpa",
+					"display_url": "pic.twitter.com/Ll5NpRJwpa",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1570623587954069506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570623583591727000,
+					"id_str": "1570623583591727104",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcv50-fWAAAVXjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcv50-fWAAAVXjC.jpg",
+					"url": "https://t.co/Ll5NpRJwpa",
+					"display_url": "pic.twitter.com/Ll5NpRJwpa",
+					"expanded_url": "https://twitter.com/AppleMusic/status/1570623587954069506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74580436,
+			"id_str": "74580436",
+			"name": "Apple Music",
+			"screen_name": "AppleMusic",
+			"location": "Cupertino, CA",
+			"description": "#BlackLivesMatter",
+			"url": "https://t.co/Bs0Vyjyln8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs0Vyjyln8",
+							"expanded_url": "http://apple.co/SUBSCRIBE",
+							"display_url": "apple.co/SUBSCRIBE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10193473,
+			"friends_count": 2075,
+			"listed_count": 22583,
+			"created_at": "Tue Sep 15 22:49:25 +0000 2009",
+			"favourites_count": 451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EAEAEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431129444362579971/jGrgSKDD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74580436/1661493877",
+			"profile_link_color": "0088CC",
+			"profile_sidebar_border_color": "C7C7C7",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6347,
+		"favorite_count": 17959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Light it up pink. 💕\n\n#BORNPINK from @BLACKPINK is streaming now in #SpatialAudio with @Dolby Atmos. https://t.co/h1sMQzh7fT https://t.co/Ll5NpRJwpa"
+	},
+	{
 		"created_at": "Fri Sep 16 10:40:22 +0000 2022",
 		"id": 1570715372646441000,
 		"id_str": "1570724267423301634",
