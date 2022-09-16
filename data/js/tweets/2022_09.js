@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 05:37:02 +0000 2022",
+		"id": 1570640253723246600,
+		"id_str": "1570647931153416192",
+		"full_text": "#BLACKPINK 's 2nd Album [BORN PINK] is out now!\nPlease download Digital Booklet &amp; check out BLACKPINK's EXCLUSIVE images only on #iTunes 👀\n\n🎧 https://t.co/K6QXn9YKkv\n\n#블랙핑크 #BORNPINK #ShutDown https://t.co/xUqy4CzB5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "iTunes",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K6QXn9YKkv",
+					"expanded_url": "https://apple.co/3eWvQ0D",
+					"display_url": "apple.co/3eWvQ0D",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570640093635027000,
+					"id_str": "1570640093635026945",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwI1_MaIAErzWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwI1_MaIAErzWZ.jpg",
+					"url": "https://t.co/xUqy4CzB5U",
+					"display_url": "pic.twitter.com/xUqy4CzB5U",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570640253723246600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570640093635027000,
+					"id_str": "1570640093635026945",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwI1_MaIAErzWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwI1_MaIAErzWZ.jpg",
+					"url": "https://t.co/xUqy4CzB5U",
+					"display_url": "pic.twitter.com/xUqy4CzB5U",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570640253723246600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7458838,
+			"friends_count": 0,
+			"listed_count": 7758,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12650,
+		"favorite_count": 34741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 's 2nd Album [BORN PINK] is out now!\nPlease download Digital Booklet &amp; check out BLACKPINK's EXCLUSIVE images only on #iTunes 👀\n\n🎧 https://t.co/K6QXn9YKkv\n\n#블랙핑크 #BORNPINK #ShutDown https://t.co/xUqy4CzB5U"
+	},
+	{
+		"created_at": "Fri Sep 16 05:37:02 +0000 2022",
+		"id": 1570642139809476600,
+		"id_str": "1570647931111501824",
+		"full_text": "#BLACKPINK 's 2nd Album [BORN PINK] is out now!\nPlease download Digital Booklet &amp; check out BLACKPINK's EXCLUSIVE images only on #iTunes 👀\n\n🎧 https://t.co/Q99bl4GQUK\n\n#블랙핑크 #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "iTunes",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q99bl4GQUK",
+					"expanded_url": "https://apple.co/3eWvQ0D",
+					"display_url": "apple.co/3eWvQ0D",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8522664,
+			"friends_count": 9,
+			"listed_count": 9291,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2330,
+		"favorite_count": 6749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 's 2nd Album [BORN PINK] is out now!\nPlease download Digital Booklet &amp; check out BLACKPINK's EXCLUSIVE images only on #iTunes 👀\n\n🎧 https://t.co/Q99bl4GQUK\n\n#블랙핑크 #BORNPINK #ShutDown"
+	},
+	{
+		"created_at": "Fri Sep 16 05:37:02 +0000 2022",
+		"id": 1570640257003180000,
+		"id_str": "1570647931069562880",
+		"full_text": "#BLACKPINK 의 두 번째 정규 앨범 [BORN PINK]가 발매되었습니다!\n오직 #iTunes 북클릿에서만 확인할 수 있는 #블랙핑크 의 독점 이미지를 확인해보세요 🖤💗\n\n🎧 https://t.co/K6QXn9YKkv\n\n#BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "iTunes",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K6QXn9YKkv",
+					"expanded_url": "https://apple.co/3eWvQ0D",
+					"display_url": "apple.co/3eWvQ0D",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1570640253723246600,
+		"in_reply_to_status_id_str": "1570640253723246600",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7458838,
+			"friends_count": 0,
+			"listed_count": 7758,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2038,
+		"favorite_count": 6615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK 의 두 번째 정규 앨범 [BORN PINK]가 발매되었습니다!\n오직 #iTunes 북클릿에서만 확인할 수 있는 #블랙핑크 의 독점 이미지를 확인해보세요 🖤💗\n\n🎧 https://t.co/K6QXn9YKkv\n\n#BORNPINK #ShutDown"
+	},
+	{
 		"created_at": "Fri Sep 16 04:40:28 +0000 2022",
 		"id": 1570623637434077200,
 		"id_str": "1570633696457138177",
