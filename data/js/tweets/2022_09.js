@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 01:45:37 +0000 2022",
+		"id": 1570585174878068700,
+		"id_str": "1570589691602157570",
+		"full_text": "ꕤ #LOONA(#今月の少女) ꕤ\n\nJapan 2nd singleのタイトル曲\n「#LUMINOUS」が先行配信中！🌙\n\n彼女たちの多彩な魅力が詰まった1曲🎧\n\n記念して、#LINEMUSIC 限定で\n直筆サイン入りポラロイド写真などが\n当たるキャンペーンも開催中！✍️🏻💕\n🔗https://t.co/MI7yOwoyA8\n\n@loonaJPofficial @loonatheworld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "LINEMUSIC",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MI7yOwoyA8",
+					"expanded_url": "https://lin.ee/22PHze0/lnms",
+					"display_url": "lin.ee/22PHze0/lnms",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "音楽ストリーミングサービス #LINEMUSIC💚音楽も対象LINEスタンプも聴き放題&使い放題！まずは無料体験📱👉https://t.co/iCSxGie9i0",
+			"url": "https://t.co/enu5XQ5HD0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/enu5XQ5HD0",
+							"expanded_url": "https://music.line.me/about/",
+							"display_url": "music.line.me/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iCSxGie9i0",
+							"expanded_url": "https://lin.ee/fZE43sF/lnms",
+							"display_url": "lin.ee/fZE43sF/lnms",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 260521,
+			"friends_count": 197,
+			"listed_count": 476,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 3652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1652432407",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ꕤ #LOONA(#今月の少女) ꕤ\n\nJapan 2nd singleのタイトル曲\n「#LUMINOUS」が先行配信中！🌙\n\n彼女たちの多彩な魅力が詰まった1曲🎧\n\n記念して、#LINEMUSIC 限定で\n直筆サイン入りポラロイド写真などが\n当たるキャンペーンも開催中！✍️🏻💕\n🔗https://t.co/MI7yOwoyA8\n\n@loonaJPofficial @loonatheworld"
+	},
+	{
 		"created_at": "Fri Sep 16 00:40:33 +0000 2022",
 		"id": 1570572106374717400,
 		"id_str": "1570573320000618496",
