@@ -1,6 +1,1081 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 02:37:26 +0000 2022",
+		"id": 1570593311869616000,
+		"id_str": "1570602734344351746",
+		"full_text": "&lt;얼루어&gt; 10월호에는 뷰티 러버들이 1년을 꼬박 기다린다는 뷰티 어워드 '&lt;얼루어&gt; 베스트 오브 뷰티!' 수상 리스트가 담겼습니다. 여기에 #미미 #조이 #추영우 #김신록 등 10월호를 더욱 빛내 줄 특별한 스타들까지 만나보세요.\n\nhttps://t.co/CIQMu0k50q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미미",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "추영우",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "김신록",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CIQMu0k50q",
+					"expanded_url": "https://www.allurekorea.com/?p=182185&ddw=122866&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=182185&ddw=…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMvOGk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMvOGk",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38260,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1660723318",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;얼루어&gt; 10월호에는 뷰티 러버들이 1년을 꼬박 기다린다는 뷰티 어워드 '&lt;얼루어&gt; 베스트 오브 뷰티!' 수상 리스트가 담겼습니다. 여기에 #미미 #조이 #추영우 #김신록 등 10월호를 더욱 빛내 줄 특별한 스타들까지 만나보세요.\n\nhttps://t.co/CIQMu0k50q"
+	},
+	{
+		"created_at": "Fri Sep 16 02:37:02 +0000 2022",
+		"id": 1570600863327977500,
+		"id_str": "1570602632556990464",
+		"full_text": "#BLACKPINKINYOURAREA \n\n잠시 후 12시, \n#BLACKPINK BORN PINK Countdown Party가 방송됩니다.\n\n블링크 모두 함께해요🖤💖\n▶️https://t.co/fx1yrhMU6k \n\n#블랙핑크 #2ndAlbum #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "CountdownParty",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"text": "20220915_11pmEST",
+					"indices": [
+						164,
+						181
+					]
+				},
+				{
+					"text": "20220916_12pmKST",
+					"indices": [
+						182,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fx1yrhMU6k",
+					"expanded_url": "https://youtu.be/XOX4379U-lw",
+					"display_url": "youtu.be/XOX4379U-lw",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520324,
+			"friends_count": 9,
+			"listed_count": 9286,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3740,
+		"favorite_count": 8432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA \n\n잠시 후 12시, \n#BLACKPINK BORN PINK Countdown Party가 방송됩니다.\n\n블링크 모두 함께해요🖤💖\n▶️https://t.co/fx1yrhMU6k \n\n#블랙핑크 #2ndAlbum #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST"
+	},
+	{
+		"created_at": "Fri Sep 16 02:37:01 +0000 2022",
+		"id": 1570593445278023700,
+		"id_str": "1570602625678323712",
+		"full_text": "#OFFICIALBLINK\n\n#BLACKPINK #2ndAlbum #BORNPINK #ShutDown 발매 기념 음원 스트리밍 이벤트 안내 공지가\n#WeverseMembership 에 업로드되었습니다.\n\n#BLACKPINK 을 응원하시는 #BLINK 분들의 많은 참여 부탁드립니다. (Weverse Membership Only)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "WeverseMembership",
+					"indices": [
+						82,
+						100
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8520324,
+			"friends_count": 9,
+			"listed_count": 9286,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2991,
+		"favorite_count": 9762,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n#BLACKPINK #2ndAlbum #BORNPINK #ShutDown 발매 기념 음원 스트리밍 이벤트 안내 공지가\n#WeverseMembership 에 업로드되었습니다.\n\n#BLACKPINK 을 응원하시는 #BLINK 분들의 많은 참여 부탁드립니다. (Weverse Membership Only)"
+	},
+	{
+		"created_at": "Fri Sep 16 02:29:45 +0000 2022",
+		"id": 1570591789324861400,
+		"id_str": "1570600797184086016",
+		"full_text": "오늘 오후 1시, YG엔터테인먼트 역대 최대 제작비를 투자한 블랙핑크의 정규 2집이 베일을 벗는다.\n#BLACKPINK #블랙핑크 #JISOO #JENNIE #ROSE #LISA #지수 #제니 #로제 #리사 #SHUTDOWN  #BORNPINK #BORNPINKOutToday \nhttps://t.co/X8tjG0DIwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "ROSE",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "SHUTDOWN",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "BORNPINKOutToday",
+					"indices": [
+						137,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X8tjG0DIwx",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/09/16/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%A0%95%EA%B7%9C-2%EC%A7%91-born-pink%EC%97%90-%EB%8B%B4%EA%B8%B4-%EC%A7%84%EC%8B%AC/?ddw=122876&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/09/16/%EB…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143405,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1661847304",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후 1시, YG엔터테인먼트 역대 최대 제작비를 투자한 블랙핑크의 정규 2집이 베일을 벗는다.\n#BLACKPINK #블랙핑크 #JISOO #JENNIE #ROSE #LISA #지수 #제니 #로제 #리사 #SHUTDOWN  #BORNPINK #BORNPINKOutToday \nhttps://t.co/X8tjG0DIwx"
+	},
+	{
+		"created_at": "Fri Sep 16 02:29:45 +0000 2022",
+		"id": 1570594443161665500,
+		"id_str": "1570600797142130695",
+		"full_text": "입체적인 엠보싱 네일이 셀럽들의 손끝을 점령했다.\n#지수 #윈터 #리사 #씨엘 #현아\nhttps://t.co/URMa6o7s6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지수",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "씨엘",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						44,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/URMa6o7s6D",
+					"expanded_url": "https://www.wkorea.com/2022/09/16/%ec%98%ac%eb%a1%9d%eb%b3%bc%eb%a1%9d-%ec%97%a0%eb%b3%b4%ec%8b%b1-%eb%84%a4%ec%9d%bc%ec%9d%98-%ec%84%b8%ea%b3%84/?ddw=122886&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/09/16/%ec…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309755,
+			"friends_count": 0,
+			"listed_count": 847,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1661232585",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "입체적인 엠보싱 네일이 셀럽들의 손끝을 점령했다.\n#지수 #윈터 #리사 #씨엘 #현아\nhttps://t.co/URMa6o7s6D"
+	},
+	{
+		"created_at": "Fri Sep 16 02:29:38 +0000 2022",
+		"id": 1570593313706721300,
+		"id_str": "1570600771754020866",
+		"full_text": "[15회 예고👄]\n\"너가 좋은 빅마우스가 됐으면 좋겠어\" 🐁\n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송🐭\n#mbcdrama #이종석 #임윤아\n#김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #MBC \nMBC 220916 방송 https://t.co/Kklhpi30wC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "mbcdrama",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "MBC금토드라마",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569958395637305300,
+					"id_str": "1569958395637305346",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmdCEkagAE1gZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmdCEkagAE1gZj.jpg",
+					"url": "https://t.co/Kklhpi30wC",
+					"display_url": "pic.twitter.com/Kklhpi30wC",
+					"expanded_url": "https://twitter.com/withMBC/status/1570593313706721281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569958395637305300,
+					"id_str": "1569958395637305346",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FcmdCEkagAE1gZj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcmdCEkagAE1gZj.jpg",
+					"url": "https://t.co/Kklhpi30wC",
+					"display_url": "pic.twitter.com/Kklhpi30wC",
+					"expanded_url": "https://twitter.com/withMBC/status/1570593313706721281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35035,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569958395637305346/vid/480x270/krljB2dsriyhY3ht.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569958395637305346/pl/kt-fO0ff7OiaIqLK.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569958395637305346/vid/1280x720/HdeMwY-BqddarSZf.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569958395637305346/vid/640x360/cv8QiX130GMmUPvS.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003754,
+			"friends_count": 9821,
+			"listed_count": 4198,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[15회 예고👄]\n\"너가 좋은 빅마우스가 됐으면 좋겠어\" 🐁\n\n&lt;#빅마우스&gt; 오늘 밤 9시 50분 방송🐭\n#mbcdrama #이종석 #임윤아\n#김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #MBC \nMBC 220916 방송 https://t.co/Kklhpi30wC"
+	},
+	{
 		"created_at": "Fri Sep 16 01:45:37 +0000 2022",
 		"id": 1570585174878068700,
 		"id_str": "1570589691602157570",
