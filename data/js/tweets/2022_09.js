@@ -1,6 +1,1013 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 10:40:22 +0000 2022",
+		"id": 1570715372646441000,
+		"id_str": "1570724267423301634",
+		"full_text": "Celebrate BLACKPINK's new album with the #BornPink outfits! 🖤💗\nStay tuned for a big event next week. 😁 \n\n@BLACKPINK \n#ZEPETO #ZEPETOxBLACKPINK #ZEPETOBP https://t.co/MdYMJYZ9Iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BornPink",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "ZEPETO",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "ZEPETOxBLACKPINK",
+					"indices": [
+						125,
+						142
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570715370121486300,
+					"id_str": "1570715370121486336",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNTp9WYAAPcKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNTp9WYAAPcKf.jpg",
+					"url": "https://t.co/MdYMJYZ9Iz",
+					"display_url": "pic.twitter.com/MdYMJYZ9Iz",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1570715372646440962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570715370121486300,
+					"id_str": "1570715370121486336",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNTp9WYAAPcKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNTp9WYAAPcKf.jpg",
+					"url": "https://t.co/MdYMJYZ9Iz",
+					"display_url": "pic.twitter.com/MdYMJYZ9Iz",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1570715372646440962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49949,
+			"friends_count": 3,
+			"listed_count": 88,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1650614938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2294,
+		"favorite_count": 8118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrate BLACKPINK's new album with the #BornPink outfits! 🖤💗\nStay tuned for a big event next week. 😁 \n\n@BLACKPINK \n#ZEPETO #ZEPETOxBLACKPINK #ZEPETOBP https://t.co/MdYMJYZ9Iz"
+	},
+	{
+		"created_at": "Fri Sep 16 10:40:16 +0000 2022",
+		"id": 1570708195529859000,
+		"id_str": "1570724241317793792",
+		"full_text": "BLACKPINK IN YOUR AREA🖤💗  \nStay tuned for many more to come with BLACKPINK!\n\n@ygofficialblink @BLACKPINK @ygent_official \n#BLACKPINK #ZEPETOBP #HowYouLikeThat #IceCream #LovesickGirls #PinkVenom https://t.co/wZJJwLfirk https://t.co/10Xs68feKo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"text": "IceCream",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						184,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						105,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wZJJwLfirk",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1570668953751494656",
+					"display_url": "twitter.com/zepeto_officia…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570704398128644000,
+					"id_str": "1570704398128644097",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570704398128644097/pu/img/3u33JzF7x9Xbzm_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570704398128644097/pu/img/3u33JzF7x9Xbzm_Q.jpg",
+					"url": "https://t.co/10Xs68feKo",
+					"display_url": "pic.twitter.com/10Xs68feKo",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1570708195529859072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570704398128644000,
+					"id_str": "1570704398128644097",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570704398128644097/pu/img/3u33JzF7x9Xbzm_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570704398128644097/pu/img/3u33JzF7x9Xbzm_Q.jpg",
+					"url": "https://t.co/10Xs68feKo",
+					"display_url": "pic.twitter.com/10Xs68feKo",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1570708195529859072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 53086,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570704398128644097/pu/pl/OEuBtNV6CaecJ_KS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570704398128644097/pu/vid/480x852/lw3nZXrxXWiD42Ba.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570704398128644097/pu/vid/320x568/BymE403VxXAq2NaD.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570704398128644097/pu/vid/720x1280/SvZ0q66PsUIxtXBE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49949,
+			"friends_count": 3,
+			"listed_count": 88,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1650614938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570668953751494700,
+		"quoted_status_id_str": "1570668953751494656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wZJJwLfirk",
+			"expanded": "https://twitter.com/zepeto_official/status/1570668953751494656",
+			"display": "twitter.com/zepeto_officia…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 07:00:34 +0000 2022",
+			"id": 1570668953751494700,
+			"id_str": "1570668953751494656",
+			"full_text": "BLACKPINK IN YOUR AREA🖤💗  \nHEART this to unlock what's coming next with the legendary BLACKPINK highlight choreography dance!\n\n@ygofficialblink @BLACKPINK @ygent_official \n#BLACKPINK #ZEPETOBP #HowYouLikeThat https://t.co/da7kYSvR8X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLACKPINK",
+						"indices": [
+							172,
+							182
+						]
+					},
+					{
+						"text": "ZEPETOBP",
+						"indices": [
+							183,
+							192
+						]
+					},
+					{
+						"text": "HowYouLikeThat",
+						"indices": [
+							193,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ygofficialblink",
+						"name": "BLACKPINK GLOBAL BLINK",
+						"id": 878204370403250200,
+						"id_str": "878204370403250176",
+						"indices": [
+							127,
+							143
+						]
+					},
+					{
+						"screen_name": "BLACKPINK",
+						"name": "BLACKPINKOFFICIAL",
+						"id": 1273850774380884000,
+						"id_str": "1273850774380883975",
+						"indices": [
+							144,
+							154
+						]
+					},
+					{
+						"screen_name": "ygent_official",
+						"name": "YG FAMILY",
+						"id": 408177579,
+						"id_str": "408177579",
+						"indices": [
+							155,
+							170
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570668901351972900,
+						"id_str": "1570668901351972866",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570668901351972866/pu/img/zQDzrUan_7aSHjar.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570668901351972866/pu/img/zQDzrUan_7aSHjar.jpg",
+						"url": "https://t.co/da7kYSvR8X",
+						"display_url": "pic.twitter.com/da7kYSvR8X",
+						"expanded_url": "https://twitter.com/zepeto_official/status/1570668953751494656/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570668901351972900,
+						"id_str": "1570668901351972866",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570668901351972866/pu/img/zQDzrUan_7aSHjar.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570668901351972866/pu/img/zQDzrUan_7aSHjar.jpg",
+						"url": "https://t.co/da7kYSvR8X",
+						"display_url": "pic.twitter.com/da7kYSvR8X",
+						"expanded_url": "https://twitter.com/zepeto_official/status/1570668953751494656/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 16300,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1570668901351972866/pu/pl/foccM_Dk9VxUbbu9.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570668901351972866/pu/vid/720x1280/LgARMRQwU5eOoLuw.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570668901351972866/pu/vid/320x568/vyNxZUHwcbxZ9vWB.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570668901351972866/pu/vid/480x852/JYWwl46MQTkNrBfm.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1254595988796264400,
+				"id_str": "1254595988796264450",
+				"name": "ZEPETO",
+				"screen_name": "zepeto_official",
+				"location": "INSTAGRAM : @zepeto.official",
+				"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+				"url": "https://t.co/PjB45ZkpiH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PjB45ZkpiH",
+								"expanded_url": "http://youtube.com/c/ZEPETO_official",
+								"display_url": "youtube.com/c/ZEPETO_offic…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UrgB0czvgB",
+								"expanded_url": "http://zepeto.me",
+								"display_url": "zepeto.me",
+								"indices": [
+									32,
+									55
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 49949,
+				"friends_count": 3,
+				"listed_count": 88,
+				"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+				"favourites_count": 8418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2163,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1650614938",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 125,
+			"favorite_count": 343,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1107,
+		"favorite_count": 4294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK IN YOUR AREA🖤💗  \nStay tuned for many more to come with BLACKPINK!\n\n@ygofficialblink @BLACKPINK @ygent_official \n#BLACKPINK #ZEPETOBP #HowYouLikeThat #IceCream #LovesickGirls #PinkVenom https://t.co/wZJJwLfirk https://t.co/10Xs68feKo"
+	},
+	{
+		"created_at": "Fri Sep 16 10:40:13 +0000 2022",
+		"id": 1570715806719418400,
+		"id_str": "1570724228235681793",
+		"full_text": "🎥\n9/17（土）21:00より「LUMINOUS 」\nミュージックビデオのプレミア公開が決定🌙\n\n［MV］LOONA (今月の少女) \"LUMINOUS \": https://t.co/kOYZE2V2lz\n\nリアルタイムで是非チェックしてください👍\n\n#LOONA \n#今月の少女\n#LUMINOUS https://t.co/Sv0sJgeiw2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "LUMINOUS",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kOYZE2V2lz",
+					"expanded_url": "https://youtu.be/lLug6h74acE",
+					"display_url": "youtu.be/lLug6h74acE",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570715802185367600,
+					"id_str": "1570715802185367552",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNszhaAAA3aRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNszhaAAA3aRb.jpg",
+					"url": "https://t.co/Sv0sJgeiw2",
+					"display_url": "pic.twitter.com/Sv0sJgeiw2",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1570715806719418370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570715802185367600,
+					"id_str": "1570715802185367552",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxNszhaAAA3aRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxNszhaAAA3aRb.jpg",
+					"url": "https://t.co/Sv0sJgeiw2",
+					"display_url": "pic.twitter.com/Sv0sJgeiw2",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1570715806719418370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。 9/28にJAPAN 2nd SINGLES「LUMINOUS 」をリリース！10/1(土)東京ガーデンシアターにて初となる日本公演「LOONA 1st Live “LOONATHEWORLD in TOKYO “」開催！",
+			"url": "https://t.co/r8yCDRFhQq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r8yCDRFhQq",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99205,
+			"friends_count": 2,
+			"listed_count": 758,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1007,
+		"favorite_count": 2341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎥\n9/17（土）21:00より「LUMINOUS 」\nミュージックビデオのプレミア公開が決定🌙\n\n［MV］LOONA (今月の少女) \"LUMINOUS \": https://t.co/kOYZE2V2lz\n\nリアルタイムで是非チェックしてください👍\n\n#LOONA \n#今月の少女\n#LUMINOUS https://t.co/Sv0sJgeiw2"
+	},
+	{
 		"created_at": "Fri Sep 16 09:50:28 +0000 2022",
 		"id": 1570699090845126700,
 		"id_str": "1570711710499246080",
