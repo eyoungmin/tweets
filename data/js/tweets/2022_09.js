@@ -1,6 +1,1142 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 03:40:13 +0000 2022",
+		"id": 1570608469098778600,
+		"id_str": "1570618532425093121",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Countdown Party\n\n▶️ https://t.co/VDMA8aT4j7 \n\n#블랙핑크 #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST #YouTube #2ndAlbum #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/PCpC1Wnye6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "CountdownParty",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"text": "20220915_11pmEST",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "20220916_12pmKST",
+					"indices": [
+						119,
+						136
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						174,
+						190
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VDMA8aT4j7",
+					"expanded_url": "https://youtu.be/XOX4379U-lw",
+					"display_url": "youtu.be/XOX4379U-lw",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570606182397776000,
+					"id_str": "1570606182397775872",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvqAF_aEAA8f2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvqAF_aEAA8f2q.jpg",
+					"url": "https://t.co/PCpC1Wnye6",
+					"display_url": "pic.twitter.com/PCpC1Wnye6",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570608469098778624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570606182397776000,
+					"id_str": "1570606182397775872",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvqAF_aEAA8f2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvqAF_aEAA8f2q.jpg",
+					"url": "https://t.co/PCpC1Wnye6",
+					"display_url": "pic.twitter.com/PCpC1Wnye6",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570608469098778624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8924837,
+			"friends_count": 36,
+			"listed_count": 9841,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4692,
+		"favorite_count": 12839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Countdown Party\n\n▶️ https://t.co/VDMA8aT4j7 \n\n#블랙핑크 #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST #YouTube #2ndAlbum #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/PCpC1Wnye6"
+	},
+	{
+		"created_at": "Fri Sep 16 03:40:10 +0000 2022",
+		"id": 1570608421316984800,
+		"id_str": "1570618519238107137",
+		"full_text": "우리집에 요리사가 산다 We Have a Chef in the HAUS\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/DB16wcKUwx\n\n#tripleS #트리플에스 #トリプルS https://t.co/TAJJXT5c6b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DB16wcKUwx",
+					"expanded_url": "http://youtu.be/GLP2bq60nSI",
+					"display_url": "youtu.be/GLP2bq60nSI",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570595901458247700,
+					"id_str": "1570595901458247681",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570595901458247681/pu/img/lrtbWqH7KAONNp2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570595901458247681/pu/img/lrtbWqH7KAONNp2a.jpg",
+					"url": "https://t.co/TAJJXT5c6b",
+					"display_url": "pic.twitter.com/TAJJXT5c6b",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570608421316984834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570595901458247700,
+					"id_str": "1570595901458247681",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570595901458247681/pu/img/lrtbWqH7KAONNp2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570595901458247681/pu/img/lrtbWqH7KAONNp2a.jpg",
+					"url": "https://t.co/TAJJXT5c6b",
+					"display_url": "pic.twitter.com/TAJJXT5c6b",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570608421316984834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27136,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570595901458247681/pu/vid/640x360/8VsjMHQm9MWln7yi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570595901458247681/pu/vid/1280x720/7d3ztJ5sfNrFE44z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570595901458247681/pu/pl/20UatCMKHTLxdRMM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570595901458247681/pu/vid/480x270/XHVypooGxL96ipwc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13944,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리집에 요리사가 산다 We Have a Chef in the HAUS\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/DB16wcKUwx\n\n#tripleS #트리플에스 #トリプルS https://t.co/TAJJXT5c6b"
+	},
+	{
+		"created_at": "Fri Sep 16 03:37:02 +0000 2022",
+		"id": 1570608954446876700,
+		"id_str": "1570617732579856385",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Countdown Party\n\n▶️ https://t.co/ruYncsyYEu \n\n#블랙핑크 #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST #YouTube #2ndAlbum #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/pcGPoMfrVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "CountdownParty",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"text": "20220915_11pmEST",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "20220916_12pmKST",
+					"indices": [
+						119,
+						136
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						174,
+						190
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ruYncsyYEu",
+					"expanded_url": "https://youtu.be/XOX4379U-lw",
+					"display_url": "youtu.be/XOX4379U-lw",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570608934993690600,
+					"id_str": "1570608934993690625",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvsgUNagAEXjG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvsgUNagAEXjG-.jpg",
+					"url": "https://t.co/pcGPoMfrVA",
+					"display_url": "pic.twitter.com/pcGPoMfrVA",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570608954446876675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570608934993690600,
+					"id_str": "1570608934993690625",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvsgUNagAEXjG-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvsgUNagAEXjG-.jpg",
+					"url": "https://t.co/pcGPoMfrVA",
+					"display_url": "pic.twitter.com/pcGPoMfrVA",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570608954446876675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7455657,
+			"friends_count": 0,
+			"listed_count": 7746,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12784,
+		"favorite_count": 30840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Countdown Party\n\n▶️ https://t.co/ruYncsyYEu \n\n#블랙핑크 #BORNPINK #CountdownParty #20220915_11pmEST #20220916_12pmKST #YouTube #2ndAlbum #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/pcGPoMfrVA"
+	},
+	{
+		"created_at": "Fri Sep 16 03:29:46 +0000 2022",
+		"id": 1570608412651659300,
+		"id_str": "1570615901594193921",
+		"full_text": "드디어 오늘 공개되는 블랙핑크의 정규 2집!🖤💖\n\n#블랙핑크 #블랙핑크컴백 #블랙핑크정규2집 #BLACKPINK #SHUTDOWN \nhttps://t.co/FnpJrVS8l6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "블랙핑크컴백",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "블랙핑크정규2집",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "SHUTDOWN",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FnpJrVS8l6",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/70699?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/70699?…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다!",
+			"url": "https://t.co/deL88qNq6V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/deL88qNq6V",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89189,
+			"friends_count": 4,
+			"listed_count": 418,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 오늘 공개되는 블랙핑크의 정규 2집!🖤💖\n\n#블랙핑크 #블랙핑크컴백 #블랙핑크정규2집 #BLACKPINK #SHUTDOWN \nhttps://t.co/FnpJrVS8l6"
+	},
+	{
+		"created_at": "Fri Sep 16 03:29:39 +0000 2022",
+		"id": 1570612745393021000,
+		"id_str": "1570615874419146754",
+		"full_text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodJob",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						229,
+						233
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						244,
+						247
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						254,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11176616,
+			"friends_count": 55,
+			"listed_count": 12611,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 1193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M"
+	},
+	{
 		"created_at": "Fri Sep 16 02:37:26 +0000 2022",
 		"id": 1570593311869616000,
 		"id_str": "1570602734344351746",
