@@ -1,6 +1,798 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 13:40:33 +0000 2022",
+		"id": 1570761176392540200,
+		"id_str": "1570769609610887168",
+		"full_text": "tripleS 트리플에스: 04 JiWoo ↔️ YooYeon \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/pDfehx5A35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						80,
+						98
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570758811761410000,
+					"id_str": "1570758811761410049",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx00SragAEaqEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx00SragAEaqEb.jpg",
+					"url": "https://t.co/pDfehx5A35",
+					"display_url": "pic.twitter.com/pDfehx5A35",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570761176392540161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570758811761410000,
+					"id_str": "1570758811761410049",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx00SragAEaqEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx00SragAEaqEb.jpg",
+					"url": "https://t.co/pDfehx5A35",
+					"display_url": "pic.twitter.com/pDfehx5A35",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570761176392540161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13985,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스: 04 JiWoo ↔️ YooYeon \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/pDfehx5A35"
+	},
+	{
+		"created_at": "Fri Sep 16 13:40:25 +0000 2022",
+		"id": 1570760675580084200,
+		"id_str": "1570769579730771970",
+		"full_text": "tripleS 트리플에스: 03 ChaeYeon ↔️ YuBin \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/Uf1705cKFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						81,
+						99
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570758627321061400,
+					"id_str": "1570758627321061377",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0pjlaIAEFfSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0pjlaIAEFfSf.jpg",
+					"url": "https://t.co/Uf1705cKFx",
+					"display_url": "pic.twitter.com/Uf1705cKFx",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570760675580084231/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570758627321061400,
+					"id_str": "1570758627321061377",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0pjlaIAEFfSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0pjlaIAEFfSf.jpg",
+					"url": "https://t.co/Uf1705cKFx",
+					"display_url": "pic.twitter.com/Uf1705cKFx",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570760675580084231/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13985,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스: 03 ChaeYeon ↔️ YuBin \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/Uf1705cKFx"
+	},
+	{
+		"created_at": "Fri Sep 16 13:40:22 +0000 2022",
+		"id": 1570760265247105000,
+		"id_str": "1570769566568939520",
+		"full_text": "tripleS 트리플에스: 02 HyeRin ↔️ SooMin \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/K0GmZnqVhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						80,
+						98
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570758565358628900,
+					"id_str": "1570758565358628871",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0l8wacAcEKJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0l8wacAcEKJ3.jpg",
+					"url": "https://t.co/K0GmZnqVhv",
+					"display_url": "pic.twitter.com/K0GmZnqVhv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570760265247105024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570758565358628900,
+					"id_str": "1570758565358628871",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0l8wacAcEKJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0l8wacAcEKJ3.jpg",
+					"url": "https://t.co/K0GmZnqVhv",
+					"display_url": "pic.twitter.com/K0GmZnqVhv",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570760265247105024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13985,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스: 02 HyeRin ↔️ SooMin \nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/K0GmZnqVhv"
+	},
+	{
+		"created_at": "Fri Sep 16 13:40:15 +0000 2022",
+		"id": 1570759847033057300,
+		"id_str": "1570769536525164547",
+		"full_text": "tripleS 트리플에스: 01 SeoYeon ↔️ NaKyoung\nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/81t2vaebyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						82,
+						100
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570758087782592500,
+					"id_str": "1570758087782592513",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0KJpacAEC-8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0KJpacAEC-8r.jpg",
+					"url": "https://t.co/81t2vaebyw",
+					"display_url": "pic.twitter.com/81t2vaebyw",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570759847033057280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570758087782592500,
+					"id_str": "1570758087782592513",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcx0KJpacAEC-8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcx0KJpacAEC-8r.jpg",
+					"url": "https://t.co/81t2vaebyw",
+					"display_url": "pic.twitter.com/81t2vaebyw",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570759847033057280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13985,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스: 01 SeoYeon ↔️ NaKyoung\nGrand Gravity Table\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/81t2vaebyw"
+	},
+	{
 		"created_at": "Fri Sep 16 11:40:45 +0000 2022",
 		"id": 1570738761130180600,
 		"id_str": "1570739461511872512",
