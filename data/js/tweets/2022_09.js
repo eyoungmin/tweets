@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 06:40:10 +0000 2022",
+		"id": 1570653438215856000,
+		"id_str": "1570663819168415744",
+		"full_text": "태연, '당소말' OST 마지막 가창자 합류…'너와 나 사이' 발매 \n\nTAEYEON joins last in the lineup for  the ‘If You Wish Upon Me’ OST and is releasing ‘너와 나 사이’ on 9/22! \n\nhttps://t.co/eP9zoVfroh\n\n#태연 #TAEYEON\n#너와나사이\n#당신이소원을말하면 #OST https://t.co/d4ejnEU3RK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "너와나사이",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						202,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eP9zoVfroh",
+					"expanded_url": "https://naver.me/GKvH6Lal",
+					"display_url": "naver.me/GKvH6Lal",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570653427151282200,
+					"id_str": "1570653427151282177",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwU-GaaIAEYUcW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwU-GaaIAEYUcW.jpg",
+					"url": "https://t.co/d4ejnEU3RK",
+					"display_url": "pic.twitter.com/d4ejnEU3RK",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1570653438215856129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570653427151282200,
+					"id_str": "1570653427151282177",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FcwU-GaaIAEYUcW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcwU-GaaIAEYUcW.jpg",
+					"url": "https://t.co/d4ejnEU3RK",
+					"display_url": "pic.twitter.com/d4ejnEU3RK",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1570653438215856129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144970,
+			"friends_count": 2,
+			"listed_count": 464,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1642,
+		"favorite_count": 3096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연, '당소말' OST 마지막 가창자 합류…'너와 나 사이' 발매 \n\nTAEYEON joins last in the lineup for  the ‘If You Wish Upon Me’ OST and is releasing ‘너와 나 사이’ on 9/22! \n\nhttps://t.co/eP9zoVfroh\n\n#태연 #TAEYEON\n#너와나사이\n#당신이소원을말하면 #OST https://t.co/d4ejnEU3RK"
+	},
+	{
+		"created_at": "Fri Sep 16 06:29:48 +0000 2022",
+		"id": 1570659635065131000,
+		"id_str": "1570661210827390978",
+		"full_text": "https://t.co/Dk0uB6QNKD\n블랙핑크 '셧 다운' 뮤비 속 패션 이모저모 [제니 편]\n따라 입고 싶은 충동 200%",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dk0uB6QNKD",
+					"expanded_url": "https://www.wkorea.com/2022/09/16/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%85%A7-%EB%8B%A4%EC%9A%B4-%EB%AE%A4%EB%B9%84-%EC%86%8D-%ED%8C%A8%EC%85%98-%EC%9D%B4%EB%AA%A8%EC%A0%80%EB%AA%A8-%EC%A0%9C%EB%8B%88-%ED%8E%B8/?ddw=122935&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/09/16/%EB…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309770,
+			"friends_count": 0,
+			"listed_count": 847,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1661232585",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 269,
+		"favorite_count": 665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/Dk0uB6QNKD\n블랙핑크 '셧 다운' 뮤비 속 패션 이모저모 [제니 편]\n따라 입고 싶은 충동 200%"
+	},
+	{
 		"created_at": "Fri Sep 16 05:37:02 +0000 2022",
 		"id": 1570640253723246600,
 		"id_str": "1570647931153416192",
