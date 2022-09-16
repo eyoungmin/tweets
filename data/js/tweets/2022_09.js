@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 00:40:33 +0000 2022",
+		"id": 1570572106374717400,
+		"id_str": "1570573320000618496",
+		"full_text": "#BLACKPINK 'Pink Venom' M/V HITS 300 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Pink Venom' M/V\n🎥 https://t.co/ay5EIL94Y2  \n\n#블랙핑크 #PinkVenom #MV #300MILLION #YOUTUBE #YG https://t.co/ZmzjBKYudx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "300MILLION",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ay5EIL94Y2",
+					"expanded_url": "https://youtu.be/gQlMMD8auMs",
+					"display_url": "youtu.be/gQlMMD8auMs",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570571403719757800,
+					"id_str": "1570571403719757824",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvKXtUaUAAJwNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvKXtUaUAAJwNM.jpg",
+					"url": "https://t.co/ZmzjBKYudx",
+					"display_url": "pic.twitter.com/ZmzjBKYudx",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570572106374717441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570571403719757800,
+					"id_str": "1570571403719757824",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvKXtUaUAAJwNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvKXtUaUAAJwNM.jpg",
+					"url": "https://t.co/ZmzjBKYudx",
+					"display_url": "pic.twitter.com/ZmzjBKYudx",
+					"expanded_url": "https://twitter.com/ygent_official/status/1570572106374717441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8924304,
+			"friends_count": 36,
+			"listed_count": 9842,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12172,
+		"favorite_count": 27814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'Pink Venom' M/V HITS 300 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'Pink Venom' M/V\n🎥 https://t.co/ay5EIL94Y2  \n\n#블랙핑크 #PinkVenom #MV #300MILLION #YOUTUBE #YG https://t.co/ZmzjBKYudx"
+	},
+	{
+		"created_at": "Fri Sep 16 00:40:31 +0000 2022",
+		"id": 1570408627672060000,
+		"id_str": "1570573311100215296",
+		"full_text": "정말 피를 토하고 싶은 심정입니다. 스토킹이 처벌이 약하니 어쩌니, 그런 핑계는 대지 마세요. 성폭법위반으로 수사받는 피의자가 수사 중에 피해자에게 반복적으로 접근하는데 그걸 알고도 그냥 있어놓고 무슨 변명입니까. 국가가 국민을 보호할 책임을 방기한거 아닌가요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570407534577713200,
+		"in_reply_to_status_id_str": "1570407534577713152",
+		"in_reply_to_user_id": 579431123,
+		"in_reply_to_user_id_str": "579431123",
+		"in_reply_to_screen_name": "sun_Oh_",
+		"user": {
+			"id": 579431123,
+			"id_str": "579431123",
+			"name": "ㅎㅏㄹㅏ",
+			"screen_name": "sun_Oh_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18058,
+			"friends_count": 1263,
+			"listed_count": 81,
+			"created_at": "Mon May 14 01:18:11 +0000 2012",
+			"favourites_count": 16373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579431123/1586963722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1163,
+		"favorite_count": 761,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정말 피를 토하고 싶은 심정입니다. 스토킹이 처벌이 약하니 어쩌니, 그런 핑계는 대지 마세요. 성폭법위반으로 수사받는 피의자가 수사 중에 피해자에게 반복적으로 접근하는데 그걸 알고도 그냥 있어놓고 무슨 변명입니까. 국가가 국민을 보호할 책임을 방기한거 아닌가요."
+	},
+	{
+		"created_at": "Fri Sep 16 00:40:24 +0000 2022",
+		"id": 1570407534577713200,
+		"id_str": "1570573281073238024",
+		"full_text": "5. 피해자가 스토킹고소를 했을때, 적극적으로 특가법 등을 적용할 수 있는지 검토하고, 피해자 위해 우려 상황임을 소명해서 구속영장을 재신청하였어야 합니다. \n이 사건은 분명히 피해자를 살릴 수 있었습니다. 원통합니다. \n피해자의 명복을 빕니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570406759239655400,
+		"in_reply_to_status_id_str": "1570406759239655429",
+		"in_reply_to_user_id": 579431123,
+		"in_reply_to_user_id_str": "579431123",
+		"in_reply_to_screen_name": "sun_Oh_",
+		"user": {
+			"id": 579431123,
+			"id_str": "579431123",
+			"name": "ㅎㅏㄹㅏ",
+			"screen_name": "sun_Oh_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18058,
+			"friends_count": 1263,
+			"listed_count": 81,
+			"created_at": "Mon May 14 01:18:11 +0000 2012",
+			"favourites_count": 16373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579431123/1586963722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5. 피해자가 스토킹고소를 했을때, 적극적으로 특가법 등을 적용할 수 있는지 검토하고, 피해자 위해 우려 상황임을 소명해서 구속영장을 재신청하였어야 합니다. \n이 사건은 분명히 피해자를 살릴 수 있었습니다. 원통합니다. \n피해자의 명복을 빕니다."
+	},
+	{
+		"created_at": "Fri Sep 16 00:40:17 +0000 2022",
+		"id": 1570406759239655400,
+		"id_str": "1570573251079806987",
+		"full_text": "4. 이미 구속영장이 기각되었다고 해도, 피해자가 고소한 성폭법 사건 수사 중에 피해자에게 반복적으로 접근하여 스토킹 범죄로 추가 고소까지 하는 상황이었습니다. 수사기관은 스토킹 범죄가 반의사 불벌죄이고 처벌수위가 약하다는 변명을 할 것이 아니라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570406617245692000,
+		"in_reply_to_status_id_str": "1570406617245691904",
+		"in_reply_to_user_id": 579431123,
+		"in_reply_to_user_id_str": "579431123",
+		"in_reply_to_screen_name": "sun_Oh_",
+		"user": {
+			"id": 579431123,
+			"id_str": "579431123",
+			"name": "ㅎㅏㄹㅏ",
+			"screen_name": "sun_Oh_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18058,
+			"friends_count": 1263,
+			"listed_count": 81,
+			"created_at": "Mon May 14 01:18:11 +0000 2012",
+			"favourites_count": 16373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579431123/1586963722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4. 이미 구속영장이 기각되었다고 해도, 피해자가 고소한 성폭법 사건 수사 중에 피해자에게 반복적으로 접근하여 스토킹 범죄로 추가 고소까지 하는 상황이었습니다. 수사기관은 스토킹 범죄가 반의사 불벌죄이고 처벌수위가 약하다는 변명을 할 것이 아니라"
+	},
+	{
+		"created_at": "Fri Sep 16 00:40:10 +0000 2022",
+		"id": 1570406617245692000,
+		"id_str": "1570573221157650432",
+		"full_text": "3. 더군다나 특가법에는 보복범죄에 관하여 강도높게 처벌을 하고 있습니다. 특가법은 보복목적 협박을 하거나 형사사건의 수사 또는 재판과 관련하여 필요한 사실을 알고 있는 사람 등에게 면담을 강요하거나 위력만 행사해도 처벌을 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570406290459099100,
+		"in_reply_to_status_id_str": "1570406290459099138",
+		"in_reply_to_user_id": 579431123,
+		"in_reply_to_user_id_str": "579431123",
+		"in_reply_to_screen_name": "sun_Oh_",
+		"user": {
+			"id": 579431123,
+			"id_str": "579431123",
+			"name": "ㅎㅏㄹㅏ",
+			"screen_name": "sun_Oh_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18058,
+			"friends_count": 1263,
+			"listed_count": 81,
+			"created_at": "Mon May 14 01:18:11 +0000 2012",
+			"favourites_count": 16373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341349566407270401/YFWCfRpV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579431123/1586963722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3. 더군다나 특가법에는 보복범죄에 관하여 강도높게 처벌을 하고 있습니다. 특가법은 보복목적 협박을 하거나 형사사건의 수사 또는 재판과 관련하여 필요한 사실을 알고 있는 사람 등에게 면담을 강요하거나 위력만 행사해도 처벌을 합니다."
+	},
+	{
+		"created_at": "Fri Sep 16 00:36:58 +0000 2022",
+		"id": 1570563533561278500,
+		"id_str": "1570572417399132160",
+		"full_text": "#BLACKPINK ‘BORN PINK’ Release Counter\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Release_Counter #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/3Zt2lzfAq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "Release_Counter",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "20220916_12amEST",
+					"indices": [
+						145,
+						162
+					]
+				},
+				{
+					"text": "20220916_1pmKST",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						189,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570563176244351000,
+					"id_str": "1570563176244350978",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvC4zlakAIdFtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvC4zlakAIdFtv.jpg",
+					"url": "https://t.co/3Zt2lzfAq7",
+					"display_url": "pic.twitter.com/3Zt2lzfAq7",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570563533561278464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570563176244351000,
+					"id_str": "1570563176244350978",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FcvC4zlakAIdFtv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcvC4zlakAIdFtv.jpg",
+					"url": "https://t.co/3Zt2lzfAq7",
+					"display_url": "pic.twitter.com/3Zt2lzfAq7",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1570563533561278464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7453146,
+			"friends_count": 0,
+			"listed_count": 7743,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560480890949873664/EDaaz9e6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10694,
+		"favorite_count": 31577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘BORN PINK’ Release Counter\n\n2nd Album ‘BORN PINK’\n✅2022.09.16 12AM (EST) &amp; 1PM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #Release_Counter #20220916_12amEST #20220916_1pmKST #Release #YG https://t.co/3Zt2lzfAq7"
+	},
+	{
 		"created_at": "Thu Sep 15 16:40:10 +0000 2022",
 		"id": 1570448919250833400,
 		"id_str": "1570452424707477504",
