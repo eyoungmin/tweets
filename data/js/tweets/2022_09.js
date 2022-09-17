@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 12:40:13 +0000 2022",
+		"id": 1571102594294251500,
+		"id_str": "1571116815966683137",
+		"full_text": "#배철수 선배님을 \n뵙고 왔습니다. \n무대로 돌아와 주셔서 \n감사합니다!!! \n선배님 신곡도 \n발표해주시면 무척 매우 많이 \n기쁘겠습니다!! \n건강하시고 활동 많이 \n해 주세요!!! \n\n캬핫!!😍❤️❤️❤️❤️❤️\n\n#송골매 \n#송골매콘서트 \n#구창모 https://t.co/S42hepxmEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배철수",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "송골매",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "송골매콘서트",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "구창모",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571102587264594000,
+					"id_str": "1571102587264593920",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc2teqOacAACuni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc2teqOacAACuni.jpg",
+					"url": "https://t.co/S42hepxmEu",
+					"display_url": "pic.twitter.com/S42hepxmEu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571102594294251520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571102587264594000,
+					"id_str": "1571102587264593920",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc2teqOacAACuni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc2teqOacAACuni.jpg",
+					"url": "https://t.co/S42hepxmEu",
+					"display_url": "pic.twitter.com/S42hepxmEu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571102594294251520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571102587251982300,
+					"id_str": "1571102587251982336",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc2teqLaAAAm-jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc2teqLaAAAm-jo.jpg",
+					"url": "https://t.co/S42hepxmEu",
+					"display_url": "pic.twitter.com/S42hepxmEu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571102594294251520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571102587256205300,
+					"id_str": "1571102587256205314",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc2teqMacAINCH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc2teqMacAINCH-.jpg",
+					"url": "https://t.co/S42hepxmEu",
+					"display_url": "pic.twitter.com/S42hepxmEu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571102594294251520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274296,
+			"friends_count": 595,
+			"listed_count": 2749,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01b444fb442093e5",
+			"url": "https://api.twitter.com/1.1/geo/id/01b444fb442093e5.json",
+			"place_type": "city",
+			"name": "용인시",
+			"full_name": "대한민국 용인시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.019523959949,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.373997325115
+						],
+						[
+							127.019523959949,
+							37.373997325115
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배철수 선배님을 \n뵙고 왔습니다. \n무대로 돌아와 주셔서 \n감사합니다!!! \n선배님 신곡도 \n발표해주시면 무척 매우 많이 \n기쁘겠습니다!! \n건강하시고 활동 많이 \n해 주세요!!! \n\n캬핫!!😍❤️❤️❤️❤️❤️\n\n#송골매 \n#송골매콘서트 \n#구창모 https://t.co/S42hepxmEu"
+	},
+	{
 		"created_at": "Sat Sep 17 11:45:40 +0000 2022",
 		"id": 1571101765021618200,
 		"id_str": "1571103087133163522",
