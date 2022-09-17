@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 03:40:10 +0000 2022",
+		"id": 1570971835524845600,
+		"id_str": "1570980906218790912",
+		"full_text": "너와 함께 데뷔할게  Gonna Debut With You\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/GLCvneWarH\n\n#tripleS #트리플에스 #トリプルS https://t.co/9TMfJwdiOk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GLCvneWarH",
+					"expanded_url": "http://youtu.be/5itgf7M7Quc",
+					"display_url": "youtu.be/5itgf7M7Quc",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570971691337285600,
+					"id_str": "1570971691337285634",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570971691337285634/pu/img/13bVeUd_46hIScUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570971691337285634/pu/img/13bVeUd_46hIScUJ.jpg",
+					"url": "https://t.co/9TMfJwdiOk",
+					"display_url": "pic.twitter.com/9TMfJwdiOk",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570971835524845576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570971691337285600,
+					"id_str": "1570971691337285634",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570971691337285634/pu/img/13bVeUd_46hIScUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570971691337285634/pu/img/13bVeUd_46hIScUJ.jpg",
+					"url": "https://t.co/9TMfJwdiOk",
+					"display_url": "pic.twitter.com/9TMfJwdiOk",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1570971835524845576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18474,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570971691337285634/pu/vid/480x270/FtMIolgTHqffZufN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570971691337285634/pu/pl/c1rn88G3OTDbXTY-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570971691337285634/pu/vid/1280x720/pb8ps_4EHEtwkTZ-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570971691337285634/pu/vid/640x360/4gl7tvvlXkGKScyL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14020,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너와 함께 데뷔할게  Gonna Debut With You\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/GLCvneWarH\n\n#tripleS #트리플에스 #トリプルS https://t.co/9TMfJwdiOk"
+	},
+	{
+		"created_at": "Sat Sep 17 03:29:59 +0000 2022",
+		"id": 1570970049552470000,
+		"id_str": "1570978343549538304",
+		"full_text": "미니멀하지만 확실한 포인트를 주는 쪽을 택한 셧 다운 속 로제 패션 스타일.\n#블랙핑크 #셧다운 #로제 #Blackpink #ShutDown #ROSE \nhttps://t.co/iEqbU7DVHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "셧다운",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "ROSE",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iEqbU7DVHC",
+					"expanded_url": "https://www.wkorea.com/2022/09/17/%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac-%ec%85%a7-%eb%8b%a4%ec%9a%b4-%eb%ae%a4%eb%b9%84-%ec%86%8d-%ed%8c%a8%ec%85%98-%ec%9d%b4%eb%aa%a8%ec%a0%80%eb%aa%a8-%eb%a1%9c%ec%a0%9c-%ed%8e%b8/?ddw=123007&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/09/17/%eb…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309813,
+			"friends_count": 0,
+			"listed_count": 848,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1661232585",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미니멀하지만 확실한 포인트를 주는 쪽을 택한 셧 다운 속 로제 패션 스타일.\n#블랙핑크 #셧다운 #로제 #Blackpink #ShutDown #ROSE \nhttps://t.co/iEqbU7DVHC"
+	},
+	{
 		"created_at": "Sat Sep 17 01:40:19 +0000 2022",
 		"id": 1570941311066472400,
 		"id_str": "1570950744991301632",
