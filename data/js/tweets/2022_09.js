@@ -1,6 +1,1232 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 15:40:46 +0000 2022",
+		"id": 1571152349833625600,
+		"id_str": "1571162252308250624",
+		"full_text": "[#현진 / #HyunJin] ❤️❤️💓💓\n\n#이달의소녀 #LOONA https://t.co/8GMPU7tDaG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571152345316180000,
+					"id_str": "1571152345316179969",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3au9aXwAEgGyu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3au9aXwAEgGyu.jpg",
+					"url": "https://t.co/8GMPU7tDaG",
+					"display_url": "pic.twitter.com/8GMPU7tDaG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152349833625601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571152345316180000,
+					"id_str": "1571152345316179969",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3au9aXwAEgGyu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3au9aXwAEgGyu.jpg",
+					"url": "https://t.co/8GMPU7tDaG",
+					"display_url": "pic.twitter.com/8GMPU7tDaG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152349833625601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571152345488146400,
+					"id_str": "1571152345488146433",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3au-DXwAE0jay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3au-DXwAE0jay.jpg",
+					"url": "https://t.co/8GMPU7tDaG",
+					"display_url": "pic.twitter.com/8GMPU7tDaG",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152349833625601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571152341486928000,
+		"in_reply_to_status_id_str": "1571152341486927878",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981578,
+			"friends_count": 3,
+			"listed_count": 8956,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1062,
+		"favorite_count": 4621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#현진 / #HyunJin] ❤️❤️💓💓\n\n#이달의소녀 #LOONA https://t.co/8GMPU7tDaG"
+	},
+	{
+		"created_at": "Sat Sep 17 15:40:41 +0000 2022",
+		"id": 1571152341486928000,
+		"id_str": "1571162230741164035",
+		"full_text": "[#현진 / #HyunJin] ❤️❤️💓💓\n\n#이달의소녀 #LOONA https://t.co/NJgpAjzHup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571152336306724900,
+					"id_str": "1571152336306724864",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3aub2WYAAJ4MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3aub2WYAAJ4MB.jpg",
+					"url": "https://t.co/NJgpAjzHup",
+					"display_url": "pic.twitter.com/NJgpAjzHup",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152341486927878/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571152336306724900,
+					"id_str": "1571152336306724864",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3aub2WYAAJ4MB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3aub2WYAAJ4MB.jpg",
+					"url": "https://t.co/NJgpAjzHup",
+					"display_url": "pic.twitter.com/NJgpAjzHup",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152341486927878/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571152336340373500,
+					"id_str": "1571152336340373506",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3aub-X0AI5BPF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3aub-X0AI5BPF.jpg",
+					"url": "https://t.co/NJgpAjzHup",
+					"display_url": "pic.twitter.com/NJgpAjzHup",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152341486927878/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571152336474497000,
+					"id_str": "1571152336474497026",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3auceWYAIWjh6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3auceWYAIWjh6.jpg",
+					"url": "https://t.co/NJgpAjzHup",
+					"display_url": "pic.twitter.com/NJgpAjzHup",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152341486927878/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571152336327774200,
+					"id_str": "1571152336327774208",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3aub7XkAA4CYB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3aub7XkAA4CYB.jpg",
+					"url": "https://t.co/NJgpAjzHup",
+					"display_url": "pic.twitter.com/NJgpAjzHup",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1571152341486927878/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981578,
+			"friends_count": 3,
+			"listed_count": 8956,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2193,
+		"favorite_count": 8086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#현진 / #HyunJin] ❤️❤️💓💓\n\n#이달의소녀 #LOONA https://t.co/NJgpAjzHup"
+	},
+	{
+		"created_at": "Sat Sep 17 15:40:29 +0000 2022",
+		"id": 1571152102600364000,
+		"id_str": "1571162179390283777",
+		"full_text": "#BLACKPINK ‘Shut Down’ DANCE PERFORMANCE VIDEO Release Counter\nOriginally posted by https://t.co/XZQ3IP0j16\n\n‘Shut Down’ DANCE PERFORMANCE VIDEO\n✅2022.09.18 11AM (EST) &amp; 2022.09.19 12AM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #Release_Counter #YG https://t.co/re4M9S1cia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						213,
+						222
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						223,
+						232
+					]
+				},
+				{
+					"text": "DANCE_PERFORMANCE_VIDEO",
+					"indices": [
+						233,
+						257
+					]
+				},
+				{
+					"text": "Release_Counter",
+					"indices": [
+						258,
+						274
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						275,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZQ3IP0j16",
+					"expanded_url": "http://yg-life.com",
+					"display_url": "yg-life.com",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571149135105130500,
+					"id_str": "1571149135105130496",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3X0GcagAA_5t7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3X0GcagAA_5t7.jpg",
+					"url": "https://t.co/re4M9S1cia",
+					"display_url": "pic.twitter.com/re4M9S1cia",
+					"expanded_url": "https://twitter.com/ygent_official/status/1571152102600364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571149135105130500,
+					"id_str": "1571149135105130496",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3X0GcagAA_5t7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3X0GcagAA_5t7.jpg",
+					"url": "https://t.co/re4M9S1cia",
+					"display_url": "pic.twitter.com/re4M9S1cia",
+					"expanded_url": "https://twitter.com/ygent_official/status/1571152102600364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8929111,
+			"friends_count": 36,
+			"listed_count": 9849,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7652,
+		"favorite_count": 21432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down’ DANCE PERFORMANCE VIDEO Release Counter\nOriginally posted by https://t.co/XZQ3IP0j16\n\n‘Shut Down’ DANCE PERFORMANCE VIDEO\n✅2022.09.18 11AM (EST) &amp; 2022.09.19 12AM (KST)\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #Release_Counter #YG https://t.co/re4M9S1cia"
+	},
+	{
+		"created_at": "Sat Sep 17 15:40:19 +0000 2022",
+		"id": 1571152031041323000,
+		"id_str": "1571162140999925763",
+		"full_text": "HAPPY IU 14th Anniversary🎉\n⠀\n#IU #아이유\n#IU_14th_Anniversary\n#IU_14th_UAENA\n#My_Youth_for_14Years_is_IU\n#14년째_내_청춘은_아이유 https://t.co/9WKsfZE421",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "IU_14th_Anniversary",
+					"indices": [
+						38,
+						58
+					]
+				},
+				{
+					"text": "IU_14th_UAENA",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"text": "My_Youth_for_14Years_is_IU",
+					"indices": [
+						74,
+						101
+					]
+				},
+				{
+					"text": "14년째_내_청춘은_아이유",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571152020970836000,
+					"id_str": "1571152020970835974",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3acFIakAYEcVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3acFIakAYEcVV.jpg",
+					"url": "https://t.co/9WKsfZE421",
+					"display_url": "pic.twitter.com/9WKsfZE421",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1571152031041323009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571152020970836000,
+					"id_str": "1571152020970835974",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3acFIakAYEcVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3acFIakAYEcVV.jpg",
+					"url": "https://t.co/9WKsfZE421",
+					"display_url": "pic.twitter.com/9WKsfZE421",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1571152031041323009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1468158,
+			"friends_count": 0,
+			"listed_count": 2343,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13273,
+		"favorite_count": 31159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY IU 14th Anniversary🎉\n⠀\n#IU #아이유\n#IU_14th_Anniversary\n#IU_14th_UAENA\n#My_Youth_for_14Years_is_IU\n#14년째_내_청춘은_아이유 https://t.co/9WKsfZE421"
+	},
+	{
+		"created_at": "Sat Sep 17 15:40:10 +0000 2022",
+		"id": 1571152019196641300,
+		"id_str": "1571162102588444677",
+		"full_text": "HAPPY IU 14th Anniversary🎉\n⠀\n#IU #아이유\n#IU_14th_Anniversary\n#IU_14th_UAENA\n#My_Youth_for_14Years_is_IU\n#14년째_내_청춘은_아이유 https://t.co/FmdsDbKHYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "IU_14th_Anniversary",
+					"indices": [
+						38,
+						58
+					]
+				},
+				{
+					"text": "IU_14th_UAENA",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"text": "My_Youth_for_14Years_is_IU",
+					"indices": [
+						74,
+						101
+					]
+				},
+				{
+					"text": "14년째_내_청춘은_아이유",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571152014310264800,
+					"id_str": "1571152014310264832",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3absUaUAA8Glt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3absUaUAA8Glt.jpg",
+					"url": "https://t.co/FmdsDbKHYw",
+					"display_url": "pic.twitter.com/FmdsDbKHYw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1571152019196641280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571152014310264800,
+					"id_str": "1571152014310264832",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3absUaUAA8Glt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3absUaUAA8Glt.jpg",
+					"url": "https://t.co/FmdsDbKHYw",
+					"display_url": "pic.twitter.com/FmdsDbKHYw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1571152019196641280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67081,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2285,
+		"favorite_count": 4956,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY IU 14th Anniversary🎉\n⠀\n#IU #아이유\n#IU_14th_Anniversary\n#IU_14th_UAENA\n#My_Youth_for_14Years_is_IU\n#14년째_내_청춘은_아이유 https://t.co/FmdsDbKHYw"
+	},
+	{
 		"created_at": "Sat Sep 17 14:51:28 +0000 2022",
 		"id": 1571148540377968600,
 		"id_str": "1571149846496804865",
