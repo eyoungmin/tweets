@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 08:40:28 +0000 2022",
+		"id": 1571053845794496500,
+		"id_str": "1571056481147002882",
+		"full_text": "[#선예 / #Sunye]\n잠시 후 6시 10분, KBS2 불후의 명곡에 \n선예가 출연합니다✨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19179,
+			"friends_count": 2,
+			"listed_count": 71,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#선예 / #Sunye]\n잠시 후 6시 10분, KBS2 불후의 명곡에 \n선예가 출연합니다✨"
+	},
+	{
+		"created_at": "Sat Sep 17 08:40:20 +0000 2022",
+		"id": 1571051266108977200,
+		"id_str": "1571056447034638337",
+		"full_text": "사랑하는 이승재 실장의 \n@leeseungjae__ \n첫번째 전시 마지막 날. \n다음 도시는 어디입니까!! https://t.co/XC8Qn3oV9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leeseungjae__",
+					"name": "Seungjae Lee",
+					"id": 1369896340138782700,
+					"id_str": "1369896340138782725",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571051148651663400,
+					"id_str": "1571051148651663363",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc1-sidaEAM4TiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc1-sidaEAM4TiP.jpg",
+					"url": "https://t.co/XC8Qn3oV9y",
+					"display_url": "pic.twitter.com/XC8Qn3oV9y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571051266108977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571051148651663400,
+					"id_str": "1571051148651663363",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc1-sidaEAM4TiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc1-sidaEAM4TiP.jpg",
+					"url": "https://t.co/XC8Qn3oV9y",
+					"display_url": "pic.twitter.com/XC8Qn3oV9y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571051266108977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571051148651663400,
+					"id_str": "1571051148651663361",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc1-sidaEAECp_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc1-sidaEAECp_X.jpg",
+					"url": "https://t.co/XC8Qn3oV9y",
+					"display_url": "pic.twitter.com/XC8Qn3oV9y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571051266108977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571051148651663400,
+					"id_str": "1571051148651663360",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc1-sidaEAAVoLO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc1-sidaEAAVoLO.jpg",
+					"url": "https://t.co/XC8Qn3oV9y",
+					"display_url": "pic.twitter.com/XC8Qn3oV9y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571051266108977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571051148681056300,
+					"id_str": "1571051148681056257",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc1-sikakAEZIcl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc1-sikakAEZIcl.jpg",
+					"url": "https://t.co/XC8Qn3oV9y",
+					"display_url": "pic.twitter.com/XC8Qn3oV9y",
+					"expanded_url": "https://twitter.com/love_yuna/status/1571051266108977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274190,
+			"friends_count": 594,
+			"listed_count": 2748,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑하는 이승재 실장의 \n@leeseungjae__ \n첫번째 전시 마지막 날. \n다음 도시는 어디입니까!! https://t.co/XC8Qn3oV9y"
+	},
+	{
+		"created_at": "Sat Sep 17 08:40:15 +0000 2022",
+		"id": 1571046453778481200,
+		"id_str": "1571056425211727873",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n이달의 소녀 (LOONA) X Wonderwall. \n비하인드 포토를 공개합니다🌙\n\n희진🐰 현진🐱 하슬🕊 여진🐸\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\n오직 원더월에서만. https://t.co/eu3Ofy4wNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "Wonderwall",
+					"indices": [
+						111,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571046436917350400,
+					"id_str": "1571046436917350401",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc16aR4aEAEsJuo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc16aR4aEAEsJuo.jpg",
+					"url": "https://t.co/eu3Ofy4wNX",
+					"display_url": "pic.twitter.com/eu3Ofy4wNX",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571046453778481157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571046436917350400,
+					"id_str": "1571046436917350401",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc16aR4aEAEsJuo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc16aR4aEAEsJuo.jpg",
+					"url": "https://t.co/eu3Ofy4wNX",
+					"display_url": "pic.twitter.com/eu3Ofy4wNX",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571046453778481157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571046436934152200,
+					"id_str": "1571046436934152192",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc16aR8acAAW1DS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc16aR8acAAW1DS.jpg",
+					"url": "https://t.co/eu3Ofy4wNX",
+					"display_url": "pic.twitter.com/eu3Ofy4wNX",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571046453778481157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571046436896407600,
+					"id_str": "1571046436896407554",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc16aRzagAIHjFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc16aRzagAIHjFx.jpg",
+					"url": "https://t.co/eu3Ofy4wNX",
+					"display_url": "pic.twitter.com/eu3Ofy4wNX",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571046453778481157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571046436921540600,
+					"id_str": "1571046436921540611",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc16aR5aAAM3sBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc16aR5aAAM3sBI.jpg",
+					"url": "https://t.co/eu3Ofy4wNX",
+					"display_url": "pic.twitter.com/eu3Ofy4wNX",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571046453778481157/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/ejAElWdaAo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejAElWdaAo",
+							"expanded_url": "http://linktr.ee/wonderwall.artlab",
+							"display_url": "linktr.ee/wonderwall.art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20891,
+			"friends_count": 2,
+			"listed_count": 53,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1660814879",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 692,
+		"favorite_count": 2507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n이달의 소녀 (LOONA) X Wonderwall. \n비하인드 포토를 공개합니다🌙\n\n희진🐰 현진🐱 하슬🕊 여진🐸\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\n오직 원더월에서만. https://t.co/eu3Ofy4wNX"
+	},
+	{
+		"created_at": "Sat Sep 17 08:40:10 +0000 2022",
+		"id": 1571046349419978800,
+		"id_str": "1571056403745308673",
+		"full_text": "[Jeans’ ZINE📹] \nNewJeans School EP.2 \n뉴진스쿨 3,4교시!🏫\n\n🔗https://t.co/x6xfvNPRSD\n\n#NewJeans #뉴진스 #Jeans_ZINE\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "Jeans_ZINE",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x6xfvNPRSD",
+					"expanded_url": "https://youtu.be/cOfyM-AfY2o",
+					"display_url": "youtu.be/cOfyM-AfY2o",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 493801,
+			"friends_count": 4,
+			"listed_count": 1552,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 553,
+		"favorite_count": 1762,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Jeans’ ZINE📹] \nNewJeans School EP.2 \n뉴진스쿨 3,4교시!🏫\n\n🔗https://t.co/x6xfvNPRSD\n\n#NewJeans #뉴진스 #Jeans_ZINE\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
 		"created_at": "Sat Sep 17 06:40:14 +0000 2022",
 		"id": 1571018792259715000,
 		"id_str": "1571026223307923456",
