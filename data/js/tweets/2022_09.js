@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 00:40:10 +0000 2022",
+		"id": 1571295443924840400,
+		"id_str": "1571297996419272704",
+		"full_text": "SecretBase 220805 KimSooMin.SSS\n\nhttps://t.co/h1FwzovyJX\n\n#tripleS #트리플에스 #トリプルS #KimSooMin https://t.co/Y3z8vwUSLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "KimSooMin",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h1FwzovyJX",
+					"expanded_url": "http://youtu.be/GZQEPW-CuA8",
+					"display_url": "youtu.be/GZQEPW-CuA8",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571184379971641300,
+					"id_str": "1571184379971641345",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc333nzaIAEq2iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc333nzaIAEq2iV.jpg",
+					"url": "https://t.co/Y3z8vwUSLP",
+					"display_url": "pic.twitter.com/Y3z8vwUSLP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571295443924840448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571184379971641300,
+					"id_str": "1571184379971641345",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc333nzaIAEq2iV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc333nzaIAEq2iV.jpg",
+					"url": "https://t.co/Y3z8vwUSLP",
+					"display_url": "pic.twitter.com/Y3z8vwUSLP",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571295443924840448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14108,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SecretBase 220805 KimSooMin.SSS\n\nhttps://t.co/h1FwzovyJX\n\n#tripleS #트리플에스 #トリプルS #KimSooMin https://t.co/Y3z8vwUSLP"
+	},
+	{
 		"created_at": "Sat Sep 17 16:40:10 +0000 2022",
 		"id": 1571169063073886200,
 		"id_str": "1571177199180386305",
