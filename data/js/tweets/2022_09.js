@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 11:40:22 +0000 2022",
+		"id": 1571458729136259000,
+		"id_str": "1571464142191468547",
+		"full_text": "期間限定!9月19日-9月26日には新規発売されるATOM 01の2番目のエディションオブジェクトのみご覧いただけます。9月27日からは1番目のエディションと2番目のエディションがランダム販売されます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/ynDk287KhZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571458660139925500,
+					"id_str": "1571458660139925507",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xU1DaAAM3DCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xU1DaAAM3DCp.jpg",
+					"url": "https://t.co/ynDk287KhZ",
+					"display_url": "pic.twitter.com/ynDk287KhZ",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458729136259073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571458660139925500,
+					"id_str": "1571458660139925507",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xU1DaAAM3DCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xU1DaAAM3DCp.jpg",
+					"url": "https://t.co/ynDk287KhZ",
+					"display_url": "pic.twitter.com/ynDk287KhZ",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458729136259073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571458722047860700,
+		"in_reply_to_status_id_str": "1571458722047860736",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14122,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "期間限定!9月19日-9月26日には新規発売されるATOM 01の2番目のエディションオブジェクトのみご覧いただけます。9月27日からは1番目のエディションと2番目のエディションがランダム販売されます。\n\n#tripleS #트리플에스 #トリプルS https://t.co/ynDk287KhZ"
+	},
+	{
+		"created_at": "Sun Sep 18 11:40:14 +0000 2022",
+		"id": 1571458722047860700,
+		"id_str": "1571464108125442050",
+		"full_text": "Limited time only! From Sep.19th-Sep.26th you can get our newly launched ATOM 2nd edition Objekts. Starting on Sep. 27th, ATOM 1st and 2nd edition Objekts can be randomly acquired.\n\n#tripleS #트리플에스 #トリプルS https://t.co/aaza0TuKmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						198,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571458641735319600,
+					"id_str": "1571458641735319554",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xTwfaAAI0OPu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xTwfaAAI0OPu.jpg",
+					"url": "https://t.co/aaza0TuKmz",
+					"display_url": "pic.twitter.com/aaza0TuKmz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458722047860736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571458641735319600,
+					"id_str": "1571458641735319554",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xTwfaAAI0OPu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xTwfaAAI0OPu.jpg",
+					"url": "https://t.co/aaza0TuKmz",
+					"display_url": "pic.twitter.com/aaza0TuKmz",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458722047860736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571458715680936000,
+		"in_reply_to_status_id_str": "1571458715680935939",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14122,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Limited time only! From Sep.19th-Sep.26th you can get our newly launched ATOM 2nd edition Objekts. Starting on Sep. 27th, ATOM 1st and 2nd edition Objekts can be randomly acquired.\n\n#tripleS #트리플에스 #トリプルS https://t.co/aaza0TuKmz"
+	},
+	{
+		"created_at": "Sun Sep 18 11:40:10 +0000 2022",
+		"id": 1571458715680936000,
+		"id_str": "1571464090677309443",
+		"full_text": "기간 한정! 9월 19일 - 9월 26일에는 신규로 발매되는 ATOM 01 두 번째 에디션 오브젝트만 만나보실 수 있습니다. \n9월 27일부터는 첫 번째 에디션과 두 번째 에디션이 랜덤 판매됩니다.\n\n#tripleS #트리플에스 #トリプルS https://t.co/3dbRqYBrno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571458496759214000,
+					"id_str": "1571458496759214081",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xLUaaMAE5NlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xLUaaMAE5NlN.jpg",
+					"url": "https://t.co/3dbRqYBrno",
+					"display_url": "pic.twitter.com/3dbRqYBrno",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458715680935939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571458496759214000,
+					"id_str": "1571458496759214081",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7xLUaaMAE5NlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7xLUaaMAE5NlN.jpg",
+					"url": "https://t.co/3dbRqYBrno",
+					"display_url": "pic.twitter.com/3dbRqYBrno",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571458715680935939/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14122,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기간 한정! 9월 19일 - 9월 26일에는 신규로 발매되는 ATOM 01 두 번째 에디션 오브젝트만 만나보실 수 있습니다. \n9월 27일부터는 첫 번째 에디션과 두 번째 에디션이 랜덤 판매됩니다.\n\n#tripleS #트리플에스 #トリプルS https://t.co/3dbRqYBrno"
+	},
+	{
 		"created_at": "Sun Sep 18 09:40:29 +0000 2022",
 		"id": 1571279216590704600,
 		"id_str": "1571433973712142336",
