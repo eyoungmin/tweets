@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 15:09:36 +0000 2022",
+		"id": 1571514392780284000,
+		"id_str": "1571516796443803649",
+		"full_text": "SEULGI The 1st Mini Album '28 Reasons' \n- Schedule Poster\n\n🎧 2022.10.04. 6PM (KST)\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/706Cj5laau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571514215520964600,
+					"id_str": "1571514215520964611",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8j2k-akAMaSRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8j2k-akAMaSRW.jpg",
+					"url": "https://t.co/706Cj5laau",
+					"display_url": "pic.twitter.com/706Cj5laau",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1571514392780283904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571514215520964600,
+					"id_str": "1571514215520964611",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8j2k-akAMaSRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8j2k-akAMaSRW.jpg",
+					"url": "https://t.co/706Cj5laau",
+					"display_url": "pic.twitter.com/706Cj5laau",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1571514392780283904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/0hh6Lb9UOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9UOp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5626507,
+			"friends_count": 2,
+			"listed_count": 11326,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18370,
+		"favorite_count": 29168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI The 1st Mini Album '28 Reasons' \n- Schedule Poster\n\n🎧 2022.10.04. 6PM (KST)\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/706Cj5laau"
+	},
+	{
 		"created_at": "Sun Sep 18 14:37:40 +0000 2022",
 		"id": 1571500618833088500,
 		"id_str": "1571508759566127113",
