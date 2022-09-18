@@ -1,6 +1,1136 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 04:50:49 +0000 2022",
+		"id": 1571348313378816000,
+		"id_str": "1571361074842316801",
+		"full_text": "우리가 어제 한자리에서 확인했듯, \n이 마음들이 모여 \n누군가에게 또다시 작은 기적들을 가져다주길 바랍니다. \n\n15년 동안 우리 유애나와 함께 한 모든 시간이 저의 골든아워였어요. 고맙고 정말 많이 사랑합니다.🧡💖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1571348311487160300,
+		"in_reply_to_status_id_str": "1571348311487160320",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67448,
+			"friends_count": 2,
+			"listed_count": 238,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 594,
+		"favorite_count": 1310,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리가 어제 한자리에서 확인했듯, \n이 마음들이 모여 \n누군가에게 또다시 작은 기적들을 가져다주길 바랍니다. \n\n15년 동안 우리 유애나와 함께 한 모든 시간이 저의 골든아워였어요. 고맙고 정말 많이 사랑합니다.🧡💖"
+	},
+	{
+		"created_at": "Sun Sep 18 04:50:49 +0000 2022",
+		"id": 1571348311487160300,
+		"id_str": "1571361074729058304",
+		"full_text": "15년 동안 끊임없이 \n크고 작은 기적들을 선물해 준 우리 유애나와 함께,\n감사한 마음 가득 담아 \n올해도 따뜻함을 나눕니다. https://t.co/tDAl7MBR3V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571348303769661400,
+					"id_str": "1571348303769661442",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6M9PiacAIM7co.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6M9PiacAIM7co.jpg",
+					"url": "https://t.co/tDAl7MBR3V",
+					"display_url": "pic.twitter.com/tDAl7MBR3V",
+					"expanded_url": "https://twitter.com/edam_ent/status/1571348311487160320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571348303769661400,
+					"id_str": "1571348303769661442",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6M9PiacAIM7co.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6M9PiacAIM7co.jpg",
+					"url": "https://t.co/tDAl7MBR3V",
+					"display_url": "pic.twitter.com/tDAl7MBR3V",
+					"expanded_url": "https://twitter.com/edam_ent/status/1571348311487160320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67448,
+			"friends_count": 2,
+			"listed_count": 238,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2625,
+		"favorite_count": 3375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "15년 동안 끊임없이 \n크고 작은 기적들을 선물해 준 우리 유애나와 함께,\n감사한 마음 가득 담아 \n올해도 따뜻함을 나눕니다. https://t.co/tDAl7MBR3V"
+	},
+	{
+		"created_at": "Sun Sep 18 04:40:16 +0000 2022",
+		"id": 1571354035227185200,
+		"id_str": "1571358420745289728",
+		"full_text": "Thank You Bogotá https://t.co/gaXCQ4Sudy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571353951064170500,
+					"id_str": "1571353951064170496",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571353951064170496/pu/img/zSBifU5YDhCJpvID.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571353951064170496/pu/img/zSBifU5YDhCJpvID.jpg",
+					"url": "https://t.co/gaXCQ4Sudy",
+					"display_url": "pic.twitter.com/gaXCQ4Sudy",
+					"expanded_url": "https://twitter.com/coldplay/status/1571354035227185153/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571353951064170500,
+					"id_str": "1571353951064170496",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571353951064170496/pu/img/zSBifU5YDhCJpvID.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571353951064170496/pu/img/zSBifU5YDhCJpvID.jpg",
+					"url": "https://t.co/gaXCQ4Sudy",
+					"display_url": "pic.twitter.com/gaXCQ4Sudy",
+					"expanded_url": "https://twitter.com/coldplay/status/1571354035227185153/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15635,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571353951064170496/pu/pl/l9_veiBsUq7mE69s.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571353951064170496/pu/vid/480x852/RfoF2AcP6eM-5gKe.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571353951064170496/pu/vid/720x1280/cuWdmmugDhdxZQ-e.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571353951064170496/pu/vid/320x568/VpoxX21oTK7loZYb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Bogotá, D.C., Colombia",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23673056,
+			"friends_count": 780,
+			"listed_count": 42417,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 5799,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Thank You Bogotá https://t.co/gaXCQ4Sudy"
+	},
+	{
+		"created_at": "Sun Sep 18 04:40:12 +0000 2022",
+		"id": 1571348462503096300,
+		"id_str": "1571358403473166336",
+		"full_text": "初ファンサイン会だからか、とても緊張しました💗\n忘れられない思い出をプレゼントしてくださってありがとうございます💌\n絶対また会いましょう♥️\n\n#tripleS #트리플에스 #トリプルS https://t.co/ZgHkxBokrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571346211537559600,
+					"id_str": "1571346211537559553",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6LDdXaIAEVHST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6LDdXaIAEVHST.jpg",
+					"url": "https://t.co/ZgHkxBokrF",
+					"display_url": "pic.twitter.com/ZgHkxBokrF",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571348462503096320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571346211537559600,
+					"id_str": "1571346211537559553",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6LDdXaIAEVHST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6LDdXaIAEVHST.jpg",
+					"url": "https://t.co/ZgHkxBokrF",
+					"display_url": "pic.twitter.com/ZgHkxBokrF",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571348462503096320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571348451358810000,
+		"in_reply_to_status_id_str": "1571348451358810116",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14110,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "初ファンサイン会だからか、とても緊張しました💗\n忘れられない思い出をプレゼントしてくださってありがとうございます💌\n絶対また会いましょう♥️\n\n#tripleS #트리플에스 #トリプルS https://t.co/ZgHkxBokrF"
+	},
+	{
+		"created_at": "Sun Sep 18 04:40:10 +0000 2022",
+		"id": 1571348451358810000,
+		"id_str": "1571358394639912961",
+		"full_text": "We were getting butterflies since it was our first fan sign event💗\nThank you for creating this unforgettable memory with us💌\nPromise to meet again♥️\n\n#tripleS #트리플에스 #トリプルS https://t.co/FtLjzjuMWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571345985389097000,
+					"id_str": "1571345985389096960",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6K2S5acAAVZ-G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6K2S5acAAVZ-G.jpg",
+					"url": "https://t.co/FtLjzjuMWe",
+					"display_url": "pic.twitter.com/FtLjzjuMWe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571348451358810116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571345985389097000,
+					"id_str": "1571345985389096960",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc6K2S5acAAVZ-G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc6K2S5acAAVZ-G.jpg",
+					"url": "https://t.co/FtLjzjuMWe",
+					"display_url": "pic.twitter.com/FtLjzjuMWe",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571348451358810116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571348440503976000,
+		"in_reply_to_status_id_str": "1571348440503975936",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14110,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We were getting butterflies since it was our first fan sign event💗\nThank you for creating this unforgettable memory with us💌\nPromise to meet again♥️\n\n#tripleS #트리플에스 #トリプルS https://t.co/FtLjzjuMWe"
+	},
+	{
+		"created_at": "Sun Sep 18 04:37:30 +0000 2022",
+		"id": 1571356191846183000,
+		"id_str": "1571357723786375176",
+		"full_text": "*Spotify or Apple Music login required",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571356188696248300,
+		"in_reply_to_status_id_str": "1571356188696248320",
+		"in_reply_to_user_id": 878204370403250200,
+		"in_reply_to_user_id_str": "878204370403250176",
+		"in_reply_to_screen_name": "ygofficialblink",
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8533213,
+			"friends_count": 9,
+			"listed_count": 9299,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "*Spotify or Apple Music login required"
+	},
+	{
+		"created_at": "Sun Sep 18 04:37:30 +0000 2022",
+		"id": 1571356165086511000,
+		"id_str": "1571357723782189057",
+		"full_text": "BLACKPINK 2nd Album ‘BORN PINK’\nLet’s celebrate BLACKPINK’s 2nd Album, ‘BORN PINK’ 💗\n\nFollow BLACKPINK’s official @stationhead account and join the ‘BORN PINK’ listening parties! https://t.co/7SxJYWGS9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STATIONHEAD",
+					"name": "STATIONHEAD",
+					"id": 3623255597,
+					"id_str": "3623255597",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571355547856937000,
+					"id_str": "1571355547856936962",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571355547856936962/pu/img/XI-UgJ9lW9Kgo8W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571355547856936962/pu/img/XI-UgJ9lW9Kgo8W_.jpg",
+					"url": "https://t.co/7SxJYWGS9C",
+					"display_url": "pic.twitter.com/7SxJYWGS9C",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571356165086511104/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571355547856937000,
+					"id_str": "1571355547856936962",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571355547856936962/pu/img/XI-UgJ9lW9Kgo8W_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571355547856936962/pu/img/XI-UgJ9lW9Kgo8W_.jpg",
+					"url": "https://t.co/7SxJYWGS9C",
+					"display_url": "pic.twitter.com/7SxJYWGS9C",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571356165086511104/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15040,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571355547856936962/pu/vid/720x720/uG3AemDCBvgdqajJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571355547856936962/pu/pl/_smk8UZiG_uJuGru.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571355547856936962/pu/vid/540x540/K4tbhTOzpLHSJMNp.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571355547856936962/pu/vid/320x320/cTbPt75r0Z6MQ-QW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8533213,
+			"friends_count": 9,
+			"listed_count": 9299,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2747,
+		"favorite_count": 7163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK 2nd Album ‘BORN PINK’\nLet’s celebrate BLACKPINK’s 2nd Album, ‘BORN PINK’ 💗\n\nFollow BLACKPINK’s official @stationhead account and join the ‘BORN PINK’ listening parties! https://t.co/7SxJYWGS9C"
+	},
+	{
 		"created_at": "Sun Sep 18 03:40:10 +0000 2022",
 		"id": 1571333194271563800,
 		"id_str": "1571343295040585729",
