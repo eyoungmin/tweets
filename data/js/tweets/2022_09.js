@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 15:40:18 +0000 2022",
+		"id": 1571514484765917200,
+		"id_str": "1571524524155215875",
+		"full_text": "#BLACKPINK ‘Shut Down’ DANCE PERFORMANCE VIDEO\n\n🎬YouTube: https://t.co/1xWLRJaBez \n📺NOW: https://t.co/jrCqkNSVBj \n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #YG https://t.co/RLQBFo0wcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "DANCE_PERFORMANCE_VIDEO",
+					"indices": [
+						151,
+						175
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xWLRJaBez",
+					"expanded_url": "https://youtu.be/PjrAwC4TIPA",
+					"display_url": "youtu.be/PjrAwC4TIPA",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/jrCqkNSVBj",
+					"expanded_url": "https://tv.naver.com/v/29282130",
+					"display_url": "tv.naver.com/v/29282130",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571476916468875300,
+					"id_str": "1571476916468875264",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8L01TagAAabd7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8L01TagAAabd7.jpg",
+					"url": "https://t.co/RLQBFo0wcL",
+					"display_url": "pic.twitter.com/RLQBFo0wcL",
+					"expanded_url": "https://twitter.com/ygent_official/status/1571514484765917184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 871,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571476916468875300,
+					"id_str": "1571476916468875264",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc8L01TagAAabd7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc8L01TagAAabd7.jpg",
+					"url": "https://t.co/RLQBFo0wcL",
+					"display_url": "pic.twitter.com/RLQBFo0wcL",
+					"expanded_url": "https://twitter.com/ygent_official/status/1571514484765917184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 871,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1920,
+							817
+						],
+						"duration_millis": 180221,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1571476916468875264/pl/N-_OyK5UZpjxsHwG.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571476916468875264/vid/846x360/2Ep3Hz9auwFBg--A.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571476916468875264/vid/1692x720/XhiL2uFgSTW3jBo7.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1571476916468875264/vid/634x270/r8uxC8iZWq4gSGt4.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘Shut Down’ DANCE PERFORMANCE VIDEO",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/PjrAwC4TIPA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8931315,
+			"friends_count": 36,
+			"listed_count": 9849,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15197,
+		"favorite_count": 32256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down’ DANCE PERFORMANCE VIDEO\n\n🎬YouTube: https://t.co/1xWLRJaBez \n📺NOW: https://t.co/jrCqkNSVBj \n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #YG https://t.co/RLQBFo0wcL"
+	},
+	{
 		"created_at": "Sun Sep 18 15:09:36 +0000 2022",
 		"id": 1571514392780284000,
 		"id_str": "1571516796443803649",
