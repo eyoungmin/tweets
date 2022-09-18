@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 08:40:10 +0000 2022",
+		"id": 1571408995772149800,
+		"id_str": "1571418792294588416",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq1xXi\n\nLOONA X Wonderwall. BEHIND PHOTO🌙\n\nビビ🦌 キムリップ🌹  ジンソル🐟 チェリ🍒\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\nWonderwall独占 https://t.co/X7zr4dEK7v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "Wonderwall",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AGfLEq1xXi",
+					"expanded_url": "http://bit.ly/3REP350",
+					"display_url": "bit.ly/3REP350",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571408971206103000,
+					"id_str": "1571408971206103040",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7EIjWaEAArf9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7EIjWaEAArf9F.jpg",
+					"url": "https://t.co/X7zr4dEK7v",
+					"display_url": "pic.twitter.com/X7zr4dEK7v",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571408995772149761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571408971206103000,
+					"id_str": "1571408971206103040",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7EIjWaEAArf9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7EIjWaEAArf9F.jpg",
+					"url": "https://t.co/X7zr4dEK7v",
+					"display_url": "pic.twitter.com/X7zr4dEK7v",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571408995772149761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571408971323560000,
+					"id_str": "1571408971323559936",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7EIjyaUAAbFRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7EIjyaUAAbFRL.jpg",
+					"url": "https://t.co/X7zr4dEK7v",
+					"display_url": "pic.twitter.com/X7zr4dEK7v",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571408995772149761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571408971482943500,
+					"id_str": "1571408971482943488",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7EIkYaUAAJ55b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7EIkYaUAAJ55b.jpg",
+					"url": "https://t.co/X7zr4dEK7v",
+					"display_url": "pic.twitter.com/X7zr4dEK7v",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571408995772149761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571408971550068700,
+					"id_str": "1571408971550068737",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7EIkoakAEMorw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7EIkoakAEMorw.jpg",
+					"url": "https://t.co/X7zr4dEK7v",
+					"display_url": "pic.twitter.com/X7zr4dEK7v",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571408995772149761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1571408989090619400,
+		"in_reply_to_status_id_str": "1571408989090619392",
+		"in_reply_to_user_id": 1286204242265432000,
+		"in_reply_to_user_id_str": "1286204242265432065",
+		"in_reply_to_screen_name": "WdwlArtlab",
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/ejAElWdaAo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejAElWdaAo",
+							"expanded_url": "http://linktr.ee/wonderwall.artlab",
+							"display_url": "linktr.ee/wonderwall.art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20896,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1660814879",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 432,
+		"favorite_count": 1801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq1xXi\n\nLOONA X Wonderwall. BEHIND PHOTO🌙\n\nビビ🦌 キムリップ🌹  ジンソル🐟 チェリ🍒\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\nWonderwall独占 https://t.co/X7zr4dEK7v"
+	},
+	{
 		"created_at": "Sun Sep 18 07:40:25 +0000 2022",
 		"id": 1570865421796122600,
 		"id_str": "1571403757312671744",
