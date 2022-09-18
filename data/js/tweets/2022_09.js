@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 09:40:29 +0000 2022",
+		"id": 1571279216590704600,
+		"id_str": "1571433973712142336",
+		"full_text": "Have you visited #SpotifyxBLACKPINK yet? We’ve taken over the Grove in LA to celebrate the release of #BORNPINK and our special activation happening only a few blocks away. Check https://t.co/o3S7KWgj1y for more info https://t.co/1zLd0YoOx8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						17,
+						35
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3S7KWgj1y",
+					"expanded_url": "http://spotifyxblackpink.com",
+					"display_url": "spotifyxblackpink.com",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571279209615483000,
+					"id_str": "1571279209615482880",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5OHbwWYAAoc3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5OHbwWYAAoc3l.jpg",
+					"url": "https://t.co/1zLd0YoOx8",
+					"display_url": "pic.twitter.com/1zLd0YoOx8",
+					"expanded_url": "https://twitter.com/Spotify/status/1571279216590704640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571279209615483000,
+					"id_str": "1571279209615482880",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5OHbwWYAAoc3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5OHbwWYAAoc3l.jpg",
+					"url": "https://t.co/1zLd0YoOx8",
+					"display_url": "pic.twitter.com/1zLd0YoOx8",
+					"expanded_url": "https://twitter.com/Spotify/status/1571279216590704640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571279209598779400,
+					"id_str": "1571279209598779392",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5OHbsXgAAEhtW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5OHbsXgAAEhtW.jpg",
+					"url": "https://t.co/1zLd0YoOx8",
+					"display_url": "pic.twitter.com/1zLd0YoOx8",
+					"expanded_url": "https://twitter.com/Spotify/status/1571279216590704640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571279209602945000,
+					"id_str": "1571279209602945024",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5OHbtXEAAVVo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5OHbtXEAAVVo3.jpg",
+					"url": "https://t.co/1zLd0YoOx8",
+					"display_url": "pic.twitter.com/1zLd0YoOx8",
+					"expanded_url": "https://twitter.com/Spotify/status/1571279216590704640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571279209619652600,
+					"id_str": "1571279209619652608",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc5OHbxWAAAhwEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc5OHbxWAAAhwEO.jpg",
+					"url": "https://t.co/1zLd0YoOx8",
+					"display_url": "pic.twitter.com/1zLd0YoOx8",
+					"expanded_url": "https://twitter.com/Spotify/status/1571279216590704640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyLive\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344917,
+			"friends_count": 17723,
+			"listed_count": 17266,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1642522924",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6866,
+		"favorite_count": 22828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you visited #SpotifyxBLACKPINK yet? We’ve taken over the Grove in LA to celebrate the release of #BORNPINK and our special activation happening only a few blocks away. Check https://t.co/o3S7KWgj1y for more info https://t.co/1zLd0YoOx8"
+	},
+	{
+		"created_at": "Sun Sep 18 09:40:21 +0000 2022",
+		"id": 1570850018088521700,
+		"id_str": "1571433939394531329",
+		"full_text": "Have you checked out @BLACKPINKS's #BornPink yet? The album is available this week to listen for free on Spotify https://t.co/nQSyRhUwxM https://t.co/3TiM9102US",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BornPink",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blackpinks",
+					"name": "sergio luque segura",
+					"id": 268440680,
+					"id_str": "268440680",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nQSyRhUwxM",
+					"expanded_url": "http://spotify.link/bornpinkfree",
+					"display_url": "spotify.link/bornpinkfree",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570727248197726200,
+					"id_str": "1570727248197726209",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570727248197726209/pu/img/EU_3x5Ud76e5MvVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570727248197726209/pu/img/EU_3x5Ud76e5MvVm.jpg",
+					"url": "https://t.co/3TiM9102US",
+					"display_url": "pic.twitter.com/3TiM9102US",
+					"expanded_url": "https://twitter.com/Spotify/status/1570850018088521728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570727248197726200,
+					"id_str": "1570727248197726209",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570727248197726209/pu/img/EU_3x5Ud76e5MvVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570727248197726209/pu/img/EU_3x5Ud76e5MvVm.jpg",
+					"url": "https://t.co/3TiM9102US",
+					"display_url": "pic.twitter.com/3TiM9102US",
+					"expanded_url": "https://twitter.com/Spotify/status/1570850018088521728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570727248197726209/pu/pl/oJKIiFv8WyOKjDsU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570727248197726209/pu/vid/540x540/blvy6Gq4gmtCnHXC.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570727248197726209/pu/vid/320x320/PVWJpZanE2qRdkmH.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570727248197726209/pu/vid/720x720/anCXgf5I6phJhXv6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyLive\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344917,
+			"friends_count": 17723,
+			"listed_count": 17266,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 15599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1642522924",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4501,
+		"favorite_count": 13671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you checked out @BLACKPINKS's #BornPink yet? The album is available this week to listen for free on Spotify https://t.co/nQSyRhUwxM https://t.co/3TiM9102US"
+	},
+	{
+		"created_at": "Sun Sep 18 09:40:13 +0000 2022",
+		"id": 1571424047954825200,
+		"id_str": "1571433905156235264",
+		"full_text": "fashionkilla\n\n#aespa #GISELLE https://t.co/lRS7PXgLQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571424025771126800,
+					"id_str": "1571424025771126785",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7R01-aMAEz0gR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7R01-aMAEz0gR.jpg",
+					"url": "https://t.co/lRS7PXgLQH",
+					"display_url": "pic.twitter.com/lRS7PXgLQH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424047954825216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1076,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1305,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571424025771126800,
+					"id_str": "1571424025771126785",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7R01-aMAEz0gR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7R01-aMAEz0gR.jpg",
+					"url": "https://t.co/lRS7PXgLQH",
+					"display_url": "pic.twitter.com/lRS7PXgLQH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424047954825216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1076,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 610,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1305,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571424025754366000,
+					"id_str": "1571424025754365953",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7R016acAERvys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7R016acAERvys.jpg",
+					"url": "https://t.co/lRS7PXgLQH",
+					"display_url": "pic.twitter.com/lRS7PXgLQH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424047954825216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 557,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1180,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571424019899121700,
+		"in_reply_to_status_id_str": "1571424019899121665",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3164465,
+			"friends_count": 2,
+			"listed_count": 9483,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3149,
+		"favorite_count": 12407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi",
+		"text": "fashionkilla\n\n#aespa #GISELLE https://t.co/lRS7PXgLQH"
+	},
+	{
+		"created_at": "Sun Sep 18 09:40:10 +0000 2022",
+		"id": 1571424019899121700,
+		"id_str": "1571433892015489028",
+		"full_text": "fashionkilla\n\n#aespa #GISELLE https://t.co/aF3MWi9mIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571423977096224800,
+					"id_str": "1571423977096224769",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7RyApaIAEtYks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7RyApaIAEtYks.jpg",
+					"url": "https://t.co/aF3MWi9mIJ",
+					"display_url": "pic.twitter.com/aF3MWi9mIJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424019899121665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571423977096224800,
+					"id_str": "1571423977096224769",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7RyApaIAEtYks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7RyApaIAEtYks.jpg",
+					"url": "https://t.co/aF3MWi9mIJ",
+					"display_url": "pic.twitter.com/aF3MWi9mIJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424019899121665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571423977113026600,
+					"id_str": "1571423977113026563",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7RyAtagAMdK1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7RyAtagAMdK1B.jpg",
+					"url": "https://t.co/aF3MWi9mIJ",
+					"display_url": "pic.twitter.com/aF3MWi9mIJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424019899121665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1143,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571423977108820000,
+					"id_str": "1571423977108819971",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7RyAsaUAMg6a2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7RyAsaUAMg6a2.jpg",
+					"url": "https://t.co/aF3MWi9mIJ",
+					"display_url": "pic.twitter.com/aF3MWi9mIJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424019899121665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571423977121390600,
+					"id_str": "1571423977121390599",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc7RyAvaIAcVns5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc7RyAvaIAcVns5.jpg",
+					"url": "https://t.co/aF3MWi9mIJ",
+					"display_url": "pic.twitter.com/aF3MWi9mIJ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1571424019899121665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 534,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1131,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571423967751340000,
+		"in_reply_to_status_id_str": "1571423967751340032",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3164465,
+			"friends_count": 2,
+			"listed_count": 9483,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3861,
+		"favorite_count": 14445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi",
+		"text": "fashionkilla\n\n#aespa #GISELLE https://t.co/aF3MWi9mIJ"
+	},
+	{
 		"created_at": "Sun Sep 18 08:40:10 +0000 2022",
 		"id": 1571408995772149800,
 		"id_str": "1571418792294588416",
