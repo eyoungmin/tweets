@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 04:40:10 +0000 2022",
+		"id": 1571719774123729000,
+		"id_str": "1571720782190878720",
+		"full_text": "비비가 주호민님 #튀츠 특별 게스트 생방중~!!!Guess who’s a special guest on @noizemasta #twitch!!! live broadcasting nowwww\n@nakedbibi\n\nhttps://t.co/sy2oQJ6pqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "튀츠",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "twitch",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noizemasta",
+					"name": "주호민",
+					"id": 163783965,
+					"id_str": "163783965",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sy2oQJ6pqy",
+					"expanded_url": "https://www.twitch.tv/noizemasta",
+					"display_url": "twitch.tv/noizemasta",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1139,
+			"friends_count": 6,
+			"listed_count": 12,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비비가 주호민님 #튀츠 특별 게스트 생방중~!!!Guess who’s a special guest on @noizemasta #twitch!!! live broadcasting nowwww\n@nakedbibi\n\nhttps://t.co/sy2oQJ6pqy"
+	},
+	{
 		"created_at": "Mon Sep 19 03:40:32 +0000 2022",
 		"id": 1571698550626721800,
 		"id_str": "1571705773876551680",
