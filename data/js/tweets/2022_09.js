@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 12:40:10 +0000 2022",
+		"id": 1571831513422839800,
+		"id_str": "1571841578045526018",
+		"full_text": "[SONG] They Don’t Know by SeoYeon, JiWoo, YooYeon, NaKyoung.SSS\n\nFull Ver🎵: https://t.co/UIxJgfos48\n\n#tripleS #트리플에스 #トリプルS https://t.co/8mw7BIXnzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UIxJgfos48",
+					"expanded_url": "http://youtu.be/8U9uMPCMuzY",
+					"display_url": "youtu.be/8U9uMPCMuzY",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571821265664770000,
+					"id_str": "1571821265664770049",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdBFbVyaMAIj8Qn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdBFbVyaMAIj8Qn.jpg",
+					"url": "https://t.co/8mw7BIXnzf",
+					"display_url": "pic.twitter.com/8mw7BIXnzf",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571831513422839809/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571821265664770000,
+					"id_str": "1571821265664770049",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FdBFbVyaMAIj8Qn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdBFbVyaMAIj8Qn.jpg",
+					"url": "https://t.co/8mw7BIXnzf",
+					"display_url": "pic.twitter.com/8mw7BIXnzf",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1571831513422839809/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60326,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571821265664770049/pu/pl/5VJ7OQhgwjqCWMBQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571821265664770049/pu/vid/1280x720/Df0TKRvfDX6SF2U4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571821265664770049/pu/vid/640x360/petpEJMLFSSka4vC.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571821265664770049/pu/vid/480x270/2StdgxsEDS2Rur2M.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14148,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[SONG] They Don’t Know by SeoYeon, JiWoo, YooYeon, NaKyoung.SSS\n\nFull Ver🎵: https://t.co/UIxJgfos48\n\n#tripleS #트리플에스 #トリプルS https://t.co/8mw7BIXnzf"
+	},
+	{
 		"created_at": "Mon Sep 19 11:40:19 +0000 2022",
 		"id": 1571821756226371600,
 		"id_str": "1571826517604454400",
