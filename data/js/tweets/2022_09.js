@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 08:40:22 +0000 2022",
+		"id": 1571158722671480800,
+		"id_str": "1571781231263764485",
+		"full_text": "BORN BLAUGRANA 😉 @BLACKPINK https://t.co/3YWWlV3BLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571158500318773200,
+					"id_str": "1571158500318773252",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3gVOlWAAQRBN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3gVOlWAAQRBN5.jpg",
+					"url": "https://t.co/3YWWlV3BLP",
+					"display_url": "pic.twitter.com/3YWWlV3BLP",
+					"expanded_url": "https://twitter.com/FCBarcelona/status/1571158722671480832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571158500318773200,
+					"id_str": "1571158500318773252",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc3gVOlWAAQRBN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc3gVOlWAAQRBN5.jpg",
+					"url": "https://t.co/3YWWlV3BLP",
+					"display_url": "pic.twitter.com/3YWWlV3BLP",
+					"expanded_url": "https://twitter.com/FCBarcelona/status/1571158722671480832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96951800,
+			"id_str": "96951800",
+			"name": "FC Barcelona",
+			"screen_name": "FCBarcelona",
+			"location": "NEW KIT 👉",
+			"description": "#ForçaBarça! Join us: @fcbarcelona_cat @fcbarcelona_es @fcbarcelona_br @fcbarcelona_jp @fcbarcelona_id @fcbarcelona_ara @fcbarcelona_fra @fcbarcelona_tr",
+			"url": "https://t.co/zlbHwPtbWD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlbHwPtbWD",
+							"expanded_url": "http://barca.link/sw9v30slhfb",
+							"display_url": "barca.link/sw9v30slhfb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44006952,
+			"friends_count": 110,
+			"listed_count": 33205,
+			"created_at": "Tue Dec 15 09:53:50 +0000 2009",
+			"favourites_count": 3965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542768398727249920/-neNiKE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542768398727249920/-neNiKE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96951800/1656676774",
+			"profile_link_color": "9B0034",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CBC9C4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24205,
+		"favorite_count": 78011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "is",
+		"text": "BORN BLAUGRANA 😉 @BLACKPINK https://t.co/3YWWlV3BLP"
+	},
+	{
+		"created_at": "Mon Sep 19 08:40:10 +0000 2022",
+		"id": 1571771225734807600,
+		"id_str": "1571781179828801537",
+		"full_text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq1xXi\n\n이달의 소녀 (LOONA) X Wonderwall. \n비하인드 포토를 공개합니다🌙\n\n이브🦢 츄🐧 고원🦋 올리비아혜🐺\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\n오직 원더월에서만. https://t.co/Zx8U7oLBUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "Wonderwall",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						2,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AGfLEq1xXi",
+					"expanded_url": "http://bit.ly/3REP350",
+					"display_url": "bit.ly/3REP350",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571769166113415200,
+					"id_str": "1571769166113415170",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FdALup8aIAI7V9n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdALup8aIAI7V9n.jpg",
+					"url": "https://t.co/Zx8U7oLBUw",
+					"display_url": "pic.twitter.com/Zx8U7oLBUw",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571771225734807553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571769166113415200,
+					"id_str": "1571769166113415170",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FdALup8aIAI7V9n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdALup8aIAI7V9n.jpg",
+					"url": "https://t.co/Zx8U7oLBUw",
+					"display_url": "pic.twitter.com/Zx8U7oLBUw",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571771225734807553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571769166092443600,
+					"id_str": "1571769166092443648",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FdALup3aIAAMDhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdALup3aIAAMDhr.jpg",
+					"url": "https://t.co/Zx8U7oLBUw",
+					"display_url": "pic.twitter.com/Zx8U7oLBUw",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571771225734807553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571769166105047000,
+					"id_str": "1571769166105047040",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FdALup6acAA8zSQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdALup6acAA8zSQ.jpg",
+					"url": "https://t.co/Zx8U7oLBUw",
+					"display_url": "pic.twitter.com/Zx8U7oLBUw",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571771225734807553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571769166109249500,
+					"id_str": "1571769166109249536",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FdALup7akAAvav7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdALup7akAAvav7.jpg",
+					"url": "https://t.co/Zx8U7oLBUw",
+					"display_url": "pic.twitter.com/Zx8U7oLBUw",
+					"expanded_url": "https://twitter.com/WdwlArtlab/status/1571771225734807553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286204242265432000,
+			"id_str": "1286204242265432065",
+			"name": "Wonderwall ArtLab",
+			"screen_name": "WdwlArtlab",
+			"location": "",
+			"description": "Art changes life",
+			"url": "https://t.co/ejAElWdaAo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejAElWdaAo",
+							"expanded_url": "http://linktr.ee/wonderwall.artlab",
+							"display_url": "linktr.ee/wonderwall.art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20903,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Thu Jul 23 07:39:29 +0000 2020",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369218820749946885/3fVQ4xbK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286204242265432065/1660814879",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 726,
+		"favorite_count": 2367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ @loonatheworld X Wonderwall. ]\n\n🔗https://t.co/AGfLEq1xXi\n\n이달의 소녀 (LOONA) X Wonderwall. \n비하인드 포토를 공개합니다🌙\n\n이브🦢 츄🐧 고원🦋 올리비아혜🐺\n#이달의소녀 #LOONA #Wonderwall\n\n📌- 9.21 23:59 (KST) \n\n오직 원더월에서만. https://t.co/Zx8U7oLBUw"
+	},
+	{
+		"created_at": "Mon Sep 19 08:37:48 +0000 2022",
+		"id": 1571776362142388200,
+		"id_str": "1571780587006066698",
+		"full_text": "Thank you for your support! @spotify @fcbarcelona\n\n#BLACKPINK #블랙핑크 #BORNPINK #2ndAlbum #ShutDown https://t.co/wc9sDUV6Op",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "FCBarcelona",
+					"name": "FC Barcelona",
+					"id": 96951800,
+					"id_str": "96951800",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571776304357478400,
+					"id_str": "1571776304357478402",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FdASOJ-akAIHGfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdASOJ-akAIHGfC.jpg",
+					"url": "https://t.co/wc9sDUV6Op",
+					"display_url": "pic.twitter.com/wc9sDUV6Op",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1571776362142388226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571776304357478400,
+					"id_str": "1571776304357478402",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FdASOJ-akAIHGfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdASOJ-akAIHGfC.jpg",
+					"url": "https://t.co/wc9sDUV6Op",
+					"display_url": "pic.twitter.com/wc9sDUV6Op",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1571776362142388226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7505772,
+			"friends_count": 0,
+			"listed_count": 7750,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7712,
+		"favorite_count": 22833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for your support! @spotify @fcbarcelona\n\n#BLACKPINK #블랙핑크 #BORNPINK #2ndAlbum #ShutDown https://t.co/wc9sDUV6Op"
+	},
+	{
 		"created_at": "Mon Sep 19 07:37:48 +0000 2022",
 		"id": 1571752300305338400,
 		"id_str": "1571765485313871872",
