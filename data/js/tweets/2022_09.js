@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 03:40:32 +0000 2022",
+		"id": 1571698550626721800,
+		"id_str": "1571705773876551680",
+		"full_text": "BIBI’s gonna be in Indonesiaaaa\n🇮🇩💞\n@nakedbibi https://t.co/50yIhF7LWa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571698533753036800,
+					"id_str": "1571698533753036806",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_LfT5aIAYWSvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_LfT5aIAYWSvz.jpg",
+					"url": "https://t.co/50yIhF7LWa",
+					"display_url": "pic.twitter.com/50yIhF7LWa",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1571698550626721796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571698533753036800,
+					"id_str": "1571698533753036806",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_LfT5aIAYWSvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_LfT5aIAYWSvz.jpg",
+					"url": "https://t.co/50yIhF7LWa",
+					"display_url": "pic.twitter.com/50yIhF7LWa",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1571698550626721796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1138,
+			"friends_count": 6,
+			"listed_count": 12,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI’s gonna be in Indonesiaaaa\n🇮🇩💞\n@nakedbibi https://t.co/50yIhF7LWa"
+	},
+	{
+		"created_at": "Mon Sep 19 03:40:26 +0000 2022",
+		"id": 1570857573917532200,
+		"id_str": "1571705752011837447",
+		"full_text": "Every single one of us #BLINKS were born ready for this moment…Stream @BLACKPINK’s new album, BORN PINK, and the title track 'Shut Down', in #Dolby on @applemusic TODAY! https://t.co/IAfIH7dU5N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINKS",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "Dolby",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570857570364956700,
+					"id_str": "1570857570364956674",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FczOozJWIAIUK0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FczOozJWIAIUK0B.jpg",
+					"url": "https://t.co/IAfIH7dU5N",
+					"display_url": "pic.twitter.com/IAfIH7dU5N",
+					"expanded_url": "https://twitter.com/Dolby/status/1570857573917532162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570857570364956700,
+					"id_str": "1570857570364956674",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FczOozJWIAIUK0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FczOozJWIAIUK0B.jpg",
+					"url": "https://t.co/IAfIH7dU5N",
+					"display_url": "pic.twitter.com/IAfIH7dU5N",
+					"expanded_url": "https://twitter.com/Dolby/status/1570857573917532162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15851618,
+			"id_str": "15851618",
+			"name": "Dolby",
+			"screen_name": "Dolby",
+			"location": "San Francisco, CA",
+			"description": "Music. Movies. TV. Gaming. In Dolby.",
+			"url": "https://t.co/b8IQBejSHu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b8IQBejSHu",
+							"expanded_url": "http://dolby.com",
+							"display_url": "dolby.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68202,
+			"friends_count": 3380,
+			"listed_count": 1015,
+			"created_at": "Thu Aug 14 15:30:30 +0000 2008",
+			"favourites_count": 12558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "008996",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453882389453631491/GrfiJxay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453882389453631491/GrfiJxay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15851618/1574629031",
+			"profile_link_color": "104680",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1997,
+		"favorite_count": 8396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every single one of us #BLINKS were born ready for this moment…Stream @BLACKPINK’s new album, BORN PINK, and the title track 'Shut Down', in #Dolby on @applemusic TODAY! https://t.co/IAfIH7dU5N"
+	},
+	{
+		"created_at": "Mon Sep 19 03:40:22 +0000 2022",
+		"id": 1571695687489966000,
+		"id_str": "1571705734542364678",
+		"full_text": "[2022 ADOR Global Audition]\nADOR is seeking talents for the next boy group/girl group members.\n\nAnyone born between 2003~2011\nAll genders and nationalities are welcome\nDue 2022.10.19 12PM (KST)\nApply on https://t.co/qyWEGUDFqf https://t.co/6fCmWxBZrj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyWEGUDFqf",
+					"expanded_url": "http://ador.world",
+					"display_url": "ador.world",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571695680837779500,
+					"id_str": "1571695680837779456",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_I5P9aAAAXr2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_I5P9aAAAXr2J.jpg",
+					"url": "https://t.co/6fCmWxBZrj",
+					"display_url": "pic.twitter.com/6fCmWxBZrj",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1571695687489966081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571695680837779500,
+					"id_str": "1571695680837779456",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc_I5P9aAAAXr2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc_I5P9aAAAXr2J.jpg",
+					"url": "https://t.co/6fCmWxBZrj",
+					"display_url": "pic.twitter.com/6fCmWxBZrj",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1571695687489966081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92194,
+			"friends_count": 4,
+			"listed_count": 452,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 301,
+		"favorite_count": 862,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[2022 ADOR Global Audition]\nADOR is seeking talents for the next boy group/girl group members.\n\nAnyone born between 2003~2011\nAll genders and nationalities are welcome\nDue 2022.10.19 12PM (KST)\nApply on https://t.co/qyWEGUDFqf https://t.co/6fCmWxBZrj"
+	},
+	{
+		"created_at": "Mon Sep 19 03:40:15 +0000 2022",
+		"id": 1571695603402551300,
+		"id_str": "1571705704570028034",
+		"full_text": "2003년~2011년 출생\n성별, 국적 제한 없음\n2022년 10월 19일 12PM (KST) 까지\n어도어 공식 홈페이지 https://t.co/qyWEGUDFqf에서 지원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyWEGUDFqf",
+					"expanded_url": "http://ador.world",
+					"display_url": "ador.world",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571695600852422700,
+		"in_reply_to_status_id_str": "1571695600852422657",
+		"in_reply_to_user_id": 1373509657868660700,
+		"in_reply_to_user_id_str": "1373509657868660740",
+		"in_reply_to_screen_name": "alldoorsoneroom",
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92194,
+			"friends_count": 4,
+			"listed_count": 452,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2003년~2011년 출생\n성별, 국적 제한 없음\n2022년 10월 19일 12PM (KST) 까지\n어도어 공식 홈페이지 https://t.co/qyWEGUDFqf에서 지원"
+	},
+	{
 		"created_at": "Mon Sep 19 02:40:23 +0000 2022",
 		"id": 1571680578231206000,
 		"id_str": "1571690639649120257",
