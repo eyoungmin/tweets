@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 10:40:10 +0000 2022",
+		"id": 1571805730734493700,
+		"id_str": "1571811378800861185",
+		"full_text": "블랙핑크의 비하인드 영상🖤\n\n지금 #스포티파이 [K-Pop ON!] 트랙에서 \n블랙핑크의 비하인드 풀영상을 만나보세요!\nhttps://t.co/ZGOedg34oa\n\n@BLACKPINK #SpotifyxBLACKPINK #SpotifyxBORNPINK https://t.co/GSjcYbP1qB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						103,
+						121
+					]
+				},
+				{
+					"text": "SpotifyxBORNPINK",
+					"indices": [
+						122,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZGOedg34oa",
+					"expanded_url": "http://spotify.link/siC5nFhErtb",
+					"display_url": "spotify.link/siC5nFhErtb",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571805640540168200,
+					"id_str": "1571805640540168193",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571805640540168193/pu/img/H-DNC_N9LwVLiquF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571805640540168193/pu/img/H-DNC_N9LwVLiquF.jpg",
+					"url": "https://t.co/GSjcYbP1qB",
+					"display_url": "pic.twitter.com/GSjcYbP1qB",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1571805730734493696/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571805640540168200,
+					"id_str": "1571805640540168193",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571805640540168193/pu/img/H-DNC_N9LwVLiquF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571805640540168193/pu/img/H-DNC_N9LwVLiquF.jpg",
+					"url": "https://t.co/GSjcYbP1qB",
+					"display_url": "pic.twitter.com/GSjcYbP1qB",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1571805730734493696/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15056,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571805640540168193/pu/vid/640x360/geAFWdBCESTRDwhT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571805640540168193/pu/pl/CGlc0yzASpSCozDg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571805640540168193/pu/vid/480x270/nqrkT6DatykG6wjI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571805640540168193/pu/vid/1280x720/0pUNJX6xhSCH2JTS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/3A5aX8S14h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3A5aX8S14h",
+							"expanded_url": "https://spotify.link/AI7hay2nQqb",
+							"display_url": "spotify.link/AI7hay2nQqb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153135,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1662081183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2567,
+		"favorite_count": 6679,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크의 비하인드 영상🖤\n\n지금 #스포티파이 [K-Pop ON!] 트랙에서 \n블랙핑크의 비하인드 풀영상을 만나보세요!\nhttps://t.co/ZGOedg34oa\n\n@BLACKPINK #SpotifyxBLACKPINK #SpotifyxBORNPINK https://t.co/GSjcYbP1qB"
+	},
+	{
 		"created_at": "Mon Sep 19 09:40:10 +0000 2022",
 		"id": 1571787857249075200,
 		"id_str": "1571796280858546178",
