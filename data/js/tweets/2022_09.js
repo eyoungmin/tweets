@@ -1,6 +1,1081 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 00:40:10 +0000 2022",
+		"id": 1571657704762146800,
+		"id_str": "1571660383374479360",
+		"full_text": "Listen to #ShutDown now on @youtubemusic’s RELEASED!\n▶️https://t.co/0dvusK0t35 https://t.co/roTTZvQTCs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutDown",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youtubemusic",
+					"name": "YouTube Music",
+					"id": 880142286176231400,
+					"id_str": "880142286176231425",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0dvusK0t35",
+					"expanded_url": "http://blackpink.lnk.to/RELEASED",
+					"display_url": "blackpink.lnk.to/RELEASED",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571650254692585500,
+					"id_str": "1571650254692585472",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-flGYakAAj6p2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-flGYakAAj6p2.jpg",
+					"url": "https://t.co/roTTZvQTCs",
+					"display_url": "pic.twitter.com/roTTZvQTCs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657704762146817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571650254692585500,
+					"id_str": "1571650254692585472",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-flGYakAAj6p2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-flGYakAAj6p2.jpg",
+					"url": "https://t.co/roTTZvQTCs",
+					"display_url": "pic.twitter.com/roTTZvQTCs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657704762146817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536435,
+			"friends_count": 9,
+			"listed_count": 9297,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 934,
+		"favorite_count": 2993,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to #ShutDown now on @youtubemusic’s RELEASED!\n▶️https://t.co/0dvusK0t35 https://t.co/roTTZvQTCs"
+	},
+	{
+		"created_at": "Mon Sep 19 00:37:45 +0000 2022",
+		"id": 1571658062519500800,
+		"id_str": "1571659777478098944",
+		"full_text": "Thank you @deezer!\n▶️https://t.co/6xtfOSBit9 https://t.co/QAVh1z3tTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deezer",
+					"name": "Deezer",
+					"id": 375861459,
+					"id_str": "375861459",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xtfOSBit9",
+					"expanded_url": "https://blackpink.lnk.to/TopKpop",
+					"display_url": "blackpink.lnk.to/TopKpop",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571652545793388500,
+					"id_str": "1571652545793388545",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-hqdZacAErGJD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-hqdZacAErGJD.jpg",
+					"url": "https://t.co/QAVh1z3tTe",
+					"display_url": "pic.twitter.com/QAVh1z3tTe",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571658062519500803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571652545793388500,
+					"id_str": "1571652545793388545",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-hqdZacAErGJD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-hqdZacAErGJD.jpg",
+					"url": "https://t.co/QAVh1z3tTe",
+					"display_url": "pic.twitter.com/QAVh1z3tTe",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571658062519500803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536435,
+			"friends_count": 9,
+			"listed_count": 9297,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1082,
+		"favorite_count": 3713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @deezer!\n▶️https://t.co/6xtfOSBit9 https://t.co/QAVh1z3tTe"
+	},
+	{
+		"created_at": "Mon Sep 19 00:37:45 +0000 2022",
+		"id": 1571657960656609300,
+		"id_str": "1571659776077213697",
+		"full_text": "Thank you @deezer!\n▶️https://t.co/ZjyPT894w0 https://t.co/tQBCWyd6UE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deezer",
+					"name": "Deezer",
+					"id": 375861459,
+					"id_str": "375861459",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZjyPT894w0",
+					"expanded_url": "https://blackpink.lnk.to/RadarWeekly",
+					"display_url": "blackpink.lnk.to/RadarWeekly",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571652044158816300,
+					"id_str": "1571652044158816256",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-hNQqaUAA8Cv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-hNQqaUAA8Cv3.jpg",
+					"url": "https://t.co/tQBCWyd6UE",
+					"display_url": "pic.twitter.com/tQBCWyd6UE",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657960656609282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571652044158816300,
+					"id_str": "1571652044158816256",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-hNQqaUAA8Cv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-hNQqaUAA8Cv3.jpg",
+					"url": "https://t.co/tQBCWyd6UE",
+					"display_url": "pic.twitter.com/tQBCWyd6UE",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657960656609282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536435,
+			"friends_count": 9,
+			"listed_count": 9297,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 860,
+		"favorite_count": 2938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @deezer!\n▶️https://t.co/ZjyPT894w0 https://t.co/tQBCWyd6UE"
+	},
+	{
+		"created_at": "Mon Sep 19 00:37:45 +0000 2022",
+		"id": 1571658105892794400,
+		"id_str": "1571659776060452864",
+		"full_text": "Stream #ShutDown on @soundcloud’s #EarCandy playlist!\n▶️https://t.co/vA55r5Wnrv https://t.co/LQZ8smkDXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutDown",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "EarCandy",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoundCloud",
+					"name": "SoundCloud",
+					"id": 5943942,
+					"id_str": "5943942",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vA55r5Wnrv",
+					"expanded_url": "https://blackpink.lnk.to/EarCandy",
+					"display_url": "blackpink.lnk.to/EarCandy",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571652759916802000,
+					"id_str": "1571652759916802048",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-h27EacAASMbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-h27EacAASMbs.jpg",
+					"url": "https://t.co/LQZ8smkDXI",
+					"display_url": "pic.twitter.com/LQZ8smkDXI",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571658105892794369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571652759916802000,
+					"id_str": "1571652759916802048",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-h27EacAASMbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-h27EacAASMbs.jpg",
+					"url": "https://t.co/LQZ8smkDXI",
+					"display_url": "pic.twitter.com/LQZ8smkDXI",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571658105892794369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536435,
+			"friends_count": 9,
+			"listed_count": 9297,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 3138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stream #ShutDown on @soundcloud’s #EarCandy playlist!\n▶️https://t.co/vA55r5Wnrv https://t.co/LQZ8smkDXI"
+	},
+	{
+		"created_at": "Mon Sep 19 00:37:45 +0000 2022",
+		"id": 1571657897117098000,
+		"id_str": "1571659776052064256",
+		"full_text": "BLINKs! Make sure you purchase BLACKPINK’s ‘BORN PINK’ exclusive box sets, available now at @Target!\n▶️https://t.co/zZvQD9XYdJ https://t.co/pidgnP1Isc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Target",
+					"name": "Target",
+					"id": 89084561,
+					"id_str": "89084561",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zZvQD9XYdJ",
+					"expanded_url": "https://blackpink.lnk.to/Target",
+					"display_url": "blackpink.lnk.to/Target",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571651616855691300,
+					"id_str": "1571651616855691264",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-g0Y1aEAAuv3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-g0Y1aEAAuv3_.jpg",
+					"url": "https://t.co/pidgnP1Isc",
+					"display_url": "pic.twitter.com/pidgnP1Isc",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657897117097984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1510,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 885,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571651616855691300,
+					"id_str": "1571651616855691264",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-g0Y1aEAAuv3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-g0Y1aEAAuv3_.jpg",
+					"url": "https://t.co/pidgnP1Isc",
+					"display_url": "pic.twitter.com/pidgnP1Isc",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657897117097984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1510,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 885,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571651667984285700,
+					"id_str": "1571651667984285698",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-g3XTagAIoF62.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-g3XTagAIoF62.jpg",
+					"url": "https://t.co/pidgnP1Isc",
+					"display_url": "pic.twitter.com/pidgnP1Isc",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657897117097984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1506,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 882,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1571651690729992200,
+					"id_str": "1571651690729992192",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc-g4sCacAAkYrj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc-g4sCacAAkYrj.jpg",
+					"url": "https://t.co/pidgnP1Isc",
+					"display_url": "pic.twitter.com/pidgnP1Isc",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1571657897117097984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 887,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1515,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536435,
+			"friends_count": 9,
+			"listed_count": 9297,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 934,
+		"favorite_count": 3109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLINKs! Make sure you purchase BLACKPINK’s ‘BORN PINK’ exclusive box sets, available now at @Target!\n▶️https://t.co/zZvQD9XYdJ https://t.co/pidgnP1Isc"
+	},
+	{
 		"created_at": "Sun Sep 18 19:40:27 +0000 2022",
 		"id": 1571581749787824000,
 		"id_str": "1571584959554490374",
@@ -137,7 +1212,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -234,7 +1309,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
