@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 10:40:17 +0000 2022",
+		"id": 1572159129111924700,
+		"id_str": "1572173796320153600",
+		"full_text": "BLACKPINK’s new album is out, and its packaging is made from FSC-certified paper! Together, we can all contribute to #ForestsForAllForever. \n#BORNPINK @ygent_official @BLACKPINK @FSC_APAC https://t.co/489hDQ9NkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ForestsForAllForever",
+					"indices": [
+						117,
+						138
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygent_official",
+					"name": "YG FAMILY",
+					"id": 408177579,
+					"id_str": "408177579",
+					"indices": [
+						151,
+						166
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"screen_name": "FSC_APAC",
+					"name": "FSC Asia Pacific",
+					"id": 755620763361771500,
+					"id_str": "755620763361771520",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572158347452743700,
+					"id_str": "1572158347452743681",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572158347452743681/pu/img/AYkCdM28BtAP_yIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572158347452743681/pu/img/AYkCdM28BtAP_yIN.jpg",
+					"url": "https://t.co/489hDQ9NkW",
+					"display_url": "pic.twitter.com/489hDQ9NkW",
+					"expanded_url": "https://twitter.com/FSC_IC/status/1572159129111924736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572158347452743700,
+					"id_str": "1572158347452743681",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572158347452743681/pu/img/AYkCdM28BtAP_yIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572158347452743681/pu/img/AYkCdM28BtAP_yIN.jpg",
+					"url": "https://t.co/489hDQ9NkW",
+					"display_url": "pic.twitter.com/489hDQ9NkW",
+					"expanded_url": "https://twitter.com/FSC_IC/status/1572159129111924736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34286,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572158347452743681/pu/vid/480x270/yIcqNsswI19P5pfA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572158347452743681/pu/vid/640x360/XUx-b6Mnp0wRONDg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572158347452743681/pu/vid/1280x720/2_BoX4Z4iFBTmCZ1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572158347452743681/pu/pl/hVScGCUHZJRXaSbQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161269393,
+			"id_str": "161269393",
+			"name": "Forest Stewardship Council",
+			"screen_name": "FSC_IC",
+			"location": "Global",
+			"description": "FSC is a non-profit sustainable forestry solution that covers 200 million hectares of certified forests. Join our mission to protect the world's forests.",
+			"url": "https://t.co/ERkyk3DOHf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ERkyk3DOHf",
+							"expanded_url": "https://fsc.org",
+							"display_url": "fsc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21673,
+			"friends_count": 616,
+			"listed_count": 393,
+			"created_at": "Wed Jun 30 12:15:33 +0000 2010",
+			"favourites_count": 1653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "334F27",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402531751503843332/x95_InAB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402531751503843332/x95_InAB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161269393/1648478986",
+			"profile_link_color": "30690D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AFBE28",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4513,
+		"favorite_count": 13663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK’s new album is out, and its packaging is made from FSC-certified paper! Together, we can all contribute to #ForestsForAllForever. \n#BORNPINK @ygent_official @BLACKPINK @FSC_APAC https://t.co/489hDQ9NkW"
+	},
+	{
+		"created_at": "Tue Sep 20 10:40:15 +0000 2022",
+		"id": 1572165783077417000,
+		"id_str": "1572173787281620993",
+		"full_text": "[#김립 / #KimLip] 루우~미너스 하!😉\n\n#이달의소녀 #LOONA https://t.co/fSj0tMERtq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572165771811491800,
+					"id_str": "1572165771811491843",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FdF0cJTaEAMozaB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdF0cJTaEAMozaB.jpg",
+					"url": "https://t.co/fSj0tMERtq",
+					"display_url": "pic.twitter.com/fSj0tMERtq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1572165783077416961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572165771811491800,
+					"id_str": "1572165771811491843",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FdF0cJTaEAMozaB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdF0cJTaEAMozaB.jpg",
+					"url": "https://t.co/fSj0tMERtq",
+					"display_url": "pic.twitter.com/fSj0tMERtq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1572165783077416961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572165771794731000,
+					"id_str": "1572165771794731009",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FdF0cJPaUAE11Lx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdF0cJPaUAE11Lx.jpg",
+					"url": "https://t.co/fSj0tMERtq",
+					"display_url": "pic.twitter.com/fSj0tMERtq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1572165783077416961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1385,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572165771794710500,
+					"id_str": "1572165771794710530",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FdF0cJPaAAI9cWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdF0cJPaAAI9cWB.jpg",
+					"url": "https://t.co/fSj0tMERtq",
+					"display_url": "pic.twitter.com/fSj0tMERtq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1572165783077416961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1387,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572165771819880400,
+					"id_str": "1572165771819880450",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/FdF0cJVaEAI2dkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdF0cJVaEAI2dkz.jpg",
+					"url": "https://t.co/fSj0tMERtq",
+					"display_url": "pic.twitter.com/fSj0tMERtq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1572165783077416961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 972,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 982067,
+			"friends_count": 3,
+			"listed_count": 8950,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1699,
+		"favorite_count": 6019,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김립 / #KimLip] 루우~미너스 하!😉\n\n#이달의소녀 #LOONA https://t.co/fSj0tMERtq"
+	},
+	{
 		"created_at": "Tue Sep 20 09:40:22 +0000 2022",
 		"id": 1572148882020368400,
 		"id_str": "1572158718128553987",
