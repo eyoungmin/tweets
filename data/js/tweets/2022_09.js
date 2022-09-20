@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 09:40:22 +0000 2022",
+		"id": 1572148882020368400,
+		"id_str": "1572158718128553987",
+		"full_text": "iScreaM Vol.17 : DEEP Remixes\n\n➫ 2022.09.23 6PM KST\n\n#HYO #DEEP \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/mrvXoNl51m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572148872830648300,
+					"id_str": "1572148872830648320",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFlEfsaAAA65Ye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFlEfsaAAA65Ye.jpg",
+					"url": "https://t.co/mrvXoNl51m",
+					"display_url": "pic.twitter.com/mrvXoNl51m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572148882020368385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572148872830648300,
+					"id_str": "1572148872830648320",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFlEfsaAAA65Ye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFlEfsaAAA65Ye.jpg",
+					"url": "https://t.co/mrvXoNl51m",
+					"display_url": "pic.twitter.com/mrvXoNl51m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572148882020368385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11183110,
+			"friends_count": 55,
+			"listed_count": 12607,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1063,
+		"favorite_count": 3645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.17 : DEEP Remixes\n\n➫ 2022.09.23 6PM KST\n\n#HYO #DEEP \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/mrvXoNl51m"
+	},
+	{
+		"created_at": "Tue Sep 20 09:40:10 +0000 2022",
+		"id": 1571801271207501800,
+		"id_str": "1572158666626985988",
+		"full_text": "We know you’ll never get enough of @BLACKPINK 🖤💖 So catch more exclusive BLACKPINK behind-the-scenes content on K-Pop ON! Track~\n\nThere’s a quiz waiting for BLINKs too 😉\nhttps://t.co/En58EmZo1N \n\n#SpotifyxBLACKPINK #SpotifyxBORNPINK https://t.co/Bz18EuZByn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyxBLACKPINK",
+					"indices": [
+						196,
+						214
+					]
+				},
+				{
+					"text": "SpotifyxBORNPINK",
+					"indices": [
+						215,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/En58EmZo1N",
+					"expanded_url": "https://spoti.fi/BPontrack",
+					"display_url": "spoti.fi/BPontrack",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571794137762132000,
+					"id_str": "1571794137762131971",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571794137762131971/pu/img/zHw2Yj8qtOklF34I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571794137762131971/pu/img/zHw2Yj8qtOklF34I.jpg",
+					"url": "https://t.co/Bz18EuZByn",
+					"display_url": "pic.twitter.com/Bz18EuZByn",
+					"expanded_url": "https://twitter.com/SpotifyKpop/status/1571801271207501825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571794137762132000,
+					"id_str": "1571794137762131971",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571794137762131971/pu/img/zHw2Yj8qtOklF34I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571794137762131971/pu/img/zHw2Yj8qtOklF34I.jpg",
+					"url": "https://t.co/Bz18EuZByn",
+					"display_url": "pic.twitter.com/Bz18EuZByn",
+					"expanded_url": "https://twitter.com/SpotifyKpop/status/1571801271207501825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571794137762131971/pu/vid/1280x720/bcAyglBusA_gv41U.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571794137762131971/pu/vid/480x270/1-9uQuBUuxsVxMH_.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571794137762131971/pu/vid/640x360/7F9CoOZIImXoti3o.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571794137762131971/pu/pl/gh0pC45_VV1wy0Lg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKpop",
+			"location": "",
+			"description": "Annyeong! ✨ Welcome to the colorful world of music, standom, community, and more. Turn on the movement! #SpotifyKPop",
+			"url": "https://t.co/OXiIJ12IEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OXiIJ12IEA",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469629,
+			"friends_count": 240,
+			"listed_count": 475,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 4741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1655957063",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7747,
+		"favorite_count": 23887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We know you’ll never get enough of @BLACKPINK 🖤💖 So catch more exclusive BLACKPINK behind-the-scenes content on K-Pop ON! Track~\n\nThere’s a quiz waiting for BLINKs too 😉\nhttps://t.co/En58EmZo1N \n\n#SpotifyxBLACKPINK #SpotifyxBORNPINK https://t.co/Bz18EuZByn"
+	},
+	{
+		"created_at": "Tue Sep 20 09:30:47 +0000 2022",
+		"id": 1572148562909188000,
+		"id_str": "1572156306596982785",
+		"full_text": "다이어트도 장비 빨! 손민수하고 싶은 셀럽의 운동복.zip\n#유리 #제니 #정은지 #아이린\nhttps://t.co/AFfKY8Z8hQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "정은지",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AFfKY8Z8hQ",
+					"expanded_url": "https://www.allurekorea.com/?p=166315&ddw=123147&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=166315&ddw=…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38240,
+			"friends_count": 1,
+			"listed_count": 297,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다이어트도 장비 빨! 손민수하고 싶은 셀럽의 운동복.zip\n#유리 #제니 #정은지 #아이린\nhttps://t.co/AFfKY8Z8hQ"
+	},
+	{
 		"created_at": "Tue Sep 20 08:29:39 +0000 2022",
 		"id": 1572133463850856400,
 		"id_str": "1572140921621209088",
