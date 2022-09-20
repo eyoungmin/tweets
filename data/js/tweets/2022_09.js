@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 15:40:17 +0000 2022",
+		"id": 1572239400872050700,
+		"id_str": "1572249295746646020",
+		"full_text": "#BLACKPINK ‘Shut Down’ M/V MAKING FILM\n\n🎬YouTube: https://t.co/W8pY4OYCNs \n📺NOW: https://t.co/cHViyli8iW \n\n‘Shut Down’ M/V\nhttps://t.co/Rf0cN9I80D \n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #MV_MAKING #YG https://t.co/i73t2nTbVC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "MV_MAKING",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W8pY4OYCNs",
+					"expanded_url": "https://youtu.be/L0zIUVVEW6g",
+					"display_url": "youtu.be/L0zIUVVEW6g",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/cHViyli8iW",
+					"expanded_url": "https://tv.naver.com/v/29319982",
+					"display_url": "tv.naver.com/v/29319982",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/Rf0cN9I80D",
+					"expanded_url": "https://youtu.be/POe9SOEKotk",
+					"display_url": "youtu.be/POe9SOEKotk",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572067143507935200,
+					"id_str": "1572067143507935235",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdEbWVQaIAAw-WI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdEbWVQaIAAw-WI.jpg",
+					"url": "https://t.co/i73t2nTbVC",
+					"display_url": "pic.twitter.com/i73t2nTbVC",
+					"expanded_url": "https://twitter.com/ygent_official/status/1572239400872050688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572067143507935200,
+					"id_str": "1572067143507935235",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdEbWVQaIAAw-WI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdEbWVQaIAAw-WI.jpg",
+					"url": "https://t.co/i73t2nTbVC",
+					"display_url": "pic.twitter.com/i73t2nTbVC",
+					"expanded_url": "https://twitter.com/ygent_official/status/1572239400872050688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 209275,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572067143507935235/vid/1280x720/f1dIWMjfYlkpx8UC.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572067143507935235/vid/640x360/9H5humddWHvFIeP3.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1572067143507935235/pl/WZYtQ8o3wTovU6_p.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572067143507935235/vid/480x270/YNNXgz_9rck_OXIG.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘Shut Down’ M/V MAKING FILM",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/L0zIUVVEW6g"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8936865,
+			"friends_count": 36,
+			"listed_count": 9864,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5282,
+		"favorite_count": 15091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘Shut Down’ M/V MAKING FILM\n\n🎬YouTube: https://t.co/W8pY4OYCNs \n📺NOW: https://t.co/cHViyli8iW \n\n‘Shut Down’ M/V\nhttps://t.co/Rf0cN9I80D \n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown #MV_MAKING #YG https://t.co/i73t2nTbVC"
+	},
+	{
+		"created_at": "Tue Sep 20 15:40:10 +0000 2022",
+		"id": 1572234180368666600,
+		"id_str": "1572249265409253379",
+		"full_text": "🇨🇱🕘 #ColdplaySantiago https://t.co/JTkk5yIwws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ColdplaySantiago",
+					"indices": [
+						4,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572233634593087500,
+					"id_str": "1572233634593087490",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FdGyKR3XoAIiMAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdGyKR3XoAIiMAs.jpg",
+					"url": "https://t.co/JTkk5yIwws",
+					"display_url": "pic.twitter.com/JTkk5yIwws",
+					"expanded_url": "https://twitter.com/coldplay/status/1572234180368666624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572233634593087500,
+					"id_str": "1572233634593087490",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FdGyKR3XoAIiMAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdGyKR3XoAIiMAs.jpg",
+					"url": "https://t.co/JTkk5yIwws",
+					"display_url": "pic.twitter.com/JTkk5yIwws",
+					"expanded_url": "https://twitter.com/coldplay/status/1572234180368666624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Santiago, Chile",
+			"description": "The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23676734,
+			"friends_count": 780,
+			"listed_count": 42406,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1634283328",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 3441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🇨🇱🕘 #ColdplaySantiago https://t.co/JTkk5yIwws"
+	},
+	{
 		"created_at": "Tue Sep 20 13:40:21 +0000 2022",
 		"id": 1572217950526115800,
 		"id_str": "1572219114382364674",
