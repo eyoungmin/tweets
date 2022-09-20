@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 08:29:39 +0000 2022",
+		"id": 1572133463850856400,
+		"id_str": "1572140921621209088",
+		"full_text": "[마무리엔딩] \"착하고 정의로운 빅마우스\"🐭\n미호 없는 세상에서 미호가 바라는 빅마우스가 된 창호🐁\n\n그동안 &lt;#빅마우스&gt;를 사랑해주셔서 감사했습니다💋\n#mbcdrama #이종석 #임윤아\n#김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #MBC \nMBC 220917 방송 https://t.co/OKHcsURHD0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅마우스",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "mbcdrama",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "이종석",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김주헌",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "양경원",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "곽동연",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "MBC금토드라마",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572111995608141800,
+					"id_str": "1572111995608141831",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFDp1baEAAODQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFDp1baEAAODQS.jpg",
+					"url": "https://t.co/OKHcsURHD0",
+					"display_url": "pic.twitter.com/OKHcsURHD0",
+					"expanded_url": "https://twitter.com/withMBC/status/1572133463850856448/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572111995608141800,
+					"id_str": "1572111995608141831",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFDp1baEAAODQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFDp1baEAAODQS.jpg",
+					"url": "https://t.co/OKHcsURHD0",
+					"display_url": "pic.twitter.com/OKHcsURHD0",
+					"expanded_url": "https://twitter.com/withMBC/status/1572133463850856448/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572111995608141831/vid/720x900/V2oyIh0cnU69ANKp.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1572111995608141831/pl/yUgZKU6QJIYoCs6x.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572111995608141831/vid/320x400/eaE6cE--j9P1KECI.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572111995608141831/vid/480x600/DevFeew6Zg0557nO.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003593,
+			"friends_count": 9810,
+			"listed_count": 4193,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1663548814",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[마무리엔딩] \"착하고 정의로운 빅마우스\"🐭\n미호 없는 세상에서 미호가 바라는 빅마우스가 된 창호🐁\n\n그동안 &lt;#빅마우스&gt;를 사랑해주셔서 감사했습니다💋\n#mbcdrama #이종석 #임윤아\n#김주헌 #옥자연 #양경원 특별출연 #곽동연\n#MBC금토드라마 #MBC \nMBC 220917 방송 https://t.co/OKHcsURHD0"
+	},
+	{
 		"created_at": "Tue Sep 20 07:29:39 +0000 2022",
 		"id": 1572110810653999000,
 		"id_str": "1572125820713418754",
