@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 01:40:10 +0000 2022",
+		"id": 1571955720941084700,
+		"id_str": "1572037872768921605",
+		"full_text": ".@SDGAdvocates #BLACKPINK joined the #SDGMoment and shared this message with the 🌏: https://t.co/82jqKEIlnh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "SDGMoment",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SDGAdvocates",
+					"name": "SDG Advocates",
+					"id": 1070420080314515500,
+					"id_str": "1070420080314515457",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571954974556307500,
+					"id_str": "1571954974556307462",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571954974556307462/pu/img/QkGd-CprGRE2-DG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571954974556307462/pu/img/QkGd-CprGRE2-DG7.jpg",
+					"url": "https://t.co/82jqKEIlnh",
+					"display_url": "pic.twitter.com/82jqKEIlnh",
+					"expanded_url": "https://twitter.com/UN_Partnerships/status/1571955720941084675/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571954974556307500,
+					"id_str": "1571954974556307462",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571954974556307462/pu/img/QkGd-CprGRE2-DG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571954974556307462/pu/img/QkGd-CprGRE2-DG7.jpg",
+					"url": "https://t.co/82jqKEIlnh",
+					"display_url": "pic.twitter.com/82jqKEIlnh",
+					"expanded_url": "https://twitter.com/UN_Partnerships/status/1571955720941084675/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 105939,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571954974556307462/pu/vid/480x270/vYvgEVbzKxyyjjQx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571954974556307462/pu/vid/640x360/H4I8ixjll1hd-knS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571954974556307462/pu/vid/1280x720/ofc9aPrIT_uHkbsI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571954974556307462/pu/pl/ZSDngjpwYLkuHLdl.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1250265159098077200,
+			"id_str": "1250265159098077186",
+			"name": "UN Office for Partnerships 🇺🇳",
+			"screen_name": "UN_Partnerships",
+			"location": "",
+			"description": "The @UN Office for Partnerships is your global gateway to connect and co-create partnerships to deliver the Sustainable Development Goals. #SDGs #GlobalGoals",
+			"url": "https://t.co/HurVVAjDp3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HurVVAjDp3",
+							"expanded_url": "http://unpartnerships.un.org",
+							"display_url": "unpartnerships.un.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1368,
+			"friends_count": 202,
+			"listed_count": 6,
+			"created_at": "Wed Apr 15 03:30:35 +0000 2020",
+			"favourites_count": 686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308925904647847936/scZvMEhO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308925904647847936/scZvMEhO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1250265159098077186/1600906544",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1421,
+		"favorite_count": 4561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@SDGAdvocates #BLACKPINK joined the #SDGMoment and shared this message with the 🌏: https://t.co/82jqKEIlnh"
+	},
+	{
 		"created_at": "Mon Sep 19 16:37:52 +0000 2022",
 		"id": 1571892682636820500,
 		"id_str": "1571901399725936640",
