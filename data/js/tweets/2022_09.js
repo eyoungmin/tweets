@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 12:40:37 +0000 2022",
+		"id": 1572200067330867200,
+		"id_str": "1572204082013810690",
+		"full_text": "\"22 Make\" out October 7th! Pre-order your signed vinyl now ✌️ https://t.co/qdBdzxnPKD https://t.co/Zg7HniATRY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdBdzxnPKD",
+					"expanded_url": "http://ohwonder.lnk.to/22MakeAlbum",
+					"display_url": "ohwonder.lnk.to/22MakeAlbum",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572200004684550100,
+					"id_str": "1572200004684550145",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572200004684550145/pu/img/xD9pN5EVqCA-9wBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572200004684550145/pu/img/xD9pN5EVqCA-9wBI.jpg",
+					"url": "https://t.co/Zg7HniATRY",
+					"display_url": "pic.twitter.com/Zg7HniATRY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1572200067330867202/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572200004684550100,
+					"id_str": "1572200004684550145",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572200004684550145/pu/img/xD9pN5EVqCA-9wBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572200004684550145/pu/img/xD9pN5EVqCA-9wBI.jpg",
+					"url": "https://t.co/Zg7HniATRY",
+					"display_url": "pic.twitter.com/Zg7HniATRY",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1572200067330867202/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7871,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572200004684550145/pu/vid/480x852/GRHPIn9OFBg1gwBY.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572200004684550145/pu/vid/320x568/M3OZB8K3a5MxBtNE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572200004684550145/pu/pl/n3NYEfP7IXS1NqFp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572200004684550145/pu/vid/720x1280/ZqZqEgTWkKqYxQfu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165638,
+			"friends_count": 202,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"22 Make\" out October 7th! Pre-order your signed vinyl now ✌️ https://t.co/qdBdzxnPKD https://t.co/Zg7HniATRY"
+	},
+	{
+		"created_at": "Tue Sep 20 12:40:28 +0000 2022",
+		"id": 1572194883003359200,
+		"id_str": "1572204043522433025",
+		"full_text": "今、世界で話題沸騰中✨\n韓国のガールズグループ🇰🇷\n#LOONA(#今月の少女) \n初の日本単独ライブ🎶\n\nLOONA 1st Live\n\"#LOONATHEWORLDinTOKYO\"\n\n10/1 sat 17:30\nABEMA PPVで独占生配信 決定🌙\n\n配信を記念してLOONAが出演した \n#QUEENDOM2 の再放送も決定！👏\n\nチケットの詳細はこちら🎟",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONATHEWORLDinTOKYO",
+					"indices": [
+						70,
+						91
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960748391276806100,
+			"id_str": "960748391276806144",
+			"name": "ABEMA_K-POP・韓流ドラマ(アベマ)",
+			"screen_name": "abema_kpopdrama",
+			"location": "",
+			"description": "@ABEMA 韓流K-POPチャンネル公式Twitter\n毎週月・木にドラマやバラエティ番組など続々入荷中🇰🇷\n\n💛#ハートシグナル ジャパン 第1-3話まで無料配信中\n💛#ミミクス 全話配信中",
+			"url": "https://t.co/2ueNMUoPyD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ueNMUoPyD",
+							"expanded_url": "http://abe.ma/3svI1G9",
+							"display_url": "abe.ma/3svI1G9",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167649,
+			"friends_count": 93,
+			"listed_count": 245,
+			"created_at": "Tue Feb 06 05:34:01 +0000 2018",
+			"favourites_count": 1199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 813949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509777887184158725/S6hbbAGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509777887184158725/S6hbbAGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/960748391276806144/1627312116",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 1225,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "今、世界で話題沸騰中✨\n韓国のガールズグループ🇰🇷\n#LOONA(#今月の少女) \n初の日本単独ライブ🎶\n\nLOONA 1st Live\n\"#LOONATHEWORLDinTOKYO\"\n\n10/1 sat 17:30\nABEMA PPVで独占生配信 決定🌙\n\n配信を記念してLOONAが出演した \n#QUEENDOM2 の再放送も決定！👏\n\nチケットの詳細はこちら🎟"
+	},
+	{
+		"created_at": "Tue Sep 20 12:40:22 +0000 2022",
+		"id": 1572194205799452700,
+		"id_str": "1572204016976760833",
+		"full_text": "LOONA 1st Live\n“LOONA THE WORLD in TOKYO”\nExclusive live streaming confirmed\non ABEMA, starting at 5:30 p.m. on October 1st (Saturday)\n\n🎟 https://t.co/yYDnW8rxRh\n\nIn commemoration of this live stream, a re-airing of #QUEENDOM2, featuring LOONA, has also been confirmed!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yYDnW8rxRh",
+					"expanded_url": "https://abe.ma/3dhxJVt",
+					"display_url": "abe.ma/3dhxJVt",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1572194203815510000,
+		"in_reply_to_status_id_str": "1572194203815510022",
+		"in_reply_to_user_id": 1407603879026462700,
+		"in_reply_to_user_id_str": "1407603879026462722",
+		"in_reply_to_screen_name": "loonaJPofficial",
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。 9/28にJAPAN 2nd SINGLES「LUMINOUS 」をリリース！10/1(土)東京ガーデンシアターにて初となる日本公演「LOONA 1st Live “LOONATHEWORLD in TOKYO “」開催！",
+			"url": "https://t.co/r8yCDRFhQq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r8yCDRFhQq",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99440,
+			"friends_count": 2,
+			"listed_count": 764,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA 1st Live\n“LOONA THE WORLD in TOKYO”\nExclusive live streaming confirmed\non ABEMA, starting at 5:30 p.m. on October 1st (Saturday)\n\n🎟 https://t.co/yYDnW8rxRh\n\nIn commemoration of this live stream, a re-airing of #QUEENDOM2, featuring LOONA, has also been confirmed!"
+	},
+	{
 		"created_at": "Tue Sep 20 11:51:20 +0000 2022",
 		"id": 1572188879784149000,
 		"id_str": "1572191676621541378",
