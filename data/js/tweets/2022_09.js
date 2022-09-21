@@ -1,6 +1,1363 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 11:40:32 +0000 2022",
+		"id": 1572549179897188400,
+		"id_str": "1572551348973113344",
+		"full_text": "2022 ADOR GLOBAL AUDITION : Greetings From The Trainees https://t.co/Tg1UuC0V9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572549102684213200,
+					"id_str": "1572549102684213248",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572549102684213248/pu/img/WJZeyC7KfzmBowst.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572549102684213248/pu/img/WJZeyC7KfzmBowst.jpg",
+					"url": "https://t.co/Tg1UuC0V9u",
+					"display_url": "pic.twitter.com/Tg1UuC0V9u",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572549179897188352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572549102684213200,
+					"id_str": "1572549102684213248",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572549102684213248/pu/img/WJZeyC7KfzmBowst.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572549102684213248/pu/img/WJZeyC7KfzmBowst.jpg",
+					"url": "https://t.co/Tg1UuC0V9u",
+					"display_url": "pic.twitter.com/Tg1UuC0V9u",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572549179897188352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33708,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572549102684213248/pu/vid/720x720/cXkB1bZkD1_OBSsJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572549102684213248/pu/vid/320x320/CjdsGYBVbclnICvC.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572549102684213248/pu/vid/540x540/413yTAc93KEOK4BJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572549102684213248/pu/pl/tQgGbXX1bAgYINop.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92760,
+			"friends_count": 4,
+			"listed_count": 464,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 ADOR GLOBAL AUDITION : Greetings From The Trainees https://t.co/Tg1UuC0V9u"
+	},
+	{
+		"created_at": "Wed Sep 21 11:40:28 +0000 2022",
+		"id": 1572549072153878500,
+		"id_str": "1572551331486777349",
+		"full_text": "2022 ADOR GLOBAL AUDITION : The Trainees’ Talk 2 https://t.co/FrReOfQ771",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572548954847613000,
+					"id_str": "1572548954847612928",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572548954847612928/pu/img/BabVjjacZwGJMcM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572548954847612928/pu/img/BabVjjacZwGJMcM2.jpg",
+					"url": "https://t.co/FrReOfQ771",
+					"display_url": "pic.twitter.com/FrReOfQ771",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572549072153878540/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572548954847613000,
+					"id_str": "1572548954847612928",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572548954847612928/pu/img/BabVjjacZwGJMcM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572548954847612928/pu/img/BabVjjacZwGJMcM2.jpg",
+					"url": "https://t.co/FrReOfQ771",
+					"display_url": "pic.twitter.com/FrReOfQ771",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572549072153878540/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60666,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548954847612928/pu/vid/720x720/NFHzVk5QfQeRd3UU.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548954847612928/pu/vid/540x540/u6pLQuw1AXWwlLzc.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548954847612928/pu/vid/320x320/qLhuZJeJ5uEAWt6u.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572548954847612928/pu/pl/4owkwKWbvGJKyI6q.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92760,
+			"friends_count": 4,
+			"listed_count": 464,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 ADOR GLOBAL AUDITION : The Trainees’ Talk 2 https://t.co/FrReOfQ771"
+	},
+	{
+		"created_at": "Wed Sep 21 11:40:25 +0000 2022",
+		"id": 1572548917006594000,
+		"id_str": "1572551318404734976",
+		"full_text": "2022 ADOR GLOBAL AUDITION : The Trainees’ Talk 1 https://t.co/4UTB42gpNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572548701083795500,
+					"id_str": "1572548701083795456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572548701083795456/pu/img/Ylzs8aK4bU2Goq-t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572548701083795456/pu/img/Ylzs8aK4bU2Goq-t.jpg",
+					"url": "https://t.co/4UTB42gpNh",
+					"display_url": "pic.twitter.com/4UTB42gpNh",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572548917006594048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572548701083795500,
+					"id_str": "1572548701083795456",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572548701083795456/pu/img/Ylzs8aK4bU2Goq-t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572548701083795456/pu/img/Ylzs8aK4bU2Goq-t.jpg",
+					"url": "https://t.co/4UTB42gpNh",
+					"display_url": "pic.twitter.com/4UTB42gpNh",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572548917006594048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548701083795456/pu/vid/320x320/6Y4yYNbhcq8xCazf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572548701083795456/pu/pl/uU05EcFXBJpmHs15.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548701083795456/pu/vid/540x540/Lja3slkvYfSlw2RP.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572548701083795456/pu/vid/720x720/X_I8CXEH6JVeCZCR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92760,
+			"friends_count": 4,
+			"listed_count": 464,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 ADOR GLOBAL AUDITION : The Trainees’ Talk 1 https://t.co/4UTB42gpNh"
+	},
+	{
+		"created_at": "Wed Sep 21 11:40:20 +0000 2022",
+		"id": 1572545980649844700,
+		"id_str": "1572551296703467522",
+		"full_text": "本日(22時KST)GrandGravityにも多くの参加と関心をお願いします\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572545978984693800,
+		"in_reply_to_status_id_str": "1572545978984693762",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14213,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "本日(22時KST)GrandGravityにも多くの参加と関心をお願いします\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Sep 21 11:40:18 +0000 2022",
+		"id": 1572545978984693800,
+		"id_str": "1572551287819862017",
+		"full_text": "こんにちはトリプル Sのファンの皆さん、COSMOが本日GrandGravityを控えて1.5.0verにアップデートされました。\nアップデート後、しばらくお待ちいただければ、自動的に1.5.1verにアップデートされる予定ですので、少しの間お待ちください。\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572545977139232800,
+		"in_reply_to_status_id_str": "1572545977139232768",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14213,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "こんにちはトリプル Sのファンの皆さん、COSMOが本日GrandGravityを控えて1.5.0verにアップデートされました。\nアップデート後、しばらくお待ちいただければ、自動的に1.5.1verにアップデートされる予定ですので、少しの間お待ちください。\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Sep 21 11:40:10 +0000 2022",
+		"id": 1572545977139232800,
+		"id_str": "1572551253799878657",
+		"full_text": "We look forward to your active participation in today’s(Sep 21st 10pm KST/9am EST) Grand Gravity.\n\n#tripleS #트리플에스 #トリプルS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572545975486677000,
+		"in_reply_to_status_id_str": "1572545975486676992",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14213,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We look forward to your active participation in today’s(Sep 21st 10pm KST/9am EST) Grand Gravity.\n\n#tripleS #트리플에스 #トリプルS"
+	},
+	{
+		"created_at": "Wed Sep 21 11:38:14 +0000 2022",
+		"id": 1572536331859030000,
+		"id_str": "1572550767227305985",
+		"full_text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#쇼챔피언 에서 1위를 수상하였습니다!🥇🎊\n블링크가 만들어준 Shut Down의 첫 1위 감사합니다🖤💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8545525,
+			"friends_count": 9,
+			"listed_count": 9316,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3933,
+		"favorite_count": 11269,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#쇼챔피언 에서 1위를 수상하였습니다!🥇🎊\n블링크가 만들어준 Shut Down의 첫 1위 감사합니다🖤💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
+		"created_at": "Wed Sep 21 11:31:00 +0000 2022",
+		"id": 1572541145711665200,
+		"id_str": "1572548946303778816",
+		"full_text": "#디올뷰티 와 함께한 #마리끌레르 9월호 커버 인간 디올 지수의 아름다운 뷰티 비하인드 씬❤ 대담함과 우아함을 넘나드는 다채로운 지수의 모습을 영상으로 만나보세요!😉\n@Dior @BLACKPINK #DiorBeauty #지수\n👉https://t.co/lo4jvkNQKM https://t.co/Ba3riOB5LR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디올뷰티",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "DiorBeauty",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						122,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dior",
+					"name": "Dior",
+					"id": 348379865,
+					"id_str": "348379865",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lo4jvkNQKM",
+					"expanded_url": "https://youtu.be/NpEacBxQflk",
+					"display_url": "youtu.be/NpEacBxQflk",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572499903536070700,
+					"id_str": "1572499903536070656",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdKkVK-agAAgUKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdKkVK-agAAgUKW.jpg",
+					"url": "https://t.co/Ba3riOB5LR",
+					"display_url": "pic.twitter.com/Ba3riOB5LR",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1572541145711665152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572499903536070700,
+					"id_str": "1572499903536070656",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdKkVK-agAAgUKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdKkVK-agAAgUKW.jpg",
+					"url": "https://t.co/Ba3riOB5LR",
+					"display_url": "pic.twitter.com/Ba3riOB5LR",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1572541145711665152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FdKkVK-agAAgUKW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107731,
+			"friends_count": 1,
+			"listed_count": 333,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1663123878",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1843,
+		"favorite_count": 3549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#디올뷰티 와 함께한 #마리끌레르 9월호 커버 인간 디올 지수의 아름다운 뷰티 비하인드 씬❤ 대담함과 우아함을 넘나드는 다채로운 지수의 모습을 영상으로 만나보세요!😉\n@Dior @BLACKPINK #DiorBeauty #지수\n👉https://t.co/lo4jvkNQKM https://t.co/Ba3riOB5LR"
+	},
+	{
 		"created_at": "Wed Sep 21 10:40:18 +0000 2022",
 		"id": 1572405070389715000,
 		"id_str": "1572536187805487104",
