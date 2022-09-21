@@ -1,6 +1,853 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 05:40:32 +0000 2022",
+		"id": 1572460254016966700,
+		"id_str": "1572460750098288646",
+		"full_text": "SM엔터테인먼트입니다. https://t.co/sPKXIvixX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572460217170022400,
+					"id_str": "1572460217170022404",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKAPHvaUAQ5fvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKAPHvaUAQ5fvo.jpg",
+					"url": "https://t.co/sPKXIvixX3",
+					"display_url": "pic.twitter.com/sPKXIvixX3",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1572460254016966658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572460217170022400,
+					"id_str": "1572460217170022404",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKAPHvaUAQ5fvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKAPHvaUAQ5fvo.jpg",
+					"url": "https://t.co/sPKXIvixX3",
+					"display_url": "pic.twitter.com/sPKXIvixX3",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1572460254016966658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75961,
+			"friends_count": 1,
+			"listed_count": 310,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321183178883076/ACp3Gstn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 771,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM엔터테인먼트입니다. https://t.co/sPKXIvixX3"
+	},
+	{
+		"created_at": "Wed Sep 21 05:40:25 +0000 2022",
+		"id": 1572447514049249300,
+		"id_str": "1572460719420866562",
+		"full_text": "Check out the ‘BORN PINK’ @Target exclusive pink, black, and gray box sets! Click here to find the nearest store!\nhttps://t.co/Du0OV6jNtv https://t.co/u7VXa2Mh32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Target",
+					"name": "Target",
+					"id": 89084561,
+					"id_str": "89084561",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Du0OV6jNtv",
+					"expanded_url": "https://www.target.com/store-locator/find-stores",
+					"display_url": "target.com/store-locator/…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572447332041625600,
+					"id_str": "1572447332041625600",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572447332041625600/pu/img/mCWDydWsK2gdYJrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572447332041625600/pu/img/mCWDydWsK2gdYJrL.jpg",
+					"url": "https://t.co/u7VXa2Mh32",
+					"display_url": "pic.twitter.com/u7VXa2Mh32",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572447514049249281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572447332041625600,
+					"id_str": "1572447332041625600",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572447332041625600/pu/img/mCWDydWsK2gdYJrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572447332041625600/pu/img/mCWDydWsK2gdYJrL.jpg",
+					"url": "https://t.co/u7VXa2Mh32",
+					"display_url": "pic.twitter.com/u7VXa2Mh32",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572447514049249281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22466,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572447332041625600/pu/vid/480x852/WTByU1WUlzcN6DB8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572447332041625600/pu/pl/A32Wvp9goWY_-LJL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572447332041625600/pu/vid/720x1280/ewhJOzm3PUTgOD95.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572447332041625600/pu/vid/320x568/F6ajA35fJ5Yle3BB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8544587,
+			"friends_count": 9,
+			"listed_count": 9318,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1521,
+		"favorite_count": 5658,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the ‘BORN PINK’ @Target exclusive pink, black, and gray box sets! Click here to find the nearest store!\nhttps://t.co/Du0OV6jNtv https://t.co/u7VXa2Mh32"
+	},
+	{
+		"created_at": "Wed Sep 21 05:38:11 +0000 2022",
+		"id": 1572445844196192300,
+		"id_str": "1572460158479142912",
+		"full_text": "Thank you for joining today’s listening party! Remember to join the rest of this week’s ‘BORN PINK’ listening parties on @stationhead!\n\nhttps://t.co/dL0ED2wawJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STATIONHEAD",
+					"name": "STATIONHEAD",
+					"id": 3623255597,
+					"id_str": "3623255597",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dL0ED2wawJ",
+					"expanded_url": "https://BLACKPINK.lnk.to/Stationhead",
+					"display_url": "BLACKPINK.lnk.to/Stationhead",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7527443,
+			"friends_count": 0,
+			"listed_count": 7767,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3066,
+		"favorite_count": 11518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for joining today’s listening party! Remember to join the rest of this week’s ‘BORN PINK’ listening parties on @stationhead!\n\nhttps://t.co/dL0ED2wawJ"
+	},
+	{
+		"created_at": "Wed Sep 21 05:38:11 +0000 2022",
+		"id": 1572446925949145000,
+		"id_str": "1572460157623472128",
+		"full_text": "Limited #BLACKPINK ‘BORN PINK’ autographed digipacks in-store at select indie stores! Click the link to find your local store\nhttps://t.co/U66bw0he6O https://t.co/651xLnhEvl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U66bw0he6O",
+					"expanded_url": "https://blackpink.lnk.to/IndieStores",
+					"display_url": "blackpink.lnk.to/IndieStores",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572446750849507300,
+					"id_str": "1572446750849507328",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJz_RyaIAANSEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJz_RyaIAANSEK.jpg",
+					"url": "https://t.co/651xLnhEvl",
+					"display_url": "pic.twitter.com/651xLnhEvl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572446925949145088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572446750849507300,
+					"id_str": "1572446750849507328",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FdJz_RyaIAANSEK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdJz_RyaIAANSEK.jpg",
+					"url": "https://t.co/651xLnhEvl",
+					"display_url": "pic.twitter.com/651xLnhEvl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572446925949145088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8544587,
+			"friends_count": 9,
+			"listed_count": 9318,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1589,
+		"favorite_count": 5828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Limited #BLACKPINK ‘BORN PINK’ autographed digipacks in-store at select indie stores! Click the link to find your local store\nhttps://t.co/U66bw0he6O https://t.co/651xLnhEvl"
+	},
+	{
+		"created_at": "Wed Sep 21 05:38:11 +0000 2022",
+		"id": 1572448806226243600,
+		"id_str": "1572460157539586050",
+		"full_text": "Thank you for joining today’s listening party! Remember to join the rest of this week’s ‘BORN PINK’ listening parties on @stationhead!\n\nhttps://t.co/hXkOwZNQZX\n\n#BLACKPINK #BLACKPINK_Stationhead #BORNPINK #BORNPINKListeningParty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "BLACKPINK_Stationhead",
+					"indices": [
+						172,
+						194
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "BORNPINKListeningParty",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STATIONHEAD",
+					"name": "STATIONHEAD",
+					"id": 3623255597,
+					"id_str": "3623255597",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hXkOwZNQZX",
+					"expanded_url": "https://BLACKPINK.lnk.to/Stationhead",
+					"display_url": "BLACKPINK.lnk.to/Stationhead",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8544587,
+			"friends_count": 9,
+			"listed_count": 9318,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 973,
+		"favorite_count": 4149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for joining today’s listening party! Remember to join the rest of this week’s ‘BORN PINK’ listening parties on @stationhead!\n\nhttps://t.co/hXkOwZNQZX\n\n#BLACKPINK #BLACKPINK_Stationhead #BORNPINK #BORNPINKListeningParty"
+	},
+	{
 		"created_at": "Wed Sep 21 04:01:21 +0000 2022",
 		"id": 1572430325938278400,
 		"id_str": "1572435789082169347",
