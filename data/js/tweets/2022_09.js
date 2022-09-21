@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 06:40:19 +0000 2022",
+		"id": 1572473197907259400,
+		"id_str": "1572475796408913920",
+		"full_text": "유연언니💗제 오브젝트 보고 있죠?😚\n\nYooYeon unnie💗You’re looking at my Objekt right?😚\n\nユヨンオンニ💗私のオブジェクト見てますよね？😚\n\n#tripleS #트리플에스 #トリプルS https://t.co/6CMkV0vW9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572465796521271300,
+					"id_str": "1572465796521271296",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKFT4caIAAnv9R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKFT4caIAAnv9R.jpg",
+					"url": "https://t.co/6CMkV0vW9Z",
+					"display_url": "pic.twitter.com/6CMkV0vW9Z",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1572473197907259392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572465796521271300,
+					"id_str": "1572465796521271296",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKFT4caIAAnv9R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKFT4caIAAnv9R.jpg",
+					"url": "https://t.co/6CMkV0vW9Z",
+					"display_url": "pic.twitter.com/6CMkV0vW9Z",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1572473197907259392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14210,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "유연언니💗제 오브젝트 보고 있죠?😚\n\nYooYeon unnie💗You’re looking at my Objekt right?😚\n\nユヨンオンニ💗私のオブジェクト見てますよね？😚\n\n#tripleS #트리플에스 #トリプルS https://t.co/6CMkV0vW9Z"
+	},
+	{
 		"created_at": "Wed Sep 21 05:40:32 +0000 2022",
 		"id": 1572460254016966700,
 		"id_str": "1572460750098288646",
