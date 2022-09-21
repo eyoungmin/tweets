@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 14:38:16 +0000 2022",
+		"id": 1572589069603082200,
+		"id_str": "1572596077081292801",
+		"full_text": "Here’s a special message from BLACKPINK✨ Make a visit to your local store and buy the ‘BORN PINK’ @Target exclusive box sets now!\n\n▶️https://t.co/GtMxbZqpOp https://t.co/VmTQXg4gPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Target",
+					"name": "Target",
+					"id": 89084561,
+					"id_str": "89084561",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GtMxbZqpOp",
+					"expanded_url": "https://www.target.com/store-locator/find-stores",
+					"display_url": "target.com/store-locator/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572588740857696300,
+					"id_str": "1572588740857696256",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1572588740857696256/img/rwBZBhWbP8x2fYG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1572588740857696256/img/rwBZBhWbP8x2fYG7.jpg",
+					"url": "https://t.co/VmTQXg4gPf",
+					"display_url": "pic.twitter.com/VmTQXg4gPf",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572589069603082245/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572588740857696300,
+					"id_str": "1572588740857696256",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1572588740857696256/img/rwBZBhWbP8x2fYG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1572588740857696256/img/rwBZBhWbP8x2fYG7.jpg",
+					"url": "https://t.co/VmTQXg4gPf",
+					"display_url": "pic.twitter.com/VmTQXg4gPf",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572589069603082245/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 53953,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572588740857696256/vid/320x400/ZzX3Pa73RE5vFjJa.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572588740857696256/vid/720x900/uvjPf4sxe4nAAzyI.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1572588740857696256/pl/QpK0HuWrswr2M8eZ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572588740857696256/vid/480x600/PMALJyd0PjFvju6n.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7532705,
+			"friends_count": 0,
+			"listed_count": 7770,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7327,
+		"favorite_count": 24382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a special message from BLACKPINK✨ Make a visit to your local store and buy the ‘BORN PINK’ @Target exclusive box sets now!\n\n▶️https://t.co/GtMxbZqpOp https://t.co/VmTQXg4gPf"
+	},
+	{
 		"created_at": "Wed Sep 21 12:40:33 +0000 2022",
 		"id": 1572556683129524200,
 		"id_str": "1572566453160935427",
