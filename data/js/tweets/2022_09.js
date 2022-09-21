@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 16:40:17 +0000 2022",
+		"id": 1572617033883197400,
+		"id_str": "1572626781684875268",
+		"full_text": "We're so excited to announce a handful of super intimate UK shows to celebrate the release of our new album 22 Make! 💕 \n\nWhat songs do you want to hear live? ✨\n\nTo get access to these shows order 22 Make from 11am tomorrow: https://t.co/5u1Cg1gmIp\n\nCan't wait to see you there! https://t.co/PPq7ZPRMov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5u1Cg1gmIp",
+					"expanded_url": "http://ohwonder.lnk.to/RecordStoreShows",
+					"display_url": "ohwonder.lnk.to/RecordStoreSho…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572615151207030800,
+					"id_str": "1572615151207030786",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdMNJeAXoAItnOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdMNJeAXoAItnOw.jpg",
+					"url": "https://t.co/PPq7ZPRMov",
+					"display_url": "pic.twitter.com/PPq7ZPRMov",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1572617033883197441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572615151207030800,
+					"id_str": "1572615151207030786",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdMNJeAXoAItnOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdMNJeAXoAItnOw.jpg",
+					"url": "https://t.co/PPq7ZPRMov",
+					"display_url": "pic.twitter.com/PPq7ZPRMov",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1572617033883197441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165618,
+			"friends_count": 202,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501967196595048451/sXXwT4h1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1652968649",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're so excited to announce a handful of super intimate UK shows to celebrate the release of our new album 22 Make! 💕 \n\nWhat songs do you want to hear live? ✨\n\nTo get access to these shows order 22 Make from 11am tomorrow: https://t.co/5u1Cg1gmIp\n\nCan't wait to see you there! https://t.co/PPq7ZPRMov"
+	},
+	{
 		"created_at": "Wed Sep 21 15:40:10 +0000 2022",
 		"id": 1572605856117817300,
 		"id_str": "1572611653149298695",
