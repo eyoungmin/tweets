@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 08:40:24 +0000 2022",
+		"id": 1572503398095749000,
+		"id_str": "1572506014770921473",
+		"full_text": "[2022 ADOR Global Audition]\nAnyone born between 2003~2011\nAll genders and nationalities are welcome\n\n🗓Due 2022.10.19 12PM(KST)\n📍Apply on https://t.co/qyWEGUD7AH\n\n2003~2011출생\n성별, 국적 제한 없음\n\n🗓2022년10월19일 12PM(KST) 까지\n📍공식 홈페이지 https://t.co/qyWEGUD7AH에서 지원 https://t.co/HpAWnSkY22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyWEGUD7AH",
+					"expanded_url": "http://ador.world",
+					"display_url": "ador.world",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/qyWEGUD7AH",
+					"expanded_url": "http://ador.world",
+					"display_url": "ador.world",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572497086981247000,
+					"id_str": "1572497086981246976",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1572497086981246976/img/mxcwcjI8B4PxfNDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1572497086981246976/img/mxcwcjI8B4PxfNDu.jpg",
+					"url": "https://t.co/HpAWnSkY22",
+					"display_url": "pic.twitter.com/HpAWnSkY22",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572503398095749120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572497086981247000,
+					"id_str": "1572497086981246976",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1572497086981246976/img/mxcwcjI8B4PxfNDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1572497086981246976/img/mxcwcjI8B4PxfNDu.jpg",
+					"url": "https://t.co/HpAWnSkY22",
+					"display_url": "pic.twitter.com/HpAWnSkY22",
+					"expanded_url": "https://twitter.com/alldoorsoneroom/status/1572503398095749120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1572497086981246976/pl/LE4xpK3Yhfs7DeXU.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572497086981246976/vid/480x270/-cyVbamrosbOoNOH.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572497086981246976/vid/1280x720/6B8pMthUwluEPyK6.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1572497086981246976/vid/640x360/e7FIknJkbeCf7_vn.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373509657868660700,
+			"id_str": "1373509657868660740",
+			"name": "ADOR",
+			"screen_name": "alldoorsoneroom",
+			"location": "",
+			"description": "All Doors One Room\nAttention! NewJeans👖\nhttps://t.co/UyuE2A6KSA",
+			"url": "https://t.co/Y17aJsmF2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y17aJsmF2p",
+							"expanded_url": "http://ador.world",
+							"display_url": "ador.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UyuE2A6KSA",
+							"expanded_url": "https://youtu.be/js1CtxSY38I",
+							"display_url": "youtu.be/js1CtxSY38I",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92724,
+			"friends_count": 4,
+			"listed_count": 463,
+			"created_at": "Sun Mar 21 05:40:10 +0000 2021",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564073067080712192/6XWxQ3Na_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373509657868660740/1661739064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2022 ADOR Global Audition]\nAnyone born between 2003~2011\nAll genders and nationalities are welcome\n\n🗓Due 2022.10.19 12PM(KST)\n📍Apply on https://t.co/qyWEGUD7AH\n\n2003~2011출생\n성별, 국적 제한 없음\n\n🗓2022년10월19일 12PM(KST) 까지\n📍공식 홈페이지 https://t.co/qyWEGUD7AH에서 지원 https://t.co/HpAWnSkY22"
+	},
+	{
 		"created_at": "Wed Sep 21 07:40:10 +0000 2022",
 		"id": 1572480753723736000,
 		"id_str": "1572490857638658050",
