@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 10:40:18 +0000 2022",
+		"id": 1572405070389715000,
+		"id_str": "1572536187805487104",
+		"full_text": "caught in a rush &amp; calling it love // \nhear @OhWonderMusic perform a mix of their old &amp; new tracks at #karposlive\n\nsept 27 at the filinvest tent alabang\nHURRY—use code: 22wonder to get 22% OFF on tickets at https://t.co/UZk8NjAkn3 ⚡️ https://t.co/hH6IG6Dh5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "karposlive",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UZk8NjAkn3",
+					"expanded_url": "http://tickelo.com",
+					"display_url": "tickelo.com",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572405016752951300,
+					"id_str": "1572405016752951298",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572405016752951298/pu/img/4TiyPc_kxZVn0mc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572405016752951298/pu/img/4TiyPc_kxZVn0mc2.jpg",
+					"url": "https://t.co/hH6IG6Dh5Q",
+					"display_url": "pic.twitter.com/hH6IG6Dh5Q",
+					"expanded_url": "https://twitter.com/KarposLive/status/1572405070389714945/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572405016752951300,
+					"id_str": "1572405016752951298",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572405016752951298/pu/img/4TiyPc_kxZVn0mc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572405016752951298/pu/img/4TiyPc_kxZVn0mc2.jpg",
+					"url": "https://t.co/hH6IG6Dh5Q",
+					"display_url": "pic.twitter.com/hH6IG6Dh5Q",
+					"expanded_url": "https://twitter.com/KarposLive/status/1572405070389714945/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 23056,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572405016752951298/pu/pl/9xYdiZsPCyc9jMQZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572405016752951298/pu/vid/320x400/1TxuYksOLTMWC-sx.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572405016752951298/pu/vid/480x600/0Bws2E4mBt-w2EM4.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572405016752951298/pu/vid/720x900/MP5AHUB48x7LkdGP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997313385329913900,
+			"id_str": "997313385329913856",
+			"name": "Karpos Live",
+			"screen_name": "KarposLive",
+			"location": "",
+			"description": "MUSIC + YOU. A concert series by @karposmm",
+			"url": "https://t.co/7xyNRd580z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7xyNRd580z",
+							"expanded_url": "http://karposlive.com",
+							"display_url": "karposlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3010,
+			"friends_count": 37,
+			"listed_count": 7,
+			"created_at": "Fri May 18 03:10:15 +0000 2018",
+			"favourites_count": 1192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544861492289290240/E-RL-3Eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544861492289290240/E-RL-3Eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997313385329913856/1659601347",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "caught in a rush &amp; calling it love // \nhear @OhWonderMusic perform a mix of their old &amp; new tracks at #karposlive\n\nsept 27 at the filinvest tent alabang\nHURRY—use code: 22wonder to get 22% OFF on tickets at https://t.co/UZk8NjAkn3 ⚡️ https://t.co/hH6IG6Dh5Q"
+	},
+	{
 		"created_at": "Wed Sep 21 09:40:34 +0000 2022",
 		"id": 1572511089710989300,
 		"id_str": "1572521156368044033",
