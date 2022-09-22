@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 12:40:19 +0000 2022",
+		"id": 1572821907011174400,
+		"id_str": "1572928781668732928",
+		"full_text": "🎸파티룸 기타리스트 특집🎸\n\n#자우림 #카디 #더픽스 #바이너리넘버 \n기타리스트가 한자리에?!🫢\n\n파티룸을 이끌 기타리스트 4인을 소개합니다✨\n\n자우림의 #이선규\n카디의 #황린\n더픽스의 #정나영\n바이너리넘버의 #강민 https://t.co/XpAQFpjlCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "카디",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "더픽스",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "바이너리넘버",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "황린",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "정나영",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "강민",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572821899234934800,
+					"id_str": "1572821899234934786",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPJLybagAIcq_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPJLybagAIcq_1.jpg",
+					"url": "https://t.co/XpAQFpjlCZ",
+					"display_url": "pic.twitter.com/XpAQFpjlCZ",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1572821907011174400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572821899234934800,
+					"id_str": "1572821899234934786",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPJLybagAIcq_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPJLybagAIcq_1.jpg",
+					"url": "https://t.co/XpAQFpjlCZ",
+					"display_url": "pic.twitter.com/XpAQFpjlCZ",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1572821907011174400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126699468,
+			"id_str": "126699468",
+			"name": "이선규",
+			"screen_name": "2sunkyu",
+			"location": "",
+			"description": "Rock'n'Roll Warrior",
+			"url": "https://t.co/IF62RzeIlP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IF62RzeIlP",
+							"expanded_url": "https://www.youtube.com/c/rockandrollwarrior",
+							"display_url": "youtube.com/c/rockandrollw…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3662,
+			"friends_count": 110,
+			"listed_count": 70,
+			"created_at": "Fri Mar 26 18:20:30 +0000 2010",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126699468/1657371506",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎸파티룸 기타리스트 특집🎸\n\n#자우림 #카디 #더픽스 #바이너리넘버 \n기타리스트가 한자리에?!🫢\n\n파티룸을 이끌 기타리스트 4인을 소개합니다✨\n\n자우림의 #이선규\n카디의 #황린\n더픽스의 #정나영\n바이너리넘버의 #강민 https://t.co/XpAQFpjlCZ"
+	},
+	{
+		"created_at": "Thu Sep 22 12:40:13 +0000 2022",
+		"id": 1572918679708532700,
+		"id_str": "1572928755173040129",
+		"full_text": "tripleS 트리플에스 : Grand Gravity 01 Result\n\nAcid Angel from Asia : Kim NaKyoung\n\n+(KR)ystal Eyes : Yoon SeoYeon\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/3gln0rBz4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						133,
+						151
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572915496512815000,
+					"id_str": "1572915496512815105",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQeT3dagAEeLTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQeT3dagAEeLTC.jpg",
+					"url": "https://t.co/3gln0rBz4H",
+					"display_url": "pic.twitter.com/3gln0rBz4H",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1572918679708532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572915496512815000,
+					"id_str": "1572915496512815105",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQeT3dagAEeLTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQeT3dagAEeLTC.jpg",
+					"url": "https://t.co/3gln0rBz4H",
+					"display_url": "pic.twitter.com/3gln0rBz4H",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1572918679708532736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14268,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS 트리플에스 : Grand Gravity 01 Result\n\nAcid Angel from Asia : Kim NaKyoung\n\n+(KR)ystal Eyes : Yoon SeoYeon\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/3gln0rBz4H"
+	},
+	{
 		"created_at": "Thu Sep 22 11:40:12 +0000 2022",
 		"id": 1570628325294641200,
 		"id_str": "1572913652306706435",
