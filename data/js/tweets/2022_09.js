@@ -1,6 +1,969 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 11:40:12 +0000 2022",
+		"id": 1570628325294641200,
+		"id_str": "1572913652306706435",
+		"full_text": "The ladies of @BLACKPINK prove they've been extraordinary since birth with their new album, 'BORN PINK.' 💓 \n\nHear it now: https://t.co/DvT1wjoYcV https://t.co/746XaEtQMt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DvT1wjoYcV",
+					"expanded_url": "https://pandora.app.link/W4xu6ygomtb",
+					"display_url": "pandora.app.link/W4xu6ygomtb",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570628311864299500,
+					"id_str": "1570628311864299527",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcv-IMrX0AcL-JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcv-IMrX0AcL-JG.jpg",
+					"url": "https://t.co/746XaEtQMt",
+					"display_url": "pic.twitter.com/746XaEtQMt",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1570628325294641153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570628311864299500,
+					"id_str": "1570628311864299527",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcv-IMrX0AcL-JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcv-IMrX0AcL-JG.jpg",
+					"url": "https://t.co/746XaEtQMt",
+					"display_url": "pic.twitter.com/746XaEtQMt",
+					"expanded_url": "https://twitter.com/pandoramusic/status/1570628325294641153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5796972,
+			"id_str": "5796972",
+			"name": "Pandora",
+			"screen_name": "pandoramusic",
+			"location": "",
+			"description": "Find the music you love, and let the music you love find you. 🎶 #PandoraMusic #PandoraPodcasts #PandoraLIVE Tech questions: @pandorasupport",
+			"url": "https://t.co/V5rENwQ7LD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V5rENwQ7LD",
+							"expanded_url": "http://www.pandora.com/",
+							"display_url": "pandora.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567389,
+			"friends_count": 121088,
+			"listed_count": 5888,
+			"created_at": "Sat May 05 23:31:49 +0000 2007",
+			"favourites_count": 8204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 180936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11132A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544682309353447424/mhDVklwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544682309353447424/mhDVklwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5796972/1657115937",
+			"profile_link_color": "00A0EE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "04102D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2941,
+		"favorite_count": 10690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ladies of @BLACKPINK prove they've been extraordinary since birth with their new album, 'BORN PINK.' 💓 \n\nHear it now: https://t.co/DvT1wjoYcV https://t.co/746XaEtQMt"
+	},
+	{
+		"created_at": "Thu Sep 22 11:40:10 +0000 2022",
+		"id": 1572898902042636300,
+		"id_str": "1572913642999541761",
+		"full_text": "Thank you @pandora #NewMusicNow #PandoraMusic https://t.co/DcbsHXD7i1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewMusicNow",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"text": "PandoraMusic",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pandora",
+					"name": "Pandora",
+					"id": 3175,
+					"id_str": "3175",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572898874905473000,
+					"id_str": "1572898874905473026",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPMXJaMAISQWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPMXJaMAISQWe.jpg",
+					"url": "https://t.co/DcbsHXD7i1",
+					"display_url": "pic.twitter.com/DcbsHXD7i1",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572898902042636288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572898874905473000,
+					"id_str": "1572898874905473026",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPMXJaMAISQWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPMXJaMAISQWe.jpg",
+					"url": "https://t.co/DcbsHXD7i1",
+					"display_url": "pic.twitter.com/DcbsHXD7i1",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572898902042636288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7540727,
+			"friends_count": 0,
+			"listed_count": 7762,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2736,
+		"favorite_count": 11872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @pandora #NewMusicNow #PandoraMusic https://t.co/DcbsHXD7i1"
+	},
+	{
+		"created_at": "Thu Sep 22 11:38:28 +0000 2022",
+		"id": 1572899084733915100,
+		"id_str": "1572913216992452609",
+		"full_text": "Thank you @pandora #NewKpopNow #PandoraMusic https://t.co/92xV5sDeDC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewKpopNow",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"text": "PandoraMusic",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pandora",
+					"name": "Pandora",
+					"id": 3175,
+					"id_str": "3175",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572899030983921700,
+					"id_str": "1572899030983921664",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPVclaUAA-Tc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPVclaUAA-Tc1.jpg",
+					"url": "https://t.co/92xV5sDeDC",
+					"display_url": "pic.twitter.com/92xV5sDeDC",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572899084733915136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572899030983921700,
+					"id_str": "1572899030983921664",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPVclaUAA-Tc1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPVclaUAA-Tc1.jpg",
+					"url": "https://t.co/92xV5sDeDC",
+					"display_url": "pic.twitter.com/92xV5sDeDC",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1572899084733915136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7540727,
+			"friends_count": 0,
+			"listed_count": 7762,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3059,
+		"favorite_count": 13796,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @pandora #NewKpopNow #PandoraMusic https://t.co/92xV5sDeDC"
+	},
+	{
+		"created_at": "Thu Sep 22 11:38:28 +0000 2022",
+		"id": 1572899519343210500,
+		"id_str": "1572913215293771777",
+		"full_text": "Thank you @pandoramusic #NewMusicNow #PandoraMusic https://t.co/tjVyG6s6NJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewMusicNow",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"text": "PandoraMusic",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pandoramusic",
+					"name": "Pandora",
+					"id": 5796972,
+					"id_str": "5796972",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572899417224409000,
+					"id_str": "1572899417224409088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPr7cUcAAJsK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPr7cUcAAJsK-.jpg",
+					"url": "https://t.co/tjVyG6s6NJ",
+					"display_url": "pic.twitter.com/tjVyG6s6NJ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572899519343210496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572899417224409000,
+					"id_str": "1572899417224409088",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FdQPr7cUcAAJsK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdQPr7cUcAAJsK-.jpg",
+					"url": "https://t.co/tjVyG6s6NJ",
+					"display_url": "pic.twitter.com/tjVyG6s6NJ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1572899519343210496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8547421,
+			"friends_count": 9,
+			"listed_count": 9308,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 5047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @pandoramusic #NewMusicNow #PandoraMusic https://t.co/tjVyG6s6NJ"
+	},
+	{
+		"created_at": "Thu Sep 22 11:38:28 +0000 2022",
+		"id": 1572905606654337000,
+		"id_str": "1572913213876084737",
+		"full_text": "#OFFICIALBLINK\n\n핸드폰 Shut Down 하지 못하고\n하루종일 보고 있게 만들\n[BORN PINK] 배경화면📱\n\nBLINK MEMBERSHIP에 도착했습니다🖤💖\n지금 바로 확인해 보세요🥰\n\n▶️ https://t.co/mfzZb4Le5M\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #ShutDown\n#BLINK #블링크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						195,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mfzZb4Le5M",
+					"expanded_url": "https://weverse.io/blackpink/media/4-104836814",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8547421,
+			"friends_count": 9,
+			"listed_count": 9308,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1014,
+		"favorite_count": 4231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n핸드폰 Shut Down 하지 못하고\n하루종일 보고 있게 만들\n[BORN PINK] 배경화면📱\n\nBLINK MEMBERSHIP에 도착했습니다🖤💖\n지금 바로 확인해 보세요🥰\n\n▶️ https://t.co/mfzZb4Le5M\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #ShutDown\n#BLINK #블링크"
+	},
+	{
 		"created_at": "Thu Sep 22 10:40:37 +0000 2022",
 		"id": 1572898486462214100,
 		"id_str": "1572898657866813446",
@@ -435,7 +1398,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -619,7 +1582,7 @@ Grailbird.data.tweets_2022_09 =
 				"name": "Oh Wonder",
 				"screen_name": "OhWonderMusic",
 				"location": "London",
-				"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+				"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 				"url": "https://t.co/aWDekOEjgr",
 				"entities": {
 					"url": {
