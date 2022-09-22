@@ -1,6 +1,1006 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 05:40:47 +0000 2022",
+		"id": 1572817571648532500,
+		"id_str": "1572823199427235840",
+		"full_text": "‘Solo Debut’ Red Velvet SEULGI’s pictorial with Vogue Korea is out! She shows off her  unrivaled chic atmosphere with stylish visuals +  styling. \n“My first solo album is a new beginning and my own concept”\n\nhttps://t.co/5uGUsPYux2\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/3n1HQ7oAFf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						233,
+						236
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						237,
+						244
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uGUsPYux2",
+					"expanded_url": "https://bit.ly/3BHj6mC",
+					"display_url": "bit.ly/3BHj6mC",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572817554628018200,
+					"id_str": "1572817554628018177",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFO5gaAAEPTMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFO5gaAAEPTMq.jpg",
+					"url": "https://t.co/3n1HQ7oAFf",
+					"display_url": "pic.twitter.com/3n1HQ7oAFf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817571648532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1665,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572817554628018200,
+					"id_str": "1572817554628018177",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFO5gaAAEPTMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFO5gaAAEPTMq.jpg",
+					"url": "https://t.co/3n1HQ7oAFf",
+					"display_url": "pic.twitter.com/3n1HQ7oAFf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817571648532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1665,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572817562341351400,
+					"id_str": "1572817562341351424",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFPWPaIAAcv7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFPWPaIAAcv7I.jpg",
+					"url": "https://t.co/3n1HQ7oAFf",
+					"display_url": "pic.twitter.com/3n1HQ7oAFf",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817571648532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 912,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1694,
+							"h": 1288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1572817551725572000,
+		"in_reply_to_status_id_str": "1572817551725572097",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/0hh6Lb9UOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9UOp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5631556,
+			"friends_count": 2,
+			"listed_count": 11323,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1948,
+		"favorite_count": 4847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Solo Debut’ Red Velvet SEULGI’s pictorial with Vogue Korea is out! She shows off her  unrivaled chic atmosphere with stylish visuals +  styling. \n“My first solo album is a new beginning and my own concept”\n\nhttps://t.co/5uGUsPYux2\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/3n1HQ7oAFf"
+	},
+	{
+		"created_at": "Thu Sep 22 05:40:38 +0000 2022",
+		"id": 1572817551725572000,
+		"id_str": "1572823165038112768",
+		"full_text": "‘솔로 데뷔’ 레드벨벳 슬기, 독보적 시크 분위기 화보 공개!\n세련된 비주얼+감각적 스타일링 시선 집중!\n“첫 솔로 앨범, 새로운 시작이자 나만의 콘셉트”\n\nhttps://t.co/5uGUsPYux2\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/JIKbh6PZsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						144,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uGUsPYux2",
+					"expanded_url": "https://bit.ly/3BHj6mC",
+					"display_url": "bit.ly/3BHj6mC",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572817532838613000,
+					"id_str": "1572817532838612993",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFNoVaEAEWoLN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFNoVaEAEWoLN.jpg",
+					"url": "https://t.co/JIKbh6PZsB",
+					"display_url": "pic.twitter.com/JIKbh6PZsB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817551725572097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1485,
+							"h": 1860,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572817532838613000,
+					"id_str": "1572817532838612993",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFNoVaEAEWoLN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFNoVaEAEWoLN.jpg",
+					"url": "https://t.co/JIKbh6PZsB",
+					"display_url": "pic.twitter.com/JIKbh6PZsB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817551725572097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1485,
+							"h": 1860,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572817543173406700,
+					"id_str": "1572817543173406721",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPFOO1agAEV6QU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPFOO1agAEV6QU.jpg",
+					"url": "https://t.co/JIKbh6PZsB",
+					"display_url": "pic.twitter.com/JIKbh6PZsB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1572817551725572097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1485,
+							"h": 1860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/0hh6Lb9UOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9UOp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5631556,
+			"friends_count": 2,
+			"listed_count": 11323,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4134,
+		"favorite_count": 10100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘솔로 데뷔’ 레드벨벳 슬기, 독보적 시크 분위기 화보 공개!\n세련된 비주얼+감각적 스타일링 시선 집중!\n“첫 솔로 앨범, 새로운 시작이자 나만의 콘셉트”\n\nhttps://t.co/5uGUsPYux2\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/JIKbh6PZsB"
+	},
+	{
+		"created_at": "Thu Sep 22 05:40:17 +0000 2022",
+		"id": 1572812982434017300,
+		"id_str": "1572823075158200321",
+		"full_text": "#BLACKPINK [BORN PINK] Official Merch\n\nCOMING SOON\n\n#블랙핑크 #BORNPINK #YG https://t.co/JDGDs0r6HY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572810999245471700,
+					"id_str": "1572810999245471745",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO_RUzagAElfiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO_RUzagAElfiz.jpg",
+					"url": "https://t.co/JDGDs0r6HY",
+					"display_url": "pic.twitter.com/JDGDs0r6HY",
+					"expanded_url": "https://twitter.com/ygent_official/status/1572812982434017280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572810999245471700,
+					"id_str": "1572810999245471745",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO_RUzagAElfiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO_RUzagAElfiz.jpg",
+					"url": "https://t.co/JDGDs0r6HY",
+					"display_url": "pic.twitter.com/JDGDs0r6HY",
+					"expanded_url": "https://twitter.com/ygent_official/status/1572812982434017280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8939756,
+			"friends_count": 36,
+			"listed_count": 9860,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4013,
+		"favorite_count": 16791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK [BORN PINK] Official Merch\n\nCOMING SOON\n\n#블랙핑크 #BORNPINK #YG https://t.co/JDGDs0r6HY"
+	},
+	{
+		"created_at": "Thu Sep 22 05:40:10 +0000 2022",
+		"id": 1572812965640011800,
+		"id_str": "1572823045034872832",
+		"full_text": "2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 온라인 예약 판매 안내\n\n콘서트에서 보았던 공식 MD를\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요⌛\n\n📍 오픈 일정 : 2022.09.26 (월) 2PM(KST)\n📍 배송 일정 : 2022.11 초 예정\n📍 https://t.co/IkpExhHPAX \n\n#아이유 #IU https://t.co/IE4mEy8rnF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						207,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkpExhHPAX",
+					"expanded_url": "http://www.madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572809957820731400,
+					"id_str": "1572809957820731392",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO-UtMaEAAVSqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO-UtMaEAAVSqp.jpg",
+					"url": "https://t.co/IE4mEy8rnF",
+					"display_url": "pic.twitter.com/IE4mEy8rnF",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1572812965640011776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572809957820731400,
+					"id_str": "1572809957820731392",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO-UtMaEAAVSqp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO-UtMaEAAVSqp.jpg",
+					"url": "https://t.co/IE4mEy8rnF",
+					"display_url": "pic.twitter.com/IE4mEy8rnF",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1572812965640011776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572809984194515000,
+					"id_str": "1572809984194514945",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO-WPcaEAEJXFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO-WPcaEAEJXFa.jpg",
+					"url": "https://t.co/IE4mEy8rnF",
+					"display_url": "pic.twitter.com/IE4mEy8rnF",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1572812965640011776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572810006885716000,
+					"id_str": "1572810006885715969",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO-Xj-aUAETZHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO-Xj-aUAETZHh.jpg",
+					"url": "https://t.co/IE4mEy8rnF",
+					"display_url": "pic.twitter.com/IE4mEy8rnF",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1572812965640011776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487946,
+			"friends_count": 0,
+			"listed_count": 2371,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1880,
+		"favorite_count": 5591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 IU CONCERT \n&lt;The Golden Hour : 오렌지 태양 아래&gt; \n공식 MD 온라인 예약 판매 안내\n\n콘서트에서 보았던 공식 MD를\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요⌛\n\n📍 오픈 일정 : 2022.09.26 (월) 2PM(KST)\n📍 배송 일정 : 2022.11 초 예정\n📍 https://t.co/IkpExhHPAX \n\n#아이유 #IU https://t.co/IE4mEy8rnF"
+	},
+	{
 		"created_at": "Thu Sep 22 04:29:39 +0000 2022",
 		"id": 1572804481523208200,
 		"id_str": "1572805298125144064",
