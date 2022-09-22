@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 09:40:20 +0000 2022",
+		"id": 1572873730275283000,
+		"id_str": "1572883487278759936",
+		"full_text": "🌕https://t.co/ryVEI4ur0k\n\n슈퍼스타 궤도 속에 비로소 달이 떠오르자\n우리는 서로 이끌려 만나게 되었다더라\n여러분의 손 안에 떠오를 SuperStar LOONA를 기다려주세요! https://t.co/S7LVYIU6pz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ryVEI4ur0k",
+					"expanded_url": "http://youtu.be/gc6HpppgtG4",
+					"display_url": "youtu.be/gc6HpppgtG4",
+					"indices": [
+						1,
+						24
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572871267354804200,
+					"id_str": "1572871267354804226",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdP2FZAaAAI-qE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdP2FZAaAAI-qE0.jpg",
+					"url": "https://t.co/S7LVYIU6pz",
+					"display_url": "pic.twitter.com/S7LVYIU6pz",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1572873730275282945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572871267354804200,
+					"id_str": "1572871267354804226",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdP2FZAaAAI-qE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdP2FZAaAAI-qE0.jpg",
+					"url": "https://t.co/S7LVYIU6pz",
+					"display_url": "pic.twitter.com/S7LVYIU6pz",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1572873730275282945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18600,
+			"friends_count": 27,
+			"listed_count": 67,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1572,
+		"favorite_count": 3193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌕https://t.co/ryVEI4ur0k\n\n슈퍼스타 궤도 속에 비로소 달이 떠오르자\n우리는 서로 이끌려 만나게 되었다더라\n여러분의 손 안에 떠오를 SuperStar LOONA를 기다려주세요! https://t.co/S7LVYIU6pz"
+	},
+	{
+		"created_at": "Thu Sep 22 09:40:14 +0000 2022",
+		"id": 1572873352867451000,
+		"id_str": "1572883461144465409",
+		"full_text": "iScreaM Vol.17 : DEEP Remixes Teaser\n\n➫ 2022.09.23 6PM KST \n\n#HYO #DEEP \n#4B\n#h4rdy \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/hrIxqIApaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "4B",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "h4rdy",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572826301299564500,
+					"id_str": "1572826301299564544",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572826301299564544/pu/img/zm8A8iMjqo9J9Li-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572826301299564544/pu/img/zm8A8iMjqo9J9Li-.jpg",
+					"url": "https://t.co/hrIxqIApaZ",
+					"display_url": "pic.twitter.com/hrIxqIApaZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572873352867450880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572826301299564500,
+					"id_str": "1572826301299564544",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572826301299564544/pu/img/zm8A8iMjqo9J9Li-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572826301299564544/pu/img/zm8A8iMjqo9J9Li-.jpg",
+					"url": "https://t.co/hrIxqIApaZ",
+					"display_url": "pic.twitter.com/hrIxqIApaZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572873352867450880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27610,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572826301299564544/pu/vid/1280x720/E3USxM4poIqwTtSc.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572826301299564544/pu/pl/E3tPjKN_do4u7WFc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572826301299564544/pu/vid/480x270/ICSdgw5dKhU-Qf5O.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572826301299564544/pu/vid/640x360/9CgPOJxeM32d5FOB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11187366,
+			"friends_count": 55,
+			"listed_count": 12610,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 2646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.17 : DEEP Remixes Teaser\n\n➫ 2022.09.23 6PM KST \n\n#HYO #DEEP \n#4B\n#h4rdy \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/hrIxqIApaZ"
+	},
+	{
+		"created_at": "Thu Sep 22 09:40:10 +0000 2022",
+		"id": 1572873339361583000,
+		"id_str": "1572883443247370240",
+		"full_text": "[📢]\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』コンビニプリントブロマイド📸\n\nラインナップをご紹介💫\nファミリーマート・ローソン店内のマルチコピー機内『らいぶろ』にて9/30(金)まで販売中💜\nぜひチェックしてみてください👀✨\n\n▼詳細はこちら\nhttps://t.co/oLcziSQxjG…\n#SYNK_aespa https://t.co/WMqnMAh0nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SYNK_aespa",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oLcziSQxjG",
+					"expanded_url": "http://aespa-official.jp/news/synk-brom",
+					"display_url": "aespa-official.jp/news/synk-brom",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572659832993484800,
+					"id_str": "1572659832993484803",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FdM1ySoaEAMJnin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdM1ySoaEAMJnin.jpg",
+					"url": "https://t.co/WMqnMAh0nB",
+					"display_url": "pic.twitter.com/WMqnMAh0nB",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1572873339361583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572659832993484800,
+					"id_str": "1572659832993484803",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FdM1ySoaEAMJnin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdM1ySoaEAMJnin.jpg",
+					"url": "https://t.co/WMqnMAh0nB",
+					"display_url": "pic.twitter.com/WMqnMAh0nB",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1572873339361583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214696,
+			"friends_count": 1,
+			"listed_count": 618,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 2590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📢]\n『aespa JAPAN PREMIUM SHOWCASE 2022 ～SYNK～』コンビニプリントブロマイド📸\n\nラインナップをご紹介💫\nファミリーマート・ローソン店内のマルチコピー機内『らいぶろ』にて9/30(金)まで販売中💜\nぜひチェックしてみてください👀✨\n\n▼詳細はこちら\nhttps://t.co/oLcziSQxjG…\n#SYNK_aespa https://t.co/WMqnMAh0nB"
+	},
+	{
+		"created_at": "Thu Sep 22 09:38:26 +0000 2022",
+		"id": 1572879169565782000,
+		"id_str": "1572883009791209473",
+		"full_text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6aJLMz) &gt; 실시간 투표 &gt; 블랙핑크 'Shut Down' 투표\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ncE6aJLMz",
+					"expanded_url": "https://bit.ly/3uorunR",
+					"display_url": "bit.ly/3uorunR",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8547352,
+			"friends_count": 9,
+			"listed_count": 9309,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1908,
+		"favorite_count": 4421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6aJLMz) &gt; 실시간 투표 &gt; 블랙핑크 'Shut Down' 투표\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
 		"created_at": "Thu Sep 22 08:29:39 +0000 2022",
 		"id": 1572851954434179000,
 		"id_str": "1572865696916439046",
