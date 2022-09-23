@@ -1,10 +1,208 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 12:40:10 +0000 2022",
+		"id": 1573281020966994000,
+		"id_str": "1573291132041191425",
+		"full_text": "tripleS 트리플에스 : Grand Gravity 02 Result\n\nAcid Angel from Asia : Jeong HyeRin\n\n+(KR)ystal Eyes : Kim SooMin\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/AIU5dCfbbn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						131,
+						149
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						150,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573281012586410000,
+					"id_str": "1573281012586409985",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVqvs8UcAEo6VE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVqvs8UcAEo6VE.jpg",
+					"url": "https://t.co/AIU5dCfbbn",
+					"display_url": "pic.twitter.com/AIU5dCfbbn",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1573281020966993920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573281012586410000,
+					"id_str": "1573281012586409985",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVqvs8UcAEo6VE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVqvs8UcAEo6VE.jpg",
+					"url": "https://t.co/AIU5dCfbbn",
+					"display_url": "pic.twitter.com/AIU5dCfbbn",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1573281020966993920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14312,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS 트리플에스 : Grand Gravity 02 Result\n\nAcid Angel from Asia : Jeong HyeRin\n\n+(KR)ystal Eyes : Kim SooMin\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/AIU5dCfbbn"
+	},
+	{
 		"created_at": "Fri Sep 23 11:40:26 +0000 2022",
 		"id": 1573266332619243500,
 		"id_str": "1573276096254074880",
-		"full_text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!​\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!",
+		"full_text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -113,7 +311,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!​\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!"
+		"text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!"
 	},
 	{
 		"created_at": "Fri Sep 23 11:40:20 +0000 2022",
