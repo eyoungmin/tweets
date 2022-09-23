@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 08:38:38 +0000 2022",
+		"id": 1573225117471346700,
+		"id_str": "1573230346912546816",
+		"full_text": "Thank you @applemusic\nStream #BORNPINK on Apple Music right now!\n#LA #NYC #Nashville\nhttps://t.co/g5IYb6MyjV https://t.co/v8rgsuaXVD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BORNPINK",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "LA",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "NYC",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "Nashville",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g5IYb6MyjV",
+					"expanded_url": "https://music.apple.com/us/album/1644431615?ign-itscg=30440&ign-itsct=catchall_p5",
+					"display_url": "music.apple.com/us/album/16444…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573224963330363400,
+					"id_str": "1573224963330363392",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdU3xNMVUAAByLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdU3xNMVUAAByLr.jpg",
+					"url": "https://t.co/v8rgsuaXVD",
+					"display_url": "pic.twitter.com/v8rgsuaXVD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573225117471346688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573224963330363400,
+					"id_str": "1573224963330363392",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdU3xNMVUAAByLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdU3xNMVUAAByLr.jpg",
+					"url": "https://t.co/v8rgsuaXVD",
+					"display_url": "pic.twitter.com/v8rgsuaXVD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573225117471346688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573224982838009900,
+					"id_str": "1573224982838009856",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdU3yV3UYAAXEHd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdU3yV3UYAAXEHd.jpg",
+					"url": "https://t.co/v8rgsuaXVD",
+					"display_url": "pic.twitter.com/v8rgsuaXVD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573225117471346688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573224999359373300,
+					"id_str": "1573224999359373312",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FdU3zTaUYAAagPH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdU3zTaUYAAagPH.jpg",
+					"url": "https://t.co/v8rgsuaXVD",
+					"display_url": "pic.twitter.com/v8rgsuaXVD",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573225117471346688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 999,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8549670,
+			"friends_count": 9,
+			"listed_count": 9313,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2256,
+		"favorite_count": 8776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @applemusic\nStream #BORNPINK on Apple Music right now!\n#LA #NYC #Nashville\nhttps://t.co/g5IYb6MyjV https://t.co/v8rgsuaXVD"
+	},
+	{
+		"created_at": "Fri Sep 23 08:38:38 +0000 2022",
+		"id": 1573224398122893300,
+		"id_str": "1573230346841120768",
+		"full_text": "#THANKUBLINK\n\nBLINK의 사랑과 응원 덕분에 받은\n9월 첫째 주 인기가요 HOT STAGE🏆\n\n항상 변함없는 소중한 마음\n감사하고 사랑합니다🖤💖\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #PinkVenom\n#핫스테이지 https://t.co/oCg8Hd6nb4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "핫스테이지",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573220038995316700,
+					"id_str": "1573220038995316736",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUzSknXkAAQC6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUzSknXkAAQC6y.jpg",
+					"url": "https://t.co/oCg8Hd6nb4",
+					"display_url": "pic.twitter.com/oCg8Hd6nb4",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573224398122893312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573220038995316700,
+					"id_str": "1573220038995316736",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUzSknXkAAQC6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUzSknXkAAQC6y.jpg",
+					"url": "https://t.co/oCg8Hd6nb4",
+					"display_url": "pic.twitter.com/oCg8Hd6nb4",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1573224398122893312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8549670,
+			"friends_count": 9,
+			"listed_count": 9313,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8437,
+		"favorite_count": 19115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#THANKUBLINK\n\nBLINK의 사랑과 응원 덕분에 받은\n9월 첫째 주 인기가요 HOT STAGE🏆\n\n항상 변함없는 소중한 마음\n감사하고 사랑합니다🖤💖\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #PinkVenom\n#핫스테이지 https://t.co/oCg8Hd6nb4"
+	},
+	{
 		"created_at": "Fri Sep 23 07:40:10 +0000 2022",
 		"id": 1573205509959979000,
 		"id_str": "1573215632463724546",
