@@ -1,6 +1,1934 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 09:40:37 +0000 2022",
+		"id": 1573241216808153000,
+		"id_str": "1573245944291811328",
+		"full_text": "💜💜💜 https://t.co/pfZIikDxpt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573241210306760700,
+					"id_str": "1573241210306760706",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGi55XEAIeGuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGi55XEAIeGuK.jpg",
+					"url": "https://t.co/pfZIikDxpt",
+					"display_url": "pic.twitter.com/pfZIikDxpt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241216808153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573241210306760700,
+					"id_str": "1573241210306760706",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGi55XEAIeGuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGi55XEAIeGuK.jpg",
+					"url": "https://t.co/pfZIikDxpt",
+					"display_url": "pic.twitter.com/pfZIikDxpt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241216808153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241210214285300,
+					"id_str": "1573241210214285313",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGi5jUAAEwTn2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGi5jUAAEwTn2.jpg",
+					"url": "https://t.co/pfZIikDxpt",
+					"display_url": "pic.twitter.com/pfZIikDxpt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241216808153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241210214310000,
+					"id_str": "1573241210214309888",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGi5jUYAAhzE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGi5jUYAAhzE3.jpg",
+					"url": "https://t.co/pfZIikDxpt",
+					"display_url": "pic.twitter.com/pfZIikDxpt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241216808153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241210306797600,
+					"id_str": "1573241210306797570",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGi55XoAIK5GR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGi55XoAIK5GR.jpg",
+					"url": "https://t.co/pfZIikDxpt",
+					"display_url": "pic.twitter.com/pfZIikDxpt",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241216808153088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1573241206720835600,
+		"in_reply_to_status_id_str": "1573241206720835589",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274139,
+			"friends_count": 595,
+			"listed_count": 2746,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01b444fb442093e5",
+			"url": "https://api.twitter.com/1.1/geo/id/01b444fb442093e5.json",
+			"place_type": "city",
+			"name": "용인시",
+			"full_name": "대한민국 용인시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.019523959949,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.373997325115
+						],
+						[
+							127.019523959949,
+							37.373997325115
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💜💜💜 https://t.co/pfZIikDxpt"
+	},
+	{
+		"created_at": "Fri Sep 23 09:40:33 +0000 2022",
+		"id": 1573241206720835600,
+		"id_str": "1573245927019741184",
+		"full_text": "자우림 9집 10집 바이닐을 \n예약주문 해 주신 님들께\n배송이 지연되어 \n죄송한 마음 전합니다. \n\n11집 영원한 사랑의 바이닐은\n순조롭게 제작중입니다. \n하루 빨리 받아볼 수 있으면 좋겠습니다. \n\n사죄의 의미로 미공개 현장컷을 \n방출합니다🙃🙃🙃💜💜💜 https://t.co/xxQ8Gqqtid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573241197736341500,
+					"id_str": "1573241197736341504",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGiLEVsAAtzkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGiLEVsAAtzkY.jpg",
+					"url": "https://t.co/xxQ8Gqqtid",
+					"display_url": "pic.twitter.com/xxQ8Gqqtid",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241206720835589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573241197736341500,
+					"id_str": "1573241197736341504",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGiLEVsAAtzkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGiLEVsAAtzkY.jpg",
+					"url": "https://t.co/xxQ8Gqqtid",
+					"display_url": "pic.twitter.com/xxQ8Gqqtid",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241206720835589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241197883179000,
+					"id_str": "1573241197883179009",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGiLnWQAEgzPH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGiLnWQAEgzPH.jpg",
+					"url": "https://t.co/xxQ8Gqqtid",
+					"display_url": "pic.twitter.com/xxQ8Gqqtid",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241206720835589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241197770186800,
+					"id_str": "1573241197770186753",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGiLMaIAEtfbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGiLMaIAEtfbM.jpg",
+					"url": "https://t.co/xxQ8Gqqtid",
+					"display_url": "pic.twitter.com/xxQ8Gqqtid",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241206720835589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1796,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573241197732122600,
+					"id_str": "1573241197732122624",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVGiLDVUAAosOf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVGiLDVUAAosOf.jpg",
+					"url": "https://t.co/xxQ8Gqqtid",
+					"display_url": "pic.twitter.com/xxQ8Gqqtid",
+					"expanded_url": "https://twitter.com/love_yuna/status/1573241206720835589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274139,
+			"friends_count": 595,
+			"listed_count": 2746,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01b444fb442093e5",
+			"url": "https://api.twitter.com/1.1/geo/id/01b444fb442093e5.json",
+			"place_type": "city",
+			"name": "용인시",
+			"full_name": "대한민국 용인시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.019523959949,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.0817422994755
+						],
+						[
+							127.429304558451,
+							37.373997325115
+						],
+						[
+							127.019523959949,
+							37.373997325115
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 9집 10집 바이닐을 \n예약주문 해 주신 님들께\n배송이 지연되어 \n죄송한 마음 전합니다. \n\n11집 영원한 사랑의 바이닐은\n순조롭게 제작중입니다. \n하루 빨리 받아볼 수 있으면 좋겠습니다. \n\n사죄의 의미로 미공개 현장컷을 \n방출합니다🙃🙃🙃💜💜💜 https://t.co/xxQ8Gqqtid"
+	},
+	{
+		"created_at": "Fri Sep 23 09:40:31 +0000 2022",
+		"id": 1573240844509126700,
+		"id_str": "1573245918089969664",
+		"full_text": "[TikTok📹]\nSmile 😉🌻\n\n🔗https://t.co/cKSaae9tlf\n\n#NewJeans #WeAreNewJeans #HYEIN #DANIELLE #MINJI #HANNI #HAERIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cKSaae9tlf",
+					"expanded_url": "https://vt.tiktok.com/ZSR9WTQtd/",
+					"display_url": "vt.tiktok.com/ZSR9WTQtd/",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 511876,
+			"friends_count": 4,
+			"listed_count": 1588,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 1595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "[TikTok📹]\nSmile 😉🌻\n\n🔗https://t.co/cKSaae9tlf\n\n#NewJeans #WeAreNewJeans #HYEIN #DANIELLE #MINJI #HANNI #HAERIN"
+	},
+	{
+		"created_at": "Fri Sep 23 09:40:21 +0000 2022",
+		"id": 1573235726220775400,
+		"id_str": "1573245879707910146",
+		"full_text": "[🔬#아이돌슈타인] X #이달의소녀 \n🌙특별 에디션 MD🌙\n\n#이달소 멤버들이 오빛들을 위해\n직접❗️ 고른 향을\n종이방향제로 만나보세요❤️\n네이밍에도 참여했다는 건 안 비밀🤫\n\nmd 제작 쿠키 영상\n🎬 https://t.co/SQVDl7FNP0\n\n자세한 정보 확인하기\n🔗 https://t.co/xHTG8hIT0B \n\n🗓️ ~ 10/3 23:59 (KST) https://t.co/JuicpO5Vrj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						34,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SQVDl7FNP0",
+					"expanded_url": "http://youtu.be/U6P_awOPLGw",
+					"display_url": "youtu.be/U6P_awOPLGw",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/xHTG8hIT0B",
+					"expanded_url": "http://bit.ly/3xAQr1f",
+					"display_url": "bit.ly/3xAQr1f",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573181236121436200,
+					"id_str": "1573181236121436160",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUP_8pUAAAjRSB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUP_8pUAAAjRSB.jpg",
+					"url": "https://t.co/JuicpO5Vrj",
+					"display_url": "pic.twitter.com/JuicpO5Vrj",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235726220775424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573181236121436200,
+					"id_str": "1573181236121436160",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUP_8pUAAAjRSB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUP_8pUAAAjRSB.jpg",
+					"url": "https://t.co/JuicpO5Vrj",
+					"display_url": "pic.twitter.com/JuicpO5Vrj",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235726220775424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573181248373072000,
+					"id_str": "1573181248373071872",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUQAqSVIAASdlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUQAqSVIAASdlV.jpg",
+					"url": "https://t.co/JuicpO5Vrj",
+					"display_url": "pic.twitter.com/JuicpO5Vrj",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235726220775424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 249,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 83,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 146,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5142,
+			"friends_count": 1,
+			"listed_count": 9,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1662973258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔬#아이돌슈타인] X #이달의소녀 \n🌙특별 에디션 MD🌙\n\n#이달소 멤버들이 오빛들을 위해\n직접❗️ 고른 향을\n종이방향제로 만나보세요❤️\n네이밍에도 참여했다는 건 안 비밀🤫\n\nmd 제작 쿠키 영상\n🎬 https://t.co/SQVDl7FNP0\n\n자세한 정보 확인하기\n🔗 https://t.co/xHTG8hIT0B \n\n🗓️ ~ 10/3 23:59 (KST) https://t.co/JuicpO5Vrj"
+	},
+	{
+		"created_at": "Fri Sep 23 09:40:19 +0000 2022",
+		"id": 1573235730167476200,
+		"id_str": "1573245870757355521",
+		"full_text": "[🔬#아이돌슈타인] #이달의소녀 싸인 폴라 이벤트\n\n#이달소 2화 하이라이트&amp;감상평 남기고\n사인 폴라 받아가자!📸\n\n자세한 내용은 이미지를 참고해 주세요👀✨\n\n📌당첨 경품\n멤버별 사인 폴라 (6명)\n\n📌참여 기간\n ~9/29 (당첨자 개별 DM)\n\n#아슈_이달소 #LOONA\n#아체라 #아체라스튜디오 https://t.co/0jSaMFrqQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "아슈_이달소",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "아체라",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "아체라스튜디오",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572515476944859100,
+					"id_str": "1572515476944859138",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKyfqcaMAI3dI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKyfqcaMAI3dI7.jpg",
+					"url": "https://t.co/0jSaMFrqQK",
+					"display_url": "pic.twitter.com/0jSaMFrqQK",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235730167476225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572515476944859100,
+					"id_str": "1572515476944859138",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKyfqcaMAI3dI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKyfqcaMAI3dI7.jpg",
+					"url": "https://t.co/0jSaMFrqQK",
+					"display_url": "pic.twitter.com/0jSaMFrqQK",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235730167476225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5142,
+			"friends_count": 1,
+			"listed_count": 9,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1662973258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔬#아이돌슈타인] #이달의소녀 싸인 폴라 이벤트\n\n#이달소 2화 하이라이트&amp;감상평 남기고\n사인 폴라 받아가자!📸\n\n자세한 내용은 이미지를 참고해 주세요👀✨\n\n📌당첨 경품\n멤버별 사인 폴라 (6명)\n\n📌참여 기간\n ~9/29 (당첨자 개별 DM)\n\n#아슈_이달소 #LOONA\n#아체라 #아체라스튜디오 https://t.co/0jSaMFrqQK"
+	},
+	{
+		"created_at": "Fri Sep 23 09:40:10 +0000 2022",
+		"id": 1573235730154782700,
+		"id_str": "1573245832358412299",
+		"full_text": "[🔬#아이돌슈타인]\n\n속보) #이달소 실험까지\n잘하는 것으로 밝혀져…❗️🌙\n\n사랑스러운 멤버들의\n실험 모먼트가 궁금하다면\n지금 바로 아체라 채널에서 만나보세요!\n\n이달소 2화 🎥 https://t.co/SQVDl7XoGy\n\n#이달의소녀 #LOONA\n#아체라 #아체라스튜디오 https://t.co/oyOfX8BdxS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌슈타인",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "아체라",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "아체라스튜디오",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SQVDl7XoGy",
+					"expanded_url": "http://youtu.be/U6P_awOPLGw",
+					"display_url": "youtu.be/U6P_awOPLGw",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572827845491298300,
+					"id_str": "1572827845491298305",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPOl59aEAEDtkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPOl59aEAEDtkP.jpg",
+					"url": "https://t.co/oyOfX8BdxS",
+					"display_url": "pic.twitter.com/oyOfX8BdxS",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235730154782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572827845491298300,
+					"id_str": "1572827845491298305",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FdPOl59aEAEDtkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdPOl59aEAEDtkP.jpg",
+					"url": "https://t.co/oyOfX8BdxS",
+					"display_url": "pic.twitter.com/oyOfX8BdxS",
+					"expanded_url": "https://twitter.com/ACL_studio/status/1573235730154782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465583956729172000,
+			"id_str": "1465583956729171968",
+			"name": "ACL | 아체라 스튜디오",
+			"screen_name": "ACL_studio",
+			"location": "",
+			"description": "아티스트와 더 가까운 이야기, Art Changes Life, ACL ✨",
+			"url": "https://t.co/eUmW2DJPjA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eUmW2DJPjA",
+							"expanded_url": "https://bit.ly/3rGULcE",
+							"display_url": "bit.ly/3rGULcE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5142,
+			"friends_count": 1,
+			"listed_count": 9,
+			"created_at": "Tue Nov 30 07:30:32 +0000 2021",
+			"favourites_count": 241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509813273524596741/N8841ZoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465583956729171968/1662973258",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔬#아이돌슈타인]\n\n속보) #이달소 실험까지\n잘하는 것으로 밝혀져…❗️🌙\n\n사랑스러운 멤버들의\n실험 모먼트가 궁금하다면\n지금 바로 아체라 채널에서 만나보세요!\n\n이달소 2화 🎥 https://t.co/SQVDl7XoGy\n\n#이달의소녀 #LOONA\n#아체라 #아체라스튜디오 https://t.co/oyOfX8BdxS"
+	},
+	{
+		"created_at": "Fri Sep 23 09:38:39 +0000 2022",
+		"id": 1573236631427256300,
+		"id_str": "1573245451687514112",
+		"full_text": "#BLACKPINK 'BORN PINK' Countdown Party Replay\n\n▶️ https://t.co/QmVoxcapk2 \n\n#블랙핑크 #2ndAlbum #BORNPINK #CountdownParty #Replay #YouTube #Now_Available #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "CountdownParty",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"text": "Replay",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "Now_Available",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						150,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmVoxcapk2",
+					"expanded_url": "https://youtu.be/S1EVzs5tOVk",
+					"display_url": "youtu.be/S1EVzs5tOVk",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7549959,
+			"friends_count": 0,
+			"listed_count": 7766,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2621,
+		"favorite_count": 8116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'BORN PINK' Countdown Party Replay\n\n▶️ https://t.co/QmVoxcapk2 \n\n#블랙핑크 #2ndAlbum #BORNPINK #CountdownParty #Replay #YouTube #Now_Available #YG"
+	},
+	{
+		"created_at": "Fri Sep 23 09:29:39 +0000 2022",
+		"id": 1573235733665443800,
+		"id_str": "1573243184666349571",
+		"full_text": "🚨철떤 남자만을 사랑 어쩌구...읽는 #현빈 실존🚨\n#공조러 들의 재치 넘치는 후기에 #팀공조 는 오늘도 행복😊\n\n▶ 지금 바로 영상 보러 가기 https://t.co/mZHfF1926h\n\n#유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #절찬상영중 https://t.co/j3etpLo4qa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "현빈",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "공조러",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "팀공조",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mZHfF1926h",
+					"expanded_url": "https://youtu.be/4eNZOJhfUzE",
+					"display_url": "youtu.be/4eNZOJhfUzE",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573138421731983400,
+					"id_str": "1573138421731983366",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTpD0nagAYvz1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTpD0nagAYvz1n.jpg",
+					"url": "https://t.co/j3etpLo4qa",
+					"display_url": "pic.twitter.com/j3etpLo4qa",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1573235733665443840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573138421731983400,
+					"id_str": "1573138421731983366",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTpD0nagAYvz1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTpD0nagAYvz1n.jpg",
+					"url": "https://t.co/j3etpLo4qa",
+					"display_url": "pic.twitter.com/j3etpLo4qa",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1573235733665443840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332187,
+			"friends_count": 10626,
+			"listed_count": 261,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🚨철떤 남자만을 사랑 어쩌구...읽는 #현빈 실존🚨\n#공조러 들의 재치 넘치는 후기에 #팀공조 는 오늘도 행복😊\n\n▶ 지금 바로 영상 보러 가기 https://t.co/mZHfF1926h\n\n#유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2 #공조2_인터내셔날 #절찬상영중 https://t.co/j3etpLo4qa"
+	},
+	{
 		"created_at": "Fri Sep 23 08:38:38 +0000 2022",
 		"id": 1573225117471346700,
 		"id_str": "1573230346912546816",
