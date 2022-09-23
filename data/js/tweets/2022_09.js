@@ -1,6 +1,821 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 07:40:10 +0000 2022",
+		"id": 1573205509959979000,
+		"id_str": "1573215632463724546",
+		"full_text": "TODAY at 22:00 KST/09:00 EST\n\nGrand Gravity 03 ChaeYeon ↔️ YuBin\nMake your own DIMENSION\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/VHF4fujRcB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						113,
+						131
+					]
+				},
+				{
+					"text": "KRystalEyes",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573204802733248500,
+					"id_str": "1573204802733248514",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUlbtHakAIps9L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUlbtHakAIps9L.jpg",
+					"url": "https://t.co/VHF4fujRcB",
+					"display_url": "pic.twitter.com/VHF4fujRcB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1573205509959979008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573204802733248500,
+					"id_str": "1573204802733248514",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUlbtHakAIps9L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUlbtHakAIps9L.jpg",
+					"url": "https://t.co/VHF4fujRcB",
+					"display_url": "pic.twitter.com/VHF4fujRcB",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1573205509959979008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14302,
+			"friends_count": 0,
+			"listed_count": 92,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY at 22:00 KST/09:00 EST\n\nGrand Gravity 03 ChaeYeon ↔️ YuBin\nMake your own DIMENSION\n\n#tripleS #트리플에스 #トリプルS\n#AcidAngelfromAsia #KRystalEyes https://t.co/VHF4fujRcB"
+	},
+	{
+		"created_at": "Fri Sep 23 07:39:34 +0000 2022",
+		"id": 1573205524878807000,
+		"id_str": "1573215482118754304",
+		"full_text": "\"앨범에 재능을 다 쏟아부었어요. 열심히 제 자아를 찾아가고 제 목소리를 표현해보고 싶어요.\" \n\n솔로 앨범 &lt;28 Reasons&gt; 발매를 앞둔 레드벨벳 슬기는 처음으로 규칙을 깨보려고 합니다. 펑키하게 또 재밌게. \n\n▶️https://t.co/upSgQrXOMJ\n\n#슬기 #Seulgi #보그코리아 #VOGUEKOREA https://t.co/RcpBjgxFUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "Seulgi",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "VOGUEKOREA",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/upSgQrXOMJ",
+					"expanded_url": "http://vogue.co.kr/?ddw=123571",
+					"display_url": "vogue.co.kr/?ddw=123571",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573110256657629200,
+					"id_str": "1573110256657629185",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTPcZiaAAE8bQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTPcZiaAAE8bQG.jpg",
+					"url": "https://t.co/RcpBjgxFUL",
+					"display_url": "pic.twitter.com/RcpBjgxFUL",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1573205524878807040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573110256657629200,
+					"id_str": "1573110256657629185",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTPcZiaAAE8bQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTPcZiaAAE8bQG.jpg",
+					"url": "https://t.co/RcpBjgxFUL",
+					"display_url": "pic.twitter.com/RcpBjgxFUL",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1573205524878807040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573110326157258800,
+					"id_str": "1573110326157258753",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTPgccaMAERab9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTPgccaMAERab9.jpg",
+					"url": "https://t.co/RcpBjgxFUL",
+					"display_url": "pic.twitter.com/RcpBjgxFUL",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1573205524878807040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187832,
+			"friends_count": 0,
+			"listed_count": 423,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1663232838",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"앨범에 재능을 다 쏟아부었어요. 열심히 제 자아를 찾아가고 제 목소리를 표현해보고 싶어요.\" \n\n솔로 앨범 &lt;28 Reasons&gt; 발매를 앞둔 레드벨벳 슬기는 처음으로 규칙을 깨보려고 합니다. 펑키하게 또 재밌게. \n\n▶️https://t.co/upSgQrXOMJ\n\n#슬기 #Seulgi #보그코리아 #VOGUEKOREA https://t.co/RcpBjgxFUL"
+	},
+	{
+		"created_at": "Fri Sep 23 07:37:41 +0000 2022",
+		"id": 1573209458284851200,
+		"id_str": "1573215007738712064",
+		"full_text": "당초 안내해드렸던 것처럼 제품이 9월 말 해외에서 출고될 예정이었으나, 최근 늘어난 LP 생산량으로 인해 공장 측으로부터 출고 일정이 지연된다는 소식을 전달 받았습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1573209366937079800,
+		"in_reply_to_status_id_str": "1573209366937079809",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4096,
+			"friends_count": 5,
+			"listed_count": 23,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당초 안내해드렸던 것처럼 제품이 9월 말 해외에서 출고될 예정이었으나, 최근 늘어난 LP 생산량으로 인해 공장 측으로부터 출고 일정이 지연된다는 소식을 전달 받았습니다."
+	},
+	{
+		"created_at": "Fri Sep 23 07:37:41 +0000 2022",
+		"id": 1573209366937079800,
+		"id_str": "1573215006530752513",
+		"full_text": "[자우림 9집, 10집 LP 배송 지연 안내]\n안녕하세요 인터파크 엔터테인먼트입니다.\n\n지난 4월 진행된 자우림 9집 [Goodbye, grief.]와 10집 [자우림] LP 재판매에 보내주셨던 뜨거운 성원에 다시 한 번 감사드립니다. https://t.co/ptT9agh0QR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573209360150499300,
+					"id_str": "1573209360150499329",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUpk-0XEAEQYLU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUpk-0XEAEQYLU.jpg",
+					"url": "https://t.co/ptT9agh0QR",
+					"display_url": "pic.twitter.com/ptT9agh0QR",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1573209366937079809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573209360150499300,
+					"id_str": "1573209360150499329",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUpk-0XEAEQYLU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUpk-0XEAEQYLU.jpg",
+					"url": "https://t.co/ptT9agh0QR",
+					"display_url": "pic.twitter.com/ptT9agh0QR",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1573209366937079809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4096,
+			"friends_count": 5,
+			"listed_count": 23,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[자우림 9집, 10집 LP 배송 지연 안내]\n안녕하세요 인터파크 엔터테인먼트입니다.\n\n지난 4월 진행된 자우림 9집 [Goodbye, grief.]와 10집 [자우림] LP 재판매에 보내주셨던 뜨거운 성원에 다시 한 번 감사드립니다. https://t.co/ptT9agh0QR"
+	},
+	{
+		"created_at": "Fri Sep 23 07:37:40 +0000 2022",
+		"id": 1573209512164860000,
+		"id_str": "1573215005628977152",
+		"full_text": "최대한 빠르게 상품을 전해드리고자 노력하고 있지만 해외 공장의 제조 일정을 고려하면 12월 중에 발송이 가능할 것으로 예상됩니다.\n예정보다 오래 기다리게 해드려 죄송하다는 말씀을 드리며, 기다려주신 만큼 양질의 제품을 안전하게 받아보실 수 있도록 최선을 다하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1573209458284851200,
+		"in_reply_to_status_id_str": "1573209458284851201",
+		"in_reply_to_user_id": 923507155860299800,
+		"in_reply_to_user_id_str": "923507155860299776",
+		"in_reply_to_screen_name": "JaurimOfficial",
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "자우림 Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "▼ 𝐇𝐀𝐏𝐏𝐘 𝟐𝟓𝐭𝐡 𝐉𝐀𝐔𝐑𝐈𝐌 ㅣ𝖬𝖣 온라인 판매",
+			"url": "https://t.co/uKDsnIJttC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uKDsnIJttC",
+							"expanded_url": "https://bit.ly/3BkgXhN",
+							"display_url": "bit.ly/3BkgXhN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4096,
+			"friends_count": 5,
+			"listed_count": 23,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546734155525869568/z7QclmtR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1657605145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최대한 빠르게 상품을 전해드리고자 노력하고 있지만 해외 공장의 제조 일정을 고려하면 12월 중에 발송이 가능할 것으로 예상됩니다.\n예정보다 오래 기다리게 해드려 죄송하다는 말씀을 드리며, 기다려주신 만큼 양질의 제품을 안전하게 받아보실 수 있도록 최선을 다하겠습니다."
+	},
+	{
 		"created_at": "Fri Sep 23 06:40:22 +0000 2022",
 		"id": 1573190632969220000,
 		"id_str": "1573200585138085889",
