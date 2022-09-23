@@ -1,6 +1,1664 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 06:40:22 +0000 2022",
+		"id": 1573190632969220000,
+		"id_str": "1573200585138085889",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JISOO\n\n#블랙핑크 #지수 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/DTIsbLl2RW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573180265006239700,
+					"id_str": "1573180265006239745",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdURUbDacAAVNnU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdURUbDacAAVNnU.png",
+					"url": "https://t.co/DTIsbLl2RW",
+					"display_url": "pic.twitter.com/DTIsbLl2RW",
+					"expanded_url": "https://twitter.com/ygent_official/status/1573190632969220101/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573180265006239700,
+					"id_str": "1573180265006239745",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdURUbDacAAVNnU.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdURUbDacAAVNnU.png",
+					"url": "https://t.co/DTIsbLl2RW",
+					"display_url": "pic.twitter.com/DTIsbLl2RW",
+					"expanded_url": "https://twitter.com/ygent_official/status/1573190632969220101/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23790,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180265006239745/vid/480x852/aIAI0VJ4-YbmnRNW.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180265006239745/vid/320x568/QmFUYTUD4o3KksCH.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180265006239745/vid/720x1280/BEQffJOA-yea62-n.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573180265006239745/pl/N8dJ8JeMvbtEt3ZQ.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JISOO",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941984,
+			"friends_count": 36,
+			"listed_count": 9858,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3021,
+		"favorite_count": 8802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JISOO\n\n#블랙핑크 #지수 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/DTIsbLl2RW"
+	},
+	{
+		"created_at": "Fri Sep 23 06:40:13 +0000 2022",
+		"id": 1573190609074294800,
+		"id_str": "1573200546873462784",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JENNIE\n\n#블랙핑크 #제니 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/ZqTxRhepO5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						112,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573180248895946800,
+					"id_str": "1573180248895946752",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FdURRykaUAAt0lP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdURRykaUAAt0lP.png",
+					"url": "https://t.co/ZqTxRhepO5",
+					"display_url": "pic.twitter.com/ZqTxRhepO5",
+					"expanded_url": "https://twitter.com/ygent_official/status/1573190609074294784/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573180248895946800,
+					"id_str": "1573180248895946752",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FdURRykaUAAt0lP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FdURRykaUAAt0lP.png",
+					"url": "https://t.co/ZqTxRhepO5",
+					"display_url": "pic.twitter.com/ZqTxRhepO5",
+					"expanded_url": "https://twitter.com/ygent_official/status/1573190609074294784/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23723,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180248895946752/vid/320x568/grDLcAf8VRQQeJQ2.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180248895946752/vid/720x1280/HLbAbVoS5nNsjoFa.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573180248895946752/pl/CdZfKKII8yZZCxfl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573180248895946752/vid/480x852/17mBQ3CKfaGF-zFn.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JENNIE",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8941984,
+			"friends_count": 36,
+			"listed_count": 9858,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3276,
+		"favorite_count": 9399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JENNIE\n\n#블랙핑크 #제니 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/ZqTxRhepO5"
+	},
+	{
+		"created_at": "Fri Sep 23 06:40:10 +0000 2022",
+		"id": 1573190687646163000,
+		"id_str": "1573200533783023616",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #LISA\n\n#블랙핑크 #리사 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/UkPCrBZCkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						110,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573188340077461500,
+					"id_str": "1573188340077461504",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUWr5qaEAEb_Qu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUWr5qaEAEb_Qu.jpg",
+					"url": "https://t.co/UkPCrBZCkF",
+					"display_url": "pic.twitter.com/UkPCrBZCkF",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190687646162945/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573188340077461500,
+					"id_str": "1573188340077461504",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUWr5qaEAEb_Qu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUWr5qaEAEb_Qu.jpg",
+					"url": "https://t.co/UkPCrBZCkF",
+					"display_url": "pic.twitter.com/UkPCrBZCkF",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190687646162945/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23623,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188340077461504/vid/480x852/EIpZS50JlcShcReE.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188340077461504/vid/320x568/pidedONsjgEhHnG5.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188340077461504/vid/720x1280/aCD4oHmvrgLsEde9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573188340077461504/pl/cZG2NSeDAYr2rD2f.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7548346,
+			"friends_count": 0,
+			"listed_count": 7763,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13438,
+		"favorite_count": 27418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #LISA\n\n#블랙핑크 #리사 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/UkPCrBZCkF"
+	},
+	{
+		"created_at": "Fri Sep 23 06:38:37 +0000 2022",
+		"id": 1573190786732400600,
+		"id_str": "1573200144962461697",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JENNIE\n\n#블랙핑크 #제니 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/rpMN3zmQtk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						112,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573188392497844200,
+					"id_str": "1573188392497844224",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUW0BraAAACh35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUW0BraAAACh35.jpg",
+					"url": "https://t.co/rpMN3zmQtk",
+					"display_url": "pic.twitter.com/rpMN3zmQtk",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190786732400641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573188392497844200,
+					"id_str": "1573188392497844224",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUW0BraAAACh35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUW0BraAAACh35.jpg",
+					"url": "https://t.co/rpMN3zmQtk",
+					"display_url": "pic.twitter.com/rpMN3zmQtk",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190786732400641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23723,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188392497844224/vid/480x852/ekhTQDWOFwCbqSAI.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573188392497844224/pl/_Gf3CCoa8mYFjFqJ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188392497844224/vid/720x1280/3bHejM9DRjidwwai.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188392497844224/vid/320x568/xIDYR0zVLETO1aeF.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7548346,
+			"friends_count": 0,
+			"listed_count": 7763,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8974,
+		"favorite_count": 19240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JENNIE\n\n#블랙핑크 #제니 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/rpMN3zmQtk"
+	},
+	{
+		"created_at": "Fri Sep 23 06:38:37 +0000 2022",
+		"id": 1573190836074217500,
+		"id_str": "1573200144928890880",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JISOO\n\n#블랙핑크 #지수 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/xrxu8aGFhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573188408348119000,
+					"id_str": "1573188408348119040",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUW3xdagAIubij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUW3xdagAIubij.jpg",
+					"url": "https://t.co/xrxu8aGFhc",
+					"display_url": "pic.twitter.com/xrxu8aGFhc",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190836074217473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573188408348119000,
+					"id_str": "1573188408348119040",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUW3xdagAIubij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUW3xdagAIubij.jpg",
+					"url": "https://t.co/xrxu8aGFhc",
+					"display_url": "pic.twitter.com/xrxu8aGFhc",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190836074217473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23790,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188408348119040/vid/720x1280/f5eUhUxJ2Oz9jlXo.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573188408348119040/pl/WGPBfRSvm5R1gN6g.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188408348119040/vid/480x852/JuqSA6Ip5vHbpT7H.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188408348119040/vid/320x568/QUKQE0iAAsJab46c.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7548346,
+			"friends_count": 0,
+			"listed_count": 7763,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9192,
+		"favorite_count": 21262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #JISOO\n\n#블랙핑크 #지수 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/xrxu8aGFhc"
+	},
+	{
+		"created_at": "Fri Sep 23 06:38:37 +0000 2022",
+		"id": 1573190740473450500,
+		"id_str": "1573200144903774208",
+		"full_text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #ROSÉ \n\n#블랙핑크 #로제 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/MfazvEUnTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "Visual_Clip",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573188370620387300,
+					"id_str": "1573188370620387329",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUWvwYaEAEoVN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUWvwYaEAEoVN5.jpg",
+					"url": "https://t.co/MfazvEUnTS",
+					"display_url": "pic.twitter.com/MfazvEUnTS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190740473450496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573188370620387300,
+					"id_str": "1573188370620387329",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FdUWvwYaEAEoVN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdUWvwYaEAEoVN5.jpg",
+					"url": "https://t.co/MfazvEUnTS",
+					"display_url": "pic.twitter.com/MfazvEUnTS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1573190740473450496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1010,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23890,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188370620387329/vid/720x1280/Exx7oGe46GVAEYga.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1573188370620387329/pl/_8TAg8NtCuCydxPy.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188370620387329/vid/320x568/PrLDlWZOSs8mhlSW.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1573188370620387329/vid/480x852/O-9-92lQySm2Mku6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7548346,
+			"friends_count": 0,
+			"listed_count": 7763,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8720,
+		"favorite_count": 18313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 2nd Album ‘BORN PINK’ Jacket Visual Clip #ROSÉ \n\n#블랙핑크 #로제 #2ndAlbum #BORNPINK #Jacket #Visual_Clip #YG https://t.co/MfazvEUnTS"
+	},
+	{
 		"created_at": "Fri Sep 23 03:40:26 +0000 2022",
 		"id": 1573145218307993600,
 		"id_str": "1573155303247552513",
