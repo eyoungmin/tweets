@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 11:40:26 +0000 2022",
+		"id": 1573266332619243500,
+		"id_str": "1573276096254074880",
+		"full_text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!​\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuyCZdasJc",
+					"expanded_url": "http://superstarloona.dalcomsoft.com",
+					"display_url": "superstarloona.dalcomsoft.com",
+					"indices": [
+						1,
+						24
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19164,
+			"friends_count": 28,
+			"listed_count": 66,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 569,
+		"favorite_count": 1501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌕https://t.co/LuyCZdasJc\n\n우리? 슈퍼스타지\n슈퍼스타 이달의 소녀~~!\n\n기다렸다는 거 이미 알아\n시공간을 뛰어넘어 우리가 만난 거야!​\n\n지금 바로 #슈퍼스타이달의소녀 사전 예약에 참여하세요!"
+	},
+	{
+		"created_at": "Fri Sep 23 11:40:20 +0000 2022",
+		"id": 1573266997307412500,
+		"id_str": "1573276074355597312",
+		"full_text": "☞https://t.co/AXtdzXjoYY\n달이 뜨면 우리 그곳에서 만나자\n알잖아 우리는 이끌릴 거고 닮아가게 될 거야\n#슈퍼스타이달의소녀 #이달의소녀\n\nWhen the moon rises, let's meet there\nYou know that we will find each other soon and bear a resemblance to each other\n#SuperStarLOONA #LOONA https://t.co/9vvqnprHf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						221,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXtdzXjoYY",
+					"expanded_url": "http://youtu.be/0CDZDKyZL0s",
+					"display_url": "youtu.be/0CDZDKyZL0s",
+					"indices": [
+						1,
+						24
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573266928101367800,
+					"id_str": "1573266928101367811",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVd74JaIAMb-Z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVd74JaIAMb-Z-.jpg",
+					"url": "https://t.co/9vvqnprHf4",
+					"display_url": "pic.twitter.com/9vvqnprHf4",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1573266997307412480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573266928101367800,
+					"id_str": "1573266928101367811",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVd74JaIAMb-Z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVd74JaIAMb-Z-.jpg",
+					"url": "https://t.co/9vvqnprHf4",
+					"display_url": "pic.twitter.com/9vvqnprHf4",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1573266997307412480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19164,
+			"friends_count": 28,
+			"listed_count": 66,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 817,
+		"favorite_count": 2072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☞https://t.co/AXtdzXjoYY\n달이 뜨면 우리 그곳에서 만나자\n알잖아 우리는 이끌릴 거고 닮아가게 될 거야\n#슈퍼스타이달의소녀 #이달의소녀\n\nWhen the moon rises, let's meet there\nYou know that we will find each other soon and bear a resemblance to each other\n#SuperStarLOONA #LOONA https://t.co/9vvqnprHf4"
+	},
+	{
 		"created_at": "Fri Sep 23 10:49:31 +0000 2022",
 		"id": 1573262619477155800,
 		"id_str": "1573263285628985344",
