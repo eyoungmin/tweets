@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 09:09:36 +0000 2022",
+		"id": 1576135112470978600,
+		"id_str": "1576137241528877056",
+		"full_text": "✨예쁨을 왈칵 쏟아버렸네💖 ㅣ 드라마 &lt;어쩌다 전원일기&gt; 촬영 비하인드 \n\nhttps://t.co/5wZQ1ecpmF\n\n#RedVelvet #JOY\n#레드벨벳 #조이\n#어쩌다_전원일기 https://t.co/kptaC9lhbz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "어쩌다_전원일기",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5wZQ1ecpmF",
+					"expanded_url": "https://youtu.be/VavOjSaMsUg",
+					"display_url": "youtu.be/VavOjSaMsUg",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1576135101850669000,
+					"id_str": "1576135101850669056",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-Ohj_VUAADHXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-Ohj_VUAADHXh.jpg",
+					"url": "https://t.co/kptaC9lhbz",
+					"display_url": "pic.twitter.com/kptaC9lhbz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1576135112470978566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576135101850669000,
+					"id_str": "1576135101850669056",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd-Ohj_VUAADHXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd-Ohj_VUAADHXh.jpg",
+					"url": "https://t.co/kptaC9lhbz",
+					"display_url": "pic.twitter.com/kptaC9lhbz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1576135112470978566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/0hh6Lb9UOp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6Lb9UOp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5651638,
+			"friends_count": 2,
+			"listed_count": 11338,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2132,
+		"favorite_count": 5988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨예쁨을 왈칵 쏟아버렸네💖 ㅣ 드라마 &lt;어쩌다 전원일기&gt; 촬영 비하인드 \n\nhttps://t.co/5wZQ1ecpmF\n\n#RedVelvet #JOY\n#레드벨벳 #조이\n#어쩌다_전원일기 https://t.co/kptaC9lhbz"
+	},
+	{
 		"created_at": "Sat Oct 01 08:40:10 +0000 2022",
 		"id": 1576119765470392300,
 		"id_str": "1576129834983514113",
