@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 01 16:40:34 +0000 2022",
+		"id": 1576245849881186300,
+		"id_str": "1576250732478697476",
+		"full_text": "코로나로 멈췄던 페스티벌이 다시 시작되고, 여러 페스티벌의 중심에서 멋진 관객이 되어주셔서 감사합니다. 공연을 찾아와 주신 여러분 덕분에 더욱 더 뜨거운 여름이었습니다. https://t.co/XPsc3r5Zx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576245830788722700,
+					"id_str": "1576245830788722688",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd_zO1baMAA6jch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd_zO1baMAA6jch.jpg",
+					"url": "https://t.co/XPsc3r5Zx7",
+					"display_url": "pic.twitter.com/XPsc3r5Zx7",
+					"expanded_url": "https://twitter.com/adoyband/status/1576245849881186304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576245830788722700,
+					"id_str": "1576245830788722688",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd_zO1baMAA6jch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd_zO1baMAA6jch.jpg",
+					"url": "https://t.co/XPsc3r5Zx7",
+					"display_url": "pic.twitter.com/XPsc3r5Zx7",
+					"expanded_url": "https://twitter.com/adoyband/status/1576245849881186304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576245830801326000,
+					"id_str": "1576245830801326082",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd_zO1eagAI_ovi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd_zO1eagAI_ovi.jpg",
+					"url": "https://t.co/XPsc3r5Zx7",
+					"display_url": "pic.twitter.com/XPsc3r5Zx7",
+					"expanded_url": "https://twitter.com/adoyband/status/1576245849881186304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576245830784520200,
+					"id_str": "1576245830784520193",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd_zO1aaEAEQCNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd_zO1aaEAEQCNz.jpg",
+					"url": "https://t.co/XPsc3r5Zx7",
+					"display_url": "pic.twitter.com/XPsc3r5Zx7",
+					"expanded_url": "https://twitter.com/adoyband/status/1576245849881186304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576245830801297400,
+					"id_str": "1576245830801297409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd_zO1eaEAEW2GU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd_zO1eaEAEW2GU.jpg",
+					"url": "https://t.co/XPsc3r5Zx7",
+					"display_url": "pic.twitter.com/XPsc3r5Zx7",
+					"expanded_url": "https://twitter.com/adoyband/status/1576245849881186304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5205,
+			"friends_count": 484,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나로 멈췄던 페스티벌이 다시 시작되고, 여러 페스티벌의 중심에서 멋진 관객이 되어주셔서 감사합니다. 공연을 찾아와 주신 여러분 덕분에 더욱 더 뜨거운 여름이었습니다. https://t.co/XPsc3r5Zx7"
+	},
+	{
+		"created_at": "Sat Oct 01 16:40:27 +0000 2022",
+		"id": 1576243056033923000,
+		"id_str": "1576250702489419778",
+		"full_text": "2022 인천 펜타포트 록 페스티벌 https://t.co/mjTKl6BL4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576243011838959600,
+					"id_str": "1576243011838959623",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576243011838959623/pu/img/y8gAssdp9K4Ytwzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576243011838959623/pu/img/y8gAssdp9K4Ytwzs.jpg",
+					"url": "https://t.co/mjTKl6BL4d",
+					"display_url": "pic.twitter.com/mjTKl6BL4d",
+					"expanded_url": "https://twitter.com/adoyband/status/1576243056033923073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576243011838959600,
+					"id_str": "1576243011838959623",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576243011838959623/pu/img/y8gAssdp9K4Ytwzs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576243011838959623/pu/img/y8gAssdp9K4Ytwzs.jpg",
+					"url": "https://t.co/mjTKl6BL4d",
+					"display_url": "pic.twitter.com/mjTKl6BL4d",
+					"expanded_url": "https://twitter.com/adoyband/status/1576243056033923073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18513,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576243011838959623/pu/vid/1280x720/FsvFDExxdiPGnGl7.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576243011838959623/pu/vid/640x360/RgluZWS7COulsYvv.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576243011838959623/pu/vid/480x270/qNxWwew-hEhsZ4eQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576243011838959623/pu/pl/dWba2hd9dMIP5XAo.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5205,
+			"friends_count": 484,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 인천 펜타포트 록 페스티벌 https://t.co/mjTKl6BL4d"
+	},
+	{
+		"created_at": "Sat Oct 01 16:09:38 +0000 2022",
+		"id": 1576242352624087000,
+		"id_str": "1576242948412346368",
+		"full_text": "2022 부산 국제 록 페스티벌 https://t.co/56zxA1R1Bt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576242304058544000,
+					"id_str": "1576242304058544139",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576242304058544139/pu/img/5fusT8EOLnCNVWX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576242304058544139/pu/img/5fusT8EOLnCNVWX1.jpg",
+					"url": "https://t.co/56zxA1R1Bt",
+					"display_url": "pic.twitter.com/56zxA1R1Bt",
+					"expanded_url": "https://twitter.com/adoyband/status/1576242352624087040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576242304058544000,
+					"id_str": "1576242304058544139",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576242304058544139/pu/img/5fusT8EOLnCNVWX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576242304058544139/pu/img/5fusT8EOLnCNVWX1.jpg",
+					"url": "https://t.co/56zxA1R1Bt",
+					"display_url": "pic.twitter.com/56zxA1R1Bt",
+					"expanded_url": "https://twitter.com/adoyband/status/1576242352624087040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14213,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576242304058544139/pu/vid/480x270/XuZFPKtElCs-xwme.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576242304058544139/pu/pl/JmzidTxYlkJpWQYD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576242304058544139/pu/vid/1280x720/MhKAPNV6LC4Igbql.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576242304058544139/pu/vid/640x360/rom0MmZ5XnpyhZFM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/6Dss1BKxuA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Dss1BKxuA",
+							"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=206862",
+							"display_url": "m.ticket.melon.com/public/index.h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5205,
+			"friends_count": 484,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 부산 국제 록 페스티벌 https://t.co/56zxA1R1Bt"
+	},
+	{
 		"created_at": "Sat Oct 01 13:40:15 +0000 2022",
 		"id": 1576202819115577300,
 		"id_str": "1576205352407863302",
