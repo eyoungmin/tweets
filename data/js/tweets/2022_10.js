@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 08:45:38 +0000 2022",
+		"id": 1576482118112202800,
+		"id_str": "1576493597280669696",
+		"full_text": "🥳가을에 태어난 여자 아이돌🥳\nGirl groups born in fall 🍁\n#Dreamcatcher #YUJU #Suzy #NMIXX #LOONA #JOYURI #GIDLE #Weeekly #WJSN #TWICE #WekiMeki #CherryBullet #RYUSUJEONG #IVE #fromis_9 https://t.co/ymj8lApgdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"text": "YUJU",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "Suzy",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "JOYURI",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "WekiMeki",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "CherryBullet",
+					"indices": [
+						131,
+						144
+					]
+				},
+				{
+					"text": "RYUSUJEONG",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "fromis_9",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575805235280629800,
+					"id_str": "1575805235280629761",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1575805235280629761/img/gG05IpwHzIqrtf0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1575805235280629761/img/gG05IpwHzIqrtf0K.jpg",
+					"url": "https://t.co/ymj8lApgdJ",
+					"display_url": "pic.twitter.com/ymj8lApgdJ",
+					"expanded_url": "https://twitter.com/1theK/status/1576482118112202752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575805235280629800,
+					"id_str": "1575805235280629761",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1575805235280629761/img/gG05IpwHzIqrtf0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1575805235280629761/img/gG05IpwHzIqrtf0K.jpg",
+					"url": "https://t.co/ymj8lApgdJ",
+					"display_url": "pic.twitter.com/ymj8lApgdJ",
+					"expanded_url": "https://twitter.com/1theK/status/1576482118112202752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 124999,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1575805235280629761/vid/720x720/Kwcal2nu1MBhGnZq.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1575805235280629761/vid/320x320/gp-0Vxqf4Y07UU-5.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1575805235280629761/pl/uhAz-3Ro9rF3aNrJ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1575805235280629761/vid/540x540/58EJnM2428MVGiFY.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2347687,
+			"friends_count": 816,
+			"listed_count": 2257,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1664626679",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🥳가을에 태어난 여자 아이돌🥳\nGirl groups born in fall 🍁\n#Dreamcatcher #YUJU #Suzy #NMIXX #LOONA #JOYURI #GIDLE #Weeekly #WJSN #TWICE #WekiMeki #CherryBullet #RYUSUJEONG #IVE #fromis_9 https://t.co/ymj8lApgdJ"
+	},
+	{
 		"created_at": "Sun Oct 02 07:40:10 +0000 2022",
 		"id": 1576462374772482000,
 		"id_str": "1576477122629193728",
