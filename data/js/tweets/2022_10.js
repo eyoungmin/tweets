@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 10:40:10 +0000 2022",
+		"id": 1576516142864400400,
+		"id_str": "1576522420734889984",
+		"full_text": "Thank you for your loud cheers❣️\nNewJeans @ KCON 2022 SAUDI ARABIA\n\n#NewJeans #뉴진스\n#KCON #KCON2022SAUDIARABIA https://t.co/inIAbjgdXp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "KCON2022SAUDIARABIA",
+					"indices": [
+						89,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576516103597330400,
+					"id_str": "1576516103597330432",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576516103597330432/pu/img/tJlewltZ7jV8Kk3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576516103597330432/pu/img/tJlewltZ7jV8Kk3n.jpg",
+					"url": "https://t.co/inIAbjgdXp",
+					"display_url": "pic.twitter.com/inIAbjgdXp",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1576516142864400385/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576516103597330400,
+					"id_str": "1576516103597330432",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1576516103597330432/pu/img/tJlewltZ7jV8Kk3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576516103597330432/pu/img/tJlewltZ7jV8Kk3n.jpg",
+					"url": "https://t.co/inIAbjgdXp",
+					"display_url": "pic.twitter.com/inIAbjgdXp",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1576516142864400385/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12250,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576516103597330432/pu/vid/480x270/FPAmK_IUtHV6Xza1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576516103597330432/pu/vid/640x360/5gcWXyZJNwNJxxqv.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1576516103597330432/pu/vid/1280x720/Rtb1DscJN3gVnuL9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1576516103597330432/pu/pl/VciQ9y4hsBNMuehb.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 536673,
+			"friends_count": 4,
+			"listed_count": 1673,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1839,
+		"favorite_count": 6242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for your loud cheers❣️\nNewJeans @ KCON 2022 SAUDI ARABIA\n\n#NewJeans #뉴진스\n#KCON #KCON2022SAUDIARABIA https://t.co/inIAbjgdXp"
+	},
+	{
 		"created_at": "Sun Oct 02 09:40:37 +0000 2022",
 		"id": 1576505359489171500,
 		"id_str": "1576507438047678464",
