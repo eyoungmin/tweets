@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 07:40:19 +0000 2022",
+		"id": 1576838951633301500,
+		"id_str": "1576839548000210944",
+		"full_text": "aespa attends the Givenchy 2023 SS Fashion Show in Paris, France and captivates the audience! European fans gathered outside of the venue and cheered for aespa despite the rain, proving aespa’s global popularity! \n\n#aespa #æspa #에스파 \n#Givenchy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						215,
+						221
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						228,
+						232
+					]
+				},
+				{
+					"text": "Givenchy",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1576838948756021200,
+		"in_reply_to_status_id_str": "1576838948756021249",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192944,
+			"friends_count": 2,
+			"listed_count": 9557,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 1996,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "aespa attends the Givenchy 2023 SS Fashion Show in Paris, France and captivates the audience! European fans gathered outside of the venue and cheered for aespa despite the rain, proving aespa’s global popularity! \n\n#aespa #æspa #에스파 \n#Givenchy"
+	},
+	{
 		"created_at": "Mon Oct 03 05:40:22 +0000 2022",
 		"id": 1576799860623577000,
 		"id_str": "1576809361749557248",
