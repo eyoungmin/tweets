@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 06:40:10 +0000 2022",
+		"id": 1577178226526331000,
+		"id_str": "1577186799151185920",
+		"full_text": "오렌지방 수민이의 단독 라이브🍊\n오늘 저녁 10시에 시작합니다!💎\n\nOrange room’s SooMin is going LIVE!🍊\nDon’t miss out on her LIVE tonight(Oct 4th) at 10pm KST/9am EST💎\n\nオレンジ部屋のスミンの単独ライブ🍊\n今夜10時に始まります！💎\n\n#tripleS #트리플에스 #トリプルS https://t.co/II0Ax07eZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						190,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577177643564163000,
+					"id_str": "1577177643564163073",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNCtehUYAEzLxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNCtehUYAEzLxx.jpg",
+					"url": "https://t.co/II0Ax07eZj",
+					"display_url": "pic.twitter.com/II0Ax07eZj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577178226526330880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577177643564163000,
+					"id_str": "1577177643564163073",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNCtehUYAEzLxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNCtehUYAEzLxx.jpg",
+					"url": "https://t.co/II0Ax07eZj",
+					"display_url": "pic.twitter.com/II0Ax07eZj",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577178226526330880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14619,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "오렌지방 수민이의 단독 라이브🍊\n오늘 저녁 10시에 시작합니다!💎\n\nOrange room’s SooMin is going LIVE!🍊\nDon’t miss out on her LIVE tonight(Oct 4th) at 10pm KST/9am EST💎\n\nオレンジ部屋のスミンの単独ライブ🍊\n今夜10時に始まります！💎\n\n#tripleS #트리플에스 #トリプルS https://t.co/II0Ax07eZj"
+	},
+	{
 		"created_at": "Tue Oct 04 05:40:12 +0000 2022",
 		"id": 1577163900797472800,
 		"id_str": "1577171709932838912",
