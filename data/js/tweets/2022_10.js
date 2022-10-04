@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 07:40:10 +0000 2022",
+		"id": 1577189089987526700,
+		"id_str": "1577201898880471043",
+		"full_text": "데인저 다이아몬드 컬렉션을 착용한 \n신세경의 독보적이고 \n다채로운 매력도 주목해보세요. 💎\n\nhttps://t.co/QJxM1F1Fyv https://t.co/Ic76ttx2UP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QJxM1F1Fyv",
+					"expanded_url": "https://www.instagram.com/p/CjRpG9VvowE/",
+					"display_url": "instagram.com/p/CjRpG9VvowE/",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577188808067424300,
+					"id_str": "1577188808067424256",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNM3ViUoAAdHN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNM3ViUoAAdHN9.jpg",
+					"url": "https://t.co/Ic76ttx2UP",
+					"display_url": "pic.twitter.com/Ic76ttx2UP",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577189089987526657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577188808067424300,
+					"id_str": "1577188808067424256",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNM3ViUoAAdHN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNM3ViUoAAdHN9.jpg",
+					"url": "https://t.co/Ic76ttx2UP",
+					"display_url": "pic.twitter.com/Ic76ttx2UP",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577189089987526657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577188839889608700,
+					"id_str": "1577188839889608704",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNM5MFUoAAQXPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNM5MFUoAAQXPs.jpg",
+					"url": "https://t.co/Ic76ttx2UP",
+					"display_url": "pic.twitter.com/Ic76ttx2UP",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577189089987526657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577188872458367000,
+					"id_str": "1577188872458366976",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNM7FaUcAAWlsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNM7FaUcAAWlsg.jpg",
+					"url": "https://t.co/Ic76ttx2UP",
+					"display_url": "pic.twitter.com/Ic76ttx2UP",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577189089987526657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577188907216564200,
+					"id_str": "1577188907216564225",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FeNM9G5UcAETest.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeNM9G5UcAETest.jpg",
+					"url": "https://t.co/Ic76ttx2UP",
+					"display_url": "pic.twitter.com/Ic76ttx2UP",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577189089987526657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5066,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데인저 다이아몬드 컬렉션을 착용한 \n신세경의 독보적이고 \n다채로운 매력도 주목해보세요. 💎\n\nhttps://t.co/QJxM1F1Fyv https://t.co/Ic76ttx2UP"
+	},
+	{
 		"created_at": "Tue Oct 04 06:40:10 +0000 2022",
 		"id": 1577178226526331000,
 		"id_str": "1577186799151185920",
