@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 04:40:10 +0000 2022",
+		"id": 1577156474526392300,
+		"id_str": "1577156600099475457",
+		"full_text": "🌌2022 심규선 단독 콘서트 \n&lt;밤의정원 : ENCORE&gt; \n티켓오픈 22.10.11(화) 12PM~ @예스24티켓\n공연일시 22.10.29(토) 6PM / 22.10.30(일) 5PM\n#한_밤중에_악몽의_틈에서_그대를_데려와서\n#심규선 #단독콘서트 #밤의정원 #앵콜콘서트 #티켓오픈 #광림아트센터 #ENCORE #TICKET_OPEN #사랑합니다 https://t.co/75zXPgvWL7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한_밤중에_악몽의_틈에서_그대를_데려와서",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "밤의정원",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "앵콜콘서트",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "광림아트센터",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "ENCORE",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "TICKET_OPEN",
+					"indices": [
+						182,
+						194
+					]
+				},
+				{
+					"text": "사랑합니다",
+					"indices": [
+						195,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577156462186414000,
+					"id_str": "1577156462186414080",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMvcjvVQAAXbKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMvcjvVQAAXbKj.jpg",
+					"url": "https://t.co/75zXPgvWL7",
+					"display_url": "pic.twitter.com/75zXPgvWL7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1577156474526392320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577156462186414000,
+					"id_str": "1577156462186414080",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMvcjvVQAAXbKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMvcjvVQAAXbKj.jpg",
+					"url": "https://t.co/75zXPgvWL7",
+					"display_url": "pic.twitter.com/75zXPgvWL7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1577156474526392320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577156465600495600,
+					"id_str": "1577156465600495616",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMvcwdUAAAuyJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMvcwdUAAAuyJF.jpg",
+					"url": "https://t.co/75zXPgvWL7",
+					"display_url": "pic.twitter.com/75zXPgvWL7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1577156474526392320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577156469010505700,
+					"id_str": "1577156469010505728",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMvc9KUoAAlHQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMvc9KUoAAlHQD.jpg",
+					"url": "https://t.co/75zXPgvWL7",
+					"display_url": "pic.twitter.com/75zXPgvWL7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1577156474526392320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577156472156233700,
+					"id_str": "1577156472156233728",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FeMvdI4UoAAtA5B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeMvdI4UoAAtA5B.jpg",
+					"url": "https://t.co/75zXPgvWL7",
+					"display_url": "pic.twitter.com/75zXPgvWL7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1577156474526392320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1333,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌌2022 단독 콘서트 '밤의 정원'",
+			"url": "https://t.co/q8FfaeWXfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q8FfaeWXfm",
+							"expanded_url": "https://blog.naver.com/luciatune",
+							"display_url": "blog.naver.com/luciatune",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10973,
+			"friends_count": 0,
+			"listed_count": 160,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527257182239981569/t6Uj3vt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1661404317",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌌2022 심규선 단독 콘서트 \n&lt;밤의정원 : ENCORE&gt; \n티켓오픈 22.10.11(화) 12PM~ @예스24티켓\n공연일시 22.10.29(토) 6PM / 22.10.30(일) 5PM\n#한_밤중에_악몽의_틈에서_그대를_데려와서\n#심규선 #단독콘서트 #밤의정원 #앵콜콘서트 #티켓오픈 #광림아트센터 #ENCORE #TICKET_OPEN #사랑합니다 https://t.co/75zXPgvWL7"
+	},
+	{
 		"created_at": "Tue Oct 04 03:40:31 +0000 2022",
 		"id": 1576842497929592800,
 		"id_str": "1577141590216384512",
