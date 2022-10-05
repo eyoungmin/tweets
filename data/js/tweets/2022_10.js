@@ -1,6 +1,1595 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 05:57:12 +0000 2022",
+		"id": 1577536126960767000,
+		"id_str": "1577538375837368320",
+		"full_text": "Red Velvet SEULGI’s solo album ‘28 Reasons' tops the iTunes charts in the US and 30 regions worldwide as well as the Korean album charts, proving SEULGI’s potential and power as a solo artist! \n\nhttps://t.co/91udoVgWiT\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						220,
+						223
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						232,
+						237
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/91udoVgWiT",
+					"expanded_url": "https://bit.ly/3fHcU6y",
+					"display_url": "bit.ly/3fHcU6y",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1577536123186090000,
+		"in_reply_to_status_id_str": "1577536123186089985",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5659444,
+			"friends_count": 2,
+			"listed_count": 11347,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 617,
+		"favorite_count": 1432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red Velvet SEULGI’s solo album ‘28 Reasons' tops the iTunes charts in the US and 30 regions worldwide as well as the Korean album charts, proving SEULGI’s potential and power as a solo artist! \n\nhttps://t.co/91udoVgWiT\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons"
+	},
+	{
+		"created_at": "Wed Oct 05 05:57:12 +0000 2022",
+		"id": 1577536123186090000,
+		"id_str": "1577538375665344512",
+		"full_text": "레드벨벳 슬기, 솔로 변신 대성공! 아이튠즈 미국 등 전 세계 30개 지역 1위!\n첫 솔로 앨범 ‘28 Reasons’ 국내 음반 차트도 1위! 막강 파워 입증!\n\nhttps://t.co/91udoVhu8r\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/HmR5jM5kKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/91udoVhu8r",
+					"expanded_url": "https://bit.ly/3fHcU6y",
+					"display_url": "bit.ly/3fHcU6y",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577536067770933200,
+					"id_str": "1577536067770933249",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSIsgvaYAEp2K8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSIsgvaYAEp2K8.jpg",
+					"url": "https://t.co/HmR5jM5kKJ",
+					"display_url": "pic.twitter.com/HmR5jM5kKJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577536123186089985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577536067770933200,
+					"id_str": "1577536067770933249",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSIsgvaYAEp2K8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSIsgvaYAEp2K8.jpg",
+					"url": "https://t.co/HmR5jM5kKJ",
+					"display_url": "pic.twitter.com/HmR5jM5kKJ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577536123186089985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5659444,
+			"friends_count": 2,
+			"listed_count": 11347,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1482,
+		"favorite_count": 4171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 슬기, 솔로 변신 대성공! 아이튠즈 미국 등 전 세계 30개 지역 1위!\n첫 솔로 앨범 ‘28 Reasons’ 국내 음반 차트도 1위! 막강 파워 입증!\n\nhttps://t.co/91udoVhu8r\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/HmR5jM5kKJ"
+	},
+	{
+		"created_at": "Wed Oct 05 05:42:14 +0000 2022",
+		"id": 1577532386954612700,
+		"id_str": "1577534608781889536",
+		"full_text": "레드벨벳 슬기, 백호, 이채연이 솔로 활동으로 소식을 알렸습니다. 🥰🍁\n#레드벨벳 #슬기 #백호 #채연\n👉https://t.co/ZWohPuhDWq https://t.co/YWeq1vi8XN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "백호",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "채연",
+					"indices": [
+						54,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZWohPuhDWq",
+					"expanded_url": "https://www.marieclairekorea.com/celebrity/2022/10/solo-debut/",
+					"display_url": "marieclairekorea.com/celebrity/2022…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577532380889649200,
+					"id_str": "1577532380889649152",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSFV6CakAA9nYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSFV6CakAA9nYt.jpg",
+					"url": "https://t.co/YWeq1vi8XN",
+					"display_url": "pic.twitter.com/YWeq1vi8XN",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1577532386954612736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577532380889649200,
+					"id_str": "1577532380889649152",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSFV6CakAA9nYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSFV6CakAA9nYt.jpg",
+					"url": "https://t.co/YWeq1vi8XN",
+					"display_url": "pic.twitter.com/YWeq1vi8XN",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1577532386954612736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 570,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/iCIITYeet8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCIITYeet8",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107674,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 1287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1663123878",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 슬기, 백호, 이채연이 솔로 활동으로 소식을 알렸습니다. 🥰🍁\n#레드벨벳 #슬기 #백호 #채연\n👉https://t.co/ZWohPuhDWq https://t.co/YWeq1vi8XN"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:32 +0000 2022",
+		"id": 1577252191168913400,
+		"id_str": "1577534179629301761",
+		"full_text": "솔로로 첫 발걸음을 내디딘\n슬기의 데뷔 앨범 [28 Reasons]✨\n\n타이틀 곡 ‘28 Reasons’에서 \n슬기가 가장 좋아하는 파트는 어디일까요?\nhttps://t.co/mZpAmQG8py \n\n인용 RT로 정답을 남겨주시면\n3일 뒤, 슬기의 정답이 도착합니다❤\n\n@RVsmtown #슬기 #SEULGI\n#28Reasons https://t.co/2eelTqqEZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mZpAmQG8py",
+					"expanded_url": "http://spotify.link/je2UVr5BQtb",
+					"display_url": "spotify.link/je2UVr5BQtb",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577247642614046700,
+					"id_str": "1577247642614046720",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577247642614046720/pu/img/vwJptcH7aP331cAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577247642614046720/pu/img/vwJptcH7aP331cAo.jpg",
+					"url": "https://t.co/2eelTqqEZa",
+					"display_url": "pic.twitter.com/2eelTqqEZa",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1577252191168913409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577247642614046700,
+					"id_str": "1577247642614046720",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577247642614046720/pu/img/vwJptcH7aP331cAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577247642614046720/pu/img/vwJptcH7aP331cAo.jpg",
+					"url": "https://t.co/2eelTqqEZa",
+					"display_url": "pic.twitter.com/2eelTqqEZa",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1577252191168913409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 47480,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577247642614046720/pu/vid/320x568/lIST3HG2Q-irMEtV.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577247642614046720/pu/vid/720x1280/xiklrcAyXjwMg67t.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577247642614046720/pu/pl/JarOthQUoXn1Eq4c.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577247642614046720/pu/vid/480x852/2j0A2uP_zaf66UUA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/g8ARcwfOBL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g8ARcwfOBL",
+							"expanded_url": "https://spotify.link/dZVcBzH3Etb",
+							"display_url": "spotify.link/dZVcBzH3Etb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157202,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1662081183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 950,
+		"favorite_count": 1939,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "솔로로 첫 발걸음을 내디딘\n슬기의 데뷔 앨범 [28 Reasons]✨\n\n타이틀 곡 ‘28 Reasons’에서 \n슬기가 가장 좋아하는 파트는 어디일까요?\nhttps://t.co/mZpAmQG8py \n\n인용 RT로 정답을 남겨주시면\n3일 뒤, 슬기의 정답이 도착합니다❤\n\n@RVsmtown #슬기 #SEULGI\n#28Reasons https://t.co/2eelTqqEZa"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:27 +0000 2022",
+		"id": 1577333950418194400,
+		"id_str": "1577534157865062403",
+		"full_text": "Learn all about #SEULGI from @RVsmtown  in her brand new #KTops interview 💙 Stream her first solo album #28Reasons now 🎧 https://t.co/vtOfkAKFLO \n\n#28ReasonsWithSeulgi #RedVelvet #seulgisolo #SEULGI_28Reasons https://t.co/wfNzvMjN6e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEULGI",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "KTops",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "28ReasonsWithSeulgi",
+					"indices": [
+						147,
+						167
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "seulgisolo",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "SEULGI_28Reasons",
+					"indices": [
+						191,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vtOfkAKFLO",
+					"expanded_url": "https://dzr.lnk.to/28ReasonsTW",
+					"display_url": "dzr.lnk.to/28ReasonsTW",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577333841987076000,
+					"id_str": "1577333841987076101",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577333841987076101/pu/img/sUraGekdb-XTIhd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577333841987076101/pu/img/sUraGekdb-XTIhd6.jpg",
+					"url": "https://t.co/wfNzvMjN6e",
+					"display_url": "pic.twitter.com/wfNzvMjN6e",
+					"expanded_url": "https://twitter.com/Deezer/status/1577333950418194434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577333841987076000,
+					"id_str": "1577333841987076101",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577333841987076101/pu/img/sUraGekdb-XTIhd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577333841987076101/pu/img/sUraGekdb-XTIhd6.jpg",
+					"url": "https://t.co/wfNzvMjN6e",
+					"display_url": "pic.twitter.com/wfNzvMjN6e",
+					"expanded_url": "https://twitter.com/Deezer/status/1577333950418194434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 80000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577333841987076101/pu/vid/540x540/yX3h6f3P8Eq4b3a4.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577333841987076101/pu/vid/720x720/59g3OVLJc_1XPF5U.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577333841987076101/pu/vid/320x320/3JxJy9MI7tpQ9u7j.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577333841987076101/pu/pl/e_q8655KWK2MnzLx.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "#ThePowerofMusic 🎶 \n\nNeed help? Head to @DeezerHelp.",
+			"url": "https://t.co/RmIhu6jBp9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu6jBp9",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247570,
+			"friends_count": 1095,
+			"listed_count": 1076,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 15491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 958,
+		"favorite_count": 2445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn all about #SEULGI from @RVsmtown  in her brand new #KTops interview 💙 Stream her first solo album #28Reasons now 🎧 https://t.co/vtOfkAKFLO \n\n#28ReasonsWithSeulgi #RedVelvet #seulgisolo #SEULGI_28Reasons https://t.co/wfNzvMjN6e"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:18 +0000 2022",
+		"id": 1577524102780563500,
+		"id_str": "1577534123849224192",
+		"full_text": "Yerin Baek X BEAKER, and a pop-up store are to come. More details and info will follow soon so keep looking out.\n\n#백예린 #yerinbaek #백예린10주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "백예린10주년",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577524100599525400,
+		"in_reply_to_status_id_str": "1577524100599525377",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48041,
+			"friends_count": 2,
+			"listed_count": 236,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Yerin Baek X BEAKER, and a pop-up store are to come. More details and info will follow soon so keep looking out.\n\n#백예린 #yerinbaek #백예린10주년"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:16 +0000 2022",
+		"id": 1577524100599525400,
+		"id_str": "1577534115007561729",
+		"full_text": "Today, October 5th 2022, marks the 10th anniversary of Yerin’s debut. For all of you who walked with us on this journey, we prepared little gifts - Yerin’s solo releases on vinyl, official merch:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577524098359791600,
+		"in_reply_to_status_id_str": "1577524098359791616",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48041,
+			"friends_count": 2,
+			"listed_count": 236,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Today, October 5th 2022, marks the 10th anniversary of Yerin’s debut. For all of you who walked with us on this journey, we prepared little gifts - Yerin’s solo releases on vinyl, official merch:"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:12 +0000 2022",
+		"id": 1577524098359791600,
+		"id_str": "1577534097706082304",
+		"full_text": "💝 백예린 솔로 음반 바이닐 판매\n💝 'Yerin Baek X BEAKER' 머천다이즈 판매\n💝 10주년 팝업스토어 오픈\n⠀\n자세한 내용과 타임라인은 추후 공개되니 많은 기대 바라며, 오늘은 예린양을 위해 마음껏 축하해 주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577524095297941500,
+		"in_reply_to_status_id_str": "1577524095297941504",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48041,
+			"friends_count": 2,
+			"listed_count": 236,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💝 백예린 솔로 음반 바이닐 판매\n💝 'Yerin Baek X BEAKER' 머천다이즈 판매\n💝 10주년 팝업스토어 오픈\n⠀\n자세한 내용과 타임라인은 추후 공개되니 많은 기대 바라며, 오늘은 예린양을 위해 마음껏 축하해 주세요!"
+	},
+	{
+		"created_at": "Wed Oct 05 05:40:10 +0000 2022",
+		"id": 1577524095297941500,
+		"id_str": "1577534088826716166",
+		"full_text": "Yerin Baek 10th Anniversary \n[You're the only one who saw my yesterday]\n⠀\n2022년 10월 5일, 오늘은 아티스트 백예린의 데뷔 10주년입니다. 지금의 백예린이 있기까지 긴 여정을 함께해 준 팬분들을 위해 아티스트와 블루바이닐이 준비한 선물을 소개합니다. https://t.co/81AAeCwo73",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577524066281738200,
+					"id_str": "1577524066281738240",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR9x7taUAA95jy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR9x7taUAA95jy.jpg",
+					"url": "https://t.co/81AAeCwo73",
+					"display_url": "pic.twitter.com/81AAeCwo73",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1577524095297941504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577524066281738200,
+					"id_str": "1577524066281738240",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FeR9x7taUAA95jy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeR9x7taUAA95jy.jpg",
+					"url": "https://t.co/81AAeCwo73",
+					"display_url": "pic.twitter.com/81AAeCwo73",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1577524095297941504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48041,
+			"friends_count": 2,
+			"listed_count": 236,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 1153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yerin Baek 10th Anniversary \n[You're the only one who saw my yesterday]\n⠀\n2022년 10월 5일, 오늘은 아티스트 백예린의 데뷔 10주년입니다. 지금의 백예린이 있기까지 긴 여정을 함께해 준 팬분들을 위해 아티스트와 블루바이닐이 준비한 선물을 소개합니다. https://t.co/81AAeCwo73"
+	},
+	{
 		"created_at": "Wed Oct 05 04:40:10 +0000 2022",
 		"id": 1577508883454513200,
 		"id_str": "1577518988808126472",
