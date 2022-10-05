@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 01:40:10 +0000 2022",
+		"id": 1577464856009023500,
+		"id_str": "1577473689091821570",
+		"full_text": "[#희진 / #HeeJin] 희진 솔로 6주년 기념! 탐구 138화 쯤.. 그 때 그 희진…\n5년간 존중하며 버틴 오빛들 칭찬해여👍\n\n#이달의소녀 #LOONA https://t.co/gfTKGlJ87b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577464849805676500,
+					"id_str": "1577464849805676544",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRH7FJVEAAEQzi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRH7FJVEAAEQzi.jpg",
+					"url": "https://t.co/gfTKGlJ87b",
+					"display_url": "pic.twitter.com/gfTKGlJ87b",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1577464856009023488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577464849805676500,
+					"id_str": "1577464849805676544",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRH7FJVEAAEQzi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRH7FJVEAAEQzi.jpg",
+					"url": "https://t.co/gfTKGlJ87b",
+					"display_url": "pic.twitter.com/gfTKGlJ87b",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1577464856009023488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577464849801494500,
+					"id_str": "1577464849801494530",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRH7FIVQAIu6xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRH7FIVQAIu6xZ.jpg",
+					"url": "https://t.co/gfTKGlJ87b",
+					"display_url": "pic.twitter.com/gfTKGlJ87b",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1577464856009023488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577464849801412600,
+					"id_str": "1577464849801412608",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FeRH7FIUAAAslfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeRH7FIUAAAslfG.jpg",
+					"url": "https://t.co/gfTKGlJ87b",
+					"display_url": "pic.twitter.com/gfTKGlJ87b",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1577464856009023488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 983934,
+			"friends_count": 3,
+			"listed_count": 8973,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2914,
+		"favorite_count": 9541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 희진 솔로 6주년 기념! 탐구 138화 쯤.. 그 때 그 희진…\n5년간 존중하며 버틴 오빛들 칭찬해여👍\n\n#이달의소녀 #LOONA https://t.co/gfTKGlJ87b"
+	},
+	{
 		"created_at": "Wed Oct 05 00:34:08 +0000 2022",
 		"id": 1577455712875458600,
 		"id_str": "1577457072320393216",
