@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 09:40:18 +0000 2022",
+		"id": 1577587292231078000,
+		"id_str": "1577594520312717312",
+		"full_text": "best bossssss ❤️ https://t.co/C1rJIj0MDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1rJIj0MDE",
+					"expanded_url": "https://twitter.com/ghoodmusic_/status/1577586949850042368",
+					"display_url": "twitter.com/ghoodmusic_/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90794,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577586949850042400,
+		"quoted_status_id_str": "1577586949850042368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C1rJIj0MDE",
+			"expanded": "https://twitter.com/ghoodmusic_/status/1577586949850042368",
+			"display": "twitter.com/ghoodmusic_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 05 09:10:13 +0000 2022",
+			"id": 1577586949850042400,
+			"id_str": "1577586949850042368",
+			"full_text": "@DrunkenTigerJK @nakedBIBI backstage :))) https://t.co/vcc9mvWGgU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrunkenTigerJK",
+						"name": "아빠 최고 VITAMIN D",
+						"id": 47283664,
+						"id_str": "47283664",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							16,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577586941327216600,
+						"id_str": "1577586941327216640",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/FeS29vgakAAGuxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeS29vgakAAGuxE.jpg",
+						"url": "https://t.co/vcc9mvWGgU",
+						"display_url": "pic.twitter.com/vcc9mvWGgU",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1577586949850042368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1014,
+								"h": 1859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577586941327216600,
+						"id_str": "1577586941327216640",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/FeS29vgakAAGuxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeS29vgakAAGuxE.jpg",
+						"url": "https://t.co/vcc9mvWGgU",
+						"display_url": "pic.twitter.com/vcc9mvWGgU",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1577586949850042368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1014,
+								"h": 1859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 47283664,
+			"in_reply_to_user_id_str": "47283664",
+			"in_reply_to_screen_name": "DrunkenTigerJK",
+			"user": {
+				"id": 1467799012216508400,
+				"id_str": "1467799012216508419",
+				"name": "Feel Ghood Music",
+				"screen_name": "gHoodmusic_",
+				"location": "Worldwide",
+				"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+				"url": "https://t.co/3TdHUbAG7t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3TdHUbAG7t",
+								"expanded_url": "http://88rising.lnk.to/BestLover",
+								"display_url": "88rising.lnk.to/BestLover",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1340,
+				"friends_count": 6,
+				"listed_count": 13,
+				"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 37,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "best bossssss ❤️ https://t.co/C1rJIj0MDE"
+	},
+	{
+		"created_at": "Wed Oct 05 09:40:10 +0000 2022",
+		"id": 1577584031335866400,
+		"id_str": "1577594485957074945",
+		"full_text": "funnnn with my fam https://t.co/QqOZAEom40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577583988700770300,
+					"id_str": "1577583988700770304",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577583988700770304/pu/img/DwhOnzE3EOdVQ9UO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577583988700770304/pu/img/DwhOnzE3EOdVQ9UO.jpg",
+					"url": "https://t.co/QqOZAEom40",
+					"display_url": "pic.twitter.com/QqOZAEom40",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1577584031335866370/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577583988700770300,
+					"id_str": "1577583988700770304",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577583988700770304/pu/img/DwhOnzE3EOdVQ9UO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577583988700770304/pu/img/DwhOnzE3EOdVQ9UO.jpg",
+					"url": "https://t.co/QqOZAEom40",
+					"display_url": "pic.twitter.com/QqOZAEom40",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1577584031335866370/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 23366,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577583988700770304/pu/vid/480x852/uW4Zps4eU8YAKzRR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577583988700770304/pu/pl/80pr8PIxHlqwMwzr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577583988700770304/pu/vid/720x1280/AvdOdVOAyllPqpEF.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577583988700770304/pu/vid/320x568/IcFNAZYWuw_gUVxW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90794,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "funnnn with my fam https://t.co/QqOZAEom40"
+	},
+	{
+		"created_at": "Wed Oct 05 09:29:42 +0000 2022",
+		"id": 1577584388300329000,
+		"id_str": "1577591852147933184",
+		"full_text": "셀럽들의 스니커즈 스타일링 궁금하다고? 푸마부터 반스, 나이키까지 아이돌이 픽한 아이템 추천.\n#선미 #은하 @VIVIZ_official #효연 @GirlsGeneration\n\nhttps://t.co/4ivlrB3LaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "은하",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						77,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VIVIZ_official",
+					"name": "VIVIZ",
+					"id": 1441319485638463500,
+					"id_str": "1441319485638463495",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4ivlrB3LaS",
+					"expanded_url": "https://www.allurekorea.com/?p=143808&ddw=124760&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=143808&ddw=…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38186,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "셀럽들의 스니커즈 스타일링 궁금하다고? 푸마부터 반스, 나이키까지 아이돌이 픽한 아이템 추천.\n#선미 #은하 @VIVIZ_official #효연 @GirlsGeneration\n\nhttps://t.co/4ivlrB3LaS"
+	},
+	{
 		"created_at": "Wed Oct 05 08:40:18 +0000 2022",
 		"id": 1577571415586263000,
 		"id_str": "1577579419576705024",
