@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 08:40:18 +0000 2022",
+		"id": 1577571415586263000,
+		"id_str": "1577579419576705024",
+		"full_text": "#Y #Y_ISSUE07 #HI_Y \n\n기대되는 신인! '트리플에스' 쓰리연즈의 첫 화보 현장을 공개합니다\n\n📲: https://t.co/bfFkxgvcWg\n\n#Ymagazine #와이매거진 #트리플에스 #TRIPLES #김유연 #김채연 #윤서연 @triplescosmos https://t.co/jDXMDPA2sx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Y",
+					"indices": [
+						0,
+						2
+					]
+				},
+				{
+					"text": "Y_ISSUE07",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "HI_Y",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "Ymagazine",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "와이매거진",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "TRIPLES",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "김유연",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "김채연",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "윤서연",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "triplescosmos",
+					"name": "tripleS official",
+					"id": 1509037477369024500,
+					"id_str": "1509037477369024517",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bfFkxgvcWg",
+					"expanded_url": "https://www.instagram.com/p/CjUxZgrLwEi/",
+					"display_url": "instagram.com/p/CjUxZgrLwEi/",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577571154897776600,
+					"id_str": "1577571154897776641",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577571154897776641/pu/img/YjUWdCF7iTdiAlkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577571154897776641/pu/img/YjUWdCF7iTdiAlkV.jpg",
+					"url": "https://t.co/jDXMDPA2sx",
+					"display_url": "pic.twitter.com/jDXMDPA2sx",
+					"expanded_url": "https://twitter.com/ymag_kr/status/1577571415586263040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577571154897776600,
+					"id_str": "1577571154897776641",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577571154897776641/pu/img/YjUWdCF7iTdiAlkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577571154897776641/pu/img/YjUWdCF7iTdiAlkV.jpg",
+					"url": "https://t.co/jDXMDPA2sx",
+					"display_url": "pic.twitter.com/jDXMDPA2sx",
+					"expanded_url": "https://twitter.com/ymag_kr/status/1577571415586263040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 26192,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577571154897776641/pu/vid/480x600/TKAS-pu-7gnu3T6v.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577571154897776641/pu/vid/720x900/86acKnMNAsOYjN7N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577571154897776641/pu/pl/UxL8qpzYtRzse3_d.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577571154897776641/pu/vid/320x400/uqbwIjbQAnAyxtl1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1374623817591517200,
+			"id_str": "1374623817591517188",
+			"name": "Y MAGAZINE",
+			"screen_name": "ymag_kr",
+			"location": "와이매거진 유튜브 보러가기👉",
+			"description": "당신을 위한 새로운 큐레이션 플랫폼 #YouthIsYours",
+			"url": "https://t.co/xvfUk2PN1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xvfUk2PN1V",
+							"expanded_url": "http://linktr.ee/ymagzine",
+							"display_url": "linktr.ee/ymagzine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3432,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Wed Mar 24 07:27:19 +0000 2021",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473852513573285891/_0sHzCjr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473852513573285891/_0sHzCjr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1374623817591517188/1663827177",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Y #Y_ISSUE07 #HI_Y \n\n기대되는 신인! '트리플에스' 쓰리연즈의 첫 화보 현장을 공개합니다\n\n📲: https://t.co/bfFkxgvcWg\n\n#Ymagazine #와이매거진 #트리플에스 #TRIPLES #김유연 #김채연 #윤서연 @triplescosmos https://t.co/jDXMDPA2sx"
+	},
+	{
 		"created_at": "Wed Oct 05 05:57:12 +0000 2022",
 		"id": 1577536126960767000,
 		"id_str": "1577538375837368320",
