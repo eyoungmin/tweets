@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 15:40:10 +0000 2022",
+		"id": 1577674987246420000,
+		"id_str": "1577685083472936960",
+		"full_text": "[🎂] Happy HANNI day\n\n하니의 생일을 축하합니다💞\nHAPPY BIRTHDAY TO HANNI\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니 https://t.co/OSuST1EgD1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY_HANNI_DAY",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577543839710990300,
+					"id_str": "1577543839710990336",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577543839710990336/img/Ag7wfRI0-aUsFzpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577543839710990336/img/Ag7wfRI0-aUsFzpU.jpg",
+					"url": "https://t.co/OSuST1EgD1",
+					"display_url": "pic.twitter.com/OSuST1EgD1",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1577674987246419968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577543839710990300,
+					"id_str": "1577543839710990336",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1577543839710990336/img/Ag7wfRI0-aUsFzpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1577543839710990336/img/Ag7wfRI0-aUsFzpU.jpg",
+					"url": "https://t.co/OSuST1EgD1",
+					"display_url": "pic.twitter.com/OSuST1EgD1",
+					"expanded_url": "https://twitter.com/NewJeans_ADOR/status/1577674987246419968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34916,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1577543839710990336/pl/OclK90xqbIyDf1F6.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577543839710990336/vid/720x720/4x_rX91uMJ6xFI-1.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577543839710990336/vid/320x320/FkRswRxVSuwCnqid.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577543839710990336/vid/540x540/7TzIBBzfS6c0fsFN.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546133,
+			"friends_count": 4,
+			"listed_count": 1711,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15227,
+		"favorite_count": 27793,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎂] Happy HANNI day\n\n하니의 생일을 축하합니다💞\nHAPPY BIRTHDAY TO HANNI\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니 https://t.co/OSuST1EgD1"
+	},
+	{
 		"created_at": "Wed Oct 05 14:40:10 +0000 2022",
 		"id": 1577645055506096000,
 		"id_str": "1577669983055773697",
