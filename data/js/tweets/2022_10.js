@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 10:40:23 +0000 2022",
+		"id": 1577604849041932300,
+		"id_str": "1577609641713963008",
+		"full_text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#쇼챔피언 에서 1위를 수상하였습니다!🥇🎊\n10월의 시작도 행복하게 만들어준 블링크 고마워요 🖤💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8584378,
+			"friends_count": 9,
+			"listed_count": 9315,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2368,
+		"favorite_count": 6740,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#쇼챔피언 에서 1위를 수상하였습니다!🥇🎊\n10월의 시작도 행복하게 만들어준 블링크 고마워요 🖤💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
+		"created_at": "Wed Oct 05 10:40:19 +0000 2022",
+		"id": 1577603994805239800,
+		"id_str": "1577609624387289088",
+		"full_text": "10월 5일 쇼챔피언 '챔피언송'은? 'BLACKPINK'의 &lt;Shut Down&gt;입니다! 3주 연속 굳건한 인기를 보여주고 있는 'BLACKPINK'의 챔피언송 수상을 진심으로 축하드립니다 🖤💘 https://t.co/6tVubRNlj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577603960248365000,
+					"id_str": "1577603960248365056",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTGcX7acAABvoX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTGcX7acAABvoX.jpg",
+					"url": "https://t.co/6tVubRNlj2",
+					"display_url": "pic.twitter.com/6tVubRNlj2",
+					"expanded_url": "https://twitter.com/showchampion1/status/1577603994805239808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577603960248365000,
+					"id_str": "1577603960248365056",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTGcX7acAABvoX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTGcX7acAABvoX.jpg",
+					"url": "https://t.co/6tVubRNlj2",
+					"display_url": "pic.twitter.com/6tVubRNlj2",
+					"expanded_url": "https://twitter.com/showchampion1/status/1577603994805239808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 오후 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1193420,
+			"friends_count": 220,
+			"listed_count": 2197,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1418,
+		"favorite_count": 4408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 5일 쇼챔피언 '챔피언송'은? 'BLACKPINK'의 &lt;Shut Down&gt;입니다! 3주 연속 굳건한 인기를 보여주고 있는 'BLACKPINK'의 챔피언송 수상을 진심으로 축하드립니다 🖤💘 https://t.co/6tVubRNlj2"
+	},
+	{
+		"created_at": "Wed Oct 05 10:40:16 +0000 2022",
+		"id": 1577599590962020400,
+		"id_str": "1577609611288449024",
+		"full_text": "💫D-10💫\n#BehindTheScenes with #GoWon\n\n반짝이는 이 순간, 진짜 나를 보게 돼🦋\nWhen the lights flash, you see the real me🦋\n\n🔗ONLINE🎫👉https://t.co/6uaErxrLi9\n🔗OFFLINE🎫👉https://t.co/mZlcHsE33I \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_10 https://t.co/kzoHMYjyzX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						7,
+						23
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"text": "D_10",
+					"indices": [
+						227,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6uaErxrLi9",
+					"expanded_url": "https://mmt.fans/bFb4",
+					"display_url": "mmt.fans/bFb4",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsE33I",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577599586180399000,
+					"id_str": "1577599586180399106",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTCdxQWAAIMwo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTCdxQWAAIMwo_.jpg",
+					"url": "https://t.co/kzoHMYjyzX",
+					"display_url": "pic.twitter.com/kzoHMYjyzX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1577599590962020355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577599586180399000,
+					"id_str": "1577599586180399106",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTCdxQWAAIMwo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTCdxQWAAIMwo_.jpg",
+					"url": "https://t.co/kzoHMYjyzX",
+					"display_url": "pic.twitter.com/kzoHMYjyzX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1577599590962020355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149392,
+			"friends_count": 104,
+			"listed_count": 328,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 656,
+		"favorite_count": 2423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-10💫\n#BehindTheScenes with #GoWon\n\n반짝이는 이 순간, 진짜 나를 보게 돼🦋\nWhen the lights flash, you see the real me🦋\n\n🔗ONLINE🎫👉https://t.co/6uaErxrLi9\n🔗OFFLINE🎫👉https://t.co/mZlcHsE33I \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_10 https://t.co/kzoHMYjyzX"
+	},
+	{
 		"created_at": "Wed Oct 05 09:40:18 +0000 2022",
 		"id": 1577587292231078000,
 		"id_str": "1577594520312717312",
