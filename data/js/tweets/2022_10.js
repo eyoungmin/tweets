@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 00:34:08 +0000 2022",
+		"id": 1577455712875458600,
+		"id_str": "1577457072320393216",
+		"full_text": "흑백 필름 속에서 걸어 나오는 듯한 샤넬 2023 S/S 레디 투 웨어 쇼. 패션 시네마의 현장에서 샤넬의 뮤즈, 제니를 만났습니다. \n\n#샤넬 #CHANEL #제니 #JENNIE #보그코리아 #VOGUEKOREA https://t.co/niGQejfMFp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샤넬",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "CHANEL",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "보그코리아",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "VOGUEKOREA",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577455559510757400,
+					"id_str": "1577455559510757376",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577455559510757376/pu/img/wy4AO1bdje81UCZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577455559510757376/pu/img/wy4AO1bdje81UCZw.jpg",
+					"url": "https://t.co/niGQejfMFp",
+					"display_url": "pic.twitter.com/niGQejfMFp",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1577455712875458561/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577455559510757400,
+					"id_str": "1577455559510757376",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577455559510757376/pu/img/wy4AO1bdje81UCZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577455559510757376/pu/img/wy4AO1bdje81UCZw.jpg",
+					"url": "https://t.co/niGQejfMFp",
+					"display_url": "pic.twitter.com/niGQejfMFp",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1577455712875458561/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577455559510757376/pu/vid/720x900/gPvpjVZg8gGlDNeA.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577455559510757376/pu/vid/480x600/qXTQHXX73E_HywBA.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577455559510757376/pu/vid/320x400/NDcuFlvmFnk_3BQG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577455559510757376/pu/pl/lcMDvYLSY8w3gXOS.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190885,
+			"friends_count": 0,
+			"listed_count": 421,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1663232838",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 1726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흑백 필름 속에서 걸어 나오는 듯한 샤넬 2023 S/S 레디 투 웨어 쇼. 패션 시네마의 현장에서 샤넬의 뮤즈, 제니를 만났습니다. \n\n#샤넬 #CHANEL #제니 #JENNIE #보그코리아 #VOGUEKOREA https://t.co/niGQejfMFp"
+	},
+	{
 		"created_at": "Tue Oct 04 20:40:22 +0000 2022",
 		"id": 1577310222019956700,
 		"id_str": "1577398243385819138",
@@ -233,7 +482,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
