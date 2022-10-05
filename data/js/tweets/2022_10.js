@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 11:40:12 +0000 2022",
+		"id": 1577615533717221400,
+		"id_str": "1577624694316044290",
+		"full_text": "#오늘의_자우림\n겨울 EP를 위한 스튜디오 생활이 \n시작되었습니다. \n#우림이밴드 화이팅!!!\n🔥🔥🔥🔥🔥\n#녹음실_DAY_01\n#오늘의주인공은드러머 https://t.co/c6oiY3L5J6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "우림이밴드",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "녹음실_DAY_01",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"text": "오늘의주인공은드러머",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577615507221409800,
+					"id_str": "1577615507221409793",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTQ8fwUcAE646l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTQ8fwUcAE646l.jpg",
+					"url": "https://t.co/c6oiY3L5J6",
+					"display_url": "pic.twitter.com/c6oiY3L5J6",
+					"expanded_url": "https://twitter.com/love_yuna/status/1577615533717221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577615507221409800,
+					"id_str": "1577615507221409793",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTQ8fwUcAE646l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTQ8fwUcAE646l.jpg",
+					"url": "https://t.co/c6oiY3L5J6",
+					"display_url": "pic.twitter.com/c6oiY3L5J6",
+					"expanded_url": "https://twitter.com/love_yuna/status/1577615533717221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577615507200479200,
+					"id_str": "1577615507200479232",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTQ8frVEAAnhI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTQ8frVEAAnhI3.jpg",
+					"url": "https://t.co/c6oiY3L5J6",
+					"display_url": "pic.twitter.com/c6oiY3L5J6",
+					"expanded_url": "https://twitter.com/love_yuna/status/1577615533717221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577615507200434200,
+					"id_str": "1577615507200434177",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTQ8frUYAELdjl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTQ8frUYAELdjl.jpg",
+					"url": "https://t.co/c6oiY3L5J6",
+					"display_url": "pic.twitter.com/c6oiY3L5J6",
+					"expanded_url": "https://twitter.com/love_yuna/status/1577615533717221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577615507233984500,
+					"id_str": "1577615507233984513",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTQ8fzUUAEu4hG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTQ8fzUUAEu4hG.jpg",
+					"url": "https://t.co/c6oiY3L5J6",
+					"display_url": "pic.twitter.com/c6oiY3L5J6",
+					"expanded_url": "https://twitter.com/love_yuna/status/1577615533717221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274916,
+			"friends_count": 594,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림\n겨울 EP를 위한 스튜디오 생활이 \n시작되었습니다. \n#우림이밴드 화이팅!!!\n🔥🔥🔥🔥🔥\n#녹음실_DAY_01\n#오늘의주인공은드러머 https://t.co/c6oiY3L5J6"
+	},
+	{
 		"created_at": "Wed Oct 05 10:40:23 +0000 2022",
 		"id": 1577604849041932300,
 		"id_str": "1577609641713963008",
