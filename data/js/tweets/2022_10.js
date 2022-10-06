@@ -1,6 +1,1531 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 06:45:44 +0000 2022",
+		"id": 1577909017556521000,
+		"id_str": "1577912976828407808",
+		"full_text": "TODAY's LINEUP💗\nHezz, CSR, bugAboo, DreamNote, ALICE, Rocket Punch, KARD, Nicole, YUBIN, f(x), Weki Meki, LOONA, Dreamcatcher, YUJU, GFRIEND, (G)I-DLE, NMIXX, LE SSERAFIM, JO YURI, IZ*ONE, aespa https://t.co/QLBFLH2IST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLBFLH2IST",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848933128187904",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨ 🎶 24/7 K-POP LIVE STREAMING 💕 POPPIN' WEDNESDAY 📌 SHOW CHAMPION, 6PM KST 📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133137,
+			"friends_count": 340,
+			"listed_count": 413,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1663553564",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577848933128188000,
+		"quoted_status_id_str": "1577848933128187904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QLBFLH2IST",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1577848933128187904",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 02:31:15 +0000 2022",
+			"id": 1577848933128188000,
+			"id_str": "1577848933128187904",
+			"full_text": "Today's K-Bop Playlist👋\n⏰PM 16:00~17:30\n\nHAPPY BIRTHDAY to YOU~!(❁´◡`❁)🎉 \nGirl group born in October!\n\n▶ https://t.co/M6nCjKItOd\nSubscribe to ALL THE K-POP for K-Bop Playlist notifs! https://t.co/xz139EXolR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M6nCjKItOd",
+						"expanded_url": "https://youtu.be/ZpshaKm0Tb8",
+						"display_url": "youtu.be/ZpshaKm0Tb8",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1577848877297770500,
+						"id_str": "1577848877297770496",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FeWlMbCVIAAccMH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeWlMbCVIAAccMH.jpg",
+						"url": "https://t.co/xz139EXolR",
+						"display_url": "pic.twitter.com/xz139EXolR",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848933128187904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577848877297770500,
+						"id_str": "1577848877297770496",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/FeWlMbCVIAAccMH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeWlMbCVIAAccMH.jpg",
+						"url": "https://t.co/xz139EXolR",
+						"display_url": "pic.twitter.com/xz139EXolR",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848933128187904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1577848928510222300,
+			"in_reply_to_status_id_str": "1577848928510222336",
+			"in_reply_to_user_id": 744928926,
+			"in_reply_to_user_id_str": "744928926",
+			"in_reply_to_screen_name": "ALLTHEKPOP",
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨ 🎶 24/7 K-POP LIVE STREAMING 💕 POPPIN' WEDNESDAY 📌 SHOW CHAMPION, 6PM KST 📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133137,
+				"friends_count": 340,
+				"listed_count": 413,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9913,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1663553564",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TODAY's LINEUP💗\nHezz, CSR, bugAboo, DreamNote, ALICE, Rocket Punch, KARD, Nicole, YUBIN, f(x), Weki Meki, LOONA, Dreamcatcher, YUJU, GFRIEND, (G)I-DLE, NMIXX, LE SSERAFIM, JO YURI, IZ*ONE, aespa https://t.co/QLBFLH2IST"
+	},
+	{
+		"created_at": "Thu Oct 06 06:45:37 +0000 2022",
+		"id": 1577909015987818500,
+		"id_str": "1577912946801496064",
+		"full_text": "오늘의 라인업💗\n헤즈, 첫사랑, 버가부, 드림노트, 앨리스, 로켓펀치, 카드, 니콜, 유빈, 에프엑스, 위키미키, 이달의 소녀, 드림캐쳐, 유주, 여자친구, (여자)아이들, 엔믹스, 르세라핌, 조유리, 아이즈원, 에스파 https://t.co/SX1xzS8M93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SX1xzS8M93",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848928510222336",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨ 🎶 24/7 K-POP LIVE STREAMING 💕 POPPIN' WEDNESDAY 📌 SHOW CHAMPION, 6PM KST 📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133137,
+			"friends_count": 340,
+			"listed_count": 413,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1663553564",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577848928510222300,
+		"quoted_status_id_str": "1577848928510222336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SX1xzS8M93",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1577848928510222336",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 02:31:14 +0000 2022",
+			"id": 1577848928510222300,
+			"id_str": "1577848928510222336",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 16:00~17:30\n\n눈부시게✨ 따스하고 다정한 \n가을 햇살을 닮은 10월생 여자아이돌과 함께 해요 (❁´◡`❁)🎉   \n  \n▶ https://t.co/M6nCjKItOd\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/VAVwawLTTQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M6nCjKItOd",
+						"expanded_url": "https://youtu.be/ZpshaKm0Tb8",
+						"display_url": "youtu.be/ZpshaKm0Tb8",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1577848849376239600,
+						"id_str": "1577848849376239616",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FeWlKzBUYAAHelQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeWlKzBUYAAHelQ.jpg",
+						"url": "https://t.co/VAVwawLTTQ",
+						"display_url": "pic.twitter.com/VAVwawLTTQ",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848928510222336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577848849376239600,
+						"id_str": "1577848849376239616",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/FeWlKzBUYAAHelQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeWlKzBUYAAHelQ.jpg",
+						"url": "https://t.co/VAVwawLTTQ",
+						"display_url": "pic.twitter.com/VAVwawLTTQ",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1577848928510222336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "ALL THE K-POP 올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "✨ALL about K-POP, ALL THE K-POP✨ 🎶 24/7 K-POP LIVE STREAMING 💕 POPPIN' WEDNESDAY 📌 SHOW CHAMPION, 6PM KST 📌 WEEKLY IDOL, 7:30PM KST",
+				"url": "https://t.co/0kbjbCne8R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCne8R",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133137,
+				"friends_count": 340,
+				"listed_count": 413,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9913,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1663553564",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업💗\n헤즈, 첫사랑, 버가부, 드림노트, 앨리스, 로켓펀치, 카드, 니콜, 유빈, 에프엑스, 위키미키, 이달의 소녀, 드림캐쳐, 유주, 여자친구, (여자)아이들, 엔믹스, 르세라핌, 조유리, 아이즈원, 에스파 https://t.co/SX1xzS8M93"
+	},
+	{
+		"created_at": "Thu Oct 06 06:40:33 +0000 2022",
+		"id": 1577906451204681700,
+		"id_str": "1577911672987160580",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SPOILER \n\nOctober has finally come!\nBLINKs, are you ready for the BLACKPINK WORLD TOUR [BORN PINK]?\n\nOfficial World Tour Website\n▶https://t.co/IjWlQFTzKL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SPOILER #YG https://t.co/afG5G1n51D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "SPOILER",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						225,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IjWlQFTzKL",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577906422956044300,
+					"id_str": "1577906422956044288",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXZiBUaMAAAHkp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXZiBUaMAAAHkp.jpg",
+					"url": "https://t.co/afG5G1n51D",
+					"display_url": "pic.twitter.com/afG5G1n51D",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1577906451204681729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577906422956044300,
+					"id_str": "1577906422956044288",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXZiBUaMAAAHkp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXZiBUaMAAAHkp.jpg",
+					"url": "https://t.co/afG5G1n51D",
+					"display_url": "pic.twitter.com/afG5G1n51D",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1577906451204681729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577906422981218300,
+					"id_str": "1577906422981218304",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXZiBaaUAA6RIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXZiBaaUAA6RIH.jpg",
+					"url": "https://t.co/afG5G1n51D",
+					"display_url": "pic.twitter.com/afG5G1n51D",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1577906451204681729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7661406,
+			"friends_count": 0,
+			"listed_count": 7793,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7267,
+		"favorite_count": 19069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SPOILER \n\nOctober has finally come!\nBLINKs, are you ready for the BLACKPINK WORLD TOUR [BORN PINK]?\n\nOfficial World Tour Website\n▶https://t.co/IjWlQFTzKL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SPOILER #YG https://t.co/afG5G1n51D"
+	},
+	{
+		"created_at": "Thu Oct 06 06:40:27 +0000 2022",
+		"id": 1577902424530260000,
+		"id_str": "1577911647355768833",
+		"full_text": "\"파리를 홀렸다\"…에스파, K팝 대세의 위엄\n\nK-pop stars aespa captivates the crowd in Paris\n\nhttps://t.co/KBH7o13xx8\n\n#aespa #æspa #에스파 https://t.co/vgFDa7KHmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KBH7o13xx8",
+					"expanded_url": "https://bit.ly/3SHHrj8",
+					"display_url": "bit.ly/3SHHrj8",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577902419731959800,
+					"id_str": "1577902419731959808",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXV5AJaUAAYjT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXV5AJaUAAYjT5.jpg",
+					"url": "https://t.co/vgFDa7KHmN",
+					"display_url": "pic.twitter.com/vgFDa7KHmN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1577902424530259968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 691,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 691,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577902419731959800,
+					"id_str": "1577902419731959808",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXV5AJaUAAYjT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXV5AJaUAAYjT5.jpg",
+					"url": "https://t.co/vgFDa7KHmN",
+					"display_url": "pic.twitter.com/vgFDa7KHmN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1577902424530259968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 691,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 691,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3201298,
+			"friends_count": 2,
+			"listed_count": 9567,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3265,
+		"favorite_count": 11232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"파리를 홀렸다\"…에스파, K팝 대세의 위엄\n\nK-pop stars aespa captivates the crowd in Paris\n\nhttps://t.co/KBH7o13xx8\n\n#aespa #æspa #에스파 https://t.co/vgFDa7KHmN"
+	},
+	{
+		"created_at": "Thu Oct 06 06:40:22 +0000 2022",
+		"id": 1577901544787296300,
+		"id_str": "1577911625801154562",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SPOILER \n\nOctober has finally come!\nBLINKs, are you ready for the BLACKPINK WORLD TOUR [BORN PINK]?\n\nOfficial World Tour Website\n▶https://t.co/uYjzvLPxN9\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SPOILER #YG https://t.co/61YMpojjOF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "SPOILER",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						225,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uYjzvLPxN9",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577898617997734000,
+					"id_str": "1577898617997733889",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXSbtlVsAEoF-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXSbtlVsAEoF-A.jpg",
+					"url": "https://t.co/61YMpojjOF",
+					"display_url": "pic.twitter.com/61YMpojjOF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1577901544787296258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577898617997734000,
+					"id_str": "1577898617997733889",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXSbtlVsAEoF-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXSbtlVsAEoF-A.jpg",
+					"url": "https://t.co/61YMpojjOF",
+					"display_url": "pic.twitter.com/61YMpojjOF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1577901544787296258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577898638428147700,
+					"id_str": "1577898638428147712",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXSc5sVEAAP9fy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXSc5sVEAAP9fy.jpg",
+					"url": "https://t.co/61YMpojjOF",
+					"display_url": "pic.twitter.com/61YMpojjOF",
+					"expanded_url": "https://twitter.com/ygent_official/status/1577901544787296258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8966499,
+			"friends_count": 35,
+			"listed_count": 9871,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6651,
+		"favorite_count": 18053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SPOILER \n\nOctober has finally come!\nBLINKs, are you ready for the BLACKPINK WORLD TOUR [BORN PINK]?\n\nOfficial World Tour Website\n▶https://t.co/uYjzvLPxN9\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SPOILER #YG https://t.co/61YMpojjOF"
+	},
+	{
+		"created_at": "Thu Oct 06 06:40:18 +0000 2022",
+		"id": 1577901471026356200,
+		"id_str": "1577911608571006976",
+		"full_text": "퍼플방 서연이와 지우의 라이브💜\n오늘 저녁 10시 함께해주세요! \n\nPurple room’s SeoYeon and JiWoo are going LIVE💜\nDon’t miss out on their LIVE tonight(Oct 4th) at 10pm KST/9am EST\n\nパープル部屋のソヨンとジウのライブ💜\n今夜10時お見逃しなく！\n\n#tripleS #트리플에스 #トリプルS https://t.co/8NxHpwbvZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						202,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577877564349378600,
+					"id_str": "1577877564349378560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FeW_SOoacAAUF76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeW_SOoacAAUF76.jpg",
+					"url": "https://t.co/8NxHpwbvZ5",
+					"display_url": "pic.twitter.com/8NxHpwbvZ5",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577901471026356227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577877564349378600,
+					"id_str": "1577877564349378560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FeW_SOoacAAUF76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeW_SOoacAAUF76.jpg",
+					"url": "https://t.co/8NxHpwbvZ5",
+					"display_url": "pic.twitter.com/8NxHpwbvZ5",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577901471026356227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14655,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "퍼플방 서연이와 지우의 라이브💜\n오늘 저녁 10시 함께해주세요! \n\nPurple room’s SeoYeon and JiWoo are going LIVE💜\nDon’t miss out on their LIVE tonight(Oct 4th) at 10pm KST/9am EST\n\nパープル部屋のソヨンとジウのライブ💜\n今夜10時お見逃しなく！\n\n#tripleS #트리플에스 #トリプルS https://t.co/8NxHpwbvZ5"
+	},
+	{
 		"created_at": "Thu Oct 06 05:57:26 +0000 2022",
 		"id": 1577897024527433700,
 		"id_str": "1577900822796521472",
