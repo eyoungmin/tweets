@@ -1,6 +1,1349 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 03:40:28 +0000 2022",
+		"id": 1577858093828178000,
+		"id_str": "1577866353507270658",
+		"full_text": "#RedVelvet #SEULGI to appear on music shows this week for her ‘28 Reasons’ solo debut stage with an elegant and intense performance!\n‘28 Reasons’ places #1 on iTunes in 38 regions worldwide, proving her global popularity! \n\nhttps://t.co/UuwWhUV4ag\n\n#슬기 #레드벨벳\n#28Reasons https://t.co/QAs2YuglhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						249,
+						252
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						253,
+						258
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						259,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UuwWhUV4ag",
+					"expanded_url": "https://bit.ly/3MpKVot",
+					"display_url": "bit.ly/3MpKVot",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577858091210547200,
+					"id_str": "1577858091210547201",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWtkviUoAELuLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWtkviUoAELuLz.jpg",
+					"url": "https://t.co/QAs2YuglhS",
+					"display_url": "pic.twitter.com/QAs2YuglhS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577858093828177922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577858091210547200,
+					"id_str": "1577858091210547201",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWtkviUoAELuLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWtkviUoAELuLz.jpg",
+					"url": "https://t.co/QAs2YuglhS",
+					"display_url": "pic.twitter.com/QAs2YuglhS",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577858093828177922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1577858086252863500,
+		"in_reply_to_status_id_str": "1577858086252863488",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5660783,
+			"friends_count": 2,
+			"listed_count": 11351,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1122,
+		"favorite_count": 3544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#RedVelvet #SEULGI to appear on music shows this week for her ‘28 Reasons’ solo debut stage with an elegant and intense performance!\n‘28 Reasons’ places #1 on iTunes in 38 regions worldwide, proving her global popularity! \n\nhttps://t.co/UuwWhUV4ag\n\n#슬기 #레드벨벳\n#28Reasons https://t.co/QAs2YuglhS"
+	},
+	{
+		"created_at": "Thu Oct 06 03:40:18 +0000 2022",
+		"id": 1577858066527420400,
+		"id_str": "1577866310800793600",
+		"full_text": "집에 혼자 있을 때 공감  I Feel That When I’m Home Alone\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/5g8cjlw6HP\n\n#tripleS #트리플에스 #トリプルS https://t.co/BxTIB17APO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5g8cjlw6HP",
+					"expanded_url": "http://youtu.be/IRBrB9h_Xig",
+					"display_url": "youtu.be/IRBrB9h_Xig",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577857963657924600,
+					"id_str": "1577857963657924608",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWtpQmakAA8EH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWtpQmakAA8EH_.jpg",
+					"url": "https://t.co/BxTIB17APO",
+					"display_url": "pic.twitter.com/BxTIB17APO",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577858066527420417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577857963657924600,
+					"id_str": "1577857963657924608",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWtpQmakAA8EH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWtpQmakAA8EH_.jpg",
+					"url": "https://t.co/BxTIB17APO",
+					"display_url": "pic.twitter.com/BxTIB17APO",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1577858066527420417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25386,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577857963657924608/pu/pl/4dYwJdhEU2GTSrUa.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577857963657924608/pu/vid/640x360/nsOnvH7aNxuXOYzn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577857963657924608/pu/vid/1280x720/AV0l9h1PkSezgMAf.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577857963657924608/pu/vid/480x270/o7uqcBUPcczu0H2L.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14652,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집에 혼자 있을 때 공감  I Feel That When I’m Home Alone\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/5g8cjlw6HP\n\n#tripleS #트리플에스 #トリプルS https://t.co/BxTIB17APO"
+	},
+	{
+		"created_at": "Thu Oct 06 03:40:16 +0000 2022",
+		"id": 1577854483518075000,
+		"id_str": "1577866301921546242",
+		"full_text": "A French broadcasting network BFMTV’s close coverage of aespa as a “popular K-pop group that goes back and forth between metaverse and reality”\nMore than 10 times the number of pre-selected fans showed up at the fan signing event! \n\nhttps://t.co/pxudZGflVr\n\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						258,
+						264
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						265,
+						270
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						271,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxudZGflVr",
+					"expanded_url": "https://bit.ly/3McHDVf",
+					"display_url": "bit.ly/3McHDVf",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1577854480791765000,
+		"in_reply_to_status_id_str": "1577854480791764992",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3201049,
+			"friends_count": 2,
+			"listed_count": 9569,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 2397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A French broadcasting network BFMTV’s close coverage of aespa as a “popular K-pop group that goes back and forth between metaverse and reality”\nMore than 10 times the number of pre-selected fans showed up at the fan signing event! \n\nhttps://t.co/pxudZGflVr\n\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Thu Oct 06 03:40:10 +0000 2022",
+		"id": 1577854480791765000,
+		"id_str": "1577866276285857792",
+		"full_text": "프랑스 유명 방송사 BFMTV, 에스파 밀착 취재 “메타버스와 현실 오가는 K팝 인기 그룹”\n에스파 팬사인회, 사전 선정 인원보다 10배 넘는 팬들 몰려 현장 인산인해..프랑스도 홀릭\n\nhttps://t.co/pxudZGflVr\n\n#aespa #æspa #에스파 https://t.co/RfWQxBqhiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pxudZGflVr",
+					"expanded_url": "https://bit.ly/3McHDVf",
+					"display_url": "bit.ly/3McHDVf",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577854473472704500,
+					"id_str": "1577854473472704512",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqSKaaAAAyI_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqSKaaAAAyI_W.jpg",
+					"url": "https://t.co/RfWQxBqhiS",
+					"display_url": "pic.twitter.com/RfWQxBqhiS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1577854480791764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 729,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577854473472704500,
+					"id_str": "1577854473472704512",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqSKaaAAAyI_W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqSKaaAAAyI_W.jpg",
+					"url": "https://t.co/RfWQxBqhiS",
+					"display_url": "pic.twitter.com/RfWQxBqhiS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1577854480791764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 729,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3201049,
+			"friends_count": 2,
+			"listed_count": 9569,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2155,
+		"favorite_count": 7426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프랑스 유명 방송사 BFMTV, 에스파 밀착 취재 “메타버스와 현실 오가는 K팝 인기 그룹”\n에스파 팬사인회, 사전 선정 인원보다 10배 넘는 팬들 몰려 현장 인산인해..프랑스도 홀릭\n\nhttps://t.co/pxudZGflVr\n\n#aespa #æspa #에스파 https://t.co/RfWQxBqhiS"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:43 +0000 2022",
+		"id": 1577859761340440600,
+		"id_str": "1577863647837229056",
+		"full_text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577859748287770600,
+					"id_str": "1577859748287770625",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211114,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 809,
+		"favorite_count": 2254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R"
+	},
+	{
+		"created_at": "Thu Oct 06 03:29:39 +0000 2022",
+		"id": 1577856170840100900,
+		"id_str": "1577863630569279488",
+		"full_text": "전국 600만 프로공조러들 주목! 👏\n&lt;#공조2&gt; 속 제대로 터졌던 명대사들, #프로공조러 라면 당연히 다 알겠지?! 🤨\n⠀\n힌트는 극장에서 확인! 지금 바로 예매하자!\n▶https://t.co/kbTEEpLrPN\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/YPoz7ohm2U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "프로공조러",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEpLrPN",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577854527621193700,
+					"id_str": "1577854527621193728",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqVUIaYAA_7Sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqVUIaYAA_7Sg.jpg",
+					"url": "https://t.co/YPoz7ohm2U",
+					"display_url": "pic.twitter.com/YPoz7ohm2U",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1577856170840100864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577854527621193700,
+					"id_str": "1577854527621193728",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqVUIaYAA_7Sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqVUIaYAA_7Sg.jpg",
+					"url": "https://t.co/YPoz7ohm2U",
+					"display_url": "pic.twitter.com/YPoz7ohm2U",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1577856170840100864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577854527621202000,
+					"id_str": "1577854527621201920",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqVUIagAALnm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqVUIagAALnm8.jpg",
+					"url": "https://t.co/YPoz7ohm2U",
+					"display_url": "pic.twitter.com/YPoz7ohm2U",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1577856170840100864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577854527642161200,
+					"id_str": "1577854527642161152",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWqVUNaUAAAc3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWqVUNaUAAAc3S.jpg",
+					"url": "https://t.co/YPoz7ohm2U",
+					"display_url": "pic.twitter.com/YPoz7ohm2U",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1577856170840100864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331888,
+			"friends_count": 10614,
+			"listed_count": 263,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국 600만 프로공조러들 주목! 👏\n&lt;#공조2&gt; 속 제대로 터졌던 명대사들, #프로공조러 라면 당연히 다 알겠지?! 🤨\n⠀\n힌트는 극장에서 확인! 지금 바로 예매하자!\n▶https://t.co/kbTEEpLrPN\n⠀\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/YPoz7ohm2U"
+	},
+	{
 		"created_at": "Thu Oct 06 01:40:10 +0000 2022",
 		"id": 1577695116285956000,
 		"id_str": "1577836077334904834",
