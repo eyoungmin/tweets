@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 09:40:17 +0000 2022",
+		"id": 1577950737438736400,
+		"id_str": "1577956903828836352",
+		"full_text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6asIKz) &gt; 실시간 투표 &gt; 블랙핑크 ‘Shut Down' 투표\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ncE6asIKz",
+					"expanded_url": "https://bit.ly/3uorunR",
+					"display_url": "bit.ly/3uorunR",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8586488,
+			"friends_count": 9,
+			"listed_count": 9314,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1417,
+		"favorite_count": 4255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMnet #엠카운트다운 1위 후보에 올랐습니다!🖤💖\n\n📲 엠카운트다운 커뮤니티 (https://t.co/1ncE6asIKz) &gt; 실시간 투표 &gt; 블랙핑크 ‘Shut Down' 투표\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
+		"created_at": "Thu Oct 06 09:40:10 +0000 2022",
+		"id": 1577944479205830700,
+		"id_str": "1577956873604571137",
+		"full_text": "타사키 하이주얼리 프레젠테이션 현장에서 \n‘Living Nature’ 컬렉션과 \n데인저(danger) 시리즈에 매료된 \n신세경의 빛나는 존재감을 확인해보세요. 💎  \n\nhttps://t.co/OPcKTAtVrM https://t.co/79GSRfVlEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OPcKTAtVrM",
+					"expanded_url": "https://www.instagram.com/tv/CjXOyMtrpXD/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/tv/CjXOyMtrpXD…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577944419319545900,
+					"id_str": "1577944419319545856",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577944419319545856/pu/img/hnT91BL7T_dDm2JB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577944419319545856/pu/img/hnT91BL7T_dDm2JB.jpg",
+					"url": "https://t.co/79GSRfVlEW",
+					"display_url": "pic.twitter.com/79GSRfVlEW",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577944479205830656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577944419319545900,
+					"id_str": "1577944419319545856",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577944419319545856/pu/img/hnT91BL7T_dDm2JB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577944419319545856/pu/img/hnT91BL7T_dDm2JB.jpg",
+					"url": "https://t.co/79GSRfVlEW",
+					"display_url": "pic.twitter.com/79GSRfVlEW",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1577944479205830656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 29559,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577944419319545856/pu/vid/320x400/GztNFXoNggMHZJAe.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577944419319545856/pu/vid/720x900/gvpvigtY-a3aXxKp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577944419319545856/pu/pl/r8e4a5XltotRucQm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577944419319545856/pu/vid/480x600/4Ok_gQuVD5rs8ToE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5112,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타사키 하이주얼리 프레젠테이션 현장에서 \n‘Living Nature’ 컬렉션과 \n데인저(danger) 시리즈에 매료된 \n신세경의 빛나는 존재감을 확인해보세요. 💎  \n\nhttps://t.co/OPcKTAtVrM https://t.co/79GSRfVlEW"
+	},
+	{
 		"created_at": "Thu Oct 06 08:09:36 +0000 2022",
 		"id": 1577222504707416000,
 		"id_str": "1577934082557763584",
