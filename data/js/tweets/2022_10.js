@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 01:40:10 +0000 2022",
+		"id": 1577695116285956000,
+		"id_str": "1577836077334904834",
+		"full_text": "Discover the @aespa_offical x @blakekathryn #ægirls NFT collection at the Sotheby’s Hong Kong Autumn Sales 2022. Bidding opens October 13 2022. Register now @ https://t.co/RVazbKdUR3\n\nBrought to you by @invntatom and @TeamDotts.\n#æspa #에스파 #æspa_Girls #blakekathryn #NFT https://t.co/VBLZGFVCfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ægirls",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						235,
+						239
+					]
+				},
+				{
+					"text": "æspa_Girls",
+					"indices": [
+						240,
+						251
+					]
+				},
+				{
+					"text": "blakekathryn",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						266,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_offical",
+					"name": "aespa",
+					"id": 836135616639201300,
+					"id_str": "836135616639201280",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						217,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RVazbKdUR3",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577694755521273900,
+					"id_str": "1577694755521273856",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577694755521273856/pu/img/y4nfRMtH3zgm4jIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577694755521273856/pu/img/y4nfRMtH3zgm4jIv.jpg",
+					"url": "https://t.co/VBLZGFVCfD",
+					"display_url": "pic.twitter.com/VBLZGFVCfD",
+					"expanded_url": "https://twitter.com/Sothebysverse/status/1577695116285956097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577694755521273900,
+					"id_str": "1577694755521273856",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577694755521273856/pu/img/y4nfRMtH3zgm4jIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577694755521273856/pu/img/y4nfRMtH3zgm4jIv.jpg",
+					"url": "https://t.co/VBLZGFVCfD",
+					"display_url": "pic.twitter.com/VBLZGFVCfD",
+					"expanded_url": "https://twitter.com/Sothebysverse/status/1577695116285956097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 606,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 15039,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577694755521273856/pu/vid/606x1080/S_vk5AqCzzeoYrrN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577694755521273856/pu/pl/VZnMhTcvQ0TzAilJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577694755521273856/pu/vid/480x854/HjwBq5lEI3FnbteJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577694755521273856/pu/vid/320x570/IsNfhamiRC31pYyQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1425131723155705900,
+			"id_str": "1425131723155705860",
+			"name": "Sotheby's Metaverse",
+			"screen_name": "Sothebysverse",
+			"location": "",
+			"description": "Welcome to Sotheby’s Metaverse. Auction house for a selection of rare NFTs and digital art.",
+			"url": "https://t.co/ejB69mHboN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejB69mHboN",
+							"expanded_url": "https://metaverse.sothebys.com/salgado",
+							"display_url": "metaverse.sothebys.com/salgado",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27443,
+			"friends_count": 195,
+			"listed_count": 235,
+			"created_at": "Tue Aug 10 16:28:27 +0000 2021",
+			"favourites_count": 1056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1425131723155705860/1664416461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 796,
+		"favorite_count": 2465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Discover the @aespa_offical x @blakekathryn #ægirls NFT collection at the Sotheby’s Hong Kong Autumn Sales 2022. Bidding opens October 13 2022. Register now @ https://t.co/RVazbKdUR3\n\nBrought to you by @invntatom and @TeamDotts.\n#æspa #에스파 #æspa_Girls #blakekathryn #NFT https://t.co/VBLZGFVCfD"
+	},
+	{
 		"created_at": "Wed Oct 05 15:40:10 +0000 2022",
 		"id": 1577674987246420000,
 		"id_str": "1577685083472936960",
