@@ -1,6 +1,1040 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 12:40:25 +0000 2022",
+		"id": 1577999621678575600,
+		"id_str": "1578002237728645120",
+		"full_text": "헿❤️ https://t.co/dyqIyFlTWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyqIyFlTWx",
+					"expanded_url": "https://twitter.com/ghoodmusic_/status/1577998230046248960",
+					"display_url": "twitter.com/ghoodmusic_/st…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90986,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1577998230046249000,
+		"quoted_status_id_str": "1577998230046248960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dyqIyFlTWx",
+			"expanded": "https://twitter.com/ghoodmusic_/status/1577998230046248960",
+			"display": "twitter.com/ghoodmusic_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 06 12:24:30 +0000 2022",
+			"id": 1577998230046249000,
+			"id_str": "1577998230046248960",
+			"full_text": "BIBI does a cappella 🥹❤️\n#queenofcigaretteandcondoms\n#shegotit @nakedBIBI https://t.co/TlbWa4bkoc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "queenofcigaretteandcondoms",
+						"indices": [
+							25,
+							52
+						]
+					},
+					{
+						"text": "shegotit",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nakedbibi",
+						"name": "nakedbibi",
+						"id": 1448497121867436000,
+						"id_str": "1448497121867436037",
+						"indices": [
+							63,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1577998131270389800,
+						"id_str": "1577998131270389761",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577998131270389761/pu/img/wgvEpdaI0Fe93GdJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577998131270389761/pu/img/wgvEpdaI0Fe93GdJ.jpg",
+						"url": "https://t.co/TlbWa4bkoc",
+						"display_url": "pic.twitter.com/TlbWa4bkoc",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1577998230046248960/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1577998131270389800,
+						"id_str": "1577998131270389761",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577998131270389761/pu/img/wgvEpdaI0Fe93GdJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577998131270389761/pu/img/wgvEpdaI0Fe93GdJ.jpg",
+						"url": "https://t.co/TlbWa4bkoc",
+						"display_url": "pic.twitter.com/TlbWa4bkoc",
+						"expanded_url": "https://twitter.com/gHoodmusic_/status/1577998230046248960/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 27033,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577998131270389761/pu/vid/720x720/FwxLwtDIRjZ7DDgz.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577998131270389761/pu/vid/320x320/3-8PpaBUelTO2ecP.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1577998131270389761/pu/vid/540x540/sjtod8V24AmUgC0i.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1577998131270389761/pu/pl/XgpI2OMBrv90hJZZ.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1467799012216508400,
+				"id_str": "1467799012216508419",
+				"name": "Feel Ghood Music",
+				"screen_name": "gHoodmusic_",
+				"location": "Worldwide",
+				"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+				"url": "https://t.co/3TdHUbAG7t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3TdHUbAG7t",
+								"expanded_url": "http://88rising.lnk.to/BestLover",
+								"display_url": "88rising.lnk.to/BestLover",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1352,
+				"friends_count": 6,
+				"listed_count": 13,
+				"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 78,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헿❤️ https://t.co/dyqIyFlTWx"
+	},
+	{
+		"created_at": "Thu Oct 06 12:40:22 +0000 2022",
+		"id": 1577871268933554200,
+		"id_str": "1578002224558530560",
+		"full_text": "BIBI - ANIMAL FARM LYRIC VIDEO - OUT NOW!\n@nakedbibi #ANIMALFARM \n\nWatch it here: https://t.co/FoeRjAoFBy https://t.co/mEOcgc1duF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ANIMALFARM",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FoeRjAoFBy",
+					"expanded_url": "http://88rising.lnk.to/ANIMALFARMLV",
+					"display_url": "88rising.lnk.to/ANIMALFARMLV",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577856454526001200,
+					"id_str": "1577856454526001152",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577856454526001152/pu/img/Dl1ss_k6g1lpTN7f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577856454526001152/pu/img/Dl1ss_k6g1lpTN7f.jpg",
+					"url": "https://t.co/mEOcgc1duF",
+					"display_url": "pic.twitter.com/mEOcgc1duF",
+					"expanded_url": "https://twitter.com/88rising/status/1577871268933554181/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577856454526001200,
+					"id_str": "1577856454526001152",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1577856454526001152/pu/img/Dl1ss_k6g1lpTN7f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1577856454526001152/pu/img/Dl1ss_k6g1lpTN7f.jpg",
+					"url": "https://t.co/mEOcgc1duF",
+					"display_url": "pic.twitter.com/mEOcgc1duF",
+					"expanded_url": "https://twitter.com/88rising/status/1577871268933554181/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59350,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577856454526001152/pu/vid/1280x720/tOiqxhMViwj6stfb.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577856454526001152/pu/vid/640x360/V0x9zeYtzGTWYOVb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1577856454526001152/pu/pl/64C9BU96L7GIMpX9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1577856454526001152/pu/vid/480x270/7No2VBrT_gBUTk0k.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "@nikizefanya 'Nicole' out now\n@JacksonWang852 #MAGICMAN out now\n@sushitrash 'SMITHEREENS' out Nov 4th\n@hitcfestival JKT Dec 3-4 & MNL Dec 9-10",
+			"url": "https://t.co/qDVVJvAiML",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qDVVJvAiML",
+							"expanded_url": "http://shop.jackson-wang.com",
+							"display_url": "shop.jackson-wang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643259,
+			"friends_count": 306,
+			"listed_count": 593,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 15696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395279620694372353/5y3Ga9m6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1662696007",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIBI - ANIMAL FARM LYRIC VIDEO - OUT NOW!\n@nakedbibi #ANIMALFARM \n\nWatch it here: https://t.co/FoeRjAoFBy https://t.co/mEOcgc1duF"
+	},
+	{
+		"created_at": "Thu Oct 06 12:40:14 +0000 2022",
+		"id": 1577992077182656500,
+		"id_str": "1578002190131761153",
+		"full_text": "[Notice📢]\nWe invite you to HANNI's birthday party at 22:00 (KST)💞\nLet's celebrate together 🎂\n\n🐰LIVE ON PHONING\n🔗https://t.co/dVLEb9pdB9\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY_HANNI_DAY",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dVLEb9pdB9",
+					"expanded_url": "https://phoning.onelink.me/KG15/epaz1yu1",
+					"display_url": "phoning.onelink.me/KG15/epaz1yu1",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1577992075538477000,
+		"in_reply_to_status_id_str": "1577992075538477056",
+		"in_reply_to_user_id": 1476476838180696000,
+		"in_reply_to_user_id_str": "1476476838180696073",
+		"in_reply_to_screen_name": "NewJeans_ADOR",
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550146,
+			"friends_count": 4,
+			"listed_count": 1724,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 217,
+		"favorite_count": 813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Notice📢]\nWe invite you to HANNI's birthday party at 22:00 (KST)💞\nLet's celebrate together 🎂\n\n🐰LIVE ON PHONING\n🔗https://t.co/dVLEb9pdB9\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니"
+	},
+	{
+		"created_at": "Thu Oct 06 12:40:10 +0000 2022",
+		"id": 1577992075538477000,
+		"id_str": "1578002172805095424",
+		"full_text": "[공지📢]\n잠시 후 22시 하니의 생일파티에 팬분들을 초대합니다💞\n함께 모여 축하해 주세요🎂\n\n🐰LIVE ON PHONING\n🔗https://t.co/dVLEb9pdB9\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPY_HANNI_DAY",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						135,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dVLEb9pdB9",
+					"expanded_url": "https://phoning.onelink.me/KG15/epaz1yu1",
+					"display_url": "phoning.onelink.me/KG15/epaz1yu1",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550146,
+			"friends_count": 4,
+			"listed_count": 1724,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 849,
+		"favorite_count": 2446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지📢]\n잠시 후 22시 하니의 생일파티에 팬분들을 초대합니다💞\n함께 모여 축하해 주세요🎂\n\n🐰LIVE ON PHONING\n🔗https://t.co/dVLEb9pdB9\n\n#HAPPY_HANNI_DAY\n#NewJeans #HANNI\n#뉴진스 #하니"
+	},
+	{
+		"created_at": "Thu Oct 06 12:29:39 +0000 2022",
+		"id": 1577992075999645700,
+		"id_str": "1577999526161514497",
+		"full_text": "#뉴진스 앞머리 나한테도 어울릴까? 얼굴형 커버 가능한 더듬이 헤어 도전해보자!\n@NewJeans_ADOR #혜인 #다니엘 @ygofficialblink #제니 #지수 @GirlsGeneration #효연 \nhttps://t.co/xjoNnprWPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xjoNnprWPS",
+					"expanded_url": "https://www.allurekorea.com/2022/08/15/%ec%9d%b4%ec%a0%9c-%ec%9e%94%eb%a8%b8%eb%a6%ac-%eb%8c%80%ec%8b%a0-%eb%8d%94%eb%93%ac%ec%9d%b4-%eb%a8%b8%eb%a6%ac-%ec%95%84%ec%9d%b4%eb%8f%8c-%eb%8c%80%ec%84%b8-%ed%97%a4%ec%96%b4-%ea%bf%80%ed%8c%81/?ddw=124912&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/2022/08/15/%ec…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38180,
+			"friends_count": 1,
+			"listed_count": 300,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴진스 앞머리 나한테도 어울릴까? 얼굴형 커버 가능한 더듬이 헤어 도전해보자!\n@NewJeans_ADOR #혜인 #다니엘 @ygofficialblink #제니 #지수 @GirlsGeneration #효연 \nhttps://t.co/xjoNnprWPS"
+	},
+	{
 		"created_at": "Thu Oct 06 11:40:32 +0000 2022",
 		"id": 1577982590128033800,
 		"id_str": "1577987165715419137",
