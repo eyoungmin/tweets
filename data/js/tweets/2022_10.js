@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 08:09:36 +0000 2022",
+		"id": 1577222504707416000,
+		"id_str": "1577934082557763584",
+		"full_text": "Seulgi of Red Velvet tells us all about her first solo album, '28 Reasons,' and its themes of good and evil, influenced by movies like 'Joker': \"I worked hard to immerse myself, more than I have before. I think it’s deep and profound.\" https://t.co/ag6xMWnqc5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ag6xMWnqc5",
+					"expanded_url": "https://trib.al/WUnMCHk",
+					"display_url": "trib.al/WUnMCHk",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14780915,
+			"id_str": "14780915",
+			"name": "Rolling Stone",
+			"screen_name": "RollingStone",
+			"location": "New York, New York",
+			"description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+			"url": "https://t.co/HPZh9kIhYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HPZh9kIhYX",
+							"expanded_url": "http://www.rollingstone.com",
+							"display_url": "rollingstone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yJnSOtbi68",
+							"expanded_url": "http://RollingStone.com",
+							"display_url": "RollingStone.com",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/4pKrTBMI3A",
+							"expanded_url": "http://rol.st/tips",
+							"display_url": "rol.st/tips",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6409652,
+			"friends_count": 464,
+			"listed_count": 35657,
+			"created_at": "Thu May 15 02:52:27 +0000 2008",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 178163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0B0B0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560307830195978244/TLTkPdyf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560307830195978244/TLTkPdyf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1662987666",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2543,
+		"favorite_count": 6678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seulgi of Red Velvet tells us all about her first solo album, '28 Reasons,' and its themes of good and evil, influenced by movies like 'Joker': \"I worked hard to immerse myself, more than I have before. I think it’s deep and profound.\" https://t.co/ag6xMWnqc5"
+	},
+	{
 		"created_at": "Thu Oct 06 06:45:44 +0000 2022",
 		"id": 1577909017556521000,
 		"id_str": "1577912976828407808",
