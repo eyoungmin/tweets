@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 05:57:26 +0000 2022",
+		"id": 1577897024527433700,
+		"id_str": "1577900822796521472",
+		"full_text": "UK NME gives Red Velvet SEULGI's first solo album '28 Reasons' 5 stars out of 5! “SEULGI shines the brightest in this album than in any other album!” \n\nhttps://t.co/BAXgurFtwf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/ehNTHIpB9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						207,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BAXgurFtwf",
+					"expanded_url": "https://bit.ly/3SYKTWC",
+					"display_url": "bit.ly/3SYKTWC",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577896969208754200,
+					"id_str": "1577896969208754176",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXQ7vXacAAKGJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXQ7vXacAAKGJv.jpg",
+					"url": "https://t.co/ehNTHIpB9y",
+					"display_url": "pic.twitter.com/ehNTHIpB9y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577897024527433734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1750,
+							"h": 1167,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577896969208754200,
+					"id_str": "1577896969208754176",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXQ7vXacAAKGJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXQ7vXacAAKGJv.jpg",
+					"url": "https://t.co/ehNTHIpB9y",
+					"display_url": "pic.twitter.com/ehNTHIpB9y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577897024527433734/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1750,
+							"h": 1167,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1577897018475040800,
+		"in_reply_to_status_id_str": "1577897018475040770",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5660901,
+			"friends_count": 2,
+			"listed_count": 11350,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 549,
+		"favorite_count": 1541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK NME gives Red Velvet SEULGI's first solo album '28 Reasons' 5 stars out of 5! “SEULGI shines the brightest in this album than in any other album!” \n\nhttps://t.co/BAXgurFtwf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/ehNTHIpB9y"
+	},
+	{
+		"created_at": "Thu Oct 06 05:57:26 +0000 2022",
+		"id": 1577897018475040800,
+		"id_str": "1577900821915652096",
+		"full_text": "英 NME, 레드벨벳 슬기 첫 솔로 앨범 ‘28 Reasons’ 호평! 별점 5점 만점!\n“슬기가 그 어느 때보다 밝게 타오르는 앨범” 집중 조명!\n\nhttps://t.co/BAXgurFtwf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/y8a3w964AN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BAXgurFtwf",
+					"expanded_url": "https://bit.ly/3SYKTWC",
+					"display_url": "bit.ly/3SYKTWC",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577896911239274500,
+					"id_str": "1577896911239274496",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXQ4XaaYAAVRtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXQ4XaaYAAVRtT.jpg",
+					"url": "https://t.co/y8a3w964AN",
+					"display_url": "pic.twitter.com/y8a3w964AN",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577897018475040770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1342,
+							"h": 1750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577896911239274500,
+					"id_str": "1577896911239274496",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXQ4XaaYAAVRtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXQ4XaaYAAVRtT.jpg",
+					"url": "https://t.co/y8a3w964AN",
+					"display_url": "pic.twitter.com/y8a3w964AN",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1577897018475040770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1342,
+							"h": 1750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5660901,
+			"friends_count": 2,
+			"listed_count": 11350,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 920,
+		"favorite_count": 3087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "英 NME, 레드벨벳 슬기 첫 솔로 앨범 ‘28 Reasons’ 호평! 별점 5점 만점!\n“슬기가 그 어느 때보다 밝게 타오르는 앨범” 집중 조명!\n\nhttps://t.co/BAXgurFtwf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/y8a3w964AN"
+	},
+	{
 		"created_at": "Thu Oct 06 04:40:16 +0000 2022",
 		"id": 1577879523525529600,
 		"id_str": "1577881401235496960",
