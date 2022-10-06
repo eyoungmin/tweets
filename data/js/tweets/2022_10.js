@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 13:40:34 +0000 2022",
+		"id": 1578014713358712800,
+		"id_str": "1578017372048433152",
+		"full_text": "❗️LOONATHEWORLD in SEOUL Online LIVE + VOD Giveaway❗️\n\nWe've paired up with @_mymusictasteto to give one lucky #Orbit a ticket to LOONA's upcoming online concert (Day 1&amp;2) in SEOUL!\n\nHow to enter ➡️ https://t.co/F25P70wf4w https://t.co/6FYy6hB2gQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F25P70wf4w",
+					"expanded_url": "https://youtu.be/Ufw3ijJ60eM",
+					"display_url": "youtu.be/Ufw3ijJ60eM",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577863171070730200,
+					"id_str": "1577863171070730242",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWyMbfXoAIXO-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWyMbfXoAIXO-r.jpg",
+					"url": "https://t.co/6FYy6hB2gQ",
+					"display_url": "pic.twitter.com/6FYy6hB2gQ",
+					"expanded_url": "https://twitter.com/reacttothek/status/1578014713358712836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577863171070730200,
+					"id_str": "1577863171070730242",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWyMbfXoAIXO-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWyMbfXoAIXO-r.jpg",
+					"url": "https://t.co/6FYy6hB2gQ",
+					"display_url": "pic.twitter.com/6FYy6hB2gQ",
+					"expanded_url": "https://twitter.com/reacttothek/status/1578014713358712836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 772801511818666000,
+			"id_str": "772801511818665985",
+			"name": "ReacttotheK",
+			"screen_name": "reacttothek",
+			"location": "United States",
+			"description": "YouTube channel consisting of music majors geeking out about K-Pop. Lots of ❤️ to our followers! For business inquires only: reacttothek@gmail.com",
+			"url": "https://t.co/nZJTQKAQCR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nZJTQKAQCR",
+							"expanded_url": "https://www.youtube.com/ReacttotheK",
+							"display_url": "youtube.com/ReacttotheK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29863,
+			"friends_count": 309,
+			"listed_count": 56,
+			"created_at": "Mon Sep 05 14:20:13 +0000 2016",
+			"favourites_count": 9611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160231850142396422/kVfBf9_u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160231850142396422/kVfBf9_u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/772801511818665985/1594339405",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❗️LOONATHEWORLD in SEOUL Online LIVE + VOD Giveaway❗️\n\nWe've paired up with @_mymusictasteto to give one lucky #Orbit a ticket to LOONA's upcoming online concert (Day 1&amp;2) in SEOUL!\n\nHow to enter ➡️ https://t.co/F25P70wf4w https://t.co/6FYy6hB2gQ"
+	},
+	{
+		"created_at": "Thu Oct 06 13:40:27 +0000 2022",
+		"id": 1578014099187044400,
+		"id_str": "1578017342025367555",
+		"full_text": "#오늘의_자우림\n\n11:00 회의 1\n13:00 회의 2\n14:00 회의 3 / 1차 시사\n18:50 무대\n \n꽉 찬 하루였습니다. \n우리팀 사랑해💜💜💜 https://t.co/EbbtwFeAxb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578014089359462400,
+					"id_str": "1578014089359462401",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY7dB7VEAEBz9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY7dB7VEAEBz9B.jpg",
+					"url": "https://t.co/EbbtwFeAxb",
+					"display_url": "pic.twitter.com/EbbtwFeAxb",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578014099187044354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578014089359462400,
+					"id_str": "1578014089359462401",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY7dB7VEAEBz9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY7dB7VEAEBz9B.jpg",
+					"url": "https://t.co/EbbtwFeAxb",
+					"display_url": "pic.twitter.com/EbbtwFeAxb",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578014099187044354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578014089351024600,
+					"id_str": "1578014089351024640",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY7dB5UUAA2IJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY7dB5UUAA2IJi.jpg",
+					"url": "https://t.co/EbbtwFeAxb",
+					"display_url": "pic.twitter.com/EbbtwFeAxb",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578014099187044354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578014089392976000,
+					"id_str": "1578014089392975873",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY7dCDUcAEGWjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY7dCDUcAEGWjY.jpg",
+					"url": "https://t.co/EbbtwFeAxb",
+					"display_url": "pic.twitter.com/EbbtwFeAxb",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578014099187044354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578014089367810000,
+					"id_str": "1578014089367810048",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY7dB9UcAAtKOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY7dB9UcAAtKOM.jpg",
+					"url": "https://t.co/EbbtwFeAxb",
+					"display_url": "pic.twitter.com/EbbtwFeAxb",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578014099187044354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275030,
+			"friends_count": 594,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림\n\n11:00 회의 1\n13:00 회의 2\n14:00 회의 3 / 1차 시사\n18:50 무대\n \n꽉 찬 하루였습니다. \n우리팀 사랑해💜💜💜 https://t.co/EbbtwFeAxb"
+	},
+	{
+		"created_at": "Thu Oct 06 13:40:19 +0000 2022",
+		"id": 1578007345795416000,
+		"id_str": "1578017311696465921",
+		"full_text": "[LOONATHEWORLD] IN SEOUL\n\n🚨SPOILER EVENT🚨\n🦉’s solo stage is coming, #Orbit!\nCheck the image below for details👇\n\n콘서트에서 만날 🦉의 솔로 무대!\n자세한 이벤트 내용은 아래의 이미지를 통해 확인 해 주세요👇\n\nONLINE🎫https://t.co/0hwdkD7MKI      \nOFFLINE🎫https://t.co/mZlcHsE33I https://t.co/kpKJq6DZN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0hwdkD7MKI",
+					"expanded_url": "https://mmt.fans/bFuh",
+					"display_url": "mmt.fans/bFuh",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsE33I",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578007339562565600,
+					"id_str": "1578007339562565632",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY1UI-WAAATMCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY1UI-WAAATMCX.jpg",
+					"url": "https://t.co/kpKJq6DZN6",
+					"display_url": "pic.twitter.com/kpKJq6DZN6",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578007345795416069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578007339562565600,
+					"id_str": "1578007339562565632",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/FeY1UI-WAAATMCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeY1UI-WAAATMCX.jpg",
+					"url": "https://t.co/kpKJq6DZN6",
+					"display_url": "pic.twitter.com/kpKJq6DZN6",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578007345795416069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149474,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 1032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONATHEWORLD] IN SEOUL\n\n🚨SPOILER EVENT🚨\n🦉’s solo stage is coming, #Orbit!\nCheck the image below for details👇\n\n콘서트에서 만날 🦉의 솔로 무대!\n자세한 이벤트 내용은 아래의 이미지를 통해 확인 해 주세요👇\n\nONLINE🎫https://t.co/0hwdkD7MKI      \nOFFLINE🎫https://t.co/mZlcHsE33I https://t.co/kpKJq6DZN6"
+	},
+	{
 		"created_at": "Thu Oct 06 12:40:25 +0000 2022",
 		"id": 1577999621678575600,
 		"id_str": "1578002237728645120",
