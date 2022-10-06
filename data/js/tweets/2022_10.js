@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 14:40:13 +0000 2022",
+		"id": 1578030338181582800,
+		"id_str": "1578032384444104704",
+		"full_text": "준비해드린 작은 선물이에요… thank you for today!! 💖💖 #하니 #HANNI https://t.co/xMrLRtMATA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하니",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578030330350801000,
+					"id_str": "1578030330350800896",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZKOYVaEAAA4fM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZKOYVaEAAA4fM.jpg",
+					"url": "https://t.co/xMrLRtMATA",
+					"display_url": "pic.twitter.com/xMrLRtMATA",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578030338181582854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578030330350801000,
+					"id_str": "1578030330350800896",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZKOYVaEAAA4fM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZKOYVaEAAA4fM.jpg",
+					"url": "https://t.co/xMrLRtMATA",
+					"display_url": "pic.twitter.com/xMrLRtMATA",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578030338181582854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578030330346606600,
+					"id_str": "1578030330346606592",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZKOYUaEAAr8R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZKOYUaEAAr8R4.jpg",
+					"url": "https://t.co/xMrLRtMATA",
+					"display_url": "pic.twitter.com/xMrLRtMATA",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578030338181582854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578030330355024000,
+					"id_str": "1578030330355023875",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZKOYWagAMLKvE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZKOYWagAMLKvE.jpg",
+					"url": "https://t.co/xMrLRtMATA",
+					"display_url": "pic.twitter.com/xMrLRtMATA",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578030338181582854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578030330359197700,
+					"id_str": "1578030330359197696",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZKOYXaMAA_4An.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZKOYXaMAA_4An.jpg",
+					"url": "https://t.co/xMrLRtMATA",
+					"display_url": "pic.twitter.com/xMrLRtMATA",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578030338181582854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219560,
+			"friends_count": 3,
+			"listed_count": 725,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4926,
+		"favorite_count": 12404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "준비해드린 작은 선물이에요… thank you for today!! 💖💖 #하니 #HANNI https://t.co/xMrLRtMATA"
+	},
+	{
 		"created_at": "Thu Oct 06 13:40:34 +0000 2022",
 		"id": 1578014713358712800,
 		"id_str": "1578017372048433152",
