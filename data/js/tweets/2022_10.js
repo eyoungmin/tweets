@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 08:09:36 +0000 2022",
+		"id": 1578294135374893000,
+		"id_str": "1578296469974667265",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON Behind the Scenes\n\nhttps://t.co/JSL9BsgCth\n\n#SMTOWN\n#SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_SUWON https://t.co/gr602tdECb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_SUWON",
+					"indices": [
+						129,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSL9BsgCth",
+					"expanded_url": "https://youtu.be/gxwAZbJoyg4",
+					"display_url": "youtu.be/gxwAZbJoyg4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578294129867776000,
+					"id_str": "1578294129867776001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"url": "https://t.co/gr602tdECb",
+					"display_url": "pic.twitter.com/gr602tdECb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1578294135374893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578294129867776000,
+					"id_str": "1578294129867776001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fec6JiHaYAE98PM.jpg",
+					"url": "https://t.co/gr602tdECb",
+					"display_url": "pic.twitter.com/gr602tdECb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1578294135374893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11212572,
+			"friends_count": 55,
+			"listed_count": 12630,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11233,
+		"favorite_count": 23782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON Behind the Scenes\n\nhttps://t.co/JSL9BsgCth\n\n#SMTOWN\n#SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_SUWON https://t.co/gr602tdECb"
+	},
+	{
 		"created_at": "Fri Oct 07 07:29:39 +0000 2022",
 		"id": 1578278964245602300,
 		"id_str": "1578286415728836609",
-		"full_text": "#공조2_인터내셔날 600만 관객 여러분~! #N차관람 은 사랑입니다💕\n#임윤아 배우가 외칩니다, #700만 가즈아~! 👏👏\n\n큐티프리티 뷰튜버 #민영 이 보러 극장으로 고고!🏃‍♂️🏃 아래 예매 링크 확인!\n▶https://t.co/kbTEEpLrPN\n\n#현빈 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#공조2 #절찬상영중 https://t.co/iEubc7Upr3",
+		"full_text": "#공조2_인터내셔날 600만 관객 여러분~! #N차관람 은 사랑입니다💕\n#임윤아 배우가 외칩니다, #700만 가즈아~! 👏👏\n\n큐티프리티 뷰튜버 #민영 이 보러 극장으로 고고!🏃♂️🏃 아래 예매 링크 확인!\n▶https://t.co/kbTEEpLrPN\n\n#현빈 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#공조2 #절찬상영중 https://t.co/iEubc7Upr3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -302,7 +516,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#공조2_인터내셔날 600만 관객 여러분~! #N차관람 은 사랑입니다💕\n#임윤아 배우가 외칩니다, #700만 가즈아~! 👏👏\n\n큐티프리티 뷰튜버 #민영 이 보러 극장으로 고고!🏃‍♂️🏃 아래 예매 링크 확인!\n▶https://t.co/kbTEEpLrPN\n\n#현빈 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#공조2 #절찬상영중 https://t.co/iEubc7Upr3"
+		"text": "#공조2_인터내셔날 600만 관객 여러분~! #N차관람 은 사랑입니다💕\n#임윤아 배우가 외칩니다, #700만 가즈아~! 👏👏\n\n큐티프리티 뷰튜버 #민영 이 보러 극장으로 고고!🏃♂️🏃 아래 예매 링크 확인!\n▶https://t.co/kbTEEpLrPN\n\n#현빈 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#공조2 #절찬상영중 https://t.co/iEubc7Upr3"
 	},
 	{
 		"created_at": "Fri Oct 07 06:55:20 +0000 2022",
