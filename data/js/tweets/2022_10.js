@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 04:40:10 +0000 2022",
+		"id": 1578240753167650800,
+		"id_str": "1578243763536891904",
+		"full_text": "하니야 생일 축하해💖\nYour one n only 빵친구 민지가😆\n\n#NewJeans #민지 #MINJI https://t.co/RsRcggXlko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "민지",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "MINJI",
+					"indices": [
+						52,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578240719437070300,
+					"id_str": "1578240719437070341",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578240719437070341/pu/img/GGtKRYoUrN7k4WaI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578240719437070341/pu/img/GGtKRYoUrN7k4WaI.jpg",
+					"url": "https://t.co/RsRcggXlko",
+					"display_url": "pic.twitter.com/RsRcggXlko",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578240753167650816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578240719437070300,
+					"id_str": "1578240719437070341",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578240719437070341/pu/img/GGtKRYoUrN7k4WaI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578240719437070341/pu/img/GGtKRYoUrN7k4WaI.jpg",
+					"url": "https://t.co/RsRcggXlko",
+					"display_url": "pic.twitter.com/RsRcggXlko",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578240753167650816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4966,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578240719437070341/pu/vid/540x540/lO0S-oE5FTyzvpyl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578240719437070341/pu/pl/OcJ3qrmpstxZQjeM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578240719437070341/pu/vid/720x720/nOliOX3vqkqjtATD.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578240719437070341/pu/vid/320x320/Xa2NjI2q-qykyWNk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222915,
+			"friends_count": 3,
+			"listed_count": 734,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566977034899058690/FY8bLCSv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3305,
+		"favorite_count": 8249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하니야 생일 축하해💖\nYour one n only 빵친구 민지가😆\n\n#NewJeans #민지 #MINJI https://t.co/RsRcggXlko"
+	},
+	{
 		"created_at": "Fri Oct 07 03:40:25 +0000 2022",
 		"id": 1578222205892456400,
 		"id_str": "1578228728575959042",
