@@ -1,6 +1,1691 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 11:40:30 +0000 2022",
+		"id": 1578308264470909000,
+		"id_str": "1578349543246151680",
+		"full_text": "❤220925 인기가요 #미션포토\n\n✨블링크✨ 제대로 모시겠습니다😎\n존재 자체만으로 &gt;&gt;셧다운&lt;&lt; 하게 만드는\n블랙핑크 미션포토 들어갑니다📦三☲=💨\n\nMORE🔗https://t.co/VXjLEvmI9s\n\n#인기가요 #BLACKPINK #블랙핑크 #SHUTDOWN #지수 #제니 #리사 #로제 @BLACKPINK @ygofficialblink https://t.co/CSwobRLIdu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미션포토",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "SHUTDOWN",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						171,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VXjLEvmI9s",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboards/54795",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578307105983205400,
+					"id_str": "1578307105983205382",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FedF816akAYtrtB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedF816akAYtrtB.jpg",
+					"url": "https://t.co/CSwobRLIdu",
+					"display_url": "pic.twitter.com/CSwobRLIdu",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1578308264470908928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578307105983205400,
+					"id_str": "1578307105983205382",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FedF816akAYtrtB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedF816akAYtrtB.jpg",
+					"url": "https://t.co/CSwobRLIdu",
+					"display_url": "pic.twitter.com/CSwobRLIdu",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1578308264470908928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578307152313471000,
+					"id_str": "1578307152313470976",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FedF_igaUAAhCfn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedF_igaUAAhCfn.jpg",
+					"url": "https://t.co/CSwobRLIdu",
+					"display_url": "pic.twitter.com/CSwobRLIdu",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1578308264470908928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS 인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "",
+			"description": "인기가요 공식 트위터 (SBS Inkigayo Official Twitter) \n#PD노트 #포토스케치 #하드털이 #엔딩맛집",
+			"url": "https://t.co/XOLUHL4yNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOLUHL4yNY",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo",
+							"display_url": "programs.sbs.co.kr/enter/gayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197689,
+			"friends_count": 77,
+			"listed_count": 602,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1657180917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1294,
+		"favorite_count": 4690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤220925 인기가요 #미션포토\n\n✨블링크✨ 제대로 모시겠습니다😎\n존재 자체만으로 &gt;&gt;셧다운&lt;&lt; 하게 만드는\n블랙핑크 미션포토 들어갑니다📦三☲=💨\n\nMORE🔗https://t.co/VXjLEvmI9s\n\n#인기가요 #BLACKPINK #블랙핑크 #SHUTDOWN #지수 #제니 #리사 #로제 @BLACKPINK @ygofficialblink https://t.co/CSwobRLIdu"
+	},
+	{
+		"created_at": "Fri Oct 07 11:40:27 +0000 2022",
+		"id": 1578308271555113000,
+		"id_str": "1578349533951565825",
+		"full_text": "📱220925 인기가요 #스페셜하드털이 \n\n 🖤BLACKPINK - 휴대폰 배경화면 | Wallpaper💗\n\n🔗https://t.co/CrdShPQ62s\n\n#인기가요 #BLACKPINK #블랙핑크 #SHUTDOWN #지수 #제니 #리사 #로제 @BLACKPINK @ygofficialblink https://t.co/Aki0epAYWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스페셜하드털이",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "SHUTDOWN",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CrdShPQ62s",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboard/71656?cmd=view&page=1&board_no=1900",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578308067191816200,
+					"id_str": "1578308067191816192",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FedG0ysaAAAYyNf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedG0ysaAAAYyNf.jpg",
+					"url": "https://t.co/Aki0epAYWz",
+					"display_url": "pic.twitter.com/Aki0epAYWz",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1578308271555112961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578308067191816200,
+					"id_str": "1578308067191816192",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FedG0ysaAAAYyNf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedG0ysaAAAYyNf.jpg",
+					"url": "https://t.co/Aki0epAYWz",
+					"display_url": "pic.twitter.com/Aki0epAYWz",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1578308271555112961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1578308264470909000,
+		"in_reply_to_status_id_str": "1578308264470908928",
+		"in_reply_to_user_id": 1130755875210088400,
+		"in_reply_to_user_id_str": "1130755875210088448",
+		"in_reply_to_screen_name": "sbsnoriter",
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS 인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "",
+			"description": "인기가요 공식 트위터 (SBS Inkigayo Official Twitter) \n#PD노트 #포토스케치 #하드털이 #엔딩맛집",
+			"url": "https://t.co/XOLUHL4yNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOLUHL4yNY",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo",
+							"display_url": "programs.sbs.co.kr/enter/gayo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197689,
+			"friends_count": 77,
+			"listed_count": 602,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544956023928004608/PrQQ9UW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1657180917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 582,
+		"favorite_count": 2434,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📱220925 인기가요 #스페셜하드털이 \n\n 🖤BLACKPINK - 휴대폰 배경화면 | Wallpaper💗\n\n🔗https://t.co/CrdShPQ62s\n\n#인기가요 #BLACKPINK #블랙핑크 #SHUTDOWN #지수 #제니 #리사 #로제 @BLACKPINK @ygofficialblink https://t.co/Aki0epAYWz"
+	},
+	{
+		"created_at": "Fri Oct 07 11:40:23 +0000 2022",
+		"id": 1578339353964810200,
+		"id_str": "1578349515651809280",
+		"full_text": "올라운더 슬기의 \n#스포티파이 퀴즈 정답 도착!\n\n슬기의 강렬함을 담은 솔로 앨범\n[28 Reasons]를 만나보세요❤\n지금. 여기. 스포티파이에서\nhttps://t.co/mZpAmQoxy0 \n\n@RVsmtown #슬기 \n#SEULGI #28Reasons https://t.co/nV8aoD8vNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mZpAmQoxy0",
+					"expanded_url": "http://spotify.link/je2UVr5BQtb",
+					"display_url": "spotify.link/je2UVr5BQtb",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578293683241173000,
+					"id_str": "1578293683241172993",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578293683241172993/pu/img/f3sKjaFpamcpZxm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578293683241172993/pu/img/f3sKjaFpamcpZxm7.jpg",
+					"url": "https://t.co/nV8aoD8vNX",
+					"display_url": "pic.twitter.com/nV8aoD8vNX",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1578339353964810241/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578293683241173000,
+					"id_str": "1578293683241172993",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578293683241172993/pu/img/f3sKjaFpamcpZxm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578293683241172993/pu/img/f3sKjaFpamcpZxm7.jpg",
+					"url": "https://t.co/nV8aoD8vNX",
+					"display_url": "pic.twitter.com/nV8aoD8vNX",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1578339353964810241/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 36669,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578293683241172993/pu/vid/320x568/bme3im6Xz9Rxf3WS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578293683241172993/pu/vid/720x1280/sgvj36mp-aglKQQN.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578293683241172993/pu/vid/480x852/s9xz3r7lHdfAcVw7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578293683241172993/pu/pl/WzeO7edWiPqkSUmq.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "스포티파이, 지금 3개월 무료체험 중💚",
+			"url": "https://t.co/g8ARcwfOBL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g8ARcwfOBL",
+							"expanded_url": "https://spotify.link/dZVcBzH3Etb",
+							"display_url": "spotify.link/dZVcBzH3Etb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157916,
+			"friends_count": 0,
+			"listed_count": 101,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1662081183",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 640,
+		"favorite_count": 1692,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올라운더 슬기의 \n#스포티파이 퀴즈 정답 도착!\n\n슬기의 강렬함을 담은 솔로 앨범\n[28 Reasons]를 만나보세요❤\n지금. 여기. 스포티파이에서\nhttps://t.co/mZpAmQoxy0 \n\n@RVsmtown #슬기 \n#SEULGI #28Reasons https://t.co/nV8aoD8vNX"
+	},
+	{
+		"created_at": "Fri Oct 07 11:40:16 +0000 2022",
+		"id": 1578341495236530200,
+		"id_str": "1578349488309149696",
+		"full_text": "#OFFICIALBLINK\n\n두근두근 콘서트를 기다리는\nBLINK에게 선물하는💝\n[BORN PINK] 비하인드 포토!\n지금 바로 확인해 보세요😍\n\nBLACKPINK Weverse ▶️ https://t.co/rscQX0mGCD\nBLINK MEMBERSHIP ▶️ https://t.co/J985xzatbX\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #ShutDown\n#BLINK #블링크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						226,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rscQX0mGCD",
+					"expanded_url": "https://weverse.io/blackpink/media/4-105655958",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/J985xzatbX",
+					"expanded_url": "https://weverse.io/blackpink/media/1-106431543",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8588946,
+			"friends_count": 9,
+			"listed_count": 9316,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1804,
+		"favorite_count": 5149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n두근두근 콘서트를 기다리는\nBLINK에게 선물하는💝\n[BORN PINK] 비하인드 포토!\n지금 바로 확인해 보세요😍\n\nBLACKPINK Weverse ▶️ https://t.co/rscQX0mGCD\nBLINK MEMBERSHIP ▶️ https://t.co/J985xzatbX\n\n#BLACKPINK #블랙핑크\n#2ndAlbum #BORNPINK #ShutDown\n#BLINK #블링크"
+	},
+	{
+		"created_at": "Fri Oct 07 11:40:09 +0000 2022",
+		"id": 1578339089677328400,
+		"id_str": "1578349458105966593",
+		"full_text": "짧지만 미니 팬미팅도 하며 러비들과 수다를 떨었는데요 \n이런 날이 앞으로도 많았으면 좋겠어요~! 오늘도 덕분에 행복했습니다 고마워요😍\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#뮤직뱅크 #MusicBank \n#28Reasons",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1578339086380675000,
+		"in_reply_to_status_id_str": "1578339086380675072",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5662591,
+			"friends_count": 2,
+			"listed_count": 11359,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 708,
+		"favorite_count": 2176,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "짧지만 미니 팬미팅도 하며 러비들과 수다를 떨었는데요 \n이런 날이 앞으로도 많았으면 좋겠어요~! 오늘도 덕분에 행복했습니다 고마워요😍\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#뮤직뱅크 #MusicBank \n#28Reasons"
+	},
+	{
+		"created_at": "Fri Oct 07 11:29:38 +0000 2022",
+		"id": 1578339362529595400,
+		"id_str": "1578346812234145794",
+		"full_text": "#공조2_인터내셔날 600만 돌파! 관객분들의 넘치는 공조 사랑 최고 👍👍\n이번 연휴에도 저 #림철령 #현빈 과 함께 #공조2 보러와 주실거죠? 😉\n\n지금 바로 예매 링크 확인 💙\n▶https://t.co/kbTEEq33en\n\n#임윤아 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#절찬상영중 https://t.co/5wgnWA503X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "림철령",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq33en",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578206041593892900,
+					"id_str": "1578206041593892864",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FebyeKyVEAATwm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FebyeKyVEAATwm2.jpg",
+					"url": "https://t.co/5wgnWA503X",
+					"display_url": "pic.twitter.com/5wgnWA503X",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1578339362529595394/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578206041593892900,
+					"id_str": "1578206041593892864",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FebyeKyVEAATwm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FebyeKyVEAATwm2.jpg",
+					"url": "https://t.co/5wgnWA503X",
+					"display_url": "pic.twitter.com/5wgnWA503X",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1578339362529595394/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25984,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578206041593892864/vid/540x540/PBgAbo-BKY1eOn72.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578206041593892864/vid/320x320/NQ30mv1cnfqLaNf2.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578206041593892864/vid/720x720/MYvxP6E_T3_zhoTz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1578206041593892864/pl/IJIPUcTybuz_XcgK.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331881,
+			"friends_count": 10614,
+			"listed_count": 262,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#공조2_인터내셔날 600만 돌파! 관객분들의 넘치는 공조 사랑 최고 👍👍\n이번 연휴에도 저 #림철령 #현빈 과 함께 #공조2 보러와 주실거죠? 😉\n\n지금 바로 예매 링크 확인 💙\n▶https://t.co/kbTEEq33en\n\n#임윤아 #유해진  \n#다니엘헤니 #진선규 #이석훈감독 \n#절찬상영중 https://t.co/5wgnWA503X"
+	},
+	{
+		"created_at": "Fri Oct 07 11:09:38 +0000 2022",
+		"id": 1578339443961831400,
+		"id_str": "1578341777353891843",
+		"full_text": "SEULGI 슬기 The 1st Mini Album '28 Reasons' Jacket Behind I 28 Reasons\n\nhttps://t.co/xl7k2Mkdau\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#Jacket_Behind #Behind\n\n💿Get your album\nhttps://t.co/04tzKshJKj https://t.co/dP0J3CdQHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "Jacket_Behind",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xl7k2Mkdau",
+					"expanded_url": "https://youtu.be/iVTJ4TV2B3g",
+					"display_url": "youtu.be/iVTJ4TV2B3g",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/04tzKshJKj",
+					"expanded_url": "https://seulgi.lnk.to/28Reasons",
+					"display_url": "seulgi.lnk.to/28Reasons",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578339438161035300,
+					"id_str": "1578339438161035264",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FedjW0qUAAAhI6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedjW0qUAAAhI6i.jpg",
+					"url": "https://t.co/dP0J3CdQHp",
+					"display_url": "pic.twitter.com/dP0J3CdQHp",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1578339443961831425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578339438161035300,
+					"id_str": "1578339438161035264",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FedjW0qUAAAhI6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedjW0qUAAAhI6i.jpg",
+					"url": "https://t.co/dP0J3CdQHp",
+					"display_url": "pic.twitter.com/dP0J3CdQHp",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1578339443961831425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5662591,
+			"friends_count": 2,
+			"listed_count": 11359,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2509,
+		"favorite_count": 5424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI 슬기 The 1st Mini Album '28 Reasons' Jacket Behind I 28 Reasons\n\nhttps://t.co/xl7k2Mkdau\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#Jacket_Behind #Behind\n\n💿Get your album\nhttps://t.co/04tzKshJKj https://t.co/dP0J3CdQHp"
+	},
+	{
 		"created_at": "Fri Oct 07 10:40:27 +0000 2022",
 		"id": 1578333692182769700,
 		"id_str": "1578334433685504001",
@@ -224,7 +1909,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"description": "Our new album \"22 Make\" is out now! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -332,7 +2017,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"description": "Our new album \"22 Make\" is out now! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
