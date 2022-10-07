@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 13:40:17 +0000 2022",
+		"id": 1578369902058020900,
+		"id_str": "1578379687629389825",
+		"full_text": "[LOONATHEWORLD] IN SEOUL\n\n🚨SPOILER EVENT🚨\n🐸’s solo stage is coming, #Orbit!\nCheck the image below for details👇\n\n콘서트에서 만날 🐸의 솔로 무대!\n자세한 이벤트 내용은 아래의 이미지를 통해 확인 해 주세요👇\n\nONLINE🎫https://t.co/vWlWzt5DP9        \nOFFLINE🎫https://t.co/mZlcHsE33I https://t.co/XncKnFmw5c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vWlWzt5DP9",
+					"expanded_url": "https://mmt.fans/bFIe",
+					"display_url": "mmt.fans/bFIe",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsE33I",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578369895976374300,
+					"id_str": "1578369895976374276",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fed_Ds3XkAQrhkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fed_Ds3XkAQrhkw.jpg",
+					"url": "https://t.co/XncKnFmw5c",
+					"display_url": "pic.twitter.com/XncKnFmw5c",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578369902058020864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578369895976374300,
+					"id_str": "1578369895976374276",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Fed_Ds3XkAQrhkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fed_Ds3XkAQrhkw.jpg",
+					"url": "https://t.co/XncKnFmw5c",
+					"display_url": "pic.twitter.com/XncKnFmw5c",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578369902058020864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149463,
+			"friends_count": 104,
+			"listed_count": 328,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 1070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONATHEWORLD] IN SEOUL\n\n🚨SPOILER EVENT🚨\n🐸’s solo stage is coming, #Orbit!\nCheck the image below for details👇\n\n콘서트에서 만날 🐸의 솔로 무대!\n자세한 이벤트 내용은 아래의 이미지를 통해 확인 해 주세요👇\n\nONLINE🎫https://t.co/vWlWzt5DP9        \nOFFLINE🎫https://t.co/mZlcHsE33I https://t.co/XncKnFmw5c"
+	},
+	{
 		"created_at": "Fri Oct 07 12:40:10 +0000 2022",
 		"id": 1578364013712318500,
 		"id_str": "1578364560398073856",
