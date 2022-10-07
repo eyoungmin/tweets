@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 10:40:27 +0000 2022",
+		"id": 1578333692182769700,
+		"id_str": "1578334433685504001",
+		"full_text": "Our new album \"22 Make\" is out now!! \n \nAfter nearly breaking up in the pandemic, we wanted to write a record about the other side - where hope, nostalgia and love triumph. We hope you love it as much as we do ❤️💛\n\nLet us know your favourite song! https://t.co/qdBdzxESMD https://t.co/B4sW32dRwR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdBdzxESMD",
+					"expanded_url": "http://ohwonder.lnk.to/22MakeAlbum",
+					"display_url": "ohwonder.lnk.to/22MakeAlbum",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578333678329102300,
+					"id_str": "1578333678329102336",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FedeHjnXgAADGmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedeHjnXgAADGmL.jpg",
+					"url": "https://t.co/B4sW32dRwR",
+					"display_url": "pic.twitter.com/B4sW32dRwR",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1578333692182769664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2043,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578333678329102300,
+					"id_str": "1578333678329102336",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FedeHjnXgAADGmL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedeHjnXgAADGmL.jpg",
+					"url": "https://t.co/B4sW32dRwR",
+					"display_url": "pic.twitter.com/B4sW32dRwR",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1578333692182769664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2043,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578333678329118700,
+					"id_str": "1578333678329118725",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FedeHjnXwAUghbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedeHjnXwAUghbO.jpg",
+					"url": "https://t.co/B4sW32dRwR",
+					"display_url": "pic.twitter.com/B4sW32dRwR",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1578333692182769664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578333678320717800,
+					"id_str": "1578333678320717824",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FedeHjlXkAAVfS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedeHjlXkAAVfS_.jpg",
+					"url": "https://t.co/B4sW32dRwR",
+					"display_url": "pic.twitter.com/B4sW32dRwR",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1578333692182769664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578333678316535800,
+					"id_str": "1578333678316535808",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FedeHjkXwAASJ1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedeHjkXwAASJ1P.jpg",
+					"url": "https://t.co/B4sW32dRwR",
+					"display_url": "pic.twitter.com/B4sW32dRwR",
+					"expanded_url": "https://twitter.com/OhWonderMusic/status/1578333692182769664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165510,
+			"friends_count": 203,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578304138173194241/0W-cKZNz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578304138173194241/0W-cKZNz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1665131842",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our new album \"22 Make\" is out now!! \n \nAfter nearly breaking up in the pandemic, we wanted to write a record about the other side - where hope, nostalgia and love triumph. We hope you love it as much as we do ❤️💛\n\nLet us know your favourite song! https://t.co/qdBdzxESMD https://t.co/B4sW32dRwR"
+	},
+	{
+		"created_at": "Fri Oct 07 10:40:25 +0000 2022",
+		"id": 1578329578212204500,
+		"id_str": "1578334424814522369",
+		"full_text": "@sawayamadoll Love it!!!!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sawayamadoll",
+					"name": "Ms. Eva’s Crazy Bitch Reneé",
+					"id": 51385779,
+					"id_str": "51385779",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1578310569211220000,
+		"in_reply_to_status_id_str": "1578310569211219968",
+		"in_reply_to_user_id": 51385779,
+		"in_reply_to_user_id_str": "51385779",
+		"in_reply_to_screen_name": "sawayamadoll",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"url": "https://t.co/aWDekOEjgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWDekOEjgr",
+							"expanded_url": "https://linktr.ee/ohwondermusic",
+							"display_url": "linktr.ee/ohwondermusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165510,
+			"friends_count": 203,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578304138173194241/0W-cKZNz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578304138173194241/0W-cKZNz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1665131842",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@sawayamadoll Love it!!!!"
+	},
+	{
+		"created_at": "Fri Oct 07 10:40:20 +0000 2022",
+		"id": 1578324345688137700,
+		"id_str": "1578334403276804096",
+		"full_text": "💫D-8💫\n#BehindTheScenes with #HyunJin\n\n말 없이 또 다녀가요🐱\nI come and go, without a sound🐱\n\n🔗ONLINE🎫👉https://t.co/0hwdkD7MKI  \n🔗OFFLINE🎫👉https://t.co/mZlcHsE33I \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_8 https://t.co/rqshhOT6FJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"text": "D_8",
+					"indices": [
+						208,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0hwdkD7MKI",
+					"expanded_url": "https://mmt.fans/bFuh",
+					"display_url": "mmt.fans/bFuh",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsE33I",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578324339191079000,
+					"id_str": "1578324339191078914",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FedVn8nWYAINcmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedVn8nWYAINcmo.jpg",
+					"url": "https://t.co/rqshhOT6FJ",
+					"display_url": "pic.twitter.com/rqshhOT6FJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578324345688137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578324339191079000,
+					"id_str": "1578324339191078914",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FedVn8nWYAINcmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FedVn8nWYAINcmo.jpg",
+					"url": "https://t.co/rqshhOT6FJ",
+					"display_url": "pic.twitter.com/rqshhOT6FJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1578324345688137728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149467,
+			"friends_count": 104,
+			"listed_count": 328,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 576,
+		"favorite_count": 2206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-8💫\n#BehindTheScenes with #HyunJin\n\n말 없이 또 다녀가요🐱\nI come and go, without a sound🐱\n\n🔗ONLINE🎫👉https://t.co/0hwdkD7MKI  \n🔗OFFLINE🎫👉https://t.co/mZlcHsE33I \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_8 https://t.co/rqshhOT6FJ"
+	},
+	{
+		"created_at": "Fri Oct 07 10:40:13 +0000 2022",
+		"id": 1578324265157263400,
+		"id_str": "1578334373362950145",
+		"full_text": "[Light Jeans📹] \n1st EP 'New Jeans' Music Show Behind EP.1\n\n🔗https://t.co/XqeITm9rdG\n\n#NewJeans #뉴진스 #Light_Jeans\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "Light_Jeans",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						130,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqeITm9rdG",
+					"expanded_url": "https://youtu.be/ToHZmJZnGYc",
+					"display_url": "youtu.be/ToHZmJZnGYc",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554544,
+			"friends_count": 4,
+			"listed_count": 1743,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 1905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Light Jeans📹] \n1st EP 'New Jeans' Music Show Behind EP.1\n\n🔗https://t.co/XqeITm9rdG\n\n#NewJeans #뉴진스 #Light_Jeans\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
+		"created_at": "Fri Oct 07 10:34:39 +0000 2022",
+		"id": 1578323603593928700,
+		"id_str": "1578332972037550086",
+		"full_text": "야 너두 할 수 있어(!) 제니의 '피스타치오 아이 메이크업' 따라잡기. \n#제니 #JENNIE  \nhttps://t.co/LfHvQJBpXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제니",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfHvQJBpXl",
+					"expanded_url": "https://www.wkorea.com/2022/10/07/%ec%a0%9c%eb%8b%88%ec%9d%98-%ed%94%bc%ec%8a%a4%ed%83%80%ec%b9%98%ec%98%a4-%ec%95%84%ec%9d%b4-%eb%a9%94%ec%9d%b4%ed%81%ac%ec%97%85-%eb%94%b0%eb%9d%bc%ec%9e%a1%ea%b8%b0/?ddw=125177&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/10/07/%ec…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310294,
+			"friends_count": 0,
+			"listed_count": 851,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1663737738",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 너두 할 수 있어(!) 제니의 '피스타치오 아이 메이크업' 따라잡기. \n#제니 #JENNIE  \nhttps://t.co/LfHvQJBpXl"
+	},
+	{
 		"created_at": "Fri Oct 07 09:57:39 +0000 2022",
 		"id": 1578322888448671700,
 		"id_str": "1578323659915022336",
