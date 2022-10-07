@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 23:40:10 +0000 2022",
+		"id": 1578158829266563000,
+		"id_str": "1578168266417180673",
+		"full_text": "#aespa @blakekathryn @invntatom &amp; @TeamDotts present #ægirls. Collection comprises of a 1-of-1 #NFT, four ‘Edition of 8’, and an open edition founders key collectible.\n\nBidding opens Oct 13 2022 on @sothebysverse.\nRegister now @ https://t.co/DaLhxcUo5G\n\n#blakekathryn #sothebys https://t.co/oQ2d1B13lS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ægirls",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "blakekathryn",
+					"indices": [
+						258,
+						271
+					]
+				},
+				{
+					"text": "sothebys",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						7,
+						20
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						202,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcUo5G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578155302569984000,
+					"id_str": "1578155302569984000",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Fea906IUAAAIF5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fea906IUAAAIF5Z.jpg",
+					"url": "https://t.co/oQ2d1B13lS",
+					"display_url": "pic.twitter.com/oQ2d1B13lS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1578158829266563073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578155302569984000,
+					"id_str": "1578155302569984000",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Fea906IUAAAIF5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fea906IUAAAIF5Z.jpg",
+					"url": "https://t.co/oQ2d1B13lS",
+					"display_url": "pic.twitter.com/oQ2d1B13lS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1578158829266563073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578155302569984000/vid/640x360/RCox4XMHcIHAf9f7.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578155302569984000/vid/1280x720/isDa0MeJsK5e_OJd.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1578155302569984000/vid/480x270/ZX-DjD5Ur0tAtfbN.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1578155302569984000/pl/6hetRjHZqp0ewAZL.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202594,
+			"friends_count": 2,
+			"listed_count": 9574,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 7463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1243,
+		"favorite_count": 4765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa @blakekathryn @invntatom &amp; @TeamDotts present #ægirls. Collection comprises of a 1-of-1 #NFT, four ‘Edition of 8’, and an open edition founders key collectible.\n\nBidding opens Oct 13 2022 on @sothebysverse.\nRegister now @ https://t.co/DaLhxcUo5G\n\n#blakekathryn #sothebys https://t.co/oQ2d1B13lS"
+	},
+	{
 		"created_at": "Thu Oct 06 16:40:17 +0000 2022",
 		"id": 1578053463644115000,
 		"id_str": "1578062600553766917",
@@ -39,7 +335,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
@@ -146,7 +442,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "New album \"22 Make\" out October 7th! ❤️‍🔥",
+			"description": "New album \"22 Make\" out October 7th! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
