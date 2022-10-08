@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 19:40:10 +0000 2022",
+		"id": 1578790479969554400,
+		"id_str": "1578832644095164418",
+		"full_text": "OH WONDER //\n22 MAKE \n\nThank you Oh Wonder for a great in store and to everyone who joined us last night at the 22 MAKE album launch. \n\n@OhWonderMusic \n@islandrecordsuk https://t.co/kV7LXKsGWV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OhWonderMusic",
+					"name": "Oh Wonder",
+					"id": 2740435740,
+					"id_str": "2740435740",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"screen_name": "islandrecordsuk",
+					"name": "Island Records",
+					"id": 21113023,
+					"id_str": "21113023",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578790469710090200,
+					"id_str": "1578790469710090241",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/Fej9kUHXkAEvbdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fej9kUHXkAEvbdz.jpg",
+					"url": "https://t.co/kV7LXKsGWV",
+					"display_url": "pic.twitter.com/kV7LXKsGWV",
+					"expanded_url": "https://twitter.com/vinilorecstore/status/1578790479969554433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578790469710090200,
+					"id_str": "1578790469710090241",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/Fej9kUHXkAEvbdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fej9kUHXkAEvbdz.jpg",
+					"url": "https://t.co/kV7LXKsGWV",
+					"display_url": "pic.twitter.com/kV7LXKsGWV",
+					"expanded_url": "https://twitter.com/vinilorecstore/status/1578790479969554433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842030490693558300,
+			"id_str": "842030490693558273",
+			"name": "Vinilo Record Store",
+			"screen_name": "vinilorecstore",
+			"location": "Southampton | Bournemouth ",
+			"description": "Independent Record Store. Southampton | Bournemouth",
+			"url": "https://t.co/C2AGtmoOsK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2AGtmoOsK",
+							"expanded_url": "http://www.vinilo.co.uk",
+							"display_url": "vinilo.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1984,
+			"friends_count": 73,
+			"listed_count": 24,
+			"created_at": "Wed Mar 15 15:11:27 +0000 2017",
+			"favourites_count": 4136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317175496304623619/BByJXBlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317175496304623619/BByJXBlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842030490693558273/1584180862",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OH WONDER //\n22 MAKE \n\nThank you Oh Wonder for a great in store and to everyone who joined us last night at the 22 MAKE album launch. \n\n@OhWonderMusic \n@islandrecordsuk https://t.co/kV7LXKsGWV"
+	},
+	{
 		"created_at": "Sat Oct 08 15:35:28 +0000 2022",
 		"id": 1578763396526268400,
 		"id_str": "1578771065995599872",
