@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 15:35:28 +0000 2022",
+		"id": 1578763396526268400,
+		"id_str": "1578771065995599872",
+		"full_text": "[📺] @sbsnow @gn_family\n잠시 후, SBS '2022 #강남페스티벌 #영동대로KPOP콘서트 ‘에\n청하가 출연합니다!💚💙💜\n\n✔ AM 12:25\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강남페스티벌",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "영동대로KPOP콘서트",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSNOW",
+					"name": "SBSNOW",
+					"id": 113259902,
+					"id_str": "113259902",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"screen_name": "gn_family",
+					"name": "강남구청",
+					"id": 197370422,
+					"id_str": "197370422",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356482,
+			"friends_count": 1,
+			"listed_count": 2225,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 314,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] @sbsnow @gn_family\n잠시 후, SBS '2022 #강남페스티벌 #영동대로KPOP콘서트 ‘에\n청하가 출연합니다!💚💙💜\n\n✔ AM 12:25\n\n#청하 #CHUNGHA"
+	},
+	{
 		"created_at": "Sat Oct 08 14:40:46 +0000 2022",
 		"id": 1578756154943238100,
 		"id_str": "1578757296943161347",
