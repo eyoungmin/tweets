@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 10:40:21 +0000 2022",
+		"id": 1578695215669743600,
+		"id_str": "1578696796787728384",
+		"full_text": "🖤이달의 소녀 (LOONA) HOBBY PLANET season1 [LOOK:NA] OFFICIAL MD OPEN!\n\n🗓 2022.10.08 (SAT) 6:00 PM ~ 10.18 (TUE) 11:59 PM (KST)\n\n🔗 https://t.co/RqbtU6hJte\n\n#이달의소녀 #LOONA #HOBBYPLANET #LOOKNA #에버라인 #EVERLINE https://t.co/RDeClF1gjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "HOBBYPLANET",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"text": "LOOKNA",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "에버라인",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "EVERLINE",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqbtU6hJte",
+					"expanded_url": "https://bit.ly/3MkyBWf",
+					"display_url": "bit.ly/3MkyBWf",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578695132744142800,
+					"id_str": "1578695132744142849",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Feim2-PaUAEqak9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feim2-PaUAEqak9.jpg",
+					"url": "https://t.co/RDeClF1gjJ",
+					"display_url": "pic.twitter.com/RDeClF1gjJ",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578695215669743616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 703,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 233,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578695132744142800,
+					"id_str": "1578695132744142849",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Feim2-PaUAEqak9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feim2-PaUAEqak9.jpg",
+					"url": "https://t.co/RDeClF1gjJ",
+					"display_url": "pic.twitter.com/RDeClF1gjJ",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578695215669743616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 703,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 233,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578695195759374300,
+					"id_str": "1578695195759374337",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Feim6o_acAE5TQw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Feim6o_acAE5TQw.jpg",
+					"url": "https://t.co/RDeClF1gjJ",
+					"display_url": "pic.twitter.com/RDeClF1gjJ",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578695215669743616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 758,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 252,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 444,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309403974735286300,
+			"id_str": "1309403974735286272",
+			"name": "EVERLINE",
+			"screen_name": "EVERLINESHOP",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/DsIywT1pAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsIywT1pAi",
+							"expanded_url": "http://everlineshop.com/",
+							"display_url": "everlineshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10524,
+			"friends_count": 0,
+			"listed_count": 52,
+			"created_at": "Fri Sep 25 08:07:03 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309403974735286272/1601021479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤이달의 소녀 (LOONA) HOBBY PLANET season1 [LOOK:NA] OFFICIAL MD OPEN!\n\n🗓 2022.10.08 (SAT) 6:00 PM ~ 10.18 (TUE) 11:59 PM (KST)\n\n🔗 https://t.co/RqbtU6hJte\n\n#이달의소녀 #LOONA #HOBBYPLANET #LOOKNA #에버라인 #EVERLINE https://t.co/RDeClF1gjJ"
+	},
+	{
+		"created_at": "Sat Oct 08 10:40:14 +0000 2022",
+		"id": 1578691923644416000,
+		"id_str": "1578696766660431872",
+		"full_text": "널 망친 28 Reasons 🔫\n괜찮아 몰라도 돼 😆\n\nhttps://t.co/5x3cwsf902\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#28Reasons_challenge\n#조나단 #동네스타K2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						98,
+						118
+					]
+				},
+				{
+					"text": "조나단",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "동네스타K2",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5x3cwsf902",
+					"expanded_url": "https://vt.tiktok.com/ZSRVQ6N8g/",
+					"display_url": "vt.tiktok.com/ZSRVQ6N8g/",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5664078,
+			"friends_count": 2,
+			"listed_count": 11356,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1003,
+		"favorite_count": 2632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "널 망친 28 Reasons 🔫\n괜찮아 몰라도 돼 😆\n\nhttps://t.co/5x3cwsf902\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#28Reasons_challenge\n#조나단 #동네스타K2"
+	},
+	{
 		"created_at": "Sat Oct 08 09:40:29 +0000 2022",
 		"id": 1578671543625740300,
 		"id_str": "1578681730818805765",
