@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 06:40:36 +0000 2022",
+		"id": 1578631941502292000,
+		"id_str": "1578636461682860033",
+		"full_text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMBC #쇼음악중심 1위 후보에 올랐습니다!\n\n📲실시간 문자투표\n#0505➡️블랙핑크\n\n📲뮤빗 어플 내 ‘쇼! 음악중심 생방송 앱 투표’ 탭 \n▶️IOS : https://t.co/X96T9EnzRf\n▶️Android : https://t.co/OXfkT9efgz\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						211,
+						220
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						221,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X96T9EnzRf",
+					"expanded_url": "https://apple.co/2LPpQHB",
+					"display_url": "apple.co/2LPpQHB",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/OXfkT9efgz",
+					"expanded_url": "https://bit.ly/2qG2Y0T",
+					"display_url": "bit.ly/2qG2Y0T",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8590934,
+			"friends_count": 9,
+			"listed_count": 9315,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 972,
+		"favorite_count": 2801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n#BLACKPINK 의 Shut Down이\nMBC #쇼음악중심 1위 후보에 올랐습니다!\n\n📲실시간 문자투표\n#0505➡️블랙핑크\n\n📲뮤빗 어플 내 ‘쇼! 음악중심 생방송 앱 투표’ 탭 \n▶️IOS : https://t.co/X96T9EnzRf\n▶️Android : https://t.co/OXfkT9efgz\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
+		"created_at": "Sat Oct 08 06:40:27 +0000 2022",
+		"id": 1578580953328394200,
+		"id_str": "1578636423351209984",
+		"full_text": "[#구공구픽]\n\n221008 9️⃣0️⃣9️⃣ 미리보기 * ˎˊ-\n\nK-909 본방은 \n오후 4시 40분 JTBC에서♡⁼³₌₃\n\n인스타그램 @jtbc_k909 에서도 사진을 만나보실 수 있습니다💌\n\n#K909 #KPOP\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet @RVsmtown \n#BEO @BPM_BEO https://t.co/5PZcaw1ajm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구공구픽",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "K909",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "BEO",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jtbc_K909",
+					"name": "K-909",
+					"id": 1562796336239427600,
+					"id_str": "1562796336239427584",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"screen_name": "BPM_BEO",
+					"name": "BE'O",
+					"id": 1509041813570535400,
+					"id_str": "1509041813570535424",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578564077496209400,
+					"id_str": "1578564077496209408",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FegvqjZakAAwEHf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegvqjZakAAwEHf.jpg",
+					"url": "https://t.co/5PZcaw1ajm",
+					"display_url": "pic.twitter.com/5PZcaw1ajm",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578580953328394243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578564077496209400,
+					"id_str": "1578564077496209408",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FegvqjZakAAwEHf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegvqjZakAAwEHf.jpg",
+					"url": "https://t.co/5PZcaw1ajm",
+					"display_url": "pic.twitter.com/5PZcaw1ajm",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578580953328394243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578564077487784000,
+					"id_str": "1578564077487783938",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FegvqjXaAAILIWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegvqjXaAAILIWK.jpg",
+					"url": "https://t.co/5PZcaw1ajm",
+					"display_url": "pic.twitter.com/5PZcaw1ajm",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578580953328394243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578564077496205300,
+					"id_str": "1578564077496205312",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FegvqjZagAAMGjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegvqjZagAAMGjP.jpg",
+					"url": "https://t.co/5PZcaw1ajm",
+					"display_url": "pic.twitter.com/5PZcaw1ajm",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578580953328394243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562796336239427600,
+			"id_str": "1562796336239427584",
+			"name": "K-909",
+			"screen_name": "jtbc_K909",
+			"location": "Instagram @jtbc_k909",
+			"description": "JTBC Music Universe 《K-909》 Official Twitter /\nSAT 4:40 PM (KST) Live on Air /\n​\n전 세계를 뒤집은 K-POP\n그 시선을 뒤집을 K-909 공식 트위터",
+			"url": "https://t.co/Uq0L6Wq7Lj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq0L6Wq7Lj",
+							"expanded_url": "https://www.youtube.com/c/KPOPJAMM",
+							"display_url": "youtube.com/c/KPOPJAMM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4597,
+			"friends_count": 3,
+			"listed_count": 21,
+			"created_at": "Thu Aug 25 13:37:51 +0000 2022",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1563048099526103041/5CqN0Lqk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563048099526103041/5CqN0Lqk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562796336239427584/1664191429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2108,
+		"favorite_count": 4847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#구공구픽]\n\n221008 9️⃣0️⃣9️⃣ 미리보기 * ˎˊ-\n\nK-909 본방은 \n오후 4시 40분 JTBC에서♡⁼³₌₃\n\n인스타그램 @jtbc_k909 에서도 사진을 만나보실 수 있습니다💌\n\n#K909 #KPOP\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet @RVsmtown \n#BEO @BPM_BEO https://t.co/5PZcaw1ajm"
+	},
+	{
+		"created_at": "Sat Oct 08 06:40:23 +0000 2022",
+		"id": 1578585976821121000,
+		"id_str": "1578636406062288896",
+		"full_text": "[#구공구픽]\n\n221008 9️⃣0️⃣9️⃣ 미리보기 * ˎˊ-\n\nK-909 본방은 \n오후 4시 40분 JTBC에서♡⁼³₌₃\n\n인스타그램 @jtbc_k909 에서도 사진을 만나보실 수 있습니다💌\n\n#K909 #KPOP\n#보아 #BoA @BoAkwon\n#슬기 #SEULGI @RVsmtown https://t.co/ioyQH5vCDM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구공구픽",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "K909",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						145,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jtbc_K909",
+					"name": "K-909",
+					"id": 1562796336239427600,
+					"id_str": "1562796336239427584",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "BoAkwon",
+					"name": "BoA",
+					"id": 169927844,
+					"id_str": "169927844",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578564847520059400,
+					"id_str": "1578564847520059392",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FegwXX9aEAAS-Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegwXX9aEAAS-Ps.jpg",
+					"url": "https://t.co/ioyQH5vCDM",
+					"display_url": "pic.twitter.com/ioyQH5vCDM",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578585976821121026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578564847520059400,
+					"id_str": "1578564847520059392",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FegwXX9aEAAS-Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegwXX9aEAAS-Ps.jpg",
+					"url": "https://t.co/ioyQH5vCDM",
+					"display_url": "pic.twitter.com/ioyQH5vCDM",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578585976821121026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578564847494901800,
+					"id_str": "1578564847494901760",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FegwXX3aMAA4ZAa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FegwXX3aMAA4ZAa.jpg",
+					"url": "https://t.co/ioyQH5vCDM",
+					"display_url": "pic.twitter.com/ioyQH5vCDM",
+					"expanded_url": "https://twitter.com/jtbc_K909/status/1578585976821121026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1562796336239427600,
+			"id_str": "1562796336239427584",
+			"name": "K-909",
+			"screen_name": "jtbc_K909",
+			"location": "Instagram @jtbc_k909",
+			"description": "JTBC Music Universe 《K-909》 Official Twitter /\nSAT 4:40 PM (KST) Live on Air /\n​\n전 세계를 뒤집은 K-POP\n그 시선을 뒤집을 K-909 공식 트위터",
+			"url": "https://t.co/Uq0L6Wq7Lj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq0L6Wq7Lj",
+							"expanded_url": "https://www.youtube.com/c/KPOPJAMM",
+							"display_url": "youtube.com/c/KPOPJAMM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4597,
+			"friends_count": 3,
+			"listed_count": 21,
+			"created_at": "Thu Aug 25 13:37:51 +0000 2022",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1563048099526103041/5CqN0Lqk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563048099526103041/5CqN0Lqk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1562796336239427584/1664191429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1785,
+		"favorite_count": 4205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#구공구픽]\n\n221008 9️⃣0️⃣9️⃣ 미리보기 * ˎˊ-\n\nK-909 본방은 \n오후 4시 40분 JTBC에서♡⁼³₌₃\n\n인스타그램 @jtbc_k909 에서도 사진을 만나보실 수 있습니다💌\n\n#K909 #KPOP\n#보아 #BoA @BoAkwon\n#슬기 #SEULGI @RVsmtown https://t.co/ioyQH5vCDM"
+	},
+	{
 		"created_at": "Sat Oct 08 05:40:10 +0000 2022",
 		"id": 1578614960527376400,
 		"id_str": "1578621252079521794",
