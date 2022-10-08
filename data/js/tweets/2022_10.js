@@ -1,6 +1,1198 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 08:57:53 +0000 2022",
+		"id": 1578666914355650600,
+		"id_str": "1578671008403243008",
+		"full_text": "[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam | Show! MusicCore | MBC221008방송\n\nhttps://t.co/sx4bVV7eaf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "MusicCore",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sx4bVV7eaf",
+					"expanded_url": "https://youtu.be/8ESGpEkAatM",
+					"display_url": "youtu.be/8ESGpEkAatM",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5663858,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 870,
+		"favorite_count": 1909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam | Show! MusicCore | MBC221008방송\n\nhttps://t.co/sx4bVV7eaf\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore"
+	},
+	{
+		"created_at": "Sat Oct 08 08:57:52 +0000 2022",
+		"id": 1578670438712213500,
+		"id_str": "1578671003084865536",
+		"full_text": "음악중심 무사히 마쳤어요~!\n오늘은 흰색 옷이라 좀 더 아련하게 해보려고 했는데… 표현이 됐나 모르겠네 🥹\n오늘 정말 많은 러비들이 와주셨는데 응원 너무 고마워요 러비뿐이야!!💛💛\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#음악중심 #MusicCore\n#28Reasons https://t.co/XrmxgjTroB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "MusicCore",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578670434198749200,
+					"id_str": "1578670434198749184",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiQZU_UAAA0_E1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiQZU_UAAA0_E1.jpg",
+					"url": "https://t.co/XrmxgjTroB",
+					"display_url": "pic.twitter.com/XrmxgjTroB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1578670438712213505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578670434198749200,
+					"id_str": "1578670434198749184",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiQZU_UAAA0_E1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiQZU_UAAA0_E1.jpg",
+					"url": "https://t.co/XrmxgjTroB",
+					"display_url": "pic.twitter.com/XrmxgjTroB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1578670438712213505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5663858,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1819,
+		"favorite_count": 4038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악중심 무사히 마쳤어요~!\n오늘은 흰색 옷이라 좀 더 아련하게 해보려고 했는데… 표현이 됐나 모르겠네 🥹\n오늘 정말 많은 러비들이 와주셨는데 응원 너무 고마워요 러비뿐이야!!💛💛\n\n#슬기 #SEULGI \n#레드벨벳 #RedVelvet \n#음악중심 #MusicCore\n#28Reasons https://t.co/XrmxgjTroB"
+	},
+	{
+		"created_at": "Sat Oct 08 08:57:52 +0000 2022",
+		"id": 1578666782956478500,
+		"id_str": "1578671003059642369",
+		"full_text": "[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송\n\nhttps://t.co/D9twSKBmxG\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "MusicCore",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D9twSKBmxG",
+					"expanded_url": "https://youtu.be/zbIoL-oRzSw",
+					"display_url": "youtu.be/zbIoL-oRzSw",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5663858,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 857,
+		"favorite_count": 1822,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송\n\nhttps://t.co/D9twSKBmxG\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore"
+	},
+	{
+		"created_at": "Sat Oct 08 08:40:25 +0000 2022",
+		"id": 1578665518709747700,
+		"id_str": "1578666612160241665",
+		"full_text": "슬기 - 28 리즌스 (SEULGI - 28 Reasons), MBC 221008 방송\n\nhttps://t.co/rlIIuLeSdy\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "MusicCore",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rlIIuLeSdy",
+					"expanded_url": "https://tv.naver.com/v/29775672",
+					"display_url": "tv.naver.com/v/29775672",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5663858,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1251,
+		"favorite_count": 2818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬기 - 28 리즌스 (SEULGI - 28 Reasons), MBC 221008 방송\n\nhttps://t.co/rlIIuLeSdy\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#음악중심 #MusicCore"
+	},
+	{
+		"created_at": "Sat Oct 08 08:40:20 +0000 2022",
+		"id": 1578663992473493500,
+		"id_str": "1578666590400172032",
+		"full_text": "[출연📌] \n오늘(10/8) 6:30PM 아이돌플러스 &lt;2022 더팩트 뮤직 어워즈&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;2022 THE FACT AWARDS&gt; on idolplus on October 8 at 6:30PM KST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴진스",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "NewJeans",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557424,
+			"friends_count": 4,
+			"listed_count": 1745,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 519,
+		"favorite_count": 2001,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[출연📌] \n오늘(10/8) 6:30PM 아이돌플러스 &lt;2022 더팩트 뮤직 어워즈&gt;에 #뉴진스 가 출연합니다.\n\n#NewJeans will be on the &lt;2022 THE FACT AWARDS&gt; on idolplus on October 8 at 6:30PM KST"
+	},
+	{
+		"created_at": "Sat Oct 08 08:40:17 +0000 2022",
+		"id": 1578656540370038800,
+		"id_str": "1578666581147910144",
+		"full_text": "[🎥#안방1열비하인드] 순간포착📸 인기가요에 이런일이?! '블랙핑크는 엉뚱해' 편\n\n #인기가요 #안방1열비하인드 #블랙핑크 #BLACKPINK @BLACKPINK @ygofficialblink\n\n📌 https://t.co/dNKaj9oJ62 https://t.co/l5WrVS4wtp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열비하인드",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "안방1열비하인드",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dNKaj9oJ62",
+					"expanded_url": "https://youtu.be/_wPXBMan_u4",
+					"display_url": "youtu.be/_wPXBMan_u4",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578656532534767600,
+					"id_str": "1578656532534767616",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiDwJQVsAAYsCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiDwJQVsAAYsCV.jpg",
+					"url": "https://t.co/l5WrVS4wtp",
+					"display_url": "pic.twitter.com/l5WrVS4wtp",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1578656540370038784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578656532534767600,
+					"id_str": "1578656532534767616",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiDwJQVsAAYsCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiDwJQVsAAYsCV.jpg",
+					"url": "https://t.co/l5WrVS4wtp",
+					"display_url": "pic.twitter.com/l5WrVS4wtp",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1578656540370038784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ SBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsG17u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsG17u",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739483,
+			"friends_count": 79,
+			"listed_count": 862,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 6396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1664682182",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1688,
+		"favorite_count": 4761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열비하인드] 순간포착📸 인기가요에 이런일이?! '블랙핑크는 엉뚱해' 편\n\n #인기가요 #안방1열비하인드 #블랙핑크 #BLACKPINK @BLACKPINK @ygofficialblink\n\n📌 https://t.co/dNKaj9oJ62 https://t.co/l5WrVS4wtp"
+	},
+	{
+		"created_at": "Sat Oct 08 08:40:15 +0000 2022",
+		"id": 1578656543532527600,
+		"id_str": "1578666571953688576",
+		"full_text": "[NewZips📹] EP.3\nLast Day In 뉴캠프 ⛺️🌳\n\n🔗https://t.co/MCWVLKyWRz\n\n#NewJeans #뉴진스 #NewZips\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "NewZips",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MCWVLKyWRz",
+					"expanded_url": "https://youtu.be/XwUdoDcgfng",
+					"display_url": "youtu.be/XwUdoDcgfng",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557424,
+			"friends_count": 4,
+			"listed_count": 1745,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 745,
+		"favorite_count": 2526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NewZips📹] EP.3\nLast Day In 뉴캠프 ⛺️🌳\n\n🔗https://t.co/MCWVLKyWRz\n\n#NewJeans #뉴진스 #NewZips\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
 		"created_at": "Sat Oct 08 07:40:10 +0000 2022",
 		"id": 1578649646443921400,
 		"id_str": "1578651450347032576",
