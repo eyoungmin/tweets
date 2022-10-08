@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 13:40:19 +0000 2022",
+		"id": 1578740320065376300,
+		"id_str": "1578742087755141120",
+		"full_text": "으하하하하하하하하!!!ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/R68IcHzdBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R68IcHzdBq",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1578705277460697088",
+					"display_url": "twitter.com/2sunkyu/status…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275043,
+			"friends_count": 594,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578705277460697000,
+		"quoted_status_id_str": "1578705277460697088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R68IcHzdBq",
+			"expanded": "https://twitter.com/2sunkyu/status/1578705277460697088",
+			"display": "twitter.com/2sunkyu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 08 11:14:03 +0000 2022",
+			"id": 1578705277460697000,
+			"id_str": "1578705277460697088",
+			"full_text": "자우림입니다. https://t.co/mB6JpSDevz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				7
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1578705267851526100,
+						"id_str": "1578705267851526146",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/FeiwE6dUAAIgmGW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeiwE6dUAAIgmGW.jpg",
+						"url": "https://t.co/mB6JpSDevz",
+						"display_url": "pic.twitter.com/mB6JpSDevz",
+						"expanded_url": "https://twitter.com/2sunkyu/status/1578705277460697088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578705267851526100,
+						"id_str": "1578705267851526146",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/FeiwE6dUAAIgmGW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeiwE6dUAAIgmGW.jpg",
+						"url": "https://t.co/mB6JpSDevz",
+						"display_url": "pic.twitter.com/mB6JpSDevz",
+						"expanded_url": "https://twitter.com/2sunkyu/status/1578705277460697088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 126699468,
+				"id_str": "126699468",
+				"name": "이선규",
+				"screen_name": "2sunkyu",
+				"location": "",
+				"description": "Rock'n'Roll Warrior",
+				"url": "https://t.co/IF62RzeIlP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IF62RzeIlP",
+								"expanded_url": "https://www.youtube.com/c/rockandrollwarrior",
+								"display_url": "youtube.com/c/rockandrollw…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3679,
+				"friends_count": 110,
+				"listed_count": 71,
+				"created_at": "Fri Mar 26 18:20:30 +0000 2010",
+				"favourites_count": 290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1643,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/126699468/1657371506",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 64,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "으하하하하하하하하!!!ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/R68IcHzdBq"
+	},
+	{
+		"created_at": "Sat Oct 08 13:40:10 +0000 2022",
+		"id": 1578596044006338600,
+		"id_str": "1578742047434952705",
+		"full_text": "All “Attention” over here please 🐰 Find out how well @NewJeans_ADOR members know each other on our K-Pop ON! playlist ✨ You'll be surprised!\n\nhttps://t.co/jXKkZ6sBcN\n\n#ImOnKPopON #SpotifyKPop https://t.co/LLxhSxM9JZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ImOnKPopON",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "SpotifyKPop",
+					"indices": [
+						179,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jXKkZ6sBcN",
+					"expanded_url": "http://spoti.fi/KPopON",
+					"display_url": "spoti.fi/KPopON",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578582220507205600,
+					"id_str": "1578582220507205632",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578582220507205632/pu/img/j6eyV6UUjZ06d_VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578582220507205632/pu/img/j6eyV6UUjZ06d_VR.jpg",
+					"url": "https://t.co/LLxhSxM9JZ",
+					"display_url": "pic.twitter.com/LLxhSxM9JZ",
+					"expanded_url": "https://twitter.com/SpotifyKpop/status/1578596044006338562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578582220507205600,
+					"id_str": "1578582220507205632",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578582220507205632/pu/img/j6eyV6UUjZ06d_VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578582220507205632/pu/img/j6eyV6UUjZ06d_VR.jpg",
+					"url": "https://t.co/LLxhSxM9JZ",
+					"display_url": "pic.twitter.com/LLxhSxM9JZ",
+					"expanded_url": "https://twitter.com/SpotifyKpop/status/1578596044006338562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14697,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578582220507205632/pu/vid/320x568/oMZn804j_YRezUNf.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578582220507205632/pu/vid/720x1280/xxGD__hlcd1U4m3y.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578582220507205632/pu/vid/480x852/xsC2FuT-JmaBuDtf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578582220507205632/pu/pl/l6jcda8Rvb4-vWwc.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKpop",
+			"location": "",
+			"description": "Annyeong! ✨ Welcome to the colorful world of music, standom, community, and more. Turn on the movement! #SpotifyKPop",
+			"url": "https://t.co/OXiIJ12IEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OXiIJ12IEA",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479617,
+			"friends_count": 241,
+			"listed_count": 489,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 4980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1655957063",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 854,
+		"favorite_count": 3009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All “Attention” over here please 🐰 Find out how well @NewJeans_ADOR members know each other on our K-Pop ON! playlist ✨ You'll be surprised!\n\nhttps://t.co/jXKkZ6sBcN\n\n#ImOnKPopON #SpotifyKPop https://t.co/LLxhSxM9JZ"
+	},
+	{
 		"created_at": "Sat Oct 08 11:40:15 +0000 2022",
 		"id": 1578705140089258000,
 		"id_str": "1578711868667224066",
