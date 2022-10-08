@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 14:40:46 +0000 2022",
+		"id": 1578756154943238100,
+		"id_str": "1578757296943161347",
+		"full_text": "#오늘의_자우림\n\n#코코사운드스튜디오 와 \n#드림팩토리스튜디오 에서\n함께하는 스튜디오 생활\n#녹음실_DAY_02\n오늘까지 주인공은 드러머!!\n성길씨 고생 많으셨습니다!!\n\n그리고 그거 알아?\n드디어 내일은 늦잠 잘 수 있다!!\n100시간 자고 싶어!!!\n😆😆😆😆😆😆😆😆😆😆 https://t.co/EihcTRm090",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "코코사운드스튜디오",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "드림팩토리스튜디오",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "녹음실_DAY_02",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578756144465469400,
+					"id_str": "1578756144465469440",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FejeWUnUYAA3Mqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejeWUnUYAA3Mqe.jpg",
+					"url": "https://t.co/EihcTRm090",
+					"display_url": "pic.twitter.com/EihcTRm090",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578756154943238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578756144465469400,
+					"id_str": "1578756144465469440",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FejeWUnUYAA3Mqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejeWUnUYAA3Mqe.jpg",
+					"url": "https://t.co/EihcTRm090",
+					"display_url": "pic.twitter.com/EihcTRm090",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578756154943238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578756144452935700,
+					"id_str": "1578756144452935681",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FejeWUkVIAENI6S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejeWUkVIAENI6S.jpg",
+					"url": "https://t.co/EihcTRm090",
+					"display_url": "pic.twitter.com/EihcTRm090",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578756154943238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578756144461361200,
+					"id_str": "1578756144461361152",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FejeWUmVsAADcxm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejeWUmVsAADcxm.jpg",
+					"url": "https://t.co/EihcTRm090",
+					"display_url": "pic.twitter.com/EihcTRm090",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578756154943238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578756144494833700,
+					"id_str": "1578756144494833665",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FejeWUuUcAEpswr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejeWUuUcAEpswr.jpg",
+					"url": "https://t.co/EihcTRm090",
+					"display_url": "pic.twitter.com/EihcTRm090",
+					"expanded_url": "https://twitter.com/love_yuna/status/1578756154943238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275026,
+			"friends_count": 594,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림\n\n#코코사운드스튜디오 와 \n#드림팩토리스튜디오 에서\n함께하는 스튜디오 생활\n#녹음실_DAY_02\n오늘까지 주인공은 드러머!!\n성길씨 고생 많으셨습니다!!\n\n그리고 그거 알아?\n드디어 내일은 늦잠 잘 수 있다!!\n100시간 자고 싶어!!!\n😆😆😆😆😆😆😆😆😆😆 https://t.co/EihcTRm090"
+	},
+	{
+		"created_at": "Sat Oct 08 14:40:37 +0000 2022",
+		"id": 1578754512927744000,
+		"id_str": "1578757262642147329",
+		"full_text": "😝🖤😎   #NewJeans #해린 #HAERIN https://t.co/sOiSg0m4zY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "해린",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "HAERIN",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578754464944914400,
+					"id_str": "1578754464944914433",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fejc0j6agAE9NAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fejc0j6agAE9NAy.jpg",
+					"url": "https://t.co/sOiSg0m4zY",
+					"display_url": "pic.twitter.com/sOiSg0m4zY",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578754512927744001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578754464944914400,
+					"id_str": "1578754464944914433",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fejc0j6agAE9NAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fejc0j6agAE9NAy.jpg",
+					"url": "https://t.co/sOiSg0m4zY",
+					"display_url": "pic.twitter.com/sOiSg0m4zY",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578754512927744001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231320,
+			"friends_count": 3,
+			"listed_count": 764,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4993,
+		"favorite_count": 13182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😝🖤😎   #NewJeans #해린 #HAERIN https://t.co/sOiSg0m4zY"
+	},
+	{
+		"created_at": "Sat Oct 08 14:40:31 +0000 2022",
+		"id": 1578754235566473200,
+		"id_str": "1578757236687785984",
+		"full_text": "우리들의 첫! award! 더 팩트 ✨\n오늘 보러 와주신 모든 분들 너무 감사합니다!\nPerformance ✨,red carpet ✨, awards ✨ 너무 행복했어요!\n여러분 덕분에 소중한 상을 받을 수 있었어요 I love u all🥰\n\n#NewJeans #혜인 #HYEIN https://t.co/nizRuRdXjh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "혜인",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "HYEIN",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578754227601436700,
+					"id_str": "1578754227601436672",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FejcmvvUcAAvNaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejcmvvUcAAvNaa.jpg",
+					"url": "https://t.co/nizRuRdXjh",
+					"display_url": "pic.twitter.com/nizRuRdXjh",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578754235566473218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578754227601436700,
+					"id_str": "1578754227601436672",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FejcmvvUcAAvNaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejcmvvUcAAvNaa.jpg",
+					"url": "https://t.co/nizRuRdXjh",
+					"display_url": "pic.twitter.com/nizRuRdXjh",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578754235566473218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231320,
+			"friends_count": 3,
+			"listed_count": 764,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2928,
+		"favorite_count": 8466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리들의 첫! award! 더 팩트 ✨\n오늘 보러 와주신 모든 분들 너무 감사합니다!\nPerformance ✨,red carpet ✨, awards ✨ 너무 행복했어요!\n여러분 덕분에 소중한 상을 받을 수 있었어요 I love u all🥰\n\n#NewJeans #혜인 #HYEIN https://t.co/nizRuRdXjh"
+	},
+	{
+		"created_at": "Sat Oct 08 14:40:24 +0000 2022",
+		"id": 1578752907893432300,
+		"id_str": "1578757206568493056",
+		"full_text": "☁️✨✨🥰 #하니 #HANNI https://t.co/HUq4rSuTJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하니",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "HANNI",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578752901694259200,
+					"id_str": "1578752901694259204",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FejbZkWagAQkCpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejbZkWagAQkCpX.jpg",
+					"url": "https://t.co/HUq4rSuTJZ",
+					"display_url": "pic.twitter.com/HUq4rSuTJZ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578752907893432322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578752901694259200,
+					"id_str": "1578752901694259204",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FejbZkWagAQkCpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejbZkWagAQkCpX.jpg",
+					"url": "https://t.co/HUq4rSuTJZ",
+					"display_url": "pic.twitter.com/HUq4rSuTJZ",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578752907893432322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231320,
+			"friends_count": 3,
+			"listed_count": 764,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5337,
+		"favorite_count": 16007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "☁️✨✨🥰 #하니 #HANNI https://t.co/HUq4rSuTJZ"
+	},
+	{
+		"created_at": "Sat Oct 08 14:40:17 +0000 2022",
+		"id": 1578751477916782600,
+		"id_str": "1578757176474374150",
+		"full_text": "Hey hey!!!! 🐶🤩Another exciting day todayyyy !!🎉😝첫 시상식을 이렇게 행복하게 보내다니!!! 다 여러분 덕분 이에요!!!  💖💖Thank you and love you ✖️♾ !!  ❤️🧡💓💗💜                         #NewJeans #다니엘 #DANIELLE https://t.co/Ug5xEaiaSm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "DANIELLE",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578751471138779100,
+					"id_str": "1578751471138779137",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FejaGTHaMAEf7Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejaGTHaMAEf7Uf.jpg",
+					"url": "https://t.co/Ug5xEaiaSm",
+					"display_url": "pic.twitter.com/Ug5xEaiaSm",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578751477916782597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578751471138779100,
+					"id_str": "1578751471138779137",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FejaGTHaMAEf7Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FejaGTHaMAEf7Uf.jpg",
+					"url": "https://t.co/Ug5xEaiaSm",
+					"display_url": "pic.twitter.com/Ug5xEaiaSm",
+					"expanded_url": "https://twitter.com/NewJeans_twt/status/1578751477916782597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476466754641891300,
+			"id_str": "1476466754641891328",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_twt",
+			"location": "",
+			"description": "You know who we are😉우리는 뉴진스✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231320,
+			"friends_count": 3,
+			"listed_count": 764,
+			"created_at": "Thu Dec 30 08:14:54 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578760330775519233/zV-W-AXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476466754641891328/1662431415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3862,
+		"favorite_count": 12351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hey hey!!!! 🐶🤩Another exciting day todayyyy !!🎉😝첫 시상식을 이렇게 행복하게 보내다니!!! 다 여러분 덕분 이에요!!!  💖💖Thank you and love you ✖️♾ !!  ❤️🧡💓💗💜                         #NewJeans #다니엘 #DANIELLE https://t.co/Ug5xEaiaSm"
+	},
+	{
 		"created_at": "Sat Oct 08 13:40:19 +0000 2022",
 		"id": 1578740320065376300,
 		"id_str": "1578742087755141120",
