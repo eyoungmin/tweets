@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 09:40:29 +0000 2022",
+		"id": 1578671543625740300,
+		"id_str": "1578681730818805765",
+		"full_text": "🖤이달의 소녀 (LOONA) HOBBY PLANET season1 [LOOK:NA] OFFICIAL MD OPEN!\n\n🗓 2022.10.08 (SAT) 6:00 PM ~ 10.18 (TUE) 11:59 PM (KST)\n\n🔗 https://t.co/RqbtU6yMve\n\n#이달의소녀 #LOONA #HOBBYPLANET #LOOKNA #에버라인 #EVERLINE https://t.co/exxZPOaWwi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "HOBBYPLANET",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"text": "LOOKNA",
+					"indices": [
+						177,
+						184
+					]
+				},
+				{
+					"text": "에버라인",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "EVERLINE",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqbtU6yMve",
+					"expanded_url": "https://bit.ly/3MkyBWf",
+					"display_url": "bit.ly/3MkyBWf",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578670628789694500,
+					"id_str": "1578670628789694470",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiQkp5aMAYzKTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiQkp5aMAYzKTK.jpg",
+					"url": "https://t.co/exxZPOaWwi",
+					"display_url": "pic.twitter.com/exxZPOaWwi",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578671543625740290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 703,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 233,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578670628789694500,
+					"id_str": "1578670628789694470",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiQkp5aMAYzKTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiQkp5aMAYzKTK.jpg",
+					"url": "https://t.co/exxZPOaWwi",
+					"display_url": "pic.twitter.com/exxZPOaWwi",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578671543625740290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 703,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 233,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578670734649725000,
+					"id_str": "1578670734649724928",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FeiQq0QaEAAVXWC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeiQq0QaEAAVXWC.jpg",
+					"url": "https://t.co/exxZPOaWwi",
+					"display_url": "pic.twitter.com/exxZPOaWwi",
+					"expanded_url": "https://twitter.com/EVERLINESHOP/status/1578671543625740290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 758,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 252,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 444,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309403974735286300,
+			"id_str": "1309403974735286272",
+			"name": "EVERLINE",
+			"screen_name": "EVERLINESHOP",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/DsIywT1pAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsIywT1pAi",
+							"expanded_url": "http://everlineshop.com/",
+							"display_url": "everlineshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10523,
+			"friends_count": 0,
+			"listed_count": 52,
+			"created_at": "Fri Sep 25 08:07:03 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309404294391541761/LoFwwfx6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309403974735286272/1601021479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 1134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤이달의 소녀 (LOONA) HOBBY PLANET season1 [LOOK:NA] OFFICIAL MD OPEN!\n\n🗓 2022.10.08 (SAT) 6:00 PM ~ 10.18 (TUE) 11:59 PM (KST)\n\n🔗 https://t.co/RqbtU6yMve\n\n#이달의소녀 #LOONA #HOBBYPLANET #LOOKNA #에버라인 #EVERLINE https://t.co/exxZPOaWwi"
+	},
+	{
+		"created_at": "Sat Oct 08 09:40:26 +0000 2022",
+		"id": 1578671544263385000,
+		"id_str": "1578681717480570880",
+		"full_text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本編公開まで各メンバーのティザーを公開します！本日はKARINA💙\n公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #KARINA https://t.co/oNyeyFtNwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578408089715609600,
+					"id_str": "1578408089715609602",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578408089715609602/pu/img/7SFoqobiDDclwunl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578408089715609602/pu/img/7SFoqobiDDclwunl.jpg",
+					"url": "https://t.co/oNyeyFtNwU",
+					"display_url": "pic.twitter.com/oNyeyFtNwU",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1578671544263385090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578408089715609600,
+					"id_str": "1578408089715609602",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578408089715609602/pu/img/7SFoqobiDDclwunl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578408089715609602/pu/img/7SFoqobiDDclwunl.jpg",
+					"url": "https://t.co/oNyeyFtNwU",
+					"display_url": "pic.twitter.com/oNyeyFtNwU",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1578671544263385090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6300,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578408089715609602/pu/vid/480x270/G066eiCrryH-7Rjm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578408089715609602/pu/pl/f_Hx7MC82zf51QjY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578408089715609602/pu/vid/1280x720/KWqVFwjrhPTV_W90.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578408089715609602/pu/vid/640x360/siudzAfIeA0NyhgL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216731,
+			"friends_count": 1,
+			"listed_count": 650,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1870,
+		"favorite_count": 6103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本編公開まで各メンバーのティザーを公開します！本日はKARINA💙\n公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #KARINA https://t.co/oNyeyFtNwU"
+	},
+	{
 		"created_at": "Sat Oct 08 08:57:53 +0000 2022",
 		"id": 1578666914355650600,
 		"id_str": "1578671008403243008",
