@@ -1,6 +1,723 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 11:40:44 +0000 2022",
+		"id": 1579067503384596500,
+		"id_str": "1579074378897031168",
+		"full_text": "러비~ 러비들 덕분에 1주차 방송들 다 잘 했어요~~ 다들 잘 봤나요?\n방송에 나오는 러비 응원들 다 잘 들었죠??? 장난 아니야… 최고라구…\n내일 쉬는 날인데 다들 집에서 푹 쉬고 맛있는 거 많이 먹어요!!!!!! \n싸랑해 러비🥰\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#인기가요 #INKIGAYO https://t.co/XmiPK6Gk7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "INKIGAYO",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579067497453453300,
+					"id_str": "1579067497453453312",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fen5hc4UAAAybr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fen5hc4UAAAybr4.jpg",
+					"url": "https://t.co/XmiPK6Gk7E",
+					"display_url": "pic.twitter.com/XmiPK6Gk7E",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579067503384596482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579067497453453300,
+					"id_str": "1579067497453453312",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fen5hc4UAAAybr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fen5hc4UAAAybr4.jpg",
+					"url": "https://t.co/XmiPK6Gk7E",
+					"display_url": "pic.twitter.com/XmiPK6Gk7E",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579067503384596482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665280,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3519,
+		"favorite_count": 9712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "러비~ 러비들 덕분에 1주차 방송들 다 잘 했어요~~ 다들 잘 봤나요?\n방송에 나오는 러비 응원들 다 잘 들었죠??? 장난 아니야… 최고라구…\n내일 쉬는 날인데 다들 집에서 푹 쉬고 맛있는 거 많이 먹어요!!!!!! \n싸랑해 러비🥰\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#인기가요 #INKIGAYO https://t.co/XmiPK6Gk7E"
+	},
+	{
+		"created_at": "Sun Oct 09 11:09:58 +0000 2022",
+		"id": 1579066387116720000,
+		"id_str": "1579066635473731584",
+		"full_text": "도망칠 28 Reasons\n\nhttps://t.co/ZigmUO7QXP\n\n#슬기 #SEULGI\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						64,
+						84
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZigmUO7QXP",
+					"expanded_url": "https://vt.tiktok.com/ZSRVoKAyk/",
+					"display_url": "vt.tiktok.com/ZSRVoKAyk/",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665280,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1205,
+		"favorite_count": 3179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도망칠 28 Reasons\n\nhttps://t.co/ZigmUO7QXP\n\n#슬기 #SEULGI\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Sun Oct 09 11:09:51 +0000 2022",
+		"id": 1579066149329064000,
+		"id_str": "1579066605337595904",
+		"full_text": "I’m not the devil😈\n\nhttps://t.co/Jxj92oP1OG\n\n#슬기 #SEULGI\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						68,
+						88
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jxj92oP1OG",
+					"expanded_url": "https://vt.tiktok.com/ZSRVo3oDP/",
+					"display_url": "vt.tiktok.com/ZSRVo3oDP/",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665280,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1261,
+		"favorite_count": 3181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m not the devil😈\n\nhttps://t.co/Jxj92oP1OG\n\n#슬기 #SEULGI\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Sun Oct 09 11:09:40 +0000 2022",
+		"id": 1579057908150849500,
+		"id_str": "1579066561851101184",
+		"full_text": "#BrandNewChallenge  with SEULGI 💛🔫\n\nhttps://t.co/oBhuBFFgfL\n\n#시우민 #XIUMIN \n#엑소 #EXO #weareoneEXO\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#BrandNew #XIUMIN_BrandNew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrandNewChallenge",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "시우민",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "XIUMIN",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "BrandNew",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "XIUMIN_BrandNew",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oBhuBFFgfL",
+					"expanded_url": "https://vt.tiktok.com/ZSRVorg25/",
+					"display_url": "vt.tiktok.com/ZSRVorg25/",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873115441303924700,
+			"id_str": "873115441303924736",
+			"name": "EXO",
+			"screen_name": "weareoneEXO",
+			"location": "",
+			"description": "EXO (엑소) Official We are ONE👍EXO 사랑하자!",
+			"url": "https://t.co/lugoh6jdzo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lugoh6jdzo",
+							"expanded_url": "http://XIUMIN.lnk.to/Brand_New",
+							"display_url": "XIUMIN.lnk.to/Brand_New",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13263680,
+			"friends_count": 4,
+			"listed_count": 17336,
+			"created_at": "Fri Jun 09 09:51:57 +0000 2017",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1566441161954557952/6ojIZb7o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566441161954557952/6ojIZb7o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873115441303924736/1662303652",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8085,
+		"favorite_count": 15321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "#BrandNewChallenge  with SEULGI 💛🔫\n\nhttps://t.co/oBhuBFFgfL\n\n#시우민 #XIUMIN \n#엑소 #EXO #weareoneEXO\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#BrandNew #XIUMIN_BrandNew"
+	},
+	{
 		"created_at": "Sun Oct 09 10:45:37 +0000 2022",
 		"id": 1579049128557887500,
 		"id_str": "1579060507243184128",
