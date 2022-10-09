@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 09:58:05 +0000 2022",
+		"id": 1579044046160306200,
+		"id_str": "1579048547902574592",
+		"full_text": "[안방1열 풀캠4K] 슬기 '28 Reasons' (SEULGI FullCam)│@ SBS Inkigayo 221009\n\nhttps://t.co/lfSXOjw8vs\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#인기가요 #INKIGAYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "INKIGAYO",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lfSXOjw8vs",
+					"expanded_url": "https://youtu.be/72ZACeVqU14",
+					"display_url": "youtu.be/72ZACeVqU14",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665065,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 932,
+		"favorite_count": 2238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 풀캠4K] 슬기 '28 Reasons' (SEULGI FullCam)│@ SBS Inkigayo 221009\n\nhttps://t.co/lfSXOjw8vs\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#인기가요 #INKIGAYO"
+	},
+	{
+		"created_at": "Sun Oct 09 09:40:27 +0000 2022",
+		"id": 1579041631659262000,
+		"id_str": "1579044107779182596",
+		"full_text": "눈앞에 열린 세상의 우리를 기대해 😎\n천국을 보여줄게 ✌️😈🫲👌\n\nhttps://t.co/XqcGxxcUcH\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#엔믹스 #NMIXX \n#규진 #지니\n#KYUJIN #JINNI\n#28Reasons \n#28Reasons_challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "엔믹스",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "NMIXX",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "규진",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "KYUJIN",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "JINNI",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						139,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqcGxxcUcH",
+					"expanded_url": "https://vt.tiktok.com/ZSRVE1pYN/",
+					"display_url": "vt.tiktok.com/ZSRVE1pYN/",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665065,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1969,
+		"favorite_count": 4244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈앞에 열린 세상의 우리를 기대해 😎\n천국을 보여줄게 ✌️😈🫲👌\n\nhttps://t.co/XqcGxxcUcH\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#엔믹스 #NMIXX \n#규진 #지니\n#KYUJIN #JINNI\n#28Reasons \n#28Reasons_challenge"
+	},
+	{
+		"created_at": "Sun Oct 09 09:40:20 +0000 2022",
+		"id": 1579040195365998600,
+		"id_str": "1579044081795072000",
+		"full_text": "✨️SLOW LIFE SLOW LIVE💙\n\n#웬디 #WENDY\n#SLOWLIFESLOWLIVE\n#슬로우라이프슬로우라이브\n#슬라슬라2022\n#레드벨벳 #RedVelvet https://t.co/vKEbYmHkhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "SLOWLIFESLOWLIVE",
+					"indices": [
+						35,
+						52
+					]
+				},
+				{
+					"text": "슬로우라이프슬로우라이브",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "슬라슬라2022",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579040186666623000,
+					"id_str": "1579040186666622976",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FengrwRUoAALFuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FengrwRUoAALFuQ.jpg",
+					"url": "https://t.co/vKEbYmHkhu",
+					"display_url": "pic.twitter.com/vKEbYmHkhu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579040195365998593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579040186666623000,
+					"id_str": "1579040186666622976",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FengrwRUoAALFuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FengrwRUoAALFuQ.jpg",
+					"url": "https://t.co/vKEbYmHkhu",
+					"display_url": "pic.twitter.com/vKEbYmHkhu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579040195365998593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579040192052097000,
+					"id_str": "1579040192052097024",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FengsEVUcAANA1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FengsEVUcAANA1G.jpg",
+					"url": "https://t.co/vKEbYmHkhu",
+					"display_url": "pic.twitter.com/vKEbYmHkhu",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579040195365998593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665065,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5490,
+		"favorite_count": 12768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨️SLOW LIFE SLOW LIVE💙\n\n#웬디 #WENDY\n#SLOWLIFESLOWLIVE\n#슬로우라이프슬로우라이브\n#슬라슬라2022\n#레드벨벳 #RedVelvet https://t.co/vKEbYmHkhu"
+	},
+	{
+		"created_at": "Sun Oct 09 09:40:13 +0000 2022",
+		"id": 1579033932862931000,
+		"id_str": "1579044051617079297",
+		"full_text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本日はWINTERのティザーを公開！⭐️\n本編公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #WINTER https://t.co/LZId7RdjI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578406764734984200,
+					"id_str": "1578406764734984193",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578406764734984193/pu/img/AVIMvvr5UlmcmRU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578406764734984193/pu/img/AVIMvvr5UlmcmRU9.jpg",
+					"url": "https://t.co/LZId7RdjI0",
+					"display_url": "pic.twitter.com/LZId7RdjI0",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1579033932862930944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578406764734984200,
+					"id_str": "1578406764734984193",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578406764734984193/pu/img/AVIMvvr5UlmcmRU9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578406764734984193/pu/img/AVIMvvr5UlmcmRU9.jpg",
+					"url": "https://t.co/LZId7RdjI0",
+					"display_url": "pic.twitter.com/LZId7RdjI0",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1579033932862930944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9034,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578406764734984193/pu/vid/1280x720/euTkbPdAYq2ncndx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578406764734984193/pu/pl/CgHwzLPEnD9FkMkt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578406764734984193/pu/vid/480x270/wxOdPfdt0nmkSSyJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578406764734984193/pu/vid/640x360/g5_aUH6vUQFaX8cZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216995,
+			"friends_count": 1,
+			"listed_count": 651,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1956,
+		"favorite_count": 5766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本日はWINTERのティザーを公開！⭐️\n本編公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #WINTER https://t.co/LZId7RdjI0"
+	},
+	{
 		"created_at": "Sun Oct 09 08:40:20 +0000 2022",
 		"id": 1578445314125693000,
 		"id_str": "1579028981005058048",
