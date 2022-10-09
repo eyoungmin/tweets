@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 03:40:10 +0000 2022",
+		"id": 1578943337129775000,
+		"id_str": "1578953439966466050",
+		"full_text": "점점 스며든다  Growing on Me\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/FRKIkwk4Cw\n\n#tripleS #트리플에스 #トリプルS https://t.co/LFF3Ioi0gs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FRKIkwk4Cw",
+					"expanded_url": "http://youtu.be/emKp1K-0PGk",
+					"display_url": "youtu.be/emKp1K-0PGk",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578942037239660500,
+					"id_str": "1578942037239660544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578942037239660544/pu/img/RWa_71IyF59vQzTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578942037239660544/pu/img/RWa_71IyF59vQzTi.jpg",
+					"url": "https://t.co/LFF3Ioi0gs",
+					"display_url": "pic.twitter.com/LFF3Ioi0gs",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1578943337129775104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578942037239660500,
+					"id_str": "1578942037239660544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578942037239660544/pu/img/RWa_71IyF59vQzTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578942037239660544/pu/img/RWa_71IyF59vQzTi.jpg",
+					"url": "https://t.co/LFF3Ioi0gs",
+					"display_url": "pic.twitter.com/LFF3Ioi0gs",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1578943337129775104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27392,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578942037239660544/pu/vid/1280x720/kI6b4vkT1bLjJ3Xv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578942037239660544/pu/vid/640x360/8W5vNMPfNkSi9RWp.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578942037239660544/pu/vid/480x270/Mf_JElpbC7dg6FjM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578942037239660544/pu/pl/XLQNvEg-U0TN9cXq.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14696,
+			"friends_count": 0,
+			"listed_count": 95,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "점점 스며든다  Growing on Me\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/FRKIkwk4Cw\n\n#tripleS #트리플에스 #トリプルS https://t.co/LFF3Ioi0gs"
+	},
+	{
 		"created_at": "Sun Oct 09 00:40:10 +0000 2022",
 		"id": 1578907944678482000,
 		"id_str": "1578908141214760961",
