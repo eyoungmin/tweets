@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 08:40:20 +0000 2022",
+		"id": 1578445314125693000,
+		"id_str": "1579028981005058048",
+		"full_text": "Radiohead fans, this is for you. https://t.co/OgnieKvwIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578445312946995200,
+					"id_str": "1578445312946995200",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FefDpi-WAAAysqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FefDpi-WAAAysqS.jpg",
+					"url": "https://t.co/OgnieKvwIP",
+					"display_url": "pic.twitter.com/OgnieKvwIP",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1578445314125692954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578445312946995200,
+					"id_str": "1578445312946995200",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FefDpi-WAAAysqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FefDpi-WAAAysqS.jpg",
+					"url": "https://t.co/OgnieKvwIP",
+					"display_url": "pic.twitter.com/OgnieKvwIP",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1578445314125692954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22018221,
+			"id_str": "22018221",
+			"name": "Eric Alper 🎧",
+			"screen_name": "ThatEricAlper",
+			"location": "Toronto",
+			"description": "Freelance Music Publicist. SiriusXM Host. Shameless Idealist. Lifelong Musicaholic. I talk about Music News in the Media. Eric@ThatEricAlper.com",
+			"url": "https://t.co/yyQlWgX2YH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yyQlWgX2YH",
+							"expanded_url": "https://ThatEricAlper.com",
+							"display_url": "ThatEricAlper.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 854133,
+			"friends_count": 393358,
+			"listed_count": 5305,
+			"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+			"favourites_count": 345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 88302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258864159195873280/OZZlL3VJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4081,
+		"favorite_count": 26492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Radiohead fans, this is for you. https://t.co/OgnieKvwIP"
+	},
+	{
+		"created_at": "Sun Oct 09 08:40:10 +0000 2022",
+		"id": 1579015753017487400,
+		"id_str": "1579028937556258826",
+		"full_text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#인기가요 에서 1위를 수상하였습니다!🏆\n블랙핑크를 향해 보내주시는 블링크의 넘치는 사랑 최고🖤👍💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "2ndAlbum",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8594760,
+			"friends_count": 9,
+			"listed_count": 9326,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2921,
+		"favorite_count": 8385,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#THANKUBLINK \n\n#BLACKPINK 의 Shut Down이\n#인기가요 에서 1위를 수상하였습니다!🏆\n블랙핑크를 향해 보내주시는 블링크의 넘치는 사랑 최고🖤👍💖\n\n#블랙핑크 #2ndAlbum #BORNPINK #ShutDown"
+	},
+	{
 		"created_at": "Sun Oct 09 07:09:36 +0000 2022",
 		"id": 1578214214476632000,
 		"id_str": "1579006146584924162",
