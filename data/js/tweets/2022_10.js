@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 05:40:20 +0000 2022",
+		"id": 1578973577009057800,
+		"id_str": "1578983682630909952",
+		"full_text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION VIDEO CALL FAN SIGN EVENT (Haus1)\n\n응모 기간\n10.09(일) 14:00 ~ 10.11(화) 23:59 (KST) \n\n진행 일시 \n10.15(토) 14:00 (KST)\n\n▶URL\nKOR https://t.co/c5kv0IJ7w0\nGLOBAL https://t.co/kfaR5l0dNJ https://t.co/7PFxuhiAM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5kv0IJ7w0",
+					"expanded_url": "https://bit.ly/3T1VS1w",
+					"display_url": "bit.ly/3T1VS1w",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/kfaR5l0dNJ",
+					"expanded_url": "https://bit.ly/3Tlk535",
+					"display_url": "bit.ly/3Tlk535",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578973547913171000,
+					"id_str": "1578973547913170944",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkE3kaUAAmOL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkE3kaUAAmOL4.jpg",
+					"url": "https://t.co/7PFxuhiAM6",
+					"display_url": "pic.twitter.com/7PFxuhiAM6",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973577009057793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578973547913171000,
+					"id_str": "1578973547913170944",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkE3kaUAAmOL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkE3kaUAAmOL4.jpg",
+					"url": "https://t.co/7PFxuhiAM6",
+					"display_url": "pic.twitter.com/7PFxuhiAM6",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973577009057793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578973547938336800,
+					"id_str": "1578973547938336768",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkE3qaUAAa-po.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkE3qaUAAa-po.jpg",
+					"url": "https://t.co/7PFxuhiAM6",
+					"display_url": "pic.twitter.com/7PFxuhiAM6",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973577009057793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578973547921539000,
+					"id_str": "1578973547921539072",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkE3maAAAa8PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkE3maAAAa8PW.jpg",
+					"url": "https://t.co/7PFxuhiAM6",
+					"display_url": "pic.twitter.com/7PFxuhiAM6",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973577009057793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6070,
+			"friends_count": 50,
+			"listed_count": 44,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION VIDEO CALL FAN SIGN EVENT (Haus1)\n\n응모 기간\n10.09(일) 14:00 ~ 10.11(화) 23:59 (KST) \n\n진행 일시 \n10.15(토) 14:00 (KST)\n\n▶URL\nKOR https://t.co/c5kv0IJ7w0\nGLOBAL https://t.co/kfaR5l0dNJ https://t.co/7PFxuhiAM6"
+	},
+	{
+		"created_at": "Sun Oct 09 05:40:13 +0000 2022",
+		"id": 1578973627785281500,
+		"id_str": "1578983652435689472",
+		"full_text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION VIDEO CALL FAN SIGN EVENT (Haus2)\n\n응모 기간\n10.09(일) 14:00 ~ 10.11(화) 23:59 (KST) \n\n진행 일시 \n10.15(토) 16:00 (KST)\n\n▶URL\nKOR https://t.co/HpIR0SuwFg\nGLOBAL https://t.co/FgKSBl5TNV https://t.co/cZAQ5fH2xc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HpIR0SuwFg",
+					"expanded_url": "https://bit.ly/3rIc1xa",
+					"display_url": "bit.ly/3rIc1xa",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/FgKSBl5TNV",
+					"expanded_url": "https://bit.ly/3rCLGRf",
+					"display_url": "bit.ly/3rCLGRf",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1578973596676161500,
+					"id_str": "1578973596676161537",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkHtOagAEQpDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkHtOagAEQpDV.jpg",
+					"url": "https://t.co/cZAQ5fH2xc",
+					"display_url": "pic.twitter.com/cZAQ5fH2xc",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973627785281538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578973596676161500,
+					"id_str": "1578973596676161537",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkHtOagAEQpDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkHtOagAEQpDV.jpg",
+					"url": "https://t.co/cZAQ5fH2xc",
+					"display_url": "pic.twitter.com/cZAQ5fH2xc",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973627785281538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578973596697100300,
+					"id_str": "1578973596697100288",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkHtTaAAAD8iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkHtTaAAAD8iA.jpg",
+					"url": "https://t.co/cZAQ5fH2xc",
+					"display_url": "pic.twitter.com/cZAQ5fH2xc",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973627785281538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578973596680347600,
+					"id_str": "1578973596680347648",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FemkHtPaYAAA1rE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FemkHtPaYAAA1rE.jpg",
+					"url": "https://t.co/cZAQ5fH2xc",
+					"display_url": "pic.twitter.com/cZAQ5fH2xc",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1578973627785281538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6070,
+			"friends_count": 50,
+			"listed_count": 44,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION VIDEO CALL FAN SIGN EVENT (Haus2)\n\n응모 기간\n10.09(일) 14:00 ~ 10.11(화) 23:59 (KST) \n\n진행 일시 \n10.15(토) 16:00 (KST)\n\n▶URL\nKOR https://t.co/HpIR0SuwFg\nGLOBAL https://t.co/FgKSBl5TNV https://t.co/cZAQ5fH2xc"
+	},
+	{
 		"created_at": "Sun Oct 09 03:40:10 +0000 2022",
 		"id": 1578943337129775000,
 		"id_str": "1578953439966466050",
