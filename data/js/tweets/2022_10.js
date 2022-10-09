@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 10:45:37 +0000 2022",
+		"id": 1579049128557887500,
+		"id_str": "1579060507243184128",
+		"full_text": "💫D-6💫\n#BehindTheScenes with #Yves\n\n밤의 마법이 끝나기 전🦢\nBefore the magic of the night ends🦢\n\n🔗ONLINE🎫👉https://t.co/Gccarbwuig \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_6 https://t.co/D7YpP7I5S5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"text": "D_6",
+					"indices": [
+						209,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gccarbwuig",
+					"expanded_url": "https://mmt.fans/bF52",
+					"display_url": "mmt.fans/bF52",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsVDVg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579049120274288600,
+					"id_str": "1579049120274288640",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FenozwjXkAAyPVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FenozwjXkAAyPVR.jpg",
+					"url": "https://t.co/D7YpP7I5S5",
+					"display_url": "pic.twitter.com/D7YpP7I5S5",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579049128557887488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579049120274288600,
+					"id_str": "1579049120274288640",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FenozwjXkAAyPVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FenozwjXkAAyPVR.jpg",
+					"url": "https://t.co/D7YpP7I5S5",
+					"display_url": "pic.twitter.com/D7YpP7I5S5",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579049128557887488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149514,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 1043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-6💫\n#BehindTheScenes with #Yves\n\n밤의 마법이 끝나기 전🦢\nBefore the magic of the night ends🦢\n\n🔗ONLINE🎫👉https://t.co/Gccarbwuig \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_6 https://t.co/D7YpP7I5S5"
+	},
+	{
+		"created_at": "Sun Oct 09 10:40:26 +0000 2022",
+		"id": 1579059054273761300,
+		"id_str": "1579059204203065345",
+		"full_text": "완전히 달라진🎁 28 Reasons🔫\n\nhttps://t.co/g0CGvs8F3P\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#시우민 #XIUMIN \n#엑소 #EXO\n#28Reasons \n#28Reasons_challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "시우민",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "XIUMIN",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						111,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g0CGvs8F3P",
+					"expanded_url": "https://vt.tiktok.com/ZSRVorhbD/",
+					"display_url": "vt.tiktok.com/ZSRVorhbD/",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665170,
+			"friends_count": 2,
+			"listed_count": 11362,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3942,
+		"favorite_count": 7514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "완전히 달라진🎁 28 Reasons🔫\n\nhttps://t.co/g0CGvs8F3P\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet\n#시우민 #XIUMIN \n#엑소 #EXO\n#28Reasons \n#28Reasons_challenge"
+	},
+	{
+		"created_at": "Sun Oct 09 10:40:22 +0000 2022",
+		"id": 1577911149060042800,
+		"id_str": "1579059185698078722",
+		"full_text": "10월 7일(금) 저녁 7시💙\n웨이브 스페셜 미니토크쇼 with 비비🌊\n\n영화의 전당 야외극장에 있는 \n&lt;웨이브 다이빙존&gt;으로 모두 놀러 오세요💕\nJUST DIVE Wavve!🌊\n\n#Wavve #웨이브 #웨이브왜봐요 #부산국제영화제 #부국제 #BIFF\n#비비 #BIBI @nakedbibi https://t.co/ERnhIZHcEU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wavve",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "웨이브왜봐요",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "부산국제영화제",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "부국제",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "BIFF",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "BIBI",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577911122845655000,
+					"id_str": "1577911122845655040",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXdzlxaYAALET_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXdzlxaYAALET_.jpg",
+					"url": "https://t.co/ERnhIZHcEU",
+					"display_url": "pic.twitter.com/ERnhIZHcEU",
+					"expanded_url": "https://twitter.com/wavve_official/status/1577911149060042752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577911122845655000,
+					"id_str": "1577911122845655040",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXdzlxaYAALET_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXdzlxaYAALET_.jpg",
+					"url": "https://t.co/ERnhIZHcEU",
+					"display_url": "pic.twitter.com/ERnhIZHcEU",
+					"expanded_url": "https://twitter.com/wavve_official/status/1577911149060042752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859926865972043800,
+			"id_str": "859926865972043776",
+			"name": "Wavve (웨이브)",
+			"screen_name": "wavve_official",
+			"location": "➡️",
+			"description": "세상 얕은 콘텐츠부터 세상 딥한 콘텐츠까지\n언제든 풍덩-! 뛰어들어봐!🌊\nJUST DIVE! Wavve",
+			"url": "https://t.co/LooP35Byn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LooP35Byn7",
+							"expanded_url": "http://linktr.ee/wavve.official",
+							"display_url": "linktr.ee/wavve.official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12325,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Thu May 04 00:25:16 +0000 2017",
+			"favourites_count": 792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560046422757498880/nX2-wAdO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560046422757498880/nX2-wAdO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859926865972043776/1664522181",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 7일(금) 저녁 7시💙\n웨이브 스페셜 미니토크쇼 with 비비🌊\n\n영화의 전당 야외극장에 있는 \n&lt;웨이브 다이빙존&gt;으로 모두 놀러 오세요💕\nJUST DIVE Wavve!🌊\n\n#Wavve #웨이브 #웨이브왜봐요 #부산국제영화제 #부국제 #BIFF\n#비비 #BIBI @nakedbibi https://t.co/ERnhIZHcEU"
+	},
+	{
 		"created_at": "Sun Oct 09 09:58:05 +0000 2022",
 		"id": 1579044046160306200,
 		"id_str": "1579048547902574592",
