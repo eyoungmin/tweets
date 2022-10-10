@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 18:40:11 +0000 2022",
+		"id": 1579531207360270300,
+		"id_str": "1579542323486412802",
+		"full_text": "출장 같이 가겠다는  \n#김마리오공쥬\n리오 사랑해💖🎀💝💕💖 https://t.co/lNsBG6Ri9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김마리오공쥬",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579531194793750500,
+					"id_str": "1579531194793750528",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FeufQMFUcAAXOVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeufQMFUcAAXOVj.jpg",
+					"url": "https://t.co/lNsBG6Ri9Z",
+					"display_url": "pic.twitter.com/lNsBG6Ri9Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579531207360270338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579531194793750500,
+					"id_str": "1579531194793750528",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FeufQMFUcAAXOVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeufQMFUcAAXOVj.jpg",
+					"url": "https://t.co/lNsBG6Ri9Z",
+					"display_url": "pic.twitter.com/lNsBG6Ri9Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579531207360270338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579531194797944800,
+					"id_str": "1579531194797944832",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FeufQMGUcAAL553.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeufQMGUcAAL553.jpg",
+					"url": "https://t.co/lNsBG6Ri9Z",
+					"display_url": "pic.twitter.com/lNsBG6Ri9Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579531207360270338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579531194797990000,
+					"id_str": "1579531194797989889",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FeufQMGVIAEXKJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeufQMGVIAEXKJw.jpg",
+					"url": "https://t.co/lNsBG6Ri9Z",
+					"display_url": "pic.twitter.com/lNsBG6Ri9Z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579531207360270338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275018,
+			"friends_count": 595,
+			"listed_count": 2746,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출장 같이 가겠다는  \n#김마리오공쥬\n리오 사랑해💖🎀💝💕💖 https://t.co/lNsBG6Ri9Z"
+	},
+	{
 		"created_at": "Mon Oct 10 16:40:10 +0000 2022",
 		"id": 1579502284551360500,
 		"id_str": "1579512123453210626",
