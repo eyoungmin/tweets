@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 10:45:37 +0000 2022",
+		"id": 1579411517040382000,
+		"id_str": "1579422895591157760",
+		"full_text": "💫D-5💫\n#BehindTheScenes with #HeeJin\n\n아무 색 없는 세계, 지루해🐰\nA world with no colors, what a bore🐰\n\n🔗ONLINE🎫👉https://t.co/rV6v2ulArV  \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_5 https://t.co/QbG2SjtrQA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"text": "D_5",
+					"indices": [
+						216,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rV6v2ulArV",
+					"expanded_url": "https://mmt.fans/bFzs",
+					"display_url": "mmt.fans/bFzs",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsEATg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579411509884723200,
+					"id_str": "1579411509884723203",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FesyZnDXoAM53rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesyZnDXoAM53rs.jpg",
+					"url": "https://t.co/QbG2SjtrQA",
+					"display_url": "pic.twitter.com/QbG2SjtrQA",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579411517040381952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579411509884723200,
+					"id_str": "1579411509884723203",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FesyZnDXoAM53rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FesyZnDXoAM53rs.jpg",
+					"url": "https://t.co/QbG2SjtrQA",
+					"display_url": "pic.twitter.com/QbG2SjtrQA",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579411517040381952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149523,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-5💫\n#BehindTheScenes with #HeeJin\n\n아무 색 없는 세계, 지루해🐰\nA world with no colors, what a bore🐰\n\n🔗ONLINE🎫👉https://t.co/rV6v2ulArV  \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_5 https://t.co/QbG2SjtrQA"
+	},
+	{
+		"created_at": "Mon Oct 10 10:40:14 +0000 2022",
+		"id": 1579411462606721000,
+		"id_str": "1579421542336761856",
+		"full_text": "[Light Jeans📹] GQ 화보 비하인드\n\n🔗https://t.co/IltQcbmPDw\n\n#NewJeans #뉴진스 #Light_Jeans\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "Light_Jeans",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IltQcbmPDw",
+					"expanded_url": "https://youtu.be/-9Pw3ibD9NU",
+					"display_url": "youtu.be/-9Pw3ibD9NU",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566612,
+			"friends_count": 4,
+			"listed_count": 1776,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 604,
+		"favorite_count": 2171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Light Jeans📹] GQ 화보 비하인드\n\n🔗https://t.co/IltQcbmPDw\n\n#NewJeans #뉴진스 #Light_Jeans\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
+		"created_at": "Mon Oct 10 10:40:10 +0000 2022",
+		"id": 1579411423163076600,
+		"id_str": "1579421524733284352",
+		"full_text": "tripleS 트리플에스 : sweets 'SooMin’s Special Spoilers'\n\nhttps://t.co/uej8Yi33wj\n\n#tripleS #트리플에스 #トリプルS https://t.co/OrnfyQ12Lt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uej8Yi33wj",
+					"expanded_url": "http://youtube.com/shorts/dVBOTFC5bEE",
+					"display_url": "youtube.com/shorts/dVBOTFC…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579404369220407300,
+					"id_str": "1579404369220407296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579404369220407296/pu/img/n2InVKFCb-1YRGT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579404369220407296/pu/img/n2InVKFCb-1YRGT_.jpg",
+					"url": "https://t.co/OrnfyQ12Lt",
+					"display_url": "pic.twitter.com/OrnfyQ12Lt",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579411423163076610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579404369220407300,
+					"id_str": "1579404369220407296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579404369220407296/pu/img/n2InVKFCb-1YRGT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579404369220407296/pu/img/n2InVKFCb-1YRGT_.jpg",
+					"url": "https://t.co/OrnfyQ12Lt",
+					"display_url": "pic.twitter.com/OrnfyQ12Lt",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579411423163076610/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 35468,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579404369220407296/pu/vid/480x852/rp9iar8oRXxnWP6x.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579404369220407296/pu/vid/720x1280/0VcxighMJFt5MqRr.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579404369220407296/pu/vid/320x568/eqBdgvvXX6NRYp1M.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579404369220407296/pu/pl/yGwAU9zv9SQ4g1YC.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14694,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tripleS 트리플에스 : sweets 'SooMin’s Special Spoilers'\n\nhttps://t.co/uej8Yi33wj\n\n#tripleS #트리플에스 #トリプルS https://t.co/OrnfyQ12Lt"
+	},
+	{
 		"created_at": "Mon Oct 10 09:40:10 +0000 2022",
 		"id": 1579396317549248500,
 		"id_str": "1579406424769466370",
