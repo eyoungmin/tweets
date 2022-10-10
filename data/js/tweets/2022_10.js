@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 04:40:22 +0000 2022",
+		"id": 1579324486494867500,
+		"id_str": "1579330979138707456",
+		"full_text": "SEULGI’s ‘28 Reasons’ receives rave reviews by MTV as one of the best songs of the year and a must-listen hit song! “(SEULGI) Shows great depth as an artist with explosive creativity” \n\nhttps://t.co/aN6OdY89vj\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/CySKCn5low",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						223,
+						228
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						229,
+						239
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						241,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aN6OdY89vj",
+					"expanded_url": "https://bit.ly/3RPb0xW",
+					"display_url": "bit.ly/3RPb0xW",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579324483491405800,
+					"id_str": "1579324483491405825",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FerjQAeVIAEglFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FerjQAeVIAEglFI.jpg",
+					"url": "https://t.co/CySKCn5low",
+					"display_url": "pic.twitter.com/CySKCn5low",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579324486494867456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579324483491405800,
+					"id_str": "1579324483491405825",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FerjQAeVIAEglFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FerjQAeVIAEglFI.jpg",
+					"url": "https://t.co/CySKCn5low",
+					"display_url": "pic.twitter.com/CySKCn5low",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579324486494867456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1579324478001401900,
+		"in_reply_to_status_id_str": "1579324478001401858",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5666195,
+			"friends_count": 2,
+			"listed_count": 11350,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1077,
+		"favorite_count": 3227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SEULGI’s ‘28 Reasons’ receives rave reviews by MTV as one of the best songs of the year and a must-listen hit song! “(SEULGI) Shows great depth as an artist with explosive creativity” \n\nhttps://t.co/aN6OdY89vj\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/CySKCn5low"
+	},
+	{
+		"created_at": "Mon Oct 10 04:40:13 +0000 2022",
+		"id": 1579324478001401900,
+		"id_str": "1579330940651700224",
+		"full_text": "美 MTV “슬기 ‘28 Reasons’, 올해 최고의 발매곡 중 하나” 꼭 들어 봐야 할 히트곡 선정!\n“폭발적인 창의력의 예술가로서 엄청난 깊이 보여줘” 호평!\n\nhttps://t.co/aN6OdY89vj\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/GeNdCeUmxx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aN6OdY89vj",
+					"expanded_url": "https://bit.ly/3RPb0xW",
+					"display_url": "bit.ly/3RPb0xW",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579324475174027300,
+					"id_str": "1579324475174027264",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FerjPhfUAAAY4zG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FerjPhfUAAAY4zG.jpg",
+					"url": "https://t.co/GeNdCeUmxx",
+					"display_url": "pic.twitter.com/GeNdCeUmxx",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579324478001401858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579324475174027300,
+					"id_str": "1579324475174027264",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FerjPhfUAAAY4zG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FerjPhfUAAAY4zG.jpg",
+					"url": "https://t.co/GeNdCeUmxx",
+					"display_url": "pic.twitter.com/GeNdCeUmxx",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579324478001401858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5666195,
+			"friends_count": 2,
+			"listed_count": 11350,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1720,
+		"favorite_count": 6085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "美 MTV “슬기 ‘28 Reasons’, 올해 최고의 발매곡 중 하나” 꼭 들어 봐야 할 히트곡 선정!\n“폭발적인 창의력의 예술가로서 엄청난 깊이 보여줘” 호평!\n\nhttps://t.co/aN6OdY89vj\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons https://t.co/GeNdCeUmxx"
+	},
+	{
 		"created_at": "Mon Oct 10 03:29:39 +0000 2022",
 		"id": 1579305726811537400,
 		"id_str": "1579313181414944768",
