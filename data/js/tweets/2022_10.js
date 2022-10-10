@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 13:40:16 +0000 2022",
+		"id": 1579463530855948300,
+		"id_str": "1579466850232332288",
+		"full_text": "look at my lips n hips in the ☔️☔️☔️\nat @withEverland show with the fam!!\n\n@DrunkenTigerJK @Yoonmirae @Bizzionary @gHoodmusic_ https://t.co/wWug81PRtw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "withEverland",
+					"name": "에버랜드",
+					"id": 206074747,
+					"id_str": "206074747",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "DrunkenTigerJK",
+					"name": "아빠 최고 VITAMIN D",
+					"id": 47283664,
+					"id_str": "47283664",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "Yoonmirae",
+					"name": "윤미래 • Yoonmirae",
+					"id": 54441257,
+					"id_str": "54441257",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "Bizzionary",
+					"name": "비지ladies love Bizzy",
+					"id": 54464565,
+					"id_str": "54464565",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"screen_name": "gHoodmusic_",
+					"name": "Feel Ghood Music",
+					"id": 1467799012216508400,
+					"id_str": "1467799012216508419",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579463440921657300,
+					"id_str": "1579463440921657344",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579463440921657344/pu/img/L09AOo_jmn3M7XWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579463440921657344/pu/img/L09AOo_jmn3M7XWN.jpg",
+					"url": "https://t.co/wWug81PRtw",
+					"display_url": "pic.twitter.com/wWug81PRtw",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1579463530855948288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579463440921657300,
+					"id_str": "1579463440921657344",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579463440921657344/pu/img/L09AOo_jmn3M7XWN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579463440921657344/pu/img/L09AOo_jmn3M7XWN.jpg",
+					"url": "https://t.co/wWug81PRtw",
+					"display_url": "pic.twitter.com/wWug81PRtw",
+					"expanded_url": "https://twitter.com/nakedbibi/status/1579463530855948288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 56700,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579463440921657344/pu/vid/720x1280/nKxW_UY_7UItP2bL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579463440921657344/pu/pl/jEPBQLW639n_HBpd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579463440921657344/pu/vid/320x568/o4txw7Fs63Hvi4u_.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579463440921657344/pu/vid/480x852/H_iGLaSSdLRViUK9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1448497121867436000,
+			"id_str": "1448497121867436037",
+			"name": "nakedbibi",
+			"screen_name": "nakedbibi",
+			"location": "",
+			"description": "BIBI💧💦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91332,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Oct 14 03:53:27 +0000 2021",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576411206835109888/NsHSTOWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1448497121867436037/1650748326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "look at my lips n hips in the ☔️☔️☔️\nat @withEverland show with the fam!!\n\n@DrunkenTigerJK @Yoonmirae @Bizzionary @gHoodmusic_ https://t.co/wWug81PRtw"
+	},
+	{
 		"created_at": "Mon Oct 10 12:58:19 +0000 2022",
 		"id": 1579453220879229000,
 		"id_str": "1579456290367057920",
