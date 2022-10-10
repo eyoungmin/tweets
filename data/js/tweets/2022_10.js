@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 12:58:19 +0000 2022",
+		"id": 1579453220879229000,
+		"id_str": "1579456290367057920",
+		"full_text": "28 Reasons X3 = 84 Reasons❗️\n몰라도 되지만 나쁜 의도는 없다구 🔫\n \nhttps://t.co/6a9NIbFOAc\n\n#슬기 #SEULGI\n#아이린 #IRENE\n#레드벨벳 #RedVelvet\n#유노윤호 #UKNOW \n#동방신기 #TVXQ!\n#28Reasons \n#28Reasons_challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "UKNOW",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						157,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6a9NIbFOAc",
+					"expanded_url": "https://vt.tiktok.com/ZSRqyybA8/",
+					"display_url": "vt.tiktok.com/ZSRqyybA8/",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5666802,
+			"friends_count": 2,
+			"listed_count": 11356,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2198,
+		"favorite_count": 3930,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "28 Reasons X3 = 84 Reasons❗️\n몰라도 되지만 나쁜 의도는 없다구 🔫\n \nhttps://t.co/6a9NIbFOAc\n\n#슬기 #SEULGI\n#아이린 #IRENE\n#레드벨벳 #RedVelvet\n#유노윤호 #UKNOW \n#동방신기 #TVXQ!\n#28Reasons \n#28Reasons_challenge"
+	},
+	{
+		"created_at": "Mon Oct 10 12:40:09 +0000 2022",
+		"id": 1579441618624675800,
+		"id_str": "1579451721889087488",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot\n‘YooYeon’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#김유연 #YooYeon https://t.co/95xA5aSnjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						71,
+						89
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "김유연",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "YooYeon",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579404672846086100,
+					"id_str": "1579404672846086144",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FessLpGVQAAXZRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FessLpGVQAAXZRF.jpg",
+					"url": "https://t.co/95xA5aSnjR",
+					"display_url": "pic.twitter.com/95xA5aSnjR",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579441618624675842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579404672846086100,
+					"id_str": "1579404672846086144",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FessLpGVQAAXZRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FessLpGVQAAXZRF.jpg",
+					"url": "https://t.co/95xA5aSnjR",
+					"display_url": "pic.twitter.com/95xA5aSnjR",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579441618624675842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14712,
+			"friends_count": 0,
+			"listed_count": 95,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 455,
+		"favorite_count": 849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot\n‘YooYeon’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#김유연 #YooYeon https://t.co/95xA5aSnjR"
+	},
+	{
 		"created_at": "Mon Oct 10 10:45:37 +0000 2022",
 		"id": 1579411517040382000,
 		"id_str": "1579422895591157760",
