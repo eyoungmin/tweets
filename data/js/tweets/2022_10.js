@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 11:45:37 +0000 2022",
+		"id": 1579788969868263400,
+		"id_str": "1579800382968332290",
+		"full_text": "멜론과 함께하는 &lt;틱톡 주간 차트 30&gt; \n9월의 띵곡을 공개합니다!\n\n🎵 The Chordettes - Mr.Sandman\n🎵 TWICE - Talk that Talk\n🎵 츄 - 일과 이분의 일\n🎵 ZICO - 새삥 \n\n@JYPETWICE\n@loonatheworld\n\n#ZICO #쌔삥\n#TWICE #TalkthatTalk \n#츄 #loonatheworld \n#틱톡주간차트 #틱톡 https://t.co/mu8anEhAXL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZICO",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "쌔삥",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "TalkthatTalk",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						189,
+						191
+					]
+				},
+				{
+					"text": "loonatheworld",
+					"indices": [
+						192,
+						206
+					]
+				},
+				{
+					"text": "틱톡주간차트",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						216,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JYPETWICE",
+					"name": "TWICE",
+					"id": 3129056526,
+					"id_str": "3129056526",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						141,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579788909776617500,
+					"id_str": "1579788909776617472",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579788909776617472/pu/img/rgIduDkLjglZfdb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579788909776617472/pu/img/rgIduDkLjglZfdb-.jpg",
+					"url": "https://t.co/mu8anEhAXL",
+					"display_url": "pic.twitter.com/mu8anEhAXL",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1579788969868263425/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579788909776617500,
+					"id_str": "1579788909776617472",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579788909776617472/pu/img/rgIduDkLjglZfdb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579788909776617472/pu/img/rgIduDkLjglZfdb-.jpg",
+					"url": "https://t.co/mu8anEhAXL",
+					"display_url": "pic.twitter.com/mu8anEhAXL",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1579788969868263425/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 43209,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579788909776617472/pu/vid/320x568/AwIEMZLX1G3PsjOk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579788909776617472/pu/pl/FkQ8ERk9kYSWwvia.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579788909776617472/pu/vid/480x852/Ucj-uCtZ_wfWJmPw.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579788909776617472/pu/vid/720x1280/pgyzpPA9R9B18sRq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "당신의 모든 것을 존중 🤍",
+			"url": "https://t.co/18DZ3syY4Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/18DZ3syY4Z",
+							"expanded_url": "https://linktr.ee/TikTok_kr",
+							"display_url": "linktr.ee/TikTok_kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 216009,
+			"friends_count": 161,
+			"listed_count": 177,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 2377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472094214175727617/RXVSA4vt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472094214175727617/RXVSA4vt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1665138681",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론과 함께하는 &lt;틱톡 주간 차트 30&gt; \n9월의 띵곡을 공개합니다!\n\n🎵 The Chordettes - Mr.Sandman\n🎵 TWICE - Talk that Talk\n🎵 츄 - 일과 이분의 일\n🎵 ZICO - 새삥 \n\n@JYPETWICE\n@loonatheworld\n\n#ZICO #쌔삥\n#TWICE #TalkthatTalk \n#츄 #loonatheworld \n#틱톡주간차트 #틱톡 https://t.co/mu8anEhAXL"
+	},
+	{
+		"created_at": "Tue Oct 11 11:40:19 +0000 2022",
+		"id": 1579792393737736200,
+		"id_str": "1579799049116405760",
+		"full_text": "옷 따뜻하게 입어요 춥다 추워❄️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/eSNqfPbVSm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579792334534807600,
+					"id_str": "1579792334534807559",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyMwhbVEAc4YIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyMwhbVEAc4YIb.jpg",
+					"url": "https://t.co/eSNqfPbVSm",
+					"display_url": "pic.twitter.com/eSNqfPbVSm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579792393737736193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579792334534807600,
+					"id_str": "1579792334534807559",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyMwhbVEAc4YIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyMwhbVEAc4YIb.jpg",
+					"url": "https://t.co/eSNqfPbVSm",
+					"display_url": "pic.twitter.com/eSNqfPbVSm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579792393737736193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579792362800177200,
+					"id_str": "1579792362800177154",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FeyMyKuUYAIOPLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeyMyKuUYAIOPLq.jpg",
+					"url": "https://t.co/eSNqfPbVSm",
+					"display_url": "pic.twitter.com/eSNqfPbVSm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579792393737736193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5667720,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2066,
+		"favorite_count": 7239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옷 따뜻하게 입어요 춥다 추워❄️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/eSNqfPbVSm"
+	},
+	{
+		"created_at": "Tue Oct 11 11:40:10 +0000 2022",
+		"id": 1579791047089324000,
+		"id_str": "1579799010554306560",
+		"full_text": "#OFFICIALBLINK\n\n✨BLINK와 만나는 날까지 D-4✨\n\n기다림의 시간을 \n설렘으로 채워 줄 지수의 사진!\nBLACKPINK Weverse에서 확인하세요😘\n\n▶️ https://t.co/mdWYqc50I2\n\n#JISOO #지수 #BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "20221015_6PM",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"text": "20221016_5PM",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"text": "올림픽체조경기장",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mdWYqc50I2",
+					"expanded_url": "https://weverse.io/blackpink/media/3-105898325",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8600031,
+			"friends_count": 9,
+			"listed_count": 9332,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2409,
+		"favorite_count": 6338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n✨BLINK와 만나는 날까지 D-4✨\n\n기다림의 시간을 \n설렘으로 채워 줄 지수의 사진!\nBLACKPINK Weverse에서 확인하세요😘\n\n▶️ https://t.co/mdWYqc50I2\n\n#JISOO #지수 #BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장"
+	},
+	{
 		"created_at": "Tue Oct 11 10:40:21 +0000 2022",
 		"id": 1579774078767943700,
 		"id_str": "1579783960493584385",
