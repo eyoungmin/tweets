@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 04:40:09 +0000 2022",
+		"id": 1579690329871351800,
+		"id_str": "1579693313724014593",
+		"full_text": "#오늘의_자우림 01\n출장 DAY 1 타래\n\n우선 #고기국수 부터 \n먹고 가겠습니다. \n#김윤아특파원 https://t.co/HozdZBLU8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "고기국수",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "김윤아특파원",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579690320177963000,
+					"id_str": "1579690320177963008",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fewv-gVUoAAtXms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fewv-gVUoAAtXms.jpg",
+					"url": "https://t.co/HozdZBLU8z",
+					"display_url": "pic.twitter.com/HozdZBLU8z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579690329871351808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579690320177963000,
+					"id_str": "1579690320177963008",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fewv-gVUoAAtXms.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fewv-gVUoAAtXms.jpg",
+					"url": "https://t.co/HozdZBLU8z",
+					"display_url": "pic.twitter.com/HozdZBLU8z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579690329871351808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579690320169554000,
+					"id_str": "1579690320169553920",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fewv-gTUUAAE-Bf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fewv-gTUUAAE-Bf.jpg",
+					"url": "https://t.co/HozdZBLU8z",
+					"display_url": "pic.twitter.com/HozdZBLU8z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579690329871351808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579690320165363700,
+					"id_str": "1579690320165363713",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fewv-gSUYAEtzP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fewv-gSUYAEtzP8.jpg",
+					"url": "https://t.co/HozdZBLU8z",
+					"display_url": "pic.twitter.com/HozdZBLU8z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579690329871351808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579690320165339100,
+					"id_str": "1579690320165339143",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Fewv-gSUAAcm0pn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fewv-gSUAAcm0pn.jpg",
+					"url": "https://t.co/HozdZBLU8z",
+					"display_url": "pic.twitter.com/HozdZBLU8z",
+					"expanded_url": "https://twitter.com/love_yuna/status/1579690329871351808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275008,
+			"friends_count": 595,
+			"listed_count": 2745,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림 01\n출장 DAY 1 타래\n\n우선 #고기국수 부터 \n먹고 가겠습니다. \n#김윤아특파원 https://t.co/HozdZBLU8z"
+	},
+	{
 		"created_at": "Tue Oct 11 03:40:25 +0000 2022",
 		"id": 1579668774697209900,
 		"id_str": "1579678280499621888",
@@ -229,7 +534,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Tue Oct 11 03:29:39 +0000 2022",
 		"id": 1579668107995627500,
 		"id_str": "1579675568936996865",
-		"full_text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵‍💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN",
+		"full_text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -479,7 +784,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵‍💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN"
+		"text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN"
 	},
 	{
 		"created_at": "Tue Oct 11 03:09:43 +0000 2022",
