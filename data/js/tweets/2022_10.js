@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 13:40:10 +0000 2022",
+		"id": 1579819346188116000,
+		"id_str": "1579829211262353408",
+		"full_text": "With #Orbit💫\n\nWhich performances are you most excited💓for??\nShare your excitement🙌for #LOONATHEWORLD_IN_SEOUL in the comments! \n\n🖥️ONLINE👉https://t.co/V88Doxu1ts \n🏟️OFFLINE👉https://t.co/mZlcHsVDVg \n\n@loonatheworld #LOONA #이달의소녀 #LOONATHEWORLD https://t.co/p3bHE6XcYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						228,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						199,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V88Doxu1ts",
+					"expanded_url": "https://mmt.fans/bFhk",
+					"display_url": "mmt.fans/bFhk",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsVDVg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579819311945900000,
+					"id_str": "1579819311945900032",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FeylS0HWYAAH3ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeylS0HWYAAH3ab.jpg",
+					"url": "https://t.co/p3bHE6XcYB",
+					"display_url": "pic.twitter.com/p3bHE6XcYB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579819346188115969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579819311945900000,
+					"id_str": "1579819311945900032",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FeylS0HWYAAH3ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeylS0HWYAAH3ab.jpg",
+					"url": "https://t.co/p3bHE6XcYB",
+					"display_url": "pic.twitter.com/p3bHE6XcYB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579819346188115969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579819322742083600,
+					"id_str": "1579819322742083584",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FeylTcVXEAAnhWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeylTcVXEAAnhWB.jpg",
+					"url": "https://t.co/p3bHE6XcYB",
+					"display_url": "pic.twitter.com/p3bHE6XcYB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579819346188115969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579819334704287700,
+					"id_str": "1579819334704287746",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FeylUI5X0AI2J4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeylUI5X0AI2J4P.jpg",
+					"url": "https://t.co/p3bHE6XcYB",
+					"display_url": "pic.twitter.com/p3bHE6XcYB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579819346188115969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149533,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 1379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With #Orbit💫\n\nWhich performances are you most excited💓for??\nShare your excitement🙌for #LOONATHEWORLD_IN_SEOUL in the comments! \n\n🖥️ONLINE👉https://t.co/V88Doxu1ts \n🏟️OFFLINE👉https://t.co/mZlcHsVDVg \n\n@loonatheworld #LOONA #이달의소녀 #LOONATHEWORLD https://t.co/p3bHE6XcYB"
+	},
+	{
 		"created_at": "Tue Oct 11 12:40:10 +0000 2022",
 		"id": 1579804011775070200,
 		"id_str": "1579814110778183680",
