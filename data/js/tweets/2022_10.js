@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 06:40:35 +0000 2022",
+		"id": 1579714569987305500,
+		"id_str": "1579723618761596929",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL 스페셜 굿즈 수령 안내\n\n스폐셜 굿즈 수령과 관련한 자세한 사항은 YG 공식 홈페이지와 BLACKPINK 위버스를 통해 확인해주세요!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #KSPO_DOME #YG https://t.co/o0OQecQNS8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579714499489435600,
+					"id_str": "1579714499489435650",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FexF97SaEAIMbKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexF97SaEAIMbKJ.jpg",
+					"url": "https://t.co/o0OQecQNS8",
+					"display_url": "pic.twitter.com/o0OQecQNS8",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579714569987305472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579714499489435600,
+					"id_str": "1579714499489435650",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FexF97SaEAIMbKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexF97SaEAIMbKJ.jpg",
+					"url": "https://t.co/o0OQecQNS8",
+					"display_url": "pic.twitter.com/o0OQecQNS8",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579714569987305472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579714523111764000,
+					"id_str": "1579714523111763968",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FexF_TSaMAAVecQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexF_TSaMAAVecQ.jpg",
+					"url": "https://t.co/o0OQecQNS8",
+					"display_url": "pic.twitter.com/o0OQecQNS8",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579714569987305472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8599406,
+			"friends_count": 9,
+			"listed_count": 9332,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 853,
+		"favorite_count": 3049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL 스페셜 굿즈 수령 안내\n\n스폐셜 굿즈 수령과 관련한 자세한 사항은 YG 공식 홈페이지와 BLACKPINK 위버스를 통해 확인해주세요!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #KSPO_DOME #YG https://t.co/o0OQecQNS8"
+	},
+	{
+		"created_at": "Tue Oct 11 06:40:22 +0000 2022",
+		"id": 1579713411767730200,
+		"id_str": "1579723567004286976",
+		"full_text": "지우와 채연이의 라이브!🍰\n오늘 저녁 10시 함께해요!🤍\n\nJiWoo and ChaeYeon are going LIVE!🍰\nDon’t miss our on their LIVE tonight (Oct 10th) at 10pm KST/9am EST! 🤍\n\nジウとチェヨンのライブ！🍰\n今夜１０時お見逃しなく！🤍\n\n#tripleS #트리플에스 #トリプルS https://t.co/si9UXRMztG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579711401664614400,
+					"id_str": "1579711401664614400",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FexDJm_akAAc1W1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexDJm_akAAc1W1.jpg",
+					"url": "https://t.co/si9UXRMztG",
+					"display_url": "pic.twitter.com/si9UXRMztG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579713411767730176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579711401664614400,
+					"id_str": "1579711401664614400",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FexDJm_akAAc1W1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexDJm_akAAc1W1.jpg",
+					"url": "https://t.co/si9UXRMztG",
+					"display_url": "pic.twitter.com/si9UXRMztG",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579713411767730176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14876,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "지우와 채연이의 라이브!🍰\n오늘 저녁 10시 함께해요!🤍\n\nJiWoo and ChaeYeon are going LIVE!🍰\nDon’t miss our on their LIVE tonight (Oct 10th) at 10pm KST/9am EST! 🤍\n\nジウとチェヨンのライブ！🍰\n今夜１０時お見逃しなく！🤍\n\n#tripleS #트리플에스 #トリプルS https://t.co/si9UXRMztG"
+	},
+	{
+		"created_at": "Tue Oct 11 06:40:15 +0000 2022",
+		"id": 1579713410828161000,
+		"id_str": "1579723536863997952",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL 사운드 체크 이벤트 관람 안내\n\n사운드 체크 이벤트 관람과 관련한 자세한 사항은 YG 공식 홈페이지와 BLACKPINK 위버스를 통해 확인해주세요!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #KSPO_DOME #YG https://t.co/fFRt5rXZKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579710059416006700,
+					"id_str": "1579710059416006657",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FexB7euaMAEqkdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexB7euaMAEqkdv.jpg",
+					"url": "https://t.co/fFRt5rXZKQ",
+					"display_url": "pic.twitter.com/fFRt5rXZKQ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579713410828161030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579710059416006700,
+					"id_str": "1579710059416006657",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FexB7euaMAEqkdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexB7euaMAEqkdv.jpg",
+					"url": "https://t.co/fFRt5rXZKQ",
+					"display_url": "pic.twitter.com/fFRt5rXZKQ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579713410828161030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579710096720167000,
+					"id_str": "1579710096720166914",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FexB9psagAIaNCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexB9psagAIaNCw.jpg",
+					"url": "https://t.co/fFRt5rXZKQ",
+					"display_url": "pic.twitter.com/fFRt5rXZKQ",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1579713410828161030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8599406,
+			"friends_count": 9,
+			"listed_count": 9332,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1256,
+		"favorite_count": 3857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL 사운드 체크 이벤트 관람 안내\n\n사운드 체크 이벤트 관람과 관련한 자세한 사항은 YG 공식 홈페이지와 BLACKPINK 위버스를 통해 확인해주세요!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #KSPO_DOME #YG https://t.co/fFRt5rXZKQ"
+	},
+	{
 		"created_at": "Tue Oct 11 05:58:49 +0000 2022",
 		"id": 1579709444312948700,
 		"id_str": "1579713107936481280",
