@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 23:40:10 +0000 2022",
+		"id": 1579607709212561400,
+		"id_str": "1579617817317756934",
+		"full_text": "Tomorrow we launch the @aespa_official x @blakekathryn #ægirls exclusive NFT Exhibition @sothebysverse in NYC. Tune in for the 3 part series.\n\nBidding opens October 13 2022. Register now @ https://t.co/DaLhxcUo5G\n\n#aespa #에스파 \n#blakekathryn #sothebys #NFT https://t.co/1aBeX0zCGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ægirls",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "blakekathryn",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"text": "sothebys",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						251,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcUo5G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579488588152307700,
+					"id_str": "1579488588152307720",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet4tlVacAEQkwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet4tlVacAEQkwb.jpg",
+					"url": "https://t.co/1aBeX0zCGU",
+					"display_url": "pic.twitter.com/1aBeX0zCGU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1579607709212561408/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579488588152307700,
+					"id_str": "1579488588152307720",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/Fet4tlVacAEQkwb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fet4tlVacAEQkwb.jpg",
+					"url": "https://t.co/1aBeX0zCGU",
+					"display_url": "pic.twitter.com/1aBeX0zCGU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1579607709212561408/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42833,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579488588152307720/vid/720x720/DUWxNTafEjhg1Xlk.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579488588152307720/vid/320x320/q9ih2rVs3pA7LOZm.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1579488588152307720/pl/bher3rBXr41Kg673.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579488588152307720/vid/540x540/mnH6Codac5EMv24D.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209590,
+			"friends_count": 2,
+			"listed_count": 9581,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1157,
+		"favorite_count": 4757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow we launch the @aespa_official x @blakekathryn #ægirls exclusive NFT Exhibition @sothebysverse in NYC. Tune in for the 3 part series.\n\nBidding opens October 13 2022. Register now @ https://t.co/DaLhxcUo5G\n\n#aespa #에스파 \n#blakekathryn #sothebys #NFT https://t.co/1aBeX0zCGU"
+	},
+	{
 		"created_at": "Mon Oct 10 21:40:09 +0000 2022",
 		"id": 1579572875534962700,
 		"id_str": "1579587617514934272",
@@ -214,7 +507,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Oh Wonder",
 			"screen_name": "OhWonderMusic",
 			"location": "London",
-			"description": "Our new album \"22 Make\" is out now! ❤️‍🔥",
+			"description": "Our new album \"22 Make\" is out now! ❤️🔥",
 			"url": "https://t.co/aWDekOEjgr",
 			"entities": {
 				"url": {
