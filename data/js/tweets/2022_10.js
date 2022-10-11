@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 10:40:21 +0000 2022",
+		"id": 1579774078767943700,
+		"id_str": "1579783960493584385",
+		"full_text": "💫D-4💫\n#BehindTheScenes with #KimLip\n\n시작 됐어 eclipse🦉\nThe eclipse has begun🦉\n\n🔗ONLINE🎫👉https://t.co/VhEpsj7DjB  \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_4 https://t.co/n8hv9Uf235",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"text": "D_4",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VhEpsj7DjB",
+					"expanded_url": "https://mmt.fans/bFGL",
+					"display_url": "mmt.fans/bFGL",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsVDVg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579774070991863800,
+					"id_str": "1579774070991863810",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fex8JcbXwAIFzgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fex8JcbXwAIFzgC.jpg",
+					"url": "https://t.co/n8hv9Uf235",
+					"display_url": "pic.twitter.com/n8hv9Uf235",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579774078767943681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579774070991863800,
+					"id_str": "1579774070991863810",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/Fex8JcbXwAIFzgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fex8JcbXwAIFzgC.jpg",
+					"url": "https://t.co/n8hv9Uf235",
+					"display_url": "pic.twitter.com/n8hv9Uf235",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1579774078767943681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149536,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 2091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💫D-4💫\n#BehindTheScenes with #KimLip\n\n시작 됐어 eclipse🦉\nThe eclipse has begun🦉\n\n🔗ONLINE🎫👉https://t.co/VhEpsj7DjB  \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_4 https://t.co/n8hv9Uf235"
+	},
+	{
+		"created_at": "Tue Oct 11 10:09:43 +0000 2022",
+		"id": 1579773995595223000,
+		"id_str": "1579776249106681856",
+		"full_text": "SEULGI 슬기 '28 Reasons' Dance Practice\n\nhttps://t.co/Ub4QP4sV8c\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #DancePractice \n#SMPFLOOR https://t.co/qaLQzJMcdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "SMPFLOOR",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ub4QP4sV8c",
+					"expanded_url": "https://youtu.be/_xrXcpALwBA",
+					"display_url": "youtu.be/_xrXcpALwBA",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579773028535521300,
+					"id_str": "1579773028535521280",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Fex7Mw-aUAAGY-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fex7Mw-aUAAGY-j.jpg",
+					"url": "https://t.co/qaLQzJMcdz",
+					"display_url": "pic.twitter.com/qaLQzJMcdz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579773995595223047/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579773028535521300,
+					"id_str": "1579773028535521280",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Fex7Mw-aUAAGY-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fex7Mw-aUAAGY-j.jpg",
+					"url": "https://t.co/qaLQzJMcdz",
+					"display_url": "pic.twitter.com/qaLQzJMcdz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1579773995595223047/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5667630,
+			"friends_count": 2,
+			"listed_count": 11355,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3387,
+		"favorite_count": 6578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "SEULGI 슬기 '28 Reasons' Dance Practice\n\nhttps://t.co/Ub4QP4sV8c\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons #DancePractice \n#SMPFLOOR https://t.co/qaLQzJMcdz"
+	},
+	{
 		"created_at": "Tue Oct 11 09:40:31 +0000 2022",
 		"id": 1579758714893918200,
 		"id_str": "1579768902648619008",
