@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 09:40:31 +0000 2022",
+		"id": 1579758714893918200,
+		"id_str": "1579768902648619008",
+		"full_text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/KUkO9xghwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579756156758634500,
+					"id_str": "1579756156758634497",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fexr2stVsAEl0SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fexr2stVsAEl0SV.jpg",
+					"url": "https://t.co/KUkO9xghwW",
+					"display_url": "pic.twitter.com/KUkO9xghwW",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1579758714893918208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579756156758634500,
+					"id_str": "1579756156758634497",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fexr2stVsAEl0SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fexr2stVsAEl0SV.jpg",
+					"url": "https://t.co/KUkO9xghwW",
+					"display_url": "pic.twitter.com/KUkO9xghwW",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1579758714893918208/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fexr2stVsAEl0SV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19865,
+			"friends_count": 28,
+			"listed_count": 64,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 869,
+		"favorite_count": 2562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/KUkO9xghwW"
+	},
+	{
+		"created_at": "Tue Oct 11 09:40:10 +0000 2022",
+		"id": 1579758709240172500,
+		"id_str": "1579768812445892608",
+		"full_text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本日はNINGNINGのティザーを公開！🦋\n本編公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #NINGNING https://t.co/FJmgKUB92l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "エスパ",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578407591134523400,
+					"id_str": "1578407591134523392",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578407591134523392/pu/img/EBucZE2mQOFp3_7F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578407591134523392/pu/img/EBucZE2mQOFp3_7F.jpg",
+					"url": "https://t.co/FJmgKUB92l",
+					"display_url": "pic.twitter.com/FJmgKUB92l",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1579758709240172544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578407591134523400,
+					"id_str": "1578407591134523392",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578407591134523392/pu/img/EBucZE2mQOFp3_7F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578407591134523392/pu/img/EBucZE2mQOFp3_7F.jpg",
+					"url": "https://t.co/FJmgKUB92l",
+					"display_url": "pic.twitter.com/FJmgKUB92l",
+					"expanded_url": "https://twitter.com/aespaJPofficial/status/1579758709240172544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9100,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578407591134523392/pu/vid/640x360/y628fbJiYmf8NkQw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1578407591134523392/pu/pl/ZopCtqhKg12KZ6gr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578407591134523392/pu/vid/480x270/TrtUvZYg-WXnYUEa.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1578407591134523392/pu/vid/1280x720/Cj_qbDwKH1OQE9I1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518523440814198800,
+			"id_str": "1518523440814198785",
+			"name": "aespa JAPAN OFFICIAL",
+			"screen_name": "aespaJPofficial",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/XTZiyfF4xZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XTZiyfF4xZ",
+							"expanded_url": "https://aespa-official.jp/",
+							"display_url": "aespa-official.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217478,
+			"friends_count": 1,
+			"listed_count": 658,
+			"created_at": "Mon Apr 25 09:33:15 +0000 2022",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531833190905958400/daNnJIOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518523440814198785/1654052470",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1230,
+		"favorite_count": 4436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[🎥]\n\naespa初来日イベント「aespa JAPAN PREMIUM SHOWCASE 2022 〜SYNK〜」開催期間中、メンバーに色々な質問をしてみました！💭\n本日はNINGNINGのティザーを公開！🦋\n本編公開をお楽しみに💓\n\n#aespa #æspa #에스파 #エスパ #NINGNING https://t.co/FJmgKUB92l"
+	},
+	{
+		"created_at": "Tue Oct 11 09:36:05 +0000 2022",
+		"id": 1579758733533773800,
+		"id_str": "1579767784006766592",
+		"full_text": "Should we do it again..?\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/sjIB5MgTSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "크리스토퍼",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "Christopher",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StopherMusic",
+					"name": "Christopher",
+					"id": 361107109,
+					"id_str": "361107109",
+					"indices": [
+						59,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579758393883250700,
+					"id_str": "1579758393883250689",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Fext46paUAEwDTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fext46paUAEwDTD.jpg",
+					"url": "https://t.co/sjIB5MgTSE",
+					"display_url": "pic.twitter.com/sjIB5MgTSE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1579758733533773824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579758393883250700,
+					"id_str": "1579758393883250689",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Fext46paUAEwDTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fext46paUAEwDTD.jpg",
+					"url": "https://t.co/sjIB5MgTSE",
+					"display_url": "pic.twitter.com/sjIB5MgTSE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1579758733533773824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579758393900028000,
+					"id_str": "1579758393900027905",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Fext46taUAE8hcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fext46taUAE8hcj.jpg",
+					"url": "https://t.co/sjIB5MgTSE",
+					"display_url": "pic.twitter.com/sjIB5MgTSE",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1579758733533773824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356394,
+			"friends_count": 1,
+			"listed_count": 2223,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 1847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should we do it again..?\n\n#청하 #CHUNGHA\n#크리스토퍼 #Christopher\n@StopherMusic https://t.co/sjIB5MgTSE"
+	},
+	{
+		"created_at": "Tue Oct 11 09:29:41 +0000 2022",
+		"id": 1579758704315969500,
+		"id_str": "1579766174975303682",
+		"full_text": "데뷔 15주년인데 더 예뻐졌다! 소녀시대도 했다는 #간헐적단식 주의사항 알고 시작하자.\n#소녀시대 @GirlsGeneration\n\nhttps://t.co/CgIzJfRdQQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "간헐적단식",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						49,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CgIzJfRdQQ",
+					"expanded_url": "https://www.allurekorea.com/?p=173135&ddw=125461&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=173135&ddw=…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38164,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데뷔 15주년인데 더 예뻐졌다! 소녀시대도 했다는 #간헐적단식 주의사항 알고 시작하자.\n#소녀시대 @GirlsGeneration\n\nhttps://t.co/CgIzJfRdQQ"
+	},
+	{
 		"created_at": "Tue Oct 11 08:40:10 +0000 2022",
 		"id": 1579717186326646800,
 		"id_str": "1579753713845272576",
