@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 03:40:25 +0000 2022",
+		"id": 1579668774697209900,
+		"id_str": "1579678280499621888",
+		"full_text": "국내 최초 퍼스널 앵글 찾기 The First in the Country, “The Personal Angle Test”\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/CkonsE0hF3\n\n#tripleS #트리플에스 #トリプルS https://t.co/zW8i4cE4b6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CkonsE0hF3",
+					"expanded_url": "http://youtu.be/PvLjpR-A-aA",
+					"display_url": "youtu.be/PvLjpR-A-aA",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579668690983071700,
+					"id_str": "1579668690983071745",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579668690983071745/pu/img/b6_fklxLAxzP-swd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579668690983071745/pu/img/b6_fklxLAxzP-swd.jpg",
+					"url": "https://t.co/zW8i4cE4b6",
+					"display_url": "pic.twitter.com/zW8i4cE4b6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579668774697209856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579668690983071700,
+					"id_str": "1579668690983071745",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579668690983071745/pu/img/b6_fklxLAxzP-swd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579668690983071745/pu/img/b6_fklxLAxzP-swd.jpg",
+					"url": "https://t.co/zW8i4cE4b6",
+					"display_url": "pic.twitter.com/zW8i4cE4b6",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1579668774697209856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47338,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579668690983071745/pu/vid/640x360/y6JBsPuTjoWHK-Hf.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579668690983071745/pu/vid/480x270/qSKQYNfmtfArxrJH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579668690983071745/pu/vid/1280x720/iIEbfGzLUT-wVZq1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579668690983071745/pu/pl/91IVHfeeB9JnpaRE.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14864,
+			"friends_count": 0,
+			"listed_count": 94,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 최초 퍼스널 앵글 찾기 The First in the Country, “The Personal Angle Test”\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/CkonsE0hF3\n\n#tripleS #트리플에스 #トリプルS https://t.co/zW8i4cE4b6"
+	},
+	{
+		"created_at": "Tue Oct 11 03:29:39 +0000 2022",
+		"id": 1579668107995627500,
+		"id_str": "1579675568936996865",
+		"full_text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵‍💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잭",
+					"indices": [
+						11,
+						13
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "이석훈감독",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "절찬상영중",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbTEEq33en",
+					"expanded_url": "https://linktr.ee/cjenmmovie",
+					"display_url": "linktr.ee/cjenmmovie",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577591118862069800,
+					"id_str": "1577591118862069760",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FeS6w6CVsAAJ1vK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeS6w6CVsAAJ1vK.jpg",
+					"url": "https://t.co/BCWH0393nN",
+					"display_url": "pic.twitter.com/BCWH0393nN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1579668107995627521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577591118862069800,
+					"id_str": "1577591118862069760",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FeS6w6CVsAAJ1vK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeS6w6CVsAAJ1vK.jpg",
+					"url": "https://t.co/BCWH0393nN",
+					"display_url": "pic.twitter.com/BCWH0393nN",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1579668107995627521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM Movie 공식 트위터입니다.\n28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/ag1esso0r7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ag1esso0r7",
+							"expanded_url": "https://linktr.ee/cjenmmovie",
+							"display_url": "linktr.ee/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331845,
+			"friends_count": 10614,
+			"listed_count": 263,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1662512201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엘리트 FBI 요원 #잭 의 눈빛과 미소에 치인다 😵‍💫💜\n미국 안 가도 잭 만날 수 있는 꿀팁 = #공조2 보기! \n\n지금 바로 예매하러 GO!\n▶https://t.co/kbTEEq33en\n\n#현빈 #유해진 #임윤아\n#다니엘헤니 #진선규 #이석훈감독\n#공조2_인터내셔날 #절찬상영중 https://t.co/BCWH0393nN"
+	},
+	{
+		"created_at": "Tue Oct 11 03:09:43 +0000 2022",
+		"id": 1578056308611326000,
+		"id_str": "1579670554566500354",
+		"full_text": ".@RVsmtown member and now solo artist #Seulgi talks her debut EP #28Reasons and showcasing the best of her abilities. ✨\nhttps://t.co/AyCUGKp0A3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seulgi",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AyCUGKp0A3",
+					"expanded_url": "https://www.nylon.com/entertainment/seulgi-28-reasons-ep-red-velvet-interview?utm_campaign=nylon&utm_content=1665072917&utm_medium=owned&utm_source=twitter",
+					"display_url": "nylon.com/entertainment/…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14222518,
+			"id_str": "14222518",
+			"name": "NYLON",
+			"screen_name": "NylonMag",
+			"location": "New York, USA",
+			"description": "",
+			"url": "https://t.co/y3ZV25Sa16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3ZV25Sa16",
+							"expanded_url": "http://nylon.com",
+							"display_url": "nylon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1114634,
+			"friends_count": 1351,
+			"listed_count": 10196,
+			"created_at": "Wed Mar 26 03:18:38 +0000 2008",
+			"favourites_count": 4227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 92616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14222518/1662988071",
+			"profile_link_color": "EB0C8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8FF9FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 999,
+		"favorite_count": 2542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@RVsmtown member and now solo artist #Seulgi talks her debut EP #28Reasons and showcasing the best of her abilities. ✨\nhttps://t.co/AyCUGKp0A3"
+	},
+	{
 		"created_at": "Tue Oct 11 02:40:15 +0000 2022",
 		"id": 1579653020379320300,
 		"id_str": "1579663139461029889",
