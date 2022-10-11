@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 14:40:10 +0000 2022",
+		"id": 1579837416801640400,
+		"id_str": "1579844311075917824",
+		"full_text": "💎SIN데렐라👠(Official Audio)\n사클이랑 유튜브 계정에 업로드 했당✨\n오랜만에 들어보시죠 ㅎㅁㅎ\n\nhttps://t.co/KZjostfltI\nhttps://t.co/zfBx46Wyt0 https://t.co/rMJlrgXDV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZjostfltI",
+					"expanded_url": "https://youtu.be/CjBLc-MNwjM",
+					"display_url": "youtu.be/CjBLc-MNwjM",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/zfBx46Wyt0",
+					"expanded_url": "https://soundcloud.com/sillysilkyofficial/sin-sinderella",
+					"display_url": "soundcloud.com/sillysilkyoffi…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579837407871914000,
+					"id_str": "1579837407871913984",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fey1wIsUUAAnI21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fey1wIsUUAAnI21.jpg",
+					"url": "https://t.co/rMJlrgXDV3",
+					"display_url": "pic.twitter.com/rMJlrgXDV3",
+					"expanded_url": "https://twitter.com/silly__silky/status/1579837416801640448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1129,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1129,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579837407871914000,
+					"id_str": "1579837407871913984",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fey1wIsUUAAnI21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fey1wIsUUAAnI21.jpg",
+					"url": "https://t.co/rMJlrgXDV3",
+					"display_url": "pic.twitter.com/rMJlrgXDV3",
+					"expanded_url": "https://twitter.com/silly__silky/status/1579837416801640448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1129,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1129,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1579837407867740200,
+					"id_str": "1579837407867740162",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Fey1wIrUoAIYDfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fey1wIrUoAIYDfS.jpg",
+					"url": "https://t.co/rMJlrgXDV3",
+					"display_url": "pic.twitter.com/rMJlrgXDV3",
+					"expanded_url": "https://twitter.com/silly__silky/status/1579837416801640448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524663367125790721/sCLsn-eu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524663367125790721/sCLsn-eu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💎SIN데렐라👠(Official Audio)\n사클이랑 유튜브 계정에 업로드 했당✨\n오랜만에 들어보시죠 ㅎㅁㅎ\n\nhttps://t.co/KZjostfltI\nhttps://t.co/zfBx46Wyt0 https://t.co/rMJlrgXDV3"
+	},
+	{
 		"created_at": "Tue Oct 11 13:40:10 +0000 2022",
 		"id": 1579819346188116000,
 		"id_str": "1579829211262353408",
