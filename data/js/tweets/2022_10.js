@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 08:40:10 +0000 2022",
+		"id": 1579717186326646800,
+		"id_str": "1579753713845272576",
+		"full_text": "Are you ready for Day 2 of #KAMPLA2022?! Check out our official set times now and grab your tickets if you haven't already!\n\nGet Tickets 🎟: https://t.co/FOM77FJ7lS https://t.co/nEXt8cj9vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KAMPLA2022",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FOM77FJ7lS",
+					"expanded_url": "https://found.ee/KAMPLA2022",
+					"display_url": "found.ee/KAMPLA2022",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579717182698754000,
+					"id_str": "1579717182698754048",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FexIaHBXEAAZF02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexIaHBXEAAZF02.jpg",
+					"url": "https://t.co/nEXt8cj9vd",
+					"display_url": "pic.twitter.com/nEXt8cj9vd",
+					"expanded_url": "https://twitter.com/kampfestivals/status/1579717186326646789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579717182698754000,
+					"id_str": "1579717182698754048",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FexIaHBXEAAZF02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FexIaHBXEAAZF02.jpg",
+					"url": "https://t.co/nEXt8cj9vd",
+					"display_url": "pic.twitter.com/nEXt8cj9vd",
+					"expanded_url": "https://twitter.com/kampfestivals/status/1579717186326646789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141972876087586800,
+			"id_str": "1141972876087586818",
+			"name": "KAMP GLOBAL",
+			"screen_name": "kampfestivals",
+			"location": "Los Angeles, CA",
+			"description": "#kamplosangeles\n#kampLA2022",
+			"url": "https://t.co/ihVAnKN3VJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ihVAnKN3VJ",
+							"expanded_url": "http://found.ee/KAMPLA2022",
+							"display_url": "found.ee/KAMPLA2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13794,
+			"friends_count": 35,
+			"listed_count": 16,
+			"created_at": "Fri Jun 21 07:35:25 +0000 2019",
+			"favourites_count": 948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282616482686365696/-zj7oVuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282616482686365696/-zj7oVuI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141972876087586818/1660661721",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 683,
+		"favorite_count": 1128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you ready for Day 2 of #KAMPLA2022?! Check out our official set times now and grab your tickets if you haven't already!\n\nGet Tickets 🎟: https://t.co/FOM77FJ7lS https://t.co/nEXt8cj9vd"
+	},
+	{
 		"created_at": "Tue Oct 11 07:56:11 +0000 2022",
 		"id": 1579728625934676000,
 		"id_str": "1579742644581736448",
