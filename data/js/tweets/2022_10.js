@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 10:40:30 +0000 2022",
+		"id": 1580136305081471000,
+		"id_str": "1580146386628382720",
+		"full_text": "💫D-3💫\n#BehindTheScenes with #YeoJin\n\n두근두근 떨린 단 말야🐸\nMy heart is pit-a-patting🐸 \n\n🔗ONLINE🎫👉https://t.co/nXMzZL9FaE   \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_3 https://t.co/Jtij44YPeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"text": "D_3",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nXMzZL9FaE",
+					"expanded_url": "https://mmt.fans/bFh9",
+					"display_url": "mmt.fans/bFh9",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsVDVg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580136298802716700,
+					"id_str": "1580136298802716675",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3Fl4LWIAMryyq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3Fl4LWIAMryyq.jpg",
+					"url": "https://t.co/Jtij44YPeL",
+					"display_url": "pic.twitter.com/Jtij44YPeL",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580136305081470976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580136298802716700,
+					"id_str": "1580136298802716675",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3Fl4LWIAMryyq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3Fl4LWIAMryyq.jpg",
+					"url": "https://t.co/Jtij44YPeL",
+					"display_url": "pic.twitter.com/Jtij44YPeL",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580136305081470976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149533,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 521,
+		"favorite_count": 1784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-3💫\n#BehindTheScenes with #YeoJin\n\n두근두근 떨린 단 말야🐸\nMy heart is pit-a-patting🐸 \n\n🔗ONLINE🎫👉https://t.co/nXMzZL9FaE   \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_3 https://t.co/Jtij44YPeL"
+	},
+	{
+		"created_at": "Wed Oct 12 10:40:15 +0000 2022",
+		"id": 1580136230431641600,
+		"id_str": "1580146322388094977",
+		"full_text": "[Light Jeans📹]\n1st EP 'New Jeans' Music Show Behind EP.2\n\n🔗https://t.co/2PKOLUsSW6\n\n#NewJeans #뉴진스 #LightJeans\n#NewJeans_1st_EP #WeAreNewJeans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "LightJeans",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "NewJeans_1st_EP",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "WeAreNewJeans",
+					"indices": [
+						128,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2PKOLUsSW6",
+					"expanded_url": "https://youtu.be/8Lp9tQXixbQ",
+					"display_url": "youtu.be/8Lp9tQXixbQ",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1476476838180696000,
+			"id_str": "1476476838180696073",
+			"name": "NewJeans",
+			"screen_name": "NewJeans_ADOR",
+			"location": "",
+			"description": "NewJeans Official Twitter",
+			"url": "https://t.co/wITF1P8yFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wITF1P8yFO",
+							"expanded_url": "http://newjeans.kr",
+							"display_url": "newjeans.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571325,
+			"friends_count": 4,
+			"listed_count": 1803,
+			"created_at": "Thu Dec 30 08:54:56 +0000 2021",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550133532991041537/hQ3QOSP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1476476838180696073/1658415621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 471,
+		"favorite_count": 1626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Light Jeans📹]\n1st EP 'New Jeans' Music Show Behind EP.2\n\n🔗https://t.co/2PKOLUsSW6\n\n#NewJeans #뉴진스 #LightJeans\n#NewJeans_1st_EP #WeAreNewJeans"
+	},
+	{
+		"created_at": "Wed Oct 12 10:11:52 +0000 2022",
+		"id": 1580132671082344400,
+		"id_str": "1580139178875985921",
+		"full_text": "YELO(옐로), CALi, 재연(SWAY), I’ll(아일), 김호연 ‘변론을 시작하겠습니다 OST’ Released!!\n💕 https://t.co/fIN3NA4QBQ https://t.co/XoS8ZqC762",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fIN3NA4QBQ",
+					"expanded_url": "https://www.instagram.com/p/Cjm-zCLPmvv/?igshid=YmMyMTA2M2Y=",
+					"display_url": "instagram.com/p/Cjm-zCLPmvv/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580132665780338700,
+					"id_str": "1580132665780338688",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3CSaHUAAAPlbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3CSaHUAAAPlbf.jpg",
+					"url": "https://t.co/XoS8ZqC762",
+					"display_url": "pic.twitter.com/XoS8ZqC762",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1580132671082344449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580132665780338700,
+					"id_str": "1580132665780338688",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3CSaHUAAAPlbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3CSaHUAAAPlbf.jpg",
+					"url": "https://t.co/XoS8ZqC762",
+					"display_url": "pic.twitter.com/XoS8ZqC762",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1580132671082344449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/RrGBgJa7Lc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RrGBgJa7Lc",
+							"expanded_url": "https://www.monotreemusic.com",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7420,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YELO(옐로), CALi, 재연(SWAY), I’ll(아일), 김호연 ‘변론을 시작하겠습니다 OST’ Released!!\n💕 https://t.co/fIN3NA4QBQ https://t.co/XoS8ZqC762"
+	},
+	{
 		"created_at": "Wed Oct 12 09:40:21 +0000 2022",
 		"id": 1580126361221750800,
 		"id_str": "1580131249116807168",
