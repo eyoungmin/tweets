@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 12:40:10 +0000 2022",
+		"id": 1580166391662932000,
+		"id_str": "1580176499201966080",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot\n‘YuBin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#공유빈 #YuBin https://t.co/oFwYLL9JAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						69,
+						87
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "공유빈",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "YuBin",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580134774412566500,
+					"id_str": "1580134774412566528",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3ENJYaYAA1wF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3ENJYaYAA1wF_.jpg",
+					"url": "https://t.co/oFwYLL9JAC",
+					"display_url": "pic.twitter.com/oFwYLL9JAC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580166391662931969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1397,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580134774412566500,
+					"id_str": "1580134774412566528",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3ENJYaYAA1wF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3ENJYaYAA1wF_.jpg",
+					"url": "https://t.co/oFwYLL9JAC",
+					"display_url": "pic.twitter.com/oFwYLL9JAC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580166391662931969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1397,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14985,
+			"friends_count": 0,
+			"listed_count": 99,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot\n‘YuBin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#공유빈 #YuBin https://t.co/oFwYLL9JAC"
+	},
+	{
 		"created_at": "Wed Oct 12 11:40:26 +0000 2022",
 		"id": 1580160382810738700,
 		"id_str": "1580161469458808832",
