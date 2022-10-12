@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 11:40:26 +0000 2022",
+		"id": 1580160382810738700,
+		"id_str": "1580161469458808832",
+		"full_text": "#오늘의_자우림 05\n출장 DAY 2\n\n저녁, 간식. \n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/qeNbh0couq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						52,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580160368264892400,
+					"id_str": "1580160368264892417",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3be56UUAEynOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3be56UUAEynOv.jpg",
+					"url": "https://t.co/qeNbh0couq",
+					"display_url": "pic.twitter.com/qeNbh0couq",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160382810738688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580160368264892400,
+					"id_str": "1580160368264892417",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3be56UUAEynOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3be56UUAEynOv.jpg",
+					"url": "https://t.co/qeNbh0couq",
+					"display_url": "pic.twitter.com/qeNbh0couq",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160382810738688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580160368235552800,
+					"id_str": "1580160368235552768",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3be5zUoAAQL6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3be5zUoAAQL6Z.jpg",
+					"url": "https://t.co/qeNbh0couq",
+					"display_url": "pic.twitter.com/qeNbh0couq",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160382810738688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580160178975973400,
+		"in_reply_to_status_id_str": "1580160178975973376",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275403,
+			"friends_count": 595,
+			"listed_count": 2746,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림 05\n출장 DAY 2\n\n저녁, 간식. \n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/qeNbh0couq"
+	},
+	{
+		"created_at": "Wed Oct 12 11:40:24 +0000 2022",
+		"id": 1580160178975973400,
+		"id_str": "1580161460100952064",
+		"full_text": "#오늘의_자우림 04\n출장 DAY 2\n\n오늘 촬영 종료. \n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/6oGZbSV4Co",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580160171006779400,
+					"id_str": "1580160171006779392",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3bTbEUYAATca2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3bTbEUYAATca2.jpg",
+					"url": "https://t.co/6oGZbSV4Co",
+					"display_url": "pic.twitter.com/6oGZbSV4Co",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160178975973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580160171006779400,
+					"id_str": "1580160171006779392",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3bTbEUYAATca2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3bTbEUYAATca2.jpg",
+					"url": "https://t.co/6oGZbSV4Co",
+					"display_url": "pic.twitter.com/6oGZbSV4Co",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160178975973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580160171006840800,
+					"id_str": "1580160171006840832",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3bTbEVUAAVvQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3bTbEVUAAVvQI.jpg",
+					"url": "https://t.co/6oGZbSV4Co",
+					"display_url": "pic.twitter.com/6oGZbSV4Co",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160178975973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580160171002560500,
+					"id_str": "1580160171002560512",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3bTbDUAAApGV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3bTbDUAAApGV5.jpg",
+					"url": "https://t.co/6oGZbSV4Co",
+					"display_url": "pic.twitter.com/6oGZbSV4Co",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580160178975973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580105846620827600,
+		"in_reply_to_status_id_str": "1580105846620827649",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275403,
+			"friends_count": 595,
+			"listed_count": 2746,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림 04\n출장 DAY 2\n\n오늘 촬영 종료. \n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/6oGZbSV4Co"
+	},
+	{
+		"created_at": "Wed Oct 12 11:40:17 +0000 2022",
+		"id": 1580153967426048000,
+		"id_str": "1580161429939793921",
+		"full_text": "오늘도 귀여운 쁘이✌️ 완디와 함께\n영스트리트❗️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/p356P9ItpR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						83,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580153891206811600,
+					"id_str": "1580153891206811651",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3Vl4_VUAM6-q6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3Vl4_VUAM6-q6.jpg",
+					"url": "https://t.co/p356P9ItpR",
+					"display_url": "pic.twitter.com/p356P9ItpR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580153967426048001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580153891206811600,
+					"id_str": "1580153891206811651",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3Vl4_VUAM6-q6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3Vl4_VUAM6-q6.jpg",
+					"url": "https://t.co/p356P9ItpR",
+					"display_url": "pic.twitter.com/p356P9ItpR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580153967426048001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580153930561962000,
+					"id_str": "1580153930561961985",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe3VoLmVQAE60Wz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe3VoLmVQAE60Wz.jpg",
+					"url": "https://t.co/p356P9ItpR",
+					"display_url": "pic.twitter.com/p356P9ItpR",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580153967426048001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5668780,
+			"friends_count": 2,
+			"listed_count": 11359,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2019,
+		"favorite_count": 6416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 귀여운 쁘이✌️ 완디와 함께\n영스트리트❗️\n\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 \n#웬디의영스트리트 #영스트리트\n#영스 #SBS https://t.co/p356P9ItpR"
+	},
+	{
 		"created_at": "Wed Oct 12 10:40:30 +0000 2022",
 		"id": 1580136305081471000,
 		"id_str": "1580146386628382720",
