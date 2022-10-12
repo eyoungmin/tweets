@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 03:40:31 +0000 2022",
+		"id": 1580038523805016000,
+		"id_str": "1580040692763500545",
+		"full_text": "‘The Zone: Survival Mission’ Finale D-DAY, KWON YURI has proved herself as an entertainer on the rise, keeping the audience curious about her next steps! \n\n#권유리 #KWONYURI\n#더존_버텨야산다\n#소녀시대 #GirlsGeneration https://t.co/6R2H8dvoFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "더존_버텨야산다",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580038512534909000,
+					"id_str": "1580038512534908930",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580038512534909000,
+					"id_str": "1580038512534908930",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580038512534954000,
+					"id_str": "1580038512534953984",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98VIAAnMFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98VIAAnMFw.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580038512497242000,
+					"id_str": "1580038512497242112",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp9zVsAAtTBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp9zVsAAtTBS.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11219044,
+			"friends_count": 55,
+			"listed_count": 12637,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 1443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Zone: Survival Mission’ Finale D-DAY, KWON YURI has proved herself as an entertainer on the rise, keeping the audience curious about her next steps! \n\n#권유리 #KWONYURI\n#더존_버텨야산다\n#소녀시대 #GirlsGeneration https://t.co/6R2H8dvoFt"
+	},
+	{
+		"created_at": "Wed Oct 12 03:40:27 +0000 2022",
+		"id": 1580030499212464000,
+		"id_str": "1580040675135213568",
+		"full_text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/Smm9CKwxBo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580028508054556700,
+					"id_str": "1580028508054556672",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fe1jjoWVEAA8NNB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fe1jjoWVEAA8NNB.jpg",
+					"url": "https://t.co/Smm9CKwxBo",
+					"display_url": "pic.twitter.com/Smm9CKwxBo",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580030499212464131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580028508054556700,
+					"id_str": "1580028508054556672",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fe1jjoWVEAA8NNB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fe1jjoWVEAA8NNB.jpg",
+					"url": "https://t.co/Smm9CKwxBo",
+					"display_url": "pic.twitter.com/Smm9CKwxBo",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580030499212464131/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fe1jjoWVEAA8NNB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19995,
+			"friends_count": 28,
+			"listed_count": 66,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 703,
+		"favorite_count": 2586,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/Smm9CKwxBo"
+	},
+	{
+		"created_at": "Wed Oct 12 03:40:25 +0000 2022",
+		"id": 1580030504937484300,
+		"id_str": "1580040665874173954",
+		"full_text": "코어 수민 Core SooMin\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/sfumf5LnrO\n\n#tripleS #트리플에스 #トリプルS https://t.co/gzeeuNzFDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sfumf5LnrO",
+					"expanded_url": "http://youtu.be/vpSzjLVCtnU",
+					"display_url": "youtu.be/vpSzjLVCtnU",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580027338217357300,
+					"id_str": "1580027338217357312",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580027338217357312/pu/img/Vq6kz8QXdgWplrTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580027338217357312/pu/img/Vq6kz8QXdgWplrTA.jpg",
+					"url": "https://t.co/gzeeuNzFDV",
+					"display_url": "pic.twitter.com/gzeeuNzFDV",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580030504937484290/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580027338217357300,
+					"id_str": "1580027338217357312",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580027338217357312/pu/img/Vq6kz8QXdgWplrTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580027338217357312/pu/img/Vq6kz8QXdgWplrTA.jpg",
+					"url": "https://t.co/gzeeuNzFDV",
+					"display_url": "pic.twitter.com/gzeeuNzFDV",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580030504937484290/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22791,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580027338217357312/pu/vid/640x360/s48qHD80YzFVYQaI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580027338217357312/pu/vid/1280x720/SnQPrivG5PaGULrS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580027338217357312/pu/pl/GvZNsH-p5IiU81Od.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580027338217357312/pu/vid/480x270/xv223iHpD8lPVkXz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14959,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코어 수민 Core SooMin\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/sfumf5LnrO\n\n#tripleS #트리플에스 #トリプルS https://t.co/gzeeuNzFDV"
+	},
+	{
+		"created_at": "Wed Oct 12 03:36:15 +0000 2022",
+		"id": 1580029419418452000,
+		"id_str": "1580039620632358912",
+		"full_text": "https://t.co/pylpWkf3ej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580028682470838300,
+					"id_str": "1580028682470838272",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jtyGaUAAYRQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jtyGaUAAYRQO.jpg",
+					"url": "https://t.co/pylpWkf3ej",
+					"display_url": "pic.twitter.com/pylpWkf3ej",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029419418451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580028682470838300,
+					"id_str": "1580028682470838272",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jtyGaUAAYRQO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jtyGaUAAYRQO.jpg",
+					"url": "https://t.co/pylpWkf3ej",
+					"display_url": "pic.twitter.com/pylpWkf3ej",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029419418451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580028682701537300,
+					"id_str": "1580028682701537280",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jty9agAAa8R6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jty9agAAa8R6.jpg",
+					"url": "https://t.co/pylpWkf3ej",
+					"display_url": "pic.twitter.com/pylpWkf3ej",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029419418451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580028682949001200,
+					"id_str": "1580028682949001216",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jtz4agAAJ8KT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jtz4agAAJ8KT.jpg",
+					"url": "https://t.co/pylpWkf3ej",
+					"display_url": "pic.twitter.com/pylpWkf3ej",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029419418451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580028683217428500,
+					"id_str": "1580028683217428481",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jt04aYAEkauN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jt04aYAEkauN.jpg",
+					"url": "https://t.co/pylpWkf3ej",
+					"display_url": "pic.twitter.com/pylpWkf3ej",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029419418451968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580029411570905000,
+		"in_reply_to_status_id_str": "1580029411570905088",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356371,
+			"friends_count": 1,
+			"listed_count": 2225,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/pylpWkf3ej"
+	},
+	{
+		"created_at": "Wed Oct 12 03:36:15 +0000 2022",
+		"id": 1580029411570905000,
+		"id_str": "1580039617922797568",
+		"full_text": "이슬언니랑 함께해서 소중하고 행복해ㅠㅠ🤍\n앞으로도 예쁜 우리나라 한복 많이 알려주세요!! 리슬 최고!! 🤟🏻 \n오늘 선물해 주신 옷으로 예쁘게 춤추는 모습 보여드릴게요!!\n너무 고맙고 사랑해요!\n\n@leesle_official\n#청하 #CHUNGHA #리슬 #LEESLE\n#서울패션위크트레이드쇼 #패션위크\n#캐스트 #CAST https://t.co/w0RmSNE2jc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "리슬",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "LEESLE",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "서울패션위크트레이드쇼",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "패션위크",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "캐스트",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "CAST",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leesle_official",
+					"name": "생활한복 리슬",
+					"id": 910010341781774300,
+					"id_str": "910010341781774336",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580028522542035000,
+					"id_str": "1580028522542034944",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jkeUacAAq7_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jkeUacAAq7_T.jpg",
+					"url": "https://t.co/w0RmSNE2jc",
+					"display_url": "pic.twitter.com/w0RmSNE2jc",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029411570905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580028522542035000,
+					"id_str": "1580028522542034944",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jkeUacAAq7_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jkeUacAAq7_T.jpg",
+					"url": "https://t.co/w0RmSNE2jc",
+					"display_url": "pic.twitter.com/w0RmSNE2jc",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029411570905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580028562643751000,
+					"id_str": "1580028562643750913",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jmztaEAEQo0H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jmztaEAEQo0H.jpg",
+					"url": "https://t.co/w0RmSNE2jc",
+					"display_url": "pic.twitter.com/w0RmSNE2jc",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029411570905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580028591068582000,
+					"id_str": "1580028591068581888",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1jodmakAAPCx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1jodmakAAPCx7.jpg",
+					"url": "https://t.co/w0RmSNE2jc",
+					"display_url": "pic.twitter.com/w0RmSNE2jc",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580029411570905088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356371,
+			"friends_count": 1,
+			"listed_count": 2225,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이슬언니랑 함께해서 소중하고 행복해ㅠㅠ🤍\n앞으로도 예쁜 우리나라 한복 많이 알려주세요!! 리슬 최고!! 🤟🏻 \n오늘 선물해 주신 옷으로 예쁘게 춤추는 모습 보여드릴게요!!\n너무 고맙고 사랑해요!\n\n@leesle_official\n#청하 #CHUNGHA #리슬 #LEESLE\n#서울패션위크트레이드쇼 #패션위크\n#캐스트 #CAST https://t.co/w0RmSNE2jc"
+	},
+	{
 		"created_at": "Wed Oct 12 02:58:59 +0000 2022",
 		"id": 1580028905914007600,
 		"id_str": "1580030239140327424",
