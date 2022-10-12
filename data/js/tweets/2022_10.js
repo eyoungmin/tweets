@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 05:40:24 +0000 2022",
+		"id": 1580060778320699400,
+		"id_str": "1580070860508975105",
+		"full_text": "#블랙핑크 | 케이스티파이 컬렉션 ✨\nCOMiNG SOON!\n\n케이스티파이와 함께한 블랙핑크 테크 액세서리 컬렉션이 새로운 디자인으로 다시 찾아옵니다. 웨이팅리스트에 등록하고 가장 빠르게 소식을 받아보세요.\n\n🔗 CASETiFY ➡ https://t.co/yvVlau65tq\n\n#BLACKPINKxCASETiFY 10월 25일 공식 출시💖 #YG https://t.co/PMLZvoCHsJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINKxCASETiFY",
+					"indices": [
+						155,
+						174
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						190,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yvVlau65tq",
+					"expanded_url": "https://www.casetify.com/co-lab/blackpink-2022",
+					"display_url": "casetify.com/co-lab/blackpi…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1579854923512283100,
+					"id_str": "1579854923512283136",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FezGqPraMAAkd0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FezGqPraMAAkd0q.jpg",
+					"url": "https://t.co/PMLZvoCHsJ",
+					"display_url": "pic.twitter.com/PMLZvoCHsJ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580060778320699392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579854923512283100,
+					"id_str": "1579854923512283136",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FezGqPraMAAkd0q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FezGqPraMAAkd0q.jpg",
+					"url": "https://t.co/PMLZvoCHsJ",
+					"display_url": "pic.twitter.com/PMLZvoCHsJ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580060778320699392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 24000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579854923512283136/vid/720x900/1stbSd0G7q_RBXb4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1579854923512283136/pl/krJZ-E6LKbM8mER8.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579854923512283136/vid/320x400/_Lthx1VWF6GDEJWt.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1579854923512283136/vid/480x600/wkOUNttuZ0I2Jlxt.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK | CASETiFY is back",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8974508,
+			"friends_count": 35,
+			"listed_count": 9889,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3085,
+		"favorite_count": 11190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 | 케이스티파이 컬렉션 ✨\nCOMiNG SOON!\n\n케이스티파이와 함께한 블랙핑크 테크 액세서리 컬렉션이 새로운 디자인으로 다시 찾아옵니다. 웨이팅리스트에 등록하고 가장 빠르게 소식을 받아보세요.\n\n🔗 CASETiFY ➡ https://t.co/yvVlau65tq\n\n#BLACKPINKxCASETiFY 10월 25일 공식 출시💖 #YG https://t.co/PMLZvoCHsJ"
+	},
+	{
+		"created_at": "Wed Oct 12 05:40:17 +0000 2022",
+		"id": 1580060719026176000,
+		"id_str": "1580070834286182402",
+		"full_text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION OFF-LINE FAN SIGN EVENT (Haus2)\n\n응모 기간\n10.12(일) 14:00 ~ 10.14(금) 23:59 (KST) \n\n진행 일시 \n10.16(일) 17:00 (KST)\n\n▶URL\nKOR https://t.co/ANdLvc3GEP\nGLOBAL https://t.co/eUUWuDFhUO https://t.co/A00fCr7ndW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ANdLvc3GEP",
+					"expanded_url": "https://bit.ly/3TeKKOC",
+					"display_url": "bit.ly/3TeKKOC",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/eUUWuDFhUO",
+					"expanded_url": "https://bit.ly/3CPYtq8",
+					"display_url": "bit.ly/3CPYtq8",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580060303173496800,
+					"id_str": "1580060303173496833",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2AeWZaMAEU2FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2AeWZaMAEU2FA.jpg",
+					"url": "https://t.co/A00fCr7ndW",
+					"display_url": "pic.twitter.com/A00fCr7ndW",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580060719026176000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580060303173496800,
+					"id_str": "1580060303173496833",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2AeWZaMAEU2FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2AeWZaMAEU2FA.jpg",
+					"url": "https://t.co/A00fCr7ndW",
+					"display_url": "pic.twitter.com/A00fCr7ndW",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580060719026176000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580060391287423000,
+					"id_str": "1580060391287422977",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2AjepaAAEKrgJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2AjepaAAEKrgJ.jpg",
+					"url": "https://t.co/A00fCr7ndW",
+					"display_url": "pic.twitter.com/A00fCr7ndW",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580060719026176000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580060408618299400,
+					"id_str": "1580060408618299392",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2AkfNaMAAwbMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2AkfNaMAAwbMq.jpg",
+					"url": "https://t.co/A00fCr7ndW",
+					"display_url": "pic.twitter.com/A00fCr7ndW",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580060719026176000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6101,
+			"friends_count": 50,
+			"listed_count": 45,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION OFF-LINE FAN SIGN EVENT (Haus2)\n\n응모 기간\n10.12(일) 14:00 ~ 10.14(금) 23:59 (KST) \n\n진행 일시 \n10.16(일) 17:00 (KST)\n\n▶URL\nKOR https://t.co/ANdLvc3GEP\nGLOBAL https://t.co/eUUWuDFhUO https://t.co/A00fCr7ndW"
+	},
+	{
 		"created_at": "Wed Oct 12 03:40:31 +0000 2022",
 		"id": 1580038523805016000,
 		"id_str": "1580040692763500545",
