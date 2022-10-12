@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 08:40:21 +0000 2022",
+		"id": 1580105846620827600,
+		"id_str": "1580116148334387200",
+		"full_text": "https://t.co/hN9NSiZSDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580105840991776800,
+					"id_str": "1580105840991776769",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p4__VsAEA14r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p4__VsAEA14r.jpg",
+					"url": "https://t.co/hN9NSiZSDT",
+					"display_url": "pic.twitter.com/hN9NSiZSDT",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105846620827649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580105840991776800,
+					"id_str": "1580105840991776769",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p4__VsAEA14r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p4__VsAEA14r.jpg",
+					"url": "https://t.co/hN9NSiZSDT",
+					"display_url": "pic.twitter.com/hN9NSiZSDT",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105846620827649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580105841021137000,
+					"id_str": "1580105841021136896",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p5AGVsAAU7hc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p5AGVsAAU7hc.jpg",
+					"url": "https://t.co/hN9NSiZSDT",
+					"display_url": "pic.twitter.com/hN9NSiZSDT",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105846620827649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580105766870347800,
+		"in_reply_to_status_id_str": "1580105766870347777",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275312,
+			"friends_count": 595,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/hN9NSiZSDT"
+	},
+	{
+		"created_at": "Wed Oct 12 08:40:19 +0000 2022",
+		"id": 1580105766870347800,
+		"id_str": "1580116139207974914",
+		"full_text": "#오늘의_자우림 03\n출장 DAY 2\n\n荒野의 魔女\n초원과 숲 촬영 \n오늘의 밥, 오늘의 간식\n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/bzWwOPpzqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580105758812749800,
+					"id_str": "1580105758812749824",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p0N2VQAAUUUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p0N2VQAAUUUa.jpg",
+					"url": "https://t.co/bzWwOPpzqa",
+					"display_url": "pic.twitter.com/bzWwOPpzqa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105766870347777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580105758812749800,
+					"id_str": "1580105758812749824",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p0N2VQAAUUUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p0N2VQAAUUUa.jpg",
+					"url": "https://t.co/bzWwOPpzqa",
+					"display_url": "pic.twitter.com/bzWwOPpzqa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105766870347777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580105758791782400,
+					"id_str": "1580105758791782400",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p0NxVUAA-iuN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p0NxVUAA-iuN.jpg",
+					"url": "https://t.co/bzWwOPpzqa",
+					"display_url": "pic.twitter.com/bzWwOPpzqa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105766870347777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580105758779199500,
+					"id_str": "1580105758779199490",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p0NuVUAILhbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p0NuVUAILhbp.jpg",
+					"url": "https://t.co/bzWwOPpzqa",
+					"display_url": "pic.twitter.com/bzWwOPpzqa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105766870347777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580105758766571500,
+					"id_str": "1580105758766571521",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2p0NrUoAENQ_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2p0NrUoAENQ_t.jpg",
+					"url": "https://t.co/bzWwOPpzqa",
+					"display_url": "pic.twitter.com/bzWwOPpzqa",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580105766870347777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580028905914007600,
+		"in_reply_to_status_id_str": "1580028905914007552",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275312,
+			"friends_count": 595,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#오늘의_자우림 03\n출장 DAY 2\n\n荒野의 魔女\n초원과 숲 촬영 \n오늘의 밥, 오늘의 간식\n\n#자우림 #이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범 https://t.co/bzWwOPpzqa"
+	},
+	{
+		"created_at": "Wed Oct 12 08:40:14 +0000 2022",
+		"id": 1580098930984960000,
+		"id_str": "1580116117334667264",
+		"full_text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION OFF-LINE FAN SIGN EVENT (Haus2)\n\n응모 기간\n~ 10.14(금) 23:59 (KST) \n\n진행 일시 \n10.16(일) 17:00 (KST)\n\n▶URL\nKOR https://t.co/6ReLEC1Nla\nGLOBAL https://t.co/8FYkyElqmO https://t.co/OdhRlZDHs0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "tripleS",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ReLEC1Nla",
+					"expanded_url": "http://bit.ly/3TeKKOC",
+					"display_url": "bit.ly/3TeKKOC",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/8FYkyElqmO",
+					"expanded_url": "http://bit.ly/3CPYtq8",
+					"display_url": "bit.ly/3CPYtq8",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580098902929207300,
+					"id_str": "1580098902929207297",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2jlJsUcAEyKyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2jlJsUcAEyKyK.jpg",
+					"url": "https://t.co/OdhRlZDHs0",
+					"display_url": "pic.twitter.com/OdhRlZDHs0",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580098930984960001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580098902929207300,
+					"id_str": "1580098902929207297",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2jlJsUcAEyKyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2jlJsUcAEyKyK.jpg",
+					"url": "https://t.co/OdhRlZDHs0",
+					"display_url": "pic.twitter.com/OdhRlZDHs0",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580098930984960001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580098912899113000,
+					"id_str": "1580098912899112960",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2jlu1VIAAe1Wo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2jlu1VIAAe1Wo.jpg",
+					"url": "https://t.co/OdhRlZDHs0",
+					"display_url": "pic.twitter.com/OdhRlZDHs0",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580098930984960001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580098921958756400,
+					"id_str": "1580098921958756352",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2jmQlUUAAgXWL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2jmQlUUAAgXWL.jpg",
+					"url": "https://t.co/OdhRlZDHs0",
+					"display_url": "pic.twitter.com/OdhRlZDHs0",
+					"expanded_url": "https://twitter.com/dearmymuse_foru/status/1580098930984960001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1403,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 822,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1333633313391530000,
+			"id_str": "1333633313391529987",
+			"name": "DEAR MY MUSE 디어마이뮤즈",
+			"screen_name": "dearmymuse_foru",
+			"location": "",
+			"description": "DEAR MY MUSE Official twitter",
+			"url": "https://t.co/SyDJLIQfzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyDJLIQfzn",
+							"expanded_url": "http://dearmymuse.com",
+							"display_url": "dearmymuse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6102,
+			"friends_count": 50,
+			"listed_count": 45,
+			"created_at": "Tue Dec 01 04:46:56 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402173486110416900/lqNdWHTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1333633313391529987/1623139187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT]\n#tripleS (#트리플에스) - 1st ATOM01 OBJEKT 2nd EDITION OFF-LINE FAN SIGN EVENT (Haus2)\n\n응모 기간\n~ 10.14(금) 23:59 (KST) \n\n진행 일시 \n10.16(일) 17:00 (KST)\n\n▶URL\nKOR https://t.co/6ReLEC1Nla\nGLOBAL https://t.co/8FYkyElqmO https://t.co/OdhRlZDHs0"
+	},
+	{
 		"created_at": "Wed Oct 12 06:40:10 +0000 2022",
 		"id": 1580077626626297900,
 		"id_str": "1580085901132079104",
