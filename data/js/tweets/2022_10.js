@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 12:40:25 +0000 2022",
+		"id": 1580536023515222000,
+		"id_str": "1580538948991844355",
+		"full_text": "Hypebeast💖\n감사합니다🫶🏻✨\n\nhttps://t.co/0Khf4ZPQ0m https://t.co/pks4di9xAh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Khf4ZPQ0m",
+					"expanded_url": "https://hypebeast.kr/2022/10/hypebeast-sounds-mushvenom-unofficialboyy-jazzy-moon-bibi-groovyroom-gemini-mirani-jflow-team-ny-ifi-m1nu-goya-silly-silky?utm_source=instagram&utm_medium=social&utm_campaign=ig_story",
+					"display_url": "hypebeast.kr/2022/10/hypebe…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580536014690361300,
+					"id_str": "1580536014690361345",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8xIZ5UoAEhCML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8xIZ5UoAEhCML.jpg",
+					"url": "https://t.co/pks4di9xAh",
+					"display_url": "pic.twitter.com/pks4di9xAh",
+					"expanded_url": "https://twitter.com/silly__silky/status/1580536023515222016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580536014690361300,
+					"id_str": "1580536014690361345",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8xIZ5UoAEhCML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8xIZ5UoAEhCML.jpg",
+					"url": "https://t.co/pks4di9xAh",
+					"display_url": "pic.twitter.com/pks4di9xAh",
+					"expanded_url": "https://twitter.com/silly__silky/status/1580536023515222016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474343943890677800,
+			"id_str": "1474343943890677765",
+			"name": "𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂",
+			"screen_name": "silly__silky",
+			"location": "",
+			"description": "✨ 𝓢𝓲𝓵𝓵𝔂 𝓢𝓲𝓵𝓴𝔂 ✨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Fri Dec 24 11:39:40 +0000 2021",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524663367125790721/sCLsn-eu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524663367125790721/sCLsn-eu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474343943890677765/1652342994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hypebeast💖\n감사합니다🫶🏻✨\n\nhttps://t.co/0Khf4ZPQ0m https://t.co/pks4di9xAh"
+	},
+	{
+		"created_at": "Thu Oct 13 12:40:20 +0000 2022",
+		"id": 1580529599163035600,
+		"id_str": "1580538931397165057",
+		"full_text": "오늘밤 10시\n#심야괴담회 https://t.co/njXbihRyVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야괴담회",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580529590220431400,
+					"id_str": "1580529590220431360",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8rSc4VIAAgKU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8rSc4VIAAgKU1.jpg",
+					"url": "https://t.co/njXbihRyVT",
+					"display_url": "pic.twitter.com/njXbihRyVT",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580529599163035648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1802,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580529590220431400,
+					"id_str": "1580529590220431360",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8rSc4VIAAgKU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8rSc4VIAAgKU1.jpg",
+					"url": "https://t.co/njXbihRyVT",
+					"display_url": "pic.twitter.com/njXbihRyVT",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580529599163035648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1802,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275684,
+			"friends_count": 596,
+			"listed_count": 2748,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘밤 10시\n#심야괴담회 https://t.co/njXbihRyVT"
+	},
+	{
 		"created_at": "Thu Oct 13 11:58:58 +0000 2022",
 		"id": 1580527547078832000,
 		"id_str": "1580528518223392768",
