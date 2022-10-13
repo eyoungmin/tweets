@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 05:40:13 +0000 2022",
+		"id": 1580425519145037800,
+		"id_str": "1580433204980305920",
+		"full_text": "연습실에서 만났던 뉴진스 후배님들!!\n웨이브가 뭔지 제대로 배웠음…👍\n라춘도 뉴진스 감성으로 한 컷 찰칵📷\n\n🎬https://t.co/pSjpsT3BTp\n열심히 배운 웨이브 한 번 보러와💙\n@NewJeans_ADOR https://t.co/EN6WPZleFJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pSjpsT3BTp",
+					"expanded_url": "http://youtube.com/shorts/EN8bC1rxUFU?feature=share",
+					"display_url": "youtube.com/shorts/EN8bC1r…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580425513520496600,
+					"id_str": "1580425513520496640",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7MoY9agAAOJfT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7MoY9agAAOJfT.jpg",
+					"url": "https://t.co/EN6WPZleFJ",
+					"display_url": "pic.twitter.com/EN6WPZleFJ",
+					"expanded_url": "https://twitter.com/Choonsik_diary/status/1580425519145037829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580425513520496600,
+					"id_str": "1580425513520496640",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7MoY9agAAOJfT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7MoY9agAAOJfT.jpg",
+					"url": "https://t.co/EN6WPZleFJ",
+					"display_url": "pic.twitter.com/EN6WPZleFJ",
+					"expanded_url": "https://twitter.com/Choonsik_diary/status/1580425519145037829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580425513352704000,
+					"id_str": "1580425513352704000",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7MoYVaMAAqmDl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7MoYVaMAAqmDl.jpg",
+					"url": "https://t.co/EN6WPZleFJ",
+					"display_url": "pic.twitter.com/EN6WPZleFJ",
+					"expanded_url": "https://twitter.com/Choonsik_diary/status/1580425519145037829/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1348582156218482700,
+			"id_str": "1348582156218482688",
+			"name": "춘식이 그림일기",
+			"screen_name": "Choonsik_diary",
+			"location": "하이브",
+			"description": "🐾예비슈스 춘식이의 Kpop투어일기 #한달에한곳씩 #기획사투어 #월드스타🌟 #스타일기 📝 #투어일기🎶",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37161,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Mon Jan 11 10:47:07 +0000 2021",
+			"favourites_count": 1374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536535827257630720/VUZLhP8M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536535827257630720/VUZLhP8M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348582156218482688/1659337405",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 798,
+		"favorite_count": 1946,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연습실에서 만났던 뉴진스 후배님들!!\n웨이브가 뭔지 제대로 배웠음…👍\n라춘도 뉴진스 감성으로 한 컷 찰칵📷\n\n🎬https://t.co/pSjpsT3BTp\n열심히 배운 웨이브 한 번 보러와💙\n@NewJeans_ADOR https://t.co/EN6WPZleFJ"
+	},
+	{
 		"created_at": "Thu Oct 13 04:40:10 +0000 2022",
 		"id": 1580407985951707100,
 		"id_str": "1580418090319257602",
