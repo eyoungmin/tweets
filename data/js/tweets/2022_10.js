@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 17:40:12 +0000 2022",
+		"id": 1580607761993576400,
+		"id_str": "1580614395058483200",
+		"full_text": "크레이지 @2sunkyu 선규형과\n#우림이밴드 https://t.co/ADlBd8O0jG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우림이밴드",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2sunkyu",
+					"name": "이선규",
+					"id": 126699468,
+					"id_str": "126699468",
+					"indices": [
+						5,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580607754376315000,
+					"id_str": "1580607754376314881",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9yYNDUAAEY1SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9yYNDUAAEY1SA.jpg",
+					"url": "https://t.co/ADlBd8O0jG",
+					"display_url": "pic.twitter.com/ADlBd8O0jG",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580607761993576448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 944,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580607754376315000,
+					"id_str": "1580607754376314881",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9yYNDUAAEY1SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9yYNDUAAEY1SA.jpg",
+					"url": "https://t.co/ADlBd8O0jG",
+					"display_url": "pic.twitter.com/ADlBd8O0jG",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580607761993576448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 944,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580607754414084000,
+					"id_str": "1580607754414084097",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9yYNMUUAE8jSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9yYNMUUAE8jSf.jpg",
+					"url": "https://t.co/ADlBd8O0jG",
+					"display_url": "pic.twitter.com/ADlBd8O0jG",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580607761993576448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580607754355417000,
+					"id_str": "1580607754355417089",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9yYM-VIAE95IK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9yYM-VIAE95IK.jpg",
+					"url": "https://t.co/ADlBd8O0jG",
+					"display_url": "pic.twitter.com/ADlBd8O0jG",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580607761993576448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580607750241144800,
+		"in_reply_to_status_id_str": "1580607750241144834",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275696,
+			"friends_count": 596,
+			"listed_count": 2748,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크레이지 @2sunkyu 선규형과\n#우림이밴드 https://t.co/ADlBd8O0jG"
+	},
+	{
 		"created_at": "Thu Oct 13 14:58:59 +0000 2022",
 		"id": 1580569786546671600,
 		"id_str": "1580573822486384640",
