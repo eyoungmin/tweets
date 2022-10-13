@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 10:45:37 +0000 2022",
+		"id": 1580498674656088000,
+		"id_str": "1580510060895424514",
+		"full_text": "💫D-2💫\n#BehindTheScenes with #OliviaHye\n\n나를 좀 더, 사랑 할 거야🐺\nReady to love myself more🐺\n\n🔗ONLINE🎫👉https://t.co/j1E4Nd8nKM    \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_2 https://t.co/jMX7tUduzw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"text": "D_2",
+					"indices": [
+						211,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j1E4Nd8nKM",
+					"expanded_url": "https://mmt.fans/bFAg",
+					"display_url": "mmt.fans/bFAg",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsEATg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580498666854441000,
+					"id_str": "1580498666854440964",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8PKeXWYAQrduD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8PKeXWYAQrduD.jpg",
+					"url": "https://t.co/jMX7tUduzw",
+					"display_url": "pic.twitter.com/jMX7tUduzw",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580498674656088064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580498666854441000,
+					"id_str": "1580498666854440964",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8PKeXWYAQrduD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8PKeXWYAQrduD.jpg",
+					"url": "https://t.co/jMX7tUduzw",
+					"display_url": "pic.twitter.com/jMX7tUduzw",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580498674656088064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149517,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 704,
+		"favorite_count": 2253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫D-2💫\n#BehindTheScenes with #OliviaHye\n\n나를 좀 더, 사랑 할 거야🐺\nReady to love myself more🐺\n\n🔗ONLINE🎫👉https://t.co/j1E4Nd8nKM    \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_2 https://t.co/jMX7tUduzw"
+	},
+	{
+		"created_at": "Thu Oct 13 10:40:45 +0000 2022",
+		"id": 1580501157989884000,
+		"id_str": "1580508834954903553",
+		"full_text": "#슈퍼스타이달의소녀 사전 예약이 10/13(목) 19시를 기준으로 마감되었으며, 사전 예약을 진행하셨을 경우 사전 알림이 발송될 예정입니다.\n\n정식 출시일은 10/14(금) 12시 예정으로 변경 시 추가 공지를 통해 안내해 드릴 수 있도록 하겠습니다.\n\nps. 우리 내일 만나요~~! https://t.co/8MQjFPEZzr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580472490865832000,
+					"id_str": "1580472490865831937",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe73W1NVsAEH4Gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe73W1NVsAEH4Gy.jpg",
+					"url": "https://t.co/8MQjFPEZzr",
+					"display_url": "pic.twitter.com/8MQjFPEZzr",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580501157989883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580472490865832000,
+					"id_str": "1580472490865831937",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe73W1NVsAEH4Gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe73W1NVsAEH4Gy.jpg",
+					"url": "https://t.co/8MQjFPEZzr",
+					"display_url": "pic.twitter.com/8MQjFPEZzr",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580501157989883904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20143,
+			"friends_count": 28,
+			"listed_count": 65,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 1621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타이달의소녀 사전 예약이 10/13(목) 19시를 기준으로 마감되었으며, 사전 예약을 진행하셨을 경우 사전 알림이 발송될 예정입니다.\n\n정식 출시일은 10/14(금) 12시 예정으로 변경 시 추가 공지를 통해 안내해 드릴 수 있도록 하겠습니다.\n\nps. 우리 내일 만나요~~! https://t.co/8MQjFPEZzr"
+	},
+	{
+		"created_at": "Thu Oct 13 10:40:38 +0000 2022",
+		"id": 1580501573217550300,
+		"id_str": "1580508804797517824",
+		"full_text": "wow i’m @mtvema nominated for Best Nordic Act 🥹🫠 and alongside all the best ppl! it would mean a lot if u wanted to vote ✨ #mtvema https://t.co/I7gcQu9NeE https://t.co/2heWufeKJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mtvema",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtvema",
+					"name": "MTV EMA",
+					"id": 62591415,
+					"id_str": "62591415",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I7gcQu9NeE",
+					"expanded_url": "https://www.mtvema.com/en-nordics/vote/",
+					"display_url": "mtvema.com/en-nordics/vot…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580501569841336300,
+					"id_str": "1580501569841336320",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8Rzc1XEAAuiz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8Rzc1XEAAuiz5.jpg",
+					"url": "https://t.co/2heWufeKJs",
+					"display_url": "pic.twitter.com/2heWufeKJs",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1580501573217550336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580501569841336300,
+					"id_str": "1580501569841336320",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8Rzc1XEAAuiz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8Rzc1XEAAuiz5.jpg",
+					"url": "https://t.co/2heWufeKJs",
+					"display_url": "pic.twitter.com/2heWufeKJs",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1580501573217550336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "How To Let Go out now ❤️‍🔥❤️‍🔥❤️‍🔥",
+			"url": "https://t.co/qJ8McBmikD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ8McBmikD",
+							"expanded_url": "https://Sigrid.lnk.to/HowToLetGoTW",
+							"display_url": "Sigrid.lnk.to/HowToLetGoTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89301,
+			"friends_count": 270,
+			"listed_count": 335,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 6172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501618301633544195/J0-lKLKc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1651819275",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wow i’m @mtvema nominated for Best Nordic Act 🥹🫠 and alongside all the best ppl! it would mean a lot if u wanted to vote ✨ #mtvema https://t.co/I7gcQu9NeE https://t.co/2heWufeKJs"
+	},
+	{
 		"created_at": "Thu Oct 13 09:43:53 +0000 2022",
 		"id": 1580488018045337600,
 		"id_str": "1580494526535245825",
