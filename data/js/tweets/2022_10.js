@@ -1,6 +1,1095 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 07:40:30 +0000 2022",
+		"id": 1580455856591642600,
+		"id_str": "1580463472495669248",
+		"full_text": "[66회 예고]\n시즌1 레전드 괴스트 김윤아&amp;정성호가 돌아왔다!\n괴담 지식 대방출하는 #김윤아와 김구라를 놀래키러 나온 #정성호...!\n\n심괴 최초 놀이공원 컬래버 괴담 대공개‼\n그리고 함부로 이름 말하면 안 되는 이유...?!\n\n📌오늘 밤 10시 #심야괴담회 본방 사수‼ https://t.co/G0DB2Vlef4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아와",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "정성호",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "심야괴담회",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580455659841106000,
+					"id_str": "1580455659841105920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580455659841105920/pu/img/LUPjpwu8bZnlLiG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580455659841105920/pu/img/LUPjpwu8bZnlLiG6.jpg",
+					"url": "https://t.co/G0DB2Vlef4",
+					"display_url": "pic.twitter.com/G0DB2Vlef4",
+					"expanded_url": "https://twitter.com/HORROR_MBC/status/1580455856591642624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580455659841106000,
+					"id_str": "1580455659841105920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580455659841105920/pu/img/LUPjpwu8bZnlLiG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580455659841105920/pu/img/LUPjpwu8bZnlLiG6.jpg",
+					"url": "https://t.co/G0DB2Vlef4",
+					"display_url": "pic.twitter.com/G0DB2Vlef4",
+					"expanded_url": "https://twitter.com/HORROR_MBC/status/1580455856591642624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38004,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580455659841105920/pu/vid/480x270/D3qD8xUJvefBTF6u.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580455659841105920/pu/vid/640x360/RZSOLF-t-CphY-Uf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580455659841105920/pu/pl/DzuAsWNL2MA8TdYZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580455659841105920/pu/vid/1280x720/eZLSnVXPu52IRkZS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321397456546918400,
+			"id_str": "1321397456546918401",
+			"name": "심야괴담회",
+			"screen_name": "HORROR_MBC",
+			"location": "",
+			"description": "🩸괴담 24시 환영",
+			"url": "https://t.co/PVA194TRYl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PVA194TRYl",
+							"expanded_url": "https://program.imbc.com/Report/horror",
+							"display_url": "program.imbc.com/Report/horror",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 3,
+			"listed_count": 3,
+			"created_at": "Wed Oct 28 10:24:47 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367696501439225858/4UwOXudl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367696501439225858/4UwOXudl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321397456546918401/1616251072",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[66회 예고]\n시즌1 레전드 괴스트 김윤아&amp;정성호가 돌아왔다!\n괴담 지식 대방출하는 #김윤아와 김구라를 놀래키러 나온 #정성호...!\n\n심괴 최초 놀이공원 컬래버 괴담 대공개‼\n그리고 함부로 이름 말하면 안 되는 이유...?!\n\n📌오늘 밤 10시 #심야괴담회 본방 사수‼ https://t.co/G0DB2Vlef4"
+	},
+	{
+		"created_at": "Thu Oct 13 07:40:26 +0000 2022",
+		"id": 1580457149645611000,
+		"id_str": "1580463459074199552",
+		"full_text": "BIBI for Cosmopolitan Indonesia!!!❤️‍🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakedbibi",
+					"name": "nakedbibi",
+					"id": 1448497121867436000,
+					"id_str": "1448497121867436037",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "CosmoIndonesia",
+					"name": "Cosmopolitan Indonesia",
+					"id": 150182138,
+					"id_str": "150182138",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580457139919007700,
+					"id_str": "1580457139919007744",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7pZSeaMAA_3Gf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7pZSeaMAA_3Gf.jpg",
+					"url": "https://t.co/CQIz0FVZAg",
+					"display_url": "pic.twitter.com/CQIz0FVZAg",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1580457149645611008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580457139919007700,
+					"id_str": "1580457139919007744",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7pZSeaMAA_3Gf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7pZSeaMAA_3Gf.jpg",
+					"url": "https://t.co/CQIz0FVZAg",
+					"display_url": "pic.twitter.com/CQIz0FVZAg",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1580457149645611008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580457139893858300,
+					"id_str": "1580457139893858304",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7pZSYacAA17Kj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7pZSYacAA17Kj.jpg",
+					"url": "https://t.co/CQIz0FVZAg",
+					"display_url": "pic.twitter.com/CQIz0FVZAg",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1580457149645611008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580457139939979300,
+					"id_str": "1580457139939979264",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7pZSjaMAAWrvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7pZSjaMAAWrvg.jpg",
+					"url": "https://t.co/CQIz0FVZAg",
+					"display_url": "pic.twitter.com/CQIz0FVZAg",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1580457149645611008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580457139914825700,
+					"id_str": "1580457139914825728",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7pZSdaYAAOIHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7pZSdaYAAOIHU.jpg",
+					"url": "https://t.co/CQIz0FVZAg",
+					"display_url": "pic.twitter.com/CQIz0FVZAg",
+					"expanded_url": "https://twitter.com/gHoodmusic_/status/1580457149645611008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1467799012216508400,
+			"id_str": "1467799012216508419",
+			"name": "Feel Ghood Music",
+			"screen_name": "gHoodmusic_",
+			"location": "Worldwide",
+			"description": "OFFICIAL TWITTER for Feel Ghood Music: @drunkentigerjk @yoonmirae @bizzionary @nakedbibi (Curated + Managed by Feel Ghood Music Staff)",
+			"url": "https://t.co/3TdHUbAG7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TdHUbAG7t",
+							"expanded_url": "http://88rising.lnk.to/BestLover",
+							"display_url": "88rising.lnk.to/BestLover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 6,
+			"listed_count": 13,
+			"created_at": "Mon Dec 06 10:12:59 +0000 2021",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467855847506124800/RRG8CM6b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467799012216508419/1638799747",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "BIBI for Cosmopolitan Indonesia!!!❤️‍🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg"
+	},
+	{
+		"created_at": "Thu Oct 13 07:40:19 +0000 2022",
+		"id": 1580454402435190800,
+		"id_str": "1580463428870995974",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH\n\n🎬YouTube: https://t.co/YOxzI6N9gJ \n📺NOW: https://t.co/Ny9tFB4YlJ \n\n#블랙핑크 #WORLDTOUR #BORNPINK #BAND_PRACTICE_SKETCH #YG https://t.co/8TiJ8DnO9L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "BAND_PRACTICE_SKETCH",
+					"indices": [
+						150,
+						171
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOxzI6N9gJ",
+					"expanded_url": "https://youtu.be/ZPA37YESz2U",
+					"display_url": "youtu.be/ZPA37YESz2U",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/Ny9tFB4YlJ",
+					"expanded_url": "https://tv.naver.com/v/29889212",
+					"display_url": "tv.naver.com/v/29889212",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580454205147721700,
+					"id_str": "1580454205147721728",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580454205147721728/img/QoK57t21XwXJ3t-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580454205147721728/img/QoK57t21XwXJ3t-J.jpg",
+					"url": "https://t.co/8TiJ8DnO9L",
+					"display_url": "pic.twitter.com/8TiJ8DnO9L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1580454402435190785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580454205147721700,
+					"id_str": "1580454205147721728",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580454205147721728/img/QoK57t21XwXJ3t-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580454205147721728/img/QoK57t21XwXJ3t-J.jpg",
+					"url": "https://t.co/8TiJ8DnO9L",
+					"display_url": "pic.twitter.com/8TiJ8DnO9L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1580454402435190785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63329,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580454205147721728/vid/640x360/lKSrA11fp-JoQyZK.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580454205147721728/vid/1280x720/yCUacNvnhGM8PGze.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580454205147721728/vid/480x270/O3KC2GQtEAj9eK5X.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1580454205147721728/pl/gU5mjghdLejAdWNT.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7704842,
+			"friends_count": 0,
+			"listed_count": 7809,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15148,
+		"favorite_count": 29743,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH\n\n🎬YouTube: https://t.co/YOxzI6N9gJ \n📺NOW: https://t.co/Ny9tFB4YlJ \n\n#블랙핑크 #WORLDTOUR #BORNPINK #BAND_PRACTICE_SKETCH #YG https://t.co/8TiJ8DnO9L"
+	},
+	{
+		"created_at": "Thu Oct 13 07:40:16 +0000 2022",
+		"id": 1580453400084631600,
+		"id_str": "1580463415449235457",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH\n\n🎬YouTube: https://t.co/8pME1G8AHZ \n📺NOW: https://t.co/WapUgKGLie \n\n#블랙핑크 #WORLDTOUR #BORNPINK #BAND_PRACTICE_SKETCH #YG https://t.co/b7Ie8QezE4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "BAND_PRACTICE_SKETCH",
+					"indices": [
+						150,
+						171
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8pME1G8AHZ",
+					"expanded_url": "https://youtu.be/ZPA37YESz2U",
+					"display_url": "youtu.be/ZPA37YESz2U",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/WapUgKGLie",
+					"expanded_url": "https://tv.naver.com/v/29889212",
+					"display_url": "tv.naver.com/v/29889212",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580407651099631600,
+					"id_str": "1580407651099631616",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe681pMaYAEwcYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe681pMaYAEwcYk.jpg",
+					"url": "https://t.co/b7Ie8QezE4",
+					"display_url": "pic.twitter.com/b7Ie8QezE4",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580453400084631552/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580407651099631600,
+					"id_str": "1580407651099631616",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe681pMaYAEwcYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe681pMaYAEwcYk.jpg",
+					"url": "https://t.co/b7Ie8QezE4",
+					"display_url": "pic.twitter.com/b7Ie8QezE4",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580453400084631552/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63329,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580407651099631616/vid/1280x720/1sBgwWpDR5ukLJui.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1580407651099631616/pl/J5Bqw2o_umGGD6kt.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580407651099631616/vid/640x360/Gi9cf5v1TYXf9562.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580407651099631616/vid/480x270/gRdzh57LdX25PTIA.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/ZPA37YESz2U"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8975708,
+			"friends_count": 35,
+			"listed_count": 9891,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7416,
+		"favorite_count": 16691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH\n\n🎬YouTube: https://t.co/8pME1G8AHZ \n📺NOW: https://t.co/WapUgKGLie \n\n#블랙핑크 #WORLDTOUR #BORNPINK #BAND_PRACTICE_SKETCH #YG https://t.co/b7Ie8QezE4"
+	},
+	{
 		"created_at": "Thu Oct 13 05:40:13 +0000 2022",
 		"id": 1580425519145037800,
 		"id_str": "1580433204980305920",
