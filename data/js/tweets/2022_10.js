@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 14:58:59 +0000 2022",
+		"id": 1580569786546671600,
+		"id_str": "1580573822486384640",
+		"full_text": "오늘 엠카도 잘 보셨나요???? 저는 이제 집에 와서 씻었어요~~ 내일 방송도 많이 많이 봐주세요❤️❤️❤️❤️ 우리 러비가 최고다아아아\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#MCOUNTDOWN https://t.co/8yMFOVUJxW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580569764065263600,
+					"id_str": "1580569764065263616",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9P04HVQAAKIuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9P04HVQAAKIuO.jpg",
+					"url": "https://t.co/8yMFOVUJxW",
+					"display_url": "pic.twitter.com/8yMFOVUJxW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580569786546671616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580569764065263600,
+					"id_str": "1580569764065263616",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9P04HVQAAKIuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9P04HVQAAKIuO.jpg",
+					"url": "https://t.co/8yMFOVUJxW",
+					"display_url": "pic.twitter.com/8yMFOVUJxW",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580569786546671616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5669781,
+			"friends_count": 2,
+			"listed_count": 11350,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2826,
+		"favorite_count": 8096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 엠카도 잘 보셨나요???? 저는 이제 집에 와서 씻었어요~~ 내일 방송도 많이 많이 봐주세요❤️❤️❤️❤️ 우리 러비가 최고다아아아\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#MCOUNTDOWN https://t.co/8yMFOVUJxW"
+	},
+	{
 		"created_at": "Thu Oct 13 12:40:25 +0000 2022",
 		"id": 1580536023515222000,
 		"id_str": "1580538948991844355",
