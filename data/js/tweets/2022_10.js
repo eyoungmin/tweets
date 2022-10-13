@@ -1,6 +1,1344 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 21:40:38 +0000 2022",
+		"id": 1580667981927174100,
+		"id_str": "1580674900356136961",
+		"full_text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/LQWnzcMTfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcDl3G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580667893427363800,
+					"id_str": "1580667893427363840",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667893427363840/pu/img/W-SAzsJ8Zjd6v3QI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667893427363840/pu/img/W-SAzsJ8Zjd6v3QI.jpg",
+					"url": "https://t.co/LQWnzcMTfR",
+					"display_url": "pic.twitter.com/LQWnzcMTfR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667981927174144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580667893427363800,
+					"id_str": "1580667893427363840",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667893427363840/pu/img/W-SAzsJ8Zjd6v3QI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667893427363840/pu/img/W-SAzsJ8Zjd6v3QI.jpg",
+					"url": "https://t.co/LQWnzcMTfR",
+					"display_url": "pic.twitter.com/LQWnzcMTfR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667981927174144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580667893427363840/pu/pl/qF7pimyVM0G34cFX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667893427363840/pu/vid/540x540/uCHsQkI5jcBTEnZ0.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667893427363840/pu/vid/720x720/6hrcpoIsy5R0fZ-L.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667893427363840/pu/vid/320x320/1gPuJehvnEt9NB1Y.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214138,
+			"friends_count": 2,
+			"listed_count": 9578,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 403,
+		"favorite_count": 1660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/LQWnzcMTfR"
+	},
+	{
+		"created_at": "Thu Oct 13 21:40:31 +0000 2022",
+		"id": 1580667841845817300,
+		"id_str": "1580674870198706176",
+		"full_text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/1d52ylGJR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcDl3G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580667771171799000,
+					"id_str": "1580667771171799040",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667771171799040/pu/img/i6zah6qdO1mTRQUz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667771171799040/pu/img/i6zah6qdO1mTRQUz.jpg",
+					"url": "https://t.co/1d52ylGJR2",
+					"display_url": "pic.twitter.com/1d52ylGJR2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667841845817344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580667771171799000,
+					"id_str": "1580667771171799040",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667771171799040/pu/img/i6zah6qdO1mTRQUz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667771171799040/pu/img/i6zah6qdO1mTRQUz.jpg",
+					"url": "https://t.co/1d52ylGJR2",
+					"display_url": "pic.twitter.com/1d52ylGJR2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667841845817344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667771171799040/pu/vid/720x720/DG8nl4VLGAHDHJcT.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580667771171799040/pu/pl/uKtK-KgrUADi5z1B.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667771171799040/pu/vid/320x320/M6t0s-Gb4VQdiBif.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667771171799040/pu/vid/540x540/Rhykt0blP08rZQ32.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214138,
+			"friends_count": 2,
+			"listed_count": 9578,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 363,
+		"favorite_count": 1480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/1d52ylGJR2"
+	},
+	{
+		"created_at": "Thu Oct 13 21:40:22 +0000 2022",
+		"id": 1580667728880599000,
+		"id_str": "1580674831674396672",
+		"full_text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/xtaT19D7rA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcDl3G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580667652582047700,
+					"id_str": "1580667652582047744",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667652582047744/pu/img/rGZJs0oiAGCgrSu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667652582047744/pu/img/rGZJs0oiAGCgrSu0.jpg",
+					"url": "https://t.co/xtaT19D7rA",
+					"display_url": "pic.twitter.com/xtaT19D7rA",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667728880599041/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580667652582047700,
+					"id_str": "1580667652582047744",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667652582047744/pu/img/rGZJs0oiAGCgrSu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667652582047744/pu/img/rGZJs0oiAGCgrSu0.jpg",
+					"url": "https://t.co/xtaT19D7rA",
+					"display_url": "pic.twitter.com/xtaT19D7rA",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667728880599041/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667652582047744/pu/vid/320x320/iN-Fael692WK7xlA.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667652582047744/pu/vid/540x540/03jDYpdNhpEVpg8T.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667652582047744/pu/vid/720x720/_dV8ohJyB3lW_MJF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580667652582047744/pu/pl/3hFk-O9tq1Os8Xl_.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214138,
+			"friends_count": 2,
+			"listed_count": 9578,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 390,
+		"favorite_count": 1631,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/xtaT19D7rA"
+	},
+	{
+		"created_at": "Thu Oct 13 21:40:18 +0000 2022",
+		"id": 1580667587603878000,
+		"id_str": "1580674818290040833",
+		"full_text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/XTW19O11US",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcDl3G",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580667500765024300,
+					"id_str": "1580667500765024256",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667500765024256/pu/img/pKD2X3RCu8JTWvNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667500765024256/pu/img/pKD2X3RCu8JTWvNz.jpg",
+					"url": "https://t.co/XTW19O11US",
+					"display_url": "pic.twitter.com/XTW19O11US",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667587603877888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580667500765024300,
+					"id_str": "1580667500765024256",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580667500765024256/pu/img/pKD2X3RCu8JTWvNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580667500765024256/pu/img/pKD2X3RCu8JTWvNz.jpg",
+					"url": "https://t.co/XTW19O11US",
+					"display_url": "pic.twitter.com/XTW19O11US",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580667587603877888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580667500765024256/pu/pl/j0bGge_muT06-Wcw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667500765024256/pu/vid/540x540/C1Mvd2793XCUZ6cC.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667500765024256/pu/vid/320x320/YW4yCBVgAMqkULX-.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580667500765024256/pu/vid/720x720/jF_qYEsRDEfooKbY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214138,
+			"friends_count": 2,
+			"listed_count": 9578,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 504,
+		"favorite_count": 2227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcDl3G\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/XTW19O11US"
+	},
+	{
+		"created_at": "Thu Oct 13 21:40:13 +0000 2022",
+		"id": 1580665680743088000,
+		"id_str": "1580674796551278592",
+		"full_text": "@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcCNe8\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/VPsZOfK3gB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "invntatom",
+					"name": "INVNT.ATOM",
+					"id": 1535097937105387500,
+					"id_str": "1535097937105387521",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"screen_name": "TeamDotts",
+					"name": "connecting dotts",
+					"id": 1569691801451364400,
+					"id_str": "1569691801451364357",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"screen_name": "Sothebysverse",
+					"name": "Sotheby's Metaverse",
+					"id": 1425131723155705900,
+					"id_str": "1425131723155705860",
+					"indices": [
+						259,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DaLhxcCNe8",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580229310396629000,
+					"id_str": "1580229310396628992",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580229310396628992/img/6TjTuAYmKMQnoEt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580229310396628992/img/6TjTuAYmKMQnoEt2.jpg",
+					"url": "https://t.co/VPsZOfK3gB",
+					"display_url": "pic.twitter.com/VPsZOfK3gB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580665680743088128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580229310396629000,
+					"id_str": "1580229310396628992",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580229310396628992/img/6TjTuAYmKMQnoEt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580229310396628992/img/6TjTuAYmKMQnoEt2.jpg",
+					"url": "https://t.co/VPsZOfK3gB",
+					"display_url": "pic.twitter.com/VPsZOfK3gB",
+					"expanded_url": "https://twitter.com/aespa_official/status/1580665680743088128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580229310396628992/vid/720x720/4MdGd2maWjEP01UW.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580229310396628992/vid/320x320/A7JUg70Js_Q7hbqP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1580229310396628992/pl/FFilTtCsjHqO8qbb.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580229310396628992/vid/540x540/aRKQ0NymABZVOyNT.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 43792797,
+		"in_reply_to_user_id_str": "43792797",
+		"in_reply_to_screen_name": "blakekathryn",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3214138,
+			"friends_count": 2,
+			"listed_count": 9578,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@blakekathryn has created 4 limited edition Altars representing the different attributes and DNA of @aespa_official. Each NFT includes exclusive perks such as secret recorded messages and metaverse ready files.\n\nhttps://t.co/DaLhxcCNe8\n\n@invntatom @TeamDotts @Sothebysverse https://t.co/VPsZOfK3gB"
+	},
+	{
 		"created_at": "Thu Oct 13 18:40:26 +0000 2022",
 		"id": 1580628493054148600,
 		"id_str": "1580629553751343104",
