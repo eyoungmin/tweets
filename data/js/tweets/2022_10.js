@@ -1,6 +1,1209 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 09:43:53 +0000 2022",
+		"id": 1580488018045337600,
+		"id_str": "1580494526535245825",
+		"full_text": "전국의 핵인싸 모임 SM 할로윈 파티가 4년 만에 대면 행사로 열린다! \n#SM #SMTOWN #NCT #SHINee #SUPERJUNIOR #AESPA #RedVelvet #Halloween #SMHalloween #KPOP\nhttps://t.co/COM90NqD6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "AESPA",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "Halloween",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "SMHalloween",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/COM90NqD6n",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/10/13/sm-%ED%95%A0%EB%A1%9C%EC%9C%88-%ED%8C%8C%ED%8B%B0-%EB%8B%A4%EC%8B%9C-%EC%97%B4%EB%A6%B0%EB%8B%A4-%EC%9D%B4%EB%B2%88%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%BD%94%EC%8A%A4%ED%8A%AC%EC%9D%B4/?ddw=125774&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/10/13/sm-…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143663,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1665468512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전국의 핵인싸 모임 SM 할로윈 파티가 4년 만에 대면 행사로 열린다! \n#SM #SMTOWN #NCT #SHINee #SUPERJUNIOR #AESPA #RedVelvet #Halloween #SMHalloween #KPOP\nhttps://t.co/COM90NqD6n"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:34 +0000 2022",
+		"id": 1580492629942206500,
+		"id_str": "1580493689779986432",
+		"full_text": "#백예린 #yerinbaek #백예린10주년 #BEAKER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "백예린10주년",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "BEAKER",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580492627794722800,
+		"in_reply_to_status_id_str": "1580492627794722816",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48365,
+			"friends_count": 2,
+			"listed_count": 233,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "qht",
+		"text": "#백예린 #yerinbaek #백예린10주년 #BEAKER"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:32 +0000 2022",
+		"id": 1580492627794722800,
+		"id_str": "1580493680460566528",
+		"full_text": "머천다이즈 제품은 추후 공개됩니다.\n⠀\n💝 온라인 스토어\n* 비이커 온라인 공식 사이트 (https://t.co/0aGAJB9lZW)\n* 10월 20일 ~ 11월 30일 (재고 소진에 따라 변동 가능)\n⠀\n💝 팝업 스토어\n* 비이커 한남점 (서울시 용산구 한남동 738-36)\n* 10월 20일 ~ 11월 2일\n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0aGAJB9lZW",
+					"expanded_url": "http://www.ssfshop.com/beaker",
+					"display_url": "ssfshop.com/beaker",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580492624770740200,
+		"in_reply_to_status_id_str": "1580492624770740224",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48365,
+			"friends_count": 2,
+			"listed_count": 233,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "머천다이즈 제품은 추후 공개됩니다.\n⠀\n💝 온라인 스토어\n* 비이커 온라인 공식 사이트 (https://t.co/0aGAJB9lZW)\n* 10월 20일 ~ 11월 30일 (재고 소진에 따라 변동 가능)\n⠀\n💝 팝업 스토어\n* 비이커 한남점 (서울시 용산구 한남동 738-36)\n* 10월 20일 ~ 11월 2일\n⠀"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:29 +0000 2022",
+		"id": 1580492624770740200,
+		"id_str": "1580493667051405313",
+		"full_text": "Yerin Baek 10th Anniversary \nCapsule Collection &amp; Pop-Up Store with BEAKER\n⠀\n백예린의 데뷔 10주년을 기념하는 머천다이즈 발매 및 팝업스토어를 BEAKER와 함께 진행합니다. 2022년 10월 20일부터 시작되는 팝업스토어와 머천다이즈 온라인 판매를 놓치지 마세요! https://t.co/MhNZ83eTu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580490984168730600,
+					"id_str": "1580490984168730624",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8ILSIVsAAlxWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8ILSIVsAAlxWB.jpg",
+					"url": "https://t.co/MhNZ83eTu5",
+					"display_url": "pic.twitter.com/MhNZ83eTu5",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1580492624770740224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580490984168730600,
+					"id_str": "1580490984168730624",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8ILSIVsAAlxWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8ILSIVsAAlxWB.jpg",
+					"url": "https://t.co/MhNZ83eTu5",
+					"display_url": "pic.twitter.com/MhNZ83eTu5",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1580492624770740224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/ocnoiYagVq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ocnoiYagVq",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48365,
+			"friends_count": 2,
+			"listed_count": 233,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529030269046784000/5PCxmbkY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1652253459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yerin Baek 10th Anniversary \nCapsule Collection &amp; Pop-Up Store with BEAKER\n⠀\n백예린의 데뷔 10주년을 기념하는 머천다이즈 발매 및 팝업스토어를 BEAKER와 함께 진행합니다. 2022년 10월 20일부터 시작되는 팝업스토어와 머천다이즈 온라인 판매를 놓치지 마세요! https://t.co/MhNZ83eTu5"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:19 +0000 2022",
+		"id": 1580491120814960600,
+		"id_str": "1580493628505755648",
+		"full_text": "📢Attention #Orbit!\n@loonatheworld gives you a sneak-peek👀of the rehearsal for #LOONATHEWORLD_IN_SEOUL!\n\n📆October 14, 8 PM KST\n📺LIVE Rehearsal (FREE) with MyMusicTaste\n👉MMT registered email is needed to view. \n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/TZVIUh4Z9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						224,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580491114821345300,
+					"id_str": "1580491114821345281",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8IS42WYAEc8SM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8IS42WYAEc8SM.jpg",
+					"url": "https://t.co/TZVIUh4Z9C",
+					"display_url": "pic.twitter.com/TZVIUh4Z9C",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580491120814960640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580491114821345300,
+					"id_str": "1580491114821345281",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8IS42WYAEc8SM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8IS42WYAEc8SM.jpg",
+					"url": "https://t.co/TZVIUh4Z9C",
+					"display_url": "pic.twitter.com/TZVIUh4Z9C",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580491120814960640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149521,
+			"friends_count": 104,
+			"listed_count": 330,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢Attention #Orbit!\n@loonatheworld gives you a sneak-peek👀of the rehearsal for #LOONATHEWORLD_IN_SEOUL!\n\n📆October 14, 8 PM KST\n📺LIVE Rehearsal (FREE) with MyMusicTaste\n👉MMT registered email is needed to view. \n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/TZVIUh4Z9C"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:12 +0000 2022",
+		"id": 1580472702422618000,
+		"id_str": "1580493598327713792",
+		"full_text": "#협찬 #VogueCover #November \nI am U, IU\n\n너와 나의 아이콘. 누구와도 다르지만 결코 낯설지 않은 고유와 공감 사이, &lt;보그 코리아&gt; 11월의 아이유. \n\n@_IUofficial @gucci #IU #아이유 #Gucci #구찌 #AlessandroMichele https://t.co/5OqeWH05Mt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "VogueCover",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "November",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "Gucci",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "구찌",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "AlessandroMichele",
+					"indices": [
+						148,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "gucci",
+					"name": "gucci",
+					"id": 16913418,
+					"id_str": "16913418",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580472460591657000,
+					"id_str": "1580472460591656961",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe73VEbacAEH5rV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe73VEbacAEH5rV.jpg",
+					"url": "https://t.co/5OqeWH05Mt",
+					"display_url": "pic.twitter.com/5OqeWH05Mt",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1580472702422618113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580472460591657000,
+					"id_str": "1580472460591656961",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe73VEbacAEH5rV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe73VEbacAEH5rV.jpg",
+					"url": "https://t.co/5OqeWH05Mt",
+					"display_url": "pic.twitter.com/5OqeWH05Mt",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1580472702422618113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580472469399687200,
+					"id_str": "1580472469399687168",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe73VlPaUAAokP5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe73VlPaUAAokP5.jpg",
+					"url": "https://t.co/5OqeWH05Mt",
+					"display_url": "pic.twitter.com/5OqeWH05Mt",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1580472702422618113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1633,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/76FZW60Cc4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76FZW60Cc4",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192171,
+			"friends_count": 0,
+			"listed_count": 419,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1663232838",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1991,
+		"favorite_count": 5136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #VogueCover #November \nI am U, IU\n\n너와 나의 아이콘. 누구와도 다르지만 결코 낯설지 않은 고유와 공감 사이, &lt;보그 코리아&gt; 11월의 아이유. \n\n@_IUofficial @gucci #IU #아이유 #Gucci #구찌 #AlessandroMichele https://t.co/5OqeWH05Mt"
+	},
+	{
+		"created_at": "Thu Oct 13 09:40:10 +0000 2022",
+		"id": 1580488108109226000,
+		"id_str": "1580493589175447553",
+		"full_text": "추위는 모두 넣어두고,\n따뜻함만 남기다.\n\n아이유의 겨울은 COLD ZERO.\n\nhttps://t.co/vXGo6XxPAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXGo6XxPAo",
+					"expanded_url": "https://www.instagram.com/p/CjperQwvu51/",
+					"display_url": "instagram.com/p/CjperQwvu51/",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1516625,
+			"friends_count": 0,
+			"listed_count": 2389,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1633359681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 538,
+		"favorite_count": 2195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추위는 모두 넣어두고,\n따뜻함만 남기다.\n\n아이유의 겨울은 COLD ZERO.\n\nhttps://t.co/vXGo6XxPAo"
+	},
+	{
 		"created_at": "Thu Oct 13 08:40:24 +0000 2022",
 		"id": 1580453293486137300,
 		"id_str": "1580478546472206337",
