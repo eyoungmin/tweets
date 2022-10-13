@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 08:40:24 +0000 2022",
+		"id": 1580453293486137300,
+		"id_str": "1580478546472206337",
+		"full_text": "#슈퍼스타이달의소녀 사전 예약 50,000 달성!\n모두의 마음이 하나가 되는 순간이 얼마 남지 않았어요!\n우리 게임 이름 뭐라고 부르죠..? 슈스룬?\n\n#SuperStarLOONA achieved 50,000 pre-registrations!\nIt won't take long for our hearts to gather as one!\nWhat should we call our game..? SSLO? https://t.co/jvU5sIuFvo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580446292324384800,
+					"id_str": "1580446292324384768",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7fh4CUAAAPR07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7fh4CUAAAPR07.jpg",
+					"url": "https://t.co/jvU5sIuFvo",
+					"display_url": "pic.twitter.com/jvU5sIuFvo",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580453293486137344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1103,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580446292324384800,
+					"id_str": "1580446292324384768",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7fh4CUAAAPR07.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7fh4CUAAAPR07.jpg",
+					"url": "https://t.co/jvU5sIuFvo",
+					"display_url": "pic.twitter.com/jvU5sIuFvo",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580453293486137344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1103,
+							"h": 493,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20108,
+			"friends_count": 28,
+			"listed_count": 65,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 1355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슈퍼스타이달의소녀 사전 예약 50,000 달성!\n모두의 마음이 하나가 되는 순간이 얼마 남지 않았어요!\n우리 게임 이름 뭐라고 부르죠..? 슈스룬?\n\n#SuperStarLOONA achieved 50,000 pre-registrations!\nIt won't take long for our hearts to gather as one!\nWhat should we call our game..? SSLO? https://t.co/jvU5sIuFvo"
+	},
+	{
+		"created_at": "Thu Oct 13 08:40:18 +0000 2022",
+		"id": 1580392885324693500,
+		"id_str": "1580478524481146880",
+		"full_text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/wN3EcF2eoe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580380170405351400,
+					"id_str": "1580380170405351424",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fe6jZEsVEAAJ1PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fe6jZEsVEAAJ1PW.jpg",
+					"url": "https://t.co/wN3EcF2eoe",
+					"display_url": "pic.twitter.com/wN3EcF2eoe",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580392885324693504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580380170405351400,
+					"id_str": "1580380170405351424",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fe6jZEsVEAAJ1PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fe6jZEsVEAAJ1PW.jpg",
+					"url": "https://t.co/wN3EcF2eoe",
+					"display_url": "pic.twitter.com/wN3EcF2eoe",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580392885324693504/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fe6jZEsVEAAJ1PW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20108,
+			"friends_count": 28,
+			"listed_count": 65,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 661,
+		"favorite_count": 2304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "#슈퍼스타이달의소녀 #SuperStarLOONA https://t.co/wN3EcF2eoe"
+	},
+	{
+		"created_at": "Thu Oct 13 08:40:10 +0000 2022",
+		"id": 1580468612514869200,
+		"id_str": "1580478489014468609",
+		"full_text": "#OFFICIALBLINK\n\n#BLACKPINK 2022 Weverse Membership BOOTH 운영 안내 공지가 등록되었습니다!🖤💖\n공연장에서 블링크를 위한 다양한 이벤트들을 즐겨보세요! \n(Weverse Membership Only)\n\n#블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "20221015_6PM",
+					"indices": [
+						171,
+						184
+					]
+				},
+				{
+					"text": "20221016_5PM",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "올림픽체조경기장",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8604083,
+			"friends_count": 9,
+			"listed_count": 9327,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 953,
+		"favorite_count": 3725,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n#BLACKPINK 2022 Weverse Membership BOOTH 운영 안내 공지가 등록되었습니다!🖤💖\n공연장에서 블링크를 위한 다양한 이벤트들을 즐겨보세요! \n(Weverse Membership Only)\n\n#블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장"
+	},
+	{
 		"created_at": "Thu Oct 13 07:40:30 +0000 2022",
 		"id": 1580455856591642600,
 		"id_str": "1580463472495669248",
@@ -232,7 +792,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Thu Oct 13 07:40:26 +0000 2022",
 		"id": 1580457149645611000,
 		"id_str": "1580463459074199552",
-		"full_text": "BIBI for Cosmopolitan Indonesia!!!❤️‍🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg",
+		"full_text": "BIBI for Cosmopolitan Indonesia!!!❤️🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -530,7 +1090,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "in",
-		"text": "BIBI for Cosmopolitan Indonesia!!!❤️‍🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg"
+		"text": "BIBI for Cosmopolitan Indonesia!!!❤️🔥\n\n@nakedbibi @CosmoIndonesia https://t.co/CQIz0FVZAg"
 	},
 	{
 		"created_at": "Thu Oct 13 07:40:19 +0000 2022",
