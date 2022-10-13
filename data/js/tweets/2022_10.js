@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 02:40:15 +0000 2022",
+		"id": 1580378863842250800,
+		"id_str": "1580387914264956929",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL ALBUM BOOTH \nNotice has been uploaded. \n\n▶️https://t.co/HSX92P5VcL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015 #20221016 #음반부스 #ALBUM_BOOTH #KSPO_DOME #올림픽체조경기장 #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "음반부스",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "ALBUM_BOOTH",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "올림픽체조경기장",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						202,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HSX92P5VcL",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/657518992404572",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7703166,
+			"friends_count": 0,
+			"listed_count": 7805,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2365,
+		"favorite_count": 9378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL ALBUM BOOTH \nNotice has been uploaded. \n\n▶️https://t.co/HSX92P5VcL\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015 #20221016 #음반부스 #ALBUM_BOOTH #KSPO_DOME #올림픽체조경기장 #YG"
+	},
+	{
 		"created_at": "Wed Oct 12 19:40:10 +0000 2022",
 		"id": 1580278096715866000,
 		"id_str": "1580282194416660480",
