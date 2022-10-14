@@ -1,6 +1,1116 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 03:40:40 +0000 2022",
+		"id": 1580760324436680700,
+		"id_str": "1580765507535654913",
+		"full_text": "#오늘의_자우림 01\n출장 DAY 4\n\n귀갓길의 시작은 \n비건 샌드위치와 abc주스\n🍠🥕🥒🥑🍆🍅🫘 https://t.co/TQs8LgudNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580760318048731100,
+					"id_str": "1580760318048731136",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_9IlBUAAAdbeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_9IlBUAAAdbeL.jpg",
+					"url": "https://t.co/TQs8LgudNZ",
+					"display_url": "pic.twitter.com/TQs8LgudNZ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580760324436680706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580760318048731100,
+					"id_str": "1580760318048731136",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_9IlBUAAAdbeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_9IlBUAAAdbeL.jpg",
+					"url": "https://t.co/TQs8LgudNZ",
+					"display_url": "pic.twitter.com/TQs8LgudNZ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580760324436680706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580760318027788300,
+					"id_str": "1580760318027788288",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_9Ik8UcAAwkAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_9Ik8UcAAwkAq.jpg",
+					"url": "https://t.co/TQs8LgudNZ",
+					"display_url": "pic.twitter.com/TQs8LgudNZ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1580760324436680706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1083,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275699,
+			"friends_count": 596,
+			"listed_count": 2748,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의_자우림 01\n출장 DAY 4\n\n귀갓길의 시작은 \n비건 샌드위치와 abc주스\n🍠🥕🥒🥑🍆🍅🫘 https://t.co/TQs8LgudNZ"
+	},
+	{
+		"created_at": "Fri Oct 14 03:40:34 +0000 2022",
+		"id": 1580757061486653400,
+		"id_str": "1580765481178316800",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO\n\nSEE YOU SOON IN SEOUL!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #YG https://t.co/BlROOaarx5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "20221015_6pmKST",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "20221016_5pmKST",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580756936630636500,
+					"id_str": "1580756936630636544",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580756936630636544/img/rgqrfP9Nu-GMhh4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580756936630636544/img/rgqrfP9Nu-GMhh4h.jpg",
+					"url": "https://t.co/BlROOaarx5",
+					"display_url": "pic.twitter.com/BlROOaarx5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1580757061486653441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580756936630636500,
+					"id_str": "1580756936630636544",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1580756936630636544/img/rgqrfP9Nu-GMhh4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1580756936630636544/img/rgqrfP9Nu-GMhh4h.jpg",
+					"url": "https://t.co/BlROOaarx5",
+					"display_url": "pic.twitter.com/BlROOaarx5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1580757061486653441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 54187,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580756936630636544/vid/720x1280/avQmRZG88qiCBmNl.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580756936630636544/vid/480x852/-wuLHySfr5rXFZNg.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580756936630636544/vid/320x568/eMez2ciOhYlLdIYj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1580756936630636544/pl/dDcW5Tl_ZL8cvr_O.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7710697,
+			"friends_count": 0,
+			"listed_count": 7805,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7889,
+		"favorite_count": 20991,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO\n\nSEE YOU SOON IN SEOUL!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #YG https://t.co/BlROOaarx5"
+	},
+	{
+		"created_at": "Fri Oct 14 03:40:26 +0000 2022",
+		"id": 1580755580297572400,
+		"id_str": "1580765445476749312",
+		"full_text": "새로운 날\n떠오른 달\n\n지금 슈퍼스타에 달이 떠올랐고\n그 달빛이 비치는 그곳에서 우리의 만남이 시작됐어!\n지금 약속의 장소 #슈스룬 으로 모여줘요\n\n#슈퍼스타이달의소녀 정식 오픈!\n바로 다운로드하세요!\n✅https://t.co/zWfMSNU8nl\n🌕https://t.co/6gAtY0BbRf\n\n#슈스룬 #이달의소녀 #슈퍼스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈스룬",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "슈스룬",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "슈퍼스타",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWfMSNU8nl",
+					"expanded_url": "http://vo.la/TNVn0",
+					"display_url": "vo.la/TNVn0",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/6gAtY0BbRf",
+					"expanded_url": "http://youtu.be/6O4UPhnnlsQ",
+					"display_url": "youtu.be/6O4UPhnnlsQ",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20333,
+			"friends_count": 28,
+			"listed_count": 64,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 370,
+		"favorite_count": 1066,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 날\n떠오른 달\n\n지금 슈퍼스타에 달이 떠올랐고\n그 달빛이 비치는 그곳에서 우리의 만남이 시작됐어!\n지금 약속의 장소 #슈스룬 으로 모여줘요\n\n#슈퍼스타이달의소녀 정식 오픈!\n바로 다운로드하세요!\n✅https://t.co/zWfMSNU8nl\n🌕https://t.co/6gAtY0BbRf\n\n#슈스룬 #이달의소녀 #슈퍼스타"
+	},
+	{
+		"created_at": "Fri Oct 14 03:40:17 +0000 2022",
+		"id": 1580755487229812700,
+		"id_str": "1580765410852737026",
+		"full_text": "#OFFICIALBLINK\n\nBLACKPINK WORLD TOUR [BORN PINK] SEOUL\n콘서트를 위한 BLINK 필수품✨\n\nBLACKPINK 응원법 모음집을\nBLACKPINK Weverse에서 확인하세요🎶\n\n▶️ https://t.co/tce1A7xfWK\n\n#BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "20221015_6PM",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"text": "20221016_5PM",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"text": "올림픽체조경기장",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tce1A7xfWK",
+					"expanded_url": "https://weverse.io/blackpink/media/1-106957415",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8606247,
+			"friends_count": 9,
+			"listed_count": 9333,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1451,
+		"favorite_count": 4396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\nBLACKPINK WORLD TOUR [BORN PINK] SEOUL\n콘서트를 위한 BLINK 필수품✨\n\nBLACKPINK 응원법 모음집을\nBLACKPINK Weverse에서 확인하세요🎶\n\n▶️ https://t.co/tce1A7xfWK\n\n#BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장"
+	},
+	{
+		"created_at": "Fri Oct 14 03:40:12 +0000 2022",
+		"id": 1580755346850971600,
+		"id_str": "1580765388559724545",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO\n\nSEE YOU SOON IN SEOUL!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #YG https://t.co/Jf7BG5nXF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "20221015_6pmKST",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "20221016_5pmKST",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580586450705612800,
+					"id_str": "1580586450705612800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9gjahagAEaksZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9gjahagAEaksZ.jpg",
+					"url": "https://t.co/Jf7BG5nXF8",
+					"display_url": "pic.twitter.com/Jf7BG5nXF8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580755346850971649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580586450705612800,
+					"id_str": "1580586450705612800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe9gjahagAEaksZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe9gjahagAEaksZ.jpg",
+					"url": "https://t.co/Jf7BG5nXF8",
+					"display_url": "pic.twitter.com/Jf7BG5nXF8",
+					"expanded_url": "https://twitter.com/ygent_official/status/1580755346850971649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 54187,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1580586450705612800/pl/uF1iHpO5z4wuocDp.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580586450705612800/vid/720x1280/7ceary_9xcIJg3YW.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580586450705612800/vid/320x568/2p8-AuR4bwBsGLMx.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1580586450705612800/vid/480x852/XI2U4CJZJNEBHEfg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtube.com/shorts/B0Xuadbp3eA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/kxIXGOWpWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kxIXGOWpWX",
+							"expanded_url": "https://lnk.to/YG_ENTERTAINMENT",
+							"display_url": "lnk.to/YG_ENTERTAINME…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8976477,
+			"friends_count": 35,
+			"listed_count": 9883,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3187,
+		"favorite_count": 9158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO\n\nSEE YOU SOON IN SEOUL!\n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #YG https://t.co/Jf7BG5nXF8"
+	},
+	{
 		"created_at": "Fri Oct 14 02:36:07 +0000 2022",
 		"id": 1580740178905268200,
 		"id_str": "1580749260672229376",
