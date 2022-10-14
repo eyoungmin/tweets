@@ -1,6 +1,1139 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 10:59:12 +0000 2022",
+		"id": 1580873133795393500,
+		"id_str": "1580875866422226945",
+		"full_text": "안뇽~ 러비 오늘 뮤직뱅크 봤나요?? \n오늘 특별히 일일 은행장으로 변신해 봤는데요 \n많은 러비들이 응원해 주셔서 떨지 않고 재미있게 할 수 있었어요~~ \n오늘 1위 후보도 너무너무 고마워요\n🥹🥹🥹🥹 러비 싸랑해!!!\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#뮤직뱅크 #MusicBank https://t.co/kUAw3jQVkG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						171,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580873116124790800,
+					"id_str": "1580873116124790784",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBjuSmVQAA_b9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBjuSmVQAA_b9F.jpg",
+					"url": "https://t.co/kUAw3jQVkG",
+					"display_url": "pic.twitter.com/kUAw3jQVkG",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580873133795393537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580873116124790800,
+					"id_str": "1580873116124790784",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBjuSmVQAA_b9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBjuSmVQAA_b9F.jpg",
+					"url": "https://t.co/kUAw3jQVkG",
+					"display_url": "pic.twitter.com/kUAw3jQVkG",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1580873133795393537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5671090,
+			"friends_count": 2,
+			"listed_count": 11355,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2032,
+		"favorite_count": 5185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안뇽~ 러비 오늘 뮤직뱅크 봤나요?? \n오늘 특별히 일일 은행장으로 변신해 봤는데요 \n많은 러비들이 응원해 주셔서 떨지 않고 재미있게 할 수 있었어요~~ \n오늘 1위 후보도 너무너무 고마워요\n🥹🥹🥹🥹 러비 싸랑해!!!\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#뮤직뱅크 #MusicBank https://t.co/kUAw3jQVkG"
+	},
+	{
+		"created_at": "Fri Oct 14 10:40:30 +0000 2022",
+		"id": 1580848463012835300,
+		"id_str": "1580871158898966528",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내​📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "슈스룬",
+					"indices": [
+						47,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580848088742523000,
+					"id_str": "1580848088742522883",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBM9gVacAMwDc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBM9gVacAMwDc-.jpg",
+					"url": "https://t.co/zfoYIK5Mti",
+					"display_url": "pic.twitter.com/zfoYIK5Mti",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580848463012835334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580848088742523000,
+					"id_str": "1580848088742522883",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBM9gVacAMwDc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBM9gVacAMwDc-.jpg",
+					"url": "https://t.co/zfoYIK5Mti",
+					"display_url": "pic.twitter.com/zfoYIK5Mti",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580848463012835334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20443,
+			"friends_count": 28,
+			"listed_count": 64,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내​📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti"
+	},
+	{
+		"created_at": "Fri Oct 14 10:40:27 +0000 2022",
+		"id": 1580848818517864400,
+		"id_str": "1580871149235638272",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n​[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580848547456782300,
+					"id_str": "1580848547456782336",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBNYNLakAAwGtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBNYNLakAAwGtH.jpg",
+					"url": "https://t.co/sywufN94gR",
+					"display_url": "pic.twitter.com/sywufN94gR",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580848818517864449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580848547456782300,
+					"id_str": "1580848547456782336",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBNYNLakAAwGtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBNYNLakAAwGtH.jpg",
+					"url": "https://t.co/sywufN94gR",
+					"display_url": "pic.twitter.com/sywufN94gR",
+					"expanded_url": "https://twitter.com/SuperStar_GL/status/1580848818517864449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20443,
+			"friends_count": 28,
+			"listed_count": 64,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n​[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR"
+	},
+	{
+		"created_at": "Fri Oct 14 10:40:18 +0000 2022",
+		"id": 1580846943127101400,
+		"id_str": "1580871110232788992",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n​👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "슈퍼스타이달의소녀",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "SuperStarLOONA",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "Photocard",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v5qUueCzSh",
+					"expanded_url": "https://youtube.com/shorts/10poHyBIqU8",
+					"display_url": "youtube.com/shorts/10poHyB…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376465832633462800,
+			"id_str": "1376465832633462788",
+			"name": "SuperStar Official",
+			"screen_name": "SuperStar_GL",
+			"location": "",
+			"description": "슈퍼스타 리듬게임 공식계정 ♪\nThis is the Official Twitter for #SuperStar",
+			"url": "https://t.co/UDM8pr62ts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UDM8pr62ts",
+							"expanded_url": "http://www.dalcomsoft.com/",
+							"display_url": "dalcomsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20443,
+			"friends_count": 28,
+			"listed_count": 64,
+			"created_at": "Mon Mar 29 09:27:25 +0000 2021",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377030737518465026/UXa9HvOx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1376465832633462788/1617145421",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n​👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard"
+	},
+	{
+		"created_at": "Fri Oct 14 10:40:12 +0000 2022",
+		"id": 1580847132679905300,
+		"id_str": "1580871083762204672",
+		"full_text": "BLACKPINK M/V outfits in #ZEPETO!\n#ShutDown Dance Challenge 🖤\n☝ Wear Shut Down items and record a dance challenge video.\n✌ Upload it to the feed using the hashtags below!\n100 winners will receive 10,000 Coins 💰\n\n@BLACKPINK @ygofficialblink \n#ZEPETOBP #ShutDownDanceChallenge https://t.co/GsFuitSUju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZEPETO",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "ZEPETOBP",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "ShutDownDanceChallenge",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						223,
+						239
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580847129643319300,
+					"id_str": "1580847129643319296",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBMFraWAAA6R-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBMFraWAAA6R-C.jpg",
+					"url": "https://t.co/GsFuitSUju",
+					"display_url": "pic.twitter.com/GsFuitSUju",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1580847132679905281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580847129643319300,
+					"id_str": "1580847129643319296",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBMFraWAAA6R-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBMFraWAAA6R-C.jpg",
+					"url": "https://t.co/GsFuitSUju",
+					"display_url": "pic.twitter.com/GsFuitSUju",
+					"expanded_url": "https://twitter.com/zepeto_official/status/1580847132679905281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254595988796264400,
+			"id_str": "1254595988796264450",
+			"name": "ZEPETO",
+			"screen_name": "zepeto_official",
+			"location": "INSTAGRAM : @zepeto.official",
+			"description": "Another me in another universe  https://t.co/UrgB0czvgB",
+			"url": "https://t.co/PjB45ZkpiH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PjB45ZkpiH",
+							"expanded_url": "http://youtube.com/c/ZEPETO_official",
+							"display_url": "youtube.com/c/ZEPETO_offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UrgB0czvgB",
+							"expanded_url": "http://zepeto.me",
+							"display_url": "zepeto.me",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51809,
+			"friends_count": 3,
+			"listed_count": 88,
+			"created_at": "Mon Apr 27 02:20:42 +0000 2020",
+			"favourites_count": 8436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517415275515158528/m5SBnUm3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254595988796264450/1650614938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3804,
+		"favorite_count": 10640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK M/V outfits in #ZEPETO!\n#ShutDown Dance Challenge 🖤\n☝ Wear Shut Down items and record a dance challenge video.\n✌ Upload it to the feed using the hashtags below!\n100 winners will receive 10,000 Coins 💰\n\n@BLACKPINK @ygofficialblink \n#ZEPETOBP #ShutDownDanceChallenge https://t.co/GsFuitSUju"
+	},
+	{
+		"created_at": "Fri Oct 14 10:09:44 +0000 2022",
+		"id": 1580862995747713000,
+		"id_str": "1580863419300737030",
+		"full_text": "28 Reasons - 슬기(SEULGI) | KBS 221014 방송\n\nhttps://t.co/MyA4tf9tCV\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#뮤직뱅크 #MusicBank",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MyA4tf9tCV",
+					"expanded_url": "https://tv.naver.com/v/29931644",
+					"display_url": "tv.naver.com/v/29931644",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5671090,
+			"friends_count": 2,
+			"listed_count": 11355,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1103,
+		"favorite_count": 2874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "28 Reasons - 슬기(SEULGI) | KBS 221014 방송\n\nhttps://t.co/MyA4tf9tCV\n\n#슬기 #SEULGI\n#레드벨벳 #RedVelvet \n#28Reasons \n#뮤직뱅크 #MusicBank"
+	},
+	{
 		"created_at": "Fri Oct 14 09:45:37 +0000 2022",
 		"id": 1580845971814350800,
 		"id_str": "1580857348037672960",
