@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 11:40:19 +0000 2022",
+		"id": 1580878155136774100,
+		"id_str": "1580886215406256128",
+		"full_text": "#OFFICIALBLINK\n\n✨BLINK와 만나는 날까지 D-1✨\n\n앞으로 남은 단 하루\n행복을 잔뜩 더할 리사의 사진!\nBLACKPINK Weverse에서 확인하세요😘\n\n▶️ https://t.co/dSYgNNeKi2\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "20221015_6PM",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"text": "20221016_5PM",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "올림픽체조경기장",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dSYgNNeKi2",
+					"expanded_url": "https://weverse.io/blackpink/media/1-106965736",
+					"display_url": "weverse.io/blackpink/medi…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8607359,
+			"friends_count": 9,
+			"listed_count": 9335,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2687,
+		"favorite_count": 6415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n✨BLINK와 만나는 날까지 D-1✨\n\n앞으로 남은 단 하루\n행복을 잔뜩 더할 리사의 사진!\nBLACKPINK Weverse에서 확인하세요😘\n\n▶️ https://t.co/dSYgNNeKi2\n\n#LISA #리사 #BLACKPINK #블랙핑크\n#WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM\n#KSPO_DOME #올림픽체조경기장"
+	},
+	{
+		"created_at": "Fri Oct 14 11:40:17 +0000 2022",
+		"id": 1580876248120975400,
+		"id_str": "1580886206077730817",
+		"full_text": "Tune into @loonatheworld’s open rehearsal🎤 for #LOONATHEWORLD_IN_SEOUL now!\n이달의 소녀의 오픈 리허설이 지금 시작 됩니다🎤! \n\n🔗Streaming Link | 스트리밍 링크👉https://t.co/9OllkM3GTu \n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/x4sS5gTqep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9OllkM3GTu",
+					"expanded_url": "https://mmt.fans/bFvj",
+					"display_url": "mmt.fans/bFvj",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580876242357784600,
+					"id_str": "1580876242357784577",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBmkQuXEAEmyNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBmkQuXEAEmyNj.jpg",
+					"url": "https://t.co/x4sS5gTqep",
+					"display_url": "pic.twitter.com/x4sS5gTqep",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580876248120975360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580876242357784600,
+					"id_str": "1580876242357784577",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBmkQuXEAEmyNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBmkQuXEAEmyNj.jpg",
+					"url": "https://t.co/x4sS5gTqep",
+					"display_url": "pic.twitter.com/x4sS5gTqep",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580876248120975360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149545,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Tune into @loonatheworld’s open rehearsal🎤 for #LOONATHEWORLD_IN_SEOUL now!\n이달의 소녀의 오픈 리허설이 지금 시작 됩니다🎤! \n\n🔗Streaming Link | 스트리밍 링크👉https://t.co/9OllkM3GTu \n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/x4sS5gTqep"
+	},
+	{
+		"created_at": "Fri Oct 14 11:29:46 +0000 2022",
+		"id": 1580876324042076200,
+		"id_str": "1580883560252440577",
+		"full_text": "보컬🎤부터 댄스💃까지 능력치 916% 신인 #미미로즈 #인효리 의\n소녀시대 태연 '11:11’ &amp; ‘INVU’ 롤모델 커버💞\n통기타 소녀였는데요.. 퍼포 장인이었습니다🤩\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#mimiirose(@mimiirose_YESIM) #InnHyoRi #롤모델커버VS https://t.co/15KUj0qAe3 https://t.co/AZurzJpey6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미미로즈",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "인효리",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "mimiirose",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "InnHyoRi",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "롤모델커버VS",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimiirose_YESIM",
+					"name": "mimiirose (미미로즈)",
+					"id": 1548510000355504000,
+					"id_str": "1548510000355504129",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/15KUj0qAe3",
+					"expanded_url": "https://twitter.com/1thek/status/1580876105850187777",
+					"display_url": "twitter.com/1thek/status/1…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580876179707670500,
+					"id_str": "1580876179707670529",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"url": "https://t.co/AZurzJpey6",
+					"display_url": "pic.twitter.com/AZurzJpey6",
+					"expanded_url": "https://twitter.com/1theK/status/1580876324042076160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580876179707670500,
+					"id_str": "1580876179707670529",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"url": "https://t.co/AZurzJpey6",
+					"display_url": "pic.twitter.com/AZurzJpey6",
+					"expanded_url": "https://twitter.com/1theK/status/1580876324042076160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 84916,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/640x360/0WFL_p2DTZRVJZgb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/1280x720/7VJdLPlrOwXiMPHU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/pl/4KOy_G4EYFb_I4pp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/480x270/lj8mQfGeUhOi47hU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349765,
+			"friends_count": 818,
+			"listed_count": 2263,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1665741592",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580876105850187800,
+		"quoted_status_id_str": "1580876105850187777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/15KUj0qAe3",
+			"expanded": "https://twitter.com/1thek/status/1580876105850187777",
+			"display": "twitter.com/1thek/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 11:00:09 +0000 2022",
+			"id": 1580876105850187800,
+			"id_str": "1580876105850187777",
+			"full_text": "풀버전으로 보고 싶은 미미로즈 인효리의 롤모델 소녀시대 태연 커버곡은?\nVote for 1 song you want to see in full version! ☞ https://t.co/HVbcJqlltb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HVbcJqlltb",
+						"expanded_url": "https://youtu.be/_VJtbZdDA1o",
+						"display_url": "youtu.be/_VJtbZdDA1o",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568871711,
+				"id_str": "568871711",
+				"name": "1theK(원더케이)",
+				"screen_name": "1theK",
+				"location": "Korea",
+				"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+				"url": "https://t.co/BmRz0M5nTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BmRz0M5nTk",
+								"expanded_url": "http://www.youtube.com/1thek",
+								"display_url": "youtube.com/1thek",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2349765,
+				"friends_count": 818,
+				"listed_count": 2263,
+				"created_at": "Wed May 02 07:04:27 +0000 2012",
+				"favourites_count": 14598,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1665741592",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 36,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보컬🎤부터 댄스💃까지 능력치 916% 신인 #미미로즈 #인효리 의\n소녀시대 태연 '11:11’ &amp; ‘INVU’ 롤모델 커버💞\n통기타 소녀였는데요.. 퍼포 장인이었습니다🤩\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#mimiirose(@mimiirose_YESIM) #InnHyoRi #롤모델커버VS https://t.co/15KUj0qAe3 https://t.co/AZurzJpey6"
+	},
+	{
 		"created_at": "Fri Oct 14 10:59:12 +0000 2022",
 		"id": 1580873133795393500,
 		"id_str": "1580875866422226945",
@@ -229,7 +1022,7 @@ Grailbird.data.tweets_2022_10 =
 		"created_at": "Fri Oct 14 10:40:30 +0000 2022",
 		"id": 1580848463012835300,
 		"id_str": "1580871158898966528",
-		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내​📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -413,13 +1206,13 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내​📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti"
+		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢\n#슈스룬 부스 운영 시간을 꼭 확인해 주세요!\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n※참가 팔찌는 30분 전 선착순 배부됩니다.\n※콘서트 일차별 미션 정보를 확인해 주세요. https://t.co/zfoYIK5Mti"
 	},
 	{
 		"created_at": "Fri Oct 14 10:40:27 +0000 2022",
 		"id": 1580848818517864400,
 		"id_str": "1580871149235638272",
-		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n​[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -596,13 +1389,13 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n​[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n​※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR"
+		"text": "[LOONATHEWORLD] in SEOUL\n#슈퍼스타이달의소녀 부스 운영 안내📢📢\n\n[부스 운영 시간]\n-10/15(토) 12:00PM~17:00PM\n-10/16(일) 11:00AM~16:00PM\n\n※경품 조기 소진 시 인증존이 종료됩니다.\n※프로모션 상품은 콘서트 양일간 계정당 1회만 경품 수령이 가능합니다. https://t.co/sywufN94gR"
 	},
 	{
 		"created_at": "Fri Oct 14 10:40:18 +0000 2022",
 		"id": 1580846943127101400,
 		"id_str": "1580871110232788992",
-		"full_text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n​👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard",
+		"full_text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -739,7 +1532,7 @@ Grailbird.data.tweets_2022_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n​👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard"
+		"text": "[LOONATHEWORLD] in SEOUL\n슈퍼스타 이달의 소녀 부스에서만 만날 수 있어요!\n\n👉https://t.co/v5qUueCzSh\n\n#이달의소녀 #LOONA #슈퍼스타이달의소녀 #SuperStarLOONA #Photocard"
 	},
 	{
 		"created_at": "Fri Oct 14 10:40:12 +0000 2022",
