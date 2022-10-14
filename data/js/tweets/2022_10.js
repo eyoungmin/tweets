@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 01:40:10 +0000 2022",
+		"id": 1580714075234848800,
+		"id_str": "1580735180612186113",
+		"full_text": "The @aespa_official digital art collaboration with @blakekathryn is live on Sotheby's Metaverse: https://t.co/RVazbJWjst\n\nWhat's included? MY Pass, Dreamspace, and Altars (Special and Limited Editions) available now. More in thread below.👇 https://t.co/2r5JH6o0aP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RVazbJWjst",
+					"expanded_url": "http://sothebys.com/aegirls",
+					"display_url": "sothebys.com/aegirls",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580713654047150000,
+					"id_str": "1580713654047150080",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_SsYEXEAAIwti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_SsYEXEAAIwti.jpg",
+					"url": "https://t.co/2r5JH6o0aP",
+					"display_url": "pic.twitter.com/2r5JH6o0aP",
+					"expanded_url": "https://twitter.com/Sothebysverse/status/1580714075234848769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580713654047150000,
+					"id_str": "1580713654047150080",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_SsYEXEAAIwti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_SsYEXEAAIwti.jpg",
+					"url": "https://t.co/2r5JH6o0aP",
+					"display_url": "pic.twitter.com/2r5JH6o0aP",
+					"expanded_url": "https://twitter.com/Sothebysverse/status/1580714075234848769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1425131723155705900,
+			"id_str": "1425131723155705860",
+			"name": "Sotheby's Metaverse",
+			"screen_name": "Sothebysverse",
+			"location": "",
+			"description": "Welcome to Sotheby’s Metaverse. Auction house for a selection of rare NFTs and digital art.",
+			"url": "https://t.co/ejB69mHboN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejB69mHboN",
+							"expanded_url": "https://metaverse.sothebys.com/salgado",
+							"display_url": "metaverse.sothebys.com/salgado",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28137,
+			"friends_count": 196,
+			"listed_count": 239,
+			"created_at": "Tue Aug 10 16:28:27 +0000 2021",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496904103221415940/I4EnfXkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1425131723155705860/1664416461",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 482,
+		"favorite_count": 2040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @aespa_official digital art collaboration with @blakekathryn is live on Sotheby's Metaverse: https://t.co/RVazbJWjst\n\nWhat's included? MY Pass, Dreamspace, and Altars (Special and Limited Editions) available now. More in thread below.👇 https://t.co/2r5JH6o0aP"
+	},
+	{
 		"created_at": "Fri Oct 14 00:36:41 +0000 2022",
 		"id": 1580706115511529500,
 		"id_str": "1580719204184993792",
