@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 09:45:37 +0000 2022",
+		"id": 1580845971814350800,
+		"id_str": "1580857348037672960",
+		"full_text": "🦋LOONATHEWORLD in SEOUL🦋\n\n⏳D-1⏳\nGrab your tix now, #Orbit!✨\n\n🔗ONLINE🎫👉https://t.co/WP4u5Vmrrb \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY1 https://t.co/CqUB3lkDLy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"text": "DAY1",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WP4u5Vmrrb",
+					"expanded_url": "https://mmt.fans/bFsG",
+					"display_url": "mmt.fans/bFsG",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsEATg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580845967452119000,
+					"id_str": "1580845967452119040",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBLCB6XoAAXcU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBLCB6XoAAXcU6.jpg",
+					"url": "https://t.co/CqUB3lkDLy",
+					"display_url": "pic.twitter.com/CqUB3lkDLy",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580845971814350849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580845967452119000,
+					"id_str": "1580845967452119040",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBLCB6XoAAXcU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBLCB6XoAAXcU6.jpg",
+					"url": "https://t.co/CqUB3lkDLy",
+					"display_url": "pic.twitter.com/CqUB3lkDLy",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580845971814350849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149536,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🦋LOONATHEWORLD in SEOUL🦋\n\n⏳D-1⏳\nGrab your tix now, #Orbit!✨\n\n🔗ONLINE🎫👉https://t.co/WP4u5Vmrrb \n🔗OFFLINE🎫👉https://t.co/mZlcHsEATg \n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY1 https://t.co/CqUB3lkDLy"
+	},
+	{
+		"created_at": "Fri Oct 14 09:40:14 +0000 2022",
+		"id": 1580845869619888000,
+		"id_str": "1580855993793011712",
+		"full_text": "[🎥]\n\n[YE'S THE REC] \n선예(SUNYE) - Beautiful (원곡: Crush)\n\n▶ https://t.co/kPP29XWZjl\n\n#선예 #Sunye \n#Beautiful https://t.co/NqlQSyL8ky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선예",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Sunye",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Beautiful",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kPP29XWZjl",
+					"expanded_url": "https://youtu.be/K64ZaT3_Dl0",
+					"display_url": "youtu.be/K64ZaT3_Dl0",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580427265632268300,
+					"id_str": "1580427265632268289",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7OOYFacAEIks0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7OOYFacAEIks0.jpg",
+					"url": "https://t.co/NqlQSyL8ky",
+					"display_url": "pic.twitter.com/NqlQSyL8ky",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1580845869619888129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580427265632268300,
+					"id_str": "1580427265632268289",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe7OOYFacAEIks0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe7OOYFacAEIks0.jpg",
+					"url": "https://t.co/NqlQSyL8ky",
+					"display_url": "pic.twitter.com/NqlQSyL8ky",
+					"expanded_url": "https://twitter.com/BBC_blockberry/status/1580845869619888129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496008272398418000,
+			"id_str": "1496008272398417930",
+			"name": "BlockBerryCreative",
+			"screen_name": "BBC_blockberry",
+			"location": "",
+			"description": "BlockBerryCreative official twitter / 이달의 소녀 LOONA / 선예 SUNYE",
+			"url": "https://t.co/zoTXadc3lA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoTXadc3lA",
+							"expanded_url": "http://blockberrycreative.com",
+							"display_url": "blockberrycreative.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19226,
+			"friends_count": 2,
+			"listed_count": 70,
+			"created_at": "Tue Feb 22 06:26:05 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496008427323400194/aZbqjujC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥]\n\n[YE'S THE REC] \n선예(SUNYE) - Beautiful (원곡: Crush)\n\n▶ https://t.co/kPP29XWZjl\n\n#선예 #Sunye \n#Beautiful https://t.co/NqlQSyL8ky"
+	},
+	{
+		"created_at": "Fri Oct 14 09:40:10 +0000 2022",
+		"id": 1580782607415279600,
+		"id_str": "1580855976009162753",
+		"full_text": "사람이 많이 몰려서 그런 건지, 아니면 발의 의원실에서 뭔가 수작을 부렸는지 모바일로는 현재 회원가입이 안 됩니다. 핸드폰 인증까지 다 하고나서 하얀 화면 떠서 힘빠지게 합니다. (예전엔 비회원으로도 됐었는데...) 새로 회원가입 하셔야 하는 분들은 PC웹을 쓰셔야 합니다. https://t.co/B9f2WL55Na",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B9f2WL55Na",
+					"expanded_url": "https://twitter.com/salnamma2/status/1580750782324170753",
+					"display_url": "twitter.com/salnamma2/stat…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200513262,
+			"id_str": "200513262",
+			"name": "System_all_red",
+			"screen_name": "System_all_red",
+			"location": "",
+			"description": "개.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1526,
+			"friends_count": 253,
+			"listed_count": 25,
+			"created_at": "Sat Oct 09 14:08:11 +0000 2010",
+			"favourites_count": 9281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082993316638019584/7qkn2owF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082993316638019584/7qkn2owF_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580750782324170800,
+		"quoted_status_id_str": "1580750782324170753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B9f2WL55Na",
+			"expanded": "https://twitter.com/salnamma2/status/1580750782324170753",
+			"display": "twitter.com/salnamma2/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 02:42:10 +0000 2022",
+			"id": 1580750782324170800,
+			"id_str": "1580750782324170753",
+			"full_text": "녹음금지법 통과되기 직전입니다.\n이거 통과하면 성폭행 당해도 증거채택 못해서 증명도 못하고 통화녹음도 못함.\n오늘까지 의견등록 가능합니다.\n\nhttps://t.co/0VvfKrvTCi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0VvfKrvTCi",
+						"expanded_url": "https://pal.assembly.go.kr/law/readView.do?lgsltpaId=PRC_J2T2B0J9P2A9F1B7A3M2U4G2Z4B6X3&pageNo=1",
+						"display_url": "pal.assembly.go.kr/law/readView.d…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1378744985164468200,
+				"id_str": "1378744985164468228",
+				"name": "🤏아름다운남자들🤏",
+				"screen_name": "salnamma2",
+				"location": "냄져팔팔달여만든보약팝니노",
+				"description": "프사는. 맛있는수입산~골뱅이@ ^^. 배경은. 국산남🤬 한숨이. 푹푹. 나오는구나...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101,
+				"friends_count": 166,
+				"listed_count": 0,
+				"created_at": "Sun Apr 04 16:23:22 +0000 2021",
+				"favourites_count": 887,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4058,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501155197812314115/ojbBLe3I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501155197812314115/ojbBLe3I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1378744985164468228/1617554156",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7789,
+			"favorite_count": 837,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1254,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사람이 많이 몰려서 그런 건지, 아니면 발의 의원실에서 뭔가 수작을 부렸는지 모바일로는 현재 회원가입이 안 됩니다. 핸드폰 인증까지 다 하고나서 하얀 화면 떠서 힘빠지게 합니다. (예전엔 비회원으로도 됐었는데...) 새로 회원가입 하셔야 하는 분들은 PC웹을 쓰셔야 합니다. https://t.co/B9f2WL55Na"
+	},
+	{
 		"created_at": "Fri Oct 14 08:59:26 +0000 2022",
 		"id": 1580830726378832000,
 		"id_str": "1580845727105708032",
