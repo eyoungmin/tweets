@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 05:44:04 +0000 2022",
+		"id": 1580785474708246500,
+		"id_str": "1580796559079329793",
+		"full_text": "SM의 할로윈 코스튬 콘테스트 역대 우승자는? \n#최강창민 #루나 #찬열 #EXO #엑소 @weareoneEXO #키 #온유 #샤이니 @SHINee #정우 #태용 #NCT @NCTsmtown  #슈퍼주니어 #신동 @SJoffical #에스파 #지젤 @asepa_official #신채경 #예리 #레드벨벳 @RVsmtown #텐\nhttps://t.co/0bXqxCTmSo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "루나",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "찬열",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						63,
+						65
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "정우",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "신동",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "신채경",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						180,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weareoneEXO",
+					"name": "EXO",
+					"id": 873115441303924700,
+					"id_str": "873115441303924736",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"screen_name": "NCTsmtown",
+					"name": "NCT",
+					"id": 4811011050,
+					"id_str": "4811011050",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "SJoffical",
+					"name": "SJoffical",
+					"id": 1859582491,
+					"id_str": "1859582491",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"screen_name": "asepa_official",
+					"name": "aespa 🍥",
+					"id": 1344638801902092300,
+					"id_str": "1344638801902092290",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						170,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0bXqxCTmSo",
+					"expanded_url": "https://www.allurekorea.com/?p=184859&ddw=125811&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=184859&ddw=…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38142,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM의 할로윈 코스튬 콘테스트 역대 우승자는? \n#최강창민 #루나 #찬열 #EXO #엑소 @weareoneEXO #키 #온유 #샤이니 @SHINee #정우 #태용 #NCT @NCTsmtown  #슈퍼주니어 #신동 @SJoffical #에스파 #지젤 @asepa_official #신채경 #예리 #레드벨벳 @RVsmtown #텐\nhttps://t.co/0bXqxCTmSo"
+	},
+	{
 		"created_at": "Fri Oct 14 04:40:10 +0000 2022",
 		"id": 1580770374962356200,
 		"id_str": "1580780478524555264",
