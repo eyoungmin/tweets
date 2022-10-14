@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 00:36:41 +0000 2022",
+		"id": 1580706115511529500,
+		"id_str": "1580719204184993792",
+		"full_text": "덕분에 오늘 웃었어요&gt;&lt; #경기과학기술대학교 정말 너무 고마워요💚💙💜 \n\n#청하 #CHUNGHA https://t.co/iVMH8BeQ63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "경기과학기술대학교",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580706034770854000,
+					"id_str": "1580706034770853890",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_Lw4DVQAIn75v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_Lw4DVQAIn75v.jpg",
+					"url": "https://t.co/iVMH8BeQ63",
+					"display_url": "pic.twitter.com/iVMH8BeQ63",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580706115511529473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580706034770854000,
+					"id_str": "1580706034770853890",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_Lw4DVQAIn75v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_Lw4DVQAIn75v.jpg",
+					"url": "https://t.co/iVMH8BeQ63",
+					"display_url": "pic.twitter.com/iVMH8BeQ63",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580706115511529473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580706034775036000,
+					"id_str": "1580706034775035904",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_Lw4EVEAAEcQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_Lw4EVEAAEcQy.jpg",
+					"url": "https://t.co/iVMH8BeQ63",
+					"display_url": "pic.twitter.com/iVMH8BeQ63",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580706115511529473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580706034774986800,
+					"id_str": "1580706034774986753",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe_Lw4EUUAE1Jbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe_Lw4EUUAE1Jbk.jpg",
+					"url": "https://t.co/iVMH8BeQ63",
+					"display_url": "pic.twitter.com/iVMH8BeQ63",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1580706115511529473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/r3B14nlZdd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3B14nlZdd",
+							"expanded_url": "http://CHUNGHA.lnk.to/BareRarePt1",
+							"display_url": "CHUNGHA.lnk.to/BareRarePt1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356265,
+			"friends_count": 1,
+			"listed_count": 2224,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542888088128524288/9HPz1AnF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1656688172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "덕분에 오늘 웃었어요&gt;&lt; #경기과학기술대학교 정말 너무 고마워요💚💙💜 \n\n#청하 #CHUNGHA https://t.co/iVMH8BeQ63"
+	},
+	{
 		"created_at": "Thu Oct 13 21:40:38 +0000 2022",
 		"id": 1580667981927174100,
 		"id_str": "1580674900356136961",
