@@ -1,6 +1,1146 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 08:59:26 +0000 2022",
+		"id": 1580830726378832000,
+		"id_str": "1580845727105708032",
+		"full_text": "#오늘의_자우림 02\n출장 DAY 4\n\n김포공항 도착. \n많이 즐거웠던 만큼\n일도 엄청나게 많이 한 \n완벽한 출장이었다!!\n기록적으로 게시물을\n많이 올린 나흘이기도 ㅎㅎ\n그럼 #김윤아특파원 \n이제 물러가겠슴미다!!!\n🤍🤍🤍🤍🤍🤍🤍🤍\n\n#자우림 \n#이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의_자우림",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "김윤아특파원",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "김진만",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "김윤아",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "자우림_겨울스페셜앨범",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580830419280240600,
+		"in_reply_to_status_id_str": "1580830419280240640",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275691,
+			"friends_count": 597,
+			"listed_count": 2747,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539176139846848512/0LZtVgA4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1655803174",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#오늘의_자우림 02\n출장 DAY 4\n\n김포공항 도착. \n많이 즐거웠던 만큼\n일도 엄청나게 많이 한 \n완벽한 출장이었다!!\n기록적으로 게시물을\n많이 올린 나흘이기도 ㅎㅎ\n그럼 #김윤아특파원 \n이제 물러가겠슴미다!!!\n🤍🤍🤍🤍🤍🤍🤍🤍\n\n#자우림 \n#이선규 #김진만 #김윤아\n#자우림_겨울스페셜앨범"
+	},
+	{
+		"created_at": "Fri Oct 14 08:45:37 +0000 2022",
+		"id": 1580830863037636600,
+		"id_str": "1580842248589058048",
+		"full_text": "💫D-1💫\n#BehindTheScenes with #HaSeul\n\n밤하늘 너머, let me in🕊\nBeyond the night sky, let me in🕊\n\n🔗ONLINE🎫👉https://t.co/lYGIyuHBBT     \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_1 https://t.co/Cn4KRghJ9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BehindTheScenes",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"text": "D_1",
+					"indices": [
+						217,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lYGIyuHBBT",
+					"expanded_url": "https://mmt.fans/bF6U",
+					"display_url": "mmt.fans/bF6U",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/mZlcHsVDVg",
+					"expanded_url": "https://mmt.fans/bFCc",
+					"display_url": "mmt.fans/bFCc",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580830855077011500,
+					"id_str": "1580830855077011457",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FfA9SX7XoAEhvD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfA9SX7XoAEhvD2.jpg",
+					"url": "https://t.co/Cn4KRghJ9w",
+					"display_url": "pic.twitter.com/Cn4KRghJ9w",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580830863037636608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580830855077011500,
+					"id_str": "1580830855077011457",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FfA9SX7XoAEhvD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfA9SX7XoAEhvD2.jpg",
+					"url": "https://t.co/Cn4KRghJ9w",
+					"display_url": "pic.twitter.com/Cn4KRghJ9w",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1580830863037636608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149541,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💫D-1💫\n#BehindTheScenes with #HaSeul\n\n밤하늘 너머, let me in🕊\nBeyond the night sky, let me in🕊\n\n🔗ONLINE🎫👉https://t.co/lYGIyuHBBT     \n🔗OFFLINE🎫👉https://t.co/mZlcHsVDVg \n\n#LOONA #이달의소녀 #LOONATHEWORLD\n#LOONATHEWORLD_IN_SEOUL #D_1 https://t.co/Cn4KRghJ9w"
+	},
+	{
+		"created_at": "Fri Oct 14 08:40:33 +0000 2022",
+		"id": 1580834331488313300,
+		"id_str": "1580840972371791874",
+		"full_text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST GRAND PRIZE WINNER]\n\n🥇 MINIZIZE\n(https://t.co/PFM2zKz0Uq)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "CoverContest",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "WinnerAnnouncement",
+					"indices": [
+						127,
+						146
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						147,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFM2zKz0Uq",
+					"expanded_url": "https://youtu.be/nhKilOMt-Ck",
+					"display_url": "youtu.be/nhKilOMt-Ck",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7712494,
+			"friends_count": 0,
+			"listed_count": 7814,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2050,
+		"favorite_count": 5392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST GRAND PRIZE WINNER]\n\n🥇 MINIZIZE\n(https://t.co/PFM2zKz0Uq)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG"
+	},
+	{
+		"created_at": "Fri Oct 14 08:40:24 +0000 2022",
+		"id": 1580834288190500900,
+		"id_str": "1580840938049785857",
+		"full_text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 2ND PRIZE WINNER #1]\n\n🥈 Clyde WILLIAMS \n(https://t.co/QxHAQBM4xl)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "CoverContest",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"text": "WinnerAnnouncement",
+					"indices": [
+						135,
+						154
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						155,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QxHAQBM4xl",
+					"expanded_url": "https://youtu.be/A5nriYWTSIE",
+					"display_url": "youtu.be/A5nriYWTSIE",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7712494,
+			"friends_count": 0,
+			"listed_count": 7814,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 694,
+		"favorite_count": 3934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 2ND PRIZE WINNER #1]\n\n🥈 Clyde WILLIAMS \n(https://t.co/QxHAQBM4xl)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG"
+	},
+	{
+		"created_at": "Fri Oct 14 08:40:18 +0000 2022",
+		"id": 1580834246104846300,
+		"id_str": "1580840912082857984",
+		"full_text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 2ND PRIZE WINNER #2]\n\n🥈 De O (드오)\n(https://t.co/7sA53Of17D)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "CoverContest",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "WinnerAnnouncement",
+					"indices": [
+						129,
+						148
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sA53Of17D",
+					"expanded_url": "https://youtu.be/8pVSvBDKq_0",
+					"display_url": "youtu.be/8pVSvBDKq_0",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7712494,
+			"friends_count": 0,
+			"listed_count": 7814,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 3320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 2ND PRIZE WINNER #2]\n\n🥈 De O (드오)\n(https://t.co/7sA53Of17D)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG"
+	},
+	{
+		"created_at": "Fri Oct 14 08:40:15 +0000 2022",
+		"id": 1580834206846169000,
+		"id_str": "1580840898442641408",
+		"full_text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 3RD PRIZE WINNER #1]\n\n🥉 BITCHINAS\n(https://t.co/8pfqZQ7I1M)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "CoverContest",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "WinnerAnnouncement",
+					"indices": [
+						129,
+						148
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8pfqZQ7I1M",
+					"expanded_url": "https://youtu.be/IgnNnDxdClw",
+					"display_url": "youtu.be/IgnNnDxdClw",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7712494,
+			"friends_count": 0,
+			"listed_count": 7814,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 570,
+		"favorite_count": 3295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 3RD PRIZE WINNER #1]\n\n🥉 BITCHINAS\n(https://t.co/8pfqZQ7I1M)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG"
+	},
+	{
+		"created_at": "Fri Oct 14 08:40:13 +0000 2022",
+		"id": 1580834159781875700,
+		"id_str": "1580840889324548096",
+		"full_text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 3RD PRIZE WINNER #2]\n\n🥉 Bianca Oechsle\n(https://t.co/5vAQ45ckFf)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "ShutDown",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "CoverContest",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "WinnerAnnouncement",
+					"indices": [
+						134,
+						153
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5vAQ45ckFf",
+					"expanded_url": "https://youtu.be/85Th10jiAzA",
+					"display_url": "youtu.be/85Th10jiAzA",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7712494,
+			"friends_count": 0,
+			"listed_count": 7814,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 3287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[#BLACKPINK ‘Shut Down’ COVER CONTEST 3RD PRIZE WINNER #2]\n\n🥉 Bianca Oechsle\n(https://t.co/5vAQ45ckFf)\n\n#블랙핑크 #ShutDown #CoverContest #WinnerAnnouncement #YG"
+	},
+	{
 		"created_at": "Fri Oct 14 07:59:26 +0000 2022",
 		"id": 1580830419280240600,
 		"id_str": "1580830625656758273",
