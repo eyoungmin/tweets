@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 04:40:10 +0000 2022",
+		"id": 1580770374962356200,
+		"id_str": "1580780478524555264",
+		"full_text": "피사체의 중요성  The Importance of the Subject\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/fJeoA8f9yO\n\n#tripleS #트리플에스 #トリプルS https://t.co/6ehKYJ5qDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJeoA8f9yO",
+					"expanded_url": "http://youtu.be/bt2sys4XnpI",
+					"display_url": "youtu.be/bt2sys4XnpI",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580753476011053000,
+					"id_str": "1580753476011053056",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580753476011053056/pu/img/g4AYsLSO0memWhY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580753476011053056/pu/img/g4AYsLSO0memWhY0.jpg",
+					"url": "https://t.co/6ehKYJ5qDu",
+					"display_url": "pic.twitter.com/6ehKYJ5qDu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580770374962356230/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580753476011053000,
+					"id_str": "1580753476011053056",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580753476011053056/pu/img/g4AYsLSO0memWhY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580753476011053056/pu/img/g4AYsLSO0memWhY0.jpg",
+					"url": "https://t.co/6ehKYJ5qDu",
+					"display_url": "pic.twitter.com/6ehKYJ5qDu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1580770374962356230/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15338,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580753476011053056/pu/vid/1280x720/1FiHENBPZtY30ZcA.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580753476011053056/pu/vid/480x270/Pf0T5kz370X40_n5.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580753476011053056/pu/vid/640x360/Mmhil3TDjKU-sun3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580753476011053056/pu/pl/YMNEc5ggqKpqhAXg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15155,
+			"friends_count": 0,
+			"listed_count": 98,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "피사체의 중요성  The Importance of the Subject\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/fJeoA8f9yO\n\n#tripleS #트리플에스 #トリプルS https://t.co/6ehKYJ5qDu"
+	},
+	{
 		"created_at": "Fri Oct 14 03:40:40 +0000 2022",
 		"id": 1580760324436680700,
 		"id_str": "1580765507535654913",
