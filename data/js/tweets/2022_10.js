@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 03:40:10 +0000 2022",
+		"id": 1581127052018651100,
+		"id_str": "1581127767952789504",
+		"full_text": "#BLACKPINK WORLD TOUR [BORN PINK] \nVOICE MESSAGE TO BLINKs 🖤💖\n\nTweet Message For BLACKPINK\n▶️ https://t.co/GFiLmIks4H\n\nOfficial World Tour Website\n▶️ https://t.co/IjWlQFBqwD\n\n#블랙핑크 #WORLDTOUR #BORNPINK #BLACKPINK_BORNPINK #YG https://t.co/oLpJO5gImt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "BLACKPINK_BORNPINK",
+					"indices": [
+						202,
+						221
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GFiLmIks4H",
+					"expanded_url": "https://twitter.com/i/events/1580255120201158656",
+					"display_url": "twitter.com/i/events/15802…",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/IjWlQFBqwD",
+					"expanded_url": "https://blackpinkofficial.com/worldtourbornpink/",
+					"display_url": "blackpinkofficial.com/worldtourbornp…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581126998511927300,
+					"id_str": "1581126998511927296",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581126998511927296/pu/img/xg74GecrUYn3RaH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581126998511927296/pu/img/xg74GecrUYn3RaH6.jpg",
+					"url": "https://t.co/oLpJO5gImt",
+					"display_url": "pic.twitter.com/oLpJO5gImt",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581127052018651136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581126998511927300,
+					"id_str": "1581126998511927296",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581126998511927296/pu/img/xg74GecrUYn3RaH6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581126998511927296/pu/img/xg74GecrUYn3RaH6.jpg",
+					"url": "https://t.co/oLpJO5gImt",
+					"display_url": "pic.twitter.com/oLpJO5gImt",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581127052018651136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36620,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1581126998511927296/pu/pl/GMVw6Dk1VB9afNur.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581126998511927296/pu/vid/480x270/IlDSJjen188gSk3M.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581126998511927296/pu/vid/640x360/upEOamHHi_5IBuVT.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581126998511927296/pu/vid/1280x720/1lzmyjcHgCR5w0SQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7720030,
+			"friends_count": 0,
+			"listed_count": 7812,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7684,
+		"favorite_count": 18776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK WORLD TOUR [BORN PINK] \nVOICE MESSAGE TO BLINKs 🖤💖\n\nTweet Message For BLACKPINK\n▶️ https://t.co/GFiLmIks4H\n\nOfficial World Tour Website\n▶️ https://t.co/IjWlQFBqwD\n\n#블랙핑크 #WORLDTOUR #BORNPINK #BLACKPINK_BORNPINK #YG https://t.co/oLpJO5gImt"
+	},
+	{
+		"created_at": "Sat Oct 15 03:36:23 +0000 2022",
+		"id": 1581121082467094500,
+		"id_str": "1581126815027908608",
+		"full_text": "K-팝 아티스트들의 월드투어 소식에 지구가 연일 들썩인다.\n#블랙핑크 #스트레이키즈 #있지 #blackpink #StrayKids #itzy \nhttps://t.co/gOzFUbqFHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "스트레이키즈",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "blackpink",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "itzy",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOzFUbqFHZ",
+					"expanded_url": "https://www.wkorea.com/2022/10/15/%ec%9b%94%eb%93%9c%ed%88%ac%ec%96%b4%ec%9d%98-%ec%83%88-%ec%8b%9c%ec%a6%8c/?ddw=125998&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2022/10/15/%ec…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5gwu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5gwu0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310497,
+			"friends_count": 0,
+			"listed_count": 849,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1663737738",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "K-팝 아티스트들의 월드투어 소식에 지구가 연일 들썩인다.\n#블랙핑크 #스트레이키즈 #있지 #blackpink #StrayKids #itzy \nhttps://t.co/gOzFUbqFHZ"
+	},
+	{
+		"created_at": "Sat Oct 15 03:29:41 +0000 2022",
+		"id": 1581124319240863700,
+		"id_str": "1581125129743974400",
+		"full_text": "[#하드터는_나무꾼🌳]\n\n나무만 가지고 있기엔 아까운\n美공개 사진 THE 공개✨\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TMA https://t.co/HDefOws1Y4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하드터는_나무꾼",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "더팩트뮤직어워즈",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "TMA",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581124307102552000,
+					"id_str": "1581124307102552065",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FfFILh6VUAEaYIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfFILh6VUAEaYIm.jpg",
+					"url": "https://t.co/HDefOws1Y4",
+					"display_url": "pic.twitter.com/HDefOws1Y4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1581124319240863746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581124307102552000,
+					"id_str": "1581124307102552065",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FfFILh6VUAEaYIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfFILh6VUAEaYIm.jpg",
+					"url": "https://t.co/HDefOws1Y4",
+					"display_url": "pic.twitter.com/HDefOws1Y4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1581124319240863746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581124311523348500,
+					"id_str": "1581124311523348482",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FfFILyYVUAIXiuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfFILyYVUAIXiuR.jpg",
+					"url": "https://t.co/HDefOws1Y4",
+					"display_url": "pic.twitter.com/HDefOws1Y4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1581124319240863746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581124316296380400,
+					"id_str": "1581124316296380416",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FfFIMEKUAAAeKvg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfFIMEKUAAAeKvg.jpg",
+					"url": "https://t.co/HDefOws1Y4",
+					"display_url": "pic.twitter.com/HDefOws1Y4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1581124319240863746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66477,
+			"friends_count": 14,
+			"listed_count": 283,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하드터는_나무꾼🌳]\n\n나무만 가지고 있기엔 아까운\n美공개 사진 THE 공개✨\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TMA https://t.co/HDefOws1Y4"
+	},
+	{
 		"created_at": "Sat Oct 15 02:40:26 +0000 2022",
 		"id": 1581105506844053500,
 		"id_str": "1581112736951730176",
