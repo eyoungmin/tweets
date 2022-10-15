@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 02:40:26 +0000 2022",
+		"id": 1581105506844053500,
+		"id_str": "1581112736951730176",
+		"full_text": "#OFFICIALBLINK\n\n#BLACKPINK WORLD TOUR [BORN PINK] SEOUL \nWeverse MEMBERSHIP BOOTH가 오픈되었습니다!\n\n블링크! 공연 관람 전 부스에서 만나요🖤💖\n\n*부스 운영 시간은 현장 상황에 따라 변경될 수 있습니다. \n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM #KSPO_DOME https://t.co/lRmWJN5L1T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "20221015_6PM",
+					"indices": [
+						187,
+						200
+					]
+				},
+				{
+					"text": "20221016_5PM",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"text": "KSPO_DOME",
+					"indices": [
+						215,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581102259253178400,
+					"id_str": "1581102259253178368",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FfE0ILRacAAX_GR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfE0ILRacAAX_GR.jpg",
+					"url": "https://t.co/lRmWJN5L1T",
+					"display_url": "pic.twitter.com/lRmWJN5L1T",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1581105506844053504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581102259253178400,
+					"id_str": "1581102259253178368",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FfE0ILRacAAX_GR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfE0ILRacAAX_GR.jpg",
+					"url": "https://t.co/lRmWJN5L1T",
+					"display_url": "pic.twitter.com/lRmWJN5L1T",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1581105506844053504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/5OX1WxHQ4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5OX1WxHQ4P",
+							"expanded_url": "https://blackpink.lnk.to/BPSHOP",
+							"display_url": "blackpink.lnk.to/BPSHOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8610071,
+			"friends_count": 9,
+			"listed_count": 9342,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1662480677",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2359,
+		"favorite_count": 8302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK\n\n#BLACKPINK WORLD TOUR [BORN PINK] SEOUL \nWeverse MEMBERSHIP BOOTH가 오픈되었습니다!\n\n블링크! 공연 관람 전 부스에서 만나요🖤💖\n\n*부스 운영 시간은 현장 상황에 따라 변경될 수 있습니다. \n\n#블랙핑크 #WORLDTOUR #BORNPINK #SEOUL\n#20221015_6PM #20221016_5PM #KSPO_DOME https://t.co/lRmWJN5L1T"
+	},
+	{
+		"created_at": "Sat Oct 15 02:09:51 +0000 2022",
+		"id": 1581102563918651400,
+		"id_str": "1581105039338504194",
+		"full_text": "[#레벨업5] 홀린 듯 날 따라와~ 모두 환호해💐 훌라 춤추다 레드벨벳 미모에 홀려버림😍 #RedVelvet (SUB)\n\nhttps://t.co/4y4LAVGaSp\n\n#레드벨벳 #레벨업프로젝트5 https://t.co/tfnktEWMjL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업5",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "레벨업프로젝트5",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4y4LAVGaSp",
+					"expanded_url": "https://youtu.be/pgk6O0eNtSo",
+					"display_url": "youtu.be/pgk6O0eNtSo",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580838150456635400,
+					"id_str": "1580838150456635392",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBD7BVacAAPSV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBD7BVacAAPSV1.jpg",
+					"url": "https://t.co/tfnktEWMjL",
+					"display_url": "pic.twitter.com/tfnktEWMjL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1581102563918651394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580838150456635400,
+					"id_str": "1580838150456635392",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBD7BVacAAPSV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBD7BVacAAPSV1.jpg",
+					"url": "https://t.co/tfnktEWMjL",
+					"display_url": "pic.twitter.com/tfnktEWMjL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1581102563918651394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672287,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1514,
+		"favorite_count": 4201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업5] 홀린 듯 날 따라와~ 모두 환호해💐 훌라 춤추다 레드벨벳 미모에 홀려버림😍 #RedVelvet (SUB)\n\nhttps://t.co/4y4LAVGaSp\n\n#레드벨벳 #레벨업프로젝트5 https://t.co/tfnktEWMjL"
+	},
+	{
+		"created_at": "Sat Oct 15 02:09:42 +0000 2022",
+		"id": 1581102560571793400,
+		"id_str": "1581105000792887296",
+		"full_text": "[#레벨업5] 레드벨벳이 욕심낸 오션뷰 숙소의 정체는~? #RedVelvet (SUB)\n\nhttps://t.co/vcIyaPY8bd\n\n#레드벨벳 #레벨업프로젝트5 https://t.co/0HeHd9JTmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업5",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "레벨업프로젝트5",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vcIyaPY8bd",
+					"expanded_url": "https://youtu.be/KEW4O7klVVo",
+					"display_url": "youtu.be/KEW4O7klVVo",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580840319951986700,
+					"id_str": "1580840319951986689",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBF5TVaYAEIoeV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBF5TVaYAEIoeV.jpg",
+					"url": "https://t.co/0HeHd9JTmh",
+					"display_url": "pic.twitter.com/0HeHd9JTmh",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1581102560571793408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580840319951986700,
+					"id_str": "1580840319951986689",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBF5TVaYAEIoeV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBF5TVaYAEIoeV.jpg",
+					"url": "https://t.co/0HeHd9JTmh",
+					"display_url": "pic.twitter.com/0HeHd9JTmh",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1581102560571793408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672287,
+			"friends_count": 2,
+			"listed_count": 11358,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1074,
+		"favorite_count": 2790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업5] 레드벨벳이 욕심낸 오션뷰 숙소의 정체는~? #RedVelvet (SUB)\n\nhttps://t.co/vcIyaPY8bd\n\n#레드벨벳 #레벨업프로젝트5 https://t.co/0HeHd9JTmh"
+	},
+	{
 		"created_at": "Fri Oct 14 23:40:10 +0000 2022",
 		"id": 1581057964323897300,
 		"id_str": "1581067369178222592",
