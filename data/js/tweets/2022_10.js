@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 23:40:10 +0000 2022",
+		"id": 1581057964323897300,
+		"id_str": "1581067369178222592",
+		"full_text": "aespa at @sothebys for @aespa_official x @blakekathryn #ægirls 💟\n\n#aespa #æspa #에스파 \n#BlakeKathryn #Sothebys #NFT https://t.co/JNS6OsnvaM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ægirls",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "BlakeKathryn",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "Sothebys",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "NFT",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sothebys",
+					"name": "Sotheby's",
+					"id": 314542577,
+					"id_str": "314542577",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "blakekathryn",
+					"name": "blake kathryn",
+					"id": 43792797,
+					"id_str": "43792797",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581057942605992000,
+					"id_str": "1581057942605991939",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FfEL0m5XEAMObH4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfEL0m5XEAMObH4.jpg",
+					"url": "https://t.co/JNS6OsnvaM",
+					"display_url": "pic.twitter.com/JNS6OsnvaM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1581057964323897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581057942605992000,
+					"id_str": "1581057942605991939",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FfEL0m5XEAMObH4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfEL0m5XEAMObH4.jpg",
+					"url": "https://t.co/JNS6OsnvaM",
+					"display_url": "pic.twitter.com/JNS6OsnvaM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1581057964323897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581057942601736200,
+					"id_str": "1581057942601736192",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FfEL0m4WIAAMVf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfEL0m4WIAAMVf_.jpg",
+					"url": "https://t.co/JNS6OsnvaM",
+					"display_url": "pic.twitter.com/JNS6OsnvaM",
+					"expanded_url": "https://twitter.com/aespa_official/status/1581057964323897344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216135,
+			"friends_count": 2,
+			"listed_count": 9586,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3614,
+		"favorite_count": 12200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa at @sothebys for @aespa_official x @blakekathryn #ægirls 💟\n\n#aespa #æspa #에스파 \n#BlakeKathryn #Sothebys #NFT https://t.co/JNS6OsnvaM"
+	},
+	{
 		"created_at": "Fri Oct 14 20:40:14 +0000 2022",
 		"id": 1581015342629163000,
 		"id_str": "1581022088273330177",
