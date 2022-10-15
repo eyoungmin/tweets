@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 09:45:37 +0000 2022",
+		"id": 1581209821025828900,
+		"id_str": "1581219735387090945",
+		"full_text": "📢[LOONATHEWORLD in SEOUL] is starting, #Orbit! | 공연이 시작 되었습니다, #오빛!\nEnjoy the show🎶💫\n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/B4wijFhIqi\n\n@loonatheworld #LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_1 https://t.co/s10t1AwThx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						182,
+						205
+					]
+				},
+				{
+					"text": "DAY_1",
+					"indices": [
+						206,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4wijFhIqi",
+					"expanded_url": "https://mmt.fans/bFRX",
+					"display_url": "mmt.fans/bFRX",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581209816562811000,
+					"id_str": "1581209816562810880",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FfGV81eWQAA_fRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfGV81eWQAA_fRS.jpg",
+					"url": "https://t.co/s10t1AwThx",
+					"display_url": "pic.twitter.com/s10t1AwThx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581209821025828865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581209816562811000,
+					"id_str": "1581209816562810880",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FfGV81eWQAA_fRS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfGV81eWQAA_fRS.jpg",
+					"url": "https://t.co/s10t1AwThx",
+					"display_url": "pic.twitter.com/s10t1AwThx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581209821025828865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149542,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[LOONATHEWORLD in SEOUL] is starting, #Orbit! | 공연이 시작 되었습니다, #오빛!\nEnjoy the show🎶💫\n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/B4wijFhIqi\n\n@loonatheworld #LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_1 https://t.co/s10t1AwThx"
+	},
+	{
+		"created_at": "Sat Oct 15 09:40:18 +0000 2022",
+		"id": 1581213814166417400,
+		"id_str": "1581218399321214976",
+		"full_text": "그 맘 훔칠 두 사람의\n✌️28 Reasons✌️\n\nhttps://t.co/CE4bTWrmeC\n\n#슬기 #SEULGI\n#샤오쥔 #XIAOJUN\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet \n#WayV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "샤오쥔",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "XIAOJUN",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "28Reasons",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "28Reasons_challenge",
+					"indices": [
+						91,
+						111
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CE4bTWrmeC",
+					"expanded_url": "https://vt.tiktok.com/ZSRgYm39V/",
+					"display_url": "vt.tiktok.com/ZSRgYm39V/",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "SEULGI The 1st Mini Album '28 Reasons'",
+			"url": "https://t.co/2lkB1hkeXM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2lkB1hkeXM",
+							"expanded_url": "https://seulgi.lnk.to/28Reasons",
+							"display_url": "seulgi.lnk.to/28Reasons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5673033,
+			"friends_count": 2,
+			"listed_count": 11357,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569345944289779712/ulkrUMH0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1662994810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2216,
+		"favorite_count": 4333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 맘 훔칠 두 사람의\n✌️28 Reasons✌️\n\nhttps://t.co/CE4bTWrmeC\n\n#슬기 #SEULGI\n#샤오쥔 #XIAOJUN\n#28Reasons\n#28Reasons_challenge\n#레드벨벳 #RedVelvet \n#WayV"
+	},
+	{
 		"created_at": "Sat Oct 15 08:45:37 +0000 2022",
 		"id": 1581193249360085000,
 		"id_str": "1581204638199476224",
