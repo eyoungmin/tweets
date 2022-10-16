@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 09:45:37 +0000 2022",
+		"id": 1581572230378815500,
+		"id_str": "1581582123785338882",
+		"full_text": "📢[LOONATHEWORLD in SEOUL] DAY 2 is starting, #Orbit! | 공연이 시작 되었습니다, #오빛!\nEnjoy the show🎶💫\n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/t6RK7q1sGt\n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_2 https://t.co/0e5PN4T7m9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						173,
+						196
+					]
+				},
+				{
+					"text": "DAY_2",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t6RK7q1sGt",
+					"expanded_url": "https://mmt.fans/bFQJ",
+					"display_url": "mmt.fans/bFQJ",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581572226285011000,
+					"id_str": "1581572226285010944",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLfj25XgAAxO7R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLfj25XgAAxO7R.jpg",
+					"url": "https://t.co/0e5PN4T7m9",
+					"display_url": "pic.twitter.com/0e5PN4T7m9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581572230378815488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581572226285011000,
+					"id_str": "1581572226285010944",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLfj25XgAAxO7R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLfj25XgAAxO7R.jpg",
+					"url": "https://t.co/0e5PN4T7m9",
+					"display_url": "pic.twitter.com/0e5PN4T7m9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581572230378815488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149523,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[LOONATHEWORLD in SEOUL] DAY 2 is starting, #Orbit! | 공연이 시작 되었습니다, #오빛!\nEnjoy the show🎶💫\n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/t6RK7q1sGt\n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_2 https://t.co/0e5PN4T7m9"
+	},
+	{
+		"created_at": "Sun Oct 16 09:40:18 +0000 2022",
+		"id": 1581570830445645800,
+		"id_str": "1581580787425562624",
+		"full_text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02 \n\nhttps://t.co/aedKJyGB3h\n\n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/ti8bU4ybZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SecretMessageCenter",
+					"indices": [
+						86,
+						106
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_TOKYO",
+					"indices": [
+						141,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aedKJyGB3h",
+					"expanded_url": "https://youtu.be/qAEK4asYNcc",
+					"display_url": "youtu.be/qAEK4asYNcc",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581567010625884200,
+					"id_str": "1581567010625884160",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"url": "https://t.co/ti8bU4ybZy",
+					"display_url": "pic.twitter.com/ti8bU4ybZy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581570830445645826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581567010625884200,
+					"id_str": "1581567010625884160",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"url": "https://t.co/ti8bU4ybZy",
+					"display_url": "pic.twitter.com/ti8bU4ybZy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581570830445645826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3911189,
+			"friends_count": 5,
+			"listed_count": 6269,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2100,
+		"favorite_count": 3714,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02 \n\nhttps://t.co/aedKJyGB3h\n\n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/ti8bU4ybZy"
+	},
+	{
+		"created_at": "Sun Oct 16 09:40:10 +0000 2022",
+		"id": 1581570646148006000,
+		"id_str": "1581580753078349824",
+		"full_text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02\n\nhttps://t.co/mNXMjwy9D3\n\n#aespa #æspa #에스파 \n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/8eSXqmCbsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "SecretMessageCenter",
+					"indices": [
+						104,
+						124
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_TOKYO",
+					"indices": [
+						159,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNXMjwy9D3",
+					"expanded_url": "https://youtu.be/qAEK4asYNcc",
+					"display_url": "youtu.be/qAEK4asYNcc",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581554235807711200,
+					"id_str": "1581554235807711233",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLPMrJVQAE-JXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLPMrJVQAE-JXR.jpg",
+					"url": "https://t.co/8eSXqmCbsw",
+					"display_url": "pic.twitter.com/8eSXqmCbsw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1581570646148005888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581554235807711200,
+					"id_str": "1581554235807711233",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLPMrJVQAE-JXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLPMrJVQAE-JXR.jpg",
+					"url": "https://t.co/8eSXqmCbsw",
+					"display_url": "pic.twitter.com/8eSXqmCbsw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1581570646148005888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Girls",
+			"url": "https://t.co/rz16VWutuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rz16VWutuk",
+							"expanded_url": "https://aespa.lnk.to/GirlsEP",
+							"display_url": "aespa.lnk.to/GirlsEP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3220199,
+			"friends_count": 2,
+			"listed_count": 9597,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531651727904370688/XmqAPigu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1654009204",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3059,
+		"favorite_count": 8310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02\n\nhttps://t.co/mNXMjwy9D3\n\n#aespa #æspa #에스파 \n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/8eSXqmCbsw"
+	},
+	{
 		"created_at": "Sun Oct 16 08:45:39 +0000 2022",
 		"id": 1581555640866308000,
 		"id_str": "1581567035104190465",
