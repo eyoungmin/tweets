@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 01:40:13 +0000 2022",
+		"id": 1581458201979293700,
+		"id_str": "1581459971006353409",
+		"full_text": "SecretBase 221015 KimChaeYeon.SSS\n\nhttps://t.co/vT1RnJlWip\n\n#tripleS #트리플에스 #トリプルS #KimChaeYeon https://t.co/JCFGHveehh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "KimChaeYeon",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vT1RnJlWip",
+					"expanded_url": "http://youtu.be/L8Zm6sBjpVE",
+					"display_url": "youtu.be/L8Zm6sBjpVE",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581458178902229000,
+					"id_str": "1581458178902228992",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJ31bSagAAmTk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJ31bSagAAmTk0.jpg",
+					"url": "https://t.co/JCFGHveehh",
+					"display_url": "pic.twitter.com/JCFGHveehh",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581458201979293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581458178902229000,
+					"id_str": "1581458178902228992",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJ31bSagAAmTk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJ31bSagAAmTk0.jpg",
+					"url": "https://t.co/JCFGHveehh",
+					"display_url": "pic.twitter.com/JCFGHveehh",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581458201979293696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15402,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "SecretBase 221015 KimChaeYeon.SSS\n\nhttps://t.co/vT1RnJlWip\n\n#tripleS #트리플에스 #トリプルS #KimChaeYeon https://t.co/JCFGHveehh"
+	},
+	{
 		"created_at": "Sun Oct 16 00:40:16 +0000 2022",
 		"id": 1581439890469765000,
 		"id_str": "1581444882551693312",
