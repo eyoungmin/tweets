@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 08:45:39 +0000 2022",
+		"id": 1581555640866308000,
+		"id_str": "1581567035104190465",
+		"full_text": "📢[LOONATHEWORLD] in SEOUL DAY 2 is 1 hour away!\n공연이 1시간 후에 시작됩니다! \n\n💬Chatbox is now OPEN \n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/UKyZ7yS0va\n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_2 https://t.co/JiCORW64wR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"text": "DAY_2",
+					"indices": [
+						196,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UKyZ7yS0va",
+					"expanded_url": "https://mmt.fans/bFGU",
+					"display_url": "mmt.fans/bFGU",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581555636810256400,
+					"id_str": "1581555636810256386",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLQeOSXkAILnfM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLQeOSXkAILnfM.jpg",
+					"url": "https://t.co/JiCORW64wR",
+					"display_url": "pic.twitter.com/JiCORW64wR",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581555640866308096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581555636810256400,
+					"id_str": "1581555636810256386",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLQeOSXkAILnfM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLQeOSXkAILnfM.jpg",
+					"url": "https://t.co/JiCORW64wR",
+					"display_url": "pic.twitter.com/JiCORW64wR",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581555640866308096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149528,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[LOONATHEWORLD] in SEOUL DAY 2 is 1 hour away!\n공연이 1시간 후에 시작됩니다! \n\n💬Chatbox is now OPEN \n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/UKyZ7yS0va\n\n#LOONA #이달의소녀 #LOONATHEWORLD #LOONATHEWORLD_IN_SEOUL #DAY_2 https://t.co/JiCORW64wR"
+	},
+	{
 		"created_at": "Sun Oct 16 07:45:37 +0000 2022",
 		"id": 1581540541421932500,
 		"id_str": "1581551924146757633",
