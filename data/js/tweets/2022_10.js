@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 12:40:10 +0000 2022",
+		"id": 1581615944228642800,
+		"id_str": "1581626050811146242",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘YuBin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#공유빈 #YuBin https://t.co/aIW4Qt3Y0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						71,
+						89
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "공유빈",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "YuBin",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581592138516922400,
+					"id_str": "1581592138516922368",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLxq5vaAAAIkCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLxq5vaAAAIkCP.jpg",
+					"url": "https://t.co/aIW4Qt3Y0j",
+					"display_url": "pic.twitter.com/aIW4Qt3Y0j",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581615944228642816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581592138516922400,
+					"id_str": "1581592138516922368",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLxq5vaAAAIkCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLxq5vaAAAIkCP.jpg",
+					"url": "https://t.co/aIW4Qt3Y0j",
+					"display_url": "pic.twitter.com/aIW4Qt3Y0j",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581615944228642816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15433,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 217,
+		"favorite_count": 517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘YuBin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#공유빈 #YuBin https://t.co/aIW4Qt3Y0j"
+	},
+	{
+		"created_at": "Sun Oct 16 12:36:42 +0000 2022",
+		"id": 1581616438296838100,
+		"id_str": "1581625179528011776",
+		"full_text": "블랙핑크 멤버들이 기획단계부터 참여한 이 엄청난 월드 투어가 시작됐다. \n#블랙핑크 #제니 #리사 #로제 #지수 #본핑크 #핑크베놈 #라리사 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BLACKPINKWorldTour2022 #KPOP \nhttps://t.co/BmDtBt7LHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "본핑크",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "핑크베놈",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "라리사",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "PinkVenom",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "BLACKPINKWorldTour2022",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmDtBt7LHr",
+					"expanded_url": "https://www.gqkorea.co.kr/2022/10/15/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EC%98%A4%EB%8A%98-%EC%84%9C%EC%9A%B8%EC%9D%84-%EC%8B%9C%EC%9E%91%EC%9C%BC%EB%A1%9C-%EC%9B%94%EB%93%9C%ED%88%AC%EC%96%B4-%EB%96%A0%EB%82%9C%EB%8B%A4/?ddw=126058&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "gqkorea.co.kr/2022/10/15/%EB…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262470,
+			"id_str": "78262470",
+			"name": "GQ KOREA",
+			"screen_name": "GQKOREA",
+			"location": "Seoul, Korea",
+			"description": "Be a Good Man, Don't be Quiet.",
+			"url": "https://t.co/pJOMTcQb22",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJOMTcQb22",
+							"expanded_url": "http://www.gqkorea.co.kr",
+							"display_url": "gqkorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143728,
+			"friends_count": 0,
+			"listed_count": 221,
+			"created_at": "Tue Sep 29 09:20:13 +0000 2009",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292702653697294336/AgaytUyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262470/1665468512",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 멤버들이 기획단계부터 참여한 이 엄청난 월드 투어가 시작됐다. \n#블랙핑크 #제니 #리사 #로제 #지수 #본핑크 #핑크베놈 #라리사 #BLACKPINK #JENNIE #LISA #ROSÉ #JISOO #BORNPINK #PinkVenom #BLACKPINKWorldTour2022 #KPOP \nhttps://t.co/BmDtBt7LHr"
+	},
+	{
 		"created_at": "Sun Oct 16 09:45:37 +0000 2022",
 		"id": 1581572230378815500,
 		"id_str": "1581582123785338882",
