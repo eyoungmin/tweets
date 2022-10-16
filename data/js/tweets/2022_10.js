@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 05:40:20 +0000 2022",
+		"id": 1581511489168773000,
+		"id_str": "1581520394917330945",
+		"full_text": "⚠️10월 16일 (일요일) BLACKPINK OFFICIAL LIGHT STICK VER.2 펌웨어 재업데이트 공지\n\n원활한 공연 관람을 위해 응원봉 펌웨어를 오후 2시 이후 다시 업데이트 해주세요.\n\n#BLACKPINK #블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #MDBOOTH #YG #YGSELECT https://t.co/8POfQr36km",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "WORLDTOUR",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "BORNPINK",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "SEOUL",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "MDBOOTH",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "YGSELECT",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581511470936125400,
+					"id_str": "1581511470936125440",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfKoTblacAAiYzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfKoTblacAAiYzI.jpg",
+					"url": "https://t.co/8POfQr36km",
+					"display_url": "pic.twitter.com/8POfQr36km",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581511489168773120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581511470936125400,
+					"id_str": "1581511470936125440",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfKoTblacAAiYzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfKoTblacAAiYzI.jpg",
+					"url": "https://t.co/8POfQr36km",
+					"display_url": "pic.twitter.com/8POfQr36km",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581511489168773120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581511470952894500,
+					"id_str": "1581511470952894465",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfKoTbpaUAEEI1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfKoTbpaUAEEI1O.jpg",
+					"url": "https://t.co/8POfQr36km",
+					"display_url": "pic.twitter.com/8POfQr36km",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581511489168773120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581511470957101000,
+					"id_str": "1581511470957101064",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfKoTbqagAg3_S1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfKoTbqagAg3_S1.jpg",
+					"url": "https://t.co/8POfQr36km",
+					"display_url": "pic.twitter.com/8POfQr36km",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581511489168773120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581511470936100900,
+					"id_str": "1581511470936100865",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FfKoTblaEAE6Z_V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfKoTblaEAE6Z_V.jpg",
+					"url": "https://t.co/8POfQr36km",
+					"display_url": "pic.twitter.com/8POfQr36km",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1581511489168773120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/vkfEFSP9At",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkfEFSP9At",
+							"expanded_url": "https://lnk.to/YG_BLACKPINK",
+							"display_url": "lnk.to/YG_BLACKPINK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7741188,
+			"friends_count": 0,
+			"listed_count": 7828,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570625324676943872/YmJlrpVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1662480989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2338,
+		"favorite_count": 10630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚠️10월 16일 (일요일) BLACKPINK OFFICIAL LIGHT STICK VER.2 펌웨어 재업데이트 공지\n\n원활한 공연 관람을 위해 응원봉 펌웨어를 오후 2시 이후 다시 업데이트 해주세요.\n\n#BLACKPINK #블랙핑크 #WORLDTOUR #BORNPINK #SEOUL #MDBOOTH #YG #YGSELECT https://t.co/8POfQr36km"
+	},
+	{
 		"created_at": "Sun Oct 16 03:40:13 +0000 2022",
 		"id": 1581480053552062500,
 		"id_str": "1581490167269199872",
