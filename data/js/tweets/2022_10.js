@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 07:45:37 +0000 2022",
+		"id": 1581540541421932500,
+		"id_str": "1581551924146757633",
+		"full_text": "📢#LOONATHEWORLD_IN_SEOUL #DAY_2 starts soon, #Orbit! \n공연이 곧 시작 됩니다, 오빛! \n\n📍Check troubleshooting steps | 콘서트 시청에 문제가 있다면? 링크 클릭👇\n🔗https://t.co/Y6bXN1ZbAc \n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/EwLaGXm2Gs\n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/KvqjV7P8Br",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONATHEWORLD_IN_SEOUL",
+					"indices": [
+						1,
+						24
+					]
+				},
+				{
+					"text": "DAY_2",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "Orbit",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						215,
+						221
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						222,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y6bXN1ZbAc",
+					"expanded_url": "https://mmt.fans/bFbL",
+					"display_url": "mmt.fans/bFbL",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/EwLaGXm2Gs",
+					"expanded_url": "https://mmt.fans/bFUs",
+					"display_url": "mmt.fans/bFUs",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581540537240354800,
+					"id_str": "1581540537240354816",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLCvUAXgAAmsiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLCvUAXgAAmsiV.jpg",
+					"url": "https://t.co/KvqjV7P8Br",
+					"display_url": "pic.twitter.com/KvqjV7P8Br",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581540541421932544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581540537240354800,
+					"id_str": "1581540537240354816",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLCvUAXgAAmsiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLCvUAXgAAmsiV.jpg",
+					"url": "https://t.co/KvqjV7P8Br",
+					"display_url": "pic.twitter.com/KvqjV7P8Br",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1581540541421932544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://socialbu.com\" rel=\"nofollow\">socialbu.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIyOkW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIyOkW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149528,
+			"friends_count": 104,
+			"listed_count": 329,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525038851755892736/qc8dyM_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢#LOONATHEWORLD_IN_SEOUL #DAY_2 starts soon, #Orbit! \n공연이 곧 시작 됩니다, 오빛! \n\n📍Check troubleshooting steps | 콘서트 시청에 문제가 있다면? 링크 클릭👇\n🔗https://t.co/Y6bXN1ZbAc \n\n📺Streaming Link | 스트리밍 링크\n🔗https://t.co/EwLaGXm2Gs\n\n#LOONA #이달의소녀 #LOONATHEWORLD https://t.co/KvqjV7P8Br"
+	},
+	{
 		"created_at": "Sun Oct 16 06:40:12 +0000 2022",
 		"id": 1581535163770867700,
 		"id_str": "1581535462463721473",
