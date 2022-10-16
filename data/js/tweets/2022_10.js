@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 03:40:13 +0000 2022",
+		"id": 1581480053552062500,
+		"id_str": "1581490167269199872",
+		"full_text": "기억 조작  False Memory\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/SP7bCLWe8v\n\n#tripleS #트리플에스 #トリプルS https://t.co/0TcUAE0IPC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "トリプルS",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SP7bCLWe8v",
+					"expanded_url": "https://youtu.be/tuS_Q5aqgo8",
+					"display_url": "youtu.be/tuS_Q5aqgo8",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581477861692625000,
+					"id_str": "1581477861692624897",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581477861692624897/pu/img/W65zXUn01QSw_AcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581477861692624897/pu/img/W65zXUn01QSw_AcB.jpg",
+					"url": "https://t.co/0TcUAE0IPC",
+					"display_url": "pic.twitter.com/0TcUAE0IPC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581480053552062468/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581477861692625000,
+					"id_str": "1581477861692624897",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581477861692624897/pu/img/W65zXUn01QSw_AcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581477861692624897/pu/img/W65zXUn01QSw_AcB.jpg",
+					"url": "https://t.co/0TcUAE0IPC",
+					"display_url": "pic.twitter.com/0TcUAE0IPC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581480053552062468/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32958,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581477861692624897/pu/vid/640x360/ooApbZECMnl6pQ0J.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581477861692624897/pu/vid/1280x720/kXV2oE2iZwhbOLh1.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581477861692624897/pu/vid/480x270/GcoHe9meOfUePOzR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1581477861692624897/pu/pl/zyHAUKgXaQnw_F81.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15407,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기억 조작  False Memory\ntripleS 트리플에스 : SIGNAL PICKED\n\nhttps://t.co/SP7bCLWe8v\n\n#tripleS #트리플에스 #トリプルS https://t.co/0TcUAE0IPC"
+	},
+	{
 		"created_at": "Sun Oct 16 02:40:17 +0000 2022",
 		"id": 1581469605738205200,
 		"id_str": "1581475084593950720",
