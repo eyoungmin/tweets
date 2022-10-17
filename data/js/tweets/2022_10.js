@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 09:36:57 +0000 2022",
+		"id": 1581933041231884300,
+		"id_str": "1581942329266487296",
+		"full_text": "가을엔 체크! 🍁 바로 적용할 수 있는 트위드 재킷부터 원피스, 스커트까지 체크 스타일링을 알아보자.\n#아이들 #미연 @G_I_DLE #블랙핑크 #블핑 #제니 @ygofficialblink #효민 #김나영 #김민주 #아이즈원\n\nhttps://t.co/4pycUaxjpg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이들",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "효민",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "김민주",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4pycUaxjpg",
+					"expanded_url": "https://www.allurekorea.com/?p=180416&ddw=125724&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "allurekorea.com/?p=180416&ddw=…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/OcX4RMNXUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OcX4RMNXUs",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38132,
+			"friends_count": 1,
+			"listed_count": 298,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1663554141",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을엔 체크! 🍁 바로 적용할 수 있는 트위드 재킷부터 원피스, 스커트까지 체크 스타일링을 알아보자.\n#아이들 #미연 @G_I_DLE #블랙핑크 #블핑 #제니 @ygofficialblink #효민 #김나영 #김민주 #아이즈원\n\nhttps://t.co/4pycUaxjpg"
+	},
+	{
 		"created_at": "Mon Oct 17 08:54:44 +0000 2022",
 		"id": 1581931515789070300,
 		"id_str": "1581931707720089600",
