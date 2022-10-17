@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 12:40:22 +0000 2022",
+		"id": 1581983969893290000,
+		"id_str": "1581988490145050625",
+		"full_text": "[#진솔 / #JinSoul] 마지막 서울까지 완료 ❤️‍🔥\n\n#이달의소녀 #LOONA https://t.co/jJxGaSEHCi https://t.co/p23LBRpCyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jJxGaSEHCi",
+					"expanded_url": "https://twitter.com/i/web/status/1581983969893289984",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581983936292728800,
+					"id_str": "1581983936292728832",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FfRWAiMaMAAOvD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfRWAiMaMAAOvD2.jpg",
+					"url": "https://t.co/p23LBRpCyP",
+					"display_url": "pic.twitter.com/p23LBRpCyP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1581983969893289984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581983936292728800,
+					"id_str": "1581983936292728832",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FfRWAiMaMAAOvD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfRWAiMaMAAOvD2.jpg",
+					"url": "https://t.co/p23LBRpCyP",
+					"display_url": "pic.twitter.com/p23LBRpCyP",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1581983969893289984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984996,
+			"friends_count": 3,
+			"listed_count": 8972,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1703,
+		"favorite_count": 5184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 마지막 서울까지 완료 ❤️‍🔥\n\n#이달의소녀 #LOONA https://t.co/jJxGaSEHCi https://t.co/p23LBRpCyP"
+	},
+	{
+		"created_at": "Mon Oct 17 12:40:18 +0000 2022",
+		"id": 1581978334417735700,
+		"id_str": "1581988472604176384",
+		"full_text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘HyeRin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#정혜린 #HyeRin https://t.co/0f19Fg2Ogu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						72,
+						90
+					]
+				},
+				{
+					"text": "애시드엔젤프롬에이시아",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "tripleS_AAA",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "정혜린",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "HyeRin",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581940258014630000,
+					"id_str": "1581940258014629888",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQuSH7aEAAq1mA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQuSH7aEAAq1mA.jpg",
+					"url": "https://t.co/0f19Fg2Ogu",
+					"display_url": "pic.twitter.com/0f19Fg2Ogu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581978334417735680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581940258014630000,
+					"id_str": "1581940258014629888",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQuSH7aEAAq1mA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQuSH7aEAAq1mA.jpg",
+					"url": "https://t.co/0f19Fg2Ogu",
+					"display_url": "pic.twitter.com/0f19Fg2Ogu",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581978334417735680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1396,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15541,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tripleS\nAcid Angel from Asia\n\nConcept Shoot 2\n‘HyeRin’\n\n#tripleS #트리플에스 #AcidAngelfromAsia #애시드엔젤프롬에이시아 #tripleS_AAA\n#정혜린 #HyeRin https://t.co/0f19Fg2Ogu"
+	},
+	{
 		"created_at": "Mon Oct 17 12:00:02 +0000 2022",
 		"id": 1581976129694748700,
 		"id_str": "1581978337592823808",
