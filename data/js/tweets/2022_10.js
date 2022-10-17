@@ -1,6 +1,1085 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 07:54:43 +0000 2022",
+		"id": 1581915928757153800,
+		"id_str": "1581916603028885504",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀 월드투어, 서울에서 화려한 피날레\n\n▶️ https://t.co/sse0NOymon\n\n#이달의소녀 #LOONA #LOONATHEWORLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sse0NOymon",
+					"expanded_url": "https://n.news.naver.com/entertain/article/144/0000842883",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984944,
+			"friends_count": 3,
+			"listed_count": 8968,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀 월드투어, 서울에서 화려한 피날레\n\n▶️ https://t.co/sse0NOymon\n\n#이달의소녀 #LOONA #LOONATHEWORLD"
+	},
+	{
+		"created_at": "Mon Oct 17 07:54:43 +0000 2022",
+		"id": 1581915114575663000,
+		"id_str": "1581916602982809600",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀, 환희로 시작해 감동으로 '월드투어' 종료\n\n▶️ https://t.co/MJg3cwPRty\n\n#이달의소녀 #LOONA #LOONATHEWORLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONATHEWORLD",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJg3cwPRty",
+					"expanded_url": "https://n.news.naver.com/entertain/article/437/0000317830",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984944,
+			"friends_count": 3,
+			"listed_count": 8968,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1655716427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀, 환희로 시작해 감동으로 '월드투어' 종료\n\n▶️ https://t.co/MJg3cwPRty\n\n#이달의소녀 #LOONA #LOONATHEWORLD"
+	},
+	{
+		"created_at": "Mon Oct 17 07:40:30 +0000 2022",
+		"id": 1581911800584769500,
+		"id_str": "1581913023610245120",
+		"full_text": "프라이머를 바른 듯 모공과 요철을 커버해주어\n더욱 자연스럽게 보송하게 물들여주는 프라이밍베일치크\n\nhttps://t.co/Au7Guk2QTU https://t.co/58g886v0mw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Au7Guk2QTU",
+					"expanded_url": "https://www.instagram.com/p/CjzZTDwBo8X/",
+					"display_url": "instagram.com/p/CjzZTDwBo8X/",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581911752555769900,
+					"id_str": "1581911752555769856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQUW40aMAAbjYZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQUW40aMAAbjYZ.jpg",
+					"url": "https://t.co/58g886v0mw",
+					"display_url": "pic.twitter.com/58g886v0mw",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1581911800584769539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581911752555769900,
+					"id_str": "1581911752555769856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQUW40aMAAbjYZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQUW40aMAAbjYZ.jpg",
+					"url": "https://t.co/58g886v0mw",
+					"display_url": "pic.twitter.com/58g886v0mw",
+					"expanded_url": "https://twitter.com/_sskofficial/status/1581911800584769539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/bKrpEfAnwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKrpEfAnwn",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5162,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484002343322406914/u6Guwu6F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1642648706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라이머를 바른 듯 모공과 요철을 커버해주어\n더욱 자연스럽게 보송하게 물들여주는 프라이밍베일치크\n\nhttps://t.co/Au7Guk2QTU https://t.co/58g886v0mw"
+	},
+	{
+		"created_at": "Mon Oct 17 07:40:27 +0000 2022",
+		"id": 1581574572457209900,
+		"id_str": "1581913014407950337",
+		"full_text": "CONFUSEDD !!! https://t.co/jSOj25G3Vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581574566446497800,
+					"id_str": "1581574566446497794",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLhsErWAAI2cyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLhsErWAAI2cyK.jpg",
+					"url": "https://t.co/jSOj25G3Vf",
+					"display_url": "pic.twitter.com/jSOj25G3Vf",
+					"expanded_url": "https://twitter.com/cat_auras/status/1581574572457209861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581574566446497800,
+					"id_str": "1581574566446497794",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLhsErWAAI2cyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLhsErWAAI2cyK.jpg",
+					"url": "https://t.co/jSOj25G3Vf",
+					"display_url": "pic.twitter.com/jSOj25G3Vf",
+					"expanded_url": "https://twitter.com/cat_auras/status/1581574572457209861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1545,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1538153792373334000,
+			"id_str": "1538153792373334017",
+			"name": "cat with confusing auras.",
+			"screen_name": "cat_auras",
+			"location": "",
+			"description": "Even cat can confuse “us”. | dm for credit or removal.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378990,
+			"friends_count": 12,
+			"listed_count": 918,
+			"created_at": "Sat Jun 18 13:37:22 +0000 2022",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575486829356122115/K9zDF6YG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575486829356122115/K9zDF6YG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1538153792373334017/1664460319",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12188,
+		"favorite_count": 94719,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CONFUSEDD !!! https://t.co/jSOj25G3Vf"
+	},
+	{
+		"created_at": "Mon Oct 17 07:40:18 +0000 2022",
+		"id": 1581900913165602800,
+		"id_str": "1581912975166046208",
+		"full_text": "Acid Angel from Asia &lt;ACCESS&gt; B VER.\n\n예약판매 안내\n\nYES24 : https://t.co/2cJzMImieN\n핫트랙스 : https://t.co/hH5JyTN6mL\n인터파크 : https://t.co/x9pkTdFPTa\n신나라 : https://t.co/svscyjLdfd\n알라딘 : https://t.co/SLW2wYTRPm\n\n#tripleS #트리플에스 #AcidAngelfromAsia\n#ACCESS https://t.co/fnX1lQ7T4P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						224,
+						242
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2cJzMImieN",
+					"expanded_url": "https://bit.ly/3TohRzK",
+					"display_url": "bit.ly/3TohRzK",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/hH5JyTN6mL",
+					"expanded_url": "https://bit.ly/3VKucR1",
+					"display_url": "bit.ly/3VKucR1",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/x9pkTdFPTa",
+					"expanded_url": "https://bit.ly/3MD1MnR",
+					"display_url": "bit.ly/3MD1MnR",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/svscyjLdfd",
+					"expanded_url": "https://bit.ly/3VypJAz",
+					"display_url": "bit.ly/3VypJAz",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/SLW2wYTRPm",
+					"expanded_url": "https://bit.ly/3yKUV5V",
+					"display_url": "bit.ly/3yKUV5V",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581900205888528400,
+					"id_str": "1581900205888528387",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQJ2yIaYAMMm1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQJ2yIaYAMMm1E.jpg",
+					"url": "https://t.co/fnX1lQ7T4P",
+					"display_url": "pic.twitter.com/fnX1lQ7T4P",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581900913165602817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 126,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581900205888528400,
+					"id_str": "1581900205888528387",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQJ2yIaYAMMm1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQJ2yIaYAMMm1E.jpg",
+					"url": "https://t.co/fnX1lQ7T4P",
+					"display_url": "pic.twitter.com/fnX1lQ7T4P",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581900913165602817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 126,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1581900906987389000,
+		"in_reply_to_status_id_str": "1581900906987388928",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15521,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Acid Angel from Asia &lt;ACCESS&gt; B VER.\n\n예약판매 안내\n\nYES24 : https://t.co/2cJzMImieN\n핫트랙스 : https://t.co/hH5JyTN6mL\n인터파크 : https://t.co/x9pkTdFPTa\n신나라 : https://t.co/svscyjLdfd\n알라딘 : https://t.co/SLW2wYTRPm\n\n#tripleS #트리플에스 #AcidAngelfromAsia\n#ACCESS https://t.co/fnX1lQ7T4P"
+	},
+	{
+		"created_at": "Mon Oct 17 07:40:15 +0000 2022",
+		"id": 1581900906987389000,
+		"id_str": "1581912961810976769",
+		"full_text": "Acid Angel from Asia &lt;ACCESS&gt; A VER.\n\n예약판매 안내\n\nYES24 : https://t.co/4yTBIpbl8T\n핫트랙스 : https://t.co/9ucGEDpmuu\n인터파크 : https://t.co/TFi95W2RXa\n신나라 : https://t.co/JDED38eqjm\n알라딘: https://t.co/cS2jS4g6pI\n\n#tripleS #트리플에스 #AcidAngelfromAsia \n#ACCESS https://t.co/OLNVuc8zYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tripleS",
+					"indices": [
+						207,
+						215
+					]
+				},
+				{
+					"text": "트리플에스",
+					"indices": [
+						216,
+						222
+					]
+				},
+				{
+					"text": "AcidAngelfromAsia",
+					"indices": [
+						223,
+						241
+					]
+				},
+				{
+					"text": "ACCESS",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yTBIpbl8T",
+					"expanded_url": "https://bit.ly/3eBzeyl",
+					"display_url": "bit.ly/3eBzeyl",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/9ucGEDpmuu",
+					"expanded_url": "https://bit.ly/3rWMReF",
+					"display_url": "bit.ly/3rWMReF",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/TFi95W2RXa",
+					"expanded_url": "https://bit.ly/3s1rOHO",
+					"display_url": "bit.ly/3s1rOHO",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/JDED38eqjm",
+					"expanded_url": "https://url.kr/ldrm45",
+					"display_url": "url.kr/ldrm45",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/cS2jS4g6pI",
+					"expanded_url": "https://bit.ly/3T70fsv",
+					"display_url": "bit.ly/3T70fsv",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581900248494276600,
+					"id_str": "1581900248494276608",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQJ5Q2agAAkw9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQJ5Q2agAAkw9J.jpg",
+					"url": "https://t.co/OLNVuc8zYC",
+					"display_url": "pic.twitter.com/OLNVuc8zYC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581900906987388928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 126,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581900248494276600,
+					"id_str": "1581900248494276608",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQJ5Q2agAAkw9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQJ5Q2agAAkw9J.jpg",
+					"url": "https://t.co/OLNVuc8zYC",
+					"display_url": "pic.twitter.com/OLNVuc8zYC",
+					"expanded_url": "https://twitter.com/triplescosmos/status/1581900906987388928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 126,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 223,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 381,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1581900899357954000,
+		"in_reply_to_status_id_str": "1581900899357954048",
+		"in_reply_to_user_id": 1509037477369024500,
+		"in_reply_to_user_id_str": "1509037477369024517",
+		"in_reply_to_screen_name": "triplescosmos",
+		"user": {
+			"id": 1509037477369024500,
+			"id_str": "1509037477369024517",
+			"name": "tripleS official",
+			"screen_name": "triplescosmos",
+			"location": "",
+			"description": "tripleS official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15521,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Wed Mar 30 05:19:14 +0000 2022",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568977752501678081/6kQiFXx8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1509037477369024517/1662980418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Acid Angel from Asia &lt;ACCESS&gt; A VER.\n\n예약판매 안내\n\nYES24 : https://t.co/4yTBIpbl8T\n핫트랙스 : https://t.co/9ucGEDpmuu\n인터파크 : https://t.co/TFi95W2RXa\n신나라 : https://t.co/JDED38eqjm\n알라딘: https://t.co/cS2jS4g6pI\n\n#tripleS #트리플에스 #AcidAngelfromAsia \n#ACCESS https://t.co/OLNVuc8zYC"
+	},
+	{
 		"created_at": "Mon Oct 17 06:40:09 +0000 2022",
 		"id": 1581887784000028700,
 		"id_str": "1581897839914799104",
