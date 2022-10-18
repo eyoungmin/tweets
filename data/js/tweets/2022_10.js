@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 05:40:10 +0000 2022",
+		"id": 1582236466788577300,
+		"id_str": "1582245131268157440",
+		"full_text": "업튼 싱클레어의 [정글] 이야기잖아요.\n\nhttps://t.co/BqjxziYF2S https://t.co/VTocWP5pde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqjxziYF2S",
+					"expanded_url": "https://www.aladin.co.kr/m/mproduct.aspx?ItemId=3963501",
+					"display_url": "aladin.co.kr/m/mproduct.asp…",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/VTocWP5pde",
+					"expanded_url": "https://twitter.com/matrenin_dvor/status/1582003577551486979",
+					"display_url": "twitter.com/matrenin_dvor/…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "항상성, 찢어진 종잇조각의 신, 평형추, 콩알이를 지켜라!, 아발론, 셰익스피어의 숲, 지우와 수완, 며칠 늦게 죽을 수도 있지, 화성의 칼, 옛날 영화, 이 좋은 걸 이제 알았다니, 외계 달팽이의 무덤, 그 겨울, 손탁 호텔에서, 브로콜리 평원의 혈투, 제저벨, 거북과 용과 새",
+			"url": "https://t.co/H2DSFlT0B2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H2DSFlT0B2",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81448,
+			"friends_count": 238,
+			"listed_count": 548,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 453668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1622309931",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1582003577551487000,
+		"quoted_status_id_str": "1582003577551486979",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VTocWP5pde",
+			"expanded": "https://twitter.com/matrenin_dvor/status/1582003577551486979",
+			"display": "twitter.com/matrenin_dvor/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 17 13:40:19 +0000 2022",
+			"id": 1582003577551487000,
+			"id_str": "1582003577551486979",
+			"full_text": "SPC는 그러니까 직원이 사망한 사고 현장을 남은 직원들이 수습한 것이 아니라 기계에 낀 이물질을 제거한 것이로군. 그러니 제거 후 바로 다시 공장이 돌아가야 한다고 생각하겠지. 이렇게 역겨운 기업은 끝장을 내버려야 함.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 368212732,
+				"id_str": "368212732",
+				"name": "마뜨료나의 짐",
+				"screen_name": "matrenin_dvor",
+				"location": "안전안심의 기시다 코인 광산",
+				"description": "미래의 사위에게 보여주기 위한 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4978,
+				"friends_count": 1304,
+				"listed_count": 36,
+				"created_at": "Mon Sep 05 08:18:14 +0000 2011",
+				"favourites_count": 11393,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42919,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/368212732/1594012117",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1081,
+			"favorite_count": 426,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 35,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "업튼 싱클레어의 [정글] 이야기잖아요.\n\nhttps://t.co/BqjxziYF2S https://t.co/VTocWP5pde"
+	},
+	{
 		"created_at": "Tue Oct 18 04:40:23 +0000 2022",
 		"id": 1582217298055954400,
 		"id_str": "1582230084500410368",
